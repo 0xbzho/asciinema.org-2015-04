@@ -1,0 +1,6914 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 32,
+  "duration": 149.757067,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.701173,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000032,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;.._presentation\u0007"
+    ],
+    [
+      0.013172,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msvm_presentation \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000159,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.702496,
+      "g"
+    ],
+    [
+      0.071424,
+      "\u0008gi"
+    ],
+    [
+      0.095353,
+      "t"
+    ],
+    [
+      0.096593,
+      " "
+    ],
+    [
+      0.911307,
+      "c"
+    ],
+    [
+      0.080177,
+      "h"
+    ],
+    [
+      0.080101,
+      "e"
+    ],
+    [
+      0.055729,
+      "c"
+    ],
+    [
+      0.360102,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127935,
+      "\u0008 \u0008"
+    ],
+    [
+      0.119836,
+      "\u0008 \u0008"
+    ],
+    [
+      0.184333,
+      "l"
+    ],
+    [
+      0.175876,
+      "o"
+    ],
+    [
+      0.071930,
+      "n"
+    ],
+    [
+      0.120172,
+      "e"
+    ],
+    [
+      0.136217,
+      " "
+    ],
+    [
+      0.273121,
+      "g"
+    ],
+    [
+      0.000077,
+      "i"
+    ],
+    [
+      0.000092,
+      "t"
+    ],
+    [
+      0.000117,
+      "@"
+    ],
+    [
+      0.000039,
+      "g"
+    ],
+    [
+      0.000071,
+      "i"
+    ],
+    [
+      0.000091,
+      "t"
+    ],
+    [
+      0.000053,
+      "h"
+    ],
+    [
+      0.000070,
+      "u"
+    ],
+    [
+      0.000081,
+      "b"
+    ],
+    [
+      0.000072,
+      "."
+    ],
+    [
+      0.000069,
+      "c"
+    ],
+    [
+      0.000081,
+      "o"
+    ],
+    [
+      0.000068,
+      "m"
+    ],
+    [
+      0.000068,
+      ":"
+    ],
+    [
+      0.000065,
+      "c"
+    ],
+    [
+      0.000072,
+      "j"
+    ],
+    [
+      0.000087,
+      "l"
+    ],
+    [
+      0.000054,
+      "i"
+    ],
+    [
+      0.000069,
+      "n"
+    ],
+    [
+      0.000073,
+      "1"
+    ],
+    [
+      0.000080,
+      "/"
+    ],
+    [
+      0.000060,
+      "l"
+    ],
+    [
+      0.000060,
+      "i"
+    ],
+    [
+      0.000060,
+      "b"
+    ],
+    [
+      0.000060,
+      "s"
+    ],
+    [
+      0.000060,
+      "v"
+    ],
+    [
+      0.000060,
+      "m"
+    ],
+    [
+      0.000059,
+      "."
+    ],
+    [
+      0.000060,
+      "g"
+    ],
+    [
+      0.000060,
+      "i"
+    ],
+    [
+      0.000060,
+      "t"
+    ],
+    [
+      1.004303,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000075,
+      "\r\r\n"
+    ],
+    [
+      0.001889,
+      "\u001b]2;git clone git@github.com:cjlin1/libsvm.git\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.005926,
+      "Cloning into 'libsvm'...\r\n"
+    ],
+    [
+      0.534281,
+      "remote: Counting objects: 3386, done.\u001b[K\r\n"
+    ],
+    [
+      0.000476,
+      "Receiving objects:   0% (1/3386)   \r"
+    ],
+    [
+      0.001136,
+      "Receiving objects:   1% (34/3386)   \r"
+    ],
+    [
+      0.001159,
+      "Receiving objects:   2% (68/3386)   \r"
+    ],
+    [
+      0.001153,
+      "Receiving objects:   3% (102/3386)   \r"
+    ],
+    [
+      0.007109,
+      "Receiving objects:   4% (136/3386)   \r"
+    ],
+    [
+      0.012328,
+      "Receiving objects:   5% (170/3386)   \r"
+    ],
+    [
+      0.001539,
+      "Receiving objects:   6% (204/3386)   \r"
+    ],
+    [
+      0.001464,
+      "Receiving objects:   7% (238/3386)   \r"
+    ],
+    [
+      0.001265,
+      "Receiving objects:   8% (271/3386)   \r"
+    ],
+    [
+      0.001192,
+      "Receiving objects:   9% (305/3386)   \r"
+    ],
+    [
+      0.007156,
+      "Receiving objects:  10% (339/3386)   \r"
+    ],
+    [
+      0.001385,
+      "Receiving objects:  11% (373/3386)   \r"
+    ],
+    [
+      0.001250,
+      "Receiving objects:  12% (407/3386)   \r"
+    ],
+    [
+      0.001163,
+      "Receiving objects:  13% (441/3386)   \r"
+    ],
+    [
+      0.001072,
+      "Receiving objects:  14% (475/3386)   \r"
+    ],
+    [
+      0.019474,
+      "Receiving objects:  15% (508/3386)   \r"
+    ],
+    [
+      0.001780,
+      "Receiving objects:  16% (542/3386)   \r"
+    ],
+    [
+      0.001447,
+      "Receiving objects:  17% (576/3386)   \r"
+    ],
+    [
+      0.001256,
+      "Receiving objects:  18% (610/3386)   \r"
+    ],
+    [
+      0.001319,
+      "Receiving objects:  19% (644/3386)   \r"
+    ],
+    [
+      0.006924,
+      "Receiving objects:  20% (678/3386)   \r"
+    ],
+    [
+      0.001577,
+      "Receiving objects:  21% (712/3386)   \r"
+    ],
+    [
+      0.001341,
+      "Receiving objects:  22% (745/3386)   \r"
+    ],
+    [
+      0.001223,
+      "Receiving objects:  23% (779/3386)   \r"
+    ],
+    [
+      0.001215,
+      "Receiving objects:  24% (813/3386)   \r"
+    ],
+    [
+      0.007923,
+      "Receiving objects:  25% (847/3386)   \r"
+    ],
+    [
+      0.001359,
+      "Receiving objects:  26% (881/3386)   \r"
+    ],
+    [
+      0.001215,
+      "Receiving objects:  27% (915/3386)   \r"
+    ],
+    [
+      0.001218,
+      "Receiving objects:  28% (949/3386)   \r"
+    ],
+    [
+      0.001081,
+      "Receiving objects:  29% (982/3386)   \r"
+    ],
+    [
+      0.049416,
+      "Receiving objects:  30% (1016/3386)   \r"
+    ],
+    [
+      0.014430,
+      "Receiving objects:  31% (1050/3386)   \r"
+    ],
+    [
+      0.002558,
+      "Receiving objects:  32% (1084/3386)   \r"
+    ],
+    [
+      0.167778,
+      "Receiving objects:  33% (1118/3386)   \r"
+    ],
+    [
+      0.024199,
+      "Receiving objects:  34% (1152/3386)   \r"
+    ],
+    [
+      0.033296,
+      "Receiving objects:  35% (1186/3386)   \r"
+    ],
+    [
+      0.000176,
+      "Receiving objects:  36% (1219/3386)   \r"
+    ],
+    [
+      0.087729,
+      "Receiving objects:  37% (1253/3386)   \r"
+    ],
+    [
+      0.000356,
+      "Receiving objects:  38% (1287/3386)   \r"
+    ],
+    [
+      0.004757,
+      "Receiving objects:  39% (1321/3386)   \r"
+    ],
+    [
+      0.035020,
+      "Receiving objects:  40% (1355/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.002228,
+      "Receiving objects:  41% (1389/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.015661,
+      "Receiving objects:  42% (1423/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.023931,
+      "Receiving objects:  43% (1456/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.020609,
+      "Receiving objects:  44% (1490/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000155,
+      "Receiving objects:  45% (1524/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.030876,
+      "Receiving objects:  46% (1558/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.018442,
+      "Receiving objects:  47% (1592/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.025564,
+      "Receiving objects:  48% (1626/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.005787,
+      "Receiving objects:  49% (1660/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000342,
+      "Receiving objects:  50% (1693/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.017575,
+      "Receiving objects:  51% (1727/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000695,
+      "Receiving objects:  52% (1761/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.059045,
+      "Receiving objects:  53% (1795/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.016713,
+      "Receiving objects:  54% (1829/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.003658,
+      "Receiving objects:  55% (1863/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.001295,
+      "Receiving objects:  56% (1897/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.024049,
+      "Receiving objects:  57% (1931/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.005430,
+      "Receiving objects:  58% (1964/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.002703,
+      "Receiving objects:  59% (1998/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.022677,
+      "Receiving objects:  60% (2032/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000561,
+      "Receiving objects:  61% (2066/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000489,
+      "Receiving objects:  62% (2100/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.054537,
+      "Receiving objects:  63% (2134/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.031921,
+      "Receiving objects:  64% (2168/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000590,
+      "Receiving objects:  65% (2201/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000329,
+      "Receiving objects:  66% (2235/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.001982,
+      "Receiving objects:  67% (2269/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.050590,
+      "Receiving objects:  68% (2303/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.001084,
+      "Receiving objects:  69% (2337/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000514,
+      "Receiving objects:  70% (2371/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.001064,
+      "Receiving objects:  71% (2405/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000782,
+      "Receiving objects:  72% (2438/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000270,
+      "Receiving objects:  73% (2472/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.033215,
+      "Receiving objects:  74% (2506/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000449,
+      "Receiving objects:  75% (2540/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.014094,
+      "Receiving objects:  75% (2571/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  76% (2574/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.003210,
+      "Receiving objects:  77% (2608/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.000301,
+      "Receiving objects:  78% (2642/3386), 1.50 MiB | 2.95 MiB/s   \r"
+    ],
+    [
+      0.029488,
+      "Receiving objects:  79% (2675/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000495,
+      "Receiving objects:  80% (2709/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000540,
+      "Receiving objects:  81% (2743/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.040955,
+      "Receiving objects:  82% (2777/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.002112,
+      "Receiving objects:  83% (2811/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000486,
+      "Receiving objects:  84% (2845/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.005211,
+      "Receiving objects:  85% (2879/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.002239,
+      "Receiving objects:  86% (2912/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.022159,
+      "Receiving objects:  87% (2946/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.002972,
+      "Receiving objects:  88% (2980/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000393,
+      "Receiving objects:  89% (3014/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.024650,
+      "Receiving objects:  90% (3048/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.015557,
+      "Receiving objects:  91% (3082/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000560,
+      "Receiving objects:  92% (3116/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.027122,
+      "Receiving objects:  93% (3149/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000879,
+      "Receiving objects:  94% (3183/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.001825,
+      "Receiving objects:  95% (3217/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.002773,
+      "Receiving objects:  96% (3251/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000532,
+      "remote: Total 3386 (delta 0), reused 0 (delta 0), pack-reused 3386\u001b[K\r\n"
+    ],
+    [
+      0.000100,
+      "Receiving objects:  97% (3285/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.001203,
+      "Receiving objects:  98% (3319/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000479,
+      "Receiving objects:  99% (3353/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000255,
+      "Receiving objects: 100% (3386/3386), 4.11 MiB | 4.07 MiB/s   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects: 100% (3386/3386), 5.01 MiB | 4.07 MiB/s, done.\r\n"
+    ],
+    [
+      0.000425,
+      "Resolving deltas:   0% (0/1786)   \r"
+    ],
+    [
+      0.002019,
+      "Resolving deltas:   1% (18/1786)   \r"
+    ],
+    [
+      0.000991,
+      "Resolving deltas:   2% (36/1786)   \r"
+    ],
+    [
+      0.001010,
+      "Resolving deltas:   3% (59/1786)   \r"
+    ],
+    [
+      0.000857,
+      "Resolving deltas:   4% (85/1786)   \r"
+    ],
+    [
+      0.000933,
+      "Resolving deltas:   6% (111/1786)   \r"
+    ],
+    [
+      0.001696,
+      "Resolving deltas:   8% (153/1786)   \r"
+    ],
+    [
+      0.000262,
+      "Resolving deltas:   9% (161/1786)   \r"
+    ],
+    [
+      0.002859,
+      "Resolving deltas:  13% (234/1786)   \r"
+    ],
+    [
+      0.000674,
+      "Resolving deltas:  14% (252/1786)   \r"
+    ],
+    [
+      0.001114,
+      "Resolving deltas:  16% (288/1786)   \r"
+    ],
+    [
+      0.000780,
+      "Resolving deltas:  17% (314/1786)   \r"
+    ],
+    [
+      0.000330,
+      "Resolving deltas:  18% (326/1786)   \r"
+    ],
+    [
+      0.000536,
+      "Resolving deltas:  19% (344/1786)   \r"
+    ],
+    [
+      0.001030,
+      "Resolving deltas:  20% (373/1786)   \r"
+    ],
+    [
+      0.000327,
+      "Resolving deltas:  21% (381/1786)   \r"
+    ],
+    [
+      0.000437,
+      "Resolving deltas:  22% (396/1786)   \r"
+    ],
+    [
+      0.000469,
+      "Resolving deltas:  23% (411/1786)   \r"
+    ],
+    [
+      0.000542,
+      "Resolving deltas:  24% (429/1786)   \r"
+    ],
+    [
+      0.000591,
+      "Resolving deltas:  25% (451/1786)   \r"
+    ],
+    [
+      0.000414,
+      "Resolving deltas:  26% (465/1786)   \r"
+    ],
+    [
+      0.001603,
+      "Resolving deltas:  27% (490/1786)   \r"
+    ],
+    [
+      0.002113,
+      "Resolving deltas:  31% (558/1786)   \r"
+    ],
+    [
+      0.001355,
+      "Resolving deltas:  32% (578/1786)   \r"
+    ],
+    [
+      0.001906,
+      "Resolving deltas:  34% (608/1786)   \r"
+    ],
+    [
+      0.007387,
+      "Resolving deltas:  39% (698/1786)   \r"
+    ],
+    [
+      0.001717,
+      "Resolving deltas:  40% (721/1786)   \r"
+    ],
+    [
+      0.000520,
+      "Resolving deltas:  41% (736/1786)   \r"
+    ],
+    [
+      0.000758,
+      "Resolving deltas:  42% (756/1786)   \r"
+    ],
+    [
+      0.000566,
+      "Resolving deltas:  43% (770/1786)   \r"
+    ],
+    [
+      0.000642,
+      "Resolving deltas:  44% (790/1786)   \r"
+    ],
+    [
+      0.000614,
+      "Resolving deltas:  45% (811/1786)   \r"
+    ],
+    [
+      0.000395,
+      "Resolving deltas:  46% (824/1786)   \r"
+    ],
+    [
+      0.000430,
+      "Resolving deltas:  47% (840/1786)   \r"
+    ],
+    [
+      0.001043,
+      "Resolving deltas:  48% (864/1786)   \r"
+    ],
+    [
+      0.000476,
+      "Resolving deltas:  49% (879/1786)   \r"
+    ],
+    [
+      0.000644,
+      "Resolving deltas:  50% (901/1786)   \r"
+    ],
+    [
+      0.000391,
+      "Resolving deltas:  51% (913/1786)   \r"
+    ],
+    [
+      0.000987,
+      "Resolving deltas:  52% (941/1786)   \r"
+    ],
+    [
+      0.000412,
+      "Resolving deltas:  53% (950/1786)   \r"
+    ],
+    [
+      0.000674,
+      "Resolving deltas:  54% (968/1786)   \r"
+    ],
+    [
+      0.000479,
+      "Resolving deltas:  55% (984/1786)   \r"
+    ],
+    [
+      0.000590,
+      "Resolving deltas:  56% (1007/1786)   \r"
+    ],
+    [
+      0.000359,
+      "Resolving deltas:  57% (1020/1786)   \r"
+    ],
+    [
+      0.000593,
+      "Resolving deltas:  58% (1038/1786)   \r"
+    ],
+    [
+      0.000582,
+      "Resolving deltas:  59% (1063/1786)   \r"
+    ],
+    [
+      0.001194,
+      "Resolving deltas:  60% (1078/1786)   \r"
+    ],
+    [
+      0.002115,
+      "Resolving deltas:  61% (1103/1786)   \r"
+    ],
+    [
+      0.000429,
+      "Resolving deltas:  62% (1116/1786)   \r"
+    ],
+    [
+      0.000346,
+      "Resolving deltas:  63% (1127/1786)   \r"
+    ],
+    [
+      0.000571,
+      "Resolving deltas:  64% (1147/1786)   \r"
+    ],
+    [
+      0.000448,
+      "Resolving deltas:  65% (1162/1786)   \r"
+    ],
+    [
+      0.000504,
+      "Resolving deltas:  66% (1179/1786)   \r"
+    ],
+    [
+      0.000550,
+      "Resolving deltas:  67% (1198/1786)   \r"
+    ],
+    [
+      0.001104,
+      "Resolving deltas:  68% (1215/1786)   \r"
+    ],
+    [
+      0.000749,
+      "Resolving deltas:  69% (1240/1786)   \r"
+    ],
+    [
+      0.000870,
+      "Resolving deltas:  70% (1251/1786)   \r"
+    ],
+    [
+      0.001883,
+      "Resolving deltas:  71% (1275/1786)   \r"
+    ],
+    [
+      0.000343,
+      "Resolving deltas:  72% (1286/1786)   \r"
+    ],
+    [
+      0.000863,
+      "Resolving deltas:  73% (1305/1786)   \r"
+    ],
+    [
+      0.001067,
+      "Resolving deltas:  74% (1328/1786)   \r"
+    ],
+    [
+      0.000480,
+      "Resolving deltas:  75% (1342/1786)   \r"
+    ],
+    [
+      0.000638,
+      "Resolving deltas:  76% (1362/1786)   \r"
+    ],
+    [
+      0.000582,
+      "Resolving deltas:  77% (1382/1786)   \r"
+    ],
+    [
+      0.000577,
+      "Resolving deltas:  78% (1398/1786)   \r"
+    ],
+    [
+      0.000531,
+      "Resolving deltas:  79% (1411/1786)   \r"
+    ],
+    [
+      0.001282,
+      "Resolving deltas:  80% (1431/1786)   \r"
+    ],
+    [
+      0.000488,
+      "Resolving deltas:  81% (1448/1786)   \r"
+    ],
+    [
+      0.000476,
+      "Resolving deltas:  82% (1467/1786)   \r"
+    ],
+    [
+      0.000907,
+      "Resolving deltas:  83% (1483/1786)   \r"
+    ],
+    [
+      0.000892,
+      "Resolving deltas:  84% (1501/1786)   \r"
+    ],
+    [
+      0.000541,
+      "Resolving deltas:  85% (1522/1786)   \r"
+    ],
+    [
+      0.000482,
+      "Resolving deltas:  86% (1540/1786)   \r"
+    ],
+    [
+      0.000453,
+      "Resolving deltas:  87% (1554/1786)   \r"
+    ],
+    [
+      0.000700,
+      "Resolving deltas:  88% (1578/1786)   \r"
+    ],
+    [
+      0.000510,
+      "Resolving deltas:  89% (1595/1786)   \r"
+    ],
+    [
+      0.000739,
+      "Resolving deltas:  90% (1608/1786)   \r"
+    ],
+    [
+      0.000494,
+      "Resolving deltas:  91% (1627/1786)   \r"
+    ],
+    [
+      0.000542,
+      "Resolving deltas:  92% (1648/1786)   \r"
+    ],
+    [
+      0.000463,
+      "Resolving deltas:  93% (1664/1786)   \r"
+    ],
+    [
+      0.000423,
+      "Resolving deltas:  94% (1679/1786)   \r"
+    ],
+    [
+      0.000538,
+      "Resolving deltas:  95% (1698/1786)   \r"
+    ],
+    [
+      0.000442,
+      "Resolving deltas:  96% (1715/1786)   \r"
+    ],
+    [
+      0.000655,
+      "Resolving deltas:  97% (1736/1786)   \r"
+    ],
+    [
+      0.000469,
+      "Resolving deltas:  98% (1752/1786)   \r"
+    ],
+    [
+      0.000783,
+      "Resolving deltas:  99% (1780/1786)   \r"
+    ],
+    [
+      0.000126,
+      "Resolving deltas: 100% (1786/1786)   \r"
+    ],
+    [
+      0.000041,
+      "Resolving deltas: 100% (1786/1786), done.\r\n"
+    ],
+    [
+      0.059384,
+      "Checking connectivity... "
+    ],
+    [
+      0.004852,
+      "done.\r\n"
+    ],
+    [
+      0.022166,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000104,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;.._presentation\u0007"
+    ],
+    [
+      0.010914,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msvm_presentation \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.547476,
+      "c"
+    ],
+    [
+      0.055481,
+      "\u0008cd"
+    ],
+    [
+      0.128312,
+      "l"
+    ],
+    [
+      0.063612,
+      "i"
+    ],
+    [
+      0.258412,
+      "\u0007"
+    ],
+    [
+      0.389764,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111548,
+      "\u0008 \u0008"
+    ],
+    [
+      0.104652,
+      " "
+    ],
+    [
+      0.100808,
+      "\u0007"
+    ],
+    [
+      0.000049,
+      "\r\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[J\u001b[1;31mdata\u001b[0m/          \u001b[J\u001b[1;31mlibsvm\u001b[0m/        \u001b[J\u001b[1;31mmodels\u001b[0m/        \u001b[J\u001b[1;31mpresentation\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[21Ccd\u001b[K\u001b[1C"
+    ],
+    [
+      0.154735,
+      "l"
+    ],
+    [
+      0.043438,
+      "i"
+    ],
+    [
+      0.552055,
+      "bsvm\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.500551,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000072,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000037,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000847,
+      "\u001b]2;cd libsvm\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.018099,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000040,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.022870,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000129,
+      "\u001b[K"
+    ],
+    [
+      0.000127,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.537233,
+      "m"
+    ],
+    [
+      0.055503,
+      "\u0008ma"
+    ],
+    [
+      0.101020,
+      "k"
+    ],
+    [
+      0.104034,
+      "e"
+    ],
+    [
+      0.263913,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000047,
+      "\r\r\n"
+    ],
+    [
+      0.000883,
+      "\u001b]2;make\u0007\u001b]1;make\u0007"
+    ],
+    [
+      0.014976,
+      "c++ -Wall -Wconversion -O3 -fPIC -c svm.cpp\r\n"
+    ],
+    [
+      0.439306,
+      "\u001b[1msvm.cpp:96:26: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m"
+    ],
+    [
+      0.000332,
+      "implicit conversion changes signedness: 'int' to 'size_t'\r\n      (aka 'unsigned long') [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.001637,
+      "        head = (head_t *)calloc(l,sizeof(head_t));      // initialized to 0\r\n\u001b[0;1;32m                         ~~~~~~ ^\r\n\u001b[0m"
+    ],
+    [
+      0.000068,
+      "\u001b[1msvm.cpp:98:10: \u001b[0m\u001b[0;1;35mwarning: "
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000060,
+      "        size -= l * sizeof(head_t) / sizeof(Qfloat);\r\n\u001b[0;1;32m                ^ ~\r\n\u001b[0m"
+    ],
+    [
+      0.057518,
+      "\u001b[1msvm.cpp:146:54: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: "
+    ],
+    [
+      0.000009,
+      "'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "                h-\u003edata = (Qfloat *)realloc(h-\u003edata,sizeof(Qfloat)*len);\r\n\u001b[0;1;32m                                                                  ~^~~"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.082819,
+      "\u001b[1msvm.cpp:1651:38: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness:"
+    ],
+    [
+      0.000013,
+      " 'const int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        double *alpha = Malloc(double,prob-\u003el);"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0;1;32m                        ~~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000525,
+      "\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000725,
+      "\u001b[1msvm.cpp:1722:26: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int'"
+    ],
+    [
+      0.000006,
+      " to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "        double *t=Malloc(double,l);\r\n\u001b[0;1;32m                  ~~~~~~~~~~~~~~^~"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "39:40"
+    ],
+    [
+      0.000003,
+      ": \u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;1;30mnote"
+    ],
+    [
+      0.000003,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from"
+    ],
+    [
+      0.000003,
+      " macro "
+    ],
+    [
+      0.000003,
+      "'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000932,
+      "\u001b[1msvm.cpp:1833:29: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int'"
+    ],
+    [
+      0.000006,
+      " to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "        double **Q=Malloc(double *,k);\r\n\u001b[0;1;32m                   ~~~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[1msvm.cpp:39:"
+    ],
+    [
+      0.000003,
+      "40: "
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000003,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000003,
+      " from"
+    ],
+    [
+      0.000002,
+      " macro "
+    ],
+    [
+      0.000003,
+      "'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000591,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[1msvm.cpp:1834:27: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        double *Qp=Malloc(double,k);\r\n\u001b[0;1;32m                   ~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm.cpp:1840:22: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n                Q[t]=Malloc(double,k);\r\n\u001b[0;1;32m                     ~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000283,
+      "\u001b[1msvm.cpp:1899:31: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness:"
+    ],
+    [
+      0.000006,
+      " 'const int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "        int *perm = Malloc(int,prob-\u003el);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000004,
+      "                    ~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[1msvm.cpp"
+    ],
+    [
+      0.000002,
+      ":39:"
+    ],
+    [
+      0.000003,
+      "40: "
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000095,
+      "\u001b[1msvm.cpp:1900:43: \u001b[0m\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000005,
+      ": \u001b[0m\u001b[1mimplicit conversion changes signedness: "
+    ],
+    [
+      0.000003,
+      "'const int' to"
+    ],
+    [
+      0.000003,
+      " 'unsigned long'\r\n"
+    ],
+    [
+      0.000003,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "        double *dec_values = Malloc(double,prob-\u003el);\r\n\u001b[0;1;32m                             ~~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000054,
+      "\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro"
+    ],
+    [
+      0.000007,
+      " 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000269,
+      "\u001b[1msvm.cpp:1917:47: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit "
+    ],
+    [
+      0.000005,
+      "conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "                subprob.x = Malloc(struct svm_node*,subprob.l);\r\n\u001b[0;1;32m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000007,
+      ": \u001b[0mexpanded from macro "
+    ],
+    [
+      0.000003,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000044,
+      "\u001b[1msvm.cpp:1918:37: "
+    ],
+    [
+      0.000004,
+      "\u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion "
+    ],
+    [
+      0.000002,
+      "changes signedness:"
+    ],
+    [
+      0.000002,
+      " 'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "                subprob.y = Malloc(double,subprob.l);\r\n\u001b[0;1;32m                            ~~~~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000749,
+      "\u001b[1msvm.cpp:1985:36: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: "
+    ],
+    [
+      0.000005,
+      "'const int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "        double *ymv = Malloc(double,prob-\u003el);\r\n\u001b[0;1;32m                      ~~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro "
+    ],
+    [
+      0.000003,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000293,
+      "\u001b[1msvm.cpp:2019"
+    ],
+    [
+      0.000004,
+      ":26: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit"
+    ],
+    [
+      0.000002,
+      " conversion "
+    ],
+    [
+      0.000002,
+      "changes signedness:"
+    ],
+    [
+      0.000002,
+      " 'int'"
+    ],
+    [
+      0.000002,
+      " to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n"
+    ],
+    [
+      0.000003,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "        int *label = Malloc(int,max_nr_class);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                     ~~~~~~~~~~~^~~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1msvm.cpp"
+    ],
+    [
+      0.000002,
+      ":39:"
+    ],
+    [
+      0.000002,
+      "40: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000055,
+      "\u001b[1msvm.cpp:2020:26"
+    ],
+    [
+      0.000006,
+      ": \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'"
+    ],
+    [
+      0.000003,
+      "\r\n      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "        int *count = Malloc(int,max_nr_class);\r\n\u001b[0;1;32m                     ~~~~~~~~~~~^~~~~~~~~~~~~"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39"
+    ],
+    [
+      0.000003,
+      ":40: "
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000026,
+      "\u001b[1msvm.cpp:2021:31:"
+    ],
+    [
+      0.000003,
+      " \u001b[0m\u001b[0;1;35mwarning: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1mimplicit "
+    ],
+    [
+      0.000003,
+      "conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness:"
+    ],
+    [
+      0.000002,
+      " 'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "        int *data_label = Malloc(int,l);\r\n\u001b[0;1;32m                          ~~~~~~~~~~~^~"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39:40:"
+    ],
+    [
+      0.000003,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000003,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\u001b[1msvm.cpp:2042:34: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m"
+    ],
+    [
+      0.000004,
+      "implicit conversion changes signedness: 'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000003,
+      "'unsigned long'\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "                                label = (int *)realloc(label,max_nr_class*sizeof(int));\r\n\u001b[0;1;32m                                                             ^~~~~~~~~~~~~\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2043:34: \u001b[0m\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000002,
+      ": \u001b[0m\u001b[1m"
+    ],
+    [
+      0.000002,
+      "implicit "
+    ],
+    [
+      0.000002,
+      "conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness:"
+    ],
+    [
+      0.000002,
+      " 'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000005,
+      "'unsigned long'\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "                                count = (int *)realloc(count,max_nr_class*sizeof(int));\r\n\u001b[0;1;32m                                                             ^~~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000103,
+      "\u001b[1msvm.cpp:2069"
+    ],
+    [
+      0.000004,
+      ":26: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[1mimplicit"
+    ],
+    [
+      0.000002,
+      " conversion changes "
+    ],
+    [
+      0.000002,
+      "signedness: "
+    ],
+    [
+      0.000002,
+      "'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "        int *start = Malloc(int,nr_class);\r\n\u001b[0;1;32m                     ~~~~~~~~~~~^~~~~~~~~\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm.cpp:"
+    ],
+    [
+      0.000002,
+      "39:"
+    ],
+    [
+      0.000002,
+      "40: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000005,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.002778,
+      "\u001b[1msvm.cpp:2126"
+    ],
+    [
+      0.000004,
+      ":33: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit"
+    ],
+    [
+      0.000002,
+      " conversion "
+    ],
+    [
+      0.000002,
+      "changes signedness:"
+    ],
+    [
+      0.000002,
+      " 'int'"
+    ],
+    [
+      0.000002,
+      " to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n"
+    ],
+    [
+      0.000003,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "                model-\u003eSV = Malloc(svm_node *,nSV);\r\n\u001b[0;1;32m                            ~~~~~~~~~~~~~~~~~~^~~~"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm.cpp:"
+    ],
+    [
+      0.000002,
+      "39:"
+    ],
+    [
+      0.000002,
+      "40:"
+    ],
+    [
+      0.000003,
+      " \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000002,
+      "\u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2127:37: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;35mwarning: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000002,
+      "implicit conversion"
+    ],
+    [
+      0.000002,
+      " changes "
+    ],
+    [
+      0.000024,
+      "signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                model-\u003esv_coef[0] = Malloc(double,nSV);\r\n\u001b[0;1;32m                                    ~~~~~~~~~~~~~~^~~~\r\n\u001b[0m\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "39:40: \u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000003,
+      " from "
+    ],
+    [
+      0.000021,
+      "macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000071,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2128:34: \u001b[0m\u001b[0;1;35m"
+    ],
+    [
+      0.000002,
+      "warning: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1mimplicit"
+    ],
+    [
+      0.000002,
+      " conversion "
+    ],
+    [
+      0.000004,
+      "changes "
+    ],
+    [
+      0.000003,
+      "signedness: 'int' to"
+    ],
+    [
+      0.000003,
+      " 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "                model-\u003esv_indices = Malloc(int,nSV);\r\n\u001b[0;1;32m                                    ~~~~~~~~~~~^~~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m"
+    ],
+    [
+      0.000021,
+      "\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000171,
+      "\u001b[1msvm.cpp:2149:26: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion"
+    ],
+    [
+      0.000005,
+      " changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                int *perm = Malloc(int,l);\r\n\u001b[0;1;32m                            ~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000004,
+      "svm.cpp:39:40: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000003,
+      "\u001b[0mexpanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2156:36: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000002,
+      ": \u001b[0m\u001b[1m"
+    ],
+    [
+      0.000004,
+      "implicit conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness:"
+    ],
+    [
+      0.000002,
+      " 'int'"
+    ],
+    [
+      0.000002,
+      " to"
+    ],
+    [
+      0.000002,
+      " 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000033,
+      "                svm_node **x = Malloc(svm_node *,l);\r\n\u001b[0;1;32m                               ~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000006,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000095,
+      "\u001b[1msvm.cpp:2163"
+    ],
+    [
+      0.000006,
+      ":39: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion "
+    ],
+    [
+      0.000003,
+      "changes signedness: 'int'"
+    ],
+    [
+      0.000003,
+      " to 'unsigned long'"
+    ],
+    [
+      0.000003,
+      "\r\n      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "                double *weighted_C = Malloc(double, nr_class);\r\n\u001b[0;1;32m                                     ~~~~~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[1msvm.cpp:39"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000016,
+      "expanded "
+    ],
+    [
+      0.000005,
+      "from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.001604,
+      "\u001b[1msvm.cpp:2180:31: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit "
+    ],
+    [
+      0.000005,
+      "conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000026,
+      "                bool *nonzero = Malloc(bool,l);\r\n\u001b[0;1;32m                                ~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39"
+    ],
+    [
+      0.000005,
+      ":40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000086,
+      "\u001b[1msvm.cpp:2183:72: "
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness:"
+    ],
+    [
+      0.000002,
+      " 'int' to"
+    ],
+    [
+      0.000002,
+      " 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000066,
+      "                decision_function *f = Malloc(decision_function,nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000075,
+      "\u001b[1msvm.cpp:2188:45: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: "
+    ],
+    [
+      0.000004,
+      "'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                        probA=Malloc(double,nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40:"
+    ],
+    [
+      0.000003,
+      " \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\u001b[1msvm.cpp:2189:45: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes"
+    ],
+    [
+      0.000004,
+      " signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000061,
+      "                        probB=Malloc(double,nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000247,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm.cpp:2200:45: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n                                sub_prob.x = Malloc(svm_node *,sub_prob.l);\r\n\u001b[0;1;32m                                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm.cpp:2201:41: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000051,
+      "                                sub_prob.y = Malloc(double,sub_prob.l);\r\n\u001b[0;1;32m                                             ~~~~~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000281,
+      "\u001b[1msvm.cpp:2233:29: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion "
+    ],
+    [
+      0.000005,
+      "changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                model-\u003elabel = Malloc(int,nr_class);\r\n\u001b[0;1;32m                               ~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m\u001b[1msvm.cpp:39:"
+    ],
+    [
+      0.000005,
+      "40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded "
+    ],
+    [
+      0.000003,
+      "from macro 'Malloc'"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000059,
+      "\u001b[1msvm.cpp:2237:51"
+    ],
+    [
+      0.000004,
+      ": \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes"
+    ],
+    [
+      0.000003,
+      " signedness: 'int'"
+    ],
+    [
+      0.000037,
+      " to 'unsigned long'"
+    ],
+    [
+      0.000004,
+      "\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "                model-\u003erho = Malloc(double,nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000003,
+      " from "
+    ],
+    [
+      0.000003,
+      "macro 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2243:54: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;35mwarning: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000003,
+      "implicit conversion"
+    ],
+    [
+      0.000002,
+      " changes signedness: "
+    ],
+    [
+      0.000002,
+      "'int' to"
+    ],
+    [
+      0.000002,
+      " 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000054,
+      "                        model-\u003eprobA = Malloc(double,nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000036,
+      "\u001b[1msvm.cpp:2244:54:"
+    ],
+    [
+      0.000004,
+      " \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness: 'int'"
+    ],
+    [
+      0.000002,
+      " to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "                        model-\u003eprobB = Malloc(double,nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39:"
+    ],
+    [
+      0.000002,
+      "40: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000069,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2258:30: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000002,
+      ": \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1m"
+    ],
+    [
+      0.000002,
+      "implicit "
+    ],
+    [
+      0.000002,
+      "conversion "
+    ],
+    [
+      0.000002,
+      "changes "
+    ],
+    [
+      0.000002,
+      "signedness: 'int'"
+    ],
+    [
+      0.000002,
+      " to"
+    ],
+    [
+      0.000002,
+      " 'unsigned long'\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "                int *nz_count = Malloc(int,nr_class);\r\n\u001b[0;1;32m                                ~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[1msvm.cpp:39:40: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000034,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2259:27:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;35m"
+    ],
+    [
+      0.000002,
+      "warning: \u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[1mimplicit"
+    ],
+    [
+      0.000002,
+      " conversion changes "
+    ],
+    [
+      0.000013,
+      "signedness: "
+    ],
+    [
+      0.000002,
+      "'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "                model-\u003enSV = Malloc(int,nr_class);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                             ~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "39:40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[0;1;30mnote: \u001b[0mexpanded"
+    ],
+    [
+      0.000003,
+      " from macro"
+    ],
+    [
+      0.000003,
+      " 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000125,
+      "\u001b[1msvm.cpp:2276"
+    ],
+    [
+      0.000003,
+      ":33: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m"
+    ],
+    [
+      0.000002,
+      "implicit conversion"
+    ],
+    [
+      0.000002,
+      " changes"
+    ],
+    [
+      0.000002,
+      " signedness: "
+    ],
+    [
+      0.000002,
+      "'int' "
+    ],
+    [
+      0.000002,
+      "to 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "                model-\u003eSV = Malloc(svm_node *,total_sv);\r\n\u001b[0;1;32m                            ~~~~~~~~~~~~~~~~~~^~~~~~~~~"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000003,
+      " 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000035,
+      "\u001b[1msvm.cpp:2277"
+    ],
+    [
+      0.000003,
+      ":34: \u001b[0m\u001b[0;1;35mwarning: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[1mimplicit"
+    ],
+    [
+      0.000004,
+      " conversion changes "
+    ],
+    [
+      0.000002,
+      "signedness: 'int'"
+    ],
+    [
+      0.000002,
+      " to"
+    ],
+    [
+      0.000002,
+      " 'unsigned long'\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "                model-\u003esv_indices = Malloc(int,total_sv);\r\n\u001b[0;1;32m                                    ~~~~~~~~~~~^~~~~~~~~"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000002,
+      "                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000069,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000005,
+      "2286:30: \u001b[0m\u001b[0;1;35m"
+    ],
+    [
+      0.000002,
+      "warning: \u001b[0m\u001b[1mimplicit"
+    ],
+    [
+      0.000002,
+      " conversion "
+    ],
+    [
+      0.000002,
+      "changes signedness:"
+    ],
+    [
+      0.000002,
+      " 'int'"
+    ],
+    [
+      0.000002,
+      " to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "                int *nz_start = Malloc(int,nr_class);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000002,
+      "                                ~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm.cpp:"
+    ],
+    [
+      0.000002,
+      "39:"
+    ],
+    [
+      0.000002,
+      "40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from"
+    ],
+    [
+      0.000002,
+      " macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000071,
+      "\u001b[1msvm.cpp:2291:44"
+    ],
+    [
+      0.000004,
+      ": \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'"
+    ],
+    [
+      0.000003,
+      "\r\n      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "                model-\u003esv_coef = Malloc(double *,nr_class-1);\r\n\u001b[0;1;32m                                 ~~~~~~~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m\u001b[1msvm.cpp:39:"
+    ],
+    [
+      0.000003,
+      "40: \u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000004,
+      " from "
+    ],
+    [
+      0.000003,
+      "macro 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\u001b[1msvm.cpp:2293:"
+    ],
+    [
+      0.000005,
+      "38: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness:"
+    ],
+    [
+      0.000005,
+      " 'int' to"
+    ],
+    [
+      0.000003,
+      " 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "                        model-\u003esv_coef[i] = Malloc(double,total_sv);\r\n\u001b[0;1;32m                                            ~~~~~~~~~~~~~~^~~~~~~~~"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm.cpp:39"
+    ],
+    [
+      0.000003,
+      ":40:"
+    ],
+    [
+      0.000003,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000003,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.006966,
+      "\u001b[1msvm.cpp:2344:25: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to"
+    ],
+    [
+      0.000008,
+      " 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        int *perm = Malloc(int,l);\r\n\u001b[0;1;32m                    ~~~~~~~~~~~^~\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000002,
+      "39:40"
+    ],
+    [
+      0.000003,
+      ": \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000002,
+      "\u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\u001b[1msvm.cpp:2351:33: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: "
+    ],
+    [
+      0.000005,
+      "'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "        fold_start = Malloc(int,nr_fold+1);\r\n\u001b[0;1;32m                     ~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000292,
+      "\u001b[1msvm.cpp:2363:32: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int'"
+    ],
+    [
+      0.000005,
+      " to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                int *fold_count = Malloc(int,nr_fold);\r\n\u001b[0;1;32m                                  ~~~~~~~~~~~^~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded"
+    ],
+    [
+      0.000003,
+      " from macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\u001b[1msvm.cpp:2365"
+    ],
+    [
+      0.000004,
+      ":27: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1mimplicit "
+    ],
+    [
+      0.000002,
+      "conversion changes"
+    ],
+    [
+      0.000003,
+      " signedness: "
+    ],
+    [
+      0.000003,
+      "'int' to"
+    ],
+    [
+      0.000003,
+      " 'unsigned long'\r\n"
+    ],
+    [
+      0.000003,
+      "      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "                int *index = Malloc(int,l);\r\n\u001b[0;1;32m                             ~~~~~~~~~~~^~\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[1msvm.cpp"
+    ],
+    [
+      0.000003,
+      ":39:"
+    ],
+    [
+      0.000003,
+      "40: \u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;1;30mnote: \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000399,
+      "\u001b[1msvm.cpp:2423:47: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int'"
+    ],
+    [
+      0.000005,
+      " to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "                subprob.x = Malloc(struct svm_node*,subprob.l);\r\n\u001b[0;1;32m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39:40: "
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000003,
+      "\u001b[0mexpanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000006,
+      " 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000038,
+      "\u001b[1msvm.cpp:2424"
+    ],
+    [
+      0.000003,
+      ":37: \u001b[0m\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000005,
+      ": \u001b[0m\u001b[1m"
+    ],
+    [
+      0.000003,
+      "implicit conversion changes "
+    ],
+    [
+      0.000003,
+      "signedness: 'int' "
+    ],
+    [
+      0.000003,
+      "to 'unsigned long'\r\n"
+    ],
+    [
+      0.000003,
+      "      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "                subprob.y = Malloc(double,subprob.l);\r\n\u001b[0;1;32m                            ~~~~~~~~~~~~~~~~~~~~~~^~"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000002,
+      "39:40: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000002,
+      "\u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000046,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000287,
+      "\u001b[1msvm.cpp:2443:41: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion"
+    ],
+    [
+      0.000004,
+      " changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "                        double *prob_estimates=Malloc(double,svm_get_nr_class(submodel));\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                                               ~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\u001b[1msvm.cpp:39"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000003,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.002074,
+      "\u001b[1msvm.cpp:2525:"
+    ],
+    [
+      0.000003,
+      "34: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit "
+    ],
+    [
+      0.000002,
+      "conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness: "
+    ],
+    [
+      0.000002,
+      "'int' to"
+    ],
+    [
+      0.000002,
+      " 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "                double *kvalue = Malloc(double,l);\r\n\u001b[0;1;32m                                 ~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000089,
+      "\u001b[1msvm.cpp"
+    ],
+    [
+      0.000004,
+      ":2529:27: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit "
+    ],
+    [
+      0.000002,
+      "conversion changes"
+    ],
+    [
+      0.000014,
+      " signedness:"
+    ],
+    [
+      0.000004,
+      " 'int' to 'unsigned long'\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "                int *start = Malloc(int,nr_class);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                             ~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm.cpp:39"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000004,
+      " 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000111,
+      "\u001b[1msvm.cpp:2534:26: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n                int *vote = Malloc(int,nr_class);"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0;1;32m                            ~~~~~~~~~~~^~~~~~~~~"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm.cpp:39"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded "
+    ],
+    [
+      0.000002,
+      "from macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000785,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000003,
+      "2586:52: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1mimplicit "
+    ],
+    [
+      0.000002,
+      "conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness:"
+    ],
+    [
+      0.000002,
+      " 'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "                dec_values = Malloc(double, nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000009,
+      "39:40"
+    ],
+    [
+      0.000006,
+      ": \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000338,
+      "\u001b[1msvm.cpp:2600:60: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' "
+    ],
+    [
+      0.000004,
+      "to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "                double *dec_values = Malloc(double, nr_class*(nr_class-1)/2);\r\n\u001b[0;1;32m                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~\r\n\u001b[0m\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000004,
+      "39:40: \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: "
+    ],
+    [
+      0.000002,
+      "\u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from"
+    ],
+    [
+      0.000002,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000002,
+      "                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000075,
+      "\u001b[1msvm.cpp:2604:42: \u001b[0m\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000004,
+      ": \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' "
+    ],
+    [
+      0.000003,
+      "to 'unsigned long'\r\n"
+    ],
+    [
+      0.000002,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "                double **pairwise_prob=Malloc(double *,nr_class);\r\n\u001b[0;1;32m                                       ~~~~~~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m\u001b[1msvm.cpp:39:"
+    ],
+    [
+      0.000003,
+      "40: \u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from"
+    ],
+    [
+      0.000002,
+      " macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000002,
+      "                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\u001b[1msvm.cpp:2606:35: \u001b[0m\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000003,
+      ": \u001b[0m\u001b[1mimplicit conversion changes signedness:"
+    ],
+    [
+      0.000002,
+      " 'int' "
+    ],
+    [
+      0.000002,
+      "to "
+    ],
+    [
+      0.000002,
+      "'unsigned long'\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                        pairwise_prob[i]=Malloc(double,nr_class);\r\n\u001b[0;1;32m                                         ~~~~~~~~~~~~~~^~~~~~~~~\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\u001b[1msvm.cpp:39:40"
+    ],
+    [
+      0.000002,
+      ": \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000002,
+      "\u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000002,
+      "                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.004387,
+      "\u001b[1msvm.cpp:2748:32: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit"
+    ],
+    [
+      0.000006,
+      " conversion changes signedness: 'int' to 'size_t'\r\n"
+    ],
+    [
+      0.000018,
+      "      (aka 'unsigned long') "
+    ],
+    [
+      0.000003,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "                line = (char *) realloc(line,max_line_len);\r\n\u001b[0;1;32m                                ~~~~~~~      ^~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.002003,
+      "\u001b[1msvm.cpp:2821:31: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to "
+    ],
+    [
+      0.000008,
+      "'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n                        model-\u003erho = Malloc(double,n);\r\n\u001b[0;1;32m                                     ~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[1msvm.cpp"
+    ],
+    [
+      0.000002,
+      ":39:"
+    ],
+    [
+      0.000002,
+      "40: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m\u001b[0;1;30mnote"
+    ],
+    [
+      0.000003,
+      ": \u001b[0mexpanded"
+    ],
+    [
+      0.000002,
+      " from "
+    ],
+    [
+      0.000002,
+      "macro 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\u001b[1msvm.cpp:2828:"
+    ],
+    [
+      0.000006,
+      "30: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes"
+    ],
+    [
+      0.000003,
+      " signedness: 'int'"
+    ],
+    [
+      0.000002,
+      " to "
+    ],
+    [
+      0.000003,
+      "'unsigned long'\r\n"
+    ],
+    [
+      0.000003,
+      "      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "                        model-\u003elabel = Malloc(int,n);\r\n\u001b[0;1;32m                                       ~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp"
+    ],
+    [
+      0.000005,
+      ":39:40: \u001b[0m\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000003,
+      "\u001b[0mexpanded from"
+    ],
+    [
+      0.000004,
+      " macro 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000126,
+      "\u001b[1msvm.cpp:2835:33: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to"
+    ],
+    [
+      0.000005,
+      " 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "                        model-\u003eprobA = Malloc(double,n);\r\n\u001b[0;1;32m                                       ~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded "
+    ],
+    [
+      0.000003,
+      "from macro "
+    ],
+    [
+      0.000002,
+      "'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000118,
+      "\u001b[1msvm.cpp:2842:33: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit "
+    ],
+    [
+      0.000004,
+      "conversion changes signedness: 'int' to 'unsigned long'\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "                        model-\u003eprobB = Malloc(double,n);\r\n\u001b[0;1;32m                                       ~~~~~~~~~~~~~~^~"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0mexpanded"
+    ],
+    [
+      0.000006,
+      " from "
+    ],
+    [
+      0.000047,
+      "macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000099,
+      "\u001b[1msvm.cpp:2849:28: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      "
+    ],
+    [
+      0.000005,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "                        model-\u003enSV = Malloc(int,n);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                                     ~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm.cpp:39"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000002,
+      "\u001b[0mexpanded "
+    ],
+    [
+      0.000002,
+      "from "
+    ],
+    [
+      0.000002,
+      "macro 'Malloc'"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.003504,
+      "\u001b[1msvm.cpp:2910:21: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness:"
+    ],
+    [
+      0.000014,
+      " 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        line = Malloc(char,max_line_len);\r\n\u001b[0;1;32m               ~~~~~~~~~~~~^~~~~~~~~~~~~"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000003,
+      "svm.cpp:39:"
+    ],
+    [
+      0.000026,
+      "40: "
+    ],
+    [
+      0.000009,
+      "\u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000229,
+      "\u001b[1msvm.cpp:2930:35"
+    ],
+    [
+      0.000014,
+      ": \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to"
+    ],
+    [
+      0.000004,
+      " 'unsigned long'\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "        model-\u003esv_coef = Malloc(double *,m);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                         ~~~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[1msvm.cpp:"
+    ],
+    [
+      0.000002,
+      "39:40"
+    ],
+    [
+      0.000003,
+      ": \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\u001b[0;1;30mnote: "
+    ],
+    [
+      0.000002,
+      "\u001b[0mexpanded from"
+    ],
+    [
+      0.000003,
+      " macro"
+    ],
+    [
+      0.000003,
+      " 'Malloc'"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.000095,
+      "\u001b[1msvm.cpp:2933:37"
+    ],
+    [
+      0.000007,
+      ": \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      "
+    ],
+    [
+      0.000003,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "                model-\u003esv_coef[i] = Malloc(double,l);\r\n\u001b[0;1;32m                                    ~~~~~~~~~~~~~~^~\r\n\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[1msvm.cpp:39:40"
+    ],
+    [
+      0.000005,
+      ": \u001b[0m\u001b[0;1;30mnote: \u001b[0m"
+    ],
+    [
+      0.000016,
+      "expanded from macro 'Malloc'\u001b[0m\r\n"
+    ],
+    [
+      0.013254,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.005757,
+      "\u001b[1msvm.cpp:2934:31: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        model-\u003eSV = Malloc(svm_node*,l);\r\n\u001b[0;1;32m                    ~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm.cpp:2936:36: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        if(l\u003e0) x_space = Malloc(svm_node,elements);\r\n\u001b[0;1;32m                          ~~~~~~~~~~~~~~~~^~~~~~~~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm.cpp:3101:27: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conve"
+    ],
+    [
+      0.000235,
+      "rsion]\u001b[0m\r\n                int *label = Malloc(int,max_nr_class);\r\n\u001b[0;1;32m                             ~~~~~~~~~~~^~~~~~~~~~~~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm.cpp:3102:27: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n                int *count = Malloc(int,max_nr_class);\r\n\u001b[0;1;32m                             ~~~~~~~~~~~^~~~~~~~~~~~~\r\n\u001b[0m\u001b[1msvm.cpp:39:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm.cpp:3120:35: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n                                        label = (int *)realloc(label,max_nr_class*sizeof(int"
+    ],
+    [
+      0.000014,
+      "));\r\n\u001b[0;1;32m                                                                     ^~~~~~~~~~~~~\r\n\u001b[0m\u001b[1msvm.cpp:3121:35: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n                                        count = (int *)realloc(count,max_nr_class*sizeof(int));\r\n\u001b[0;1;32m                                                                     ^~~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.008520,
+      "\u001b[1msvm.cpp:24:43: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion"
+    ],
+    [
+      0.000005,
+      " changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000049,
+      "        memcpy((void *)dst,(void *)src,sizeof(T)*n);\r\n\u001b[0;1;32m                                                ~^\r\n\u001b[0m"
+    ],
+    [
+      0.002870,
+      "\u001b[1msvm.cpp:276:2: \u001b[0m\u001b[0;1;30mnote: \u001b[0min instantiation of function template specialization"
+    ],
+    [
+      0.000005,
+      " 'clone\u003csvm_node *const,\r\n      const svm_node *\u003e' requested here\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "        clone(x,x_,l);\r\n\u001b[0;1;32m        ^\r\n\u001b[0m"
+    ],
+    [
+      0.000180,
+      "\u001b[1msvm.cpp:24:43: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' "
+    ],
+    [
+      0.000005,
+      "to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "        memcpy((void *)dst,(void *)src,sizeof(T)*n);\r\n\u001b[0;1;32m                                                ~^\r\n\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[1msvm.cpp"
+    ],
+    [
+      0.000002,
+      ":511:"
+    ],
+    [
+      0.000002,
+      "2:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m"
+    ],
+    [
+      0.000003,
+      "\u001b[0;1;30mnote"
+    ],
+    [
+      0.000002,
+      ": \u001b[0m"
+    ],
+    [
+      0.000002,
+      "in"
+    ],
+    [
+      0.000002,
+      " instantiation"
+    ],
+    [
+      0.000002,
+      " of"
+    ],
+    [
+      0.000002,
+      " function"
+    ],
+    [
+      0.000002,
+      " template"
+    ],
+    [
+      0.000002,
+      " specialization"
+    ],
+    [
+      0.000002,
+      "\r\n      'clone\u003cconst double, double\u003e'"
+    ],
+    [
+      0.000002,
+      " requested "
+    ],
+    [
+      0.000002,
+      "here\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "        clone(p, p_,l);\r\n\u001b[0;1;32m        ^\r\n\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\u001b[1msvm.cpp:24:43: "
+    ],
+    [
+      0.000023,
+      "\u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "        memcpy((void *)dst,(void *)src,sizeof(T)*n);\r\n\u001b[0;1;32m                                                ~^\r\n\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\u001b[1msvm.cpp:512"
+    ],
+    [
+      0.000003,
+      ":2: "
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: "
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "in "
+    ],
+    [
+      0.000002,
+      "instantiation"
+    ],
+    [
+      0.000018,
+      " of function "
+    ],
+    [
+      0.000004,
+      "template specialization 'clone\u003cconst signed\r\n      char, "
+    ],
+    [
+      0.000005,
+      "signed char\u003e' requested here"
+    ],
+    [
+      0.000002,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "        clone(y, y_,l);\r\n\u001b[0;1;32m        ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\u001b[1msvm.cpp:24"
+    ],
+    [
+      0.000005,
+      ":43: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit"
+    ],
+    [
+      0.000003,
+      " conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness: "
+    ],
+    [
+      0.000002,
+      "'int' to"
+    ],
+    [
+      0.000002,
+      " 'unsigned long'"
+    ],
+    [
+      0.000005,
+      "\r\n      [-Wsign-conversion]"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "        memcpy((void *)dst,(void *)src,sizeof(T)*n);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000008,
+      "                                                ~^\r\n\u001b[0m\u001b[1msvm.cpp"
+    ],
+    [
+      0.000022,
+      ":513:2:"
+    ],
+    [
+      0.000006,
+      " \u001b[0m\u001b[0;1;30mnote: \u001b[0min instantiation of function template specialization 'clone\u003cdouble, double\u003e'\r\n      requested here\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "        clone(alpha,alpha_,l);\r\n\u001b[0;1;32m        ^\r\n\u001b[0m"
+    ],
+    [
+      1.047960,
+      "75 warnings generated.\r\n"
+    ],
+    [
+      0.002803,
+      "c++ -Wall -Wconversion -O3 -fPIC svm-train.c svm.o -o svm-train -lm\r\n"
+    ],
+    [
+      0.005732,
+      "clang: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated\r\n"
+    ],
+    [
+      0.022228,
+      "\u001b[1msvm-train.c:75:32: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes"
+    ],
+    [
+      0.000007,
+      " signedness: 'int' to 'size_t'\r\n      (aka 'unsigned long') [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "                line = (char *) realloc(line,max_line_len);\r\n\u001b[0;1;32m                                ~~~~~~~      ^~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.002306,
+      "\u001b[1msvm-train.c:128:38: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to "
+    ],
+    [
+      0.000008,
+      "'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        double *target = Malloc(double,prob.l);\r\n\u001b[0;1;32m                         ~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm-train.c:7:40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.001235,
+      "\u001b[1msvm-train.c:243:78: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit "
+    ],
+    [
+      0.000006,
+      "conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "  ...param.weight_label = (int *)realloc(param.weight_label,sizeof(int)*param.nr_weight);\r\n\u001b[0;1;32m                                                                       ~~~~~~~^~~~~~~~~\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000035,
+      "\u001b[1msvm-train.c:244:72:"
+    ],
+    [
+      0.000004,
+      " \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit"
+    ],
+    [
+      0.000002,
+      " conversion changes"
+    ],
+    [
+      0.000002,
+      " signedness:"
+    ],
+    [
+      0.000007,
+      " 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "  ...param.weight = (double *)realloc(param.weight,sizeof(double)*param.nr_weight);\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000003,
+      "                                                                 ~~~~~~~^~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000860,
+      "\u001b[1msvm-train.c:296:21: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' "
+    ],
+    [
+      0.000005,
+      "to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "        line = Malloc(char,max_line_len);\r\n\u001b[0;1;32m               ~~~~~~~~~~~~^~~~~~~~~~~~~"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\u001b[1m"
+    ],
+    [
+      0.000002,
+      "svm-train.c:7"
+    ],
+    [
+      0.000002,
+      ":40:"
+    ],
+    [
+      0.000002,
+      " \u001b[0m\u001b[0;1;30m"
+    ],
+    [
+      0.000002,
+      "note: \u001b[0m"
+    ],
+    [
+      0.000002,
+      "expanded from"
+    ],
+    [
+      0.000002,
+      " macro"
+    ],
+    [
+      0.000002,
+      " 'Malloc'\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.024674,
+      "\u001b[1msvm-train.c:314:30: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int'"
+    ],
+    [
+      0.000041,
+      " to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        prob.y = Malloc(double,prob.l);\r\n\u001b[0;1;32m                 ~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm-train.c:7:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m\u001b[1msvm-train.c:315:41: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n        prob.x = Malloc(struct svm_node *,prob.l);\r\n\u001b[0;1;32m                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~\r\n\u001b[0m\u001b[1msvm-train.c:7:40: \u001b[0m\u001b[0;1;30mnote: \u001b[0mexpanded from macro 'Malloc'\u001b[0m\r\n#define Malloc(type,n) (type *)malloc((n)*sizeof(type))\r\n\u001b[0;1;32m                                       ^\r\n\u001b[0m"
+    ],
+    [
+      0.016532,
+      "7 warnings generated.\r\n"
+    ],
+    [
+      0.143943,
+      "c++ -Wall -Wconversion -O3 -fPIC svm-predict.c svm.o -o svm-predict -lm\r\n"
+    ],
+    [
+      0.005065,
+      "clang: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated\r\n"
+    ],
+    [
+      0.014197,
+      "\u001b[1msvm-predict.c:31:32: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: "
+    ],
+    [
+      0.000009,
+      "'int' to 'size_t'\r\n      (aka 'unsigned long') [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                line = (char *) realloc(line,max_line_len);\r\n\u001b[0;1;32m                                ~~~~~~~      ^~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000746,
+      "\u001b[1msvm-predict.c:63:31: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' "
+    ],
+    [
+      0.000004,
+      "to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "                        int *labels=(int *) malloc(nr_class*sizeof(int));\r\n\u001b[0;1;32m                                                   ^~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000077,
+      "\u001b[1msvm-predict.c:65:39: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "                        prob_estimates = (double *) malloc(nr_class*sizeof(double));\r\n\u001b[0;1;32m                                                           ^~~~~~~~~\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\u001b[1msvm-predict.c:75:24: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes "
+    ],
+    [
+      0.000004,
+      "signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "        line = (char *)malloc(max_line_len*sizeof(char));\r\n\u001b[0;1;32m                              ^~~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[1msvm-predict.c:96:39: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to 'unsigned long'"
+    ],
+    [
+      0.000004,
+      "\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "                                x = (struct svm_node *) realloc(x,max_nr_attr*sizeof(stru...\r\n\u001b[0;1;32m                                                                  ^~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.001553,
+      "\u001b[1msvm-predict.c:217:33: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' to"
+    ],
+    [
+      0.000004,
+      " 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "        x = (struct svm_node *) malloc(max_nr_attr*sizeof(struct svm_node));\r\n\u001b[0;1;32m                                       ^~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.028345,
+      "6 warnings generated.\r\n"
+    ],
+    [
+      0.014856,
+      "c++ -Wall -Wconversion -O3 -fPIC svm-scale.c -o svm-scale\r\n"
+    ],
+    [
+      0.005030,
+      "clang: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated\r\n"
+    ],
+    [
+      0.013462,
+      "\u001b[1msvm-scale.c:94:25: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int'"
+    ],
+    [
+      0.000007,
+      " to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "        line = (char *) malloc(max_line_len*sizeof(char));\r\n\u001b[0;1;32m                               ^~~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.000364,
+      "\u001b[1msvm-scale.c:158:43: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit "
+    ],
+    [
+      0.000005,
+      "conversion changes signedness: 'int' to 'unsigned long'\r\n      [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000046,
+      "        feature_max = (double *)malloc((max_index+1)* sizeof(double));\r\n\u001b[0;1;32m                                        ~~~~~~~~~^~ ~\r\n\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\u001b[1msvm-scale.c:"
+    ],
+    [
+      0.000003,
+      "159:43: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m"
+    ],
+    [
+      0.000002,
+      "implicit conversion "
+    ],
+    [
+      0.000002,
+      "changes signedness:"
+    ],
+    [
+      0.000002,
+      " 'int' "
+    ],
+    [
+      0.000002,
+      "to 'unsigned long'"
+    ],
+    [
+      0.000002,
+      "\r\n      "
+    ],
+    [
+      0.000002,
+      "[-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "        feature_min = (double *)malloc((max_index+1)* sizeof(double));\r\n\u001b[0;1;32m                                        ~~~~~~~~~^~ ~\r\n\u001b[0m"
+    ],
+    [
+      0.002774,
+      "\u001b[1msvm-scale.c:342:33: \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1mimplicit conversion changes signedness: 'int' "
+    ],
+    [
+      0.000007,
+      "to 'size_t'\r\n      (aka 'unsigned long') [-Wsign-conversion]\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "                line = (char *) realloc(line, max_line_len);\r\n\u001b[0;1;32m                                ~~~~~~~       ^~~~~~~~~~~~\r\n\u001b[0m"
+    ],
+    [
+      0.064174,
+      "4 warnings generated.\r\n"
+    ],
+    [
+      0.014793,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000084,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.016345,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000094,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.322257,
+      "l"
+    ],
+    [
+      0.055447,
+      "\u0008li"
+    ],
+    [
+      0.415705,
+      "\u0008\u0008l \u0008"
+    ],
+    [
+      0.191985,
+      "\u0008ll"
+    ],
+    [
+      0.216327,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.000986,
+      "\u001b]2;ls -G -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.005530,
+      "total 960\r\n"
+    ],
+    [
+      0.000235,
+      "-rw-r--r--   1 gabe  staff   1.5K Apr  1 14:36 COPYRIGHT\r\n-rw-r--r--   1 gabe  staff    77K Apr  1 14:36 FAQ.html\r\n-rw-r--r--   1 gabe  staff   732B Apr  1 14:36 Makefile\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--   1 gabe  staff   1.1K Apr  1 14:36 Makefile.win\r\n-rw-r--r--   1 gabe  staff    28K Apr  1 14:36 README\r\n-rw-r--r--   1 gabe  staff    27K Apr  1 14:36 heart_scale\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x  10 gabe  staff   340B Apr  1 14:36 \u001b[1m\u001b[36mjava\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x  11 gabe  staff   374B Apr  1 14:36 \u001b[1m\u001b[36mmatlab\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x   6 gabe  staff   204B Apr  1 14:36 \u001b[1m\u001b[36mpython\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rwxr-xr-x   1 gabe  staff    66K Apr  1 14:36 \u001b[31msvm-predict\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--   1 gabe  staff   5.4K Apr  1 14:36 svm-predict.c\r\n-rwxr-xr-x   1 gabe  staff    18K Apr  1 14:36 \u001b[31msvm-scale\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--   1 gabe  staff   8.3K Apr  1 14:36 svm-scale.c\r\ndrwxr-xr-x   5 gabe  staff   170B Apr  1 14:36 \u001b[1m\u001b[36msvm-toy\u001b[39;49m\u001b[0m\r\n-rwxr-xr-x   1 gabe  staff    67K Apr  1 14:36 \u001b[31msvm-train\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 gabe  staff   8.8K Apr  1 14:36 svm-train.c\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 gabe  staff    63K Apr  1 14:36 svm.cpp\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 gabe  staff   477B Apr  1 14:36 svm.def\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--   1 gabe  staff   3.3K Apr  1 14:36 svm.h\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 gabe  staff    69K Apr  1 14:36 svm.o\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x   7 gabe  staff   238B Apr  1 14:36 \u001b[1m\u001b[36mtools\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x  11 gabe  staff   374B Apr  1 14:36 \u001b[1m\u001b[36mwindows\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000461,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000137,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.019328,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000027,
+      "\u001b[K"
+    ],
+    [
+      0.000100,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.997155,
+      "c"
+    ],
+    [
+      0.071608,
+      "\u0008cd"
+    ],
+    [
+      0.176100,
+      " "
+    ],
+    [
+      0.399696,
+      "."
+    ],
+    [
+      0.119902,
+      "."
+    ],
+    [
+      0.288298,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000055,
+      "\r\r\n"
+    ],
+    [
+      0.000896,
+      "\u001b]2;cd ..\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.017412,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000031,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;.._presentation\u0007"
+    ],
+    [
+      0.010412,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msvm_presentation \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000097,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.315441,
+      "c"
+    ],
+    [
+      0.047501,
+      "\u0008cd"
+    ],
+    [
+      0.080300,
+      " "
+    ],
+    [
+      0.298709,
+      "d"
+    ],
+    [
+      0.109082,
+      "a"
+    ],
+    [
+      0.111367,
+      "t"
+    ],
+    [
+      0.293461,
+      "a\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.576265,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000039,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000087,
+      "\r\r\n"
+    ],
+    [
+      0.000618,
+      "\u001b]2;cd data\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.014395,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000039,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/data\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;..entation/data\u0007"
+    ],
+    [
+      0.010623,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdata \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000099,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.313210,
+      "l"
+    ],
+    [
+      0.135439,
+      "\u0008ll"
+    ],
+    [
+      0.712110,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000879,
+      "\u001b]2;ls -G -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.005357,
+      "total 176\r\n"
+    ],
+    [
+      0.000232,
+      "-rw-r-----@ 1 gabe  staff    34K Mar 31 14:39 heart\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r-----@ 1 gabe  staff   1.1K Mar 31 14:41 heart.txt\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r-----@ 1 gabe  staff    27K Mar 31 16:38 heart_scale\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r-----@ 1 gabe  staff    18K Mar 31 14:36 processed.cleveland.data\r\n"
+    ],
+    [
+      0.000448,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000142,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/data\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..entation/data\u0007"
+    ],
+    [
+      0.011100,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdata \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000082,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.608138,
+      "w"
+    ],
+    [
+      0.091985,
+      "\u0008we"
+    ],
+    [
+      0.417451,
+      "\u0008\u0008w \u0008"
+    ],
+    [
+      0.048039,
+      "\u0008wc"
+    ],
+    [
+      0.096496,
+      " "
+    ],
+    [
+      0.079308,
+      "-"
+    ],
+    [
+      0.320167,
+      "l"
+    ],
+    [
+      0.176230,
+      " "
+    ],
+    [
+      0.671737,
+      "h"
+    ],
+    [
+      0.092863,
+      "e"
+    ],
+    [
+      0.002953,
+      "a"
+    ],
+    [
+      0.106409,
+      "r"
+    ],
+    [
+      0.165760,
+      "t"
+    ],
+    [
+      0.672039,
+      "_"
+    ],
+    [
+      0.239854,
+      "s"
+    ],
+    [
+      0.096074,
+      "c"
+    ],
+    [
+      0.173073,
+      "ale\u001b[1m \u001b[0m"
+    ],
+    [
+      0.458668,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000046,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000038,
+      "\r\r\n"
+    ],
+    [
+      0.000702,
+      "\u001b]2;wc -l heart_scale\u0007\u001b]1;wc\u0007"
+    ],
+    [
+      0.003965,
+      "     270 heart_scale\r\n"
+    ],
+    [
+      0.000469,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000149,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/data\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;..entation/data\u0007"
+    ],
+    [
+      0.011266,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdata \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000085,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.624004,
+      "h"
+    ],
+    [
+      0.031374,
+      "\u0008he"
+    ],
+    [
+      0.072082,
+      "a"
+    ],
+    [
+      0.104078,
+      "d"
+    ],
+    [
+      0.656366,
+      " "
+    ],
+    [
+      0.103331,
+      "-"
+    ],
+    [
+      0.351654,
+      "1"
+    ],
+    [
+      0.416589,
+      "7"
+    ],
+    [
+      0.103437,
+      "0"
+    ],
+    [
+      0.324054,
+      " "
+    ],
+    [
+      0.185508,
+      "h"
+    ],
+    [
+      0.050980,
+      "e"
+    ],
+    [
+      0.058853,
+      "a"
+    ],
+    [
+      0.197144,
+      "r"
+    ],
+    [
+      0.164658,
+      "t"
+    ],
+    [
+      0.835222,
+      "_"
+    ],
+    [
+      0.220237,
+      "scale\u001b[1m \u001b[0m"
+    ],
+    [
+      0.724216,
+      "\u0008\u001b[0m \u003e"
+    ],
+    [
+      0.176007,
+      " "
+    ],
+    [
+      0.575263,
+      "h"
+    ],
+    [
+      0.064291,
+      "e"
+    ],
+    [
+      0.047786,
+      "a"
+    ],
+    [
+      0.071998,
+      "r"
+    ],
+    [
+      0.152052,
+      "t"
+    ],
+    [
+      0.171728,
+      "."
+    ],
+    [
+      0.116123,
+      "t"
+    ],
+    [
+      0.064222,
+      "r"
+    ],
+    [
+      0.079997,
+      "a"
+    ],
+    [
+      0.144055,
+      "i"
+    ],
+    [
+      0.095457,
+      "n"
+    ],
+    [
+      0.080043,
+      "i"
+    ],
+    [
+      0.088475,
+      "n"
+    ],
+    [
+      0.127479,
+      "g"
+    ],
+    [
+      0.360276,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000056,
+      "\r\r\n"
+    ],
+    [
+      0.000946,
+      "\u001b]2;head -170 heart_scale \u003e heart.training\u0007\u001b]1;head\u0007"
+    ],
+    [
+      0.003599,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000112,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/data\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..entation/data\u0007"
+    ],
+    [
+      0.011886,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdata \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000090,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.975881,
+      "t"
+    ],
+    [
+      0.095645,
+      "\u0008ta"
+    ],
+    [
+      0.087947,
+      "i"
+    ],
+    [
+      0.049684,
+      "l"
+    ],
+    [
+      0.110668,
+      " "
+    ],
+    [
+      0.111439,
+      "-"
+    ],
+    [
+      0.160251,
+      "1"
+    ],
+    [
+      0.119902,
+      "0"
+    ],
+    [
+      0.119733,
+      "0"
+    ],
+    [
+      0.374810,
+      " "
+    ],
+    [
+      1.599976,
+      "h"
+    ],
+    [
+      0.057469,
+      "e"
+    ],
+    [
+      0.051737,
+      "a"
+    ],
+    [
+      0.075887,
+      "r"
+    ],
+    [
+      0.168183,
+      "d"
+    ],
+    [
+      0.423924,
+      "\u0008 \u0008"
+    ],
+    [
+      0.112107,
+      "t"
+    ],
+    [
+      0.152100,
+      "_"
+    ],
+    [
+      0.199845,
+      "s"
+    ],
+    [
+      0.103950,
+      "c"
+    ],
+    [
+      0.148690,
+      "ale\u001b[1m \u001b[0m"
+    ],
+    [
+      0.627807,
+      "\u0008\u001b[0m \u003e"
+    ],
+    [
+      0.111972,
+      " "
+    ],
+    [
+      0.319404,
+      "h"
+    ],
+    [
+      0.032269,
+      "e"
+    ],
+    [
+      0.063825,
+      "a"
+    ],
+    [
+      0.062367,
+      "r"
+    ],
+    [
+      0.168281,
+      "t"
+    ],
+    [
+      0.433399,
+      "."
+    ],
+    [
+      0.089959,
+      "v"
+    ],
+    [
+      0.086142,
+      "a"
+    ],
+    [
+      0.115843,
+      "l"
+    ],
+    [
+      0.043995,
+      "i"
+    ],
+    [
+      0.088151,
+      "d"
+    ],
+    [
+      0.153305,
+      "\u0007"
+    ],
+    [
+      0.742541,
+      "a"
+    ],
+    [
+      0.095872,
+      "t"
+    ],
+    [
+      0.488074,
+      "i"
+    ],
+    [
+      0.055838,
+      "o"
+    ],
+    [
+      0.144321,
+      "n"
+    ],
+    [
+      0.396998,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ],
+    [
+      0.000774,
+      "\u001b]2;tail -100 heart_scale \u003e heart.validation\u0007\u001b]1;tail\u0007"
+    ],
+    [
+      0.003144,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/data\u0007\u001b]1;..entation/data\u0007"
+    ],
+    [
+      0.009438,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdata \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000062,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.029756,
+      "c"
+    ],
+    [
+      0.060990,
+      "\u0008cd"
+    ],
+    [
+      0.106937,
+      " "
+    ],
+    [
+      0.167444,
+      "."
+    ],
+    [
+      0.120115,
+      "."
+    ],
+    [
+      0.343783,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\r\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b]2;cd ..\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.015531,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000071,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;.._presentation\u0007"
+    ],
+    [
+      0.010875,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msvm_presentation \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000110,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.335506,
+      "c"
+    ],
+    [
+      0.061236,
+      "\u0008cd"
+    ],
+    [
+      0.112261,
+      " "
+    ],
+    [
+      0.535617,
+      "l"
+    ],
+    [
+      0.072034,
+      "i"
+    ],
+    [
+      0.063971,
+      "b"
+    ],
+    [
+      0.164922,
+      "svm\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.402891,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000040,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000048,
+      "\r\r\n"
+    ],
+    [
+      0.000859,
+      "\u001b]2;cd libsvm\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.017247,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000006,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.018798,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000057,
+      "\u001b[K"
+    ],
+    [
+      0.000120,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.651052,
+      "."
+    ],
+    [
+      0.015616,
+      "\u0008./"
+    ],
+    [
+      0.172808,
+      "s"
+    ],
+    [
+      0.066797,
+      "v"
+    ],
+    [
+      0.376361,
+      "m"
+    ],
+    [
+      0.488147,
+      "-"
+    ],
+    [
+      0.103982,
+      "t"
+    ],
+    [
+      0.031897,
+      "r"
+    ],
+    [
+      0.231872,
+      "ain\u001b[1m \u001b[0m"
+    ],
+    [
+      0.456121,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000086,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000069,
+      "\r\r\n"
+    ],
+    [
+      0.000841,
+      "\u001b]2;./svm-train\u0007\u001b]1;./svm-train\u0007"
+    ],
+    [
+      0.003941,
+      "Usage: svm-train [options] training_set_file [model_file]\r\noptions:\r\n-s svm_type : set type of SVM (default 0)\r\n\t0 -- C-SVC\t\t(multi-class classification)\r\n\t1 -- nu-SVC\t\t(multi-class classification)\r\n\t2 -- one-class SVM\r\n\t3 -- epsilon-SVR\t(regression)\r\n\t4 -- nu-SVR\t\t(regression)\r\n-t kernel_type : set type of kernel function (default 2)\r\n\t0 -- linear: u'*v\r\n\t1 -- polynomial: (gamma*u'*v + coef0)^degree\r\n\t2 -- radial basis function: exp(-gamma*|u-v|^2)\r\n\t3 -- sigmoid: tanh(gamma*u'*v + coef0)\r\n\t4 -- precomputed kernel (kernel values in training_set_file)\r\n-d degree : set degree in kernel function (default 3)\r\n-g gamma : set gamma in kernel function (default 1/num_features)\r\n-r coef0 : set coef0 in kernel function (default 0)\r\n-c cost : set the parameter C of C-SVC, epsilon-SVR, and nu-SVR (default 1)\r\n-n nu : set the parameter nu of nu-SVC, one-class SVM, and nu-SVR (default 0.5)\r\n-p epsilon : set the epsilon in loss function of epsilon-SVR (default 0.1)\r\n"
+    ],
+    [
+      0.000085,
+      "-m cachesize : set cache memory size in MB (default 100)\r\n-e epsilon : set tolerance of termination criterion (default 0.001)\r\n-h shrinking : whether to use the shrinking heuristics, 0 or 1 (default 1)\r\n-b probability_estimates : whether to train a SVC or SVR model for probability estimates, 0 or 1 (default 0)\r\n-wi weight : set the parameter C of class i to weight*C, for C-SVC (default 1)\r\n-v n: n-fold cross validation mode\r\n-q : quiet mode (no outputs)\r\n"
+    ],
+    [
+      0.000302,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.020676,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000079,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.453998,
+      "."
+    ],
+    [
+      0.064513,
+      "\u0008./"
+    ],
+    [
+      0.097802,
+      "s"
+    ],
+    [
+      0.053038,
+      "v"
+    ],
+    [
+      0.408077,
+      "m"
+    ],
+    [
+      0.312045,
+      "-"
+    ],
+    [
+      0.079975,
+      "t"
+    ],
+    [
+      0.056966,
+      "r"
+    ],
+    [
+      0.263084,
+      "a"
+    ],
+    [
+      0.257065,
+      "in\u001b[1m \u001b[0m"
+    ],
+    [
+      8.142773,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.399893,
+      "t"
+    ],
+    [
+      0.320165,
+      " "
+    ],
+    [
+      0.087862,
+      "0"
+    ],
+    [
+      0.184263,
+      " "
+    ],
+    [
+      1.328809,
+      "."
+    ],
+    [
+      0.107377,
+      "."
+    ],
+    [
+      0.091429,
+      "/"
+    ],
+    [
+      0.176066,
+      "d"
+    ],
+    [
+      0.055848,
+      "a"
+    ],
+    [
+      0.096097,
+      "t"
+    ],
+    [
+      0.140751,
+      "a\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.459215,
+      "\u0008\u001b[0m/h"
+    ],
+    [
+      0.080017,
+      "e"
+    ],
+    [
+      0.024016,
+      "a"
+    ],
+    [
+      0.069357,
+      "r"
+    ],
+    [
+      0.154466,
+      "t"
+    ],
+    [
+      0.663761,
+      "."
+    ],
+    [
+      0.181498,
+      "t"
+    ],
+    [
+      0.044976,
+      "r"
+    ],
+    [
+      0.173938,
+      "a"
+    ],
+    [
+      0.135917,
+      "i"
+    ],
+    [
+      0.071893,
+      "n"
+    ],
+    [
+      0.100890,
+      "ing\u001b[1m \u001b[0m"
+    ],
+    [
+      1.051083,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000043,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.000884,
+      "\u001b]2;./svm-train -t 0 ../data/heart.training\u0007\u001b]1;./svm-train\u0007"
+    ],
+    [
+      0.005610,
+      "."
+    ],
+    [
+      0.000085,
+      "."
+    ],
+    [
+      0.000067,
+      "."
+    ],
+    [
+      0.000062,
+      "."
+    ],
+    [
+      0.000061,
+      "."
+    ],
+    [
+      0.000087,
+      "."
+    ],
+    [
+      0.000063,
+      "*"
+    ],
+    [
+      0.000017,
+      "."
+    ],
+    [
+      0.000041,
+      "."
+    ],
+    [
+      0.000039,
+      "*"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "optimization finished, #iter = 1465\r\n"
+    ],
+    [
+      0.000045,
+      "nu = 0.357591\r\nobj = -58.073474, rho = -1.351193\r\nnSV = 66, nBSV = 54\r\nTotal nSV = 66\r\n"
+    ],
+    [
+      0.001028,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000109,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.019908,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000110,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.811963,
+      "l"
+    ],
+    [
+      0.094388,
+      "\u0008ls"
+    ],
+    [
+      0.073741,
+      " "
+    ],
+    [
+      0.087572,
+      "-"
+    ],
+    [
+      0.071912,
+      "l"
+    ],
+    [
+      0.058446,
+      "t"
+    ],
+    [
+      0.029623,
+      "r"
+    ],
+    [
+      0.170837,
+      " "
+    ],
+    [
+      1.405526,
+      "|"
+    ],
+    [
+      0.463898,
+      " "
+    ],
+    [
+      0.111644,
+      "t"
+    ],
+    [
+      0.072067,
+      "a"
+    ],
+    [
+      0.063950,
+      "i"
+    ],
+    [
+      0.072144,
+      "l"
+    ],
+    [
+      0.211832,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000701,
+      "\u001b]2;ls -G -ltr | tail\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.004837,
+      "-rw-r--r--   1 gabe  staff  28544 Apr  1 14:36 README\r\n-rw-r--r--   1 gabe  staff   1084 Apr  1 14:36 Makefile.win\r\n-rw-r--r--   1 gabe  staff    732 Apr  1 14:36 Makefile\r\n-rw-r--r--   1 gabe  staff  78969 Apr  1 14:36 FAQ.html\r\n-rw-r--r--   1 gabe  staff   1497 Apr  1 14:36 COPYRIGHT\r\n-rw-r--r--   1 gabe  staff  70160 Apr  1 14:36 svm.o\r\n-rwxr-xr-x   1 gabe  staff  68476 Apr  1 14:36 svm-train\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxr-xr-x   1 gabe  staff  18808 Apr  1 14:36 svm-scale\r\n-rwxr-xr-x   1 gabe  staff  68068 Apr  1 14:36 svm-predict\r\n-rw-r--r--   1 gabe  staff   7006 Apr  1 14:38 heart.training.model\r\n"
+    ],
+    [
+      0.000301,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000200,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.016785,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000162,
+      "\u001b[K"
+    ],
+    [
+      0.000125,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.021155,
+      "m"
+    ],
+    [
+      0.103549,
+      "\u0008mv"
+    ],
+    [
+      0.104241,
+      " "
+    ],
+    [
+      0.151262,
+      "h"
+    ],
+    [
+      0.072407,
+      "e"
+    ],
+    [
+      0.056277,
+      "a"
+    ],
+    [
+      0.087960,
+      "r"
+    ],
+    [
+      0.167791,
+      "t"
+    ],
+    [
+      0.247909,
+      "."
+    ],
+    [
+      0.183907,
+      "t"
+    ],
+    [
+      0.024132,
+      "r"
+    ],
+    [
+      0.096072,
+      "a"
+    ],
+    [
+      0.292593,
+      "ining.model\u001b[1m \u001b[0m"
+    ],
+    [
+      1.011242,
+      "\u0008\u001b[0m ."
+    ],
+    [
+      0.112084,
+      "."
+    ],
+    [
+      0.087907,
+      "/"
+    ],
+    [
+      0.224154,
+      "m"
+    ],
+    [
+      0.087788,
+      "o"
+    ],
+    [
+      0.108435,
+      "dels\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.555577,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000052,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.000826,
+      "\u001b]2;mv heart.training.model ../models\u0007\u001b]1;mv\u0007"
+    ],
+    [
+      0.004077,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000157,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.019553,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000128,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.687430,
+      "l"
+    ],
+    [
+      0.103715,
+      "\u0008ll"
+    ],
+    [
+      0.183946,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000046,
+      "\r\r\n"
+    ],
+    [
+      0.000898,
+      "\u001b]2;ls -G -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.005678,
+      "total 960\r\n"
+    ],
+    [
+      0.000205,
+      "-rw-r--r--   1 gabe  staff   1.5K Apr  1 14:36 COPYRIGHT\r\n-rw-r--r--   1 gabe  staff    77K Apr  1 14:36 FAQ.html\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--   1 gabe  staff   732B Apr  1 14:36 Makefile\r\n-rw-r--r--   1 gabe  staff   1.1K Apr  1 14:36 Makefile.win\r\n-rw-r--r--   1 gabe  staff    28K Apr  1 14:36 README\r\n-rw-r--r--   1 gabe  staff    27K Apr  1 14:36 heart_scale\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x  10 gabe  staff   340B Apr  1 14:36 \u001b[1m\u001b[36mjava\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  11 gabe  staff   374B Apr  1 14:36 \u001b[1m\u001b[36mmatlab\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   6 gabe  staff   204B Apr  1 14:36 \u001b[1m\u001b[36mpython\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "-rwxr-xr-x   1 gabe  staff    66K Apr  1 14:36 \u001b[31msvm-predict\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--   1 gabe  staff   5.4K Apr  1 14:36 svm-predict.c\r\n"
+    ],
+    [
+      0.000021,
+      "-rwxr-xr-x   1 gabe  staff    18K Apr  1 14:36 \u001b[31msvm-scale\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 gabe  staff   8.3K Apr  1 14:36 svm-scale.c\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   5 gabe  staff   170B Apr  1 14:36 \u001b[1m\u001b[36msvm-toy\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "-rwxr-xr-x   1 gabe  staff    67K Apr  1 14:36 \u001b[31msvm-train\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--   1 gabe  staff   8.8K Apr  1 14:36 svm-train.c\r\n-rw-r--r--   1 gabe  staff    63K Apr  1 14:36 svm.cpp\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 gabe  staff   477B Apr  1 14:36 svm.def\r\n-rw-r--r--   1 gabe  staff   3.3K Apr  1 14:36 svm.h\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--   1 gabe  staff    69K Apr  1 14:36 svm.o\r\n"
+    ],
+    [
+      0.000058,
+      "drwxr-xr-x   7 gabe  staff   238B Apr  1 14:36 \u001b[1m\u001b[36mtools\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x  11 gabe  staff   374B Apr  1 14:36 \u001b[1m\u001b[36mwindows\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000319,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000170,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.019467,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000112,
+      "\u001b[K"
+    ],
+    [
+      0.000095,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.448652,
+      "."
+    ],
+    [
+      0.124171,
+      "\u0008./"
+    ],
+    [
+      0.143965,
+      "s"
+    ],
+    [
+      0.080167,
+      "v"
+    ],
+    [
+      0.215822,
+      "m"
+    ],
+    [
+      0.255823,
+      "-"
+    ],
+    [
+      0.224183,
+      "p"
+    ],
+    [
+      0.111971,
+      "r"
+    ],
+    [
+      0.054751,
+      "e"
+    ],
+    [
+      0.145931,
+      "dict\u001b[1m \u001b[0m"
+    ],
+    [
+      0.422649,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000036,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000066,
+      "\r\r\n"
+    ],
+    [
+      0.000599,
+      "\u001b]2;./svm-predict\u0007\u001b]1;./svm-predict\u0007"
+    ],
+    [
+      0.002791,
+      "Usage: svm-predict [options] test_file model_file output_file\r\noptions:\r\n-b probability_estimates: whether to predict probability estimates, 0 or 1 (default 0); for one-class SVM only 0 is supported\r\n-q : quiet mode (no outputs)\r\n"
+    ],
+    [
+      0.000375,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000136,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.018948,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.793849,
+      "."
+    ],
+    [
+      0.079452,
+      "\u0008./"
+    ],
+    [
+      0.112020,
+      "s"
+    ],
+    [
+      0.064111,
+      "v"
+    ],
+    [
+      0.431759,
+      "m"
+    ],
+    [
+      0.280190,
+      "-"
+    ],
+    [
+      0.200025,
+      "p"
+    ],
+    [
+      0.095723,
+      "r"
+    ],
+    [
+      0.047781,
+      "e"
+    ],
+    [
+      0.176642,
+      "dict\u001b[1m \u001b[0m"
+    ],
+    [
+      1.551744,
+      "\u0008\u001b[0m ."
+    ],
+    [
+      0.127913,
+      "."
+    ],
+    [
+      0.152341,
+      "d"
+    ],
+    [
+      0.335554,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167808,
+      "/"
+    ],
+    [
+      0.096361,
+      "d"
+    ],
+    [
+      0.053270,
+      "a"
+    ],
+    [
+      0.090773,
+      "t"
+    ],
+    [
+      0.087886,
+      "a"
+    ],
+    [
+      0.204230,
+      "\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.571685,
+      "\u0008\u001b[0m/h"
+    ],
+    [
+      0.072141,
+      "e"
+    ],
+    [
+      0.015788,
+      "a"
+    ],
+    [
+      0.071899,
+      "r"
+    ],
+    [
+      0.152248,
+      "t"
+    ],
+    [
+      0.183932,
+      "."
+    ],
+    [
+      0.128110,
+      "v"
+    ],
+    [
+      0.155265,
+      "l"
+    ],
+    [
+      0.060605,
+      "i"
+    ],
+    [
+      0.102328,
+      "\u0007"
+    ],
+    [
+      0.417347,
+      "\u0008 \u0008"
+    ],
+    [
+      0.126082,
+      "\u0008 \u0008"
+    ],
+    [
+      0.074467,
+      "a"
+    ],
+    [
+      0.109880,
+      "l"
+    ],
+    [
+      0.049652,
+      "i"
+    ],
+    [
+      0.084018,
+      "dation\u001b[1m \u001b[0m"
+    ],
+    [
+      1.576627,
+      "\u0008\u001b[0m ."
+    ],
+    [
+      0.123007,
+      "."
+    ],
+    [
+      0.080210,
+      "/"
+    ],
+    [
+      0.192409,
+      "m"
+    ],
+    [
+      0.063934,
+      "o"
+    ],
+    [
+      0.108425,
+      "dels\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.099537,
+      "\u0008\u001b[0m/h"
+    ],
+    [
+      0.054358,
+      "e"
+    ],
+    [
+      0.033430,
+      "a"
+    ],
+    [
+      0.072184,
+      "r"
+    ],
+    [
+      0.447929,
+      "t"
+    ],
+    [
+      0.160057,
+      "."
+    ],
+    [
+      0.223983,
+      "t"
+    ],
+    [
+      0.047750,
+      "r"
+    ],
+    [
+      0.636813,
+      "aining.model\u001b[1m \u001b[0m"
+    ],
+    [
+      2.043418,
+      "\u0008\u001b[0m h"
+    ],
+    [
+      0.054050,
+      "e \r\u001b[K"
+    ],
+    [
+      0.033813,
+      "a"
+    ],
+    [
+      0.048122,
+      "\rar"
+    ],
+    [
+      0.911845,
+      "t"
+    ],
+    [
+      0.495975,
+      "_"
+    ],
+    [
+      0.295972,
+      "f"
+    ],
+    [
+      0.069750,
+      "r"
+    ],
+    [
+      0.082268,
+      "o"
+    ],
+    [
+      0.063801,
+      "m"
+    ],
+    [
+      0.288214,
+      "_"
+    ],
+    [
+      0.223802,
+      "l"
+    ],
+    [
+      0.232072,
+      "i"
+    ],
+    [
+      0.071971,
+      "n"
+    ],
+    [
+      0.072006,
+      "e"
+    ],
+    [
+      0.045593,
+      "a"
+    ],
+    [
+      0.074589,
+      "r"
+    ],
+    [
+      0.399934,
+      "."
+    ],
+    [
+      0.208033,
+      "p"
+    ],
+    [
+      0.071866,
+      "r"
+    ],
+    [
+      0.103903,
+      "e"
+    ],
+    [
+      0.184134,
+      "d"
+    ],
+    [
+      0.192012,
+      "i"
+    ],
+    [
+      0.112043,
+      "c"
+    ],
+    [
+      0.183825,
+      "t"
+    ],
+    [
+      0.103202,
+      "i"
+    ],
+    [
+      0.024961,
+      "o"
+    ],
+    [
+      0.474249,
+      "n"
+    ],
+    [
+      0.117754,
+      "s"
+    ],
+    [
+      1.351679,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000054,
+      "\r\r\n"
+    ],
+    [
+      0.000904,
+      "\u001b]2;./svm-predict ../data/heart.validation ../models/heart.training.model \u0007\u001b]1;./svm-predict\u0007"
+    ],
+    [
+      0.005058,
+      "Accuracy = 85% (85/100) (classification)\r\n"
+    ],
+    [
+      0.000484,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000138,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.020539,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000084,
+      "\u001b[K"
+    ],
+    [
+      0.000116,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.284934,
+      "\r\r\n"
+    ],
+    [
+      0.000654,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000107,
+      "\u001b]2;gabe@Gabes-MacBook-Pro: ~/Google Drive/svm_presentation/libsvm\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;..tation/libsvm\u0007"
+    ],
+    [
+      0.020693,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mlibsvm \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000046,
+      "\u001b[K"
+    ],
+    [
+      0.000127,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.486281,
+      "e"
+    ],
+    [
+      0.179783,
+      "\u0008ex"
+    ],
+    [
+      0.152018,
+      "i"
+    ],
+    [
+      0.112189,
+      "t"
+    ],
+    [
+      0.119682,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000844,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
