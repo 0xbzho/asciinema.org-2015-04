@@ -1,0 +1,474 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 41.931916,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.332943,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.148182,
+      "  _   _      _             \r\n | |_(_) ___| |_ __ _  ___ \r\n | __| |/ __| __/ _` |/ __|\r\n | |_| | (__| || (_| | (__ \r\n  \\__|_|\\___|\\__\\__,_|\\___|\r\n                           \r\n"
+    ],
+    [
+      0.001128,
+      " Currently running on \u001b[38;5;41mLinux 3.16.0-33-generic x86_64 GNU/Linux\r\n\u001b[0m"
+    ],
+    [
+      0.000267,
+      " Disk: \u001b[38;5;41m380\u001b[0m GB/\u001b[38;5;41m487\u001b[0m GB, \u001b[38;5;156m107\u001b[0m GB remaining\r\n"
+    ],
+    [
+      0.000303,
+      " \u001b[38;5;156m/dev/sda2\u001b[0m: Mounted at \u001b[38;5;41m/\u001b[0m (\u001b[38;5;156mrw,errors=remount-ro\u001b[0m, \u001b[38;5;156mext4\u001b[0m)\r\n"
+    ],
+    [
+      0.000312,
+      " \u001b[38;5;156m/dev/sda1\u001b[0m: Mounted at \u001b[38;5;41m/boot/efi\u001b[0m (\u001b[38;5;156mrw\u001b[0m, \u001b[38;5;156mvfat\u001b[0m)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.240056,
+      " \u001b[38;5;41m204\u001b[0m processes are running, \u001b[38;5;156m2\u001b[0m are owned by root.\r\n"
+    ],
+    [
+      0.001840,
+      " RAM: \u001b[38;5;41m3.78\u001b[0m MB free/\u001b[38;5;41m3.93\u001b[0m MB total\r\n"
+    ],
+    [
+      0.010867,
+      "\u001b[1m\u001b[38;5;27mcheesy\u001b(B\u001b[m \u001b[1m\u001b[37mat\u001b(B\u001b[m \u001b[1m\u001b[38;5;39mtictac\u001b(B\u001b[m \u001b[1m\u001b[37min\u001b(B\u001b[m \u001b[1m\u001b[38;5;76m~/Code/nim/learn\u001b(B\u001b[m\r"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b(B\u001b[m\u001b[1m$ \u001b(B\u001b[m"
+    ],
+    [
+      1.960671,
+      "n"
+    ],
+    [
+      0.170352,
+      "i"
+    ],
+    [
+      0.183799,
+      "m"
+    ],
+    [
+      1.159899,
+      " "
+    ],
+    [
+      0.326177,
+      "c"
+    ],
+    [
+      0.121918,
+      " "
+    ],
+    [
+      0.891876,
+      "f"
+    ],
+    [
+      0.326296,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.079885,
+      "g"
+    ],
+    [
+      0.059837,
+      "a"
+    ],
+    [
+      0.161974,
+      "m"
+    ],
+    [
+      0.187190,
+      "\u0007"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.705413,
+      "."
+    ],
+    [
+      0.149671,
+      "nim "
+    ],
+    [
+      0.441979,
+      "\r\nconfig/nim.cfg(45, 2) Hint: added path: '/home/cheesy/.babel/pkgs/' [Path]"
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "config/nim.cfg(46, 2) Hint: added path: '/home/cheesy/.nimble/pkgs/nimble-0.6.0' [Path]"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "config/nim.cfg(46, 2) Hint: added path: '/home/cheesy/.nimble/pkgs/' [Path]"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "Hint: used config file '/home/cheesy/Builds/Nim/config/nim.cfg' [Conf]"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "Hint: system [Processing]"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.248091,
+      "Hint: game [Processing]\r\n"
+    ],
+    [
+      0.000631,
+      "Hint: strutils [Processing]\r\n"
+    ],
+    [
+      0.000470,
+      "Hint: parseutils [Processing]\r\n"
+    ],
+    [
+      0.056831,
+      "Hint: math [Processing]\r\n"
+    ],
+    [
+      0.001057,
+      "Hint: times [Processing]\r\n"
+    ],
+    [
+      0.053365,
+      "[Linking]\r\n"
+    ],
+    [
+      0.074097,
+      "Hint: operation successful (11857 lines compiled; 0.435 sec total; 19.199MB) [SuccessX]\r\n"
+    ],
+    [
+      0.006544,
+      "\u001b[1m\u001b[38;5;27mcheesy\u001b(B\u001b[m \u001b[1m\u001b[37mat\u001b(B\u001b[m \u001b[1m\u001b[38;5;39mtictac\u001b(B\u001b[m \u001b[1m\u001b[37min\u001b(B\u001b[m \u001b[1m\u001b[38;5;76m~/Code/nim/learn\u001b(B\u001b[m\r\r\n\u001b(B\u001b[m\u001b[1m$ \u001b(B\u001b[m"
+    ],
+    [
+      1.037638,
+      "l"
+    ],
+    [
+      0.162336,
+      "e"
+    ],
+    [
+      0.080851,
+      "s"
+    ],
+    [
+      0.193184,
+      "s"
+    ],
+    [
+      0.121514,
+      " "
+    ],
+    [
+      0.298050,
+      "g"
+    ],
+    [
+      0.060114,
+      "a"
+    ],
+    [
+      0.119973,
+      "m"
+    ],
+    [
+      0.241792,
+      "\u0007e"
+    ],
+    [
+      0.610211,
+      "."
+    ],
+    [
+      0.205836,
+      "n"
+    ],
+    [
+      0.149320,
+      "im "
+    ],
+    [
+      0.296851,
+      "\r\n"
+    ],
+    [
+      0.102425,
+      "\u001b[?1049h\u001b[?1h\u001b=\rimport strutils, math\r\n\r\nrandomize()\r\nvar answer = random(1000) + 1\r\nwhile true:\r\n  echo \":) [# from 1-1000, what is it?]\"\r\n  let guess = parseInt(stdin.readLine())\r\n\r\n  if guess \u003c answer:\r\n    echo \":| [too low]\"\r\n  elif guess \u003e answer:\r\n    echo \":| [too high]\"\r\n  else:\r\n    echo \":( [correct!]\"\r\n    break\r\n\r\necho \":O [wow, you're pretty good at this game!]\"\r\necho \":) [want to play again sometime?]\"\r\n\u001b[7mgame.nim (END)\u001b[27m\u001b[K"
+    ],
+    [
+      3.513744,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.004684,
+      "\u001b[1m\u001b[38;5;27mcheesy\u001b(B\u001b[m \u001b[1m\u001b[37mat\u001b(B\u001b[m \u001b[1m\u001b[38;5;39mtictac\u001b(B\u001b[m \u001b[1m\u001b[37min\u001b(B\u001b[m \u001b[1m\u001b[38;5;76m~/Code/nim/learn\u001b(B\u001b[m\r\r\n\u001b(B\u001b[m\u001b[1m$ \u001b(B\u001b[m"
+    ],
+    [
+      0.979099,
+      "."
+    ],
+    [
+      0.209786,
+      "/"
+    ],
+    [
+      0.082065,
+      "g"
+    ],
+    [
+      0.039960,
+      "a"
+    ],
+    [
+      0.140205,
+      "m"
+    ],
+    [
+      0.062133,
+      "e"
+    ],
+    [
+      0.120157,
+      "\r\n"
+    ],
+    [
+      0.001163,
+      ":) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      0.950473,
+      "5"
+    ],
+    [
+      0.039855,
+      "0"
+    ],
+    [
+      0.152114,
+      "0"
+    ],
+    [
+      0.140011,
+      "\r\n:| [too high]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      1.058227,
+      "2"
+    ],
+    [
+      0.119626,
+      "5"
+    ],
+    [
+      0.122183,
+      "0"
+    ],
+    [
+      0.099899,
+      "\r\n:| [too low]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      1.893967,
+      "1"
+    ],
+    [
+      0.180245,
+      "0"
+    ],
+    [
+      0.173816,
+      "0"
+    ],
+    [
+      0.216036,
+      "\u0008 \u0008"
+    ],
+    [
+      0.159823,
+      "\u0008 \u0008"
+    ],
+    [
+      0.148206,
+      "\u0008 \u0008"
+    ],
+    [
+      0.666205,
+      "3"
+    ],
+    [
+      0.059838,
+      "0"
+    ],
+    [
+      0.130009,
+      "0"
+    ],
+    [
+      0.215975,
+      "\r\n:| [too high]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      2.344140,
+      "2"
+    ],
+    [
+      0.447676,
+      "7"
+    ],
+    [
+      0.101820,
+      "5"
+    ],
+    [
+      0.316622,
+      "\r\n:| [too low]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      1.199392,
+      "2"
+    ],
+    [
+      0.222475,
+      "7"
+    ],
+    [
+      0.527654,
+      "\u0008 \u0008"
+    ],
+    [
+      0.714083,
+      "9"
+    ],
+    [
+      0.042195,
+      "0"
+    ],
+    [
+      0.179975,
+      "\r\n:| [too high]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      1.811647,
+      "2"
+    ],
+    [
+      0.100128,
+      "8"
+    ],
+    [
+      0.197938,
+      "0"
+    ],
+    [
+      0.176282,
+      "\r\n:| [too low]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      1.129780,
+      "2"
+    ],
+    [
+      0.406244,
+      "8"
+    ],
+    [
+      0.389809,
+      "5"
+    ],
+    [
+      0.163932,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      ":| [too low]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      0.901800,
+      "2"
+    ],
+    [
+      0.200095,
+      "8"
+    ],
+    [
+      0.786075,
+      "8"
+    ],
+    [
+      0.266128,
+      "\r\n:| [too low]\r\n:) [# from 1-1000, what is it?]\r\n"
+    ],
+    [
+      1.652008,
+      "2"
+    ],
+    [
+      0.480043,
+      "8"
+    ],
+    [
+      0.141955,
+      "9"
+    ],
+    [
+      0.242009,
+      "\r\n:( [correct!]\r\n:O [wow, you're pretty good at this game!]\r\n:) [want to play again sometime?]\r\n"
+    ],
+    [
+      0.004489,
+      "\u001b[1m\u001b[38;5;27mcheesy\u001b(B\u001b[m \u001b[1m\u001b[37mat\u001b(B\u001b[m \u001b[1m\u001b[38;5;39mtictac\u001b(B\u001b[m \u001b[1m\u001b[37min\u001b(B\u001b[m \u001b[1m\u001b[38;5;76m~/Code/nim/learn\u001b(B\u001b[m\r\r\n\u001b(B\u001b[m\u001b[1m$ \u001b(B\u001b[m"
+    ],
+    [
+      3.320340,
+      "exit\r\n"
+    ]
+  ]
+}
