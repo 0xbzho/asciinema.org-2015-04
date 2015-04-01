@@ -1,0 +1,422 @@
+{
+  "version": 1,
+  "width": 194,
+  "height": 50,
+  "duration": 45.666402,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.526952,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.010222,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[38;5;244m~%\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      1.772324,
+      "\u001b[96ml\u001b[39m"
+    ],
+    [
+      0.884294,
+      "\u0008\u001b[39m \u0008"
+    ],
+    [
+      0.171318,
+      "\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.112683,
+      "\u0008\u001b[24m\u001b[96mp\u001b[96mr\u001b[39m"
+    ],
+    [
+      0.408027,
+      "\u0008\u0008\u001b[96mp\u001b[96mr\u001b[96my\u001b[39m"
+    ],
+    [
+      0.286068,
+      "\r\r\n"
+    ],
+    [
+      0.203317,
+      "p"
+    ],
+    [
+      0.079993,
+      "r"
+    ],
+    [
+      0.288010,
+      "y"
+    ],
+    [
+      0.083426,
+      "\u001b[0G"
+    ],
+    [
+      0.002183,
+      "[1] pry(main)\u003e "
+    ],
+    [
+      0.000005,
+      "pr"
+    ],
+    [
+      0.000017,
+      "y"
+    ],
+    [
+      0.050713,
+      "-"
+    ],
+    [
+      0.145677,
+      "v"
+    ],
+    [
+      0.231538,
+      "e"
+    ],
+    [
+      0.159370,
+      "r"
+    ],
+    [
+      0.080305,
+      "s"
+    ],
+    [
+      0.143525,
+      "i"
+    ],
+    [
+      0.144069,
+      "o"
+    ],
+    [
+      0.167693,
+      "n"
+    ],
+    [
+      0.216775,
+      "\r\n"
+    ],
+    [
+      0.004327,
+      "\u001b[1A\u001b[0G[1] pry(main)\u003e pry-version\u001b[1B\u001b[0G"
+    ],
+    [
+      0.002042,
+      "Pry version: 0.10.0 on Ruby 2.2.1.\r\n"
+    ],
+    [
+      0.000350,
+      "[2] pry(main)\u003e "
+    ],
+    [
+      14.379942,
+      "class Test\r\n\u001b[1A\u001b[0G[2] pry(main)\u003e \u001b[38;5;173;1mclass\u001b[0m \u001b[38;5;223;1mTest\u001b[0m\u001b[1B\u001b[0G             |     def test\r\n\u001b[1A\u001b[0G             |   \u001b[38;5;173;1mdef\u001b[0m \u001b[38;5;228mtest\u001b[0m  \u001b[1B\u001b[0G             |         puts \"MUHAHAHA\"\r\n\u001b[1A\u001b[0G             |     puts \u001b[38;5;245m\u001b[38;5;245m\"\u001b[0m\u001b[38;5;245m\u001b[38;5;174mMUHAHAHA\u001b[0m\u001b[38;5;245m\u001b[38;5;245m\"\u001b[0m\u001b[38;5;245m\u001b[0m    \u001b[1B\u001b[0G"
+    ],
+    [
+      0.007291,
+      "             |       end\r\n\u001b[1A\u001b[0G             |   \u001b[38;5;173;1mend\u001b[0m    \u001b[1B\u001b[0G             |   end\r\n\u001b[1A\u001b[0G             | \u001b[38;5;173;1mend\u001b[0m  \u001b[1B\u001b[0G"
+    ],
+    [
+      0.001959,
+      "=\u003e \u001b[38;5;174;1m:test\u001b[0m\r\n"
+    ],
+    [
+      0.000328,
+      "[3] pry(main)\u003e "
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000383,
+      "\u001b[1A\u001b[0G[3] pry(main)\u003e \u001b[1B\u001b[0G"
+    ],
+    [
+      0.002288,
+      "[4] pry(main)\u003e "
+    ],
+    [
+      0.000074,
+      "class DTest "
+    ],
+    [
+      0.000051,
+      "\u003c S"
+    ],
+    [
+      0.000055,
+      "imp"
+    ],
+    [
+      0.000046,
+      "le"
+    ],
+    [
+      0.000052,
+      "De"
+    ],
+    [
+      0.000045,
+      "le"
+    ],
+    [
+      0.000052,
+      "ga"
+    ],
+    [
+      0.000050,
+      "to"
+    ],
+    [
+      0.000061,
+      "r\r\n"
+    ],
+    [
+      0.001298,
+      "\u001b[1A\u001b[0G[4] pry(main)\u003e \u001b[38;5;173;1mclass\u001b[0m \u001b[38;5;223;1mDTest\u001b[0m \u003c \u001b[38;5;223;1mSimpleDelegator\u001b[0m\u001b[1B\u001b[0G"
+    ],
+    [
+      0.002316,
+      "             |   "
+    ],
+    [
+      0.000075,
+      "  def test2"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.001201,
+      "\u001b[1A\u001b[0G             |   \u001b[38;5;173;1mdef\u001b[0m \u001b[38;5;228mtest2\u001b[0m  \u001b[1B\u001b[0G"
+    ],
+    [
+      0.002336,
+      "             |     "
+    ],
+    [
+      0.000073,
+      "    puts \"a"
+    ],
+    [
+      0.000053,
+      "noth"
+    ],
+    [
+      0.000054,
+      "er"
+    ],
+    [
+      0.000050,
+      " ha"
+    ],
+    [
+      0.000055,
+      "ha"
+    ],
+    [
+      0.000058,
+      "\"\r\n"
+    ],
+    [
+      0.001199,
+      "\u001b[1A\u001b[0G             |     puts \u001b[38;5;245m\u001b[38;5;245m\"\u001b[0m\u001b[38;5;245m\u001b[38;5;174manother haha\u001b[0m\u001b[38;5;245m\u001b[38;5;245m\"\u001b[0m\u001b[38;5;245m\u001b[0m    \u001b[1B\u001b[0G"
+    ],
+    [
+      0.002366,
+      "             |     "
+    ],
+    [
+      0.000076,
+      "  end\r\n"
+    ],
+    [
+      0.001050,
+      "\u001b[1A\u001b[0G             |   \u001b[38;5;173;1mend\u001b[0m    \u001b[1B\u001b[0G"
+    ],
+    [
+      0.002454,
+      "             |   "
+    ],
+    [
+      0.000073,
+      "end\r\n"
+    ],
+    [
+      0.001036,
+      "\u001b[1A\u001b[0G             | \u001b[38;5;173;1mend\u001b[0m  \u001b[1B\u001b[0G"
+    ],
+    [
+      0.002978,
+      "=\u003e \u001b[38;5;174;1m:test2\u001b[0m\r\n"
+    ],
+    [
+      0.000190,
+      "[5] pry(main)\u003e "
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000786,
+      "\u001b[1A\u001b[0G[5] pry(main)\u003e \u001b[1B\u001b[0G"
+    ],
+    [
+      0.002539,
+      "[6] pry(main)\u003e "
+    ],
+    [
+      0.000074,
+      "t = Test.ne"
+    ],
+    [
+      0.000056,
+      "w\r\n"
+    ],
+    [
+      0.001671,
+      "\u001b[1A\u001b[0G[6] pry(main)\u003e t = \u001b[38;5;223;1mTest\u001b[0m.new\u001b[1B\u001b[0G"
+    ],
+    [
+      0.002857,
+      "=\u003e \u001b[32m#\u003cTest:0x00000003979340\u001b[0m\u001b[32m\u003e\u001b[0m\r\n"
+    ],
+    [
+      0.000118,
+      "[7] pry(main)\u003e "
+    ],
+    [
+      0.000055,
+      "d = D"
+    ],
+    [
+      0.000056,
+      "Tes"
+    ],
+    [
+      0.000049,
+      "t.n"
+    ],
+    [
+      0.000055,
+      "ew("
+    ],
+    [
+      0.000010,
+      "t)"
+    ],
+    [
+      1.178250,
+      "\r\n\u001b[1A\u001b[0G[7] pry(main)\u003e d = \u001b[38;5;223;1mDTest\u001b[0m.new(t)\u001b[1B\u001b[0G"
+    ],
+    [
+      0.004464,
+      "=\u003e \u001b[32m#\u003cTest:0x00000003979340\u001b[0m\u001b[32m\u003e\u001b[0m\r\n"
+    ],
+    [
+      0.000531,
+      "[8] pry(main)\u003e "
+    ],
+    [
+      1.077511,
+      "\r\n\u001b[1A\u001b[0G[8] pry(main)\u003e \u001b[1B\u001b[0G[9] pry(main)\u003e "
+    ],
+    [
+      0.157843,
+      "\r\n\u001b[1A\u001b[0G[9] pry(main)\u003e \u001b[1B\u001b[0G[10] pry(main)\u003e "
+    ],
+    [
+      2.610456,
+      "c"
+    ],
+    [
+      0.184061,
+      "d"
+    ],
+    [
+      0.103218,
+      " "
+    ],
+    [
+      0.055753,
+      "d"
+    ],
+    [
+      0.120125,
+      "\r\n"
+    ],
+    [
+      0.003245,
+      "\u001b[1A\u001b[0G[10] pry(main)\u003e cd d\u001b[1B\u001b[0G"
+    ],
+    [
+      0.002257,
+      "[11] pry(#\u003cDTest\u003e):1\u003e "
+    ],
+    [
+      3.467236,
+      "k"
+    ],
+    [
+      0.367994,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176041,
+      "l"
+    ],
+    [
+      0.143877,
+      "s"
+    ],
+    [
+      0.363603,
+      "\r\n\u001b[1A\u001b[0G[11] pry(#\u003cDTest\u003e):1\u003e ls\u001b[1B\u001b[0G"
+    ],
+    [
+      0.031155,
+      "\u001b[1m\u001b[1;34mBasicObject#methods\u001b[0m\u001b[0m: __binding__  __id__  __send__  equal?  instance_eval  instance_exec\r\n\u001b[1m\u001b[1;34m#\u003cModule:0x0000000158aa88\u003e#methods\u001b[0m\u001b[0m: \r\n  class                    dup       instance_of?                instance_variables  method          private_methods           respond_to?       singleton_methods  untrusted?\r\n  clone                    enum_for  instance_variable_defined?  is_a?               nil?            public_method             send              tainted?         \r\n  define_singleton_method  extend    instance_variable_get       itself              object_id       public_send               singleton_class   tap              \r\n  display                  frozen?   instance_variable_set       kind_of?            pretty_inspect  remove_instance_variable  singleton_method  to_enum          \r\n\u001b[1m\u001b[1;34mDelegator#methods\u001b[0m\u001b[0m: !  !=  ==  freeze  marshal_dump  marshal_load  \u001b[1;31mmethod_missing\u001b[0m  methods  protected_methods  public_methods  taint  trust  untaint  untrust\r\n\u001b[1m\u001b[1;34mSimpleDelegator#methods\u001b[0m\u001b[0m: __getobj__  __setobj__\r\n\u001b[1m\u001b[1;34mDTest#methods\u001b[0m\u001b[0m: test2\r\n\u001b[1m\u001b[1;34mself.methods\u001b[0m\u001b[0m: __pry__\r\n\u001b[1m\u001b[1;34mlocals\u001b[0m\u001b[0m: \u001b[0;33margs\u001b[0m  \u001b[0;33mblock\u001b[0m  \u001b[0;33mm\u001b[0m  \u001b[0;33mr\u001b[0m  \u001b[0;33mtarget\u001b[0m\r\n"
+    ],
+    [
+      0.000499,
+      "[12] pry(#\u003cDTest\u003e):1\u003e "
+    ],
+    [
+      13.261839,
+      "\r\n[12] pry(main)\u003e "
+    ],
+    [
+      0.649527,
+      "\r\n"
+    ],
+    [
+      0.014420,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.005572,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[38;5;244m~%\u001b[39m \u001b[K"
+    ],
+    [
+      1.043667,
+      "\r\r\n"
+    ]
+  ]
+}
