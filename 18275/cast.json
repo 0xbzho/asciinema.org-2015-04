@@ -1,0 +1,1834 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 244.719174,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.406752,
+      "\u001b]0;root@brick:/tfinal_serv\u0007"
+    ],
+    [
+      0.000876,
+      "\u001b[?1034h[root@brick tfinal_serv]# "
+    ],
+    [
+      1.202769,
+      "l"
+    ],
+    [
+      0.069950,
+      "s"
+    ],
+    [
+      0.125007,
+      "\r\n"
+    ],
+    [
+      0.014076,
+      "access-info.txt         idenb_user.sql        \u001b[0m\u001b[01;31mscoutme.tar\u001b[0m\r\n\u001b[01;31malive_servinfo.tgz\u001b[0m      misc_s2.sql           serv_setup_structure.txt\r\n\u001b[01;32masciinema\u001b[0m               \u001b[01;31mmiscs_final.tgz\u001b[0m       \u001b[01;31msmall_raw-dat.tgz\u001b[0m\r\n\u001b[01;31mbackup_iden.tgz\u001b[0m         notes.txt             sorted.csv\r\ncluster_setups.txt      PNA_sorted_final.txt  sorted_important.txt\r\n\u001b[01;31mcontracts.tgz\u001b[0m           raw_credB1.txt        \u001b[01;31mTBT.tar\u001b[0m\r\ndirectory_listings.txt  \u001b[01;32msaferm.sh\u001b[0m             tn_global_user.sql\r\n\u001b[m"
+    ],
+    [
+      0.001091,
+      "\u001b]0;root@brick:/tfinal_serv\u0007[root@brick tfinal_serv]# "
+    ],
+    [
+      1.147837,
+      "."
+    ],
+    [
+      0.064184,
+      "/"
+    ],
+    [
+      0.536833,
+      "s"
+    ],
+    [
+      0.038983,
+      "a"
+    ],
+    [
+      0.303012,
+      "ferm.sh "
+    ],
+    [
+      2.554075,
+      "\r\n"
+    ],
+    [
+      0.021078,
+      "Removing all files..using 4-12 passes\r\n"
+    ],
+    [
+      0.010915,
+      "shred: scoutme.tar: pass 1/5 (random)...\r\n"
+    ],
+    [
+      5.000261,
+      "shred: scoutme.tar: pass 1/5 (random)...668MiB/1.4GiB 47%\r\n"
+    ],
+    [
+      5.071031,
+      "shred: scoutme.tar: pass 1/5 (random)...942MiB/1.4GiB 67%\r\n"
+    ],
+    [
+      4.914016,
+      "shred: scoutme.tar: pass 1/5 (random)...1.3GiB/1.4GiB 99%\r\n"
+    ],
+    [
+      1.751086,
+      "shred: scoutme.tar: pass 1/5 (random)...1.4GiB/1.4GiB 100%\r\n"
+    ],
+    [
+      0.083181,
+      "shred: scoutme.tar: pass 2/5 (ffffff)...\r\n"
+    ],
+    [
+      4.165409,
+      "shred: scoutme.tar: pass 2/5 (ffffff)...595MiB/1.4GiB 42%\r\n"
+    ],
+    [
+      5.013979,
+      "shred: scoutme.tar: pass 2/5 (ffffff)...1.0GiB/1.4GiB 74%\r\n"
+    ],
+    [
+      3.898760,
+      "shred: scoutme.tar: pass 2/5 (ffffff)...1.4GiB/1.4GiB 100%\r\n"
+    ],
+    [
+      1.206618,
+      "shred: scoutme.tar: pass 3/5 (000000)...\r\n"
+    ],
+    [
+      4.914937,
+      "shred: scoutme.tar: pass 3/5 (000000)...736MiB/1.4GiB 52%\r\n"
+    ],
+    [
+      4.972420,
+      "shred: scoutme.tar: pass 3/5 (000000)...1.1GiB/1.4GiB 80%\r\n"
+    ],
+    [
+      3.294520,
+      "shred: scoutme.tar: pass 3/5 (000000)...1.4GiB/1.4GiB 100%\r\n"
+    ],
+    [
+      1.648089,
+      "shred: scoutme.tar: pass 4/5 (random)...\r\n"
+    ],
+    [
+      4.058545,
+      "shred: scoutme.tar: pass 4/5 (random)...644MiB/1.4GiB 46%\r\n"
+    ],
+    [
+      5.053362,
+      "shred: scoutme.tar: pass 4/5 (random)...988MiB/1.4GiB 70%\r\n"
+    ],
+    [
+      4.512133,
+      "shred: scoutme.tar: pass 4/5 (random)...1.4GiB/1.4GiB 100%\r\n"
+    ],
+    [
+      1.416022,
+      "shred: scoutme.tar: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      4.035115,
+      "shred: scoutme.tar: pass 5/5 (000000)...496MiB/1.4GiB 35%\r\n"
+    ],
+    [
+      4.984995,
+      "shred: scoutme.tar: pass 5/5 (000000)...977MiB/1.4GiB 69%\r\n"
+    ],
+    [
+      3.827562,
+      "shred: scoutme.tar: pass 5/5 (000000)...1.4GiB/1.4GiB 100%\r\n"
+    ],
+    [
+      2.032174,
+      "shred: scoutme.tar: removing\r\n"
+    ],
+    [
+      0.023031,
+      "shred: scoutme.tar: renamed to 00000000000\r\n"
+    ],
+    [
+      0.001928,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.004010,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002763,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.001990,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.000968,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.002018,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.003004,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.001999,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.002003,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.000987,
+      "shred: 00: renamed to 0\r\nshred: scoutme.tar: removed\r\n"
+    ],
+    [
+      0.449430,
+      "shred: TBT.tar: pass 1/5 (random)...\r\n"
+    ],
+    [
+      4.643879,
+      "shred: TBT.tar: pass 1/5 (random)...933MiB/1.9GiB 49%\r\n"
+    ],
+    [
+      5.005501,
+      "shred: TBT.tar: pass 1/5 (random)...1.5GiB/1.9GiB 81%\r\n"
+    ],
+    [
+      3.259206,
+      "shred: TBT.tar: pass 1/5 (random)...1.9GiB/1.9GiB 100%\r\n"
+    ],
+    [
+      1.995123,
+      "shred: TBT.tar: pass 2/5 (000000)...\r\n"
+    ],
+    [
+      4.759845,
+      "shred: TBT.tar: pass 2/5 (000000)...870MiB/1.9GiB 45%\r\n"
+    ],
+    [
+      4.975390,
+      "shred: TBT.tar: pass 2/5 (000000)...1.5GiB/1.9GiB 83%\r\n"
+    ],
+    [
+      4.109840,
+      "shred: TBT.tar: pass 2/5 (000000)...1.9GiB/1.9GiB 100%\r\n"
+    ],
+    [
+      2.364229,
+      "shred: TBT.tar: pass 3/5 (ffffff)...\r\n"
+    ],
+    [
+      4.523880,
+      "shred: TBT.tar: pass 3/5 (ffffff)...955MiB/1.9GiB 50%\r\n"
+    ],
+    [
+      5.005059,
+      "shred: TBT.tar: pass 3/5 (ffffff)...1.5GiB/1.9GiB 85%\r\n"
+    ],
+    [
+      4.633881,
+      "shred: TBT.tar: pass 3/5 (ffffff)...1.9GiB/1.9GiB 100%\r\n"
+    ],
+    [
+      2.166156,
+      "shred: TBT.tar: pass 4/5 (random)...\r\n"
+    ],
+    [
+      4.199751,
+      "shred: TBT.tar: pass 4/5 (random)...668MiB/1.9GiB 35%\r\n"
+    ],
+    [
+      5.106059,
+      "shred: TBT.tar: pass 4/5 (random)...1.3GiB/1.9GiB 70%\r\n"
+    ],
+    [
+      4.953837,
+      "shred: TBT.tar: pass 4/5 (random)...1.7GiB/1.9GiB 96%\r\n"
+    ],
+    [
+      3.466071,
+      "shred: TBT.tar: pass 4/5 (random)...1.9GiB/1.9GiB 100%\r\n"
+    ],
+    [
+      0.477198,
+      "shred: TBT.tar: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      4.999447,
+      "shred: TBT.tar: pass 5/5 (000000)...772MiB/1.9GiB 40%\r\n"
+    ],
+    [
+      5.475604,
+      "shred: TBT.tar: pass 5/5 (000000)...1.3GiB/1.9GiB 71%\r\n"
+    ],
+    [
+      4.354994,
+      "shred: TBT.tar: pass 5/5 (000000)...1.9GiB/1.9GiB 100%\r\n"
+    ],
+    [
+      3.596641,
+      "shred: TBT.tar: removing\r\n"
+    ],
+    [
+      0.029021,
+      "shred: TBT.tar: renamed to 0000000\r\n"
+    ],
+    [
+      0.001901,
+      "shred: 0000000: renamed to 000000\r\nshred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.001996,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.001999,
+      "shred: 0000: renamed to 000\r\nshred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.003093,
+      "shred: 00: renamed to 0\r\nshred: TBT.tar: removed\r\n"
+    ],
+    [
+      0.052958,
+      "shred: tn_global_user.sql: pass 1/5 (random)...\r\n"
+    ],
+    [
+      2.383177,
+      "shred: tn_global_user.sql: pass 2/5 (000000)...\r\n"
+    ],
+    [
+      1.686013,
+      "shred: tn_global_user.sql: pass 3/5 (ffffff)...\r\n"
+    ],
+    [
+      1.558872,
+      "shred: tn_global_user.sql: pass 4/5 (random)...\r\n"
+    ],
+    [
+      1.715091,
+      "shred: tn_global_user.sql: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      1.674732,
+      "shred: tn_global_user.sql: removing\r\n"
+    ],
+    [
+      0.008542,
+      "shred: tn_global_user.sql: renamed to 000000000000000000\r\n"
+    ],
+    [
+      0.002546,
+      "shred: 000000000000000000: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.002993,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.004139,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.002108,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.001047,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.000989,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.001979,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.001030,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.001962,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.001992,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.001018,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.001972,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.001030,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.001972,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.003005,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.003995,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.002008,
+      "shred: 00: renamed to 0\r\nshred: tn_global_user.sql: removed\r\n"
+    ],
+    [
+      0.042116,
+      "shred: misc_s2.sql: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.088166,
+      "shred: misc_s2.sql: pass 2/5 (ffffff)...\r\n"
+    ],
+    [
+      0.069822,
+      "shred: misc_s2.sql: pass 3/5 (000000)...\r\n"
+    ],
+    [
+      0.089249,
+      "shred: misc_s2.sql: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.073800,
+      "shred: misc_s2.sql: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.066924,
+      "shred: misc_s2.sql: removing\r\n"
+    ],
+    [
+      0.013062,
+      "shred: misc_s2.sql: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002674,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.000997,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002021,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.000966,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.002026,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.000961,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.002035,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.001991,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.000986,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.002018,
+      "shred: 00: renamed to 0\r\nshred: misc_s2.sql: removed\r\n"
+    ],
+    [
+      10.068105,
+      "shred: idenb_user.sql: pass 1/5 (random)...\r\n"
+    ],
+    [
+      1.638018,
+      "shred: idenb_user.sql: pass 2/5 (ffffff)...\r\n"
+    ],
+    [
+      0.886962,
+      "shred: idenb_user.sql: pass 3/5 (000000)...\r\n"
+    ],
+    [
+      0.833309,
+      "shred: idenb_user.sql: pass 4/5 (random)...\r\n"
+    ],
+    [
+      1.179887,
+      "shred: idenb_user.sql: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.911057,
+      "shred: idenb_user.sql: removing\r\n"
+    ],
+    [
+      0.006062,
+      "shred: idenb_user.sql: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.002587,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.000978,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.001983,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.005055,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.001980,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002063,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.001951,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.000963,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.002005,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.000991,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002261,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.001959,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.000827,
+      "shred: 00: renamed to 0\r\nshred: idenb_user.sql: removed\r\n"
+    ],
+    [
+      0.024049,
+      "shred: sorted.csv: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.017969,
+      "shred: sorted.csv: pass 2/5 (000000)...\r\n"
+    ],
+    [
+      0.009957,
+      "shred: sorted.csv: pass 3/5 (ffffff)...\r\n"
+    ],
+    [
+      0.008970,
+      "shred: sorted.csv: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.008041,
+      "shred: sorted.csv: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.014364,
+      "shred: sorted.csv: removing\r\n"
+    ],
+    [
+      0.002662,
+      "shred: sorted.csv: renamed to 0000000000\r\n"
+    ],
+    [
+      0.000997,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.000962,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.002016,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.001997,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.001008,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.001975,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.003374,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.001619,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.001045,
+      "shred: 00: renamed to 0\r\nshred: sorted.csv: removed\r\n"
+    ],
+    [
+      0.014358,
+      "shred: alive_servinfo.tgz: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.090824,
+      "shred: alive_servinfo.tgz: pass 2/5 (ffffff)...\r\n"
+    ],
+    [
+      0.067851,
+      "shred: alive_servinfo.tgz: pass 3/5 (000000)...\r\n"
+    ],
+    [
+      0.064007,
+      "shred: alive_servinfo.tgz: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.085291,
+      "shred: alive_servinfo.tgz: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.075765,
+      "shred: alive_servinfo.tgz: removing\r\n"
+    ],
+    [
+      0.001900,
+      "shred: alive_servinfo.tgz: renamed to 000000000000000000\r\n"
+    ],
+    [
+      0.001985,
+      "shred: 000000000000000000: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.002048,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.001975,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.001997,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.000947,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.002052,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.001957,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002023,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.000975,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002033,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.002035,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.000946,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.002011,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.002076,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.000886,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.002026,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.002008,
+      "shred: 00: renamed to 0\r\nshred: alive_servinfo.tgz: removed\r\n"
+    ],
+    [
+      5.031109,
+      "shred: backup_iden.tgz: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.681995,
+      "shred: backup_iden.tgz: pass 2/5 (ffffff)...\r\n"
+    ],
+    [
+      0.505171,
+      "shred: backup_iden.tgz: pass 3/5 (000000)...\r\n"
+    ],
+    [
+      0.471976,
+      "shred: backup_iden.tgz: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.579928,
+      "shred: backup_iden.tgz: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.518016,
+      "shred: backup_iden.tgz: removing\r\n"
+    ],
+    [
+      0.005025,
+      "shred: backup_iden.tgz: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.002086,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.001949,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.002016,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.000971,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002030,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.000973,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002007,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.002003,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.000993,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.002015,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.000978,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002019,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.000989,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.002012,
+      "shred: 00: renamed to 0\r\nshred: backup_iden.tgz: removed\r\n"
+    ],
+    [
+      0.016326,
+      "shred: raw_credB1.txt: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.009698,
+      "shred: raw_credB1.txt: pass 2/5 (000000)...\r\n"
+    ],
+    [
+      0.001960,
+      "shred: raw_credB1.txt: pass 3/5 (ffffff)...\r\nshred: raw_credB1.txt: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.001773,
+      "shred: raw_credB1.txt: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.001197,
+      "shred: raw_credB1.txt: removing\r\n"
+    ],
+    [
+      0.002038,
+      "shred: raw_credB1.txt: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.000972,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.002029,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.000956,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002065,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.001990,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002785,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.000994,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.000960,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.002008,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.000980,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002018,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.001961,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.000996,
+      "shred: 00: renamed to 0\r\nshred: raw_credB1.txt: removed\r\n"
+    ],
+    [
+      0.015311,
+      "shred: small_raw-dat.tgz: pass 1/7 (random)...\r\n"
+    ],
+    [
+      0.110843,
+      "shred: small_raw-dat.tgz: pass 2/7 (ffffff)...\r\n"
+    ],
+    [
+      0.078158,
+      "shred: small_raw-dat.tgz: pass 3/7 (aaaaaa)...\r\n"
+    ],
+    [
+      0.068977,
+      "shred: small_raw-dat.tgz: pass 4/7 (000000)...\r\n"
+    ],
+    [
+      0.079520,
+      "shred: small_raw-dat.tgz: pass 5/7 (555555)...\r\n"
+    ],
+    [
+      0.072306,
+      "shred: small_raw-dat.tgz: pass 6/7 (random)...\r\n"
+    ],
+    [
+      0.084162,
+      "shred: small_raw-dat.tgz: pass 7/7 (000000)...\r\n"
+    ],
+    [
+      0.080794,
+      "shred: small_raw-dat.tgz: removing\r\n"
+    ],
+    [
+      0.003066,
+      "shred: small_raw-dat.tgz: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.002164,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.000972,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.002011,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.000974,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.002040,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.000963,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002025,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.000983,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002042,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.001990,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.001993,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.000951,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.002046,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002800,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.000961,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.002181,
+      "shred: 00: renamed to 0\r\nshred: small_raw-dat.tgz: removed\r\n"
+    ],
+    [
+      4.028614,
+      "shred: notes.txt: pass 1/13 (random)...\r\n"
+    ],
+    [
+      0.010437,
+      "shred: notes.txt: pass 2/13 (924924)...\r\nshred: notes.txt: pass 3/13 (444444)...\r\n"
+    ],
+    [
+      0.000769,
+      "shred: notes.txt: pass 4/13 (249249)...\r\nshred: notes.txt: pass 5/13 (db6db6)...\r\n"
+    ],
+    [
+      0.001232,
+      "shred: notes.txt: pass 6/13 (b6db6d)...\r\nshred: notes.txt: pass 7/13 (random)...\r\nshred: notes.txt: pass 8/13 (555555)...\r\n"
+    ],
+    [
+      0.001741,
+      "shred: notes.txt: pass 9/13 (ffffff)...\r\nshred: notes.txt: pass 10/13 (000000)...\r\n"
+    ],
+    [
+      0.001370,
+      "shred: notes.txt: pass 11/13 (aaaaaa)...\r\nshred: notes.txt: pass 12/13 (random)...\r\nshred: notes.txt: pass 13/13 (000000)...\r\n"
+    ],
+    [
+      0.000605,
+      "shred: notes.txt: removing\r\n"
+    ],
+    [
+      0.002314,
+      "shred: notes.txt: renamed to 000000000\r\n"
+    ],
+    [
+      0.000820,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.001250,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.000615,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.001022,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.002072,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.000928,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.007373,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.000628,
+      "shred: 00: renamed to 0\r\nshred: notes.txt: removed\r\n"
+    ],
+    [
+      0.015309,
+      "shred: contracts.tgz: pass 1/8 (random)...\r\n"
+    ],
+    [
+      0.042824,
+      "shred: contracts.tgz: pass 2/8 (ffffff)...\r\n"
+    ],
+    [
+      0.038947,
+      "shred: contracts.tgz: pass 3/8 (555555)...\r\n"
+    ],
+    [
+      0.024016,
+      "shred: contracts.tgz: pass 4/8 (random)...\r\n"
+    ],
+    [
+      0.041122,
+      "shred: contracts.tgz: pass 5/8 (aaaaaa)...\r\n"
+    ],
+    [
+      0.023870,
+      "shred: contracts.tgz: pass 6/8 (000000)...\r\n"
+    ],
+    [
+      0.034012,
+      "shred: contracts.tgz: pass 7/8 (random)...\r\n"
+    ],
+    [
+      0.030288,
+      "shred: contracts.tgz: pass 8/8 (000000)...\r\n"
+    ],
+    [
+      0.036689,
+      "shred: contracts.tgz: removing\r\n"
+    ],
+    [
+      0.002113,
+      "shred: contracts.tgz: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.000839,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.001001,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002042,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.000973,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.000990,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.000978,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.002026,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.000969,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.001028,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002005,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.000975,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.001005,
+      "shred: 00: renamed to 0\r\nshred: contracts.tgz: removed\r\n"
+    ],
+    [
+      10.033258,
+      "shred: PNA_sorted_final.txt: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.222092,
+      "shred: PNA_sorted_final.txt: pass 2/5 (000000)...\r\n"
+    ],
+    [
+      0.164903,
+      "shred: PNA_sorted_final.txt: pass 3/5 (ffffff)...\r\n"
+    ],
+    [
+      0.159791,
+      "shred: PNA_sorted_final.txt: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.188219,
+      "shred: PNA_sorted_final.txt: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.166005,
+      "shred: PNA_sorted_final.txt: removing\r\n"
+    ],
+    [
+      0.006231,
+      "shred: PNA_sorted_final.txt: renamed to 00000000000000000000\r\n"
+    ],
+    [
+      0.004803,
+      "shred: 00000000000000000000: renamed to 0000000000000000000\r\n"
+    ],
+    [
+      0.002720,
+      "shred: 0000000000000000000: renamed to 000000000000000000\r\n"
+    ],
+    [
+      0.000959,
+      "shred: 000000000000000000: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.002012,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.002020,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.001960,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.000991,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.002000,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.002035,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.000979,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.003022,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.000982,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.002016,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.001983,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.001068,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.001999,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.000940,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.002039,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.000953,
+      "shred: 00: renamed to 0\r\n"
+    ],
+    [
+      0.001075,
+      "shred: PNA_sorted_final.txt: removed\r\n"
+    ],
+    [
+      0.016141,
+      "shred: directory_listings.txt: pass 1/6 (random)...\r\n"
+    ],
+    [
+      0.009052,
+      "shred: directory_listings.txt: pass 2/6 (000000)...\r\n"
+    ],
+    [
+      0.001985,
+      "shred: directory_listings.txt: pass 3/6 (random)...\r\nshred: directory_listings.txt: pass 4/6 (ffffff)...\r\n"
+    ],
+    [
+      0.000843,
+      "shred: directory_listings.txt: pass 5/6 (random)...\r\n"
+    ],
+    [
+      0.001143,
+      "shred: directory_listings.txt: pass 6/6 (000000)...\r\n"
+    ],
+    [
+      0.001024,
+      "shred: directory_listings.txt: removing\r\n"
+    ],
+    [
+      0.002007,
+      "shred: directory_listings.txt: renamed to 0000000000000000000000\r\n"
+    ],
+    [
+      0.000992,
+      "shred: 0000000000000000000000: renamed to 000000000000000000000\r\n"
+    ],
+    [
+      0.002001,
+      "shred: 000000000000000000000: renamed to 00000000000000000000\r\n"
+    ],
+    [
+      0.000971,
+      "shred: 00000000000000000000: renamed to 0000000000000000000\r\n"
+    ],
+    [
+      0.002029,
+      "shred: 0000000000000000000: renamed to 000000000000000000\r\n"
+    ],
+    [
+      0.002031,
+      "shred: 000000000000000000: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.002728,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.001002,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.001999,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.001988,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.000974,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.003037,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002023,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.001988,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.001993,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.000974,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.002012,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.002009,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.000986,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.003014,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.001065,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.001968,
+      "shred: 00: renamed to 0\r\nshred: directory_listings.txt: removed\r\n"
+    ],
+    [
+      0.015255,
+      "shred: cluster_setups.txt: pass 1/6 (random)...\r\n"
+    ],
+    [
+      0.010835,
+      "shred: cluster_setups.txt: pass 2/6 (000000)...\r\n"
+    ],
+    [
+      0.001242,
+      "shred: cluster_setups.txt: pass 3/6 (random)...\r\n"
+    ],
+    [
+      0.000626,
+      "shred: cluster_setups.txt: pass 4/6 (ffffff)...\r\n"
+    ],
+    [
+      0.001007,
+      "shred: cluster_setups.txt: pass 5/6 (random)...\r\n"
+    ],
+    [
+      0.001237,
+      "shred: cluster_setups.txt: pass 6/6 (000000)...\r\n"
+    ],
+    [
+      0.001036,
+      "shred: cluster_setups.txt: removing\r\n"
+    ],
+    [
+      0.001986,
+      "shred: cluster_setups.txt: renamed to 000000000000000000\r\n"
+    ],
+    [
+      0.000975,
+      "shred: 000000000000000000: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.002011,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.001018,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.001988,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.002002,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.002000,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.001059,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.001930,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.002015,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.002033,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.002727,
+      "shred: 00000000: renamed to 0000000\r\nshred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.001983,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.003000,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002017,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.001984,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.002013,
+      "shred: 00: renamed to 0\r\nshred: cluster_setups.txt: removed\r\n"
+    ],
+    [
+      15.029018,
+      "shred: access-info.txt: pass 1/6 (random)...\r\n"
+    ],
+    [
+      0.003067,
+      "shred: access-info.txt: pass 2/6 (000000)...\r\nshred: access-info.txt: pass 3/6 (random)...\r\nshred: access-info.txt: pass 4/6 (ffffff)...\r\n"
+    ],
+    [
+      0.001399,
+      "shred: access-info.txt: pass 5/6 (random)...\r\nshred: access-info.txt: pass 6/6 (000000)...\r\n"
+    ],
+    [
+      0.001768,
+      "shred: access-info.txt: removing\r\n"
+    ],
+    [
+      0.001946,
+      "shred: access-info.txt: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.001049,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.002251,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.000017,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.001714,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.000994,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.002044,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.000950,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.002013,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.001957,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.007994,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.001178,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.001826,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.001138,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.001957,
+      "shred: 00: renamed to 0\r\nshred: access-info.txt: removed\r\n"
+    ],
+    [
+      0.014737,
+      "shred: miscs_final.tgz: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.142337,
+      "shred: miscs_final.tgz: pass 2/5 (ffffff)...\r\n"
+    ],
+    [
+      0.108039,
+      "shred: miscs_final.tgz: pass 3/5 (000000)...\r\n"
+    ],
+    [
+      0.097953,
+      "shred: miscs_final.tgz: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.120983,
+      "shred: miscs_final.tgz: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.113038,
+      "shred: miscs_final.tgz: removing\r\n"
+    ],
+    [
+      0.001849,
+      "shred: miscs_final.tgz: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.002025,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.001005,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.002001,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.000967,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002248,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.000105,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.003396,
+      "shred: 000000000: renamed to 00000000\r\nshred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.001990,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.001039,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.000992,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.003010,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.000982,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.001016,
+      "shred: 00: renamed to 0\r\nshred: miscs_final.tgz: removed\r\n"
+    ],
+    [
+      0.015350,
+      "shred: serv_setup_structure.txt: pass 1/5 (random)...\r\n"
+    ],
+    [
+      0.009859,
+      "shred: serv_setup_structure.txt: pass 2/5 (ffffff)...\r\n"
+    ],
+    [
+      0.001157,
+      "shred: serv_setup_structure.txt: pass 3/5 (000000)...\r\nshred: serv_setup_structure.txt: pass 4/5 (random)...\r\n"
+    ],
+    [
+      0.000625,
+      "shred: serv_setup_structure.txt: pass 5/5 (000000)...\r\n"
+    ],
+    [
+      0.000989,
+      "shred: serv_setup_structure.txt: removing\r\n"
+    ],
+    [
+      0.002013,
+      "shred: serv_setup_structure.txt: renamed to 000000000000000000000000\r\n"
+    ],
+    [
+      0.002267,
+      "shred: 000000000000000000000000: renamed to 00000000000000000000000\r\n"
+    ],
+    [
+      0.000969,
+      "shred: 00000000000000000000000: renamed to 0000000000000000000000\r\n"
+    ],
+    [
+      0.001005,
+      "shred: 0000000000000000000000: renamed to 000000000000000000000\r\n"
+    ],
+    [
+      0.001997,
+      "shred: 000000000000000000000: renamed to 00000000000000000000\r\n"
+    ],
+    [
+      0.000994,
+      "shred: 00000000000000000000: renamed to 0000000000000000000\r\n"
+    ],
+    [
+      0.001007,
+      "shred: 0000000000000000000: renamed to 000000000000000000\r\n"
+    ],
+    [
+      0.000991,
+      "shred: 000000000000000000: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.002570,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.001496,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.000941,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.002023,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.001017,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.000974,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.001032,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.001964,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.000991,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.002008,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.000994,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.001008,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.000993,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002012,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.001011,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.000979,
+      "shred: 00: renamed to 0\r\nshred: serv_setup_structure.txt: removed\r\n"
+    ],
+    [
+      0.015833,
+      "shred: sorted_important.txt: pass 1/6 (random)...\r\n"
+    ],
+    [
+      0.009382,
+      "shred: sorted_important.txt: pass 2/6 (ffffff)...\r\n"
+    ],
+    [
+      0.000781,
+      "shred: sorted_important.txt: pass 3/6 (random)...\r\n"
+    ],
+    [
+      0.000987,
+      "shred: sorted_important.txt: pass 4/6 (000000)...\r\nshred: sorted_important.txt: pass 5/6 (random)...\r\n"
+    ],
+    [
+      0.000994,
+      "shred: sorted_important.txt: pass 6/6 (000000)...\r\n"
+    ],
+    [
+      0.001025,
+      "shred: sorted_important.txt: removing\r\n"
+    ],
+    [
+      0.000975,
+      "shred: sorted_important.txt: renamed to 00000000000000000000\r\n"
+    ],
+    [
+      0.002012,
+      "shred: 00000000000000000000: renamed to 0000000000000000000\r\n"
+    ],
+    [
+      0.001725,
+      "shred: 0000000000000000000: renamed to 000000000000000000\r\n"
+    ],
+    [
+      0.001002,
+      "shred: 000000000000000000: renamed to 00000000000000000\r\n"
+    ],
+    [
+      0.000993,
+      "shred: 00000000000000000: renamed to 0000000000000000\r\n"
+    ],
+    [
+      0.001274,
+      "shred: 0000000000000000: renamed to 000000000000000\r\n"
+    ],
+    [
+      0.002005,
+      "shred: 000000000000000: renamed to 00000000000000\r\n"
+    ],
+    [
+      0.001047,
+      "shred: 00000000000000: renamed to 0000000000000\r\n"
+    ],
+    [
+      0.000969,
+      "shred: 0000000000000: renamed to 000000000000\r\n"
+    ],
+    [
+      0.001038,
+      "shred: 000000000000: renamed to 00000000000\r\n"
+    ],
+    [
+      0.002052,
+      "shred: 00000000000: renamed to 0000000000\r\n"
+    ],
+    [
+      0.001972,
+      "shred: 0000000000: renamed to 000000000\r\n"
+    ],
+    [
+      0.000994,
+      "shred: 000000000: renamed to 00000000\r\n"
+    ],
+    [
+      0.001952,
+      "shred: 00000000: renamed to 0000000\r\n"
+    ],
+    [
+      0.001028,
+      "shred: 0000000: renamed to 000000\r\n"
+    ],
+    [
+      0.002006,
+      "shred: 000000: renamed to 00000\r\n"
+    ],
+    [
+      0.000995,
+      "shred: 00000: renamed to 0000\r\n"
+    ],
+    [
+      0.002021,
+      "shred: 0000: renamed to 000\r\n"
+    ],
+    [
+      0.000017,
+      "shred: 000: renamed to 00\r\n"
+    ],
+    [
+      0.001985,
+      "shred: 00: renamed to 0\r\nshred: sorted_important.txt: removed\r\n"
+    ],
+    [
+      7.022264,
+      "Finishing final passes and wipe of drive partition | self destructing this file - done!\r\n"
+    ],
+    [
+      0.007037,
+      "\u001b]0;root@brick:/tfinal_serv\u0007"
+    ],
+    [
+      0.009683,
+      "[root@brick tfinal_serv]# "
+    ],
+    [
+      5.288060,
+      "exit\r\n"
+    ]
+  ]
+}
