@@ -1,0 +1,574 @@
+{
+  "version": 1,
+  "width": 144,
+  "height": 78,
+  "duration": 49.318182,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007039,
+      "ekinertac@Helios:/home/sites/layla/project$ "
+    ],
+    [
+      2.488610,
+      "p"
+    ],
+    [
+      0.175927,
+      "s"
+    ],
+    [
+      0.087819,
+      "h"
+    ],
+    [
+      0.153520,
+      "ell "
+    ],
+    [
+      0.494348,
+      "\r\n"
+    ],
+    [
+      0.099876,
+      "/home/sites/layla/env/local/lib/python2.7/site-packages/sorl/thumbnail/helpers.py:5: DeprecationWarning: django.utils.simplejson is deprecated; use json instead.\r\n  from django.utils import simplejson\r\n\r\n"
+    ],
+    [
+      0.549904,
+      "Python 2.7.3 (default, Jan  2 2013, 13:56:14) \r\nType \"copyright\", \"credits\" or \"license\" for more information.\r\n\r\nIPython 2.0.0 -- An enhanced Interactive Python.\r\n?         -\u003e Introduction and overview of IPython's features.\r\n%quickref -\u003e Quick reference.\r\nhelp      -\u003e Python's own help system.\r\n"
+    ],
+    [
+      0.000015,
+      "object?   -\u003e Details about 'object', use 'object??' for extra details.\r\n"
+    ],
+    [
+      0.000955,
+      "\r\n\u001b[0;32mIn [\u001b[1;32m1\u001b[0;32m]: \u001b[0m"
+    ],
+    [
+      1.837365,
+      "f"
+    ],
+    [
+      0.191961,
+      "r"
+    ],
+    [
+      0.072566,
+      "o"
+    ],
+    [
+      0.073321,
+      "m"
+    ],
+    [
+      0.174077,
+      " "
+    ],
+    [
+      0.090950,
+      "a"
+    ],
+    [
+      0.093469,
+      "p"
+    ],
+    [
+      0.128414,
+      "p"
+    ],
+    [
+      0.134999,
+      "s"
+    ],
+    [
+      0.088432,
+      "."
+    ],
+    [
+      0.128372,
+      "a"
+    ],
+    [
+      0.281024,
+      "c"
+    ],
+    [
+      0.214462,
+      "t"
+    ],
+    [
+      0.128195,
+      "o"
+    ],
+    [
+      0.120527,
+      "r"
+    ],
+    [
+      0.183236,
+      "."
+    ],
+    [
+      0.440008,
+      "m"
+    ],
+    [
+      0.112058,
+      "o"
+    ],
+    [
+      0.118022,
+      "d"
+    ],
+    [
+      0.118417,
+      "els"
+    ],
+    [
+      0.475374,
+      " "
+    ],
+    [
+      0.137197,
+      "i"
+    ],
+    [
+      0.117711,
+      "m"
+    ],
+    [
+      0.073264,
+      "p"
+    ],
+    [
+      0.153935,
+      "ort "
+    ],
+    [
+      0.381834,
+      "A"
+    ],
+    [
+      0.151931,
+      "c"
+    ],
+    [
+      0.231887,
+      "t"
+    ],
+    [
+      0.120456,
+      "o"
+    ],
+    [
+      0.240007,
+      "r"
+    ],
+    [
+      0.241695,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\r\n\u001b[0;32mIn [\u001b[1;32m2\u001b[0;32m]: \u001b[0m"
+    ],
+    [
+      0.694161,
+      "a"
+    ],
+    [
+      0.110973,
+      " "
+    ],
+    [
+      0.089790,
+      "="
+    ],
+    [
+      0.111221,
+      " "
+    ],
+    [
+      0.367528,
+      "A"
+    ],
+    [
+      0.122290,
+      "c"
+    ],
+    [
+      0.229694,
+      "t"
+    ],
+    [
+      0.738135,
+      "or"
+    ],
+    [
+      0.462349,
+      "."
+    ],
+    [
+      0.191522,
+      "o"
+    ],
+    [
+      0.088277,
+      "b"
+    ],
+    [
+      0.217866,
+      "j"
+    ],
+    [
+      0.132273,
+      "ects"
+    ],
+    [
+      0.153950,
+      "."
+    ],
+    [
+      0.151625,
+      "a"
+    ],
+    [
+      0.072497,
+      "l"
+    ],
+    [
+      0.129286,
+      "l"
+    ],
+    [
+      0.374301,
+      "("
+    ],
+    [
+      0.065807,
+      ")"
+    ],
+    [
+      0.271891,
+      "\r\n"
+    ],
+    [
+      0.000341,
+      "\r\n\u001b[0;32mIn [\u001b[1;32m3\u001b[0;32m]: \u001b[0m"
+    ],
+    [
+      1.760064,
+      "a = Actor.objects.all()"
+    ],
+    [
+      0.797761,
+      "["
+    ],
+    [
+      0.056025,
+      "]"
+    ],
+    [
+      0.272693,
+      "\u0008"
+    ],
+    [
+      0.167438,
+      "2]\u0008"
+    ],
+    [
+      0.110003,
+      "\u001b[C"
+    ],
+    [
+      0.271345,
+      "\r\n"
+    ],
+    [
+      0.033670,
+      "\r\n\u001b[0;32mIn [\u001b[1;32m4\u001b[0;32m]: \u001b[0m"
+    ],
+    [
+      0.946496,
+      "a"
+    ],
+    [
+      0.094983,
+      "."
+    ],
+    [
+      0.457433,
+      "\r\nDisplay all 113 possibilities? (y or n)\r\na.DoesNotExist                     a.dubbing_set                      a.height                           a.profile_picture\r\n"
+    ],
+    [
+      0.000017,
+      "a.MultipleObjectsReturned          a.education                        a.home_phone                       a.real_name\r\na.accent                           a.email                            a.id                               a.register_type\r\n"
+    ],
+    [
+      0.000025,
+      "a.additionalinfo_set               a.eye_color                        a.instagram                        a.save\r\n"
+    ],
+    [
+      0.000006,
+      "a.address                          a.facebook                         a.insurance                        a.save_base\r\n"
+    ],
+    [
+      0.000065,
+      "a.age                              a.first_name                       a.insurance_reason                 a.search_avatar\r\na.availability                     a.foot_size                        a.is_active                        a.selectedchars_set\r\n"
+    ],
+    [
+      0.000012,
+      "a.birth_date                       a.full_clean                       a.is_appliance                     a.serializable_value\r\na.blood_type                       a.full_name                        a.languages                        a.serie\r\n"
+    ],
+    [
+      0.000029,
+      "a.cast_type                        a.gender                           a.last_name                        a.size\r\n"
+    ],
+    [
+      0.000012,
+      "a.cast_type_id                     a.get_absolute_url                 a.location                         a.sms_check\r\n"
+    ],
+    [
+      0.000010,
+      "a.cell_phone                       a.get_availability_display         a.magazine                         a.sms_set"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "a.chosenactors_set                 a.get_blood_type_display           a.modified_at                      a.sports\r\n"
+    ],
+    [
+      0.000008,
+      "a.clean                            a.get_cell_phone                   a.movie                            a.tags\r\n"
+    ],
+    [
+      0.000006,
+      "a.clean_fields                     a.get_choices                      a.mugshot                          a.theatre"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "a.commercial                       a.get_contract_end_reason_display  a.musical_instruments              a.tr_identification\r\n"
+    ],
+    [
+      0.000020,
+      "a.contract_end                     a.get_eye_color_display            a.nationality                      a.twitter\r\n"
+    ],
+    [
+      0.000029,
+      "a.contract_end_reason              a.get_gender_display               a.notes                            a.unique_error_message\r\n"
+    ],
+    [
+      0.000019,
+      "a.contract_option                  a.get_hair_color_display           a.notify_message                   a.url\r\n"
+    ],
+    [
+      0.000007,
+      "a.contract_start                   a.get_insurance_display            a.objects                          a.validate_unique\r\n"
+    ],
+    [
+      0.000072,
+      "a.created_at                       a.get_insurance_reason_display     a.other_phone                      a.vehicles\r\na.dance_types                      a.get_location_display             a.other_referance                  a.video_set\r\na.date_error_message               a.get_next_by_created_at           a.photo_set                        a.web_site\r\n"
+    ],
+    [
+      0.000030,
+      "a.death_date                       a.get_next_by_modified_at          a.photo_shoot                      a.weight\r\na.delete                           a.get_previous_by_created_at       a.pk                               a.work_phone\r\n"
+    ],
+    [
+      0.000016,
+      "a.document_set                     a.get_previous_by_modified_at      a.portrait_set                     a.work_status\r\n"
+    ],
+    [
+      0.000012,
+      "a.documentary                      a.get_register_type_display        a.prepare_database_save            \r\n"
+    ],
+    [
+      0.000021,
+      "a.driving_licence                  a.get_sms_check_display            a.press_set                        \r\n"
+    ],
+    [
+      0.000008,
+      "a.dub_count                        a.hair_color                       a.prizes                           \r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0;32mIn [\u001b[1;32m4\u001b[0;32m]: \u001b[0ma."
+    ],
+    [
+      5.531756,
+      "s"
+    ],
+    [
+      0.073407,
+      "e"
+    ],
+    [
+      0.207936,
+      "r"
+    ],
+    [
+      0.135915,
+      "i"
+    ],
+    [
+      0.169166,
+      "\r\na.serializable_value  a.serie               \r\n\r\n\u001b[0;32mIn [\u001b[1;32m4\u001b[0;32m]: \u001b[0ma.seri"
+    ],
+    [
+      1.623383,
+      "e"
+    ],
+    [
+      0.547033,
+      "."
+    ],
+    [
+      0.254781,
+      "\r\na.serie.add                     a.serie.db_manager              a.serie.in_bulk                 a.serie.reverse\r\na.serie.aggregate               a.serie.defer                   a.serie.instance                a.serie.select_for_update\r\na.serie.all                     a.serie.distinct                a.serie.iterator                a.serie.select_related\r\na.serie.annotate                a.serie.earliest                a.serie.last                    a.serie.source_field\r\na.serie.bulk_create             a.serie.exclude                 a.serie.latest                  a.serie.source_field_name\r\na.serie.clear                   a.serie.exists                  a.serie.model                   a.serie.symmetrical\r\na.serie.complex_filter          a.serie.extra                   a.serie.none                    a.serie.target_field_name\r\na.serie.contribute_to_class     a.serie.filter                  a.serie.only                    a.serie.through\r\na.serie.core_filters            a.serie.first                   a.serie.order_by                a.serie.update\r\na.serie.count                   a.serie.get                     a.serie.prefetch_cache_name     a.serie.using\r\na.serie.create                  a.serie.get_or_create           a.serie.prefetch_related        a.serie.values\r\na.serie.creation_counter        a.serie.get_prefetch_query_set  a.serie.query_field_name        a.serie.values_list\r\na.serie.dates                   a.serie.get_prefetch_queryset   a.serie.raw                     \r\na.serie.datetimes               a.serie.get_query_set           a.serie.related_val             \r\na.serie.db                      a.serie.get_queryset            a.serie.remove                  \r\n\r\n\u001b[0;32mIn [\u001b[1;32m4\u001b[0;32m]: \u001b[0ma.serie."
+    ],
+    [
+      2.453760,
+      "a"
+    ],
+    [
+      0.090189,
+      "l"
+    ],
+    [
+      0.134219,
+      "l"
+    ],
+    [
+      0.543332,
+      "("
+    ],
+    [
+      0.160192,
+      ")"
+    ],
+    [
+      0.306379,
+      "\r\n"
+    ],
+    [
+      0.006506,
+      "\u001b[0;31mOut[\u001b[1;31m4\u001b[0;31m]: \u001b[0m[\u003cSerie: Beyaz Karanfil\u003e, \u003cSerie: Geniş Aile\u003e, \u003cSerie: Yıldız Masalı\u003e]\r\n"
+    ],
+    [
+      0.000354,
+      "\r\n\u001b[0;32mIn [\u001b[1;32m5\u001b[0;32m]: \u001b[0m"
+    ],
+    [
+      1.415144,
+      "a.serie.all()"
+    ],
+    [
+      1.192261,
+      "["
+    ],
+    [
+      0.079375,
+      "]"
+    ],
+    [
+      0.279834,
+      "\u0008"
+    ],
+    [
+      0.151883,
+      "2]\u0008"
+    ],
+    [
+      0.199968,
+      "\u001b[C"
+    ],
+    [
+      1.193757,
+      "."
+    ],
+    [
+      0.518389,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.943785,
+      "\r\n"
+    ],
+    [
+      0.004911,
+      "\u001b[0;31mOut[\u001b[1;31m5\u001b[0;31m]: \u001b[0m\u003cSerie: Yıldız Masalı\u003e\r\n"
+    ],
+    [
+      0.000347,
+      "\r\n\u001b[0;32mIn [\u001b[1;32m6\u001b[0;32m]: \u001b[0m"
+    ],
+    [
+      2.354765,
+      "a.serie.all()[2]"
+    ],
+    [
+      0.969816,
+      "."
+    ],
+    [
+      0.293869,
+      "t"
+    ],
+    [
+      0.080106,
+      "i"
+    ],
+    [
+      0.095956,
+      "t"
+    ],
+    [
+      0.119985,
+      "l"
+    ],
+    [
+      0.119908,
+      "e"
+    ],
+    [
+      0.307316,
+      "\r\n"
+    ],
+    [
+      0.002177,
+      "\u001b[0;31mOut[\u001b[1;31m6\u001b[0;31m]: \u001b[0mu'Y\\u0131ld\\u0131z Masal\\u0131'\r\n\r\n\u001b[0;32mIn [\u001b[1;32m7\u001b[0;32m]: \u001b[0m"
+    ],
+    [
+      3.467123,
+      "\r\nDo you really want to exit ([y]/n)? "
+    ],
+    [
+      1.249557,
+      "\r\n"
+    ],
+    [
+      0.503176,
+      "ekinertac@Helios:/home/sites/layla/project$ "
+    ],
+    [
+      0.678832,
+      "exit\r\n"
+    ]
+  ]
+}
