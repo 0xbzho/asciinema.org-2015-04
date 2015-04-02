@@ -1,0 +1,614 @@
+{
+  "version": 1,
+  "width": 198,
+  "height": 54,
+  "duration": 31.952808,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.097791,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                     \r \r"
+    ],
+    [
+      0.000080,
+      "\u001bk..ls/r2_sushant\u001b\\"
+    ],
+    [
+      0.064574,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[31m♥♥♡♡♡♡♡♡♡♡ \u001b[32mminishwoods\u001b[00m tools/r2_sushant \u001b[33m‹issue#2190*› \u001b[00m\u001b[00m\u001b[1m»\u001b[0m "
+    ],
+    [
+      0.000066,
+      "\u001b[K"
+    ],
+    [
+      0.000121,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.472172,
+      "\r\r\nbck-i-search: _\u001b[K\u001bM\u001b[41C"
+    ],
+    [
+      0.234951,
+      "gdb -q --ar\u001b[4mg\u001b[24ms r2 /bin/ls -c\"a7 eax,eax,=\"\u001b[1B\u001b[83Dg_\u001bM\u001b[51C"
+    ],
+    [
+      0.173374,
+      "\u001b[11D\u001b[4mg\u001b[4md\u001b[24m\u001b[9C\u001b[24mg\u001b[1B\u001b[53Dd_\u001bM\u001b[39C"
+    ],
+    [
+      0.159766,
+      "\u001b[4mg\u001b[4md\u001b[4mb\u001b[24m\u001b[1B\u001b[43Db_\u001bM\u001b[38C"
+    ],
+    [
+      1.125560,
+      "\u001b[24mg\u001b[24md\u001b[24mb\u001b[1B\r\u001b[K\u001bM\u001b[56C\u001b[?1l\u001b\u003e\u001b[1B\r\u001bkgdb\u001b\\"
+    ],
+    [
+      0.366634,
+      "Reading symbols from r2..."
+    ],
+    [
+      0.003072,
+      "done.\r\n"
+    ],
+    [
+      0.005432,
+      "\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      0.449520,
+      "s"
+    ],
+    [
+      0.122756,
+      "t"
+    ],
+    [
+      0.104103,
+      "a"
+    ],
+    [
+      0.077506,
+      "r"
+    ],
+    [
+      0.160312,
+      "t"
+    ],
+    [
+      0.231353,
+      "\r\n"
+    ],
+    [
+      0.626953,
+      "[Thread debugging using libthread_db enabled]\r\n"
+    ],
+    [
+      0.000235,
+      "Using host libthread_db library \"/usr/lib/libthread_db.so.1\".\r\n"
+    ],
+    [
+      0.348539,
+      "\u001b[;34m[----------------------------------registers-----------------------------------]\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[m\u001b[;32mRAX\u001b[0m: \u001b[;31m0x4031c9\u001b[0m (\u003cmain\u003e:\tpush   rbp)\r\n\u001b[;32mRBX\u001b[0m: 0x0 \r\n\u001b[;32mRCX\u001b[0m: 0x0 \r\n\u001b[;32mRDX\u001b[0m: \u001b[;34m0x7fffffffe1c8\u001b[0m --\u003e \u001b[;34m0x7fffffffe62d\u001b[0m (\"XDG_VTNR=7\")\r\n\u001b[;32mRSI\u001b[0m: \u001b[;34m0x7fffffffe1a8\u001b[0m --\u003e \u001b[;34m0x7fffffffe60a\u001b[0m (\"/usr/bin/r2\")\r\n\u001b[;32mRDI\u001b[0m: 0x3 \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[;32mRBP\u001b[0m: \u001b[;34m0x7fffffffe0c0\u001b[0m --\u003e \u001b[;31m0x405390\u001b[0m (\u003c__libc_csu_init\u003e:\tpush   r15)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[;32mRSP\u001b[0m: \u001b[;34m0x7fffffffd9e0\u001b[0m --\u003e 0x0 \r\n"
+    ],
+    [
+      0.000742,
+      "\u001b[;32mRIP\u001b[0m: \u001b[;31m0x4031e8\u001b[0m (\u003cmain+31\u003e:\tmov    QWORD PTR [rbp-0x8],0x0)\r\n\u001b[;32mR8 \u001b[0m: \u001b[;34m0x7ffff4253dd0\u001b[0m --\u003e 0x4 \r\n\u001b[;32mR9 \u001b[0m: \u001b[;31m0x7ffff7dea610\u001b[0m (\u003c_dl_fini\u003e:\tpush   rbp)\r\n\u001b[;32mR10\u001b[0m: 0x833 \r\n\u001b[;32mR11\u001b[0m: \u001b[;31m0x7ffff3ed5710\u001b[0m (\u003c__libc_start_main\u003e:\tpush   r14)\r\n\u001b[;32mR12\u001b[0m: \u001b[;31m0x402b50\u001b[0m (\u003c_start\u003e:\txor    ebp,ebp)\r\n\u001b[;32mR13\u001b[0m: \u001b[;34m0x7fffffffe1a0\u001b[0m --\u003e 0x3 \r\n\u001b[;32mR14\u001b[0m: 0x0 \r\n\u001b[;32mR15\u001b[0m: 0x0\u001b[0m\r\n\u001b[m\u001b[;32mEFLAGS\u001b[0m: 0x202 (\u001b[;32mcarry\u001b[0m \u001b[;32mparity\u001b[0m \u001b[;32madjust\u001b[0m \u001b[;32mzero\u001b[0m \u001b[;32msign\u001b[0m \u001b[;32mtrap\u001b[0m \u001b[;1;31mINTERRUPT\u001b[0m \u001b[;32mdirection\u001b[0m \u001b[;32moverflow\u001b[0m)\u001b[0m\r\n"
+    ],
+    [
+      0.004663,
+      "\u001b[m\u001b[;34m[-------------------------------------code-------------------------------------]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[m   0x4031d4 \u003cmain+11\u003e:\u001b[;2m\tmov    DWORD PTR [rbp-0x6c4],edi\u001b[0m\r\n   0x4031da \u003cmain+17\u003e:\u001b[;2m\tmov    QWORD PTR [rbp-0x6d0],rsi\u001b[0m\r\n   0x4031e1 \u003cmain+24\u003e:\u001b[;2m\tmov    QWORD PTR [rbp-0x6d8],rdx\u001b[0m\r\n=\u003e 0x4031e8 \u003cmain+31\u003e:\u001b[;1;32m\tmov    QWORD PTR [rbp-0x8],0x0\u001b[0m\r\n   0x4031f0 \u003cmain+39\u003e:\u001b[m\tmov    QWORD PTR [rbp-0x10],0x0\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "   0x4031f8 \u003cmain+47\u003e:\u001b[m\tmov    QWORD PTR [rbp-0x20],0x0\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "   0x403200 \u003cmain+55\u003e:\u001b[m\tmov    QWORD PTR [rbp-0x28],0x0\u001b[0m\r\n"
+    ],
+    [
+      0.000754,
+      "   0x403208 \u003cmain+63\u003e:\u001b[m\tmov    QWORD PTR [rbp-0xe0],0x0\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.007580,
+      "\u001b[m\u001b[;34m[------------------------------------stack-------------------------------------]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[m0000| \u001b[;34m0x7fffffffd9e0\u001b[0m --\u003e 0x0 \u001b[0m\r\n\u001b[m0008| \u001b[;34m0x7fffffffd9e8\u001b[0m --\u003e \u001b[;34m0x7fffffffe1c8\u001b[0m --\u003e \u001b[;34m0x7fffffffe62d\u001b[0m (\"XDG_VTNR=7\")\u001b[0m\r\n\u001b[m0016| \u001b[;34m0x7fffffffd9f0\u001b[0m --\u003e \u001b[;34m0x7fffffffe1a8\u001b[0m --\u003e \u001b[;34m0x7fffffffe60a\u001b[0m (\"/usr/bin/r2\")\u001b[0m\r\n\u001b[m0024| \u001b[;34m0x7fffffffd9f8\u001b[0m --\u003e 0x3b2c00000 \u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[m0032| \u001b[;34m0x7fffffffda00\u001b[0m --\u003e 0xffffefbd41220000 \u001b[0m\r\n\u001b[m0040| \u001b[;34m0x7fffffffda08\u001b[0m --\u003e \u001b[;34m0x7ffff7ffe130\u001b[0m --\u003e 0x0 \u001b[0m\r\n\u001b[m0048| \u001b[;34m0x7fffffffda10\u001b[0m --\u003e 0x0 \u001b[0m\r\n"
+    ],
+    [
+      0.000818,
+      "\u001b[m0056| \u001b[;34m0x7fffffffda18\u001b[0m --\u003e \u001b[;32m0x40164c\u001b[0m (\"libr_egg.so\")\u001b[0m\r\n\u001b[;34m[------------------------------------------------------------------------------]\u001b[0m\r\n\u001b[mLegend: \u001b[;31mcode\u001b[0m, \u001b[;34mdata\u001b[0m, \u001b[;32mrodata\u001b[0m, value\u001b[0m\r\n"
+    ],
+    [
+      0.013180,
+      "\r\n"
+    ],
+    [
+      0.004920,
+      "Temporary breakpoint 1, main (argc=0x3, argv=0x7fffffffe1a8, envp=0x7fffffffe1c8) at radare2.c:196\r\n"
+    ],
+    [
+      0.000244,
+      "196\t\tRThreadLock *lock = NULL;\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      1.005628,
+      "b"
+    ],
+    [
+      1.377825,
+      " "
+    ],
+    [
+      0.095644,
+      "e"
+    ],
+    [
+      0.160094,
+      "s"
+    ],
+    [
+      0.109369,
+      "i"
+    ],
+    [
+      0.184551,
+      "\u0007"
+    ],
+    [
+      0.001122,
+      "l"
+    ],
+    [
+      0.451561,
+      "2"
+    ],
+    [
+      0.202416,
+      "reil.c "
+    ],
+    [
+      3.896574,
+      ":"
+    ],
+    [
+      0.186693,
+      " "
+    ],
+    [
+      0.133888,
+      "1"
+    ],
+    [
+      0.333652,
+      "6"
+    ],
+    [
+      0.122941,
+      "1"
+    ],
+    [
+      0.099580,
+      "6"
+    ],
+    [
+      0.253494,
+      "\r\n"
+    ],
+    [
+      0.000994,
+      "Breakpoint 2 at 0x7ffff6772964: file esil2reil.c, line 1616.\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      1.141064,
+      "c"
+    ],
+    [
+      0.245705,
+      "\r\nContinuing.\r\n"
+    ],
+    [
+      2.164466,
+      "\u001b[;34m[----------------------------------registers-----------------------------------]\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[m\u001b[;32mRAX\u001b[0m: \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n\u001b[;32mRBX\u001b[0m: \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n\u001b[;32mRCX\u001b[0m: 0x0 \r\n\u001b[;32mRDX\u001b[0m: \u001b[;31m0x7ffff6772884\u001b[0m (\u003csetup_reil_ins\u003e:\tpush   rbp)\r\n\u001b[;32mRSI\u001b[0m: \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[;32mRDI\u001b[0m: \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n"
+    ],
+    [
+      0.000867,
+      "\u001b[;32mRBP\u001b[0m: \u001b[;34m0x7fffffffcff0\u001b[0m --\u003e \u001b[;34m0x7fffffffd370\u001b[0m --\u003e \u001b[;34m0x7fffffffd3c0\u001b[0m --\u003e \u001b[;34m0x7fffffffd8f0\u001b[0m --\u003e \u001b[;34m0x7fffffffd950\u001b[0m --\u003e \u001b[;34m0x7fffffffd9b0\u001b[0m --\u003e \u001b[;34m0x7fffffffd9d0\u001b[0m --\u003e \u001b[;34m0x7fffffffe0c0\u001b[0m --\u003e \u001b[;31m0x405390\u001b[0m (\u003c__libc_csu_init\u003e:\tpush   r15)\r\n\u001b[;32mRSP\u001b[0m: \u001b[;34m0x7fffffffcfd0\u001b[0m --\u003e \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[;32mRIP\u001b[0m: \u001b[;31m0x7ffff6772964\u001b[0m (\u003cr_anal_esil_to_reil_setup+128\u003e:\tmov    esi,0x18)\r\n\u001b[;32mR8 \u001b[0m: \u001b[;34m0xa0f0c0\u001b[0m --\u003e 0x0 \r\n\u001b[;32mR9 \u001b[0m: 0x270 \r\n\u001b[;32mR10\u001b[0m: 0x3e0 \r\n\u001b[;32mR11\u001b[0m: \u001b[;31m0x7ffff67728e4\u001b[0m (\u003cr_anal_esil_to_reil_setup\u003e:\tpush   rbp)\r\n\u001b[;32mR12\u001b[0m: \u001b[;31m0x402b50\u001b[0m (\u003c_start\u003e:\txor    ebp,ebp)\r\n\u001b[;32mR13\u001b[0m: \u001b[;34m0x7fffffffe1a0\u001b[0m --\u003e 0x3 \r\n\u001b[;32mR14\u001b[0m: 0x0 \r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[;32mR15\u001b[0m: 0x0\u001b[0m\r\n"
+    ],
+    [
+      0.009488,
+      "\u001b[m\u001b[;32mEFLAGS\u001b[0m: 0x206 (\u001b[;32mcarry\u001b[0m \u001b[;1;31mPARITY\u001b[0m \u001b[;32madjust\u001b[0m \u001b[;32mzero\u001b[0m \u001b[;32msign\u001b[0m \u001b[;32mtrap\u001b[0m \u001b[;1;31mINTERRUPT\u001b[0m \u001b[;32mdirection\u001b[0m \u001b[;32moverflow\u001b[0m)\u001b[0m\r\n\u001b[m\u001b[;34m[-------------------------------------code-------------------------------------]\u001b[0m\u001b[0m\r\n\u001b[m   0x7ffff6772952 \u003cr_anal_esil_to_reil_setup+110\u003e:\u001b[;2m\tmov    rax,QWORD PTR [rbp-0x8]\u001b[0m\r\n   0x7ffff6772956 \u003cr_anal_esil_to_reil_setup+114\u003e:\u001b[;2m\tlea    rdx,[rip+0xffffffffffffff27]        # 0x7ffff6772884 \u003csetup_reil_ins\u003e\u001b[0m\r\n   0x7ffff677295d \u003cr_anal_esil_to_reil_setup+121\u003e:\u001b[;2m\tmov    QWORD PTR [rax+0x1a0],rdx\u001b[0m\r\n=\u003e 0x7ffff6772964 \u003cr_anal_esil_to_reil_setup+128\u003e:\u001b[;1;32m\tmov    esi,0x18\u001b[0m\r\n   0x7ffff6772969 \u003cr_anal_esil_to_reil_setup+133\u003e:\u001b[m\tmov    edi,0x1\u001b[0m\r\n   0x7ffff677296e \u003cr_anal_esil_to_reil_setup+138\u003e:\u001b[;32m\tcall   0x7ffff6704680 \u003ccalloc@plt\u003e\u001b[0m\r\n   0x7ffff6772973 \u003cr_anal_esil_to_reil_setup+143\u003e:\u001b[m\tmov    rdx,rax\u001b[0m\r\n   0x7ffff6772976 \u003cr_anal_esil_to_reil_setup+146\u003e:\u001b[m\tmov    rax,QWORD PTR [rbp-0x8]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.144320,
+      "\u001b[m\u001b[;34m[------------------------------------stack-------------------------------------]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[m0000| \u001b[;34m0x7fffffffcfd0\u001b[0m --\u003e \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\u001b[0m\r\n\u001b[m0008| \u001b[;34m0x7fffffffcfd8\u001b[0m --\u003e 0x0 \u001b[0m\r\n\u001b[m0016| \u001b[;34m0x7fffffffcfe0\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\u001b[0m\r\n\u001b[m0024| \u001b[;34m0x7fffffffcfe8\u001b[0m --\u003e \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[m0032| \u001b[;34m0x7fffffffcff0\u001b[0m --\u003e \u001b[;34m0x7fffffffd370\u001b[0m --\u003e \u001b[;34m0x7fffffffd3c0\u001b[0m --\u003e \u001b[;34m0x7fffffffd8f0\u001b[0m --\u003e \u001b[;34m0x7fffffffd950\u001b[0m --\u003e \u001b[;34m0x7fffffffd9b0\u001b[0m --\u003e \u001b[;34m0x7fffffffd9d0\u001b[0m --\u003e \u001b[;34m0x7fffffffe0c0\u001b[0m --\u003e \u001b[;31m0x405390\u001b[0m (\u003c__libc_csu_init\u003e:\tpush   r15)\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[m0040| \u001b[;34m0x7fffffffcff8\u001b[0m --\u003e \u001b[;31m0x7ffff7b3ee19\u001b[0m (\u003ccmd_anal+2741\u003e:\tmov    rax,QWORD PTR [rbp-0x28])\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m0048| \u001b[;34m0x7fffffffd000\u001b[0m --\u003e \u001b[;34m0x6d9701\u001b[0m (\"7 eax,eax,=\")\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[m0056| \u001b[;34m0x7fffffffd008\u001b[0m --\u003e \u001b[;34m0x607980\u001b[0m --\u003e \u001b[;34m0x69c420\u001b[0m --\u003e \u001b[;34m0x6eac50\u001b[0m --\u003e 0x736c2f6e69622f ('/bin/ls')\u001b[0m\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[;34m[------------------------------------------------------------------------------]\u001b[0m\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[mLegend: \u001b[;31mcode\u001b[0m, \u001b[;34mdata\u001b[0m, \u001b[;32mrodata\u001b[0m, value\u001b[0m\r\n"
+    ],
+    [
+      0.014672,
+      "\r\n"
+    ],
+    [
+      0.000628,
+      "Breakpoint 2, r_anal_esil_to_reil_setup (esil=0xa0ee30, anal=0x682020, romem=0x0, stats=0x0) at esil2reil.c:1616\r\n"
+    ],
+    [
+      0.000210,
+      "1616\t\tesil-\u003eReil = R_NEW0(RAnalReil);\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      2.741224,
+      "\r(reverse-i-search)`': "
+    ],
+    [
+      1.948814,
+      "\u0008\u0008\u0008\u001b[29@w': watch esil-\u003ecb.hook_command\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.127021,
+      "\u0008\u0008\u0008\u001b[1@a\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.077227,
+      "\u0008\u0008\u0008\u001b[1@t\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.332143,
+      "\u0008\u0008\u0008\u001b[1@c\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.523272,
+      "\r\u001b[16P\u001b[;31mgdb-peda$ \u001b[0m\r\n"
+    ],
+    [
+      0.010657,
+      "Hardware watchpoint 3: esil-\u003ecb.hook_command\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      1.837449,
+      "c"
+    ],
+    [
+      0.265143,
+      "\r\nContinuing.\r\n"
+    ],
+    [
+      0.224449,
+      "\u001b[;34m[----------------------------------registers-----------------------------------]\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[m\u001b[;32mRAX\u001b[0m: \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[;32mRBX\u001b[0m: \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[;32mRCX\u001b[0m: 0x3 \r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[;32mRDX\u001b[0m: 0x0 \r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[;32mRSI\u001b[0m: 0x0 \r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[;32mRDI\u001b[0m: \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[;32mRBP\u001b[0m: \u001b[;34m0x7fffffffcff0\u001b[0m --\u003e \u001b[;34m0x7fffffffd370\u001b[0m --\u003e \u001b[;34m0x7fffffffd3c0\u001b[0m --\u003e \u001b[;34m0x7fffffffd8f0\u001b[0m --\u003e \u001b[;34m0x7fffffffd950\u001b[0m --\u003e \u001b[;34m0x7fffffffd9b0\u001b[0m --\u003e \u001b[;34m0x7fffffffd9d0\u001b[0m --\u003e \u001b[;34m0x7fffffffe0c0\u001b[0m --\u003e \u001b[;31m0x405390\u001b[0m (\u003c__libc_csu_init\u003e:\tpush   r15)\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[;32mRSP\u001b[0m: \u001b[;34m0x7fffffffcfd0\u001b[0m --\u003e \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[;32mRIP\u001b[0m: \u001b[;31m0x7ffff67729e9\u001b[0m (\u003cr_anal_esil_to_reil_setup+261\u003e:\tlea    rdi,[rip+0x1525ac]        # 0x7ffff68c4f9c)\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[;32mR8 \u001b[0m: \u001b[;34m0x669030\u001b[0m --\u003e 0x0 \r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[;32mR9 \u001b[0m: 0x270 \r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[;32mR10\u001b[0m: 0x3f5 \r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[;32mR11\u001b[0m: \u001b[;31m0x7ffff6769a4d\u001b[0m (\u003cr_anal_esil_stats\u003e:\tpush   rbp)\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[;32mR12\u001b[0m: \u001b[;31m0x402b50\u001b[0m (\u003c_start\u003e:\txor    ebp,ebp)\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[;32mR13\u001b[0m: \u001b[;34m0x7fffffffe1a0\u001b[0m --\u003e 0x3 \r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[;32mR14\u001b[0m: 0x0 \r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[;32mR15\u001b[0m: 0x0\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[m\u001b[;32mEFLAGS\u001b[0m: 0x246 (\u001b[;32mcarry\u001b[0m \u001b[;1;31mPARITY\u001b[0m \u001b[;32madjust\u001b[0m \u001b[;1;31mZERO\u001b[0m \u001b[;32msign\u001b[0m \u001b[;32mtrap\u001b[0m \u001b[;1;31mINTERRUPT\u001b[0m \u001b[;32mdirection\u001b[0m \u001b[;32moverflow\u001b[0m)\u001b[0m\r\n"
+    ],
+    [
+      0.005079,
+      "\u001b[m\u001b[;34m[-------------------------------------code-------------------------------------]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[m   0x7ffff67729df \u003cr_anal_esil_to_reil_setup+251\u003e:\u001b[;2m\tmov    esi,edx\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "   0x7ffff67729e1 \u003cr_anal_esil_to_reil_setup+253\u003e:\u001b[;2m\tmov    rdi,rax\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "   0x7ffff67729e4 \u003cr_anal_esil_to_reil_setup+256\u003e:\u001b[;2;32m\tcall   0x7ffff6705d70 \u003cr_anal_esil_stats@plt\u003e\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "=\u003e 0x7ffff67729e9 \u003cr_anal_esil_to_reil_setup+261\u003e:\u001b[;1;32m\tlea    rdi,[rip+0x1525ac]        # 0x7ffff68c4f9c\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "   0x7ffff67729f0 \u003cr_anal_esil_to_reil_setup+268\u003e:\u001b[;32m\tcall   0x7ffff6703840 \u003cputs@plt\u003e\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "   0x7ffff67729f5 \u003cr_anal_esil_to_reil_setup+273\u003e:\u001b[m\tmov    rax,QWORD PTR [rbp-0x8]\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "   0x7ffff67729f9 \u003cr_anal_esil_to_reil_setup+277\u003e:\u001b[m\tlea    rdx,[rip+0xffffffffffffb04e]        # 0x7ffff676da4e \u003creil_eq\u003e\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "   0x7ffff6772a00 \u003cr_anal_esil_to_reil_setup+284\u003e:\u001b[m\tlea    rsi,[rip+0x1525ae]        # 0x7ffff68c4fb5\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.217178,
+      "\u001b[m\u001b[;34m[------------------------------------stack-------------------------------------]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[m0000| \u001b[;34m0x7fffffffcfd0\u001b[0m --\u003e \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\u001b[0m\r\n\u001b[m0008| \u001b[;34m0x7fffffffcfd8\u001b[0m --\u003e 0x0 \u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[m0016| \u001b[;34m0x7fffffffcfe0\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[m0024| \u001b[;34m0x7fffffffcfe8\u001b[0m --\u003e \u001b[;34m0xa0ee30\u001b[0m --\u003e \u001b[;34m0x682020\u001b[0m --\u003e \u001b[;34m0x6be4f0\u001b[0m --\u003e 0x363878 ('x86')\u001b[0m\r\n"
+    ],
+    [
+      0.000672,
+      "\u001b[m0032| \u001b[;34m0x7fffffffcff0\u001b[0m --\u003e \u001b[;34m0x7fffffffd370\u001b[0m --\u003e \u001b[;34m0x7fffffffd3c0\u001b[0m --\u003e \u001b[;34m0x7fffffffd8f0\u001b[0m --\u003e \u001b[;34m0x7fffffffd950\u001b[0m --\u003e \u001b[;34m0x7fffffffd9b0\u001b[0m --\u003e \u001b[;34m0x7fffffffd9d0\u001b[0m --\u003e \u001b[;34m0x7fffffffe0c0\u001b[0m --\u003e \u001b[;31m0x405390\u001b[0m (\u003c__libc_csu_init\u003e:\tpush   r15)\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[m0040| \u001b[;34m0x7fffffffcff8\u001b[0m --\u003e \u001b[;31m0x7ffff7b3ee19\u001b[0m (\u003ccmd_anal+2741\u003e:\tmov    rax,QWORD PTR [rbp-0x28])\u001b[0m\r\n\u001b[m0048| \u001b[;34m0x7fffffffd000\u001b[0m --\u003e \u001b[;34m0x6d9701\u001b[0m (\"7 eax,eax,=\")\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[m0056| \u001b[;34m0x7fffffffd008\u001b[0m --\u003e \u001b[;34m0x607980\u001b[0m --\u003e \u001b[;34m0x69c420\u001b[0m --\u003e \u001b[;34m0x6eac50\u001b[0m --\u003e 0x736c2f6e69622f ('/bin/ls')\u001b[0m\r\n"
+    ],
+    [
+      0.000849,
+      "\u001b[;34m[------------------------------------------------------------------------------]\u001b[0m\r\n"
+    ],
+    [
+      0.000310,
+      "\u001b[mLegend: \u001b[;31mcode\u001b[0m, \u001b[;34mdata\u001b[0m, \u001b[;32mrodata\u001b[0m, value\u001b[0m\r\n"
+    ],
+    [
+      0.023508,
+      "Hardware watchpoint 3: esil-\u003ecb.hook_command\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.033885,
+      "Old value = (int (*)(struct r_anal_esil_t *, const char *)) 0x7ffff6772884 \u003csetup_reil_ins\u003e\r\n"
+    ],
+    [
+      0.024829,
+      "New value = (int (*)(struct r_anal_esil_t *, const char *)) 0x0\r\n"
+    ],
+    [
+      0.000286,
+      "r_anal_esil_stats (esil=0xa0ee30, enable=0x0) at esil_stats.c:66\r\n"
+    ],
+    [
+      0.000080,
+      "66\t\t\tsdb_free (esil-\u003estats);\r\n"
+    ],
+    [
+      0.000148,
+      "\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      0.681217,
+      "b"
+    ],
+    [
+      0.211650,
+      "t"
+    ],
+    [
+      0.291360,
+      "\r\n#0  r_anal_esil_stats (esil=0xa0ee30, enable=0x0) at esil_stats.c:66\r\n#1  0x00007ffff67729e9 in r_anal_esil_to_reil_setup (esil=0xa0ee30, anal=0x682020, romem=0x0, stats=0x0) at esil2reil.c:1623\r\n#2  0x00007ffff7b3ee19 in cmd_anal (data=0x607980 \u003cr\u003e, input=0x6d9701 \"7 eax,eax,=\") at cmd_anal.c:2507\r\n#3  0x00007ffff7b7fbb7 in r_cmd_call (cmd=0x6aba50, input=0x6d9700 \"a7 eax,eax,=\") at cmd_api.c:182\r\n#4  0x00007ffff7b5d7a1 in r_core_cmd_subst_i (core=0x607980 \u003cr\u003e, cmd=0x6d9700 \"a7 eax,eax,=\", colon=0x0) at cmd.c:1452\r\n#5  0x00007ffff7b5be2c in r_core_cmd_subst (core=0x607980 \u003cr\u003e, cmd=0x6d9700 \"a7 eax,eax,=\") at cmd.c:987\r\n#6  0x00007ffff7b5e18b in r_core_cmd (core=0x607980 \u003cr\u003e, cstr=0x7fffffffe620 \"a7 eax,eax,=\", log=0x0) at cmd.c:1643\r\n#7  0x00007ffff7b5e72c in r_core_cmd0 (user=0x607980 \u003cr\u003e, cmd=0x7fffffffe620 \"a7 eax,eax,=\") at cmd.c:1766\r\n#8  0x0000000000404e9c in main (argc=0x3, argv=0x7fffffffe1a8, envp=0x7fffffffe1c8) at radare2.c:726\r\n#9  0x00007ffff3ed5800 in __libc_start_main () from /usr/lib/libc.so.6\r\n#10 0x0000000000402b79 in _start ()\r\n\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      0.592914,
+      "w"
+    ],
+    [
+      0.394819,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141194,
+      "\u0007"
+    ],
+    [
+      0.141001,
+      "\u0007"
+    ],
+    [
+      1.079321,
+      "#"
+    ],
+    [
+      0.421793,
+      " "
+    ],
+    [
+      0.163472,
+      "w"
+    ],
+    [
+      0.074490,
+      "o"
+    ],
+    [
+      0.088847,
+      "w"
+    ],
+    [
+      0.327987,
+      "!"
+    ],
+    [
+      0.354967,
+      "\r\n\u001b[;31mgdb-peda$ \u001b[0m"
+    ],
+    [
+      0.607951,
+      "quit\r\n"
+    ],
+    [
+      0.022001,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                     \r \r\u001bk..ls/r2_sushant\u001b\\"
+    ],
+    [
+      0.035261,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[31m♥♥♡♡♡♡♡♡♡♡ \u001b[32mminishwoods\u001b[00m tools/r2_sushant \u001b[33m‹issue#2190*› \u001b[00m\u001b[00m\u001b[1m»\u001b[0m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.727535,
+      "\r\r\n"
+    ]
+  ]
+}
