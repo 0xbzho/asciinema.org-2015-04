@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 32,
+  "duration": 18.368746,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.143470,
+      "\u001b]0;riccardo@T5500: ~\u0007riccardo@T5500:~$ "
+    ],
+    [
+      2.048596,
+      "t"
+    ],
+    [
+      0.079927,
+      "h"
+    ],
+    [
+      0.080010,
+      "i"
+    ],
+    [
+      0.096018,
+      "s"
+    ],
+    [
+      0.080022,
+      " "
+    ],
+    [
+      0.160012,
+      "i"
+    ],
+    [
+      0.144036,
+      "s"
+    ],
+    [
+      0.095947,
+      " "
+    ],
+    [
+      1.359958,
+      "s"
+    ],
+    [
+      0.096022,
+      "o"
+    ],
+    [
+      0.095995,
+      "m"
+    ],
+    [
+      0.063954,
+      "e"
+    ],
+    [
+      0.144107,
+      " "
+    ],
+    [
+      0.256013,
+      "r"
+    ],
+    [
+      0.095911,
+      "a"
+    ],
+    [
+      0.112026,
+      "n"
+    ],
+    [
+      0.095854,
+      "d"
+    ],
+    [
+      0.096146,
+      "o"
+    ],
+    [
+      0.111958,
+      "m"
+    ],
+    [
+      0.128002,
+      " "
+    ],
+    [
+      0.288061,
+      "s"
+    ],
+    [
+      0.191901,
+      "t"
+    ],
+    [
+      0.080023,
+      "u"
+    ],
+    [
+      0.111967,
+      "f"
+    ],
+    [
+      0.112146,
+      "f"
+    ],
+    [
+      0.144396,
+      "\r\n"
+    ],
+    [
+      0.103417,
+      "No command 'this' found, did you mean:\r\n Command 'thin' from package 'thin' (universe)\r\nthis: command not found\r\n"
+    ],
+    [
+      0.013075,
+      "\u001b]0;riccardo@T5500: ~\u0007riccardo@T5500:~$ "
+    ],
+    [
+      0.763012,
+      "l"
+    ],
+    [
+      0.079969,
+      "s"
+    ],
+    [
+      0.128000,
+      " "
+    ],
+    [
+      0.544135,
+      "-"
+    ],
+    [
+      0.111935,
+      "a"
+    ],
+    [
+      0.128012,
+      "l"
+    ],
+    [
+      0.480299,
+      "\r\n"
+    ],
+    [
+      0.004834,
+      "total 485244\r\ndrwx------ 124 riccardo riccardo     40960 Apr  2 16:38 \u001b[0m\u001b[01;34m.\u001b[0m\r\ndrwxr-xr-x   4 root     root          4096 Sep 13  2014 \u001b[01;34m..\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo      2541 Feb 18 14:55 1\r\n-rw-rw-r--   1 riccardo riccardo      1885 Nov 26 17:14 %1\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:10 \u001b[01;34m2014-11-19_16-10-15.t9n5op\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:10 \u001b[01;34m2014-11-19_16-10-46.n8_wJD\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:11 \u001b[01;34m2014-11-19_16-11-40.O8pfb3\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:12 \u001b[01;34m2014-11-19_16-12-30.eBhgLW\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:14 \u001b[01;34m2014-11-19_16-14-08.LhSmII\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:22 \u001b[01;34m2014-11-19_16-22-13.RbVJjW\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:27 \u001b[01;34m2014-11-19_16-27-35.DEgIIB\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:41 \u001b[01;34m2014-11-19_16-41-36.oiQm9B\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:43 \u001b[01;34m2014-11-19_16-43-47._arcfu\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:43 \u001b[01;34m2014-11-19_16-43-55.IjKZo1\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:46 \u001b[01;34m2014-11-19_16-46-17.DajKmv\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 16:59 \u001b[01;34m2014-11-19_16-59-37.3pAWCT\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:00 \u001b[01;34m2014-11-19_17-00-33.7j19cN\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:00 \u001b[01;34m2014-11-19_17-00-50.nFTg_y\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:06 \u001b[01;34m2014-11-19_17-06-14.iZEuoM\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:12 \u001b[01;34m2014-11-19_17-12-23.4hZEdU\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:15 \u001b[01;34m2014-11-19_17-15-42.aTAn4U\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:42 \u001b[01;34m2014-11-19_17-42-13.1VP8fh\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:44 \u001b[01;34m2014-11-19_17-44-00.tDmyEO\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:47 \u001b[01;34m2014-11-19_17-47-45.8aWtiB\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:50 \u001b[01;34m2014-11-19_17-50-12.o6hCWF\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:53 \u001b[01;34m2014-11-19_17-53-40.Wsc4u3\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Nov 19 17:54 \u001b[01;34m2014-11-19_17-54-17.GxCboa\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo    187606 Jan  2 10:28 A\r\ndrwx------   3 riccardo riccardo      4096 Mar 26 12:56 \u001b[01;34m.adobe\u001b[0m\r\ndrwx------   4 riccardo riccardo      4096 Jan 21 17:10 \u001b[01;34m.ansible\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Feb 17 17:39 \u001b[01;34mansible-basic\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Feb 17 16:40 \u001b[01;34mansible-iptables\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Feb 11 16:27 \u001b[01;34mansible-mongodb\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo       209 Mar 30 13:23 .apport-ignore.xml\r\ndrwx------   2 riccardo riccardo      4096 Mar 20 10:40 \u001b[01;34m.aptitude\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Apr  2 16:38 \u001b[01;34m.asciinema\u001b[0m\r\nlrwxrwxrwx   1 riccardo riccardo        23 Sep  8  2014 \u001b[01;36m.bash_aliases\u001b[0m -\u003e .dotfiles/.bash_aliases\r\n-rw-------   1 riccardo riccardo     68057 Apr  2 16:38 .bash_history\r\n-rw-r--r--   1 riccardo riccardo       220 Sep  8  2014 .bash_logout\r\nlrwxrwxrwx   1 riccardo riccardo        17 Sep  8  2014 \u001b[01;36m.bashrc\u001b[0m -\u003e .dotfiles/.bashrc\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Sep 29  2014 \u001b[01;34mbash-shellshocker\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo   1013269 Nov 19 16:22 _bbc687e93c1d443c8dc654614cce6fa8.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 16:22 _bbc687e93c1d443c8dc654614cce6fa8.stpd_si.json\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Apr  2 16:37 \u001b[01;34mbin\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo        68 Oct 19 18:47 breacher.cmd\r\n-rw-r--r--   1 riccardo riccardo       802 Oct 19 18:47 breacher.config\r\n-rw-r--r--   1 riccardo riccardo    409029 Oct 19 18:"
+    ],
+    [
+      0.000053,
+      "47 breacher.jar\r\ndrwxrwxr-x   5 riccardo riccardo      4096 Dec  9 16:16 \u001b[01;34mbreacher-optimized\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo       181 Oct 19 18:47 breacher.sh\r\ndrwx------  23 riccardo riccardo      4096 Apr  2 15:52 \u001b[01;34m.cache\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo     29979 Oct 21 10:57 careerpaths\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Dec 30 11:00 \u001b[01;34mcipherscan\u001b[0m\r\ndrwx------  34 riccardo riccardo      4096 Mar 31 10:25 \u001b[01;34m.config\u001b[0m\r\ndrwx------  19 riccardo riccardo      4096 Sep 11  2014 \u001b[01;34m.config.old\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo       180 Nov 27 13:14 cookies.txt\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Feb  2 16:14 \u001b[01;34mCVE-2015-0235-workaround\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo   9085233 Oct  8 17:35 databases_141008-1734.sql\r\ndrwx------   3 root     root          4096 Sep 13  2014 \u001b[01;34m.dbus\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo     28672 Apr  2 15:48 \u001b[01;34mDesktop\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo        26 Sep 13  2014 .dmrc\r\ndrwxr-xr-x   3 riccardo riccardo      4096 Oct 19 18:47 \u001b[01;34mdocs\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Mar 24 12:58 \u001b[01;34mDocuments\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Feb 18 12:18 \u001b[01;34m.dotfiles\u001b[0m\r\ndrwxr-xr-x   7 riccardo riccardo     16384 Apr  2 13:18 \u001b[01;34mDownloads\u001b[0m\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Feb 16 16:26 \u001b[01;34mec\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo     10240 Sep  8  2014 ec-0.2.4.gem\r\n-rw-rw-r--   1 riccardo riccardo      9216 Feb 23 10:05 ec-0.2.5.gem\r\n-rw-rw-r--   1 riccardo riccardo    240620 Feb 23 10:08 .ecapicache\r\n-rw-rw-r--   1 riccardo riccardo        74 Sep  8  2014 .ecapiconfig\r\n-rwx------   1 riccardo riccardo       381 Sep 24  2014 \u001b[01;32mecapireserveip\u001b[0m\r\ndrwxrwxr-x  28 riccardo riccardo      4096 Apr  1 11:06 \u001b[01;34mecgitrepos\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Dec 11 16:53 \u001b[01;34mecopenvpn\u001b[0m\r\nlrwxrwxrwx   1 riccardo riccardo        34 Sep  8  2014 \u001b[01;36m.ecryptfs\u001b[0m -\u003e /home/.ecryptfs/riccardo/.ecryptfs\r\n-rwxrwxr-x   1 riccardo riccardo     22492 Sep  8  2014 \u001b[01;32mecsomething.sh\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo      8796 Oct  2 09:27 emails\r\n-rw-rw----   1 riccardo riccardo         0 Feb 18 11:03 file\r\n-rw-rw-r--   1 riccardo riccardo         0 Sep 22  2014 file.txt\r\ndrwx------   2 riccardo riccardo      4096 Mar 27 09:06 \u001b[01;34m.filezilla\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo         0 Oct 10 13:18 foo.txt\r\ndrwx------   3 riccardo riccardo      4096 Sep 29  2014 \u001b[01;34m.freerdp\u001b[0m\r\ndrwx------   3 riccardo riccardo      4096 Jan 13 10:32 \u001b[01;34m.gauthauthenticator-78ef3156e1ca5b74c14beac161614be7\u001b[0m\r\ndrwx------   4 riccardo riccardo      4096 Apr  2 09:55 \u001b[01;34m.gconf\u001b[0m\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34m.gem\u001b[0m\r\n-rwxrwxr-x   1 riccardo riccardo      9827 Jan 28 14:41 \u001b[01;32mGHOST\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo      1046 Jan 27 17:29 GHOST.c\r\n-rw-rw-r--   1 riccardo riccardo      1054 Jan 28 09:33 ghost_CVE-2015-0235\r\ndrwxr-xr-x  24 riccardo riccardo      4096 Jan 21 13:23 \u001b[01;34m.gimp-2.8\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo        52 Sep 15  2014 .gitconfig\r\ndrwx------   3 riccardo riccardo      4096 Oct  6 10:01 \u001b[01;34m.gnome\u001b[0m\r\ndrwx------   3 riccardo riccardo      4096 Mar 23 12:17 \u001b[01;34m.gnome2\u001b[0m\r\ndrwx------   2 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34m.gnome2_private\u001b[0m\r\ndrwx------   2 riccardo riccardo      4096 Jan  9 15:43 \u001b[01;34m.gnupg\u001b[0m\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Feb 16 12:56 \u001b[01;34mGNUstep\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo        53 Feb  4 16:32 google182ae142192e6953.html\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Dec  3 15:02 \u001b[01;34mgo-wrk\u001b[0m\r\ndrwx------   2 riccardo riccardo      4096 Sep 24  2014 \u001b[01;34m.gphoto\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Dec 15 13:42 \u001b[01;34m.gstreamer-0.10\u001b[0m\r\ndrwx------   2 root     root          4096 Sep 13  2014 \u001b[01;34m.gvfs\u001b[0m\r\ndrwxr-----   2 riccardo riccardo      4096 Oct 13 11:06 \u001b[01;34m.hplip\u001b[0m\r\n-rw-------   1 riccardo riccardo      6916 Apr  2 09:55"
+    ],
+    [
+      0.000035,
+      " .ICEauthority\r\ndrwxrwxr-x   5 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34miMacros\u001b[0m\r\nlrwxrwxrwx   1 riccardo riccardo        18 Sep  8  2014 \u001b[01;36m.inputrc\u001b[0m -\u003e .dotfiles/.inputrc\r\n-rw-rw-r--   1 riccardo riccardo       402 Feb 18 14:58 introanalytics\r\n-rw-rw-r--   1 riccardo riccardo        15 Jan  6 09:50 ip\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Apr  1 13:37 \u001b[01;34miso-webinar-neupart\u001b[0m\r\ndrwxrwxr-x   6 riccardo riccardo      4096 Oct 28 16:40 \u001b[01;34mitv\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo   7349725 Jan 12 10:04 jan_08\r\n-rw-rw-r--   1 riccardo riccardo    317967 Jan 12 10:14 jan_08.zip\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Oct 22 10:25 \u001b[01;34m.java\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Sep  9  2014 \u001b[01;34mjp_keys\u001b[0m\r\ndrwx------   3 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34m.kde\u001b[0m\r\ndrwxr-xr-x   4 riccardo riccardo      4096 Apr  2 16:00 \u001b[01;34m.lastpass\u001b[0m\r\ndrwxrwxr-x   5 riccardo riccardo     20480 Mar 24 11:48 \u001b[01;34mlastpass-cli\u001b[0m\r\n-rw-------   1 riccardo riccardo      1675 Nov 19 10:58 lastuser\r\n-rw-r--r--   1 riccardo riccardo       396 Nov 19 10:58 lastuser.pub\r\n-rw-------   1 riccardo riccardo       804 Mar 31 13:54 .lesshst\r\ndrwxr-xr-x   4 riccardo riccardo      4096 Oct 19 18:47 \u001b[01;34mlib\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Oct 27 10:52 \u001b[01;34mlibpam-google-authenticator-1.0\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo     32708 May 15  2012 libpam-google-authenticator-1.0-source.tar.bz2\r\ndrwxrwxr-x  13 riccardo riccardo      4096 Dec  5 10:31 \u001b[01;34mlinkchecker\u001b[0m\r\ndrwx------   2 riccardo riccardo      4096 Dec  5 10:41 \u001b[01;34m.linkchecker\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo   1514506 Nov 19 16:43 load.ini_00cdd57ae3c85c9e903c304a89f10ec8.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 16:43 load.ini_00cdd57ae3c85c9e903c304a89f10ec8.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo   1621933 Nov 19 16:58 load.ini_0e6b1996494e00ab7d9aba0a9967b1e4.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 16:58 load.ini_0e6b1996494e00ab7d9aba0a9967b1e4.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo   1506794 Nov 19 17:07 load.ini_1a5cc48c551a6e530dcc5e12ac3c2a60.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 17:07 load.ini_1a5cc48c551a6e530dcc5e12ac3c2a60.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo       838 Nov 19 17:50 load.ini_3c823a502aed0d4e7f7824d5d4332e6c.stpd\r\n-rw-rw-r--   1 riccardo riccardo       216 Nov 19 17:50 load.ini_3c823a502aed0d4e7f7824d5d4332e6c.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo    952669 Nov 19 16:14 load.ini_3d63abfdfaa6f9d819e584b679422061.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 16:14 load.ini_3d63abfdfaa6f9d819e584b679422061.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo   2044302 Nov 19 16:11 load.ini_49e53484bb759231c729ca3f729d2a55.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5414 Nov 19 16:11 load.ini_49e53484bb759231c729ca3f729d2a55.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo   1629259 Nov 19 17:05 load.ini_4dec6b72f18bcb585620d8ad3d2fe81a.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 17:05 load.ini_4dec6b72f18bcb585620d8ad3d2fe81a.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo       838 Nov 19 17:53 load.ini_73de06be2c94bbca5e45a6fe24a12515.stpd\r\n-rw-rw-r--   1 riccardo riccardo       216 Nov 19 17:53 load.ini_73de06be2c94bbca5e45a6fe24a12515.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo       838 Nov 19 17:43 load.ini_87ae1e5f9ec45c463839579086a45ba2.stpd\r\n-rw-rw-r--   1 riccardo riccardo       216 Nov 19 17:43 load.ini_87ae1e5f9ec45c463839579086a45ba2.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo   1515433 Nov 19 17:15 load.ini_8b46a7f444114270d947c522037e8346.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 17:15 load.ini_8b46a7f444114270d947c522037e8346.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo       838 Nov 19 17:47 load.ini_91a470ff7d8cb2b51b1754cf4af66f9f.stpd\r\n-rw-rw-r--   1 riccardo riccardo       216 Nov 19 17:47 load.ini_91a470ff7d8cb2b51b1754cf4af66f9f.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo       838 Nov 19 17:54 load.ini_932d0"
+    ],
+    [
+      0.000044,
+      "a57ca170d43d2ce692b55a12975.stpd\r\n-rw-rw-r--   1 riccardo riccardo       216 Nov 19 17:54 load.ini_932d0a57ca170d43d2ce692b55a12975.stpd_si.json\r\n-rw-rw-r--   1 riccardo riccardo   1637083 Nov 19 16:59 load.ini_b0a7f16c218c8053db13c9c2da977a79.stpd\r\n-rw-rw-r--   1 riccardo riccardo      5412 Nov 19 16:59 load.ini_b0a7f16c218c8053db13c9c2da977a79.stpd_si.json\r\ndrwxrwxr-x  39 riccardo riccardo     24576 Mar 20 17:54 \u001b[01;34mloadsofcrap\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34m.local\u001b[0m\r\ndrwx------   3 riccardo riccardo      4096 Mar 25 17:10 \u001b[01;34m.lpass\u001b[0m\r\ndrwx------   3 riccardo riccardo      4096 Mar 26 12:56 \u001b[01;34m.macromedia\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo        17 Feb 19 16:28 message\r\n-rw-rw-r--   1 riccardo riccardo        48 Feb 19 16:30 message.encrypted\r\ndrwx------   5 riccardo riccardo      4096 Oct  3 11:04 \u001b[01;34m.mozilla\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34mMusic\u001b[0m\r\n-rw-------   1 root     root             0 Dec 10 14:38 mysqlaccess.log\r\n-rw-------   1 riccardo riccardo        59 Feb 26 12:12 .mysql_history\r\n-rw-rw-r--   1 riccardo riccardo  17156872 Dec 11 11:10 Nessus-6.1.1-ubuntu1110_amd64.deb\r\n-rw-rw-r--   1 riccardo riccardo        65 Sep 15  2014 .netrc\r\n-rwxrwxr-x   1 riccardo riccardo 436129765 Dec 10 13:51 \u001b[01;32mNeXposeSetup-Linux64.bin\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Jan  2 10:09 \u001b[01;34mnmap\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo    911391 Aug 23  2014 nping-0.6.47-1.x86_64.rpm\r\n-rw-r--r--   1 root     root        727806 Dec 17 17:19 nping_0.6.47-2_amd64.deb\r\ndrwxrwxr-x  30 riccardo riccardo     16384 Dec  5 13:16 \u001b[01;34m.npm\u001b[0m\r\ndrwx------   3 riccardo riccardo      4096 Sep 15  2014 \u001b[01;34m.nv\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo      2515 Mar 25 16:21 .nvidia-settings-rc\r\ndrwxrwxr-x   9 riccardo riccardo      4096 Oct 10 10:36 \u001b[01;34mnvpy\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo     49152 Mar  6 13:28 \u001b[01;34m.nvpy\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo        74 Oct 10 10:42 .nvpy.cfg\r\ndrwxr-x---   3 riccardo riccardo      4096 Mar 19 17:54 \u001b[01;34m.openarena\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo      1530 Nov 25 10:23 output_file.txt\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Dec  3 13:08 \u001b[01;34mpasstest\u001b[0m\r\ndrwxr-xr-x   3 riccardo riccardo     12288 Mar 30 16:52 \u001b[01;34mPictures\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Oct 10 10:20 \u001b[01;34m.pip\u001b[0m\r\ndrwx------   3 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34m.pki\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo        17 Feb 17 16:47 playbook.retry\r\nlrwxrwxrwx   1 riccardo riccardo        33 Sep  8  2014 \u001b[01;36m.Private\u001b[0m -\u003e /home/.ecryptfs/riccardo/.Private\r\n-rw-r--r--   1 riccardo riccardo       675 Sep  8  2014 .profile\r\n-rw-rw-r--   1 riccardo riccardo     17768 Nov 10 18:01 ps_mem.py\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34mPublic\u001b[0m\r\ndrwx------   4 riccardo riccardo      4096 Jan 22 11:38 \u001b[01;34m.purple\u001b[0m\r\ndrwx------   2 riccardo riccardo      4096 Jan 22 18:19 \u001b[01;34m.putty\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo        20 Oct  8 15:05 pw\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Dec  3 15:36 \u001b[01;34mpython-stuff\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo    873892 Dec 17 17:01 redwire-restore-2014-12-09_081429.tar.gz\r\ndrwx------   2 riccardo riccardo     12288 Mar 31 16:03 \u001b[01;34m.remmina\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Jan 15 16:42 \u001b[01;34mremmina_password_exposer\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo         0 Feb 10 11:15 reports\r\n-rw-------   1 riccardo riccardo      1024 Apr  1 15:54 .rnd\r\n-rw-------   1 riccardo riccardo      1765 Jan 20 12:51 robert.key\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Dec 17 17:17 \u001b[01;34m.rpmdb\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Oct  3 12:15 \u001b[01;34msas\u001b[0m\r\n-rw-------   1 riccardo riccardo      1675 Nov 18 16:57 sas-admin\r\n-rw-r--r--   1 riccardo riccardo       396 Nov 18 16:57 sas-admin.pub\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Apr  1 10:20 \u001b[01;34mscamalytics-traffic-LB\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo     14608 Apr  2 10:49 scanr"
+    ],
+    [
+      0.000031,
+      "eport.html\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Sep 13  2014 \u001b[01;34m.screenlayout\u001b[0m\r\nlrwxrwxrwx   1 riccardo riccardo        19 Sep  8  2014 \u001b[01;36m.screenrc\u001b[0m -\u003e .dotfiles/.screenrc\r\n-rwxrwxr-x   1 riccardo riccardo       407 Feb 18 11:25 \u001b[01;32mscreenshot.sh\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo     12886 Mar 19 14:20 secadv_20150319.txt\r\n-rw-rw-r--   1 riccardo riccardo        22 Feb  4 13:34 se-domains\r\n-rwxrw-r--   1 riccardo riccardo       225 Feb  4 14:08 \u001b[01;32mse-ssl-script.sh\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo        18 Jan 21 17:13 single_server_bootstrap.retry\r\ndrwx------   6 riccardo riccardo      4096 Mar 10 13:41 \u001b[01;34m.Skype\u001b[0m\r\ndrwxrwxr-x   5 riccardo riccardo      4096 Dec  5 13:16 \u001b[01;34mslack-irc-plugin\u001b[0m\r\ndrwx------   2 riccardo riccardo      4096 Mar 25 10:25 \u001b[01;34m.ssh\u001b[0m\r\ndrwxrwxr-x   6 riccardo riccardo      4096 Dec  9 16:06 \u001b[01;34msslyze\u001b[0m\r\ndrwxrwxr-x   5 riccardo riccardo      4096 Sep 21  2014 \u001b[01;34msslyze-release-0.10\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo    897712 Dec  9 16:08 sslyze-release-0.10.tar.gz\r\ndrwxrwxr-x   5 riccardo riccardo      4096 Feb 12 15:36 \u001b[01;34m.ssr\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34mTemplates\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Dec  3 15:02 \u001b[01;34mtest\u001b[0m\r\ndrwxrwxr-x   2 riccardo riccardo      4096 Nov 11 09:37 \u001b[01;34mtestdir\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo        36 Mar 18 09:38 test_report\r\n-rw-r--r--   1 riccardo riccardo        65 Mar 18 09:37 test_report.pdf\r\n-rw-rw-r--   1 riccardo riccardo     18027 Jun  5  2013 TestSSLServer.jar\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Dec 30 11:00 \u001b[01;34mtestssl.sh\u001b[0m\r\ndrwx------   4 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34m.thumbnails\u001b[0m\r\ndrwx------   4 riccardo riccardo      4096 Sep 22  2014 \u001b[01;34m.thunderbird\u001b[0m\r\ndrwxrwxr-x   3 riccardo riccardo      4096 Dec  5 13:16 \u001b[01;34mtmp\u001b[0m\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Oct 19 18:47 \u001b[01;34mtrusted-ca\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo       180 Mar  2 14:23 v\r\n-rw-r--r--   1 riccardo riccardo         0 Oct 19 18:47 VERSION-20141019\r\ndrwxr-xr-x   2 riccardo riccardo      4096 Sep  8  2014 \u001b[01;34mVideos\u001b[0m\r\ndrwxrwxr-x   4 riccardo riccardo      4096 Sep 30  2014 \u001b[01;34m.vim\u001b[0m\r\n-rw-------   1 riccardo riccardo     21501 Apr  2 12:33 .viminfo\r\nlrwxrwxrwx   1 riccardo riccardo        16 Sep  8  2014 \u001b[01;36m.vimrc\u001b[0m -\u003e .dotfiles/.vimrc\r\n-rw-r--r--   1 riccardo riccardo      4713 Dec 17 15:29 WAHEscapesSSL.zip\r\ndrwx------   2 riccardo riccardo      4096 Mar 24 09:48 \u001b[01;34m.watershed\u001b[0m\r\nlrwxrwxrwx   1 riccardo riccardo        17 Sep  8  2014 \u001b[01;36m.wgetrc.wgetrc\u001b[0m -\u003e .dotfiles/.wgetrc\r\ndrwxrwxr-x   7 riccardo riccardo      4096 Dec  3 11:15 \u001b[01;34mwrk\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo   1103856 Mar 24 13:01 wtf.png\r\n-rw-------   1 riccardo riccardo        50 Apr  2 09:55 .Xauthority\r\n-rw-r--r--   1 riccardo riccardo      1601 Sep  8  2014 .Xdefaults\r\n-rw-rw-r--   1 riccardo riccardo     33525 Apr  2 16:37 .xfce4-session.verbose-log\r\n-rw-rw-r--   1 riccardo riccardo     97131 Apr  1 17:03 .xfce4-session.verbose-log.last\r\n-rw-r--r--   1 riccardo riccardo        14 Sep  8  2014 .xscreensaver\r\n-rw-------   1 riccardo riccardo       190 Apr  2 09:55 .xsession-errors\r\n-rw-------   1 riccardo riccardo       292 Apr  2 09:55 .xsession-errors.old\r\ndrwxrwxr-x  38 riccardo riccardo     28672 Dec  5 14:44 \u001b[01;34myandex\u001b[0m\r\ndrwx------  33 riccardo riccardo      4096 Feb  3 13:31 \u001b[01;34mzeus-conf\u001b[0m\r\n-rw-r--r--   1 riccardo riccardo   5367530 Oct 16 16:11 zimbra.log\r\ndrwxrwxr-x   8 riccardo riccardo      4096 Dec 29 16:50 \u001b[01;34mzmap\u001b[0m\r\n-rw-rw-r--   1 riccardo riccardo    200112 Mar 25 11:04 ZXTM-MIB-SMIv2.txt\r\n"
+    ],
+    [
+      0.002473,
+      "\u001b]0;riccardo@T5500: ~\u0007riccardo@T5500:~$ "
+    ],
+    [
+      3.016204,
+      "p"
+    ],
+    [
+      0.224109,
+      "i"
+    ],
+    [
+      0.095924,
+      "n"
+    ],
+    [
+      0.095924,
+      "g"
+    ],
+    [
+      0.176104,
+      " "
+    ],
+    [
+      0.511976,
+      "g"
+    ],
+    [
+      0.095984,
+      "o"
+    ],
+    [
+      0.127918,
+      "o"
+    ],
+    [
+      0.080025,
+      "g"
+    ],
+    [
+      0.080075,
+      "l"
+    ],
+    [
+      0.111983,
+      "e"
+    ],
+    [
+      0.064054,
+      "."
+    ],
+    [
+      0.095934,
+      "c"
+    ],
+    [
+      0.575945,
+      "o"
+    ],
+    [
+      0.128056,
+      "m"
+    ],
+    [
+      0.272374,
+      "\r\n"
+    ],
+    [
+      0.007510,
+      "PING google.com (216.58.210.46) 56(84) bytes of data.\r\n"
+    ],
+    [
+      0.017725,
+      "64 bytes from lhr14s23-in-f14.1e100.net (216.58.210.46): icmp_seq=1 ttl=58 time=4.46 ms\r\n"
+    ],
+    [
+      0.992867,
+      "64 bytes from lhr14s23-in-f14.1e100.net (216.58.210.46): icmp_seq=2 ttl=58 time=4.95 ms\r\n"
+    ],
+    [
+      1.005700,
+      "64 bytes from lhr14s23-in-f14.1e100.net (216.58.210.46): icmp_seq=3 ttl=58 time=4.40 ms\r\n"
+    ],
+    [
+      0.343785,
+      "^C"
+    ],
+    [
+      0.000146,
+      "\r\n--- google.com ping statistics ---\r\n3 packets transmitted, 3 received, 0% packet loss, time 2011ms\r\nrtt min/avg/max/mdev = 4.405/4.607/4.953/0.245 ms\r\n"
+    ],
+    [
+      0.002984,
+      "\u001b]0;riccardo@T5500: ~\u0007riccardo@T5500:~$ "
+    ],
+    [
+      1.373469,
+      "exit\r\n"
+    ]
+  ]
+}
