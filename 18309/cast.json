@@ -1,0 +1,782 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 23,
+  "duration": 67.855696,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.017136,
+      "\u001b[?1034h😑  "
+    ],
+    [
+      0.959028,
+      "c"
+    ],
+    [
+      0.140026,
+      "a"
+    ],
+    [
+      0.119507,
+      "t"
+    ],
+    [
+      0.059805,
+      " "
+    ],
+    [
+      0.111786,
+      "m"
+    ],
+    [
+      0.200207,
+      "x"
+    ],
+    [
+      0.154163,
+      "/"
+    ],
+    [
+      0.002475,
+      "l"
+    ],
+    [
+      0.198259,
+      "o"
+    ],
+    [
+      0.064158,
+      "g"
+    ],
+    [
+      0.130019,
+      "/"
+    ],
+    [
+      0.189976,
+      "c"
+    ],
+    [
+      0.112616,
+      "h"
+    ],
+    [
+      0.203156,
+      "a"
+    ],
+    [
+      0.151493,
+      "nnel_event_metrics.log "
+    ],
+    [
+      0.482305,
+      "\r\n"
+    ],
+    [
+      0.004210,
+      "😑  "
+    ],
+    [
+      9.148848,
+      "tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\": \r\"publish\",\"channel\":\"test\",\"message\":123}}' --message-rate 1 -T30s --verbose 3"
+    ],
+    [
+      0.966880,
+      "\r\n"
+    ],
+    [
+      0.001517,
+      "Adjusted open files limit from 1024 to 4096.\r\nDestination: [::1]:1234\r\nDestination: [127.0.0.1]:1234\r\n"
+    ],
+    [
+      0.012759,
+      "|\u003e------------------------------------------------| 0 of 1 (0)\u001b[K\rClosing [::1]:1234: Connection refused\r\n"
+    ],
+    [
+      0.021863,
+      "\u001b[KRamped up to 1 connections.\r\n"
+    ],
+    [
+      0.234978,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253265,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251134,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.252499,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259093,
+      "🕛  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.248444,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251946,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260368,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.256329,
+      "🕛  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259179,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260170,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260016,
+      "🕐  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257817,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257952,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.252198,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259825,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.261167,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259844,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251129,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.255872,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.258028,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.274611,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251529,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.258770,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.279033,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.244041,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.258784,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.255208,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257900,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.262975,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249023,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.256092,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251945,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250103,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.256861,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259084,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249959,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253780,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.267888,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251308,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260926,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.268971,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.256267,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249686,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.264282,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.244886,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257080,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250082,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259803,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.331914,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257051,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259738,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.254486,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.255003,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.254663,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.252588,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.359966,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.242828,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250932,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251824,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251212,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.252757,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257238,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.261901,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.242745,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259122,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259203,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257116,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.329439,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260170,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260337,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.348928,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.304170,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.265400,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249233,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253140,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253054,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.255994,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.268431,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.268561,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.269660,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.355076,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.254817,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253361,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260019,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259463,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.266191,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.262346,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257152,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259993,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.316805,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.300842,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.300576,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259781,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259885,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.269936,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259369,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250469,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.282086,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251134,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251997,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.263592,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249255,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250180,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259366,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.349941,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251695,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251444,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257561,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.267564,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259878,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260523,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.245378,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.244247,
+      "\u001b[KExiting worker 0\r\n  0↓, 0↑ open connections (0 connecting)\r\n  2 connections_counter \r\n  ↳ 2 connections_initiated\r\n  ↳ 0 connections_accepted\r\n  1 connection_failures\r\n  ↳ 0 connection_timeouts\r\n  2550 worker_data_sent\r\n  0 worker_data_received\r\nTotal data sent:     2.5 KiB (2550 bytes)\r\nTotal data received: 0 bytes (0 bytes)\r\nBandwidth per channel: 0.001 Mbps, 0.1 kBps\r\nAggregate bandwidth: 0.000↓, 0.001↑ Mbps\r\nTest duration: 30.0033 s.\r\n"
+    ],
+    [
+      0.000854,
+      "😑  "
+    ],
+    [
+      3.625337,
+      "c"
+    ],
+    [
+      0.222698,
+      "a"
+    ],
+    [
+      0.098631,
+      "t"
+    ],
+    [
+      0.087702,
+      " "
+    ],
+    [
+      0.122239,
+      "m"
+    ],
+    [
+      0.158541,
+      "x"
+    ],
+    [
+      0.272180,
+      "/"
+    ],
+    [
+      0.177051,
+      "l"
+    ],
+    [
+      0.149665,
+      "o"
+    ],
+    [
+      0.100284,
+      "g"
+    ],
+    [
+      0.139462,
+      "/"
+    ],
+    [
+      0.132782,
+      "c"
+    ],
+    [
+      0.127364,
+      "h"
+    ],
+    [
+      0.089506,
+      "a"
+    ],
+    [
+      0.164664,
+      "nnel_event_metrics.log "
+    ],
+    [
+      0.466280,
+      "\r\n"
+    ],
+    [
+      0.003898,
+      "1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,n,16\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,mean,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,min,3\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,max,3\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,median,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,50,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,75,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,90,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,95,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,99,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,999,3.00000000000000000000e+00\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,value,16\r\n1427996917,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,ms_since_reset,15678\r\n😑  "
+    ],
+    [
+      6.889707,
+      "tcpkali localhost:1234 --first-message '{\"service\":\"pubsub\",\"request\":{\"opera \rtion\":\"subscribe\",\"channel\":\"test\"}}' --verbose 3\r\n"
+    ],
+    [
+      0.013256,
+      "Adjusted open files limit from 1024 to 4096.\r\n"
+    ],
+    [
+      0.000023,
+      "Destination: [::1]:1234"
+    ],
+    [
+      0.000738,
+      "\r\nDestination: [127.0.0.1]:1234\r\n"
+    ],
+    [
+      0.010998,
+      "|\u003e------------------------------------------------| 0 of 1 (0)\u001b[K\r"
+    ],
+    [
+      0.002683,
+      "Closing [::1]:1234: Connection refused\r\n"
+    ],
+    [
+      0.018576,
+      "\u001b[KRamped up to 1 connections.\r\n"
+    ],
+    [
+      0.018730,
+      "\u001b[KData(160): ➧{\"channel\":\"test\",\"next\":0,\"messages\":[123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123]}⬅︎\r\n"
+    ],
+    [
+      0.218598,
+      "🕛  Traffic 0.005↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250996,
+      "🕛  Traffic 0.004↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.254049,
+      "🕛  Traffic 0.004↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.305639,
+      "🕐  Traffic 0.004↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.258290,
+      "🕐  Traffic 0.003↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251045,
+      "🕐  Traffic 0.003↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253044,
+      "🕑  Traffic 0.003↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.136972,
+      "^CCtrl+C pressed, finishing up...\r\n\u001b[KExiting worker 0\r\n  0↓, 0↑ open connections (0 connecting)\r\n  2 connections_counter \r\n  ↳ 2 connections_initiated\r\n  ↳ 0 connections_accepted\r\n  1 connection_failures\r\n  ↳ 0 connection_timeouts\r\n  73 worker_data_sent\r\n  160 worker_data_received\r\nTotal data sent:     73 bytes (73 bytes)\r\nTotal data received: 160 bytes (160 bytes)\r\nBandwidth per channel: 0.001 Mbps, 0.1 kBps\r\nAggregate bandwidth: 0.001↓, 0.000↑ Mbps\r\nTest duration: 1.94707 s.\r\n😑  "
+    ],
+    [
+      3.090998,
+      "t"
+    ],
+    [
+      0.304793,
+      "ai"
+    ],
+    [
+      0.063201,
+      "l"
+    ],
+    [
+      0.119843,
+      " "
+    ],
+    [
+      0.149573,
+      "-"
+    ],
+    [
+      0.204377,
+      "F"
+    ],
+    [
+      0.185444,
+      " "
+    ],
+    [
+      0.150046,
+      "m"
+    ],
+    [
+      0.113724,
+      "x"
+    ],
+    [
+      0.111926,
+      "/"
+    ],
+    [
+      0.154338,
+      "l"
+    ],
+    [
+      0.149237,
+      "o"
+    ],
+    [
+      0.077256,
+      "g"
+    ],
+    [
+      0.116872,
+      "/"
+    ],
+    [
+      0.495721,
+      "c"
+    ],
+    [
+      0.119591,
+      "h"
+    ],
+    [
+      0.085650,
+      "annel_event_metrics.log "
+    ],
+    [
+      0.422017,
+      "\r\n"
+    ],
+    [
+      0.003049,
+      "1427996947,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,50,3.00000000000000000000e+00\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,75,3.00000000000000000000e+00\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,90,3.00000000000000000000e+00\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,95,3.00000000000000000000e+00\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,99,3.00000000000000000000e+00\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,999,3.00000000000000000000e+00\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,value,30\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,ms_since_reset,45678\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.stream_bytes_delivered,value,120\r\n1427996947,mx@p1.sandbox.tld,pubsub.channels..test.stream_bytes_delivered,ms_since_reset,3681\r\n"
+    ],
+    [
+      1.979865,
+      "^C\r\n😑  "
+    ],
+    [
+      1.280487,
+      "exit\r\n"
+    ]
+  ]
+}
