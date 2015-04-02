@@ -1,0 +1,574 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 23,
+  "duration": 60.843926,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006046,
+      "\u001b[?1034h😑  "
+    ],
+    [
+      2.055953,
+      "\r\u001b[19@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.430215,
+      "\u0008\u0008\u0008\u001b[42@c': tail -F mx/log/channel_event_metrics.log\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.129518,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Ca': tcpkali localhost:1234 --first-message '{\"service\":\"pubsu\rub\",\"request\":{\"operation\":\"subscribe\",\"channel\":\"test\"}}' --verbose 3\u001b[A\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.166955,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[18Pt': cat mx/log/channel_event_metrics.log \r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.895271,
+      "\r\u001b[22P😑 \u001b[C\r\n"
+    ],
+    [
+      0.004386,
+      "😑  "
+    ],
+    [
+      2.056820,
+      "\r\u001b[19@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.491130,
+      "\u0008\u0008\u0008p': tcpkali localhost:1234 --first-message '{\"service\":\"pubsub\rb\",\"request\":{\"operation\":\"subscribe\",\"channel\":\"test\"}}' --verbose 3\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.136249,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[Cu': tcpkali localhost:1234 --first-message '{\"service\":\"pubsu\u001b[1@b\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.072339,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cb': tcpkali localhost:1234 --first-message '{\"service\":\"pubs\u001b[1@u\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.408470,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cl': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-rate\re 1 -T30s --verbose 3\u001b[A\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.141877,
+      "\u001b[A\u0008i': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-rat\u001b[1@e\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.175034,
+      "\u001b[A\u0008s': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-ra\u001b[1@t\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.154984,
+      "\u001b[A\u0008h': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-r\u001b[1@a\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      2.300242,
+      "\u001b[A\r😑  tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\":\"\u001b[2Ppublish\",\"channel\":\"test\",\"message\":123}}' --message-rate 1 -T30s --verbose 3\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.305720,
+      "\u0008"
+    ],
+    [
+      0.243205,
+      "\u0008"
+    ],
+    [
+      0.030847,
+      "\u0008"
+    ],
+    [
+      0.034104,
+      "\u0008"
+    ],
+    [
+      0.035133,
+      "\u0008"
+    ],
+    [
+      0.038350,
+      "\u0008"
+    ],
+    [
+      0.039340,
+      "\u0008"
+    ],
+    [
+      0.052078,
+      "\u0008\u0008"
+    ],
+    [
+      0.035084,
+      "\u0008"
+    ],
+    [
+      0.172744,
+      "\u0008"
+    ],
+    [
+      0.152188,
+      "\u0008"
+    ],
+    [
+      0.147680,
+      "\u0008"
+    ],
+    [
+      0.363316,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.129011,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.101225,
+      "\u001b[1@1"
+    ],
+    [
+      0.057340,
+      "\u001b[1@5"
+    ],
+    [
+      0.471409,
+      "\r\n"
+    ],
+    [
+      0.003595,
+      "Adjusted open files limit from 1024 to 4096.\r\nDestination: [::1]:1234\r\nDestination: [127.0.0.1]:1234\r\n"
+    ],
+    [
+      0.015363,
+      "|\u003e------------------------------------------------| 0 of 1 (0)\u001b[K\r"
+    ],
+    [
+      0.001102,
+      "Closing [::1]:1234: Connection refused\r\n"
+    ],
+    [
+      0.021537,
+      "\u001b[KRamped up to 1 connections.\r\n"
+    ],
+    [
+      0.238644,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.263616,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.273382,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.244602,
+      "🕛  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.257335,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249662,
+      "🕐  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.269837,
+      "🕐  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.247447,
+      "🕐  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259065,
+      "🕐  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.262468,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.270260,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.246132,
+      "🕑  Traffic 0.000↓, 0.000↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260060,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.264081,
+      "🕑  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260183,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259829,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249749,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260100,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260489,
+      "🕒  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.241694,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251686,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253192,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251119,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.301788,
+      "🕓  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.267504,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251648,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251443,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260284,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253299,
+      "🕔  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.252971,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253136,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.254539,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259265,
+      "🕕  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251079,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251093,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.352582,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.251300,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.258078,
+      "🕖  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.261485,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.241905,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249601,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250981,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.267680,
+      "🕗  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.255720,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250475,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.261009,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253907,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.249935,
+      "🕘  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.261060,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260087,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.254776,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.259393,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.252848,
+      "🕙  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.271113,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.245654,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.260356,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.250016,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.255995,
+      "🕚  Traffic 0.000↓, 0.001↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.022228,
+      "\u001b[KExiting worker 0\r\n  0↓, 0↑ open connections (0 connecting)\r\n  2 connections_counter \r\n  ↳ 2 connections_initiated\r\n  ↳ 0 connections_accepted\r\n  1 connection_failures\r\n  ↳ 0 connection_timeouts\r\n  1275 worker_data_sent\r\n  0 worker_data_received\r\n"
+    ],
+    [
+      0.002355,
+      "Total data sent:     1275 bytes (1275 bytes)\r\nTotal data received: 0 bytes (0 bytes)\r\nBandwidth per channel: 0.001 Mbps, 0.1 kBps\r\nAggregate bandwidth: 0.000↓, 0.001↑ Mbps\r\nTest duration: 15.0011 s.\r\n😑  "
+    ],
+    [
+      1.966763,
+      "\r\u001b[19@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.298978,
+      "\u0008\u0008\u0008c': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"req\rquest\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-rate 1 \r -T15s --verbose 3\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.140492,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008a': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-rate 1\u001b[1@ \u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.109500,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[18Pt': cat mx/log/channel_event_metrics.log \r\n\r\u001b[K\r\n\r\u001b[K\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.539149,
+      "\r\u001b[22P😑 \u001b[C\r\n"
+    ],
+    [
+      0.004215,
+      "1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,n,12\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,mean,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,min,3\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,max,3\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,median,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,50,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,75,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,90,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,95,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,99,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,999,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,value,12\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,ms_since_reset,11246\r\n😑  "
+    ],
+    [
+      4.146205,
+      "\r\u001b[19@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.388986,
+      "\u0008\u0008\u0008\u001b[38@s': cat mx/log/channel_event_metrics.log\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.120152,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cu': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"re\request\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-rate 1\r1 -T15s --verbose 3\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.083452,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cb': tcpkali localhost:1234 --message '{\"service\":\"pubsub\",\"request\":{\"operation\":\"publish\",\"channel\":\"test\",\"message\":123}}' --message-rate \u001b[1@1\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.158140,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cs': tcpkali localhost:1234 --first-message '{\"service\":\"pub\u001b[8Psub\",\"request\":{\"operation\":\"subscribe\",\"channel\":\"test\"}}' --verbose 3\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.087197,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008c': tcpkali localhost:1234 --first-message '{\"service\":\"pu\u001b[1@b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.200963,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008r': tcpkali localhost:1234 --first-message '{\"service\":\"p\u001b[1@u\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.110894,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008i': tcpkali localhost:1234 --first-message '{\"service\":\"\u001b[1@p\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.111242,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008b': tcpkali localhost:1234 --first-message '{\"service\":\u001b[1@\"\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.497791,
+      "\u001b[A\r😑  tcpkali localhost:1234 --first-message '{\"service\":\"pubsub\",\"request\":{\"operat\u001b[27P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\r\n"
+    ],
+    [
+      0.001757,
+      "Adjusted open files limit from 1024 to 4096.\r\nDestination: [::1]:1234\r\nDestination: [127.0.0.1]:1234\r\n"
+    ],
+    [
+      0.011194,
+      "|\u003e------------------------------------------------| 0 of 1 (0)\u001b[K\rClosing [::1]:1234: Connection refused\r\n"
+    ],
+    [
+      0.020923,
+      "\u001b[KRamped up to 1 connections.\r\n"
+    ],
+    [
+      0.039855,
+      "\u001b[KData(220): ➧{\"channel\":\"test\",\"next\":0,\"messages\":[123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123,123]}⬅︎\r\n"
+    ],
+    [
+      0.204305,
+      "🕛  Traffic 0.007↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.245867,
+      "🕛  Traffic 0.006↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.261256,
+      "🕛  Traffic 0.006↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.253880,
+      "🕐  Traffic 0.005↓, 0.002↑ Mbps (conns 0↓ 1↑ 0⇡; seen 2)\u001b[K\r"
+    ],
+    [
+      0.243897,
+      "^CCtrl+C pressed, finishing up...\r\n\u001b[KExiting worker 0\r\n  0↓, 0↑ open connections (0 connecting)\r\n  2 connections_counter \r\n  ↳ 2 connections_initiated\r\n  ↳ 0 connections_accepted\r\n  1 connection_failures\r\n  ↳ 0 connection_timeouts\r\n  73 worker_data_sent\r\n  220 worker_data_received\r\nTotal data sent:     73 bytes (73 bytes)\r\nTotal data received: 220 bytes (220 bytes)"
+    ],
+    [
+      0.000020,
+      "\r\nBandwidth per channel: 0.002 Mbps, 0.2 kBps\r\nAggregate bandwidth: 0.001↓, 0.000↑ Mbps\r\nTest duration: 1.24914 s.\r\n"
+    ],
+    [
+      0.001796,
+      "😑  "
+    ],
+    [
+      1.375417,
+      "\r\u001b[19@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.361490,
+      "\u0008\u0008\u0008c': tcpkali localhost:1234 --first-message '{\"service\":\"pubsub\rb\",\"request\":{\"operation\":\"subscribe\",\"channel\":\"test\"}}' --verbose 3\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.148641,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008a': tcpkali localhost:1234 --first-message '{\"service\":\"pubsu\u001b[1@b\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.099324,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[18Pt': cat mx/log/channel_event_metrics.log \r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.930372,
+      "\r\u001b[22P😑 \u001b[C\r\n"
+    ],
+    [
+      0.002867,
+      "1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,n,12\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,mean,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,min,3\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,max,3\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,median,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,50,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,75,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,90,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,95,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,99,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,999,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,value,12\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,ms_since_reset,11246\r\n😑  "
+    ],
+    [
+      2.118330,
+      "\r\u001b[19@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.220115,
+      "\u0008\u0008\u0008\u001b[38@t': cat mx/log/channel_event_metrics.log\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.101155,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[5@a': tail -F\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.068521,
+      "\u0008\u0008\u0008\u001b[1@i\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.059978,
+      "\u0008\u0008\u0008\u001b[1@l\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.499993,
+      "\r\u001b[23P😑 \u001b[C\r\n"
+    ],
+    [
+      0.002840,
+      "1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,max,3\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,median,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,50,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,75,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,90,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,95,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,99,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,999,3.00000000000000000000e+00\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,value,12\r\n1427999154,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,ms_since_reset,11246\r\n"
+    ],
+    [
+      14.017136,
+      "1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,n,15\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,mean,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,min,3\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,max,3\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,median,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,50,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,75,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,90,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,95,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,99,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.message_sizes,999,3.00000000000000000000e+00\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,value,15\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.messages_received,ms_since_reset,41246\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.stream_bytes_delivered,value,180\r\n1427999184,mx@p1.sandbox.tld,pubsub.channels..test.stream_bytes_delivered,ms_since_reset,18360\r\n"
+    ],
+    [
+      1.561888,
+      "^C\r\n😑  "
+    ],
+    [
+      0.947668,
+      "exit\r\n"
+    ]
+  ]
+}
