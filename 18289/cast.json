@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "width": 142,
+  "height": 33,
+  "duration": 59.272112,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/sh"
+  },
+  "stdout": [
+    [
+      0.039147,
+      "\u001b[?1034hsh-3.2# "
+    ],
+    [
+      9.391016,
+      "l"
+    ],
+    [
+      0.103834,
+      "s"
+    ],
+    [
+      0.831816,
+      "\r\n"
+    ],
+    [
+      0.021941,
+      ".CFUserTextEncoding\t.forward\t\t.viminfo\r\n.asciinema\t\t.sh_history\t\tLibrary\r\n"
+    ],
+    [
+      0.000404,
+      "sh-3.2# "
+    ],
+    [
+      7.075229,
+      "c"
+    ],
+    [
+      0.263987,
+      "d"
+    ],
+    [
+      0.768115,
+      " "
+    ],
+    [
+      2.312087,
+      "h"
+    ],
+    [
+      1.234841,
+      "\u0007"
+    ],
+    [
+      3.445288,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.744145,
+      "/"
+    ],
+    [
+      0.919814,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "sh-3.2# "
+    ],
+    [
+      0.991833,
+      "l"
+    ],
+    [
+      0.152013,
+      "s"
+    ],
+    [
+      0.831796,
+      "\r\n"
+    ],
+    [
+      0.003885,
+      ".DS_Store\t\t\t.vol\t\t\t\tVolumes\t\t\t\tnet\r\n.DocumentRevisions-V100\t\tApplications\t\t\tbin\t\t\t\tprivate\r\n.PKInstallSandboxManager\tLibrary\t\t\t\tcores\t\t\t\tsbin\r\n"
+    ],
+    [
+      0.000016,
+      ".Spotlight-V100\t\t\tNetwork\t\t\t\tdev\t\t\t\ttmp\r\n.Trashes\t\t\tSystem\t\t\t\tetc\t\t\t\tusr\r\n.file\t\t\t\tUser Information\t\thome\t\t\t\tvar\r\n.fseventsd\t\t\tUsers\t\t\t\tinstaller.failurerequests\r\n"
+    ],
+    [
+      0.000456,
+      "sh-3.2# "
+    ],
+    [
+      27.049392,
+      "e"
+    ],
+    [
+      0.464146,
+      "x"
+    ],
+    [
+      0.519941,
+      "i"
+    ],
+    [
+      0.328141,
+      "t"
+    ],
+    [
+      0.759836,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "exit\r\n"
+    ]
+  ]
+}
