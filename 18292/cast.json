@@ -1,0 +1,934 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 120.025095,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "linux",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.123211,
+      "[root@localhost ~]# "
+    ],
+    [
+      1.890312,
+      "y"
+    ],
+    [
+      0.255471,
+      "u"
+    ],
+    [
+      0.305082,
+      "m"
+    ],
+    [
+      0.303761,
+      " "
+    ],
+    [
+      0.426201,
+      "i"
+    ],
+    [
+      0.268347,
+      "n"
+    ],
+    [
+      0.304418,
+      "s"
+    ],
+    [
+      0.292621,
+      "t"
+    ],
+    [
+      0.195568,
+      "a"
+    ],
+    [
+      0.597317,
+      "l"
+    ],
+    [
+      0.182660,
+      "l"
+    ],
+    [
+      0.461652,
+      " "
+    ],
+    [
+      0.610397,
+      "-"
+    ],
+    [
+      0.804154,
+      "y"
+    ],
+    [
+      0.402693,
+      " "
+    ],
+    [
+      1.193442,
+      "e"
+    ],
+    [
+      0.293473,
+      "p"
+    ],
+    [
+      0.694777,
+      "e"
+    ],
+    [
+      0.267941,
+      "l"
+    ],
+    [
+      0.499408,
+      "-"
+    ],
+    [
+      0.524184,
+      "r"
+    ],
+    [
+      0.268382,
+      "e"
+    ],
+    [
+      0.292419,
+      "l"
+    ],
+    [
+      0.207544,
+      "e"
+    ],
+    [
+      0.280121,
+      "a"
+    ],
+    [
+      0.231012,
+      "s"
+    ],
+    [
+      0.158475,
+      "e"
+    ],
+    [
+      2.255210,
+      "\r\n"
+    ],
+    [
+      0.344412,
+      "Loaded plugins: fastestmirror, langpacks\r\n"
+    ],
+    [
+      0.035608,
+      "Loading mirror speeds from cached hostfile\r\n"
+    ],
+    [
+      0.140326,
+      " * base: ftp.iij.ad.jp\r\n * extras: ftp.iij.ad.jp\r\n * updates: ftp.iij.ad.jp\r\n"
+    ],
+    [
+      0.108852,
+      "Resolving Dependencies\r\n"
+    ],
+    [
+      0.002622,
+      "--\u003e Running transaction check\r\n---\u003e Package epel-release.noarch 0:7-5 will be installed\r\n"
+    ],
+    [
+      2.931252,
+      "--\u003e Finished Dependency Resolution\r\n"
+    ],
+    [
+      3.914790,
+      "\r\nDependencies Resolved\r\n\r\n================================================================================\r\n Package                Arch             Version         Repository        Size\r\n================================================================================\r\nInstalling:\r\n epel-release           noarch           7-5             extras            14 k\r\n\r\nTransaction Summary\r\n================================================================================\r\nInstall  1 Package\r\n\r\nTotal download size: 14 k\r\nInstalled size: 24 k\r\nDownloading packages:\r\n"
+    ],
+    [
+      0.273235,
+      "\repel-release-7-5.noarch.rpm                                |  14 kB   00:00     \r\n"
+    ],
+    [
+      0.011526,
+      "Running transaction check\r\n"
+    ],
+    [
+      0.047660,
+      "Running transaction test\r\n"
+    ],
+    [
+      0.198032,
+      "Transaction test succeeded\r\nRunning transaction\r\n"
+    ],
+    [
+      0.299735,
+      "\r  Installing : epel-release-7-5.noarch [                                  ] 1/1"
+    ],
+    [
+      0.006778,
+      "\r  Installing : epel-release-7-5.noarch [##                                ] 1/1\r  Installing : epel-release-7-5.noarch [###                               ] 1/1\r  Installing : epel-release-7-5.noarch [#####                             ] 1/1\r  Installing : epel-release-7-5.noarch [#########                         ] 1/1"
+    ],
+    [
+      0.005055,
+      "\r  Installing : epel-release-7-5.noarch [################################# ] 1/1\r  Installing : epel-release-7-5.noarch                                      1/1 \r\n"
+    ],
+    [
+      1.982878,
+      "\r  Verifying  : epel-release-7-5.noarch                                      1/1 \r\n"
+    ],
+    [
+      0.613563,
+      "\r\nInstalled:\r\n  epel-release.noarch 0:7-5                                                     \r\n\r\nComplete!\r\n"
+    ],
+    [
+      0.036342,
+      "[root@localhost ~]# "
+    ],
+    [
+      3.087022,
+      "v"
+    ],
+    [
+      0.729890,
+      "i"
+    ],
+    [
+      0.450667,
+      " "
+    ],
+    [
+      0.682625,
+      "/"
+    ],
+    [
+      0.318010,
+      "e"
+    ],
+    [
+      0.435665,
+      "tc/"
+    ],
+    [
+      2.318276,
+      "y"
+    ],
+    [
+      0.280030,
+      "u"
+    ],
+    [
+      0.365175,
+      "t"
+    ],
+    [
+      0.537819,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.389053,
+      "m"
+    ],
+    [
+      0.280209,
+      "."
+    ],
+    [
+      0.354907,
+      "\u0007"
+    ],
+    [
+      1.046011,
+      "r"
+    ],
+    [
+      1.670583,
+      "e"
+    ],
+    [
+      0.279072,
+      "o"
+    ],
+    [
+      0.647836,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.390024,
+      "p"
+    ],
+    [
+      0.279683,
+      "o"
+    ],
+    [
+      0.328258,
+      "s"
+    ],
+    [
+      0.378382,
+      "."
+    ],
+    [
+      0.403009,
+      "d/"
+    ],
+    [
+      2.765786,
+      "e"
+    ],
+    [
+      0.658027,
+      "p"
+    ],
+    [
+      0.499926,
+      "e"
+    ],
+    [
+      1.193563,
+      "l"
+    ],
+    [
+      0.473064,
+      "\u0007"
+    ],
+    [
+      0.745953,
+      "."
+    ],
+    [
+      1.926163,
+      "r"
+    ],
+    [
+      0.596938,
+      "epo "
+    ],
+    [
+      3.560380,
+      "\r\n"
+    ],
+    [
+      0.061724,
+      "\u001b[1;25r\u001b[?25h\u001b[?8c\u001b[?25h\u001b[?0c\u001b[27m\u001b[24m\u001b[0m\u001b[H\u001b[J\u001b[?25l\u001b[?1c\u001b[25;1H\"/etc/yum.repos.d/epel.repo\" 26L, 957C\u001b[1;1H[epel]\r\nname=Extra Packages for Enterprise Linux 7 - $basearch\r\n#baseurl=http://download.fedoraproject.org/pub/epel/7/$basearch\r\nmirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-7\u0026arch=$basearch\u001b[5;1Hfailovermethod=priority\r\nenabled=1\r\ngpgcheck=1\r\ngpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7\r\n\r\n[epel-debuginfo]\r\nname=Extra Packages for Enterprise Linux 7 - $basearch - Debug\r\n#baseurl=http://download.fedoraproject.org/pub/epel/7/$basearch/debug\r\nmirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-debug-7\u0026arch=$ba\u001b[14;1Hsearch\r\nfailovermethod=priority\r\nenabled=0\r\ngpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7\r\ngpgcheck=1\r\n\r\n[epel-source]\r\nname=Extra Packages for Enterprise Linux 7 - $basearch - Source\r\n#baseurl=http://download.fedoraproject.org/pub/epel/7/SRPMS\r\nmirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-source-7\u0026arch=$b\u001b[24;1Hasearch\u001b[1;1H\u001b[?25h\u001b[?0c"
+    ],
+    [
+      1.618497,
+      "\r\n"
+    ],
+    [
+      0.195625,
+      "\r\n"
+    ],
+    [
+      0.267702,
+      "\r\n"
+    ],
+    [
+      0.256019,
+      "\r\n"
+    ],
+    [
+      0.267783,
+      "\r\n"
+    ],
+    [
+      0.597885,
+      "e"
+    ],
+    [
+      0.267225,
+      "n"
+    ],
+    [
+      0.231827,
+      "a"
+    ],
+    [
+      0.231317,
+      "b"
+    ],
+    [
+      0.255985,
+      "l"
+    ],
+    [
+      0.255778,
+      "e"
+    ],
+    [
+      0.268859,
+      "d"
+    ],
+    [
+      0.267840,
+      "="
+    ],
+    [
+      1.364810,
+      "\u001b[?25l\u001b[?1c\u001b[25;1H\u001b[1m-- INSERT --\u001b[0m\u001b[25;13H\u001b[K\u001b[6;9H\u001b[?25h\u001b[?0c"
+    ],
+    [
+      1.047939,
+      "1"
+    ],
+    [
+      1.439798,
+      "\u001b[?25l\u001b[?1c\u001b[6;9H\u001b[K\u001b[6;9H\u001b[?25h\u001b[?0c"
+    ],
+    [
+      1.545472,
+      "\u001b[?25l\u001b[?1c0\u001b[?25h\u001b[?0c"
+    ],
+    [
+      2.822100,
+      "\u001b[25;1H\u001b[K\u001b[6;9H"
+    ],
+    [
+      1.006355,
+      "\u001b[?25l\u001b[?1c\u001b[?25h\u001b[?0c"
+    ],
+    [
+      0.474008,
+      "\u001b[?25l\u001b[?1c\u001b[25;1H:\u001b[?25h\u001b[?0c"
+    ],
+    [
+      0.609529,
+      "w"
+    ],
+    [
+      0.304447,
+      "q"
+    ],
+    [
+      2.158953,
+      "\r\u001b[?25l\u001b[?1c\"/etc/yum.repos.d/epel.repo\""
+    ],
+    [
+      0.030009,
+      " 26L, 957C written\r\u001b[?25h\u001b[?0c\r\r\n"
+    ],
+    [
+      0.000868,
+      "[root@localhost ~]# "
+    ],
+    [
+      2.782775,
+      "y"
+    ],
+    [
+      0.280339,
+      "u"
+    ],
+    [
+      0.329077,
+      "m"
+    ],
+    [
+      0.415117,
+      " "
+    ],
+    [
+      0.339974,
+      "i"
+    ],
+    [
+      0.244266,
+      "n"
+    ],
+    [
+      0.268441,
+      "s"
+    ],
+    [
+      0.291848,
+      "t"
+    ],
+    [
+      0.257112,
+      "a"
+    ],
+    [
+      0.486834,
+      "l"
+    ],
+    [
+      0.279499,
+      "l"
+    ],
+    [
+      0.269610,
+      " "
+    ],
+    [
+      0.937974,
+      "-"
+    ],
+    [
+      0.292962,
+      " "
+    ],
+    [
+      0.376907,
+      "y"
+    ],
+    [
+      0.695890,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.218645,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.937383,
+      "y"
+    ],
+    [
+      0.305659,
+      " "
+    ],
+    [
+      0.462969,
+      "g"
+    ],
+    [
+      0.183491,
+      "i"
+    ],
+    [
+      0.278871,
+      "t"
+    ],
+    [
+      0.353044,
+      " "
+    ],
+    [
+      2.218820,
+      "-"
+    ],
+    [
+      0.183145,
+      "-"
+    ],
+    [
+      1.012100,
+      "e"
+    ],
+    [
+      0.291389,
+      "n"
+    ],
+    [
+      0.207153,
+      "a"
+    ],
+    [
+      0.255719,
+      "b"
+    ],
+    [
+      0.244536,
+      "l"
+    ],
+    [
+      0.218511,
+      "e"
+    ],
+    [
+      0.683882,
+      "r"
+    ],
+    [
+      0.084682,
+      "e"
+    ],
+    [
+      0.402128,
+      "p"
+    ],
+    [
+      0.231819,
+      "o"
+    ],
+    [
+      1.023737,
+      "="
+    ],
+    [
+      0.633880,
+      "e"
+    ],
+    [
+      0.231859,
+      "p"
+    ],
+    [
+      0.193994,
+      "e"
+    ],
+    [
+      0.718616,
+      ";"
+    ],
+    [
+      1.219241,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.609228,
+      "l"
+    ],
+    [
+      2.415406,
+      "\r\n"
+    ],
+    [
+      0.128790,
+      "Loaded plugins: fastestmirror, langpacks\r\n"
+    ],
+    [
+      2.885892,
+      "\repel/x86_64/metalink                                     | 5.0 kB     00:00     \r\n"
+    ],
+    [
+      0.201811,
+      "\repel                                                     | 4.4 kB     00:00     \r\n"
+    ],
+    [
+      0.366092,
+      "\r(1/2): epel/x86_64/group_gz                                | 257 kB   00:00     \r\n"
+    ],
+    [
+      0.337066,
+      "\r(2/2): epel/x86_64/primary 51% [========        ]  0.0 B/s | 2.2 MB   --:-- ETA \r"
+    ],
+    [
+      0.268355,
+      "\r(2/2): epel/x86_64/primary_db                              | 4.1 MB   00:00     \r\n"
+    ],
+    [
+      0.383185,
+      "\r(1/2): epel/x86_64/updateinfo                              | 337 kB   00:00     \r\n"
+    ],
+    [
+      0.214322,
+      "\r(2/2): epel/x86_64/pkgtags                                 | 1.4 MB   00:00     \r\n"
+    ],
+    [
+      0.009712,
+      "Loading mirror speeds from cached hostfile\r\n"
+    ],
+    [
+      0.513332,
+      " * base: ftp.tsukuba.wide.ad.jp\r\n * epel: ftp.kddilabs.jp\r\n * extras: ftp.tsukuba.wide.ad.jp\r\n * updates: ftp.tsukuba.wide.ad.jp\r\n"
+    ],
+    [
+      0.984833,
+      "Resolving Dependencies\r\n--\u003e Running transaction check\r\n---\u003e Package git.x86_64 0:1.8.3.1-4.el7 will be installed\r\n"
+    ],
+    [
+      0.069912,
+      "--\u003e Processing Dependency: perl-Git = 1.8.3.1-4.el7 for package: git-1.8.3.1-4.el7.x86_64\r\n"
+    ],
+    [
+      0.233249,
+      "--\u003e Processing Dependency: perl(Term::ReadKey) for package: git-1.8.3.1-4.el7.x86_64\r\n"
+    ],
+    [
+      0.004638,
+      "--\u003e Processing Dependency: perl(Git) for package: git-1.8.3.1-4.el7.x86_64\r\n--\u003e Processing Dependency: perl(Error) for package: git-1.8.3.1-4.el7.x86_64\r\n"
+    ],
+    [
+      0.007667,
+      "--\u003e Running transaction check\r\n---\u003e Package perl-Error.noarch 1:0.17020-2.el7 will be installed\r\n---\u003e Package perl-Git.noarch 0:1.8.3.1-4.el7 will be installed\r\n"
+    ],
+    [
+      0.004968,
+      "---\u003e Package perl-TermReadKey.x86_64 0:2.30-20.el7 will be installed\r\n"
+    ],
+    [
+      0.453218,
+      "--\u003e Finished Dependency Resolution\r\n"
+    ],
+    [
+      0.314570,
+      "\r\nDependencies Resolved\r\n"
+    ],
+    [
+      0.021100,
+      "\r\n================================================================================\r\n Package                 Arch          Version                Repository   Size\r\n================================================================================\r\nInstalling:\r\n git                     x86_64        1.8.3.1-4.el7          base        4.3 M\r\nInstalling for dependencies:\r\n perl-Error              noarch        1:0.17020-2.el7        base         32 k\r\n perl-Git                noarch        1.8.3.1-4.el7          base         52 k\r\n perl-TermReadKey        x86_64        2.30-20.el7            base         31 k\r\n\r\nTransaction Summary\r\n================================================================================\r\nInstall  1 Package (+3 Dependent packages)\r\n\r\nTotal download size: 4.4 M\r\nInstalled size: 22 M\r\nDownloading packages:\r\n"
+    ],
+    [
+      0.352429,
+      "\r(1/4): perl-Git-1.8.3.1-4.el7.noarch.rpm                   |  52 kB   00:00     \r\n"
+    ],
+    [
+      0.099693,
+      "\r(3/4): perl-Error-0.17020- 1% [                 ]  0.0 B/s |  52 kB   --:-- ETA \r"
+    ],
+    [
+      0.061722,
+      "\r(2/4): perl-Error-0.17020-2.el7.noarch.rpm                 |  32 kB   00:00     \r\n"
+    ],
+    [
+      0.069633,
+      "\r(3/4): perl-TermReadKey-2.30-20.el7.x86_64.rpm             |  31 kB   00:00     \r\n"
+    ],
+    [
+      0.323131,
+      "\r(4/4): git-1.8.3.1-4.el7.x 99% [===============-] 4.7 MB/s | 4.4 MB   00:00 ETA \r"
+    ],
+    [
+      0.033274,
+      "\r(4/4): git-1.8.3.1-4.el7.x86_64.rpm                        | 4.3 MB   00:00     \r\n"
+    ],
+    [
+      0.019144,
+      "--------------------------------------------------------------------------------\r\nTotal                                              4.6 MB/s | 4.4 MB  00:00     \r\n"
+    ],
+    [
+      0.005240,
+      "Running transaction check\r\n"
+    ],
+    [
+      0.026896,
+      "Running transaction test\r\n"
+    ],
+    [
+      2.227211,
+      "Transaction test succeeded\r\nRunning transaction\r\n"
+    ],
+    [
+      0.232501,
+      "\r  Installing : 1:perl-Error-0.17020-2.el7.n [                             ] 1/4"
+    ],
+    [
+      0.008807,
+      "\r  Installing : 1:perl-Error-0.17020-2.el7.n [#####                        ] 1/4\r  Installing : 1:perl-Error-0.17020-2.el7.n [######                       ] 1/4\r  Installing : 1:perl-Error-0.17020-2.el7.n [#######                      ] 1/4\r  Installing : 1:perl-Error-0.17020-2.el7.n [########                     ] 1/4"
+    ],
+    [
+      0.005006,
+      "\r  Installing : 1:perl-Error-0.17020-2.el7.n [#########                    ] 1/4"
+    ],
+    [
+      0.064607,
+      "\r  Installing : 1:perl-Error-0.17020-2.el7.n [#############                ] 1/4\r  Installing : 1:perl-Error-0.17020-2.el7.n [##############               ] 1/4"
+    ],
+    [
+      0.006590,
+      "\r  Installing : 1:perl-Error-0.17020-2.el7.n [############################ ] 1/4\r  Installing : 1:perl-Error-0.17020-2.el7.noarch                            1/4 \r\n"
+    ],
+    [
+      1.323444,
+      "\r  Installing : perl-TermReadKey-2.30-20.el7 [                             ] 2/4\r  Installing : perl-TermReadKey-2.30-20.el7 [#######                      ] 2/4"
+    ],
+    [
+      0.003905,
+      "\r  Installing : perl-TermReadKey-2.30-20.el7 [#######################      ] 2/4\r  Installing : perl-TermReadKey-2.30-20.el7 [##########################   ] 2/4"
+    ],
+    [
+      0.022904,
+      "\r  Installing : perl-TermReadKey-2.30-20.el7 [############################ ] 2/4\r  Installing : perl-TermReadKey-2.30-20.el7.x86_64                          2/4 \r\n"
+    ],
+    [
+      0.730680,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [                                 ] 3/4"
+    ],
+    [
+      0.070066,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#                                ] 3/4"
+    ],
+    [
+      0.019952,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [##                               ] 3/4"
+    ],
+    [
+      0.019918,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [###                              ] 3/4"
+    ],
+    [
+      0.022389,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [####                             ] 3/4"
+    ],
+    [
+      0.021598,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#####                            ] 3/4"
+    ],
+    [
+      0.020072,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [######                           ] 3/4"
+    ],
+    [
+      0.024547,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#######                          ] 3/4"
+    ],
+    [
+      0.023321,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [########                         ] 3/4"
+    ],
+    [
+      0.040158,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#########                        ] 3/4"
+    ],
+    [
+      0.054109,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [##########                       ] 3/4"
+    ],
+    [
+      0.193387,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [###########                      ] 3/4"
+    ],
+    [
+      0.288019,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [############                     ] 3/4"
+    ],
+    [
+      0.174603,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#############                    ] 3/4"
+    ],
+    [
+      0.044492,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [##############                   ] 3/4"
+    ],
+    [
+      0.040296,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [###############                  ] 3/4"
+    ],
+    [
+      0.043082,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [################                 ] 3/4"
+    ],
+    [
+      0.049143,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#################                ] 3/4"
+    ],
+    [
+      0.041948,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [##################               ] 3/4"
+    ],
+    [
+      0.048935,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [###################              ] 3/4"
+    ],
+    [
+      0.091039,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [####################             ] 3/4"
+    ],
+    [
+      0.034053,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#####################            ] 3/4"
+    ],
+    [
+      0.059005,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [######################           ] 3/4"
+    ],
+    [
+      0.130072,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#######################          ] 3/4"
+    ],
+    [
+      0.051824,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [########################         ] 3/4"
+    ],
+    [
+      0.034030,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#########################        ] 3/4"
+    ],
+    [
+      0.313070,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [##########################       ] 3/4"
+    ],
+    [
+      0.242895,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [###########################      ] 3/4"
+    ],
+    [
+      0.193993,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [############################     ] 3/4"
+    ],
+    [
+      0.043095,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [#############################    ] 3/4"
+    ],
+    [
+      0.073938,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [##############################   ] 3/4"
+    ],
+    [
+      0.022789,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [###############################  ] 3/4"
+    ],
+    [
+      0.072229,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64 [################################ ] 3/4"
+    ],
+    [
+      0.017885,
+      "\r  Installing : git-1.8.3.1-4.el7.x86_64                                     3/4 \r\n"
+    ],
+    [
+      2.552888,
+      "\r  Installing : perl-Git-1.8.3.1-4.el7.noarc [                             ] 4/4\r  Installing : perl-Git-1.8.3.1-4.el7.noarc [####                         ] 4/4\r  Installing : perl-Git-1.8.3.1-4.el7.noarc [######                       ] 4/4"
+    ],
+    [
+      0.022372,
+      "\r  Installing : perl-Git-1.8.3.1-4.el7.noarc [###########################  ] 4/4\r  Installing : perl-Git-1.8.3.1-4.el7.noarc [############################ ] 4/4\r  Installing : perl-Git-1.8.3.1-4.el7.noarch                                4/4 \r\n"
+    ],
+    [
+      0.138751,
+      "\r  Verifying  : perl-Git-1.8.3.1-4.el7.noarch                                1/4 \r\n"
+    ],
+    [
+      0.246371,
+      "\r  Verifying  : 1:perl-Error-0.17020-2.el7.noarch                            2/4 \r\n"
+    ],
+    [
+      0.017972,
+      "\r  Verifying  : git-1.8.3.1-4.el7.x86_64                                     3/4 \r\n"
+    ],
+    [
+      0.051104,
+      "\r  Verifying  : perl-TermReadKey-2.30-20.el7.x86_64                          4/4 \r\n"
+    ],
+    [
+      0.169123,
+      "\r\nInstalled:\r\n  git.x86_64 0:1.8.3.1-4.el7                                                    \r\n\r\nDependency Installed:\r\n  perl-Error.noarch 1:0.17020-2.el7         perl-Git.noarch 0:1.8.3.1-4.el7    \r\n  perl-TermReadKey.x86_64 0:2.30-20.el7    \r\n\r\nComplete!\r\n"
+    ],
+    [
+      0.126054,
+      "[root@localhost ~]# "
+    ],
+    [
+      3.958911,
+      "e"
+    ],
+    [
+      0.438023,
+      "x"
+    ],
+    [
+      0.207122,
+      "i"
+    ],
+    [
+      0.244081,
+      "t"
+    ],
+    [
+      0.380926,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
