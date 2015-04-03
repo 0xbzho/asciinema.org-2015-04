@@ -1,0 +1,950 @@
+{
+  "version": 1,
+  "width": 191,
+  "height": 52,
+  "duration": 42.542120,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.068744,
+      "\u001b]0;julien@Ubunomade: ~\u0007julien@Ubunomade:~$ "
+    ],
+    [
+      1.555228,
+      "s"
+    ],
+    [
+      0.059863,
+      "u"
+    ],
+    [
+      0.119962,
+      "d"
+    ],
+    [
+      0.114891,
+      "o"
+    ],
+    [
+      0.196209,
+      " "
+    ],
+    [
+      0.471193,
+      "d"
+    ],
+    [
+      0.099285,
+      "o"
+    ],
+    [
+      0.135082,
+      "c"
+    ],
+    [
+      0.471856,
+      "k"
+    ],
+    [
+      0.115593,
+      "e"
+    ],
+    [
+      0.064394,
+      "r"
+    ],
+    [
+      0.116501,
+      " "
+    ],
+    [
+      0.215220,
+      "p"
+    ],
+    [
+      0.134395,
+      "s"
+    ],
+    [
+      0.155791,
+      "\r\n"
+    ],
+    [
+      0.054582,
+      "[sudo] password for julien: "
+    ],
+    [
+      1.655152,
+      "\r\n"
+    ],
+    [
+      0.023335,
+      "CONTAINER ID"
+    ],
+    [
+      0.000012,
+      "        IMAGE               COMMAND             CREATED             STATUS"
+    ],
+    [
+      0.000008,
+      "              PORTS"
+    ],
+    [
+      0.000005,
+      "               NAMES"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001407,
+      "\u001b]0;julien@Ubunomade: ~\u0007julien@Ubunomade:~$ "
+    ],
+    [
+      1.263225,
+      "sudo docker ps"
+    ],
+    [
+      0.275164,
+      " "
+    ],
+    [
+      0.701931,
+      "-"
+    ],
+    [
+      0.079277,
+      "a"
+    ],
+    [
+      0.331962,
+      "\r\n"
+    ],
+    [
+      0.019962,
+      "CONTAINER ID        IMAGE               COMMAND                "
+    ],
+    [
+      0.000014,
+      "CREATED             STATUS                    PORTS                        "
+    ],
+    [
+      0.000090,
+      "                                    NAMES\r\na59c9770bf1b        "
+    ],
+    [
+      0.000011,
+      "owncloud:7.0.2      \"/bin/sh -c 'cp -npr   2 days ago          Exited (0) 2 days ago     127.0.0.1:33200-\u003e80/tcp"
+    ],
+    [
+      0.000026,
+      "                                          "
+    ],
+    [
+      0.000006,
+      "pensive_mayer                "
+    ],
+    [
+      0.000008,
+      "      \r\n"
+    ],
+    [
+      0.000005,
+      "480c25b42f27        rainloop:1.6.9"
+    ],
+    [
+      0.000005,
+      "      "
+    ],
+    [
+      0.000006,
+      "\"/bin/sh -c 'apachec   "
+    ],
+    [
+      0.000005,
+      "2 days ago        "
+    ],
+    [
+      0.000004,
+      "  "
+    ],
+    [
+      0.000005,
+      "Exited (0) 2 days ago     "
+    ],
+    [
+      0.000005,
+      "127.0.0.1:33100-\u003e80/tcp        "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "          "
+    ],
+    [
+      0.000006,
+      "agitated_blackwell        "
+    ],
+    [
+      0.000005,
+      "         "
+    ],
+    [
+      0.000010,
+      "\r\n0fcc54cd0f6a"
+    ],
+    [
+      0.000005,
+      "        dovecot:2.1.7       "
+    ],
+    [
+      0.000005,
+      "\"/bin/sh -c 'chown -   "
+    ],
+    [
+      0.000005,
+      "2 days ago        "
+    ],
+    [
+      0.000005,
+      "  Exited (0) 2 days ago"
+    ],
+    [
+      0.000005,
+      "     "
+    ],
+    [
+      0.000005,
+      "0.0.0.0:25-\u003e25/tcp, 0.0.0.0:144-\u003e143/tcp, 0.0.0.0:588-\u003e587/tcp   "
+    ],
+    [
+      0.000005,
+      "stupefied_bardeen        "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000007,
+      "  \r\n"
+    ],
+    [
+      0.000005,
+      "fcce35f5db42        bb80535a4197"
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "\"/bin/sh -c 'apt-get   "
+    ],
+    [
+      0.000006,
+      "2 days ago        "
+    ],
+    [
+      0.000005,
+      "  Exited (100) 2 days ago"
+    ],
+    [
+      0.000005,
+      "           "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000010,
+      "                        "
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000005,
+      "grave_feynman        "
+    ],
+    [
+      0.000005,
+      "              "
+    ],
+    [
+      0.000009,
+      "\r\nc4ec7e8598c0"
+    ],
+    [
+      0.000005,
+      "        b73f9452c2ff        "
+    ],
+    [
+      0.000005,
+      "\"/bin/bash\"        "
+    ],
+    [
+      0.000004,
+      "    "
+    ],
+    [
+      0.000005,
+      "3 days ago        "
+    ],
+    [
+      0.000005,
+      "  Exited (1) 3 days ago"
+    ],
+    [
+      0.000005,
+      "     "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      " elegant_curie"
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "              "
+    ],
+    [
+      0.000009,
+      "\r\n4de91f4ee926"
+    ],
+    [
+      0.000005,
+      "        f1be70df06c1        "
+    ],
+    [
+      0.000005,
+      "\"/controller\"        "
+    ],
+    [
+      0.000005,
+      "  3 days ago"
+    ],
+    [
+      0.000004,
+      "        "
+    ],
+    [
+      0.000005,
+      "  Exited (2) 3 days ago"
+    ],
+    [
+      0.000005,
+      "             "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      "        "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      " "
+    ],
+    [
+      0.000005,
+      "sleepy_brown        "
+    ],
+    [
+      0.000004,
+      "               "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "a6e188de734f        3321c25168cd"
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "\"/usr/bin/rethinkdb    "
+    ],
+    [
+      0.000005,
+      "3 days ago"
+    ],
+    [
+      0.000005,
+      "          "
+    ],
+    [
+      0.000005,
+      "Exited (0) 3 days ago     "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      " rethinkdb,sleepy_brown/rethinkdb"
+    ],
+    [
+      0.000013,
+      "   "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cd6f679043d5        109c8f1f632d"
+    ],
+    [
+      0.000004,
+      "        "
+    ],
+    [
+      0.000005,
+      "\"./dockerui -e /dock   "
+    ],
+    [
+      0.000005,
+      "3 days ago        "
+    ],
+    [
+      0.000004,
+      "  "
+    ],
+    [
+      0.000004,
+      "Exited (2) 2 days ago     "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000014,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      " mad_lumiere"
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001572,
+      "\u001b]0;julien@Ubunomade: ~\u0007julien@Ubunomade:~$ "
+    ],
+    [
+      1.671714,
+      "s"
+    ],
+    [
+      0.064783,
+      "u"
+    ],
+    [
+      0.130172,
+      "d"
+    ],
+    [
+      0.110312,
+      "o"
+    ],
+    [
+      0.200686,
+      " "
+    ],
+    [
+      0.210700,
+      "d"
+    ],
+    [
+      0.170338,
+      "o"
+    ],
+    [
+      0.189888,
+      "c"
+    ],
+    [
+      0.491613,
+      "k"
+    ],
+    [
+      0.065159,
+      "e"
+    ],
+    [
+      0.085298,
+      "r"
+    ],
+    [
+      0.124961,
+      " "
+    ],
+    [
+      0.956895,
+      "s"
+    ],
+    [
+      0.121090,
+      "t"
+    ],
+    [
+      0.170014,
+      "r"
+    ],
+    [
+      0.049433,
+      "a"
+    ],
+    [
+      0.141213,
+      "t"
+    ],
+    [
+      0.685838,
+      " "
+    ],
+    [
+      2.997740,
+      "m"
+    ],
+    [
+      0.039161,
+      "a"
+    ],
+    [
+      0.156375,
+      "d"
+    ],
+    [
+      0.320515,
+      "_"
+    ],
+    [
+      1.514032,
+      "m"
+    ],
+    [
+      0.361039,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.265784,
+      "l"
+    ],
+    [
+      0.224456,
+      "u"
+    ],
+    [
+      1.353580,
+      "m"
+    ],
+    [
+      0.054489,
+      "i"
+    ],
+    [
+      0.131465,
+      "e"
+    ],
+    [
+      0.109659,
+      "r"
+    ],
+    [
+      0.149870,
+      "e"
+    ],
+    [
+      0.196962,
+      "\r\n"
+    ],
+    [
+      0.015812,
+      "Error: Command not found: strat\r\nError: Command not found: mad_lumiere\r\n"
+    ],
+    [
+      0.000063,
+      "Usage: docker [OPTIONS] COMMAND [arg...]"
+    ],
+    [
+      0.000015,
+      "\r\n -H=[unix:///var/run/docker.sock]: tcp://host:port to bind/connect to or unix://path/to/socket to use\r\n\r\nA self-sufficient runtime for linux containers.\r\n"
+    ],
+    [
+      0.000025,
+      "\r\nCommands:\r\n    attach    Attach to a running container\r\n    build     Build an image from a Dockerfile\r\n    commit    Create a new image from a container's changes\r\n    cp        Copy files/folders from a container's filesystem to the host path\r\n    diff      Inspect changes on a container's filesystem\r\n"
+    ],
+    [
+      0.000028,
+      "    events    Get real time events from the server\r\n    export    Stream the contents of a container as a tar archive\r\n    history   Show the history of an image\r\n    images    List images\r\n    import    Create a new filesystem image from the contents of a tarball\r\n    info      Display system-wide information\r\n    inspect   Return low-level information on a container\r\n    kill      Kill a running container\r\n    load      Load an image from a tar archive\r\n"
+    ],
+    [
+      0.000044,
+      "    login     Register or log in to a Docker registry server\r\n    logout    Log out from a Docker registry server\r\n    logs      Fetch the logs of a container\r\n    port      Lookup the public-facing port that is NAT-ed to PRIVATE_PORT\r\n    pause     Pause all processes within a container\r\n    ps        List containers\r\n    pull      Pull an image or a repository from a Docker registry server\r\n    push      Push an image or a repository to a Docker registry server\r\n    restart   Restart a running container\r\n    rm        Remove one or more containers\r\n    rmi       Remove one or more images\r\n    run       Run a command in a new container\r\n    save      Save an image to a tar archive\r\n"
+    ],
+    [
+      0.000029,
+      "    search    Search for an image on the Docker Hub\r\n    start     Start a stopped container\r\n    stop      Stop a running container\r\n    tag       Tag an image into a repository\r\n    top       Lookup the running processes of a container\r\n    unpause   Unpause a paused container\r\n    version   Show the Docker version information\r\n    wait      Block until a container stops, then print its exit code\r\n\r\n"
+    ],
+    [
+      0.001189,
+      "\u001b]0;julien@Ubunomade: ~\u0007julien@Ubunomade:~$ "
+    ],
+    [
+      1.118710,
+      "sudo docker strat mad_lumiere"
+    ],
+    [
+      6.336016,
+      "\u0008"
+    ],
+    [
+      0.499024,
+      "\u0008"
+    ],
+    [
+      0.029791,
+      "\u0008"
+    ],
+    [
+      0.029561,
+      "\u0008"
+    ],
+    [
+      0.030535,
+      "\u0008"
+    ],
+    [
+      0.030661,
+      "\u0008"
+    ],
+    [
+      0.029064,
+      "\u0008"
+    ],
+    [
+      0.029986,
+      "\u0008"
+    ],
+    [
+      0.030381,
+      "\u0008"
+    ],
+    [
+      0.030069,
+      "\u0008"
+    ],
+    [
+      0.029697,
+      "\u0008"
+    ],
+    [
+      0.029512,
+      "\u0008"
+    ],
+    [
+      0.030103,
+      "\u0008"
+    ],
+    [
+      0.030622,
+      "\u0008"
+    ],
+    [
+      0.029331,
+      "\u0008"
+    ],
+    [
+      0.259669,
+      "\u001b[C"
+    ],
+    [
+      0.185847,
+      "\u001b[C"
+    ],
+    [
+      0.450863,
+      "\u0008"
+    ],
+    [
+      0.410599,
+      "\u001b[C"
+    ],
+    [
+      0.636302,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.120165,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.135442,
+      "\u001b[1@a"
+    ],
+    [
+      0.115295,
+      "\u001b[1@r"
+    ],
+    [
+      0.290729,
+      "\r\n"
+    ],
+    [
+      0.361066,
+      "mad_lumiere\r\n"
+    ],
+    [
+      0.001336,
+      "\u001b]0;julien@Ubunomade: ~\u0007julien@Ubunomade:~$ "
+    ],
+    [
+      2.169059,
+      "s"
+    ],
+    [
+      0.074219,
+      "u"
+    ],
+    [
+      0.100778,
+      "d"
+    ],
+    [
+      0.190809,
+      "o"
+    ],
+    [
+      0.235183,
+      " "
+    ],
+    [
+      0.200981,
+      "d"
+    ],
+    [
+      0.130009,
+      "o"
+    ],
+    [
+      0.234621,
+      "x"
+    ],
+    [
+      0.542589,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.736181,
+      "c"
+    ],
+    [
+      0.195084,
+      "k"
+    ],
+    [
+      0.090478,
+      "e"
+    ],
+    [
+      0.079640,
+      "r"
+    ],
+    [
+      0.161433,
+      " "
+    ],
+    [
+      0.245237,
+      "p"
+    ],
+    [
+      0.180757,
+      "s"
+    ],
+    [
+      1.222966,
+      "\r\n"
+    ],
+    [
+      0.017601,
+      "CONTAINER ID"
+    ],
+    [
+      0.000012,
+      "        IMAGE               COMMAND                CREATED             STATUS"
+    ],
+    [
+      0.000009,
+      "              PORTS"
+    ],
+    [
+      0.000007,
+      "                    "
+    ],
+    [
+      0.000009,
+      "NAMES\r\n"
+    ],
+    [
+      0.000005,
+      "cd6f679043d5        109c8f1f632d"
+    ],
+    [
+      0.000005,
+      "        \"./dockerui -e /dock"
+    ],
+    [
+      0.000004,
+      "   "
+    ],
+    [
+      0.000005,
+      "3 days ago        "
+    ],
+    [
+      0.000005,
+      "  Up 6 seconds"
+    ],
+    [
+      0.000005,
+      "        0.0.0.0:9000-\u003e9000/tcp"
+    ],
+    [
+      0.000004,
+      "   "
+    ],
+    [
+      0.000005,
+      "mad_lumiere        "
+    ],
+    [
+      0.000007,
+      " \r\n"
+    ],
+    [
+      0.001360,
+      "\u001b]0;julien@Ubunomade: ~\u0007julien@Ubunomade:~$ "
+    ],
+    [
+      1.648900,
+      "e"
+    ],
+    [
+      0.276496,
+      "x"
+    ],
+    [
+      0.191093,
+      "i"
+    ],
+    [
+      0.109917,
+      "t"
+    ],
+    [
+      0.159901,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "exit\r\n"
+    ]
+  ]
+}
