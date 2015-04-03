@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "width": 186,
+  "height": 52,
+  "duration": 8.869656,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      2.854610,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.194892,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/data/dev/clients/nightswapping/cosmosystem \u001b[43m\u001b[34m\u001b[30m  feature/77-include-ansible-provisionning-in-terraform ● \u001b[49m\u001b[33m\u001b[39m                                                                     [19:50:22] » \u001b[K"
+    ],
+    [
+      1.657843,
+      "\u001b[32mll\u001b[39m\u0008"
+    ],
+    [
+      0.356407,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m \u001b[90m-1 preprod_variables_ami.tfref 2\u003e/dev/null\u001b[24m|| echo\u001b[39m\u001b[90m toto \u0026\u0026 echo\u001b[39m\u001b[90m titi\u001b[39m\u001b[68D"
+    ],
+    [
+      1.416911,
+      "\u001b[1C\u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[68D\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.127625,
+      "\r\r\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/data/dev/clients/nightswapping/cosmosystem \u001b[43m\u001b[34m\u001b[30m  feature/77-include-ansible-provisionning-in-terraform ● \u001b[49m\u001b[33m\u001b[39m                                                                     [19:50:26] » "
+    ],
+    [
+      0.000020,
+      "\u001b[32mls\u001b[39m\u001b[K"
+    ],
+    [
+      0.000033,
+      "\r\r\n"
+    ],
+    [
+      0.005971,
+      "\u001b[0m\u001b[01;34mansible\u001b[0m  \u001b[01;32masciinema\u001b[0m  \u001b[01;34mbime\u001b[0m  \u001b[01;34mdocs\u001b[0m  LICENSE  Makefile  nohup.out  README.md  requirements.txt  \u001b[01;34msrc_server\u001b[0m  \u001b[01;34mterraform\u001b[0m  \u001b[01;34mtest\u001b[0m  zone.txt\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.093967,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/data/dev/clients/nightswapping/cosmosystem \u001b[43m\u001b[34m\u001b[30m  feature/77-include-ansible-provisionning-in-terraform ● \u001b[49m\u001b[33m\u001b[39m                                                                     [19:50:26] » "
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      2.159165,
+      "\r\r\n"
+    ]
+  ]
+}
