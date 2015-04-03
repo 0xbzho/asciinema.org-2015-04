@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "width": 158,
+  "height": 39,
+  "duration": 81.464029,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.084847,
+      "\u001b]0;algis@alg: /media/Storage/ansible/hails_deploy\u0007:\u001b[01;34mhails_deploy\u001b[00m$ "
+    ],
+    [
+      3.474951,
+      "m"
+    ],
+    [
+      0.592213,
+      "a"
+    ],
+    [
+      0.183924,
+      "k"
+    ],
+    [
+      0.292466,
+      "\u0007"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.479759,
+      "\u0007"
+    ],
+    [
+      0.303869,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "make           makecert       makeconv       makeinfo       make-ssl-cert  \r\n\u001b]0;algis@alg: /media/Storage/ansible/hails_deploy\u0007:\u001b[01;34mhails_deploy\u001b[00m$ make"
+    ],
+    [
+      3.411897,
+      " "
+    ],
+    [
+      0.282384,
+      "\u0007"
+    ],
+    [
+      0.188503,
+      "\r\ncheck-prod                    deploy-vagrant                distr-update-consul-template  distr-update-sportapi         prepare\r\n"
+    ],
+    [
+      0.000024,
+      "consul-tunnel                 distr                         distr-update-consul-ui        distr-update-sportapi-old     update-sportapi-prod\r\ndeploy-prod                   distr-update                  distr-update-gf2              fetch-logs                    update-sportapi-qa\r\ndeploy-qa                     distr-update-consul           distr-update-mm2              ping-qa                       \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b]0;algis@alg: /media/Storage/ansible/hails_deploy\u0007:\u001b[01;34mhails_deploy\u001b[00m$ make "
+    ],
+    [
+      22.480838,
+      "d"
+    ],
+    [
+      0.191864,
+      "e"
+    ],
+    [
+      0.176045,
+      "p"
+    ],
+    [
+      0.191965,
+      "l"
+    ],
+    [
+      0.160047,
+      "o"
+    ],
+    [
+      0.175041,
+      "\u0007"
+    ],
+    [
+      0.000013,
+      "y-"
+    ],
+    [
+      1.024970,
+      "q"
+    ],
+    [
+      0.199958,
+      "a"
+    ],
+    [
+      0.695819,
+      "\r\n"
+    ],
+    [
+      0.001582,
+      "ansible-playbook hails_qa.yml -v -i inventory/hosts_qa -e @vars/qa.yml --ask-sudo-pass\r\n"
+    ],
+    [
+      0.111662,
+      "sudo password: "
+    ],
+    [
+      4.022957,
+      "\r\n"
+    ],
+    [
+      1.305569,
+      "\r\nPLAY [provision HAIL/S] ******************************************************* \r\n"
+    ],
+    [
+      0.000205,
+      "\r\nGATHERING FACTS *************************************************************** \r\n"
+    ],
+    [
+      39.117780,
+      "^C"
+    ],
+    [
+      0.008669,
+      "32\r\n"
+    ],
+    [
+      0.000574,
+      "\u001b[0;31mERROR: interrupted\u001b[0m\r\n"
+    ],
+    [
+      0.013604,
+      "make: *** [deploy-qa] Error 1\r\n"
+    ],
+    [
+      0.000377,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b]0;algis@alg: /media/Storage/ansible/hails_deploy\u0007:\u001b[01;34mhails_deploy\u001b[00m$ "
+    ],
+    [
+      2.288518,
+      "exit\r\n"
+    ]
+  ]
+}
