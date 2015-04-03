@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 30,
+  "duration": 22.396505,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.016554,
+      "s455wang@ubuntu1204-002:~$ "
+    ],
+    [
+      1.280440,
+      "c"
+    ],
+    [
+      0.316268,
+      "d"
+    ],
+    [
+      0.096557,
+      " "
+    ],
+    [
+      0.152616,
+      "."
+    ],
+    [
+      0.126217,
+      "s"
+    ],
+    [
+      0.144451,
+      "e"
+    ],
+    [
+      0.107062,
+      "a"
+    ],
+    [
+      0.147393,
+      "s"
+    ],
+    [
+      0.210239,
+      "\u0007hell"
+    ],
+    [
+      0.696291,
+      "/"
+    ],
+    [
+      0.215257,
+      "p"
+    ],
+    [
+      0.114492,
+      "r"
+    ],
+    [
+      0.084930,
+      "o"
+    ],
+    [
+      0.105736,
+      "j"
+    ],
+    [
+      0.189080,
+      "ects/"
+    ],
+    [
+      0.885777,
+      "A"
+    ],
+    [
+      0.240540,
+      "1"
+    ],
+    [
+      0.107060,
+      "0"
+    ],
+    [
+      0.651068,
+      "\r\ns455wang@ubuntu1204-002:~/.seashell/projects/A10$ "
+    ],
+    [
+      0.192098,
+      "l"
+    ],
+    [
+      0.069266,
+      "s"
+    ],
+    [
+      0.073192,
+      " "
+    ],
+    [
+      0.274991,
+      "-"
+    ],
+    [
+      0.212714,
+      "l"
+    ],
+    [
+      0.464430,
+      "\r\n"
+    ],
+    [
+      0.004512,
+      "total 28K\r\n"
+    ],
+    [
+      0.000166,
+      "drwx--S--- 2 s455wang s455wang 4.0K Apr  2 15:19 \u001b[0m\u001b[01;34mcommon\u001b[0m\r\n"
+    ],
+    [
+      0.000068,
+      "drwx--S--- 2 s455wang s455wang 4.0K Apr  2 13:53 \u001b[01;34mq1\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "drwx--S--- 2 s455wang s455wang 4.0K Apr  2 13:53 \u001b[01;34mq2a\u001b[0m\r\n"
+    ],
+    [
+      0.000077,
+      "drwx--S--- 2 s455wang s455wang 4.0K Apr  2 13:53 \u001b[01;34mq2b\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "drwx--S--- 3 s455wang s455wang 4.0K Apr  2 13:53 \u001b[01;34mq3\u001b[0m\r\ndrwx--S--- 3 s455wang s455wang 4.0K Apr  2 13:53 \u001b[01;34mq4\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "drwx--S--- 3 s455wang s455wang 4.0K Apr  2 23:46 \u001b[01;34mq5\u001b[0m\r\n"
+    ],
+    [
+      0.000988,
+      "s455wang@ubuntu1204-002:~/.seashell/projects/A10$ "
+    ],
+    [
+      1.523778,
+      "c"
+    ],
+    [
+      0.298495,
+      "d"
+    ],
+    [
+      0.106183,
+      " "
+    ],
+    [
+      0.405376,
+      "q"
+    ],
+    [
+      0.310847,
+      "5"
+    ],
+    [
+      0.492312,
+      "\r\n"
+    ],
+    [
+      0.001087,
+      "s455wang@ubuntu1204-002:~/.seashell/projects/A10/q5$ "
+    ],
+    [
+      1.302850,
+      "l"
+    ],
+    [
+      0.071852,
+      "s"
+    ],
+    [
+      0.107794,
+      " "
+    ],
+    [
+      0.128025,
+      "-"
+    ],
+    [
+      0.184852,
+      "l"
+    ],
+    [
+      0.245175,
+      "\r\n"
+    ],
+    [
+      0.005968,
+      "total 76K\r\n-rw------- 1 s455wang s455wang   69 Mar 25 20:44 autocorrect.txt\r\n-rw------- 1 s455wang s455wang 7.9K Mar 25 20:44 dictionary.o\r\n-rw------- 1 s455wang s455wang  849 Mar 25 20:44 file2strqueue.c\r\n-rw------- 1 s455wang s455wang  611 Mar 25 20:44 file2strqueue.h\r\n-rw------- 1 s455wang s455wang 1.6K Mar 25 20:44 spellcheck.c\r\n-rw------- 1 s455wang s455wang 6.7K Mar 25 20:44 strqueue.o\r\ndrwx--S--- 2 s455wang s455wang 4.0K Mar 25 20:44 \u001b[0m\u001b[01;34mtests\u001b[0m\r\n-rw-r--r-- 1 s455wang s455wang  34K Apr  2 23:46 wordlist.txt\r\n"
+    ],
+    [
+      0.000495,
+      "s455wang@ubuntu1204-002:~/.seashell/projects/A10/q5$ "
+    ],
+    [
+      1.167701,
+      "r"
+    ],
+    [
+      0.128480,
+      "m"
+    ],
+    [
+      0.109823,
+      " "
+    ],
+    [
+      0.149899,
+      "s"
+    ],
+    [
+      0.071848,
+      "t"
+    ],
+    [
+      0.177012,
+      "r"
+    ],
+    [
+      0.148895,
+      "q"
+    ],
+    [
+      0.157163,
+      "u"
+    ],
+    [
+      1.057360,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.750624,
+      "u"
+    ],
+    [
+      0.211246,
+      "eue.o "
+    ],
+    [
+      1.246468,
+      "\r\n"
+    ],
+    [
+      0.003905,
+      "s455wang@ubuntu1204-002:~/.seashell/projects/A10/q5$ "
+    ],
+    [
+      0.197105,
+      "l"
+    ],
+    [
+      0.104943,
+      "s"
+    ],
+    [
+      0.070653,
+      " "
+    ],
+    [
+      0.122370,
+      "-"
+    ],
+    [
+      0.204945,
+      "l"
+    ],
+    [
+      0.387983,
+      "\r\n"
+    ],
+    [
+      0.004997,
+      "total 68K\r\n-rw------- 1 s455wang s455wang   69 Mar 25 20:44 autocorrect.txt\r\n-rw------- 1 s455wang s455wang 7.9K Mar 25 20:44 dictionary.o\r\n-rw------- 1 s455wang s455wang  849 Mar 25 20:44 file2strqueue.c\r\n-rw------- 1 s455wang s455wang  611 Mar 25 20:44 file2strqueue.h\r\n-rw------- 1 s455wang s455wang 1.6K Mar 25 20:44 spellcheck.c\r\ndrwx--S--- 2 s455wang s455wang 4.0K Mar 25 20:44 \u001b[0m\u001b[01;34mtests\u001b[0m\r\n-rw-r--r-- 1 s455wang s455wang  34K Apr  2 23:46 wordlist.txt\r\n"
+    ],
+    [
+      0.000433,
+      "s455wang@ubuntu1204-002:~/.seashell/projects/A10/q5$ "
+    ],
+    [
+      3.553408,
+      "exit\r\n"
+    ]
+  ]
+}
