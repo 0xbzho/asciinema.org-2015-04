@@ -1,0 +1,678 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 22,
+  "duration": 61.698310,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.040807,
+      "mariano@ganesha:~$ "
+    ],
+    [
+      2.000000,
+      "mkdir -p ~/.config/rebar3/templates\r\n"
+    ],
+    [
+      0.002793,
+      "mariano@ganesha:~$ git clone https://github.com/efene/rebar3_efene_template_app \r.git ~/.config/rebar3/templates/fn_app\r\n"
+    ],
+    [
+      0.001859,
+      "Cloning into '/home/mariano/.config/rebar3/templates/fn_app'...\r\n"
+    ],
+    [
+      1.237374,
+      "remote: Counting objects: 50, done.\u001b[K\r\nremote: Compressing objects:   9% (1/11)   \u001b[K\rremote: Compressing objects:  18% (2/11)   \u001b[K\rremote: Compressing objects:  27% (3/11)   \u001b[K\rremote: Compressing objects:  36% (4/11)   \u001b[K\rremote: Compressing objects:  45% (5/11)   \u001b[K\rremote: Compressing objects:  54% (6/11)   \u001b[K\rremote: Compressing objects:  63% (7/11)   \u001b[K\rremote: Compressing objects:  72% (8/11)   \u001b[K\rremote: Compressing objects:  81% (9/11)   \u001b[K\rremote: Compressing objects:  90% (10/11)   \u001b[K\rremote: Compressing objects: 100% (11/11)   \u001b[K\rremote: Compressing objects: 100% (11/11), done.\u001b[K\r\n"
+    ],
+    [
+      0.312531,
+      "remote: Total 50 (delta 2), reused 0 (delta 0), pack-reused 39\u001b[K\r\n"
+    ],
+    [
+      0.000147,
+      "Unpacking objects:   2% (1/50)   \r"
+    ],
+    [
+      0.003997,
+      "Unpacking objects:   4% (2/50)   \rUnpacking objects:   6% (3/50)   \rUnpacking objects:   8% (4/50)   \rUnpacking objects:  10% (5/50)   \rUnpacking objects:  12% (6/50)   \rUnpacking objects:  14% (7/50)   \rUnpacking objects:  16% (8/50)   \rUnpacking objects:  18% (9/50)   \rUnpacking objects:  20% (10/50)   \rUnpacking objects:  22% (11/50)   \rUnpacking objects:  24% (12/50)   \rUnpacking objects:  26% (13/50)   \rUnpacking objects:  28% (14/50)   \rUnpacking objects:  30% (15/50)   \rUnpacking objects:  32% (16/50)   \rUnpacking objects:  34% (17/50)   \r"
+    ],
+    [
+      0.000645,
+      "Unpacking objects:  36% (18/50)   \rUnpacking objects:  38% (19/50)   \rUnpacking objects:  40% (20/50)   \rUnpacking objects:  42% (21/50)   \rUnpacking objects:  44% (22/50)   \r"
+    ],
+    [
+      0.004867,
+      "Unpacking objects:  46% (23/50)   \rUnpacking objects:  48% (24/50)   \rUnpacking objects:  50% (25/50)   \rUnpacking objects:  52% (26/50)   \rUnpacking objects:  54% (27/50)   \rUnpacking objects:  56% (28/50)   \rUnpacking objects:  58% (29/50)   \rUnpacking objects:  60% (30/50)   \rUnpacking objects:  62% (31/50)   \rUnpacking objects:  64% (32/50)   \rUnpacking objects:  66% (33/50)   \rUnpacking objects:  68% (34/50)   \rUnpacking objects:  70% (35/50)   \rUnpacking objects:  72% (36/50)   \rUnpacking objects:  74% (37/50)   \rUnpacking objects:  76% (38/50)   \rUnpacking objects:  78% (39/50)   \rUnpacking objects:  80% (40/50)   \rUnpacking objects:  82% (41/50)   \rUnpacking objects:  84% (42/50)   \rUnpacking objects:  86% (43/50)   \rUnpacking objects:  88% (44/50)   \rUnpacking objects:  90% (45/50)   \rUnpacking objects:  92% (46/50)   \rUnpacking objects:  94% (47/50)   \rUnpacking objects:  96% (48/50)   \rUnpacking objects:  98% (49/50)   \rUnpacking objects: 100% (50/50)   \rUnpacking objects: 100% (50/50), done.\r\n"
+    ],
+    [
+      0.000337,
+      "Checking connectivity... "
+    ],
+    [
+      0.002326,
+      "done.\r\n"
+    ],
+    [
+      0.004873,
+      "mariano@ganesha:~$ "
+    ],
+    [
+      1.643315,
+      "mkdir myfnapp"
+    ],
+    [
+      0.290443,
+      "\r\n"
+    ],
+    [
+      0.002169,
+      "mariano@ganesha:~$ "
+    ],
+    [
+      0.232793,
+      "c"
+    ],
+    [
+      0.065360,
+      "d"
+    ],
+    [
+      0.069987,
+      " "
+    ],
+    [
+      0.200084,
+      "m"
+    ],
+    [
+      0.119851,
+      "y"
+    ],
+    [
+      0.251263,
+      "fnapp/"
+    ],
+    [
+      0.824404,
+      "\r\nmariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      2.000000,
+      "wget https://s3.amazonaws.com/rebar3/rebar3"
+    ],
+    [
+      0.274442,
+      "\r\n"
+    ],
+    [
+      0.002990,
+      "--2015-04-04 17:24:54--  https://s3.amazonaws.com/rebar3/rebar3"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.009142,
+      "Resolving s3.amazonaws.com (s3.amazonaws.com)... "
+    ],
+    [
+      0.035597,
+      "54.231.9.200\r\n"
+    ],
+    [
+      0.000005,
+      "Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.9.200|:443... "
+    ],
+    [
+      0.268028,
+      "connected.\r\n"
+    ],
+    [
+      0.409688,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.310538,
+      "200 OK\r\nLength: 1272655 (1.2M) []\r\nSaving to: ‘rebar3’\r\n\r\n\rrebar3                0%[                     ]       0  --.-KB/s             "
+    ],
+    [
+      0.204010,
+      "\rrebar3                1%[                     ]  16.66K  81.7KB/s             "
+    ],
+    [
+      0.205980,
+      "\rrebar3                2%[                     ]  34.02K  83.0KB/s             "
+    ],
+    [
+      0.210459,
+      "\rrebar3                5%[\u003e                    ]  68.02K   110KB/s             "
+    ],
+    [
+      0.203211,
+      "\rrebar3                8%[\u003e                    ] 102.02K   124KB/s             "
+    ],
+    [
+      0.201863,
+      "\rrebar3               10%[=\u003e                   ] 136.02K   133KB/s             "
+    ],
+    [
+      0.202479,
+      "\rrebar3               13%[=\u003e                   ] 170.02K   138KB/s             "
+    ],
+    [
+      0.206813,
+      "\rrebar3               19%[===\u003e                 ] 238.02K   166KB/s             "
+    ],
+    [
+      0.204038,
+      "\rrebar3               23%[===\u003e                 ] 289.02K   176KB/s             "
+    ],
+    [
+      0.212383,
+      "\rrebar3               28%[=====\u003e               ] 357.02K   193KB/s             "
+    ],
+    [
+      0.298313,
+      "\rrebar3               35%[======\u003e              ] 442.02K   206KB/s             "
+    ],
+    [
+      0.206964,
+      "\rrebar3               42%[=======\u003e             ] 527.02K   224KB/s             "
+    ],
+    [
+      0.203644,
+      "\rrebar3               50%[=========\u003e           ] 629.02K   246KB/s             "
+    ],
+    [
+      0.205587,
+      "\rrebar3               57%[===========\u003e         ] 714.02K   258KB/s             "
+    ],
+    [
+      0.205630,
+      "\rrebar3               68%[=============\u003e       ] 850.02K   286KB/s             "
+    ],
+    [
+      0.211912,
+      "\rrebar3               80%[===============\u003e     ]   1003K   315KB/s   eta 1s    "
+    ],
+    [
+      0.201980,
+      "\rrebar3               94%[==================\u003e  ]   1.15M   347KB/s   eta 1s    "
+    ],
+    [
+      0.039082,
+      "\rrebar3              100%[====================\u003e]   1.21M   363KB/s   in 3.4s   \r\n\r\n2015-04-04 17:24:59 (363 KB/s) - ‘rebar3’ saved [1272655/1272655]\r\n\r\n"
+    ],
+    [
+      0.000133,
+      "mariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      0.952023,
+      "chmod u+x rebar3"
+    ],
+    [
+      0.585349,
+      "\r\n"
+    ],
+    [
+      0.000781,
+      "mariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      2.000000,
+      "./rebar3 new fn_app name=myfnapp"
+    ],
+    [
+      0.179619,
+      "\r\n"
+    ],
+    [
+      0.733063,
+      "\u001b[0;32m===\u003e Writing src/myfnapp.app.src\r\n\u001b[0m"
+    ],
+    [
+      0.009449,
+      "\u001b[0;32m===\u003e Writing src/myfnapp.fn\r\n\u001b[0m"
+    ],
+    [
+      0.012128,
+      "\u001b[0;32m===\u003e Writing test/myfnapp_SUITE.fn\r\n\u001b[0m"
+    ],
+    [
+      0.010434,
+      "\u001b[0;32m===\u003e Writing rebar.config\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.018439,
+      "\u001b[0;32m===\u003e Writing .gitignore\r\n\u001b[0m"
+    ],
+    [
+      0.003461,
+      "\u001b[0;32m===\u003e Writing README.rst\r\n\u001b[0m"
+    ],
+    [
+      0.002676,
+      "mariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      2.000000,
+      "./rebar3 compile"
+    ],
+    [
+      0.405146,
+      "\r\n"
+    ],
+    [
+      0.325448,
+      "\u001b[0;32m===\u003e Fetching rebar3_efene_compile ({git,\r\n                                            \"https://github.com/efene/rebar3_efene_compile.git\",\r\n                                            {branch,\"master\"}})\r\n\u001b[0m"
+    ],
+    [
+      2.000000,
+      "\u001b[0;32m===\u003e Fetching efene ({git,\"git://github.com/efene/efene\",\r\n                                 {branch,\"master\"}})\r\n\u001b[0m"
+    ],
+    [
+      2.000000,
+      "\u001b[0;32m===\u003e Compiling efene\r\n\u001b[0m"
+    ],
+    [
+      2.000000,
+      "\u001b[0;32m===\u003e Compiling rebar3_efene_compile\r\n\u001b[0m"
+    ],
+    [
+      0.051015,
+      "\u001b[0;32m===\u003e Fetching rebar3_efene_ct ({git,\r\n                                       \"https://github.com/efene/rebar3_efene_ct.git\",\r\n                                       {branch,\"master\"}})\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      1.370829,
+      "\u001b[0;32m===\u003e Compiling rebar3_efene_ct\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.118849,
+      "\u001b[0;32m===\u003e Verifying dependencies...\r\n\u001b[0m"
+    ],
+    [
+      0.004377,
+      "Compiling /home/mariano/myfnapp/src/myfnapp.fn\r\n"
+    ],
+    [
+      0.010907,
+      "\r\n"
+    ],
+    [
+      0.005517,
+      "\u001b[0;32m===\u003e Compiling myfnapp\r\n\u001b[0m"
+    ],
+    [
+      0.026752,
+      "mariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      2.000000,
+      "./rebar3 shell"
+    ],
+    [
+      0.308264,
+      "\r\n"
+    ],
+    [
+      0.473265,
+      "\u001b[0;32m===\u003e Verifying dependencies...\r\n\u001b[0m"
+    ],
+    [
+      0.009096,
+      "Compiling /home/mariano/myfnapp/src/myfnapp.fn\r\n"
+    ],
+    [
+      0.244942,
+      "\r\n"
+    ],
+    [
+      0.014229,
+      "\u001b[0;32m===\u003e Compiling myfnapp\r\n\u001b[0m"
+    ],
+    [
+      1.040462,
+      "Erlang/OTP 17 [erts-6.3] [source] [64-bit] [smp:4:4] [async-threads:0] [hipe] [kernel-poll:false]\r\n\r\n"
+    ],
+    [
+      0.014072,
+      "Eshell V6.3  (abort with ^G)\r\n"
+    ],
+    [
+      0.000028,
+      "1\u003e "
+    ],
+    [
+      2.000000,
+      "myfnapp:hello(\"mariano\")."
+    ],
+    [
+      1.288097,
+      "\r\nHello mariano!\r\nok\r\n2\u003e "
+    ],
+    [
+      2.000000,
+      "myfnapp:add(2, 3)."
+    ],
+    [
+      0.479505,
+      "\r\n5\r\n3\u003e "
+    ],
+    [
+      2.000000,
+      "\r\nmariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      2.000000,
+      "./rebar3 ct"
+    ],
+    [
+      0.339672,
+      "\r\n"
+    ],
+    [
+      0.463312,
+      "\u001b[0;32m===\u003e Verifying dependencies...\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.009226,
+      "Compiling /home/mariano/myfnapp/src/myfnapp.fn"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.236987,
+      "\r\n"
+    ],
+    [
+      0.010661,
+      "\u001b[0;32m===\u003e Compiling myfnapp\r\n\u001b[0m"
+    ],
+    [
+      0.030850,
+      "Compiling /home/mariano/myfnapp/test/myfnapp_SUITE.fn\r\n"
+    ],
+    [
+      0.002058,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[0;32m===\u003e Running Common Test suites...\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.323039,
+      "\r\n- - - - - - - - - - - - - - - - - - - - - - - - - -\r\nmyfnapp_SUITE:fail failed on line 16\r\nReason: {badmatch,1}\r\n- - - - - - - - - - - - - - - - - - - - - - - - - -\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      1.261983,
+      "Failed 1 tests. Passed 1 tests. \r\n"
+    ],
+    [
+      0.000050,
+      "Results written to \"/home/mariano/myfnapp/_build/test/logs/index.html\".\r\n"
+    ],
+    [
+      0.006511,
+      "\u001b[0;31m===\u003e Failures occured running tests: 1\r\n\u001b[0m"
+    ],
+    [
+      0.003044,
+      "mariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      0.825610,
+      "v"
+    ],
+    [
+      0.129129,
+      "i"
+    ],
+    [
+      0.045012,
+      "m"
+    ],
+    [
+      0.159965,
+      " "
+    ],
+    [
+      0.130160,
+      "s"
+    ],
+    [
+      0.055008,
+      "r"
+    ],
+    [
+      0.230683,
+      "c/"
+    ],
+    [
+      1.145233,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129806,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135081,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.195043,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.099919,
+      "t"
+    ],
+    [
+      0.055076,
+      "e"
+    ],
+    [
+      0.208209,
+      "st/"
+    ],
+    [
+      0.345804,
+      "\u0007"
+    ],
+    [
+      0.000006,
+      "myfnapp_SUITE."
+    ],
+    [
+      0.853057,
+      "e"
+    ],
+    [
+      0.338693,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.072558,
+      "f"
+    ],
+    [
+      0.196339,
+      "n "
+    ],
+    [
+      0.302074,
+      "\r\n"
+    ],
+    [
+      0.090805,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000642,
+      "\u001b[1;22r\u001b[34l\u001b[34h\u001b[?25h\u001b[23m\u001b[24m\u001b[0m\u001b[H\u001b[J\u001b[?25l\u001b[22;1H\"test/myfnapp_SUITE.fn\""
+    ],
+    [
+      0.000041,
+      " 17L, 181C"
+    ],
+    [
+      0.044567,
+      "\u001b[1;79H\u001b[48;5;224m \u001b[0m\u001b[2;1H\u001b[38;5;130mfn\u001b[0m all\u001b[72C\u001b[48;5;224m \u001b[0m\u001b[3;5H@public\u001b[67C\u001b[48;5;224m \u001b[0m\u001b[4;5H\u001b[38;5;130mcase\u001b[0m: \u001b[38;5;130m[\u001b[0mpass, fail\u001b[38;5;130m]\u001b[0m\u001b[56C\u001b[48;5;224m \u001b[0m\u001b[5;1H\u001b[38;5;130mend\u001b[0m\u001b[75C\u001b[48;5;224m \u001b[6;79H \u001b[0m\u001b[7;1H\u001b[38;5;130mfn\u001b[0m pass\u001b[71C\u001b[48;5;224m \u001b[0m\u001b[8;5H@public\u001b[67C\u001b[48;5;224m \u001b[0m\u001b[9;5H\u001b[38;5;130mcase\u001b[0m \u001b[36m_\u001b[0m:\u001b[67C\u001b[48;5;224m \u001b[0m\u001b[10;9H\u001b[31m5\u001b[0m \u001b[38;5;130m=\u001b[0m myfnapp.add\u001b[38;5;130m(\u001b[0m\u001b[31m2\u001b[0m, \u001b[31m3\u001b[0m\u001b[38;5;130m)\u001b[0m\u001b[49C\u001b[48;5;224m \u001b[0m\u001b[11;1H\u001b[38;5;130mend\u001b[0m\u001b[75C\u001b[48;5;224m \u001b[12;79H \u001b[0m\u001b[13;1H\u001b[38;5;130mfn\u001b[0m fail\u001b[71C\u001b[48;5;224m \u001b[0m\u001b[14;5H@public\u001b[67C\u001b[48;5;224m \u001b[0m\u001b[15;5H\u001b[38;5;130mcase\u001b[0m \u001b[36m_\u001b[0m:\u001b[67C\u001b[48;5;224m \u001b[0m\u001b[16;9H\u001b[31m2\u001b[0m \u001b[38;5;130m=\u001b[0m myfnapp.add\u001b[38;5;130m(\u001b[0m\u001b[31m1\u001b[0m, \u001b[31m0\u001b[0m\u001b[38;5;130m)\u001b[0m\u001b[49C\u001b[48;5;224m \u001b[0m\u001b[17;1H\u001b[38;5;130mend\u001b[0m\u001b[75C\u001b[48;5;224m \u001b[0m\u001b[18;1H\u001b[94m~                                                                              \u001b[19;1H~                                                                              \u001b[20;1H~                                                                              \u001b[0m\u001b[21;1H\u001b[38;5;17m\u001b[48;5;190m \u001b[0m\u001b[1m\u001b[38;5;17m\u001b[48;5;190mNORMAL\u001b[0m\u001b[38;5;17m\u001b[48;5;190m \u001b[0m\u001b[38;5;190m\u001b[48;5;238m\u003e\u001b[0m\u001b[38;5;238m\u001b[48;5;234m\u003e\u001b[0m\u001b[38;5;85m\u001b[48;5;234m test/myfnapp_SUITE.fn                    \u001b[0m\u001b[38;5;234m\u001b[48;5;234m\u003c\u001b[0m\u001b[38;5;85m\u001b[48;5;234m efene \u001b[0m\u001b[38;5;238m\u001b[48;5;234m\u003c\u001b[0m\u001b[38;5;190m\u001b[48;5;238m\u003c\u001b[0m\u001b[38;5;17m\u001b[48;5;190m  94% :\u001b[0m\u001b[1m\u001b[38;5;17m\u001b[48;5;190m  16\u001b[0m\u001b[38;5;17m\u001b[48;5;190m:  9  \u001b[16;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.359128,
+      "\u001b[21;64H100\u001b[0m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m7\u001b[0m\u001b[3C\u001b[38;5;17m\u001b[48;5;190m3\u001b[17;3H"
+    ],
+    [
+      0.501125,
+      "\u0007"
+    ],
+    [
+      0.031296,
+      "\u0007"
+    ],
+    [
+      0.031256,
+      "\u0007"
+    ],
+    [
+      0.030636,
+      "\u0007"
+    ],
+    [
+      0.146560,
+      "\u001b[21;64H 94\u001b[0m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m6\u001b[0m\u001b[3C\u001b[38;5;17m\u001b[48;5;190m9\u001b[16;9H"
+    ],
+    [
+      0.194367,
+      "\u001b[21;65H88\u001b[0m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m5\u001b[15;9H"
+    ],
+    [
+      0.205183,
+      "\u001b[0m\u001b[21;65H\u001b[38;5;17m\u001b[48;5;190m94\u001b[0m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m6\u001b[16;9H"
+    ],
+    [
+      1.962273,
+      "\u001b[?25l\u001b[0m\u001b[31m1\u001b[0m\u001b[21;10H\u001b[38;5;238m\u001b[48;5;53m\u003e\u001b[0m\u001b[38;5;255m\u001b[48;5;53m test/myfnapp_SUITE.fn[+]                 \u001b[0m\u001b[38;5;234m\u001b[48;5;53m\u003c\u001b[16;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.600380,
+      "\u0007\u001b[?25l\u001b[34h\u001b[?25h\u001b[?25l\u001b[0m\u001b[22;1H\u001b[K\u001b[22;1H:\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.150323,
+      "w\u0008"
+    ],
+    [
+      0.042712,
+      " \u0008wq\u001b[?25l\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.140559,
+      "\r\u001b[?25l\"test/myfnapp_SUITE.fn\""
+    ],
+    [
+      0.015899,
+      " 17L, 181C [w]"
+    ],
+    [
+      0.004698,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001118,
+      "mariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      0.743338,
+      "vim test/myfnapp_SUITE.fn "
+    ],
+    [
+      0.239951,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[15P./rebar3 ct"
+    ],
+    [
+      0.720790,
+      "\r\n"
+    ],
+    [
+      0.469393,
+      "\u001b[0;32m===\u003e Verifying dependencies...\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.008326,
+      "Compiling /home/mariano/myfnapp/src/myfnapp.fn\r\n"
+    ],
+    [
+      0.237770,
+      "\r\n"
+    ],
+    [
+      0.010484,
+      "\u001b[0;32m===\u003e Compiling myfnapp\r\n\u001b[0m"
+    ],
+    [
+      0.030845,
+      "Compiling /home/mariano/myfnapp/test/myfnapp_SUITE.fn\r\n"
+    ],
+    [
+      0.002411,
+      "\r\n"
+    ],
+    [
+      0.000832,
+      "\u001b[0;32m===\u003e Running Common Test suites...\r\n\u001b[0m"
+    ],
+    [
+      1.583861,
+      "All 2 tests passed.\r\n"
+    ],
+    [
+      0.010249,
+      "mariano@ganesha:~/myfnapp$ "
+    ],
+    [
+      2.000000,
+      "exit\r\n"
+    ]
+  ]
+}
