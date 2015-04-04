@@ -1,0 +1,1514 @@
+{
+  "version": 1,
+  "width": 245,
+  "height": 46,
+  "duration": 133.964523,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.429916,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000017,
+      "\u001b]7;file://FailBowl/Users/pkircher/projects/deis_privat\u0007"
+    ],
+    [
+      0.055795,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mdr-who\u001b[39m@\u001b[38;5;166mFailBowl\u001b[39m \u001b[38;5;118m~/projects/deis_privat\u001b[39m (\u001b[38;5;81mpreseed-fix\u001b[39m\u001b[38;5;161m●\u001b[39m\u001b[38;5;135m●\u001b[39m)$ "
+    ],
+    [
+      0.000016,
+      "\u001b[K\u001b[188C\u001b[34m\u001b[39m\u001b[188D"
+    ],
+    [
+      0.000092,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000428,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mdr-who\u001b[39m@\u001b[38;5;166mFailBowl\u001b[39m \u001b[38;5;118m~/projects/deis_privat\u001b[39m (\u001b[38;5;81mpreseed-fix\u001b[39m\u001b[38;5;161m●\u001b[39m\u001b[38;5;135m●\u001b[39m)$ "
+    ],
+    [
+      0.000004,
+      "\u001b[K\u001b[188C\u001b[34m\u001b[39m\u001b[188D"
+    ],
+    [
+      0.582786,
+      "\u001b[4mv\u001b[24m"
+    ],
+    [
+      0.182516,
+      "\u0008\u001b[4mv\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.149770,
+      "\u0008\u0008\u001b[4mv\u001b[4ma\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.262429,
+      "\u0008\u001b[4mg\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.337588,
+      "\u0008\u001b[4mr\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.362339,
+      "\u0008\u001b[4ma\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.263212,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[24m\u001b[32mv\u001b[24m\u001b[32ma\u001b[24m\u001b[32mg\u001b[24m\u001b[32mr\u001b[24m\u001b[32ma\u001b[24m\u001b[32mn\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.150308,
+      " "
+    ],
+    [
+      0.200490,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.174272,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.137817,
+      "\u0008\u0008\u001b[24m\u001b[39ms\u001b[24m\u001b[39msh"
+    ],
+    [
+      0.187775,
+      " "
+    ],
+    [
+      0.437171,
+      "\u001b[4md\u001b[24m"
+    ],
+    [
+      0.262859,
+      "\u0008\u001b[4md\u001b[4me\u001b[24m"
+    ],
+    [
+      0.063493,
+      "\u0008\u001b[4me\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.148698,
+      "\u0008\u001b[4mi\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.299934,
+      "\u0008\u0008\u0008\u0008\u001b[24md\u001b[24me\u001b[24mi\u001b[24ms "
+    ],
+    [
+      0.574985,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[4md\u001b[4me\u001b[4mi\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.262608,
+      "\u0008\u0008\u0008\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33me\u001b[4m\u001b[33mi\u001b[4m\u001b[33ms\u001b[4m\u001b[33m-\u001b[24m\u001b[39m"
+    ],
+    [
+      0.325103,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[24m\u001b[39md\u001b[24m\u001b[39me\u001b[24m\u001b[39mi\u001b[24m\u001b[39ms\u001b[24m\u001b[39m-0"
+    ],
+    [
+      0.312641,
+      "1"
+    ],
+    [
+      0.322178,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000277,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mdr-who\u001b[39m@\u001b[38;5;166mFailBowl\u001b[39m \u001b[38;5;118m~/projects/deis_privat\u001b[39m (\u001b[38;5;81mpreseed-fix\u001b[39m\u001b[38;5;161m●\u001b[39m\u001b[38;5;135m●\u001b[39m)$ "
+    ],
+    [
+      0.000006,
+      "\u001b[32mvagrant\u001b[39m ssh deis-01\u001b[K\u001b[169C\u001b[34m\u001b[39m\u001b[169D"
+    ],
+    [
+      0.000096,
+      "\r\r\n"
+    ],
+    [
+      2.459964,
+      "Last login: Sat Apr  4 19:25:12 2015 from 10.0.2.2\r"
+    ],
+    [
+      0.000024,
+      "\r\nCore\u001b[38;5;206mO\u001b[38;5;45mS\u001b[39m alpha (640.0.0)\r\nUpdate Strategy: \u001b[31mNo Reboots\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\nFailed Units: \u001b[31m1\u001b[39m\r\n  update-engine.service"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.003579,
+      "\u001b]0;core@deis-01:~\u0007"
+    ],
+    [
+      0.000165,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000004,
+      "\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      2.098724,
+      "o"
+    ],
+    [
+      0.150319,
+      "v"
+    ],
+    [
+      0.212532,
+      "s"
+    ],
+    [
+      0.287529,
+      "-"
+    ],
+    [
+      0.287786,
+      "v"
+    ],
+    [
+      0.287301,
+      "s"
+    ],
+    [
+      0.212339,
+      "c"
+    ],
+    [
+      0.224940,
+      "t"
+    ],
+    [
+      0.575021,
+      "l"
+    ],
+    [
+      0.162116,
+      " "
+    ],
+    [
+      0.588032,
+      "s"
+    ],
+    [
+      0.187196,
+      "h"
+    ],
+    [
+      0.237625,
+      "o"
+    ],
+    [
+      0.176121,
+      "w"
+    ],
+    [
+      0.674235,
+      "\r\n"
+    ],
+    [
+      0.025001,
+      "9f544e89-e85f-4fe6-82c8-1584fa022729\r\n    Manager \"pssl:6640\"\r\n    Bridge br-int"
+    ],
+    [
+      0.000010,
+      "\r\n        Port patch-tun\r\n            Interface patch-tun\r\n"
+    ],
+    [
+      0.000736,
+      "                type: patch\r\n                options: {peer=patch-int}\r\n        Port \"tap6505\"\r\n            tag: 2\r\n            Interface \"tap6505\"\r\n        Port br-int\r\n            Interface br-int\r\n                type: internal"
+    ],
+    [
+      0.000011,
+      "\r\n        Port \"tap2358\"\r\n            tag: 1\r\n            Interface \"tap2358\"\r\n        Port \"tap2336\"\r\n            tag: 1"
+    ],
+    [
+      0.000925,
+      "\r\n            Interface \"tap2336\"\r\n    Bridge br-tun\r\n        Port patch-int\r\n            Interface patch-int\r\n                type: patch\r\n                options: {peer=patch-tun}\r\n        Port \"vxlanac110866\""
+    ],
+    [
+      0.000024,
+      "\r\n            Interface \"vxlanac110866\"\r\n                type: vxlan\r\n                options: {in_key=flow, out_key=flow, remote_ip=\"172.17.8.102\"}\r\n        Port br-tun\r\n            Interface br-tun"
+    ],
+    [
+      0.000038,
+      "\r\n                type: internal\r\n        Port \"vxlanac110865\"\r\n            Interface \"vxlanac110865\"\r\n                type: vxlan"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002111,
+      "                options: {in_key=flow, out_key=flow, remote_ip=\"172.17.8.101\"}"
+    ],
+    [
+      0.000009,
+      "\r\n    ovs_version: \"2.3.1\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001493,
+      "\u001b]0;core@deis-01:~\u0007\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      4.006588,
+      "d"
+    ],
+    [
+      0.088207,
+      "o"
+    ],
+    [
+      0.099408,
+      "c"
+    ],
+    [
+      0.149926,
+      "k"
+    ],
+    [
+      0.174986,
+      "e"
+    ],
+    [
+      0.112447,
+      "r"
+    ],
+    [
+      0.100156,
+      " "
+    ],
+    [
+      0.113292,
+      "p"
+    ],
+    [
+      0.261602,
+      "s"
+    ],
+    [
+      0.162891,
+      " "
+    ],
+    [
+      0.649603,
+      "-"
+    ],
+    [
+      0.500383,
+      "a"
+    ],
+    [
+      0.412464,
+      "\r\n"
+    ],
+    [
+      0.013368,
+      "CONTAINER ID"
+    ],
+    [
+      0.000009,
+      "        IMAGE                                COMMAND        "
+    ],
+    [
+      0.000004,
+      "        "
+    ],
+    [
+      0.001146,
+      "CREATED             STATUS                      PORTS               NAMES\r\nf0262fe1c45a        ubuntu:14.04                         \"/bin/sh -c 'while t   8 minutes ago       Up 8 minutes                                    c2_1                \r\nb72a23a558eb"
+    ],
+    [
+      0.000145,
+      "        ubuntu:14.04                         \"/bin/sh -c 'while t   35 minutes ago      Up 35 minutes                                   c1_2                \r\n154a1ce7b3f5        ubuntu:14.04                         \"/bin/sh -c 'while t   35 minutes ago      Up 35 minutes                                   c1_1                \r\n5902d971477a        quay.io/pkircher/ovs-coreos:latest   \"/bin/sh -c /scripts   37 minutes ago      Up 37 minutes                                   openvswitch         \r\n217bf77de8d6        busybox:latest                       \"true\"                 39 minutes ago      Exited (0) 39 minutes ago                       openvswitch-cfg     \r\n"
+    ],
+    [
+      0.000332,
+      "\u001b]0;core@deis-01:~\u0007\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      6.972350,
+      "n"
+    ],
+    [
+      0.262531,
+      "s"
+    ],
+    [
+      0.187582,
+      "e"
+    ],
+    [
+      0.212338,
+      " "
+    ],
+    [
+      0.200170,
+      "c"
+    ],
+    [
+      0.575849,
+      "1"
+    ],
+    [
+      0.599378,
+      "_"
+    ],
+    [
+      0.387924,
+      "2"
+    ],
+    [
+      0.524748,
+      "\r\n"
+    ],
+    [
+      0.031133,
+      "root@b72a23a558eb:/# "
+    ],
+    [
+      1.331310,
+      "\r                                                                                                                                                                                                                                                    \rroot@b72a23a558eb:/# i"
+    ],
+    [
+      0.099481,
+      "f"
+    ],
+    [
+      0.175371,
+      "c"
+    ],
+    [
+      0.112360,
+      "o"
+    ],
+    [
+      0.275217,
+      "n"
+    ],
+    [
+      0.312241,
+      "f"
+    ],
+    [
+      0.437406,
+      "i"
+    ],
+    [
+      0.237758,
+      "g"
+    ],
+    [
+      0.738393,
+      "\r\n"
+    ],
+    [
+      0.001233,
+      "eth1      Link encap:Ethernet  HWaddr 62:68:18:5f:3e:1a  \r\n          inet addr:10.44.1.2  Bcast:0.0.0.0  Mask:255.255.255.0"
+    ],
+    [
+      0.002358,
+      "\r\n          inet6 addr: fe80::6068:18ff:fe5f:3e1a/64 Scope:Link\r\n"
+    ],
+    [
+      0.000059,
+      "          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1\r\n          RX packets:31 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:26 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:1000 \r\n          RX bytes:2733 (2.7 KB)  TX bytes:2292 (2.2 KB)\r\n\r\nlo        Link encap:Local Loopback  \r\n          inet addr:127.0.0.1  Mask:255.0.0.0\r\n"
+    ],
+    [
+      0.000581,
+      "          inet6 addr: ::1/128 Scope:Host\r\n          UP LOOPBACK RUNNING  MTU:65536  Metric:1\r\n          RX packets:0 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:0 \r\n          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)\r\n\r\nroot@b72a23a558eb:/# "
+    ],
+    [
+      8.457475,
+      "p"
+    ],
+    [
+      0.387581,
+      "i"
+    ],
+    [
+      0.237430,
+      "n"
+    ],
+    [
+      0.149971,
+      "g"
+    ],
+    [
+      0.137635,
+      " "
+    ],
+    [
+      0.275672,
+      "10.44.1.2"
+    ],
+    [
+      0.624498,
+      "\u0008 \u0008"
+    ],
+    [
+      0.212029,
+      "1"
+    ],
+    [
+      0.438725,
+      "\r\nPING 10.44.1.1 (10.44.1.1) 56(84) bytes of data."
+    ],
+    [
+      0.000579,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "64 bytes from 10.44.1.1: icmp_seq=1 ttl=64 time=0.276 ms"
+    ],
+    [
+      0.000516,
+      "\r\n"
+    ],
+    [
+      1.000723,
+      "64 bytes from 10.44.1.1: icmp_seq=2 ttl=64 time=0.181 ms"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      1.001225,
+      "64 bytes from 10.44.1.1: icmp_seq=3 ttl=64 time=0.109 ms\r\n"
+    ],
+    [
+      1.001097,
+      "64 bytes from 10.44.1.1: icmp_seq=4 ttl=64 time=0.100 ms\r\n"
+    ],
+    [
+      0.357635,
+      "^C\r\n--- 10.44.1.1 ping statistics ---\r\n4 packets transmitted, 4 received, 0% packet loss, time 3003ms\r\nrtt min/avg/max/mdev = 0.100/0.166/0.276/0.071 ms\r\n"
+    ],
+    [
+      0.000008,
+      "root@b72a23a558eb:/# "
+    ],
+    [
+      0.374680,
+      "ping 10.44.1.1"
+    ],
+    [
+      0.374597,
+      "\u0008 \u0008"
+    ],
+    [
+      0.225332,
+      "2"
+    ],
+    [
+      0.237974,
+      "\r\nPING 10.44.1.2 (10.44.1.2) 56(84) bytes of data.\r\n64 bytes from 10.44.1.2: icmp_seq=1 ttl=64 time=0.033 ms"
+    ],
+    [
+      0.000367,
+      "\r\n"
+    ],
+    [
+      1.000632,
+      "64 bytes from 10.44.1.2: icmp_seq=2 ttl=64 time=0.043 ms"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.001302,
+      "64 bytes from 10.44.1.2: icmp_seq=3 ttl=64 time=0.042 ms"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      1.000154,
+      "64 bytes from 10.44.1.2: icmp_seq=4 ttl=64 time=0.043 ms"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.847797,
+      "^C\r\n--- 10.44.1.2 ping statistics ---\r\n4 packets transmitted, 4 received, 0% packet loss, time 3001ms\r\nrtt min/avg/max/mdev = 0.033/0.040/0.043/0.006 ms\r\n"
+    ],
+    [
+      0.000257,
+      "root@b72a23a558eb:/# "
+    ],
+    [
+      1.236327,
+      "e"
+    ],
+    [
+      0.137411,
+      "x"
+    ],
+    [
+      0.125288,
+      "i"
+    ],
+    [
+      0.225390,
+      "t"
+    ],
+    [
+      1.386666,
+      "\u0008 \u0008"
+    ],
+    [
+      0.500362,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084054,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083333,
+      "\u0008 \u0008"
+    ],
+    [
+      0.092859,
+      "\u0007"
+    ],
+    [
+      0.074381,
+      "\u0007"
+    ],
+    [
+      0.083457,
+      "\u0007"
+    ],
+    [
+      0.083260,
+      "\u0007"
+    ],
+    [
+      0.373477,
+      "ping 10.44.1.2"
+    ],
+    [
+      0.562433,
+      "\u0008 \u0008"
+    ],
+    [
+      0.612546,
+      "3"
+    ],
+    [
+      0.263724,
+      "\r\nPING 10.44.1.3 (10.44.1.3) 56(84) bytes of data.\r\n"
+    ],
+    [
+      3.007675,
+      "From 10.44.1.2 icmp_seq=1 Destination Host Unreachable\r\nFrom 10.44.1.2 icmp_seq=2 Destination Host Unreachable\r\nFrom 10.44.1.2 icmp_seq=3 Destination Host Unreachable"
+    ],
+    [
+      0.001007,
+      "\r\n"
+    ],
+    [
+      0.140907,
+      "^C\r\n--- 10.44.1.3 ping statistics ---\r\n4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 3009ms\r\npipe 3\r\nroot@b72a23a558eb:/# "
+    ],
+    [
+      1.124540,
+      "e"
+    ],
+    [
+      0.125118,
+      "x"
+    ],
+    [
+      0.137259,
+      "i"
+    ],
+    [
+      0.112974,
+      "t"
+    ],
+    [
+      0.325650,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.002815,
+      "\u001b]0;core@deis-01:~\u0007\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      0.408480,
+      "nse c1_2"
+    ],
+    [
+      0.649964,
+      "\u0008"
+    ],
+    [
+      0.399558,
+      "2"
+    ],
+    [
+      0.437753,
+      "\u0008 \u0008"
+    ],
+    [
+      0.137684,
+      "1"
+    ],
+    [
+      0.200061,
+      "\r\n"
+    ],
+    [
+      0.032672,
+      "root@154a1ce7b3f5:/# "
+    ],
+    [
+      0.554786,
+      "exit"
+    ],
+    [
+      0.524931,
+      "\u0008\u0008\u0008\u0008ping 10.44.1.2"
+    ],
+    [
+      0.837894,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008exit          \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.412436,
+      "\u0008\u0008\u0008\u0008ping 10.44.1.2"
+    ],
+    [
+      0.362999,
+      "\r\nPING 10.44.1.2 (10.44.1.2) 56(84) bytes of data.\r\n64 bytes from 10.44.1.2: icmp_seq=1 ttl=64 time=0.154 ms\r\n"
+    ],
+    [
+      0.999232,
+      "64 bytes from 10.44.1.2: icmp_seq=2 ttl=64 time=0.051 ms\r\n"
+    ],
+    [
+      0.388374,
+      "^C\r\n--- 10.44.1.2 ping statistics ---\r\n2 packets transmitted, 2 received, 0% packet loss, time 999ms\r\nrtt min/avg/max/mdev = 0.051/0.102/0.154/0.052 ms\r\nroot@154a1ce7b3f5:/# "
+    ],
+    [
+      0.349132,
+      "ping 10.44.1.2"
+    ],
+    [
+      0.337992,
+      "\u0008 \u0008"
+    ],
+    [
+      0.186951,
+      "1"
+    ],
+    [
+      0.201018,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "PING 10.44.1.1 (10.44.1.1) 56(84) bytes of data.\r\n64 bytes from 10.44.1.1: icmp_seq=1 ttl=64 time=0.026 ms"
+    ],
+    [
+      0.000444,
+      "\r\n"
+    ],
+    [
+      0.999528,
+      "64 bytes from 10.44.1.1: icmp_seq=2 ttl=64 time=0.044 ms\r\n"
+    ],
+    [
+      0.737213,
+      "^C\r\n--- 10.44.1.1 ping statistics ---\r\n2 packets transmitted, 2 received, 0% packet loss, time 999ms\r\nrtt min/avg/max/mdev = 0.026/0.035/0.044/0.009 ms\r\nroot@154a1ce7b3f5:/# "
+    ],
+    [
+      0.386806,
+      "ping 10.44.1.1"
+    ],
+    [
+      0.350386,
+      "\u0008 \u0008"
+    ],
+    [
+      0.687152,
+      "3"
+    ],
+    [
+      0.338252,
+      "\r\nPING 10.44.1.3 (10.44.1.3) 56(84) bytes of data.\r\n"
+    ],
+    [
+      1.862169,
+      "^C\r\n--- 10.44.1.3 ping statistics ---\r\n2 packets transmitted, 0 received, 100% packet loss, time 1000ms\r\n\r\n"
+    ],
+    [
+      0.000366,
+      "root@154a1ce7b3f5:/# "
+    ],
+    [
+      0.537143,
+      "e"
+    ],
+    [
+      0.087172,
+      "x"
+    ],
+    [
+      0.125439,
+      "i"
+    ],
+    [
+      0.162290,
+      "t"
+    ],
+    [
+      0.238679,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.002216,
+      "\u001b]0;core@deis-01:~\u0007\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      0.421074,
+      "nse c1_1"
+    ],
+    [
+      0.525051,
+      "\u0008"
+    ],
+    [
+      0.187852,
+      "\u0008"
+    ],
+    [
+      0.349899,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.137531,
+      "\u001b[1@2"
+    ],
+    [
+      0.299942,
+      "\r\n"
+    ],
+    [
+      0.027749,
+      "root@f0262fe1c45a:/# "
+    ],
+    [
+      1.647594,
+      "i"
+    ],
+    [
+      0.137394,
+      "f"
+    ],
+    [
+      0.202084,
+      "c"
+    ],
+    [
+      1.135292,
+      "i"
+    ],
+    [
+      0.249983,
+      "n"
+    ],
+    [
+      0.487264,
+      "\u0008 \u0008"
+    ],
+    [
+      0.162547,
+      "\u0008 \u0008"
+    ],
+    [
+      0.650368,
+      "o"
+    ],
+    [
+      0.612433,
+      "n"
+    ],
+    [
+      0.174779,
+      "f"
+    ],
+    [
+      0.475379,
+      "i"
+    ],
+    [
+      0.200985,
+      "g"
+    ],
+    [
+      1.712943,
+      "\r\neth1      Link encap:Ethernet  HWaddr 42:0b:e4:05:1e:59  \r\n          inet addr:10.44.1.3  Bcast:0.0.0.0  Mask:255.255.255.0\r\n          inet6 addr: fe80::400b:e4ff:fe05:1e59/64 Scope:Link\r\n          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1\r\n          RX packets:13 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:12 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:1000 \r\n          RX bytes:1109 (1.1 KB)  TX bytes:864 (864.0 B)\r\n\r\nlo        Link encap:Local Loopback  \r\n          inet addr:127.0.0.1  Mask:255.0.0.0\r\n          inet6 addr: ::1/128 Scope:Host\r\n          UP LOOPBACK RUNNING  MTU:65536  Metric:1\r\n          RX packets:3 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:3 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:0 \r\n          RX bytes:336 (336.0 B)  TX bytes:336 (336.0 B)\r\n\r\nroot@f0262fe1c45a:/# "
+    ],
+    [
+      3.148297,
+      "p"
+    ],
+    [
+      0.174936,
+      "i"
+    ],
+    [
+      0.312780,
+      "n"
+    ],
+    [
+      0.137437,
+      "g"
+    ],
+    [
+      0.137643,
+      " "
+    ],
+    [
+      2.713102,
+      "10.44.1.3"
+    ],
+    [
+      0.762487,
+      "\r\nPING 10.44.1.3 (10.44.1.3) 56(84) bytes of data.\r\n64 bytes from 10.44.1.3: icmp_seq=1 ttl=64 time=0.028 ms\r\n"
+    ],
+    [
+      1.000402,
+      "64 bytes from 10.44.1.3: icmp_seq=2 ttl=64 time=0.052 ms\r\n"
+    ],
+    [
+      0.844883,
+      "^C\r\n--- 10.44.1.3 ping statistics ---\r\n2 packets transmitted, 2 received, 0% packet loss, time 999ms\r\nrtt min/avg/max/mdev = 0.028/0.040/0.052/0.012 ms\r\nroot@f0262fe1c45a:/# "
+    ],
+    [
+      0.329090,
+      "ping 10.44.1.3"
+    ],
+    [
+      0.374991,
+      "\u0008 \u0008"
+    ],
+    [
+      0.225094,
+      "1"
+    ],
+    [
+      0.513441,
+      "\r\nPING 10.44.1.1 (10.44.1.1) 56(84) bytes of data.\r\n"
+    ],
+    [
+      2.199304,
+      "^C\r\n--- 10.44.1.1 ping statistics ---\r\n3 packets transmitted, 0 received, 100% packet loss, time 1999ms\r\n\r\nroot@f0262fe1c45a:/# "
+    ],
+    [
+      0.386979,
+      "ping 10.44.1.1"
+    ],
+    [
+      0.375274,
+      "\u0008 \u0008"
+    ],
+    [
+      0.187607,
+      "2"
+    ],
+    [
+      0.313074,
+      "\r\nPING 10.44.1.2 (10.44.1.2) 56(84) bytes of data."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      2.524399,
+      "^C\r\n--- 10.44.1.2 ping statistics ---\r\n3 packets transmitted, 0 received, 100% packet loss, time 2000ms\r\n\r\nroot@f0262fe1c45a:/# "
+    ],
+    [
+      0.599572,
+      "e"
+    ],
+    [
+      0.112710,
+      "x"
+    ],
+    [
+      0.150038,
+      "i"
+    ],
+    [
+      0.150210,
+      "t"
+    ],
+    [
+      1.162652,
+      "\r\nexit"
+    ],
+    [
+      0.001740,
+      "\r\n"
+    ],
+    [
+      0.001203,
+      "\u001b]0;core@deis-01:~\u0007\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.458821,
+      "o"
+    ],
+    [
+      0.187470,
+      "v"
+    ],
+    [
+      0.249948,
+      "s"
+    ],
+    [
+      0.300004,
+      "-"
+    ],
+    [
+      0.250128,
+      "v"
+    ],
+    [
+      0.324798,
+      "s"
+    ],
+    [
+      0.237538,
+      "c"
+    ],
+    [
+      0.249987,
+      "t"
+    ],
+    [
+      0.550066,
+      "l"
+    ],
+    [
+      0.199992,
+      " "
+    ],
+    [
+      0.187392,
+      "s"
+    ],
+    [
+      0.212846,
+      "h"
+    ],
+    [
+      0.362265,
+      "o"
+    ],
+    [
+      0.225162,
+      "w"
+    ],
+    [
+      0.376055,
+      "\r\n"
+    ],
+    [
+      0.024461,
+      "9f544e89-e85f-4fe6-82c8-1584fa022729\r\n    Manager \"pssl:6640\"\r\n    Bridge br-int\r\n        Port patch-tun\r\n            Interface patch-tun\r\n"
+    ],
+    [
+      0.000317,
+      "                type: patch\r\n                options: {peer=patch-int}\r\n        Port \"tap6505\"\r\n            tag: 2\r\n            Interface \"tap6505\"\r\n        Port br-int\r\n            Interface br-int\r\n                type: internal\r\n        Port \"tap2358\"\r\n            tag: 1"
+    ],
+    [
+      0.000796,
+      "\r\n            Interface \"tap2358\"\r\n        Port \"tap2336\""
+    ],
+    [
+      0.000007,
+      "\r\n            tag: 1\r\n            Interface \"tap2336\""
+    ],
+    [
+      0.000004,
+      "\r\n    Bridge br-tun"
+    ],
+    [
+      0.000092,
+      "\r\n        Port patch-int"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "            Interface patch-int\r\n"
+    ],
+    [
+      0.000018,
+      "                type: patch\r\n                options: {peer=patch-tun}"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "        Port \"vxlanac110866\""
+    ],
+    [
+      0.000121,
+      "\r\n            Interface \"vxlanac110866\"\r\n                type: vxlan\r\n                options: {in_key=flow, out_key=flow, remote_ip=\"172.17.8.102\"}\r\n        Port br-tun"
+    ],
+    [
+      0.000693,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "            Interface br-tun\r\n                type: internal\r\n"
+    ],
+    [
+      0.000030,
+      "        Port \"vxlanac110865\"\r\n            Interface \"vxlanac110865\"\r\n                type: vxlan"
+    ],
+    [
+      0.000014,
+      "\r\n                options: {in_key=flow, out_key=flow, remote_ip=\"172.17.8.101\"}\r\n    ovs_version: \"2.3.1\""
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.002598,
+      "\u001b]0;core@deis-01:~\u0007\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      2.432091,
+      "i"
+    ],
+    [
+      0.174989,
+      "f"
+    ],
+    [
+      0.100032,
+      "c"
+    ],
+    [
+      0.174964,
+      "o"
+    ],
+    [
+      0.262488,
+      "n"
+    ],
+    [
+      0.424935,
+      "t"
+    ],
+    [
+      0.812409,
+      "\u0008 \u0008"
+    ],
+    [
+      0.212595,
+      "f"
+    ],
+    [
+      0.750405,
+      "i"
+    ],
+    [
+      0.187095,
+      "g"
+    ],
+    [
+      0.137918,
+      " "
+    ],
+    [
+      0.838240,
+      "|"
+    ],
+    [
+      0.586559,
+      "l"
+    ],
+    [
+      0.212255,
+      "e"
+    ],
+    [
+      0.087761,
+      "s"
+    ],
+    [
+      0.162792,
+      "s"
+    ],
+    [
+      0.187723,
+      "\r\n"
+    ],
+    [
+      0.009401,
+      "\u001b[?1049h\u001b[?1h\u001b=\rbr-int: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m\r\n        inet6 fe80::503d:9cff:fecb:d248  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n        ether 52:3d:9c:cb:d2:48  txqueuelen 0  (Ethernet)\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "        RX packets 41  bytes 2570 (2.5 KiB)\u001b[m\r\n        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m"
+    ],
+    [
+      0.001954,
+      "\r\n        TX packets 54  bytes 14188 (13.8 KiB)\u001b[m\r\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[m\r\nbr-tun: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m\r\n        inet6 fe80::c4e3:f9ff:feda:b040  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n        ether c6:e3:f9:da:b0:40  txqueuelen 0  (Ethernet)\u001b[m\r\n        RX packets 0  bytes 0 (0.0 B)\u001b[m\r\n        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n        TX packets 54  bytes 14188 (13.8 KiB)\u001b[m\r\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[m\r\ndocker0: flags=4099\u003cUP,BROADCAST,MULTICAST\u003e  mtu 1500\u001b[m\r\n        inet 10.1.42.1  netmask 255.255.0.0  broadcast 0.0.0.0\u001b[m\r\n        inet6 fe80::5484:7aff:fefe:9799  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n        ether 56:84:7a:fe:97:99  txqueuelen 0  (Ethernet)\u001b[m\r\n        RX packets 1  bytes 76 (76.0 B)\u001b[m\r\n        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n        TX packets 6  bytes 420 (420.0 B)\u001b[m\r\n        TX errors 0  dropped 0 overruns 0  carrier 0  co"
+    ],
+    [
+      0.000034,
+      "llisions 0\u001b[m\r\n\u001b[m\r\neth0: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m\r\n        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255\u001b[m\r\n        inet6 fe80::a00:27ff:fe5f:749e  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n        ether 08:00:27:5f:74:9e  txqueuelen 1000  (Ethernet)\u001b[m\r\n        RX packets 206486  bytes 181779884 (173.3 MiB)\u001b[m\r\n        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n        TX packets 69240  bytes 3986889 (3.8 MiB)\u001b[m\r\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[m\r\neth1: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m\r\n        inet 172.17.8.100  netmask 255.255.255.0  broadcast 172.17.8.255\u001b[m\r\n        inet6 fe80::a00:27ff:fec6:9ec0  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n        ether 08:00:27:c6:9e:c0  txqueuelen 1000  (Ethernet)\u001b[m\r\n        RX packets 32735  bytes 4841141 (4.6 MiB)\u001b[m\r\n        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n        TX packets 42586  bytes 8231883 (7.8 MiB)\u001b[m\r\n        TX errors 0  dropped 0 overr"
+    ],
+    [
+      0.000004,
+      "uns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[m\r\nlo: flags=73\u003cUP,LOOPBACK,RUNNING\u003e  mtu 65536\u001b[m"
+    ],
+    [
+      0.000024,
+      "\r\n        inet 127.0.0.1  netmask 255.0.0.0\u001b[m\r\n\u001b[7mlines 1-45\u001b[27m\u001b[K"
+    ],
+    [
+      1.862968,
+      "\r\u001b[K        inet6 ::1  prefixlen 128  scopeid 0x10\u003chost\u003e\u001b[m"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[7mlines 2-46\u001b[27m\u001b[K"
+    ],
+    [
+      0.500417,
+      "\r\u001b[K        loop  txqueuelen 0  (Local Loopback)\u001b[m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[7mlines 3-47\u001b[27m\u001b[K"
+    ],
+    [
+      0.083720,
+      "\r\u001b[K        RX packets 30553  bytes 6943779 (6.6 MiB)\u001b[m\r\n\u001b[7mlines 4-48\u001b[27m\u001b[K"
+    ],
+    [
+      0.083310,
+      "\r\u001b[K"
+    ],
+    [
+      0.000022,
+      "        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n\u001b[7mlines 5-49\u001b[27m\u001b[K"
+    ],
+    [
+      0.084165,
+      "\r\u001b[K        TX packets 30553  bytes 6943779 (6.6 MiB)\u001b[m\r\n\u001b[7mlines 6-50\u001b[27m\u001b[K"
+    ],
+    [
+      0.083109,
+      "\r\u001b[K        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[7mlines 7-51\u001b[27m\u001b[K"
+    ],
+    [
+      0.083698,
+      "\r\u001b[K\u001b[m\r\n\u001b[7mlines 8-52\u001b[27m\u001b[K"
+    ],
+    [
+      0.083263,
+      "\r\u001b[Kovs-system: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m"
+    ],
+    [
+      0.000042,
+      "\r\n\u001b[7mlines 9-53\u001b[27m\u001b[K"
+    ],
+    [
+      0.084093,
+      "\r\u001b[K"
+    ],
+    [
+      0.000026,
+      "        inet6 fe80::9849:c1ff:fe95:99e0  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n\u001b[7mlines 10-54\u001b[27m\u001b[K"
+    ],
+    [
+      0.083698,
+      "\r\u001b[K"
+    ],
+    [
+      0.000022,
+      "        ether 9a:49:c1:95:99:e0  txqueuelen 0  (Ethernet)\u001b[m\r\n\u001b[7mlines 11-55\u001b[27m\u001b[K"
+    ],
+    [
+      0.083527,
+      "\r\u001b[K"
+    ],
+    [
+      0.000270,
+      "        RX packets 0  bytes 0 (0.0 B)\u001b[m\r\n\u001b[7mlines 12-56\u001b[27m\u001b[K"
+    ],
+    [
+      0.082636,
+      "\r\u001b[K        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n\u001b[7mlines 13-57\u001b[27m\u001b[K"
+    ],
+    [
+      0.083767,
+      "\r\u001b[K        TX packets 54  bytes 14188 (13.8 KiB)\u001b[m\r\n\u001b[7mlines 14-58\u001b[27m\u001b[K"
+    ],
+    [
+      0.083416,
+      "\r\u001b[K        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[7mlines 15-59\u001b[27m\u001b[K"
+    ],
+    [
+      0.083286,
+      "\r\u001b[K\u001b[m\r\n\u001b[7mlines 16-60\u001b[27m\u001b[K"
+    ],
+    [
+      0.083771,
+      "\r\u001b[Ktap2336: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m\r\n\u001b[7mlines 17-61\u001b[27m\u001b[K"
+    ],
+    [
+      0.083433,
+      "\r\u001b[K        inet6 fe80::65:32ff:fea3:a10  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n\u001b[7mlines 18-62\u001b[27m\u001b[K"
+    ],
+    [
+      0.085293,
+      "\r\u001b[K        ether 02:65:32:a3:0a:10  txqueuelen 1000  (Ethernet)\u001b[m\r\n\u001b[7mlines 19-63\u001b[27m\u001b[K"
+    ],
+    [
+      0.081772,
+      "\r\u001b[K        RX packets 36  bytes 3048 (2.9 KiB)\u001b[m\r\n\u001b[7mlines 20-64\u001b[27m\u001b[K"
+    ],
+    [
+      0.083657,
+      "\r\u001b[K        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n\u001b[7mlines 21-65\u001b[27m\u001b[K"
+    ],
+    [
+      0.084346,
+      "\r\u001b[K        TX packets 50  bytes 4103 (4.0 KiB)\u001b[m\r\n\u001b[7mlines 22-66\u001b[27m\u001b[K"
+    ],
+    [
+      0.083727,
+      "\r\u001b[K        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[7mlines 23-67\u001b[27m\u001b[K"
+    ],
+    [
+      0.084244,
+      "\r\u001b[K\u001b[m\r\n\u001b[7mlines 24-68\u001b[27m\u001b[K"
+    ],
+    [
+      0.084150,
+      "\r\u001b[Ktap2358: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m\r\n\u001b[7mlines 25-69\u001b[27m\u001b[K"
+    ],
+    [
+      0.083298,
+      "\r\u001b[K        inet6 fe80::9c79:49ff:fe59:59d6  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n\u001b[7mlines 26-70\u001b[27m\u001b[K"
+    ],
+    [
+      0.083276,
+      "\r\u001b[K        ether 9e:79:49:59:59:d6  txqueuelen 1000  (Ethernet)\u001b[m\r\n\u001b[7mlines 27-71\u001b[27m\u001b[K"
+    ],
+    [
+      0.083206,
+      "\r\u001b[K        RX packets 39  bytes 3174 (3.0 KiB)\u001b[m\r\n\u001b[7mlines 28-72\u001b[27m\u001b[K"
+    ],
+    [
+      0.082984,
+      "\r\u001b[K        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n\u001b[7mlines 29-73\u001b[27m\u001b[K"
+    ],
+    [
+      0.083683,
+      "\r\u001b[K        TX packets 41  bytes 3489 (3.4 KiB)\u001b[m\r\n\u001b[7mlines 30-74\u001b[27m\u001b[K"
+    ],
+    [
+      0.083460,
+      "\r\u001b[K        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[7mlines 31-75\u001b[27m\u001b[K"
+    ],
+    [
+      0.083414,
+      "\r\u001b[K\u001b[m\r\n\u001b[7mlines 32-76\u001b[27m\u001b[K"
+    ],
+    [
+      0.083066,
+      "\r\u001b[Ktap6505: flags=4163\u003cUP,BROADCAST,RUNNING,MULTICAST\u003e  mtu 1500\u001b[m\r\n\u001b[7mlines 33-77\u001b[27m\u001b[K"
+    ],
+    [
+      0.084434,
+      "\r\u001b[K        inet6 fe80::34e5:67ff:fe60:9e56  prefixlen 64  scopeid 0x20\u003clink\u003e\u001b[m\r\n\u001b[7mlines 34-78\u001b[27m\u001b[K"
+    ],
+    [
+      0.084114,
+      "\r\u001b[K        ether 36:e5:67:60:9e:56  txqueuelen 1000  (Ethernet)\u001b[m\r\n\u001b[7mlines 35-79\u001b[27m\u001b[K"
+    ],
+    [
+      0.082816,
+      "\r\u001b[K        RX packets 18  bytes 1116 (1.0 KiB)\u001b[m\r\n\u001b[7mlines 36-80\u001b[27m\u001b[K"
+    ],
+    [
+      0.084080,
+      "\r\u001b[K        RX errors 0  dropped 0  overruns 0  frame 0\u001b[m\r\n\u001b[7mlines 37-81\u001b[27m\u001b[K"
+    ],
+    [
+      0.083113,
+      "\r\u001b[K        TX packets 13  bytes 1109 (1.0 KiB)\u001b[m\r\n\u001b[7mlines 38-82\u001b[27m\u001b[K"
+    ],
+    [
+      0.083757,
+      "\r\u001b[K        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\u001b[m\r\n\u001b[7mlines 39-83\u001b[27m\u001b[K"
+    ],
+    [
+      0.083411,
+      "\r\u001b[K\u001b[m\r\n\u001b[7mlines 40-84\u001b[27m\u001b[K"
+    ],
+    [
+      0.083725,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 40-84/84 (END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.084049,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 40-84/84 (END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.083271,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 40-84/84 (END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.083574,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 40-84/84 (END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.083365,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 40-84/84 (END)\u001b[27m\u001b[K"
+    ],
+    [
+      2.739232,
+      "\r\u001b[K \u001b[K:\u0008:"
+    ],
+    [
+      0.262551,
+      "\u001b[Kq\u0008q\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b]0;core@deis-01:~\u0007\u001b[01;32mcore@deis-01\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.174820,
+      "e"
+    ],
+    [
+      0.099802,
+      "x"
+    ],
+    [
+      0.125004,
+      "i"
+    ],
+    [
+      0.125402,
+      "t"
+    ],
+    [
+      0.262941,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.000617,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000111,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.000720,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000058,
+      "\u001b]7;file://FailBowl/Users/pkircher/projects/deis_privat\u0007"
+    ],
+    [
+      0.058698,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mdr-who\u001b[39m@\u001b[38;5;166mFailBowl\u001b[39m \u001b[38;5;118m~/projects/deis_privat\u001b[39m (\u001b[38;5;81mpreseed-fix\u001b[39m\u001b[38;5;161m●\u001b[39m\u001b[38;5;135m●\u001b[39m)$ \u001b[K\u001b[188C\u001b[34m\u001b[39m\u001b[188D"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000328,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mdr-who\u001b[39m@\u001b[38;5;166mFailBowl\u001b[39m \u001b[38;5;118m~/projects/deis_privat\u001b[39m (\u001b[38;5;81mpreseed-fix\u001b[39m\u001b[38;5;161m●\u001b[39m\u001b[38;5;135m●\u001b[39m)$ \u001b[K\u001b[188C\u001b[34m\u001b[39m\u001b[188D"
+    ],
+    [
+      0.553034,
+      "\u001b[32me\u001b[39m"
+    ],
+    [
+      0.186735,
+      "\u0008\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.125274,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.124999,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.348306,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000273,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mdr-who\u001b[39m@\u001b[38;5;166mFailBowl\u001b[39m \u001b[38;5;118m~/projects/deis_privat\u001b[39m (\u001b[38;5;81mpreseed-fix\u001b[39m\u001b[38;5;161m●\u001b[39m\u001b[38;5;135m●\u001b[39m)$ "
+    ],
+    [
+      0.000005,
+      "\u001b[32mexit\u001b[39m\u001b[K\u001b[184C\u001b[34m\u001b[39m\u001b[184D"
+    ],
+    [
+      0.000046,
+      "\r\r\n"
+    ]
+  ]
+}
