@@ -1,0 +1,3794 @@
+{
+  "version": 1,
+  "width": 115,
+  "height": 29,
+  "duration": 435.804494,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.102678,
+      "\u001b]0;\u0007\u001b[?1034h\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.051017,
+      "s"
+    ],
+    [
+      0.164987,
+      "s"
+    ],
+    [
+      0.083973,
+      "h"
+    ],
+    [
+      0.367097,
+      " "
+    ],
+    [
+      0.362915,
+      "r"
+    ],
+    [
+      0.092524,
+      "o"
+    ],
+    [
+      0.172561,
+      "o"
+    ],
+    [
+      0.095980,
+      "t"
+    ],
+    [
+      3.008030,
+      "@"
+    ],
+    [
+      0.842000,
+      "x"
+    ],
+    [
+      0.236931,
+      "e"
+    ],
+    [
+      0.141068,
+      "n"
+    ],
+    [
+      0.501987,
+      "d"
+    ],
+    [
+      0.084975,
+      "o"
+    ],
+    [
+      0.531994,
+      "m"
+    ],
+    [
+      1.109028,
+      "0"
+    ],
+    [
+      0.340925,
+      "\r\n"
+    ],
+    [
+      0.180164,
+      "Last login: Sun Apr  5 22:09:27 2015 from 192.168.2.106\r\r\n\r\nXenServer dom0 configuration is tuned for maximum performance and reliability.\r\n\r\nConfiguration changes which are not explicitly documented or approved by Citrix\r\nTechnical Support, may not have been tested and are therefore not supported. In\r\naddition, configuration changes may not persist after installation of a hotfix\r\nor upgrade, and could also cause a hotfix or upgrade to fail.\r\n\r\nThird party tools, which require modification to dom0 configuration, or\r\ninstallation into dom0, may cease to function correctly after upgrade or hotfix\r\ninstallation. Please consult Citrix Technical Support for advice regarding\r\nspecific tools.\r\n\r\nType \"xsconsole\" for access to the management console.\r\n"
+    ],
+    [
+      0.166006,
+      "\u001b]0;root@decadent:~\u0007"
+    ],
+    [
+      0.003410,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      5.230501,
+      "p"
+    ],
+    [
+      0.070032,
+      "w"
+    ],
+    [
+      0.082989,
+      "d"
+    ],
+    [
+      0.239901,
+      "\r\n/root\r\n\u001b]0;root@decadent:~\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.736101,
+      "d"
+    ],
+    [
+      0.220990,
+      "f"
+    ],
+    [
+      0.487012,
+      " "
+    ],
+    [
+      0.101996,
+      "-"
+    ],
+    [
+      0.091998,
+      "h"
+    ],
+    [
+      0.207006,
+      "\r\n"
+    ],
+    [
+      0.002001,
+      "Filesystem            Size  Used Avail Use% Mounted on\r\n/dev/sdb1             4.0G  3.6G  152M  97% /\r\nnone                  299M   52K  299M   1% /dev/shm\r\n"
+    ],
+    [
+      0.001013,
+      "\u001b]0;root@decadent:~\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      6.243979,
+      "m"
+    ],
+    [
+      0.102008,
+      "o"
+    ],
+    [
+      0.043994,
+      "u"
+    ],
+    [
+      0.087003,
+      "n"
+    ],
+    [
+      0.096053,
+      "t"
+    ],
+    [
+      0.237001,
+      "\r\n"
+    ],
+    [
+      0.003007,
+      "/dev/sdb1 on / type ext3 (rw)\r\nnone on /proc type proc (rw)\r\nnone on /sys type sysfs (rw)\r\nnone on /dev/pts type devpts (rw)\r\nnone on /dev/shm type tmpfs (rw)\r\nnone on /sys/fs/cgroup type cgroup (rw,memory)\r\nsunrpc on /var/lib/nfs/rpc_pipefs type rpc_pipefs (rw)\r\n\u001b]0;root@decadent:~\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      3.499891,
+      "c"
+    ],
+    [
+      0.097019,
+      "d"
+    ],
+    [
+      0.027898,
+      " "
+    ],
+    [
+      0.116109,
+      "/"
+    ],
+    [
+      0.281023,
+      "\r\n\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.140981,
+      "c"
+    ],
+    [
+      0.094011,
+      "d"
+    ],
+    [
+      0.046019,
+      " "
+    ],
+    [
+      0.080991,
+      "/"
+    ],
+    [
+      0.418054,
+      "v"
+    ],
+    [
+      0.090949,
+      "a"
+    ],
+    [
+      0.130996,
+      "r"
+    ],
+    [
+      0.146997,
+      "/"
+    ],
+    [
+      0.243998,
+      "l"
+    ],
+    [
+      0.062999,
+      "o"
+    ],
+    [
+      0.070001,
+      "g"
+    ],
+    [
+      0.250038,
+      "\r\n\u001b]0;root@decadent:/var/log\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/log\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.375946,
+      "l"
+    ],
+    [
+      0.212014,
+      "s"
+    ],
+    [
+      0.087987,
+      " "
+    ],
+    [
+      0.086018,
+      "-"
+    ],
+    [
+      0.226958,
+      "l"
+    ],
+    [
+      0.134044,
+      "h"
+    ],
+    [
+      0.410996,
+      "S"
+    ],
+    [
+      0.238999,
+      " "
+    ],
+    [
+      0.187939,
+      "|"
+    ],
+    [
+      0.199023,
+      " "
+    ],
+    [
+      0.098992,
+      "l"
+    ],
+    [
+      0.122048,
+      "e"
+    ],
+    [
+      0.106041,
+      "s"
+    ],
+    [
+      0.140916,
+      "s"
+    ],
+    [
+      0.210082,
+      "\r\n"
+    ],
+    [
+      0.004014,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.002091,
+      "total 9.5M\r\n-rw------- 1 root root 3.4M Apr  5 22:10 cron\r\n-rw------- 1 root root 1.9M Apr  5 22:08 xcp-rrdd-plugins.log\r\n-rw------- 1 root root 1.3M Apr  5 22:08 daemon.log\r\n-rw------- 1 root root 1.2M Apr  5 21:39 SMlog\r\n-rw------- 1 root root 819K Apr  5 21:39 kern.log\r\n-rw-rw-r-- 1 root utmp 388K Apr  5 22:09 wtmp\r\n-rw------- 1 root root 352K Apr  5 21:39 user.log\r\n-rw-r--r-- 1 root root 143K Apr  5 22:09 lastlog\r\n-rw------- 1 root root 117K Apr  5 22:09 messages"
+    ],
+    [
+      0.000136,
+      "\r\n-rw------- 1 root root  42K Apr  5 22:10 xensource.log\r\n-rw-r--r-- 1 root root  40K Apr  5 19:18 dmesg\r\n-rw-r--r-- 1 root root  13K Apr  5 04:02 rpmpkgs\r\n-rw------- 1 root root  13K Apr  5 22:09 secure\r\n-rw------- 1 root root  12K Apr  4 17:08 crit.log\r\n-rw-r--r-- 1 root root 9.2K Apr  5 19:18 ovs-ctl.log\r\n"
+    ],
+    [
+      0.000751,
+      "-rw-r--r-- 1 root root 8.2K Apr  5 19:18 xen-dmesg\r\n-rw-r--r-- 1 root root 4.5K Apr  5 19:18 interface-rename.log\r\n-rw------- 1 root   43 4.2K Apr  5 22:07 btmp\r\ndrwxr-xr-x 2 root root 4.0K Apr  5 21:39 blktap\r\ndrwxr-xr-x 2 root root 4.0K Feb  8 02:35 installer\r\ndrwxr-xr-x 2 root root 4.0K Dec 10 02:22 openvswitch\r\ndrwxr-xr-x 2 root root 4.0K Dec 12 21:59 pm\r\ndrwxr-xr-x 2 root root 4.0K Apr  5 00:00 sa\r\ndrwx------ 3 root root 4.0K Dec 12 22:00 samba\r\ndrwxr-xr-x 2 root root 4.0K Feb  8 02:36 xen\r\n"
+    ],
+    [
+      0.000946,
+      "-rw-r--r-- 1 root root 3.1K Apr  5 19:18 ovs-xapi-sync.log"
+    ],
+    [
+      0.000976,
+      "\r\n-rw------- 1 root root  851 Apr  5 19:18 boot.log\r\n:\u001b[K"
+    ],
+    [
+      2.995007,
+      "\r\u001b[K-rw-r--r-- 1 root root  452 Apr  5 19:18 xenstored.log\r\n:\u001b[K"
+    ],
+    [
+      0.390031,
+      "\r\u001b[K-rw------- 1 root root    0 Apr  4 20:25 faillog\r\n:\u001b[K"
+    ],
+    [
+      0.331010,
+      "\r\u001b[K-rw------- 1 root root    0 Dec 12 21:59 maillog\r\n:\u001b[K"
+    ],
+    [
+      0.183006,
+      "\r\u001b[K-rw-r--r-- 1 root root    0 Feb  8 02:36 mcelog\r\n:\u001b[K"
+    ],
+    [
+      0.163942,
+      "\r\u001b[K-rw-r--r-- 1 root root    0 Feb  8 02:36 ovsdb-server.log\r\n:\u001b[K"
+    ],
+    [
+      0.148018,
+      "\r\u001b[K-rw-r--r-- 1 root root    0 Feb  8 02:36 ovs-vswitchd.log\r\n:\u001b[K"
+    ],
+    [
+      0.150030,
+      "\r\u001b[K-rw------- 1 root root    0 Dec 12 21:59 spooler\r\n:\u001b[K"
+    ],
+    [
+      0.164967,
+      "\r\u001b[K-rw------- 1 root root    0 Dec 12 21:59 tallylog\r\n:\u001b[K"
+    ],
+    [
+      0.166044,
+      "\r\u001b[K-rw------- 1 root root    0 Feb  8 02:36 v6d.log\r\n:\u001b[K"
+    ],
+    [
+      0.499993,
+      "\r\u001b[K-rw------- 1 root root    0 Feb  8 02:36 VMPRlog\r\n:\u001b[K"
+    ],
+    [
+      0.028738,
+      "\r\u001b[K-rw-r--r-- 1 root root    0 Feb  8 22:38 yum.log\r\n:\u001b[K"
+    ],
+    [
+      0.027214,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.029955,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027041,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.031101,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027954,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.025995,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.607000,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root  42K Apr  5 22:10 xensource.log\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.293001,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root 117K Apr  5 22:09 messages\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.201067,
+      "\r\u001b[K\u001b[H\u001bM-rw-r--r-- 1 root root 143K Apr  5 22:09 lastlog\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.172941,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root 352K Apr  5 21:39 user.log\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.147993,
+      "\r\u001b[K\u001b[H\u001bM-rw-rw-r-- 1 root utmp 388K Apr  5 22:09 wtmp\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.498952,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root 819K Apr  5 21:39 kern.log\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029024,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root 1.2M Apr  5 21:39 SMlog\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030315,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root 1.3M Apr  5 22:08 daemon.log\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.026660,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root 1.9M Apr  5 22:08 xcp-rrdd-plugins.log\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029082,
+      "\r\u001b[K\u001b[H\u001bM-rw------- 1 root root 3.4M Apr  5 22:10 cron\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.027972,
+      "\r\u001b[K\u001b[H\u001bMtotal 9.5M\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.027941,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.171051,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.002102,
+      "\u001b]0;root@decadent:/var/log\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/log\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.801898,
+      "c"
+    ],
+    [
+      0.082989,
+      "d"
+    ],
+    [
+      0.043009,
+      " "
+    ],
+    [
+      0.061998,
+      "/"
+    ],
+    [
+      0.315932,
+      "\r\n\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.642069,
+      "d"
+    ],
+    [
+      0.053895,
+      "u"
+    ],
+    [
+      1.962165,
+      " "
+    ],
+    [
+      0.482003,
+      "-"
+    ],
+    [
+      0.240006,
+      "s"
+    ],
+    [
+      0.098934,
+      "h"
+    ],
+    [
+      1.386001,
+      " "
+    ],
+    [
+      0.273967,
+      "*"
+    ],
+    [
+      0.583027,
+      " "
+    ],
+    [
+      0.153998,
+      "|"
+    ],
+    [
+      0.252016,
+      " "
+    ],
+    [
+      0.586986,
+      "l"
+    ],
+    [
+      0.154004,
+      "e"
+    ],
+    [
+      0.108053,
+      "s"
+    ],
+    [
+      0.153946,
+      "s"
+    ],
+    [
+      0.272023,
+      "\r\n"
+    ],
+    [
+      0.003029,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.001154,
+      "5.7M    bin\r\n"
+    ],
+    [
+      0.003828,
+      "22M     boot\r\n"
+    ],
+    [
+      0.001959,
+      "2.1M    cli-rt\r\n"
+    ],
+    [
+      0.001131,
+      "160K    dev\r\n"
+    ],
+    [
+      0.016896,
+      "6.6M    etc\r\n28K     EULA\r\n"
+    ],
+    [
+      0.001937,
+      "32K     home\r\n"
+    ],
+    [
+      0.057966,
+      "118M    lib\r\n"
+    ],
+    [
+      0.003040,
+      "20M     lib64\r\n16K     lost+found\r\n4.0K    media\r\n2.0G    mnt\r\n"
+    ],
+    [
+      0.039010,
+      "219M    opt\r\n"
+    ],
+    [
+      0.205051,
+      "0       proc\r\n12K     Read_Me_First.html\r\n56K     root"
+    ],
+    [
+      0.001233,
+      "\r\n"
+    ],
+    [
+      0.000734,
+      "24M     sbin\r\n4.0K    selinux\r\n"
+    ],
+    [
+      0.001039,
+      "4.0K    srv\r\n"
+    ],
+    [
+      0.163959,
+      "0       sys\r\n"
+    ],
+    [
+      0.001230,
+      "1.6M    tftpboot\r\n"
+    ],
+    [
+      0.000917,
+      "20K     tmp\r\n"
+    ],
+    [
+      0.621860,
+      "542M    usr\r\n"
+    ],
+    [
+      0.029039,
+      "606M    var\r\n\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      12.135071,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001471,
+      "\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.257421,
+      "c"
+    ],
+    [
+      0.086002,
+      "d"
+    ],
+    [
+      0.062999,
+      " "
+    ],
+    [
+      0.077000,
+      "/"
+    ],
+    [
+      0.261009,
+      "v"
+    ],
+    [
+      0.098001,
+      "a"
+    ],
+    [
+      0.159990,
+      "r"
+    ],
+    [
+      0.294077,
+      "\r\n\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.276939,
+      "l"
+    ],
+    [
+      0.252974,
+      "s"
+    ],
+    [
+      0.055012,
+      " "
+    ],
+    [
+      0.140954,
+      "-"
+    ],
+    [
+      0.188046,
+      "l"
+    ],
+    [
+      0.486999,
+      "\r\n"
+    ],
+    [
+      0.003012,
+      "\u001b[00mtotal 76\r\ndrwxr-xr-x  4 root root 4096 Dec 12 22:00 \u001b[00;34mcache\u001b[00m\r\ndrwxr-xr-x  2 root root 4096 Feb  8 02:36 \u001b[00;34mcrash\u001b[00m\r\n"
+    ],
+    [
+      0.000944,
+      "drwxr-xr-x  2 root root 4096 May 11  2011 \u001b[00;34mdb\u001b[00m\r\ndrwxr-xr-x  3 root root 4096 Dec 12 21:59 \u001b[00;34mempty\u001b[00m\r\ndrwxr-xr-x  2 root root 4096 May 11  2011 \u001b[00;34mgames\u001b[00m\r\ndrwxr-xr-x 21 root root 4096 Feb  8 02:36 \u001b[00;34mlib\u001b[00m\r\ndrwxr-xr-x  2 root root 4096 May 11  2011 \u001b[00;34mlocal\u001b[00m\r\ndrwxrwxr-x  8 root lock 4096 Apr  5 19:18 \u001b[00;34mlock\u001b[00m\r\ndrwxr-xr-x  9 root root 4096 Apr  5 19:35 \u001b[00;34mlog\u001b[00m\r\n"
+    ],
+    [
+      0.000972,
+      "lrwxrwxrwx  1 root root   10 Feb  8 02:32 \u001b[00;36mmail\u001b[00m -\u003e \u001b[00;34mspool/mail\u001b[00m\r\ndrwxr-xr-x  2 root root 4096 May 11  2011 \u001b[00;34mnis\u001b[00m\r\ndrwxr-xr-x  4 root root 4096 Feb  8 02:50 \u001b[00;34mopt\u001b[00m\r\ndrwxr-xr-x  2 root root 4096 May 11  2011 \u001b[00;34mpreserve\u001b[00m\r\ndrwxr-xr-x 18 root root 4096 Apr  5 21:39 \u001b[00;34mrun\u001b[00m\r\n"
+    ],
+    [
+      0.000973,
+      "drwxr-xr-x  7 root root 4096 Dec 12 22:05 \u001b[00;34mspool\u001b[00m\r\ndrwxr-xr-x  2 root root 4096 Feb  8 02:35 \u001b[00;34mswap\u001b[00m\r\ndrwxrwxrwt  2 root root 4096 Apr  4 21:18 \u001b[30;42mtmp\u001b[00m\r\ndrwxr-xr-x  6 root root 4096 Apr  5 22:08 \u001b[00;34mxapi\u001b[00m\r\ndrwxr-xr-x  7 root root 4096 Dec 12 22:07 \u001b[00;34mxen\u001b[00m\r\ndrwxr-xr-x  2 root root 4096 May 11  2011 \u001b[00;34myp\u001b[00m\r\n\u001b[m"
+    ],
+    [
+      0.001289,
+      "\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.792772,
+      "d"
+    ],
+    [
+      0.099987,
+      "u"
+    ],
+    [
+      0.283052,
+      " "
+    ],
+    [
+      0.132003,
+      "-"
+    ],
+    [
+      0.195000,
+      "s"
+    ],
+    [
+      0.102721,
+      "h"
+    ],
+    [
+      0.086277,
+      " "
+    ],
+    [
+      0.457996,
+      "*"
+    ],
+    [
+      0.079013,
+      " "
+    ],
+    [
+      0.203984,
+      "|"
+    ],
+    [
+      0.191161,
+      " "
+    ],
+    [
+      0.115847,
+      "l"
+    ],
+    [
+      0.161944,
+      "e"
+    ],
+    [
+      0.098112,
+      "s"
+    ],
+    [
+      0.130938,
+      "s"
+    ],
+    [
+      0.234000,
+      "\r\n"
+    ],
+    [
+      0.001275,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000715,
+      "304K    cache\r\n65M     crash\r\n"
+    ],
+    [
+      0.000976,
+      "4.0K    db\r\n12K     empty\r\n"
+    ],
+    [
+      0.001224,
+      "4.0K    games\r\n13M     lib\r\n4.0K    local\r\n"
+    ],
+    [
+      0.000763,
+      "56K     lock\r\n13M     log\r\n0       mail\r\n4.0K    nis\r\n24K     opt\r\n4.0K    preserve\r\n"
+    ],
+    [
+      0.000928,
+      "284K    run\r\n"
+    ],
+    [
+      0.001152,
+      "28K     spool\r\n513M    swap\r\n4.0K    tmp\r\n"
+    ],
+    [
+      0.004978,
+      "3.6M    xapi\r\n40K     xen\r\n4.0K    yp\r\n\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      5.703058,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000938,
+      "\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.483991,
+      "c"
+    ],
+    [
+      0.078990,
+      "d"
+    ],
+    [
+      0.069968,
+      " "
+    ],
+    [
+      0.196051,
+      "c"
+    ],
+    [
+      0.125999,
+      "r"
+    ],
+    [
+      0.146966,
+      "a"
+    ],
+    [
+      0.081031,
+      "s"
+    ],
+    [
+      0.099957,
+      "h"
+    ],
+    [
+      0.200050,
+      "\r\n\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.236953,
+      "l"
+    ],
+    [
+      0.218998,
+      "s"
+    ],
+    [
+      0.095043,
+      " "
+    ],
+    [
+      0.077999,
+      "-"
+    ],
+    [
+      0.196003,
+      "l"
+    ],
+    [
+      0.240005,
+      "\r\n"
+    ],
+    [
+      0.005008,
+      "\u001b[00mtotal 0\r\n\u001b[m\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.066927,
+      "l"
+    ],
+    [
+      0.289629,
+      "s "
+    ],
+    [
+      0.103434,
+      "-"
+    ],
+    [
+      0.226060,
+      "a"
+    ],
+    [
+      0.059010,
+      "l"
+    ],
+    [
+      0.339929,
+      "\r\n"
+    ],
+    [
+      0.002995,
+      "\u001b[00mtotal 65612\r\n"
+    ],
+    [
+      0.001996,
+      "drwxr-xr-x  2 root root     4096 Feb  8 02:36 \u001b[00;34m.\u001b[00m\r\ndrwxr-xr-x 21 root root     4096 Feb  8 02:35 \u001b[00;34m..\u001b[00m\r\n"
+    ],
+    [
+      0.001951,
+      "-rw-r--r--  1 root root 67108864 Feb  8 02:36 \u001b[00m.sacrificial-space-for-logs\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      4.900061,
+      "l"
+    ],
+    [
+      0.267992,
+      "s"
+    ],
+    [
+      0.101901,
+      " "
+    ],
+    [
+      0.101057,
+      "-"
+    ],
+    [
+      0.362076,
+      "a"
+    ],
+    [
+      0.060978,
+      "l"
+    ],
+    [
+      0.096942,
+      "h"
+    ],
+    [
+      0.542044,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.148005,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135996,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.293877,
+      "l"
+    ],
+    [
+      0.100082,
+      "h"
+    ],
+    [
+      0.269046,
+      "\r\n"
+    ],
+    [
+      0.002991,
+      "\u001b[00mtotal 0\r\n\u001b[m"
+    ],
+    [
+      0.001183,
+      "\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.593818,
+      "l"
+    ],
+    [
+      0.325025,
+      "s"
+    ],
+    [
+      0.101945,
+      " "
+    ],
+    [
+      0.086041,
+      "-"
+    ],
+    [
+      0.116979,
+      "a"
+    ],
+    [
+      0.107032,
+      "l"
+    ],
+    [
+      0.233995,
+      "\r\n"
+    ],
+    [
+      0.003021,
+      "\u001b[00mtotal 65612\r\n"
+    ],
+    [
+      0.001359,
+      "drwxr-xr-x  2 root root     4096 Feb  8 02:36 \u001b[00;34m.\u001b[00m\r\ndrwxr-xr-x 21 root root     4096 Feb  8 02:35 \u001b[00;34m..\u001b[00m\r\n-rw-r--r--  1 root root 67108864 Feb  8 02:36 \u001b[00m.sacrificial-space-for-logs\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n"
+    ],
+    [
+      0.002667,
+      "\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      2.107904,
+      "r"
+    ],
+    [
+      0.069002,
+      "m"
+    ],
+    [
+      0.081990,
+      " "
+    ],
+    [
+      0.574003,
+      "."
+    ],
+    [
+      0.224056,
+      "s"
+    ],
+    [
+      0.058988,
+      "a"
+    ],
+    [
+      0.112056,
+      "c"
+    ],
+    [
+      0.153982,
+      "rificial-space-for-logs "
+    ],
+    [
+      1.780953,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.498937,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028080,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027941,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029032,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027981,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029003,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027990,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027036,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029048,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027920,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028993,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032013,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.024998,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027977,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027023,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031001,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.025983,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032052,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.024994,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028007,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027973,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027020,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040009,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.016954,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028961,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028087,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028065,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.027966,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.042026,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.015897,
+      "\u0007"
+    ],
+    [
+      0.026060,
+      "\u0007"
+    ],
+    [
+      0.027976,
+      "\u0007"
+    ],
+    [
+      0.027991,
+      "\u0007"
+    ],
+    [
+      0.028965,
+      "\u0007"
+    ],
+    [
+      0.273099,
+      "f"
+    ],
+    [
+      0.069915,
+      "i"
+    ],
+    [
+      0.093952,
+      "l"
+    ],
+    [
+      0.100033,
+      "e"
+    ],
+    [
+      0.089011,
+      " "
+    ],
+    [
+      0.490031,
+      "."
+    ],
+    [
+      0.214990,
+      "s"
+    ],
+    [
+      0.093043,
+      "a"
+    ],
+    [
+      0.092979,
+      "c"
+    ],
+    [
+      0.165003,
+      "rificial-space-for-logs "
+    ],
+    [
+      0.924989,
+      "\r\n"
+    ],
+    [
+      0.010132,
+      ".sacrificial-space-for-logs: data\r\n"
+    ],
+    [
+      0.002746,
+      "\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.992090,
+      "r"
+    ],
+    [
+      0.065100,
+      "m"
+    ],
+    [
+      0.093983,
+      " "
+    ],
+    [
+      0.557903,
+      "."
+    ],
+    [
+      0.231016,
+      "s"
+    ],
+    [
+      0.109997,
+      "a"
+    ],
+    [
+      0.148035,
+      "c"
+    ],
+    [
+      0.125015,
+      "rificial-space-for-logs "
+    ],
+    [
+      0.862970,
+      "\r\n"
+    ],
+    [
+      0.001147,
+      "rm: remove regular file `.sacrificial-space-for-logs'? "
+    ],
+    [
+      0.612873,
+      "y"
+    ],
+    [
+      0.201124,
+      "\r\n"
+    ],
+    [
+      0.009820,
+      "\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      2.355058,
+      "d"
+    ],
+    [
+      0.245047,
+      "f"
+    ],
+    [
+      0.308905,
+      " "
+    ],
+    [
+      0.134993,
+      "-"
+    ],
+    [
+      0.124044,
+      "h"
+    ],
+    [
+      0.231008,
+      "\r\n"
+    ],
+    [
+      0.002006,
+      "Filesystem            Size  Used Avail Use% Mounted on\r\n/dev/sdb1             4.0G  3.6G  216M  95% /\r\nnone                  299M   52K  299M   1% /dev/shm\r\n"
+    ],
+    [
+      0.001383,
+      "\u001b]0;root@decadent:/var/crash\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var/crash\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      6.751611,
+      "c"
+    ],
+    [
+      0.077971,
+      "d"
+    ],
+    [
+      0.105023,
+      " "
+    ],
+    [
+      0.780998,
+      "/"
+    ],
+    [
+      0.415968,
+      "\r\n\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.650040,
+      "c"
+    ],
+    [
+      0.061997,
+      "d"
+    ],
+    [
+      0.059008,
+      " "
+    ],
+    [
+      0.081991,
+      "/"
+    ],
+    [
+      0.266990,
+      "v"
+    ],
+    [
+      0.069972,
+      "a"
+    ],
+    [
+      0.147992,
+      "r"
+    ],
+    [
+      0.226046,
+      "\r\n\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.551001,
+      "d"
+    ],
+    [
+      0.089004,
+      "u"
+    ],
+    [
+      0.291954,
+      " "
+    ],
+    [
+      0.090020,
+      "-"
+    ],
+    [
+      0.268018,
+      "s"
+    ],
+    [
+      0.074010,
+      "h"
+    ],
+    [
+      0.619996,
+      " "
+    ],
+    [
+      0.274996,
+      "*"
+    ],
+    [
+      0.112993,
+      " "
+    ],
+    [
+      0.187011,
+      "|"
+    ],
+    [
+      0.215006,
+      " "
+    ],
+    [
+      0.167993,
+      "l"
+    ],
+    [
+      0.173003,
+      "e"
+    ],
+    [
+      0.064991,
+      "s"
+    ],
+    [
+      0.149002,
+      "s"
+    ],
+    [
+      0.336011,
+      "\r\n"
+    ],
+    [
+      0.002986,
+      "\u001b[?1049h\u001b[?1h\u001b=\r304K    cache\r\n4.0K    crash\r\n4.0K    db\r\n"
+    ],
+    [
+      0.001302,
+      "12K     empty\r\n4.0K    games\r\n"
+    ],
+    [
+      0.000817,
+      "13M     lib\r\n4.0K    local\r\n56K     lock\r\n13M     log\r\n0       mail\r\n4.0K    nis\r\n24K     opt\r\n4.0K    preserve\r\n"
+    ],
+    [
+      0.001842,
+      "284K    run\r\n28K     spool\r\n513M    swap\r\n4.0K    tmp\r\n"
+    ],
+    [
+      0.006995,
+      "3.6M    xapi\r\n40K     xen\r\n4.0K    yp\r\n\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      18.167090,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000978,
+      "\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.254037,
+      "l"
+    ],
+    [
+      0.267946,
+      "s"
+    ],
+    [
+      0.075923,
+      " "
+    ],
+    [
+      0.598093,
+      "-"
+    ],
+    [
+      0.260984,
+      "l"
+    ],
+    [
+      0.054950,
+      " "
+    ],
+    [
+      0.393046,
+      "l"
+    ],
+    [
+      0.078008,
+      "o"
+    ],
+    [
+      0.308991,
+      "g"
+    ],
+    [
+      0.386013,
+      "\r\n"
+    ],
+    [
+      0.002071,
+      "\u001b[00mtotal 9728\r\ndrwxr-xr-x 2 root root    4096 Apr  5 21:39 \u001b[00;34mblktap\u001b[00m\r\n-rw------- 1 root root     851 Apr  5 19:18 \u001b[00mboot.log\u001b[00m\r\n"
+    ],
+    [
+      0.000916,
+      "-rw------- 1 root   43    4224 Apr  5 22:07 \u001b[00mbtmp\u001b[00m\r\n-rw------- 1 root root   11966 Apr  4 17:08 \u001b[00mcrit.log\u001b[00m\r\n-rw------- 1 root root 3468465 Apr  5 22:11 \u001b[00mcron\u001b[00m\r\n-rw------- 1 root root 1334339 Apr  5 22:10 \u001b[00mdaemon.log\u001b[00m\r\n-rw-r--r-- 1 root root   40567 Apr  5 19:18 \u001b[00mdmesg\u001b[00m\r\n-rw------- 1 root root       0 Apr  4 20:25 \u001b[00mfaillog\u001b[00m\r\ndrwxr-xr-x 2 root root    4096 Feb  8 02:35 \u001b[00;34minstaller\u001b[00m\r\n"
+    ],
+    [
+      0.000237,
+      "-rw-r--r-- 1 root root    4518 Apr  5 19:18 \u001b[00minterface-rename.log\u001b[00m\r\n-rw------- 1 root root  838552 Apr  5 21:39 \u001b[00mkern.log\u001b[00m\r\n"
+    ],
+    [
+      0.000806,
+      "-rw-r--r-- 1 root root  146292 Apr  5 22:09 \u001b[00mlastlog\u001b[00m\r\n-rw------- 1 root root       0 Dec 12 21:59 \u001b[00mmaillog\u001b[00m\r\n"
+    ],
+    [
+      0.001093,
+      "-rw-r--r-- 1 root root       0 Feb  8 02:36 \u001b[00mmcelog\u001b[00m\r\n-rw------- 1 root root  119363 Apr  5 22:11 \u001b[00mmessages\u001b[00m\r\ndrwxr-xr-x 2 root root    4096 Dec 10 02:22 \u001b[00;34mopenvswitch\u001b[00m"
+    ],
+    [
+      0.000883,
+      "\r\n-rw-r--r-- 1 root root    9401 Apr  5 19:18 \u001b[00movs-ctl.log\u001b[00m\r\n-rw-r--r-- 1 root root       0 Feb  8 02:36 \u001b[00movsdb-server.log\u001b[00m\r\n-rw-r--r-- 1 root root       0 Feb  8 02:36 \u001b[00movs-vswitchd.log\u001b[00m\r\n-rw-r--r-- 1 root root    3137 Apr  5 19:18 \u001b[00movs-xapi-sync.log\u001b[00m\r\ndrwxr-xr-x 2 root root    4096 Dec 12 21:59 \u001b[00;34mpm\u001b[00m\r\n-rw-r--r-- 1 root root   13054 Apr  5 04:02 \u001b[00mrpmpkgs\u001b[00m\r\ndrwxr-xr-x 2 root root    4096 Apr  5 00:00 \u001b[00;34msa\u001b[00m\r\ndrwx------ 3 root root    4096 Dec 12 22:00 \u001b[00;34msamba\u001b[00m\r\n-rw------- 1 root root   12296 Apr  5 22:09 \u001b[00msecure\u001b[00m\r\n-rw------- 1 root root 1186123 Apr  5 21:39 \u001b[00mSMlog\u001b[00m\r\n-rw------- 1 root root       0 Dec 12 21:59 \u001b[00mspooler\u001b[00m\r\n-rw------- 1 root root       0 Dec 12 21:59 \u001b[00mtallylog\u001b[00m\r\n-rw------- 1 root root  360078 Apr  5 21:39 \u001b[00muser.log\u001b[00m\r\n-rw------- 1 root root       0 Feb  8 02:36 \u001b[00mv6d.log\u001b[00m\r\n-rw------- 1 root root       0 Feb  8 02:36 \u001b[00mVMPRlog\u001b[00m\r\n-rw-rw-r-- 1 root utmp  396672 Apr  5 22:09 \u001b[00mwtmp\u001b[00m\r\n-rw------- 1 root root 1984356 Apr  5 22:08 \u001b[00mxcp-rrdd-plugins.log\u001b[00m\r\ndrwxr-xr-x 2 root root    4096 Feb  8 02:36 \u001b[00;34mxen\u001b[00m\r\n-rw-r--r-- 1 root root    8333 Apr  5 19:18 \u001b[00mxen-dmesg\u001b[00m\r\n-rw------- 1 root root   46068 Apr  5 22:11 \u001b[00mxensource.log\u001b[00m\r\n-rw-r--r-- 1 root root     452 Apr  5 19:18 \u001b[00mxenstored.log\u001b[00m\r\n-rw-r--r-- 1 root root       0 Feb  8 22:38 \u001b[00myum.log\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.813989,
+      "l"
+    ],
+    [
+      0.596996,
+      "s"
+    ],
+    [
+      0.082056,
+      " "
+    ],
+    [
+      0.114885,
+      "-"
+    ],
+    [
+      0.244059,
+      "l"
+    ],
+    [
+      0.092965,
+      "h"
+    ],
+    [
+      0.070046,
+      " "
+    ],
+    [
+      0.553951,
+      "l"
+    ],
+    [
+      0.050035,
+      "o"
+    ],
+    [
+      0.146012,
+      "g"
+    ],
+    [
+      0.066043,
+      " "
+    ],
+    [
+      0.199898,
+      "|"
+    ],
+    [
+      0.128050,
+      " "
+    ],
+    [
+      0.124006,
+      "l"
+    ],
+    [
+      0.107989,
+      "e"
+    ],
+    [
+      0.416455,
+      "s"
+    ],
+    [
+      0.192553,
+      "s"
+    ],
+    [
+      0.302967,
+      "\r\n"
+    ],
+    [
+      0.004003,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.001985,
+      "total 9.5M\r\ndrwxr-xr-x 2 root root 4.0K Apr  5 21:39 blktap\r\n-rw------- 1 root root  851 Apr  5 19:18 boot.log\r\n-rw------- 1 root   43 4.2K Apr  5 22:07 btmp"
+    ],
+    [
+      0.001398,
+      "\r\n-rw------- 1 root root  12K Apr  4 17:08 crit.log\r\n-rw------- 1 root root 3.4M Apr  5 22:12 cron\r\n-rw------- 1 root root 1.3M Apr  5 22:10 daemon.log\r\n-rw-r--r-- 1 root root  40K Apr  5 19:18 dmesg\r\n-rw------- 1 root root    0 Apr  4 20:25 faillog\r\ndrwxr-xr-x 2 root root 4.0K Feb  8 02:35 installer\r\n-rw-r--r-- 1 root root 4.5K Apr  5 19:18 interface-rename.log\r\n-rw------- 1 root root 819K Apr  5 21:39 kern.log\r\n-rw-r--r-- 1 root root 143K Apr  5 22:09 lastlog\r\n-rw------- 1 root root    0 Dec 12 21:59 maillog\r\n-rw-r--r-- 1 root root    0 Feb  8 02:36 mcelog\r\n-rw------- 1 root root 117K Apr  5 22:11 messages\r\ndrwxr-xr-x 2 root root 4.0K Dec 10 02:22 openvswitch\r\n-rw-r--r-- 1 root root 9.2K Apr  5 19:18 ovs-ctl.log\r\n-rw-r--r-- 1 root root    0 Feb  8 02:36 ovsdb-server.log\r\n-rw-r--r-- 1 root root    0 Feb  8 02:36 ovs-vswitchd.log\r\n-rw-r--r-- 1 root root 3.1K Apr  5 19:18 ov"
+    ],
+    [
+      0.001550,
+      "s-xapi-sync.log\r\ndrwxr-xr-x 2 root root 4.0K Dec 12 21:59 pm\r\n-rw-r--r-- 1 root root  13K Apr  5 04:02 rpmpkgs\r\ndrwxr-xr-x 2 root root 4.0K Apr  5 00:00 sa\r\ndrwx------ 3 root root 4.0K Dec 12 22:00 samba\r\n"
+    ],
+    [
+      0.001129,
+      "-rw------- 1 root root  13K Apr  5 22:09 secure\r\n-rw------- 1 root root 1.2M Apr  5 21:39 SMlog\r\n-rw------- 1 root root    0 Dec 12 21:59 spooler\r\n:\u001b[K"
+    ],
+    [
+      7.771024,
+      "\r\u001b[K-rw------- 1 root root    0 Dec 12 21:59 tallylog\r\n:\u001b[K"
+    ],
+    [
+      0.501999,
+      "\r\u001b[K-rw------- 1 root root 352K Apr  5 21:39 user.log\r\n:\u001b[K"
+    ],
+    [
+      0.026949,
+      "\r\u001b[K-rw------- 1 root root    0 Feb  8 02:36 v6d.log\r\n:\u001b[K"
+    ],
+    [
+      0.025996,
+      "\r\u001b[K-rw------- 1 root root    0 Feb  8 02:36 VMPRlog\r\n:\u001b[K"
+    ],
+    [
+      0.042017,
+      "\r\u001b[K-rw-rw-r-- 1 root utmp 388K Apr  5 22:09 wtmp\r\n:\u001b[K"
+    ],
+    [
+      0.013891,
+      "\r\u001b[K-rw------- 1 root root 1.9M Apr  5 22:08 xcp-rrdd-plugins.log\r\n:\u001b[K"
+    ],
+    [
+      0.028051,
+      "\r\u001b[Kdrwxr-xr-x 2 root root 4.0K Feb  8 02:36 xen\r\n:\u001b[K"
+    ],
+    [
+      0.034034,
+      "\r\u001b[K-rw-r--r-- 1 root root 8.2K Apr  5 19:18 xen-dmesg\r\n:\u001b[K"
+    ],
+    [
+      0.026960,
+      "\r\u001b[K-rw------- 1 root root  46K Apr  5 22:11 xensource.log\r\n:\u001b[K"
+    ],
+    [
+      0.031051,
+      "\r\u001b[K-rw-r--r-- 1 root root  452 Apr  5 19:18 xenstored.log\r\n:\u001b[K"
+    ],
+    [
+      0.029964,
+      "\r\u001b[K-rw-r--r-- 1 root root    0 Feb  8 22:38 yum.log\r\n:\u001b[K"
+    ],
+    [
+      0.029012,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027980,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.028245,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.032834,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.025998,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027956,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027056,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.028947,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.026993,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.031008,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.026931,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.028063,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      3.089058,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001957,
+      "\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.779986,
+      "c"
+    ],
+    [
+      0.059990,
+      "d"
+    ],
+    [
+      0.063029,
+      " "
+    ],
+    [
+      0.086081,
+      "/"
+    ],
+    [
+      0.309955,
+      "\r\n\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.511937,
+      "d"
+    ],
+    [
+      0.097067,
+      "u"
+    ],
+    [
+      0.555971,
+      " "
+    ],
+    [
+      0.127049,
+      "-"
+    ],
+    [
+      0.616918,
+      "s"
+    ],
+    [
+      0.103050,
+      "h"
+    ],
+    [
+      0.081956,
+      " "
+    ],
+    [
+      0.526045,
+      "*"
+    ],
+    [
+      1.037024,
+      " "
+    ],
+    [
+      0.203980,
+      "|"
+    ],
+    [
+      0.179996,
+      " "
+    ],
+    [
+      0.119005,
+      "l"
+    ],
+    [
+      0.153939,
+      "e"
+    ],
+    [
+      0.083105,
+      "s"
+    ],
+    [
+      0.136951,
+      "s"
+    ],
+    [
+      0.342898,
+      "\r\n"
+    ],
+    [
+      0.003027,
+      "\u001b[?1049h\u001b[?1h\u001b=\r5.7M    bin\r\n22M     boot\r\n"
+    ],
+    [
+      0.002016,
+      "2.1M    cli-rt\r\n160K    dev\r\n"
+    ],
+    [
+      0.008075,
+      "6.6M    etc\r\n28K     EULA\r\n32K     home\r\n"
+    ],
+    [
+      0.015949,
+      "118M    lib\r\n"
+    ],
+    [
+      0.003036,
+      "20M     lib64\r\n16K     lost+found\r\n4.0K    media\r\n2.0G    mnt\r\n"
+    ],
+    [
+      0.006001,
+      "219M    opt\r\n"
+    ],
+    [
+      0.177010,
+      "0       proc\r\n12K     Read_Me_First.html\r\n56K     root\r\n"
+    ],
+    [
+      0.001457,
+      "24M     sbin\r\n4.0K    selinux\r\n4.0K    srv\r\n"
+    ],
+    [
+      0.128539,
+      "0       sys\r\n1.6M    tftpboot\r\n20K     tmp\r\n"
+    ],
+    [
+      0.134024,
+      "542M    usr\r\n"
+    ],
+    [
+      0.010971,
+      "542M    var\r\n\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      9.994025,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001869,
+      "\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      2.577154,
+      "d"
+    ],
+    [
+      0.057925,
+      "u"
+    ],
+    [
+      0.636070,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.124990,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.292991,
+      "c"
+    ],
+    [
+      0.123987,
+      "d"
+    ],
+    [
+      0.025983,
+      " "
+    ],
+    [
+      0.139001,
+      "/"
+    ],
+    [
+      0.353980,
+      "u"
+    ],
+    [
+      0.082036,
+      "s"
+    ],
+    [
+      0.233983,
+      "r"
+    ],
+    [
+      0.280973,
+      "\r\n\u001b]0;root@decadent:/usr\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.187944,
+      "d"
+    ],
+    [
+      0.038096,
+      "u"
+    ],
+    [
+      0.661057,
+      " "
+    ],
+    [
+      0.596881,
+      "-"
+    ],
+    [
+      0.181068,
+      "s"
+    ],
+    [
+      0.086952,
+      "h"
+    ],
+    [
+      0.078042,
+      " "
+    ],
+    [
+      0.408936,
+      "*"
+    ],
+    [
+      0.080052,
+      " "
+    ],
+    [
+      0.156980,
+      "|"
+    ],
+    [
+      0.277020,
+      " "
+    ],
+    [
+      0.298960,
+      " "
+    ],
+    [
+      0.644041,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.229967,
+      "l"
+    ],
+    [
+      0.090084,
+      "e"
+    ],
+    [
+      0.134923,
+      "s"
+    ],
+    [
+      0.151968,
+      "s"
+    ],
+    [
+      0.261076,
+      "\r\n"
+    ],
+    [
+      0.002959,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.002037,
+      "101M    bin\r\n4.0K    etc\r\n4.0K    games\r\n"
+    ],
+    [
+      0.000929,
+      "196K    include\r\n"
+    ],
+    [
+      0.001032,
+      "80K     kerberos\r\n"
+    ],
+    [
+      0.038005,
+      "142M    lib\r\n"
+    ],
+    [
+      0.013043,
+      "120M    lib64\r\n1.2M    libexec\r\n"
+    ],
+    [
+      0.000077,
+      "128K    local\r\n"
+    ],
+    [
+      0.000858,
+      "20K     man\r\n"
+    ],
+    [
+      0.001000,
+      "28M     sbin\r\n"
+    ],
+    [
+      0.077130,
+      "151M    share\r\n12K     src\r\n0       tmp\r\n"
+    ],
+    [
+      0.000866,
+      "\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      8.786043,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b]0;root@decadent:/usr\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.688851,
+      "c"
+    ],
+    [
+      0.080119,
+      "d"
+    ],
+    [
+      0.055970,
+      " "
+    ],
+    [
+      0.237106,
+      "s"
+    ],
+    [
+      0.074866,
+      "h"
+    ],
+    [
+      0.068086,
+      "a"
+    ],
+    [
+      0.089002,
+      "r"
+    ],
+    [
+      0.108999,
+      "e"
+    ],
+    [
+      0.111008,
+      "\r\n\u001b]0;root@decadent:/usr/share\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.225935,
+      "l"
+    ],
+    [
+      0.229004,
+      "s"
+    ],
+    [
+      0.063000,
+      " "
+    ],
+    [
+      0.104018,
+      "-"
+    ],
+    [
+      0.195040,
+      "l"
+    ],
+    [
+      0.206960,
+      "\r\n"
+    ],
+    [
+      0.005053,
+      "\u001b[00mtotal 192\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:06 \u001b[00;34mapplications\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 21:58 \u001b[00;34mawk\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 21:59 \u001b[00;34mcracklib\u001b[00m\r\ndrwxr-xr-x   4 root root  4096 Dec 12 21:59 \u001b[00;34mdbus-1\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:06 \u001b[00;34mdesktop-directories\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:06 \u001b[00;34mdesktop-menu-patches\u001b[00m\r\n"
+    ],
+    [
+      0.000086,
+      "drwxr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34mdict\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:05 \u001b[00;34mdirectfb-1.0.1\u001b[00m\r\n"
+    ],
+    [
+      0.000867,
+      "drwxr-xr-x 189 root root 12288 Feb  8 02:34 \u001b[00;34mdoc\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Dec 12 22:00 \u001b[00;34memacs\u001b[00m\r\n"
+    ],
+    [
+      0.000930,
+      "dr-xr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34mempty\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 21:58 \u001b[00;34meula\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 21:59 \u001b[00;34mfile\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Dec 12 21:56 \u001b[00;34mfirstboot\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34mgames\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:00 \u001b[00;34mgnupg\u001b[00m\r\n"
+    ],
+    [
+      0.001074,
+      "drwxr-xr-x   4 root root  4096 Dec 12 22:00 \u001b[00;34mgroff\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Dec 12 21:59 \u001b[00;34mhal\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Dec 12 21:59 \u001b[00;34mhwdata\u001b[00m\r\ndrwxr-xr-x   4 root root  4096 Aug 30  2014 \u001b[00;34mi18n\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:05 \u001b[00;34minfo\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:05 \u001b[00;34mipmitool\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:00 \u001b[00;34mkeyutils\u001b[00m\r\ndrwxr-xr-x 561 root root 12288 May 11  2011 \u001b[00;34mlocale\u001b[00m\r\nlrwxrwxrwx   1 root root    10 Feb  8 02:32 \u001b[00;36mmagic\u001b[00m -\u003e \u001b[00mfile/magic\u001b[00m\r\nlrwxrwxrwx   1 root root    15 Feb  8 02:32 \u001b[00;36mmagic.mime\u001b[00m -\u003e \u001b[00mfile/magic.mime\u001b[00m\r\ndrwxr-xr-x  50 root root  4096 Dec 12 22:00 \u001b[00;34mman\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 21:59 \u001b[00;34mmisc\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:00 \u001b[00;34mnano\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 May 15  2014 \u001b[00;34mopenldap\u001b[00m\r\n"
+    ],
+    [
+      0.003962,
+      "drwxr-xr-x   5 root root  4096 Dec 12 22:01 \u001b[00;34mopenvswitch\u001b[00m\r\ndrwxr-xr-x  12 root root  4096 Dec 12 22:06 \u001b[00;34moprofile\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34mpixmaps\u001b[00m\r\ndrwxr-xr-x   5 root root  4096 Dec 12 22:05 \u001b[00;34msnmp\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Feb  8 02:34 \u001b[00;34msplash\u001b[00m\r\ndrwxr-xr-x   4 root root  4096 Dec 12 22:05 \u001b[00;34msplashy\u001b[00m\r\ndrwxr-xr-x   5 root root  4096 Dec 12 22:05 \u001b[00;34msyslinux\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 21:58 \u001b[00;34mtabset\u001b[00m\r\ndrwxr-xr-x   8 root root  4096 Dec 12 22:00 \u001b[00;34mtcl8.4\u001b[00m\r\ndrwxr-xr-x  44 root root  4096 Jan  6  2007 \u001b[00;34mterminfo\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Dec 12 22:05 \u001b[00;34mvhostmd\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Dec 12 22:05 \u001b[00;34mX11\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Dec 12 22:05 \u001b[00;34mxen\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34mxsessions\u001b[00m\r\n"
+    ],
+    [
+      0.000979,
+      "drwxr-xr-x   2 root root  4096 Dec 12 22:00 \u001b[00;34myum-cli\u001b[00m\r\ndrwxr-xr-x  20 root root  4096 Dec 12 21:58 \u001b[00;34mzoneinfo\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/usr/share\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      6.183000,
+      "l"
+    ],
+    [
+      0.230030,
+      "s"
+    ],
+    [
+      0.246017,
+      "\r\n"
+    ],
+    [
+      0.005000,
+      "\u001b[00m\u001b[00;34mapplications\u001b[00m          \u001b[00;34mdict\u001b[00m            \u001b[00;34mfile\u001b[00m       \u001b[00;34mhwdata\u001b[00m    \u001b[00;36mmagic\u001b[00m       \u001b[00;34mopenvswitch\u001b[00m  \u001b[00;34msyslinux\u001b[00m  \u001b[00;34mxen\u001b[00m\r\n\u001b[00;34mawk\u001b[00m                   \u001b[00;34mdirectfb-1.0.1\u001b[00m  \u001b[00;34mfirstboot\u001b[00m  \u001b[00;34mi18n\u001b[00m      \u001b[00;36mmagic.mime\u001b[00m  \u001b[00;34moprofile\u001b[00m     \u001b[00;34mtabset\u001b[00m    \u001b[00;34mxsessions\u001b[00m\r\n\u001b[00;34mcracklib\u001b[00m              \u001b[00;34mdoc\u001b[00m             \u001b[00;34mgames\u001b[00m      \u001b[00;34minfo\u001b[00m      \u001b[00;34mman\u001b[00m         \u001b[00;34mpixmaps\u001b[00m      \u001b[00;34mtcl8.4\u001b[00m    \u001b[00;34myum-cli\u001b[00m\r\n\u001b[00;34mdbus-1\u001b[00m                \u001b[00;34memacs\u001b[00m           \u001b[00;34mgnupg\u001b[00m      \u001b[00;34mipmitool\u001b[00m  \u001b[00;34mmisc\u001b[00m        \u001b[00;34msnmp\u001b[00m         \u001b[00;34mterminfo\u001b[00m  \u001b[00;34mzoneinfo\u001b[00m\r\n\u001b[00;34mdesktop-directories\u001b[00m   \u001b[00;34mempty\u001b[00m           \u001b[00;34mgroff\u001b[00m      \u001b[00;34mkeyutils\u001b[00m  \u001b[00;34mnano\u001b[00m        \u001b[00;34msplash\u001b[00m       \u001b[00;34mvhostmd\u001b[00m\r\n\u001b[00;34mdesktop-menu-patches\u001b[00m  \u001b[00;34meula\u001b[00m            \u001b[00;34mhal\u001b[00m        \u001b[00;34mlocale\u001b[00m    \u001b[00;34mopenldap\u001b[00m    \u001b[00;34msplashy\u001b[00m      \u001b[00;34mX11\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/usr/share\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      2.102994,
+      "d"
+    ],
+    [
+      0.070977,
+      "u"
+    ],
+    [
+      0.348982,
+      " "
+    ],
+    [
+      0.128086,
+      "-"
+    ],
+    [
+      0.225909,
+      "s"
+    ],
+    [
+      0.065971,
+      "h"
+    ],
+    [
+      0.061059,
+      " "
+    ],
+    [
+      0.271957,
+      "*"
+    ],
+    [
+      0.094048,
+      " "
+    ],
+    [
+      0.121901,
+      "|"
+    ],
+    [
+      0.195098,
+      " "
+    ],
+    [
+      0.115999,
+      "L"
+    ],
+    [
+      0.246003,
+      "e"
+    ],
+    [
+      0.081046,
+      "s"
+    ],
+    [
+      0.167925,
+      "s"
+    ],
+    [
+      0.222033,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.133941,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128120,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.165933,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.249000,
+      "l"
+    ],
+    [
+      0.101998,
+      "e"
+    ],
+    [
+      0.125005,
+      "s"
+    ],
+    [
+      0.133003,
+      "s"
+    ],
+    [
+      0.224002,
+      "\r\n"
+    ],
+    [
+      0.003023,
+      "\u001b[?1049h\u001b[?1h\u001b=\r8.0K    applications\r\n80K     awk\r\n7.8M    cracklib\r\n12K     dbus-1\r\n"
+    ],
+    [
+      0.001984,
+      "212K    desktop-directories\r\n164K    desktop-menu-patches\r\n4.0K    dict\r\n12K     directfb-1.0.1\r\n"
+    ],
+    [
+      0.010983,
+      "39M     doc\r\n40K     emacs\r\n4.0K    empty\r\n"
+    ],
+    [
+      0.001435,
+      "8.0K    eula\r\n1.5M    file\r\n20K     firstboot\r\n4.0K    games\r\n144K    gnupg\r\n3.3M    groff\r\n"
+    ],
+    [
+      0.000666,
+      "272K    hal\r\n1.7M    hwdata\r\n"
+    ],
+    [
+      0.000862,
+      "7.9M    i18n\r\n2.2M    info\r\n"
+    ],
+    [
+      0.001685,
+      "112K    ipmitool\r\n8.0K    keyutils\r\n"
+    ],
+    [
+      0.029361,
+      "45M     locale\r\n0       magic\r\n0       magic.mime\r\n"
+    ],
+    [
+      0.009054,
+      "13M     man\r\n4.0K    misc\r\n:\u001b[K"
+    ],
+    [
+      6.636871,
+      "\r\u001b[K60K     nano\r\n:\u001b[K"
+    ],
+    [
+      7.956054,
+      "\r\u001b[K4.0K    openldap\r\n:\u001b[K"
+    ],
+    [
+      0.497977,
+      "\r\u001b[K1.4M    openvswitch\r\n:\u001b[K"
+    ],
+    [
+      0.029030,
+      "\r\u001b[K2.8M    oprofile\r\n:\u001b[K"
+    ],
+    [
+      0.032931,
+      "\r\u001b[K4.0K    pixmaps\r\n:\u001b[K"
+    ],
+    [
+      0.026055,
+      "\r\u001b[K2.5M    snmp\r\n:\u001b[K"
+    ],
+    [
+      0.031013,
+      "\r\u001b[K84K     splash\r\n:\u001b[K"
+    ],
+    [
+      0.025004,
+      "\r\u001b[K2.2M    splashy\r\n:\u001b[K"
+    ],
+    [
+      0.027985,
+      "\r\u001b[K3.6M    syslinux\r\n:\u001b[K"
+    ],
+    [
+      0.028986,
+      "\r\u001b[K20K     tabset\r\n:\u001b[K"
+    ],
+    [
+      0.039982,
+      "\r\u001b[K2.1M    tcl8.4\r\n:\u001b[K"
+    ],
+    [
+      0.016020,
+      "\r\u001b[K6.2M    terminfo\r\n:\u001b[K"
+    ],
+    [
+      0.027994,
+      "\r\u001b[K20K     vhostmd\r\n:\u001b[K"
+    ],
+    [
+      0.028002,
+      "\r\u001b[K2.4M    X11\r\n:\u001b[K"
+    ],
+    [
+      0.029047,
+      "\r\u001b[K152K    xen\r\n:\u001b[K"
+    ],
+    [
+      0.028964,
+      "\r\u001b[K4.0K    xsessions\r\n:\u001b[K"
+    ],
+    [
+      0.029958,
+      "\r\u001b[K568K    yum-cli\r\n:\u001b[K"
+    ],
+    [
+      1.632072,
+      "\r\u001b[K5.5M    zoneinfo\r\n:\u001b[K"
+    ],
+    [
+      0.231007,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001015,
+      "\u001b]0;root@decadent:/usr/share\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.632984,
+      "du -sh * | less\r\u001b[C\u001b[C"
+    ],
+    [
+      0.345076,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.346967,
+      "\u0008"
+    ],
+    [
+      0.114944,
+      "\u0008"
+    ],
+    [
+      0.162002,
+      "\u0008"
+    ],
+    [
+      0.143018,
+      "\u0008"
+    ],
+    [
+      0.252004,
+      "\u001b[K\u0008"
+    ],
+    [
+      0.144933,
+      "\u0007\u001b[C"
+    ],
+    [
+      0.185007,
+      "s"
+    ],
+    [
+      0.187065,
+      "o"
+    ],
+    [
+      0.062984,
+      "r"
+    ],
+    [
+      0.507998,
+      "t"
+    ],
+    [
+      0.206946,
+      " "
+    ],
+    [
+      0.119006,
+      "-"
+    ],
+    [
+      0.303043,
+      "r"
+    ],
+    [
+      0.249002,
+      "n"
+    ],
+    [
+      0.078998,
+      " "
+    ],
+    [
+      0.762914,
+      "|"
+    ],
+    [
+      0.307091,
+      " "
+    ],
+    [
+      0.093006,
+      "l"
+    ],
+    [
+      0.122986,
+      "e"
+    ],
+    [
+      0.097009,
+      "s"
+    ],
+    [
+      0.156001,
+      "s"
+    ],
+    [
+      0.242057,
+      "\r\n"
+    ],
+    [
+      0.003942,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.077065,
+      "568K    yum-cli\r\n272K    hal\r\n212K    desktop-directories\r\n164K    desktop-menu-patches\r\n152K    xen\r\n144K    gnupg\r\n112K    ipmitool\r\n84K     splash\r\n80K     awk\r\n60K     nano\r\n45M     locale\r\n40K     emacs\r\n39M     doc\r\n20K     vhostmd\r\n20K     tabset\r\n"
+    ],
+    [
+      0.000061,
+      "20K     firstboot\r\n13M     man\r\n12K     directfb-1.0.1\r\n12K     dbus-1\r\n8.0K    keyutils\r\n8.0K    eula\r\n8.0K    applications\r\n7.9M    i18n\r\n7.8M    cracklib"
+    ],
+    [
+      0.000928,
+      "\r\n6.2M    terminfo\r\n5.5M    zoneinfo\r\n4.0K    xsessions\r\n4.0K    pixmaps\r\n:\u001b[K"
+    ],
+    [
+      5.721942,
+      "\r\u001b[K4.0K    openldap\r\n:\u001b[K"
+    ],
+    [
+      0.500005,
+      "\r\u001b[K4.0K    misc\r\n:\u001b[K"
+    ],
+    [
+      0.027000,
+      "\r\u001b[K4.0K    games\r\n:\u001b[K"
+    ],
+    [
+      0.029985,
+      "\r\u001b[K4.0K    empty\r\n:\u001b[K"
+    ],
+    [
+      0.026009,
+      "\r\u001b[K4.0K    dict\r\n:\u001b[K"
+    ],
+    [
+      0.028997,
+      "\r\u001b[K3.6M    syslinux\r\n:\u001b[K"
+    ],
+    [
+      0.028960,
+      "\r\u001b[K3.3M    groff\r\n:\u001b[K"
+    ],
+    [
+      0.031014,
+      "\r\u001b[K2.8M    oprofile\r\n:\u001b[K"
+    ],
+    [
+      0.025049,
+      "\r\u001b[K2.5M    snmp\r\n:\u001b[K"
+    ],
+    [
+      0.028937,
+      "\r\u001b[K2.4M    X11\r\n:\u001b[K"
+    ],
+    [
+      0.087047,
+      "\r\u001b[K2.2M    splashy\r\n:\u001b[K"
+    ],
+    [
+      0.003932,
+      "\r\u001b[K2.2M    info\r\n:\u001b[K"
+    ],
+    [
+      0.004069,
+      "\r\u001b[K2.1M    tcl8.4\r\n:\u001b[K"
+    ],
+    [
+      0.025976,
+      "\r\u001b[K1.7M    hwdata\r\n:\u001b[K"
+    ],
+    [
+      0.018976,
+      "\r\u001b[K1.5M    file\r\n:\u001b[K"
+    ],
+    [
+      0.029048,
+      "\r\u001b[K1.4M    openvswitch\r\n:\u001b[K"
+    ],
+    [
+      0.027952,
+      "\r\u001b[K0       magic.mime\r\n:\u001b[K"
+    ],
+    [
+      0.029998,
+      "\r\u001b[K0       magic\r\n:\u001b[K"
+    ],
+    [
+      0.027013,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027994,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.030053,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.028944,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027042,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027910,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.032014,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.024092,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027948,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.030025,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.027011,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.028954,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.029048,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      1.083014,
+      "\r\u001b[K\u001b[H\u001bM12K     directfb-1.0.1\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      3.091979,
+      "\r\u001b[K\u001b[H\u001bM13M     man\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.503015,
+      "\r\u001b[K\u001b[H\u001bM20K     firstboot\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.025988,
+      "\r\u001b[K\u001b[H\u001bM20K     tabset\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.027005,
+      "\r\u001b[K\u001b[H\u001bM20K     vhostmd\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.027955,
+      "\r\u001b[K\u001b[H\u001bM39M     doc\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.028005,
+      "\r\u001b[K\u001b[H\u001bM40K     emacs\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.027992,
+      "\r\u001b[K\u001b[H\u001bM45M     locale\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.028055,
+      "\r\u001b[K\u001b[H\u001bM60K     nano\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.548951,
+      "\r\u001b[K\u001b[H\u001bM80K     awk\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      2.174044,
+      "\r\u001b[K\u001b[H\u001bM84K     splash\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.381014,
+      "\r\u001b[K\u001b[H\u001bM112K    ipmitool\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.651976,
+      "\r\u001b[K\u001b[H\u001bM144K    gnupg\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      1.433008,
+      "\r\u001b[K\u001b[H\u001bM152K    xen\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      2.787002,
+      "\r\u001b[K\u001b[H\u001bM164K    desktop-menu-patches\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.237955,
+      "\r\u001b[K\u001b[H\u001bM212K    desktop-directories\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.269051,
+      "\r\u001b[K\u001b[H\u001bM272K    hal\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.309068,
+      "\r\u001b[K\u001b[H\u001bM568K    yum-cli\r\n\u001b[29;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.499913,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030977,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.026034,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029996,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.273020,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.300006,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001984,
+      "\u001b]0;root@decadent:/usr/share\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.650965,
+      "c"
+    ],
+    [
+      0.079994,
+      "d"
+    ],
+    [
+      0.040050,
+      " "
+    ],
+    [
+      0.225038,
+      "d"
+    ],
+    [
+      0.099898,
+      "o"
+    ],
+    [
+      0.034078,
+      "c"
+    ],
+    [
+      0.212980,
+      "\r\n\u001b]0;root@decadent:/usr/share/doc\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share/doc\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.242939,
+      "l"
+    ],
+    [
+      0.189006,
+      "s"
+    ],
+    [
+      0.185051,
+      "\r\n"
+    ],
+    [
+      0.005216,
+      "\u001b[00m\u001b[00;34maic94xx-firmware-30\u001b[00m                 \u001b[00;34miscsi-initiator-utils-6.2.0.873\u001b[00m  \u001b[00;34mprocps-3.2.7\u001b[00m\r\n\u001b[00;34mat-3.1.8\u001b[00m                            \u001b[00;34mkbd-1.12\u001b[00m                         \u001b[00;34mPyPAM-0.4.2\u001b[00m\r\n\u001b[00;34mbash-3.2\u001b[00m                            \u001b[00;34mkeyutils-1.2\u001b[00m                     \u001b[00;34mpython-2.4.3\u001b[00m\r\n\u001b[00;34mbc-1.06\u001b[00m                             \u001b[00;34mkeyutils-libs-1.2\u001b[00m                \u001b[00;34mpython-elementtree-1.2.6\u001b[00m\r\n\u001b[00;34mbinutils-2.17.50.0.6\u001b[00m                \u001b[00;34mkudzu-1.2.57.1.26\u001b[00m                \u001b[00;34mpython-iniparse-0.2.3\u001b[00m\r\n\u001b[00;34mbiosdevname-0.3.10\u001b[00m                  \u001b[00;34mlibaio-0.3.106\u001b[00m                   \u001b[00;34mpython-libs-2.4.3\u001b[00m\r\n\u001b[00;34mbridge-utils-1.1\u001b[00m                    \u001b[00;34mlibcap-1.10\u001b[00m                      \u001b[00;34mpython-simplejson-2.0.9\u001b[00m\r\n\u001b[00;34mbzip2-1.0.3\u001b[00m                         \u001b[00;34mlibev-4.04\u001b[00m                       \u001b[00;34mpython-sqlite-1.1.7\u001b[00m\r\n\u001b[00;34mcentos-release-5\u001b[00m                    \u001b[00;34mlibevent-1.4.13\u001b[00m                  \u001b[00;34mpython-urlgrabber-3.1.0\u001b[00m\r\n\u001b[00;34mcentos-release-notes-5.10\u001b[00m           \u001b[00;34mlibgcc-4.1.2\u001b[00m                     \u001b[00;34mrpm-4.4.2.3\u001b[00m\r\n\u001b[00;34mchkconfig-1.3.30.2\u001b[00m                  \u001b[00;34mlibgpg-error-1.4\u001b[00m                 \u001b[00;34mrsync-3.0.6\u001b[00m\r\n\u001b[00;34mcoreutils-5.97\u001b[00m                      \u001b[00;34mlibgssapi-0.10\u001b[00m                   \u001b[00;34msamba3x-common-3.6.6\u001b[00m\r\n\u001b[00;34mcpio-2.6\u001b[00m                            \u001b[00;34mlibhugetlbfs-1.3\u001b[00m                 \u001b[00;34mSDL-1.2.10\u001b[00m\r\n\u001b[00;34mcracklib-2.8.9\u001b[00m                      \u001b[00;34mlibidn-0.6.5\u001b[00m                     \u001b[00;34msed-4.1.5\u001b[00m\r\n\u001b[00;34mcryptsetup-luks-1.0.3\u001b[00m               \u001b[00;34mlibjpeg-6b\u001b[00m                       \u001b[00;34msetserial-2.17\u001b[00m\r\n\u001b[00;34mcurl-7.15.5\u001b[00m                         \u001b[00;34mlibmnl-1.0.3\u001b[00m                     \u001b[00;34msetup-2.5.58\u001b[00m\r\n\u001b[00;34mcyrus-sasl-lib-2.1.22\u001b[00m               \u001b[00;34mlibnfsidmap\u001b[00m                      \u001b[00;34msg3_utils-1.25\u001b[00m\r\n\u001b[00;34mdb4-4.3.29\u001b[00m                          \u001b[00;34mlibnl-1.0\u001b[00m                        \u001b[00;34msgpio-1.2.0_10\u001b[00m\r\n\u001b[00;34mdbus-1.1.2\u001b[00m                          \u001b[00;34mlibpcap-1.0.0\u001b[00m                    \u001b[00;34mshadow-utils-4.0.17\u001b[00m\r\n\u001b[00;34mdbus-glib-0.73\u001b[00m                      \u001b[00;34mlibpng-1.2.46\u001b[00m                    \u001b[00;34msharutils-4.6.1\u001b[00m\r\n\u001b[00;34mdevice-mapper-1.02.67\u001b[00m               \u001b[00;34mlibrpcsecgss\u001b[00m                     \u001b[00;34mslang-2.0.6\u001b[00m\r\n\u001b[00;34mdevice-mapper-multipath-0.4.9\u001b[00m       \u001b[00;34mlibsmbclient-3.0.33\u001b[00m              \u001b[00;34msmartmontools-5.41\u001b[00m\r\n\u001b[00;34mdevice-mapper-multipath-libs-0.4.9\u001b[00m  \u001b[00;34mlibsysfs-2.1.0\u001b[00m                   \u001b[00;34msplashy-0.3.9\u001b[00m\r\n\u001b[00;34mdhclient-3.0.5\u001b[00m                      \u001b[00;34mlibuser-0.54.7\u001b[00m                   \u001b[00;34msqlite-3.3.6\u001b[00m\r\n\u001b[00;34mdhcp-3.0.5\u001b[00m                          \u001b[00;34mlibutempter-1.1.4\u001b[00m                \u001b[00;34mssmtp-2.61\u001b[00m\r\n\u001b[00;34mdhcpv6-client-1.0.10\u001b[00m                \u001b[00;34mlibX11-1.0.3\u001b[00m                     \u001b[00;34mstrace-4.7\u001b[00m\r\n\u001b[00;34mdiffutils-2.8.1\u001b[00m                     \u001b[00;34mlibXau-1.0.1\u001b[00m                     \u001b[00;34mstunnel-4.15\u001b[00m\r\n\u001b[00;34mdirectfb-1.0.1\u001b[00m                      \u001b[00;34mlibXdmcp-1.0.1\u001b[00m                   \u001b[00;34msudo-1.7.2p1\u001b[00m\r\n\u001b[00;34mdmidecode-2.11\u001b[00m                      \u001b[00;34mlibXext-1.0.1\u001b[00m                    \u001b[00;34msysfsutils-2.1.0\u001b[00m\r\n\u001b[00;34mdmraid-1.0.0.rc13\u001b[00m                   \u001b[00;34mlibxml2-2.6.26\u001b[00m                   \u001b[00;34msysklogd-1.4.1\u001b[00m\r\n\u001b[00;34me2fsprogs-1.39\u001b[00m                      \u001b[00;34mlibXrandr-1.1.1\u001b[00m                  \u001b[00;34msyslinux-4.06\u001b[00m\r\n\u001b[00;34mebtables-2.0.9\u001b[00m                      \u001b[00;34mlibXrender-0.9.1\u001b[00m                 \u001b[00;34msysstat-7.0.2\u001b[00m\r\n\u001b[00;34med-0.2\u001b[00m                              \u001b[00;34mlinux-firmware-20140605\u001b[00m          \u001b[00;34msy"
+    ],
+    [
+      0.005012,
+      "stem-config-securitylevel-tui-1.6.29.1\u001b[00m\r\n\u001b[00;34meject-2.1.5\u001b[00m                         \u001b[00;34mlogrotate-3.7.4\u001b[00m                  \u001b[00;34msystemtap-runtime-2.4\u001b[00m\r\n\u001b[00;34methtool-3.10\u001b[00m                        \u001b[00;34mlvm2-2.02.88\u001b[00m                     \u001b[00;34mSysVinit-2.86\u001b[00m\r\n\u001b[00;34mexpat-1.95.8\u001b[00m                        \u001b[00;34mm2crypto-0.16\u001b[00m                    \u001b[00;34mtar-1.15.1\u001b[00m\r\n\u001b[00;34mfbi-1.31\u001b[00m                            \u001b[00;34mMAKEDEV-3.23\u001b[00m                     \u001b[00;34mtcl-8.4.13\u001b[00m\r\n\u001b[00;34mfile-4.17\u001b[00m                           \u001b[00;34mmcelog-1.0pre3_20101112\u001b[00m          \u001b[00;34mtcpdump-4.0.0\u001b[00m\r\n\u001b[00;34mfindutils-4.2.27\u001b[00m                    \u001b[00;34mmdadm-3.2.6\u001b[00m                      \u001b[00;34mtcp_wrappers-7.6\u001b[00m\r\n\u001b[00;34mfipscheck-1.2.0\u001b[00m                     \u001b[00;34mmemtest86+-1.65\u001b[00m                  \u001b[00;34mtime-1.7\u001b[00m\r\n\u001b[00;34mfreetype-2.2.1\u001b[00m                      \u001b[00;34mmingetty-1.07\u001b[00m                    \u001b[00;34mtzdata-2014e\u001b[00m\r\n\u001b[00;34mgawk-3.1.5\u001b[00m                          \u001b[00;34mmktemp-1.5\u001b[00m                       \u001b[00;34mudev-095\u001b[00m\r\n\u001b[00;34mgdbm-1.8.0\u001b[00m                          \u001b[00;34mnano-1.3.12\u001b[00m                      \u001b[00;34munzip-5.52\u001b[00m\r\n\u001b[00;34mglib2-2.12.3\u001b[00m                        \u001b[00;34mncurses-5.5\u001b[00m                      \u001b[00;34mutil-linux-2.13\u001b[00m\r\n\u001b[00;34mglibc-2.5\u001b[00m                           \u001b[00;34mnet-snmp-5.3.2.2\u001b[00m                 \u001b[00;34mvconfig-1.9\u001b[00m\r\n\u001b[00;34mglibc-common-2.5\u001b[00m                    \u001b[00;34mnet-tools-1.60\u001b[00m                   \u001b[00;34mvgpu-6.5.0\u001b[00m\r\n\u001b[00;34mgnupg-1.4.5\u001b[00m                         \u001b[00;34mnewt-0.52.2\u001b[00m                      \u001b[00;34mvhostmd\u001b[00m\r\n\u001b[00;34mgrep-2.5.1\u001b[00m                          \u001b[00;34mnfs-utils-1.0.9\u001b[00m                  \u001b[00;34mvncsnapshot-1.2a\u001b[00m\r\n\u001b[00;34mgroff-1.18.1.1\u001b[00m                      \u001b[00;34mntp-4.2.2p1\u001b[00m                      \u001b[00;34mwget-1.11.4\u001b[00m\r\n\u001b[00;34mgzip-1.3.5\u001b[00m                          \u001b[00;34mopenldap-2.3.43\u001b[00m                  \u001b[00;34mwhich-2.16\u001b[00m\r\n\u001b[00;34mhal-0.5.8.1\u001b[00m                         \u001b[00;34mopenssh-4.3p2\u001b[00m                    \u001b[00;34mxdelta-1.1.3\u001b[00m\r\n\u001b[00;34mhdparm-9.37\u001b[00m                         \u001b[00;34mopenssl-0.9.8e\u001b[00m                   \u001b[00;34mxe-guest-utilities-6.5.0\u001b[00m\r\n\u001b[00;34mhmaccalc-0.9.6\u001b[00m                      \u001b[00;34mopenvswitch-2.1.3\u001b[00m                \u001b[00;34mXenServer\u001b[00m\r\n\u001b[00;34mHTML\u001b[00m                                \u001b[00;34moprofile-0.9.7\u001b[00m                   \u001b[00;34mxsconsole-6.5.0\u001b[00m\r\n\u001b[00;34mhwdata-0.213.24\u001b[00m                     \u001b[00;34mpam-0.99.6.2\u001b[00m                     \u001b[00;34mxz-4.999.9\u001b[00m\r\n\u001b[00;34minfo-4.8\u001b[00m                            \u001b[00;34mpatch-2.5.4\u001b[00m                      \u001b[00;34mxz-libs-4.999.9\u001b[00m\r\n\u001b[00;34minitscripts-8.45.44\u001b[00m                 \u001b[00;34mpciutils-3.2.1\u001b[00m                   \u001b[00;34myajl-1.0.12\u001b[00m\r\n\u001b[00;34mipmitool\u001b[00m                            \u001b[00;34mpciutils-libs-3.2.1\u001b[00m              \u001b[00;34myum-3.2.22\u001b[00m\r\n\u001b[00;34miproute-3.6.0\u001b[00m                       \u001b[00;34mpcre-6.6\u001b[00m                         \u001b[00;34myum-metadata-parser-1.1.2\u001b[00m\r\n\u001b[00;34mipset-6.11\u001b[00m                          \u001b[00;34mpexpect-2.3\u001b[00m                      \u001b[00;34mzip-2.31\u001b[00m\r\n\u001b[00;34miptables-1.4.16.3\u001b[00m                   \u001b[00;34mpmtools-20100513\u001b[00m                 \u001b[00;34mzlib-1.2.3\u001b[00m\r\n\u001b[00;34miputils-20020927\u001b[00m                    \u001b[00;34mpopt-1.10.2.3\u001b[00m\r\n\u001b[00;34mirqbalance-1.0.7\u001b[00m                    \u001b[00;34mportmap-4.0\u001b[00m\r\n\u001b[m"
+    ],
+    [
+      0.000042,
+      "\u001b]0;root@decadent:/usr/share/doc\u0007"
+    ],
+    [
+      0.001676,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share/doc\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      4.398015,
+      "c"
+    ],
+    [
+      0.096056,
+      "d"
+    ],
+    [
+      0.059073,
+      " "
+    ],
+    [
+      0.148869,
+      "."
+    ],
+    [
+      0.188001,
+      "."
+    ],
+    [
+      0.062004,
+      "\r\n\u001b]0;root@decadent:/usr/share\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.861018,
+      "d"
+    ],
+    [
+      0.053012,
+      "u"
+    ],
+    [
+      0.391006,
+      " "
+    ],
+    [
+      0.571004,
+      "-"
+    ],
+    [
+      0.221996,
+      "s"
+    ],
+    [
+      0.078026,
+      "h"
+    ],
+    [
+      0.081988,
+      " "
+    ],
+    [
+      0.289026,
+      " "
+    ],
+    [
+      0.441946,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.525042,
+      "*"
+    ],
+    [
+      0.097968,
+      " "
+    ],
+    [
+      0.596000,
+      "|"
+    ],
+    [
+      0.172995,
+      " "
+    ],
+    [
+      0.149999,
+      "l"
+    ],
+    [
+      0.130956,
+      "e"
+    ],
+    [
+      0.093925,
+      "s"
+    ],
+    [
+      0.133079,
+      "s"
+    ],
+    [
+      0.216047,
+      "\r\n"
+    ],
+    [
+      0.003245,
+      "\u001b[?1049h\u001b[?1h\u001b=\r8.0K    applications\r\n80K     awk\r\n7.8M    cracklib\r\n"
+    ],
+    [
+      0.000066,
+      "12K     dbus-1\r\n212K    desktop-directories\r\n"
+    ],
+    [
+      0.001030,
+      "164K    desktop-menu-patches\r\n4.0K    dict\r\n"
+    ],
+    [
+      0.000637,
+      "12K     directfb-1.0.1\r\n"
+    ],
+    [
+      0.010027,
+      "39M     doc\r\n40K     emacs\r\n4.0K    empty\r\n"
+    ],
+    [
+      0.001070,
+      "8.0K    eula\r\n1.5M    file\r\n"
+    ],
+    [
+      0.000868,
+      "20K     firstboot\r\n4.0K    games\r\n"
+    ],
+    [
+      0.001008,
+      "144K    gnupg\r\n"
+    ],
+    [
+      0.001004,
+      "3.3M    groff\r\n272K    hal\r\n"
+    ],
+    [
+      0.001090,
+      "1.7M    hwdata\r\n"
+    ],
+    [
+      0.000946,
+      "7.9M    i18n\r\n"
+    ],
+    [
+      0.000891,
+      "2.2M    info\r\n112K    ipmitool\r\n"
+    ],
+    [
+      0.002101,
+      "8.0K    keyutils\r\n"
+    ],
+    [
+      0.026974,
+      "45M     locale\r\n0       magic\r\n0       magic.mime\r\n"
+    ],
+    [
+      0.006979,
+      "13M     man\r\n"
+    ],
+    [
+      0.001959,
+      "4.0K    misc\r\n:\u001b[K"
+    ],
+    [
+      11.282110,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K60K     nano\r\n:\u001b[K"
+    ],
+    [
+      0.818986,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K4.0K    openldap\r\n:\u001b[K"
+    ],
+    [
+      0.306998,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K1.4M    openvswitch\r\n:\u001b[K"
+    ],
+    [
+      0.253006,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K2.8M    oprofile\r\n:\u001b[K"
+    ],
+    [
+      0.236996,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K4.0K    pixmaps\r\n:\u001b[K"
+    ],
+    [
+      0.213970,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K2.5M    snmp\r\n:\u001b[K"
+    ],
+    [
+      0.747000,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K84K     splash\r\n:\u001b[K"
+    ],
+    [
+      0.254002,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K2.2M    splashy\r\n:\u001b[K"
+    ],
+    [
+      0.366930,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K3.6M    syslinux\r\n:\u001b[K"
+    ],
+    [
+      0.329063,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K20K     tabset\r\n:\u001b[K"
+    ],
+    [
+      1.834065,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K2.1M    tcl8.4\r\n:\u001b[K"
+    ],
+    [
+      0.333960,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K6.2M    terminfo\r\n:\u001b[K"
+    ],
+    [
+      0.227003,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K20K     vhostmd\r\n:\u001b[K"
+    ],
+    [
+      0.396015,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K2.4M    X11\r\n:\u001b[K"
+    ],
+    [
+      0.252998,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K152K    xen\r\n:\u001b[K"
+    ],
+    [
+      0.682968,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K4.0K    xsessions\r\n:\u001b[K"
+    ],
+    [
+      0.277029,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K568K    yum-cli\r\n:\u001b[K"
+    ],
+    [
+      0.447990,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K5.5M    zoneinfo\r\n:\u001b[K"
+    ],
+    [
+      0.327952,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.190018,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      1.318040,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001942,
+      "\u001b]0;root@decadent:/usr/share\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr/share\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      2.127055,
+      "c"
+    ],
+    [
+      0.108955,
+      "d"
+    ],
+    [
+      0.102043,
+      " "
+    ],
+    [
+      0.142952,
+      "."
+    ],
+    [
+      0.162055,
+      "."
+    ],
+    [
+      0.098044,
+      "\r\n\u001b]0;root@decadent:/usr\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.420940,
+      "d"
+    ],
+    [
+      0.137997,
+      "u"
+    ],
+    [
+      0.222894,
+      " "
+    ],
+    [
+      0.175127,
+      "-"
+    ],
+    [
+      0.177985,
+      "s"
+    ],
+    [
+      0.078147,
+      "h"
+    ],
+    [
+      0.086862,
+      " "
+    ],
+    [
+      0.217992,
+      "*"
+    ],
+    [
+      0.087005,
+      " "
+    ],
+    [
+      0.160066,
+      "|"
+    ],
+    [
+      0.210937,
+      " "
+    ],
+    [
+      0.119015,
+      "L"
+    ],
+    [
+      0.199991,
+      "e"
+    ],
+    [
+      0.097005,
+      "s"
+    ],
+    [
+      0.493993,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.013048,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.123945,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.378008,
+      "l"
+    ],
+    [
+      0.036972,
+      "e"
+    ],
+    [
+      0.090024,
+      "s"
+    ],
+    [
+      0.140985,
+      "s"
+    ],
+    [
+      0.238018,
+      "\r\n"
+    ],
+    [
+      0.002987,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.002160,
+      "101M    bin\r\n4.0K    etc\r\n4.0K    games\r\n196K    include\r\n"
+    ],
+    [
+      0.000816,
+      "80K     kerberos\r\n"
+    ],
+    [
+      0.036020,
+      "142M    lib\r\n"
+    ],
+    [
+      0.015053,
+      "120M    lib64\r\n"
+    ],
+    [
+      0.000982,
+      "1.2M    libexec\r\n128K    local\r\n"
+    ],
+    [
+      0.000957,
+      "20K     man\r\n28M     sbin\r\n"
+    ],
+    [
+      0.078036,
+      "151M    share\r\n12K     src\r\n0       tmp\r\n\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      6.903967,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001721,
+      "\u001b]0;root@decadent:/usr\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/usr\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.025258,
+      "c"
+    ],
+    [
+      0.094035,
+      "d"
+    ],
+    [
+      0.087958,
+      " "
+    ],
+    [
+      0.087075,
+      "/"
+    ],
+    [
+      1.294958,
+      "v"
+    ],
+    [
+      0.092015,
+      "a"
+    ],
+    [
+      0.150976,
+      "r"
+    ],
+    [
+      0.295064,
+      "\r\n\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.751945,
+      "l"
+    ],
+    [
+      0.230037,
+      "s"
+    ],
+    [
+      0.079051,
+      " "
+    ],
+    [
+      0.342881,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.132004,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129952,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.154057,
+      "\u0007"
+    ],
+    [
+      0.281039,
+      "d"
+    ],
+    [
+      0.091997,
+      "u"
+    ],
+    [
+      0.278000,
+      " "
+    ],
+    [
+      0.134008,
+      "-"
+    ],
+    [
+      0.227884,
+      "s"
+    ],
+    [
+      0.077033,
+      "h"
+    ],
+    [
+      0.075954,
+      " "
+    ],
+    [
+      0.477117,
+      "*"
+    ],
+    [
+      0.102988,
+      " "
+    ],
+    [
+      0.382009,
+      "|"
+    ],
+    [
+      0.412006,
+      " "
+    ],
+    [
+      0.164071,
+      "l"
+    ],
+    [
+      0.085937,
+      "e"
+    ],
+    [
+      0.177005,
+      "s"
+    ],
+    [
+      0.167998,
+      "s"
+    ],
+    [
+      0.487199,
+      "\r\n"
+    ],
+    [
+      0.004804,
+      "\u001b[?1049h\u001b[?1h\u001b=\r304K    cache\r\n4.0K    crash\r\n4.0K    db\r\n12K     empty\r\n4.0K    games\r\n"
+    ],
+    [
+      0.001071,
+      "13M     lib\r\n4.0K    local\r\n56K     lock\r\n"
+    ],
+    [
+      0.001027,
+      "13M     log\r\n0       mail\r\n4.0K    nis\r\n24K     opt\r\n4.0K    preserve\r\n"
+    ],
+    [
+      0.000882,
+      "284K    run\r\n28K     spool\r\n"
+    ],
+    [
+      0.005069,
+      "513M    swap\r\n4.0K    tmp\r\n"
+    ],
+    [
+      0.002134,
+      "3.6M    xapi\r\n40K     xen\r\n4.0K    yp\r\n\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      43.182029,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b]0;root@decadent:/var\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.243781,
+      "l"
+    ],
+    [
+      0.294062,
+      "s"
+    ],
+    [
+      0.047860,
+      " "
+    ],
+    [
+      0.123079,
+      "-"
+    ],
+    [
+      0.283943,
+      "l"
+    ],
+    [
+      0.093971,
+      "h"
+    ],
+    [
+      0.119125,
+      " "
+    ],
+    [
+      0.250955,
+      "s"
+    ],
+    [
+      0.173928,
+      "w"
+    ],
+    [
+      0.043074,
+      "a"
+    ],
+    [
+      0.202006,
+      "p/"
+    ],
+    [
+      0.446968,
+      "\r\n"
+    ],
+    [
+      0.005036,
+      "\u001b[00mtotal 513M\r\n-rw-r--r-- 1 root root 512M Feb  8 02:35 \u001b[00mswap.001\u001b[00m\r\n\u001b[m"
+    ],
+    [
+      0.001934,
+      "\u001b]0;root@decadent:/var\u0007"
+    ],
+    [
+      0.002061,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/var\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      4.412049,
+      "c"
+    ],
+    [
+      0.067933,
+      "d"
+    ],
+    [
+      0.030975,
+      " "
+    ],
+    [
+      0.083925,
+      "/"
+    ],
+    [
+      0.277150,
+      "\r\n\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.395001,
+      "d"
+    ],
+    [
+      0.092946,
+      "u"
+    ],
+    [
+      0.324885,
+      " "
+    ],
+    [
+      0.111090,
+      "-"
+    ],
+    [
+      0.203995,
+      "s"
+    ],
+    [
+      0.079058,
+      "h"
+    ],
+    [
+      0.078033,
+      " "
+    ],
+    [
+      0.282016,
+      "*"
+    ],
+    [
+      0.089942,
+      " "
+    ],
+    [
+      0.306998,
+      "|"
+    ],
+    [
+      0.446993,
+      " "
+    ],
+    [
+      0.217026,
+      "l"
+    ],
+    [
+      0.089969,
+      "e"
+    ],
+    [
+      0.135015,
+      "s"
+    ],
+    [
+      0.173012,
+      "s"
+    ],
+    [
+      0.240990,
+      "\r\n"
+    ],
+    [
+      0.003026,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.001283,
+      "5.7M    bin\r\n"
+    ],
+    [
+      0.000691,
+      "22M     boot\r\n"
+    ],
+    [
+      0.001089,
+      "2.1M    cli-rt\r\n"
+    ],
+    [
+      0.000894,
+      "160K    dev\r\n"
+    ],
+    [
+      0.006027,
+      "6.6M    etc\r\n28K     EULA\r\n32K     home\r\n"
+    ],
+    [
+      0.014917,
+      "118M    lib\r\n"
+    ],
+    [
+      0.000993,
+      "20M     lib64\r\n16K     lost+found\r\n4.0K    media\r\n"
+    ],
+    [
+      0.001044,
+      "2.0G    mnt\r\n"
+    ],
+    [
+      0.008048,
+      "219M    opt\r\n"
+    ],
+    [
+      0.177044,
+      "0       proc\r\n12K     Read_Me_First.html\r\n"
+    ],
+    [
+      0.002014,
+      "56K     root\r\n24M     sbin\r\n4.0K    selinux\r\n4.0K    srv\r\n"
+    ],
+    [
+      0.126938,
+      "0       sys\r\n1.6M    tftpboot\r\n20K     tmp\r\n"
+    ],
+    [
+      0.133049,
+      "542M    usr\r\n"
+    ],
+    [
+      0.010107,
+      "542M    var\r\n"
+    ],
+    [
+      0.000999,
+      "\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      3.600841,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.169994,
+      "l"
+    ],
+    [
+      0.252998,
+      "s"
+    ],
+    [
+      0.070991,
+      " "
+    ],
+    [
+      0.117034,
+      "-"
+    ],
+    [
+      0.243986,
+      "l"
+    ],
+    [
+      0.108989,
+      " "
+    ],
+    [
+      0.231016,
+      "b"
+    ],
+    [
+      0.053918,
+      "o"
+    ],
+    [
+      0.149105,
+      "o"
+    ],
+    [
+      0.174914,
+      "t/"
+    ],
+    [
+      0.275052,
+      "\r\n"
+    ],
+    [
+      0.005040,
+      "\u001b[00mtotal 21100\r\n"
+    ],
+    [
+      0.002967,
+      "-rw-r--r-- 2 root root   39744 Nov 27 23:06 \u001b[00mchain.c32\u001b[00m\r\n-rw-r--r-- 1 root root   92575 Dec 10 01:46 \u001b[00mconfig-3.10.0+2\u001b[00m\r\n"
+    ],
+    [
+      0.004011,
+      "drwxr-xr-x 2 root root    4096 Dec 12 22:05 \u001b[00;34mextlinux\u001b[00m\r\n"
+    ],
+    [
+      0.001554,
+      "-rw------- 1 root root    1889 Feb  8 02:35 \u001b[00mextlinux.conf\u001b[00m\r\ndrwxr-xr-x 2 root root    4096 Dec 12 22:07 \u001b[00;34mgrub\u001b[00m\r\n"
+    ],
+    [
+      0.003410,
+      "-rw------- 1 root root 3712742 Feb  8 02:35 \u001b[00minitrd-3.10.0+2.img\u001b[00m\r\n-rw-r--r-- 1 root root      74 Feb  8 02:35 \u001b[00;32minitrd-3.10.0+2.img.cmd\u001b[00m\r\n"
+    ],
+    [
+      0.002994,
+      "lrwxrwxrwx 1 root root      19 Feb  8 02:35 \u001b[00;36minitrd-3.10-xen.img\u001b[00m -\u003e \u001b[00minitrd-3.10.0+2.img\u001b[00m\r\n-rw------- 1 root root 4338457 Feb  8 02:35 \u001b[00minitrd-fallback.img\u001b[00m"
+    ],
+    [
+      0.001263,
+      "\r\n"
+    ],
+    [
+      0.000704,
+      "-r--r--r-- 1 root root   38400 Feb  8 02:35 \u001b[00mldlinux.sys\u001b[00m\r\n-rw-r--r-- 2 root root   35676 Nov 27 23:06 \u001b[00mmboot.c32\u001b[00m\r\n"
+    ],
+    [
+      0.003084,
+      "-rw-r--r-- 1 root root   94600 Jan  9  2007 \u001b[00mmemtest86+-1.65\u001b[00m\r\n-rw-r--r-- 2 root root   61796 Nov 27 23:06 \u001b[00mmenu.c32\u001b[00m\r\n"
+    ],
+    [
+      0.006920,
+      "-rw-r--r-- 1 root root 2603458 Dec 10 01:46 \u001b[00mSystem.map-3.10.0+2\u001b[00m\r\n-rw-r--r-- 1 root root 4163216 Dec 10 01:46 \u001b[00mvmlinuz-3.10.0+2\u001b[00m\r\n"
+    ],
+    [
+      0.001033,
+      "lrwxrwxrwx 1 root root      16 Feb  8 02:35 \u001b[00;36mvmlinuz-3.10-xen\u001b[00m -\u003e \u001b[00mvmlinuz-3.10.0+2\u001b[00m\r\n-rw-r--r-- 1 root root 4163216 Feb  8 02:35 \u001b[00mvmlinuz-fallback\u001b[00m\r\n-rw-r--r-- 1 root root  850395 Dec 10 02:33 \u001b[00;31mxen-4.4.1-xs90192-d.gz\u001b[00m\r\n-rw-r--r-- 1 root root  235384 Dec 10 02:33 \u001b[00mxen-4.4.1-xs90192-d.map\u001b[00m\r\n-rw-r--r-- 1 root root  837994 Dec 10 02:33 \u001b[00;31mxen-4.4.1-xs90192.gz\u001b[00m\r\n-rw-r--r-- 1 root root  231311 Dec 10 02:33 \u001b[00mxen-4.4.1-xs90192.map\u001b[00m\r\nlrwxrwxrwx 1 root root      22 Feb  8 02:33 \u001b[00;36mxen-debug.gz\u001b[00m -\u003e \u001b[00;31mxen-4.4.1-xs90192-d.gz\u001b[00m\r\nlrwxrwxrwx 1 root root      20 Feb  8 02:33 \u001b[00;36mxen.gz\u001b[00m -\u003e \u001b[00;31mxen-4.4.1-xs90192.gz\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      33.316022,
+      "l"
+    ],
+    [
+      0.307980,
+      "s"
+    ],
+    [
+      0.111013,
+      " "
+    ],
+    [
+      0.108003,
+      "-"
+    ],
+    [
+      0.267993,
+      "l"
+    ],
+    [
+      0.270988,
+      "\r\n"
+    ],
+    [
+      0.002917,
+      "\u001b[00mtotal 128\r\n"
+    ],
+    [
+      0.001046,
+      "drwxr-xr-x   2 root root  4096 Dec 12 22:05 \u001b[00;34mbin\u001b[00m\r\n"
+    ],
+    [
+      0.001010,
+      "drwxr-xr-x   4 root root  4096 Feb  8 02:35 \u001b[00;34mboot\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Feb  8 02:34 \u001b[00;34mcli-rt\u001b[00m\r\ndrwxr-xr-x  16 root root  6800 Apr  5 21:39 \u001b[00;34mdev\u001b[00m\r\ndrwxr-xr-x  69 root root  4096 Apr  5 22:07 \u001b[00;34metc\u001b[00m\r\n"
+    ],
+    [
+      0.001481,
+      "-rw-r--r--   1 root root 26216 Dec  3 22:23 \u001b[00mEULA\u001b[00m\r\ndrwxr-xr-x   3 root root  4096 Apr  4 19:24 \u001b[00;34mhome\u001b[00m\r\ndrwxr-xr-x   9 root root  4096 Dec 12 22:05 \u001b[00;34mlib\u001b[00m\r\ndrwxr-xr-x  10 root root  4096 Dec 12 22:06 \u001b[00;34mlib64\u001b[00m\r\ndrwx------   2 root root 16384 Feb  8 02:32 \u001b[00;34mlost+found\u001b[00m\r\n"
+    ],
+    [
+      0.001457,
+      "drwxr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34mmedia\u001b[00m\r\ndrwxr-xr-x   4 root root  4096 Feb  8 03:05 \u001b[00;34mmnt\u001b[00m\r\ndrwxr-xr-x   6 root root  4096 Dec 10 02:47 \u001b[00;34mopt\u001b[00m\r\ndr-xr-xr-x 153 root root     0 Apr  5 19:18 \u001b[00;34mproc\u001b[00m\r\n-rwxr-xr-x   1 root root 10591 Dec  3 22:23 \u001b[00;32mRead_Me_First.html\u001b[00m"
+    ],
+    [
+      0.001093,
+      "\r\ndrwxr-x---   3 root root  4096 Apr  5 21:50 \u001b[00;34mroot\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Feb  8 02:34 \u001b[00;34msbin\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34mselinux\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 May 11  2011 \u001b[00;34msrv\u001b[00m\r\ndr-xr-xr-x  13 root root     0 Apr  5 19:18 \u001b[00;34msys\u001b[00m\r\ndrwxr-xr-x   2 root root  4096 Dec 12 22:05 \u001b[00;34mtftpboot\u001b[00m\r\ndrwxrwxrwt   5 root root  4096 Apr  5 22:16 \u001b[30;42mtmp\u001b[00m\r\ndrwxr-xr-x  15 root root  4096 Dec  3 22:23 \u001b[00;34musr\u001b[00m\r\ndrwxr-xr-x  21 root root  4096 Feb  8 02:35 \u001b[00;34mvar\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      11.619019,
+      "l"
+    ],
+    [
+      0.266981,
+      "s"
+    ],
+    [
+      0.094065,
+      " "
+    ],
+    [
+      0.101949,
+      "-"
+    ],
+    [
+      0.234958,
+      "l"
+    ],
+    [
+      0.063995,
+      " "
+    ],
+    [
+      0.507054,
+      "t"
+    ],
+    [
+      0.242990,
+      "f"
+    ],
+    [
+      0.063015,
+      "t"
+    ],
+    [
+      0.837985,
+      "pboot/"
+    ],
+    [
+      0.404006,
+      "\r\n"
+    ],
+    [
+      0.003031,
+      "\u001b[00mtotal 1632\r\n"
+    ],
+    [
+      0.001972,
+      "-rw-r--r-- 1 root root   6208 Nov 27 23:06 \u001b[00mcat.c32\u001b[00m\r\n-rw-r--r-- 1 root root  39744 Nov 27 23:06 \u001b[00mchain.c32\u001b[00m\r\n"
+    ],
+    [
+      0.002003,
+      "-rw-r--r-- 1 root root    800 Nov 27 23:06 \u001b[00mcmd.c32\u001b[00m\r\n"
+    ],
+    [
+      0.002112,
+      "-rw-r--r-- 1 root root   5132 Nov 27 23:06 \u001b[00mconfig.c32\u001b[00m\r\n-rw-r--r-- 1 root root   5772 Nov 27 23:06 \u001b[00mcpuid.c32\u001b[00m\r\n"
+    ],
+    [
+      0.001886,
+      "-rw-r--r-- 1 root root  15832 Nov 27 23:06 \u001b[00mcpuidtest.c32\u001b[00m\r\n-rw-r--r-- 1 root root   5772 Nov 27 23:06 \u001b[00mdisk.c32\u001b[00m\r\n-rw-r--r-- 1 root root  37528 Nov 27 23:06 \u001b[00mdmitest.c32\u001b[00m\r\n-rw-r--r-- 1 root root  29776 Nov 27 23:06 \u001b[00melf.c32\u001b[00m\r\n"
+    ],
+    [
+      0.003968,
+      "-rw-r--r-- 1 root root  29776 Nov 27 23:06 \u001b[00methersel.c32\u001b[00m\r\n"
+    ],
+    [
+      0.001995,
+      "-rw-r--r-- 1 root root  23356 Nov 27 23:06 \u001b[00mgfxboot.c32\u001b[00m\r\n-rw-r--r-- 1 root root   2448 Nov 27 23:06 \u001b[00mgpxecmd.c32\u001b[00m\r\n"
+    ],
+    [
+      0.001928,
+      "-rw-r--r-- 1 root root  89931 Nov 27 23:06 \u001b[00mgpxelinux.0\u001b[00m\r\n-rw-r--r-- 1 root root 359384 Nov 27 23:06 \u001b[00mhdt.c32\u001b[00m\r\n"
+    ],
+    [
+      0.003088,
+      "-rw-r--r-- 1 root root   4748 Nov 27 23:06 \u001b[00mhost.c32\u001b[00m\r\n-rw-r--r-- 1 root root   1312 Nov 27 23:06 \u001b[00mifcpu64.c32\u001b[00m\r\n-rw-r--r-- 1 root root  20832 Nov 27 23:06 \u001b[00mifcpu.c32\u001b[00m\r\n-rw-r--r-- 1 root root   7244 Nov 27 23:06 \u001b[00mifmemdsk.c32\u001b[00m\r\n-rw-r--r-- 1 root root   2444 Nov 27 23:06 \u001b[00mifplop.c32\u001b[00m\r\n-rw-r--r-- 1 root root     55 Nov 27 23:06 \u001b[00;32mint18.com\u001b[00m\r\n-rw-r--r-- 1 root root   5340 Nov 27 23:06 \u001b[00mkbdmap.c32\u001b[00m\r\n-rw-r--r-- 1 root root   9532 Nov 27 23:06 \u001b[00mkontron_wdt.c32\u001b[00m\r\n-rw-r--r-- 1 root root  18920 Nov 27 23:06 \u001b[00mlinux.c32\u001b[00m\r\n-rw-r--r-- 1 root root   9900 Nov 27 23:06 \u001b[00mls.c32\u001b[00m\r\n-rw-r--r-- 1 root root 263636 Nov 27 23:06 \u001b[00mlua.c32\u001b[00m\r\n-rw-r--r-- 1 root root  35676 Nov 27 23:06 \u001b[00mmboot.c32\u001b[00m\r\n-rw-r--r-- 1 root root  26268 Nov 27 23:06 \u001b[00mmemdisk\u001b[00m\r\n-rw-r--r-- 1 root root   5912 Nov 27 23:06 \u001b[00;32mmemdump.com\u001b[00m\r\n-rw-r--r-- 1 root root   5556 Nov 27 23:06 \u001b[00mmeminfo.c32\u001b[00m\r\n-rw-r--r-- 1 root root  61796 Nov 27 23:06 \u001b[00mmenu.c32\u001b[00m\r\n"
+    ],
+    [
+      0.002035,
+      "-rw-r--r-- 1 root root  33764 Nov 27 23:06 \u001b[00mpcitest.c32\u001b[00m\r\n-rw-r--r-- 1 root root  13916 Nov 27 23:06 \u001b[00mpmload.c32\u001b[00m\r\n-rw-r--r-- 1 root root    239 Nov 27 23:06 \u001b[00;32mpoweroff.com\u001b[00m\r\n-rw-r--r-- 1 root root  13392 Nov 27 23:06 \u001b[00mprdhcp.c32\u001b[00m\r\n-rw-r--r-- 1 root root   1932 Nov 27 23:06 \u001b[00mpwd.c32\u001b[00m\r\n-rw-r--r-- 1 root root    998 Nov 27 23:06 \u001b[00;32mpxechain.com\u001b[00m\r\n-rw-r--r-- 1 root root  30736 Nov 27 23:06 \u001b[00mpxechn.c32\u001b[00m\r\n-rw-r--r-- 1 root root  27294 Nov 27 23:06 \u001b[00mpxelinux.0\u001b[00m\r\n-rw-r--r-- 1 root root    800 Nov 27 23:06 \u001b[00mreboot.c32\u001b[00m\r\n-rw-r--r-- 1 root root  22536 Nov 27 23:06 \u001b[00mrosh.c32\u001b[00m\r\n-rw-r--r-- 1 root root   2448 Nov 27 23:06 \u001b[00msanboot.c32\u001b[00m\r\n-rw-r--r-- 1 root root  26960 Nov 27 23:06 \u001b[00msdi.c32\u001b[00m\r\n-rw-r--r-- 1 root root  42352 Nov 27 23:06 \u001b[00msysdump.c32\u001b[00m\r\n-rw-r--r-- 1 root root   1300 Nov 27 23:06 \u001b[00;32mver.com\u001b[00m\r\n-rw-r--r-- 1 root root   5516 Nov 27 23:06 \u001b[00mvesainfo.c32\u001b[00m\r\n-rw-r--r-- 1 root root 163728 Nov 27 23:06 \u001b[00mvesamenu.c32\u001b[00m\r\n-rw-r--r-- 1 root root   6436 Nov 27 23:06 \u001b[00mvpdtest.c32\u001b[00m\r\n-rw-r--r-- 1 root root   2960 Nov 27 23:06 \u001b[00mwhichsys.c32\u001b[00m\r\n-rw-r--r-- 1 root root  10000 Nov 27 23:06 \u001b[00mzzjson.c32\u001b[00m\r\n\u001b[m\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      5.345973,
+      "d"
+    ],
+    [
+      0.204003,
+      "f"
+    ],
+    [
+      0.389003,
+      " "
+    ],
+    [
+      0.103004,
+      "-"
+    ],
+    [
+      0.147008,
+      "h"
+    ],
+    [
+      0.294978,
+      "\r\n"
+    ],
+    [
+      0.002044,
+      "Filesystem            Size  Used Avail Use% Mounted on\r\n/dev/sdb1             4.0G  3.6G  216M  95% /\r\nnone                  299M   52K  299M   1% /dev/shm\r\n"
+    ],
+    [
+      0.000922,
+      "\u001b]0;root@decadent:/\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[root\u001b[1;34m@\u001b[0;31mdecadent\u001b[0;31m:\u001b[1;34m/\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      5.474039,
+      "e"
+    ],
+    [
+      0.088006,
+      "x"
+    ],
+    [
+      0.244006,
+      "i"
+    ],
+    [
+      0.090004,
+      "t"
+    ],
+    [
+      0.307954,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.001990,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.001439,
+      "Connection to xendom0 closed.\r\r\n"
+    ],
+    [
+      0.000497,
+      "\u001b]0;\u0007"
+    ],
+    [
+      0.008625,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.860427,
+      "e"
+    ],
+    [
+      0.071006,
+      "x"
+    ],
+    [
+      0.236029,
+      "i"
+    ],
+    [
+      0.087980,
+      "t"
+    ],
+    [
+      0.900666,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
