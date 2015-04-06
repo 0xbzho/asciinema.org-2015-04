@@ -1,0 +1,1010 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 82.528596,
+  "command": "tmux",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005316,
+      "\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b]0;ganesha:0.1.0 zsh ganesha\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:zsh*\u001b[37m                                          \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094749,
+      "\u001b[1;23r\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[1;1H \u001b[1;24r\u001b[H"
+    ],
+    [
+      0.000459,
+      "\u001b]0;ganesha:0.1.0 ~ ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~*\u001b[37m                                            \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008698,
+      "\u001b[1;23r\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[6C"
+    ],
+    [
+      0.000013,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[6Cm\u0008mkdir -p ~/.config/rebar3/templates\u001b[1;24r\u001b[H\u001b[41C"
+    ],
+    [
+      0.405592,
+      "\u001b]0;ganesha:0.1.0 mkdir ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:mkdir*\u001b[37m                                        \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001629,
+      "\u001b[1;23r\u001b[H\r\n\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[2;1H \u001b]0;ganesha:0.1.0 ~ ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~*\u001b[37m                                            \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\r\n\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003318,
+      "\u001b[1;23r\u001b[H\r\n\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[2d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[2;7H\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[2;7Hg\u0008git clone https://github.com/efene/rebar3_efene_template_rest_app.git ~/.c \r\u001b[Ko\ronfig/rebar3/templates/fn_rest_app\u001b[1;24r\u001b[H\u001b[3;35H"
+    ],
+    [
+      0.505321,
+      "\u001b]0;ganesha:0.1.0 git ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:git*\u001b[37m                                          \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[4;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000140,
+      "\u001b[1;23r\u001b[H\u001b[3BCloning into '/home/mariano/.config/rebar3/templates/fn_rest_app'...\u001b[1;24r\u001b[H\u001b[4B"
+    ],
+    [
+      1.408417,
+      "\u001b[1;23r\u001b[H\u001b[4Bremote: Counting objects: 11, done.\u001b[K\r\nremote: Compressing objects:   9% (1/11)   \u001b[K\rremote: Compressing objects:  18% (2/11)   \u001b[K\rremote: Compressing objects:  27% (3/11)   \u001b[K\u001b[1;24r\u001b[H\u001b[5B\u001b[1;23r\u001b[H\u001b[5Bremote: Compressing objects:  36% (4/11)   \u001b[K\rremote: Compressing objects:  45% (5/11)   \u001b[K\rremote: Compressing objects:  54% (6/11)   \u001b[K\rremote: Compressing objects:  63% (7/11)   \u001b[K\rremote: Compressing objects:  72% (8/11)   \u001b[K\rremote: Compressing objects:  81% (9/11)   \u001b[K\rremote: Compressing objects:  90% (10/11)   \u001b[K\rremote: Compressing objects: 100% (11/11)   \u001b[K\rremote: Compressing objects: 100% (11/11), done.\u001b[K\u001b[1;24r\u001b[H\u001b[6B"
+    ],
+    [
+      0.200435,
+      "\u001b[1;23r\u001b[H\u001b[6Bremote: Total 11 (delta 0), reused 11 (delta 0), pack-reused 0\u001b[K\u001b[1;24r\u001b[H\u001b[7B"
+    ],
+    [
+      0.001536,
+      "\u001b[1;23r\u001b[H\u001b[7BUnpacking objects:   9% (1/11)   \u001b[1;24r\u001b[H\u001b[7B"
+    ],
+    [
+      0.002562,
+      "\u001b[1;23r\u001b[H\u001b[7BUnpacking objects:  18% (2/11)   \rUnpacking objects:  27% (3/11)   \rUnpacking objects:  36% (4/11)   \rUnpacking objects:  45% (5/11)   \rUnpacking objects:  54% (6/11)   \rUnpacking objects:  63% (7/11)   \rUnpacking objects:  72% (8/11)   \rUnpacking objects:  81% (9/11)   \rUnpacking objects:  90% (10/11)   \rUnpacking objects: 100% (11/11)   \rUnpacking objects: 100% (11/11), done.\u001b[1;24r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000218,
+      "\u001b[1;23r\u001b[H\u001b[8BChecking connectivity... \u001b[1;24r\u001b[H\u001b[9;26H"
+    ],
+    [
+      0.002148,
+      "\u001b[1;23r\u001b[H\u001b[9;26Hdone.\u001b[1;24r\u001b[H\u001b[9B"
+    ],
+    [
+      0.023676,
+      "\u001b[1;23r\u001b[H\u001b[9B\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[10;1H \u001b[1;24r\u001b[H\u001b[9B"
+    ],
+    [
+      0.000562,
+      "\u001b]0;ganesha:0.1.0 ~ ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~*\u001b[37m                                            \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003829,
+      "\u001b[1;23r\u001b[H\u001b[9B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[10d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[10;7H\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[10B\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[11;1H \u001b[1;24r\u001b[H\u001b[10B\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005335,
+      "\u001b[1;23r\u001b[H\u001b[10B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[11d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[Km\u0008mkdir myrestapp\u001b]0;ganesha:0.1.0 mkdir ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:mkdir*\u001b[37m                                        \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[11B\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001402,
+      "\u001b[1;23r\u001b[H\u001b[11B\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[12;1H \u001b[1;24r\u001b[H\u001b[11B\u001b]0;ganesha:0.1.0 ~ ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~*\u001b[37m                                            \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[12;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003548,
+      "\u001b[1;23r\u001b[H\u001b[11B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[11A\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[12;7H\u001b[?1h\u001b="
+    ],
+    [
+      0.001113,
+      "\u001b[1;23r\u001b[H\u001b[12;7Hc\u001b[1;24r\u001b[H\u001b[12;8H\u001b[1;23r\u001b[H\u001b[12;7Hcd\u001b[1;24r\u001b[H\u001b[12;9H\u001b[1;23r\u001b[H\u001b[12;9H \u001b[1;24r\u001b[H\u001b[12;10H\u001b[1;23r\u001b[H\u001b[12;10Hm\u001b[1;24r\u001b[H\u001b[12;11H\u001b[1;23r\u001b[H\u001b[12;11Hy\u001b[1;24r\u001b[H\u001b[12;12H\u001b[1;23r\u001b[H\u001b[12;12Hr\u001b[1;24r\u001b[H\u001b[12;13H\u001b[1;23r\u001b[H\u001b[12;13He\u001b[1;24r\u001b[H\u001b[12;14H\u001b[1;23r\u001b[H\u001b[12;14Hs\u001b[1;24r\u001b[H\u001b[12;15H\u001b[1;23r\u001b[H\u001b[12;15Ht\u001b[1;24r\u001b[H\u001b[12;16H\u001b[1;23r\u001b[H\u001b[12;16Ha\u001b[1;24r\u001b[H\u001b[12;17H\u001b[1;23r\u001b[H\u001b[12;17Hp\u001b[1;24r\u001b[H\u001b[12;18H\u001b[1;23r\u001b[H\u001b[12;18Hp\u001b[1;24r\u001b[H\u001b[12;19H"
+    ],
+    [
+      0.648369,
+      "\u001b[1;23r\u001b[H\u001b[13d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[13;1H \u001b]0;ganesha:0.1.0 ~/myrestapp ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~/myrestapp*\u001b[37m                                  \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[13d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003445,
+      "\u001b[1;23r\u001b[H\u001b[13d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[10A\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[13;15H\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[13;15Hw\u0008wget https://s3.amazonaws.com/rebar3/rebar3\u001b]0;ganesha:0.1.0 wget ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:wget*\u001b[37m                                         \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[14d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002222,
+      "\u001b[1;23r\u001b[H\u001b[14d--2015-04-05 23:56:50--  https://s3.amazonaws.com/rebar3/rebar3\u001b[1;24r\u001b[H\u001b[15d"
+    ],
+    [
+      0.009148,
+      "\u001b[1;23r\u001b[H\u001b[15dResolving s3.amazonaws.com (s3.amazonaws.com)... \u001b[1;24r\u001b[H\u001b[15;50H"
+    ],
+    [
+      0.031656,
+      "\u001b[1;23r\u001b[H\u001b[15;50H54.231.8.200\u001b[1;24r\u001b[H\u001b[16d\u001b[1;23r\u001b[H\u001b[16dConnecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.8.200|:443... \u001b[1;24r\u001b[H\u001b[16;72H"
+    ],
+    [
+      0.278495,
+      "\u001b[1;23r\u001b[H\u001b[16;72Hconnected.\u001b[1;24r\u001b[H\u001b[18d"
+    ],
+    [
+      0.512691,
+      "\u001b[1;23r\u001b[H\u001b[18dHTTP request sent, awaiting response... \u001b[1;24r\u001b[H\u001b[18;41H"
+    ],
+    [
+      0.306749,
+      "\u001b[1;23r\u001b[H\u001b[18;41H200 OK\r\nLength: 1273664 (1.2M) []\r\nSaving to: ‘rebar3’\u001b[22;1Hrebar3                0%[                      ]       0  --.-KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.205599,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3                0%[                      ]   8.00K  38.9KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.318341,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3                3%[                      ]  41.67K  79.5KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.303146,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3                4%[\u003e                     ]  58.67K  70.9KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.204364,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3                7%[\u003e                     ]  92.67K  89.8KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.205879,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               11%[=\u003e                    ] 143.67K   116KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.202617,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               14%[==\u003e                   ] 177.67K   123KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.206288,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               21%[===\u003e                  ] 262.67K   160KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.211553,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               26%[====\u003e                 ] 330.67K   178KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.316143,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               34%[======\u003e               ] 432.67K   199KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.200863,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               44%[========\u003e             ] 551.67K   232KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.204867,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               56%[===========\u003e          ] 704.67K   273KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.216904,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               71%[==============\u003e       ] 891.67K   319KB/s             \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.293724,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3               88%[==================\u003e   ]   1.07M   355KB/s   eta 0s    \u001b[1;24r\u001b[H\u001b[22;80H"
+    ],
+    [
+      0.074034,
+      "\u001b[1;23r\u001b[H\u001b[22drebar3              100%[=====================\u003e]   1.21M   393KB/s   in 3.2s   \r\n\n2015-04-05 23:56:54 (393 KB/s) - ‘rebar3’ saved [1273664/1273664]\r\n\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000837,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[23;1H \u001b]0;ganesha:0.1.0 ~/myrestapp ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~/myrestapp*\u001b[37m                                  \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003355,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[K\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[23;15H\u001b[?1h\u001b="
+    ],
+    [
+      0.000038,
+      "\u001b[1;23r\u001b[H\u001b[23;15Hc\u001b[1;24r\u001b[H\u001b[23;16H"
+    ],
+    [
+      0.000050,
+      "\u001b[1;23r\u001b[H\u001b[23;15Hch\u001b[1;24r\u001b[H\u001b[23;17H"
+    ],
+    [
+      0.000065,
+      "\u001b[1;23r\u001b[H\u001b[23;17Hm\u001b[1;24r\u001b[H\u001b[23;18H"
+    ],
+    [
+      0.000026,
+      "\u001b[1;23r\u001b[H\u001b[23;18Ho\u001b[1;24r\u001b[H\u001b[23;19H"
+    ],
+    [
+      0.000058,
+      "\u001b[1;23r\u001b[H\u001b[23;19Hd\u001b[1;24r\u001b[H\u001b[23;20H\u001b[1;23r\u001b[H\u001b[23;20H \u001b[1;24r\u001b[H\u001b[23;21H"
+    ],
+    [
+      0.000056,
+      "\u001b[1;23r\u001b[H\u001b[23;21Hu\u001b[1;24r\u001b[H\u001b[23;22H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;23r\u001b[H\u001b[23;22H+\u001b[1;24r\u001b[H\u001b[23;23H"
+    ],
+    [
+      0.000056,
+      "\u001b[1;23r\u001b[H\u001b[23;23Hx\u001b[1;24r\u001b[H\u001b[23;24H\u001b[1;23r\u001b[H\u001b[23;24H \u001b[1;24r\u001b[H\u001b[23;25H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;23r\u001b[H\u001b[23;25Hr\u001b[1;24r\u001b[H\u001b[23;26H"
+    ],
+    [
+      0.000035,
+      "\u001b[1;23r\u001b[H\u001b[23;26He\u001b[1;24r\u001b[H\u001b[23;27H"
+    ],
+    [
+      0.000045,
+      "\u001b[1;23r\u001b[H\u001b[23;27Hb\u001b[1;24r\u001b[H\u001b[23;28H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;23r\u001b[H\u001b[23;28Ha\u001b[1;24r\u001b[H\u001b[23;29H"
+    ],
+    [
+      0.000044,
+      "\u001b[1;23r\u001b[H\u001b[23;29Hr\u001b[1;24r\u001b[H\u001b[23;30H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;23r\u001b[H\u001b[23;30H3\u001b[1;24r\u001b[H\u001b[23;31H"
+    ],
+    [
+      1.342517,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b]0;ganesha:0.1.0 chmod ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:chmod*\u001b[37m                                        \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001139,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[23;1H \u001b]0;ganesha:0.1.0 ~/myrestapp ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~/myrestapp*\u001b[37m                                  \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003693,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[K\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[23;15H\u001b[?1h\u001b="
+    ],
+    [
+      0.426220,
+      "\u001b[1;23r\u001b[H\u001b[23;15H.\u0008./rebar3 new fn_rest_app name=myrestapp\u001b[1;24r\u001b[H\u001b[23;54H"
+    ],
+    [
+      0.489798,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b]0;ganesha:0.1.0 ./rebar3 ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:./rebar3*\u001b[37m                                     \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.704995,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Writing src/myrestapp.app.src\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.010970,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Writing src/myrestapp_sup.fn\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.012794,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Writing src/myrestapp_app.fn\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.013699,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Writing src/myrestapp_handler.fn\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.011156,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Writing rebar.config\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.010098,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Writing .gitignore\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.011481,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Writing README.rst\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.003046,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[23;1H \u001b]0;ganesha:0.1.0 ~/myrestapp ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~/myrestapp*\u001b[37m                                  \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:56\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003117,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[K\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[23;15H\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23;15H.\u0008./rebar3 compile\u001b[1;24r\u001b[H\u001b[23;31H"
+    ],
+    [
+      0.360583,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b]0;ganesha:0.1.0 ./rebar3 ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:./rebar3*\u001b[37m                                     \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:57\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.335941,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Fetching rebar3_efene_compile ({git,\u001b(B\u001b[m\r\n\u001b[32m                                            \"https://github.com/efene/rebar3_efene_compile.git\",\u001b(B\u001b[m\r\n\u001b[32m                                            {branch,\"master\"}})\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Fetching efene ({git,\"git://github.com/efene/efene\",\u001b(B\u001b[m\r\n\u001b[32m                                 {branch,\"master\"}})\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling efene\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling rebar3_efene_compile\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.053678,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Fetching rebar3_efene_ct ({git,\u001b(B\u001b[m\r\n\u001b[32m                                       \"https://github.com/efene/rebar3_efene_ct.git\",\u001b(B\u001b[m\r\n\u001b[32m                                       {branch,\"master\"}})\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      1.605012,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling rebar3_efene_ct\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.116786,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Verifying dependencies...\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.012286,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Fetching cowboy ({git,\"https://github.com/ninenines/cowboy.git\",\u001b(B\u001b[m\r\n\u001b[32m                                  {branch,\"master\"}})\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Fetching jsx ({git,\"https://github.com/talentdeficit/jsx.git\",\u001b(B\u001b[m\r\n\u001b[32m                               {tag,\"v2.5.2\"}})\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Fetching cowlib ({git,\"git://github.com/ninenines/cowlib.git\",\u001b(B\u001b[m\r\n\u001b[32m                                  \"1.2.0\"})\u001b(B\u001b[m\r\n\u001b[35m===\u003e WARNING: It is recommended to use {branch, Name}, {tag, Tag} or {ref, Ref}, otherwise updating the dep may not work as expected.\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Fetching ranch ({git,\"git://github.com/ninenines/ranch.git\",\u001b(B\u001b[m\r\n\u001b[32m                                 \"1.0.0\"})\u001b(B\u001b[m\r\n\u001b[35m===\u003e WARNING: It is recommended to use {branch, Name}, {tag, Tag} or {ref, Ref}, otherwise updating the dep may not work as expected.\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23dCompiling /home/mariano/myrestapp/src/myrestapp_app.fn\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.011543,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000283,
+      "\u001b[1;23r\u001b[H\u001b[23dCompiling /home/mariano/myrestapp/src/myrestapp_handler.fn\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.003124,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000241,
+      "\u001b[1;23r\u001b[H\u001b[23dCompiling /home/mariano/myrestapp/src/myrestapp_sup.fn\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.001497,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000326,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling cowlib\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling jsx\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.628678,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling ranch\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.173610,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling cowboy\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.833213,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling myrestapp\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.029395,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[23;1H \u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000361,
+      "\u001b]0;ganesha:0.1.0 ~/myrestapp ganesha\u0007\u001b[?25l\r\n\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~/myrestapp*\u001b[37m                                  \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:57\u001b(B\u001b[m\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003784,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[K\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[23;15H\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23;15H.\u0008./rebar3 shell\r\n\u001b]0;ganesha:0.1.0 ./rebar3 ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:./rebar3*\u001b[37m                                     \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:57\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.481937,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Verifying dependencies...\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.062048,
+      "\u001b[1;23r\u001b[H\u001b[23dCompiling /home/mariano/myrestapp/src/myrestapp_app.fn\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.280784,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000237,
+      "\u001b[1;23r\u001b[H\u001b[23dCompiling /home/mariano/myrestapp/src/myrestapp_handler.fn\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.003036,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000216,
+      "\u001b[1;23r\u001b[H\u001b[23dCompiling /home/mariano/myrestapp/src/myrestapp_sup.fn\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.001528,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.016589,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[32m===\u003e Compiling myrestapp\u001b(B\u001b[m\r\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      1.040392,
+      "\u001b[1;23r\u001b[H\u001b[23dErlang/OTP 17 [erts-6.3] [source] [64-bit] [smp:4:4] [async-threads:0] [hipe] [kernel-poll:false]\r\n\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.017513,
+      "\u001b[1;23r\u001b[H\u001b[23dEshell V6.3  (abort with ^G)\r\n\u001b[1;24r\u001b[H\u001b[23d\u001b[1;23r\u001b[H\u001b[23d1\u003e \u001b[1;24r\u001b[H\u001b[23;4H"
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[23;4Happlication:ensure_all_started(myrestapp).\u001b[1;24r\u001b[H\u001b[23;46H"
+    ],
+    [
+      0.499279,
+      "\u001b[1;23r\u001b[H\u001b[23d\n\u001b[1;24r\u001b[H\u001b[23d"
+    ],
+    [
+      0.021096,
+      "\u001b[1;23r\u001b[H\u001b[23d{ok,[ranch,cowlib,cowboy,myrestapp]}\r\n\u001b[1;24r\u001b[H\u001b[23d\u001b[1;23r\u001b[H\u001b[23d2\u003e \u001b[1;24r\u001b[H\u001b[23;4H"
+    ],
+    [
+      2.000000,
+      "\u001b[?25l\r\n\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:./rebar3*\u001b[37m                                     \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[23;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.397542,
+      "\u001b]0;ganesha:0.2.0 zsh ganesha\u0007\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:zsh*\u001b[37m                              \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136247,
+      "\u001b[1;23r\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[1;1H \u001b[1;24r\u001b[H"
+    ],
+    [
+      0.000641,
+      "\u001b]0;ganesha:0.2.0 ~ ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:~*\u001b[37m                                \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008341,
+      "\u001b[1;23r\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[6C\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[6Cc\u0008curl http://localhost:8080/\u001b[1;24r\u001b[H\u001b[33C"
+    ],
+    [
+      0.466491,
+      "\u001b]0;ganesha:0.2.0 curl ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:curl*\u001b[37m                             \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.032738,
+      "\u001b[1;23r\u001b[H\r\n\u003chtml\u003e\r\n\u003chead\u003e\r\n    \u003cmeta charset=\"utf-8\"\u003e\r\n    \u003ctitle\u003eREST Hello World!\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody\u003e\r\n    \u003cp\u003eREST Hello World as HTML!\u003c/p\u003e\r\n\u003c/body\u003e\u001b[1;24r\u001b[H\u001b[9;8H\u001b[1;23r\u001b[H\u001b[9B\u003c/html\u003e\u001b[1;24r\u001b[H\u001b[10;8H"
+    ],
+    [
+      0.001601,
+      "\u001b[1;23r\u001b[H\u001b[10;8H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \r \u001b]0;ganesha:0.2.0 ~ ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:~*\u001b[37m                                \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[10B\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003916,
+      "\u001b[1;23r\u001b[H\u001b[10B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[11d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[11;7H\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[11;7Hc\u0008curl http://localhost:8080/ -H \"Accept: text/plain\"\u001b[1;24r\u001b[H\u001b[11;58H"
+    ],
+    [
+      0.389406,
+      "\u001b]0;ganesha:0.2.0 curl ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:curl*\u001b[37m                             \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.007526,
+      "\u001b[1;23r\u001b[H\u001b[11BREST Hello World as text!\u001b[1;24r\u001b[H\u001b[12;26H"
+    ],
+    [
+      0.001762,
+      "\u001b[1;23r\u001b[H\u001b[12;26H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \r \u001b[1;24r\u001b[H\u001b[13d\u001b]0;ganesha:0.2.0 ~ ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:~*\u001b[37m                                \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005093,
+      "\u001b[1;23r\u001b[H\u001b[13d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[10A\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[13;7H\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\u001b[1;23r\u001b[H\u001b[13;7Hc\u0008curl http://localhost:8080/ -H \"Accept: application/json\"\u001b[1;24r\u001b[H\u001b[13;64H"
+    ],
+    [
+      0.413374,
+      "\u001b]0;ganesha:0.2.0 curl ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:curl*\u001b[37m                             \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[14;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.025338,
+      "\u001b[1;23r\u001b[H\u001b[14d{\"rest\":\"Hello World!\"}\u001b[1;24r\u001b[H\u001b[14;24H"
+    ],
+    [
+      0.001762,
+      "\u001b[1;23r\u001b[H\u001b[14;24H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \r \u001b]0;ganesha:0.2.0 ~ ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m 1:./rebar3- \u001b[32m2:~*\u001b[37m                                \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[15d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007445,
+      "\u001b[1;23r\u001b[H\u001b[15d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[8A\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[15;7H\u001b[?1h\u001b="
+    ],
+    [
+      1.255402,
+      "\u001b[1;23r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[6C"
+    ],
+    [
+      0.692599,
+      "\u001b]0;ganesha:0.1.0 ./rebar3 ganesha\u0007\u001b[?25l\u001b[HCompiling /home/mariano/myrestapp/src/myrestapp_sup.fn\u001b[K\r\n\u001b[K\r\n\u001b[32m===\u003e Compiling cowlib\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling jsx\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling ranch\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling cowboy\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling myrestapp\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m./rebar3 shell\u001b[K\r\n\u001b[32m===\u003e Verifying dependencies...\u001b(B\u001b[m\u001b[K\r\nCompiling /home/mariano/myrestapp/src/myrestapp_app.fn\u001b[K\r\n\u001b[K\r\nCompiling /home/mariano/myrestapp/src/myrestapp_handler.fn\u001b[K\r\n\u001b[K\r\nCompiling /home/mariano/myrestapp/src/myrestapp_sup.fn\u001b[K\r\n\u001b[K\r\n\u001b[32m===\u003e Compiling myrestapp\u001b(B\u001b[m\u001b[K\r\nErlang/OTP 17 [erts-6.3] [source] [64-bit] [smp:4:4] [async-threads:0] [hipe] [kernel-poll:false]\u001b[K\r\n\u001b[K\r\nEshell V6.3  (abort with ^G)\u001b[K\r\n1\u003e application:ensure_all_started(myrestapp).\u001b[K\r\n{ok,[ranch,cowlib,cowboy,myrestapp]}\u001b[K\r\n2\u003e \u001b[K\r\n\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:./rebar3*\u001b[37m 2:~-                                \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[23;4H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      1.086736,
+      "\u001b[1;23r\u001b[H\u001b[23;4H\n\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b]0;ganesha:0.1.0 ~/myrestapp ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~/myrestapp*\u001b[37m 2:~-                             \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[23d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002266,
+      "\u001b[?25l\u001b[H\u001b[32m===\u003e Compiling cowlib\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling jsx\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling ranch\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling cowboy\u001b(B\u001b[m\u001b[K\r\n\u001b[32m===\u003e Compiling myrestapp\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m./rebar3 shell\u001b[K\r\n\u001b[32m===\u003e Verifying dependencies...\u001b(B\u001b[m\u001b[K\r\nCompiling /home/mariano/myrestapp/src/myrestapp_app.fn\u001b[K\r\n\u001b[K\r\nCompiling /home/mariano/myrestapp/src/myrestapp_handler.fn\u001b[K\r\n\u001b[K\r\nCompiling /home/mariano/myrestapp/src/myrestapp_sup.fn\u001b[K\r\n\u001b[K\r\n\u001b[32m===\u003e Compiling myrestapp\u001b(B\u001b[m\u001b[K\r\nErlang/OTP 17 [erts-6.3] [source] [64-bit] [smp:4:4] [async-threads:0] [hipe] [kernel-poll:false]\u001b[K\r\n\u001b[K\r\nEshell V6.3  (abort with ^G)\u001b[K\r\n1\u003e application:ensure_all_started(myrestapp).\u001b[K\r\n{ok,[ranch,cowlib,cowboy,myrestapp]}\u001b[K\r\n2\u003e \u001b[K\r\n   \u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[K\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001186,
+      "\u001b[1;23r\u001b[H\u001b[23d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[23;15H\u001b[?1h\u001b="
+    ],
+    [
+      0.653592,
+      "\u001b[1;23r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[14C"
+    ],
+    [
+      0.570017,
+      "\u001b[1;23r\u001b[H\u001b[14Ci\u001b[1;24r\u001b[H\u001b[15C"
+    ],
+    [
+      0.024941,
+      "\u001b[1;23r\u001b[H\u001b[14Cim\u001b[1;24r\u001b[H\u001b[16C"
+    ],
+    [
+      0.305066,
+      "\u001b[1;23r\u001b[H\u001b[14Ci \u001b[1;24r\u001b[H\u001b[15C"
+    ],
+    [
+      0.124842,
+      "\u001b[1;23r\u001b[H\u001b[14C \u001b[1;24r\u001b[H\u001b[14C"
+    ],
+    [
+      0.215426,
+      "\u001b[1;23r\u001b[H\u001b[14Cv\u001b[1;24r\u001b[H\u001b[15C"
+    ],
+    [
+      0.070420,
+      "\u001b[1;23r\u001b[H\u001b[14Cvi\u001b[1;24r\u001b[H\u001b[16C"
+    ],
+    [
+      0.049546,
+      "\u001b[1;23r\u001b[H\u001b[16Cm\u001b[1;24r\u001b[H\u001b[17C"
+    ],
+    [
+      0.144992,
+      "\u001b[1;23r\u001b[H\u001b[17C \u001b[1;24r\u001b[H\u001b[18C"
+    ],
+    [
+      0.120169,
+      "\u001b[1;23r\u001b[H\u001b[18Cs\u001b[1;24r\u001b[H\u001b[19C"
+    ],
+    [
+      0.034889,
+      "\u001b[1;23r\u001b[H\u001b[19Cr\u001b[1;24r\u001b[H\u001b[20C"
+    ],
+    [
+      0.224483,
+      "\u001b[1;23r\u001b[H\u001b[20Cc\u001b[1m/\u001b[1;24r\u001b[H\u001b[22C\u001b(B\u001b[m"
+    ],
+    [
+      0.515961,
+      "\u001b[1;23r\u001b[H\u001b[21C/f\u001b[1;24r\u001b[H\u001b[23C"
+    ],
+    [
+      0.089940,
+      "\u001b[1;23r\u001b[H\u001b[23Cn\u001b[1;24r\u001b[H\u001b[24C"
+    ],
+    [
+      0.345159,
+      "\u001b[1;23r\u001b[H\u001b[23C \u001b[1;24r\u001b[H\u001b[23C"
+    ],
+    [
+      0.129963,
+      "\u001b[1;23r\u001b[H\u001b[22C \u001b[1;24r\u001b[H\u001b[22C"
+    ],
+    [
+      0.455737,
+      "\u001b[1;23r\u001b[H\u001b[22Cm\u001b[1;24r\u001b[H\u001b[23C"
+    ],
+    [
+      0.104579,
+      "\u001b[1;23r\u001b[H\u001b[23Cy\u001b[1;24r\u001b[H\u001b[24C"
+    ],
+    [
+      0.219681,
+      "\u001b[1;23r\u001b[H\u001b[24Crestapp\u001b[1;24r\u001b[H\u001b[31C"
+    ],
+    [
+      1.691331,
+      "\u001b[1;23r\u001b[H\u001b[31C_\u001b[1;24r\u001b[H\u001b[32C"
+    ],
+    [
+      0.250016,
+      "\u001b[1;23r\u001b[H\u001b[32Ch\u001b[1;24r\u001b[H\u001b[33C"
+    ],
+    [
+      0.098646,
+      "\u001b[1;23r\u001b[H\u001b[33Candler.fn\u001b[1m \u001b[1;24r\u001b[H\u001b[43C\u001b(B\u001b[m"
+    ],
+    [
+      0.392226,
+      "\u001b[1;23r\u001b[H\u001b[42C \u001b[1;24r\u001b[H\r\n\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000822,
+      "\u001b]0;ganesha:0.1.0 vim ganesha\u0007\u001b[?25l\u001b[24d\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:vim*\u001b[37m 2:~-                                     \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088883,
+      "\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2d\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.000660,
+      "\u001b[1;23r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\"src/myrestapp_handler.fn\"\u001b[1;24r\u001b[H\u001b[23;27H\u001b[?25l\u001b[1;23r\u001b[H\u001b[23;27H 39L, 673C\u001b[1;24r\u001b[H\u001b[23;37H"
+    ],
+    [
+      0.045930,
+      "\u001b[1;23r\u001b[H\u001b[78C\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mfn\u001b[39m init @public\u001b[63C\u001b[48;5;224m \r\n\u001b[49m  \u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mOpts\u001b[39m:\u001b[61C\u001b[48;5;224m \r\n\u001b[49m    \u001b[38;5;130m(\u001b[39mcowboy_rest, \u001b[36mReq\u001b[39m, \u001b[36mOpts\u001b[38;5;130m)\u001b[50C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[6;79H \r\n\u001b[49m\u001b[38;5;130mfn\u001b[39m content_types_provided @public\u001b[45C\u001b[48;5;224m \r\n\u001b[49m  \u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:\u001b[60C\u001b[48;5;224m \r\n\u001b[49m    \u001b[38;5;130m(\u001b[91m[\u001b[31m('text/html'\u001b[39m, to_html\u001b[31m)\u001b[39m,\u001b[49C\u001b[48;5;224m \u001b[10;7H\u001b[49m\u001b[31m('application/json'\u001b[39m, to_json\u001b[31m)\u001b[39m,\u001b[42C\u001b[48;5;224m \u001b[11;7H\u001b[49m\u001b[31m('text/plain'\u001b[39m, to_text\u001b[31m)\u001b[91m]\u001b[39m,\u001b[47C\u001b[48;5;224m \u001b[12;6H\u001b[49m\u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[62C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[14;79H \r\n\u001b[49m\u001b[38;5;130mfn\u001b[39m to_html @public\u001b[60C\u001b[48;5;224m \r\n\u001b[49m  \u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:\u001b[60C\u001b[48;5;224m \r\n\u001b[49m    \u001b[36mBody\u001b[39m \u001b[38;5;130m=\u001b[39m \u001b[31m'\u003chtml\u003e\u001b[60C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m\u003chead\u003e\u001b[72C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m    \u003cmeta charset=\u001b[35m\\\"\u001b[31mutf-8\u001b[35m\\\"\u001b[31m\u003e\u001b[50C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m    \u003ctitle\u003eREST Hello World!\u003c/title\u003e\u001b[42C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m\u003c/head\u003e\u001b[71C\u001b[39m\u001b[48;5;224m \r\n\u001b[38;5;17m\u001b[48;5;190m \u001b[1mNORMAL\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m \u001b[38;5;190m\u001b[48;5;238m\u003e\u001b[38;5;238m\u001b[48;5;234m\u003e\u001b[38;5;85m src/myrestapp_handler.fn                  \u001b[38;5;234m\u003c\u001b[38;5;85m efene \u001b[38;5;238m\u003c\u001b[38;5;190m\u001b[48;5;238m\u003c\u001b[38;5;17m\u001b[48;5;190m   2% :\u001b[1m   1\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m:  1  \u001b[22;1H\u001b[1;24r\u001b[H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.814280,
+      "\u001b[1;23r\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m5\u001b[6C\u001b[1m2\u001b[1;24r\u001b[H\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.500354,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m7\u001b[6C\u001b[1m3\u001b[1;24r\u001b[H\u001b[2B\u001b(B\u001b[m"
+    ],
+    [
+      0.029991,
+      "\u001b[1;23r\u001b[H\u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m10\u001b[6C\u001b[1m4\u001b[1;24r\u001b[H\u001b[3B\u001b(B\u001b[m"
+    ],
+    [
+      0.030818,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m2\u001b[6C\u001b[1m5\u001b[1;24r\u001b[H\u001b[4B\u001b(B\u001b[m"
+    ],
+    [
+      0.030852,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m5\u001b[6C\u001b[1m6\u001b[1;24r\u001b[H\u001b[5B\u001b(B\u001b[m"
+    ],
+    [
+      0.028766,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m7\u001b[6C\u001b[1m7\u001b[1;24r\u001b[H\u001b[6B\u001b(B\u001b[m"
+    ],
+    [
+      0.030389,
+      "\u001b[1;23r\u001b[H\u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m20\u001b[6C\u001b[1m8\u001b[1;24r\u001b[H\u001b[7B\u001b(B\u001b[m"
+    ],
+    [
+      0.029543,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m3\u001b[6C\u001b[1m9\u001b[1;24r\u001b[H\u001b[8B\u001b(B\u001b[m"
+    ],
+    [
+      0.030199,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m5\u001b[5C\u001b[1m10\u001b[1;24r\u001b[H\u001b[9B\u001b(B\u001b[m"
+    ],
+    [
+      0.030220,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m8\u001b[6C\u001b[1m1\u001b[1;24r\u001b[H\u001b[10B\u001b(B\u001b[m"
+    ],
+    [
+      0.029779,
+      "\u001b[1;23r\u001b[H\u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m30\u001b[6C\u001b[1m2\u001b[1;24r\u001b[H\u001b[11B\u001b(B\u001b[m"
+    ],
+    [
+      0.030546,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m3\u001b[6C\u001b[1m3\u001b[1;24r\u001b[H\u001b[13d\u001b(B\u001b[m"
+    ],
+    [
+      0.178421,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m5\u001b[6C\u001b[1m4\u001b[1;24r\u001b[H\u001b[14d\u001b(B\u001b[m"
+    ],
+    [
+      0.500803,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m8\u001b[6C\u001b[1m5\u001b[1;24r\u001b[H\u001b[15d\u001b(B\u001b[m"
+    ],
+    [
+      0.030528,
+      "\u001b[1;23r\u001b[H\u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m41\u001b[6C\u001b[1m6\u001b[1;24r\u001b[H\u001b[16d\u001b(B\u001b[m"
+    ],
+    [
+      0.030153,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m3\u001b[6C\u001b[1m7\u001b[1;24r\u001b[H\u001b[17d\u001b(B\u001b[m"
+    ],
+    [
+      0.029589,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m6\u001b[6C\u001b[1m8\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.031240,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[31m\u003cbody\u003e\u001b[72C\u001b[39m\u001b[48;5;224m \u001b(B\u001b[m\u001b[23;1H\u001b[K\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m8\u001b[6C\u001b[1m9\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.031504,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[31m    \u003cp\u003eREST Hello World as HTML!\u003c/p\u003e\u001b[42C\u001b[39m\u001b[48;5;224m \u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m51\u001b[5C\u001b[1m20\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.131690,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[31m\u003c/body\u003e\u001b[71C\u001b[39m\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m3\u001b[6C\u001b[1m1\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.499756,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[31m\u003c/html\u003e'\u001b[70C\u001b[39m\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m6\u001b[6C\u001b[1m2\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030332,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;79H\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m8\u001b[6C\u001b[1m3\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030971,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;5H\u001b[38;5;130m(\u001b[36mBody\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[56C\u001b[39m\u001b[48;5;224m \u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m61\u001b[6C\u001b[1m4\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.029946,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m4\u001b[6C\u001b[1m5\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030748,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;79H\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m6\u001b[6C\u001b[1m6\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.029897,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[38;5;130mfn\u001b[39m to_json @public\u001b[60C\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m9\u001b[6C\u001b[1m7\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.029946,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;3H\u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:\u001b[60C\u001b[48;5;224m \u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m71\u001b[6C\u001b[1m8\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030935,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;5H\u001b[36mBody\u001b[39m \u001b[38;5;130m=\u001b[39m jsx.encode\u001b[38;5;130m(\u001b[91m{\u001b[31m'rest'\u001b[39m: \u001b[31m'Hello World!'\u001b[91m}\u001b[38;5;130m)\u001b[31C\u001b[39m\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m4\u001b[6C\u001b[1m9\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030021,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;5H\u001b[38;5;130m(\u001b[36mBody\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[56C\u001b[39m\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m6\u001b[5C\u001b[1m30\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030188,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m9\u001b[6C\u001b[1m1\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.029694,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;79H\u001b[48;5;224m \u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m82\u001b[6C\u001b[1m2\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030654,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[38;5;130mfn\u001b[39m to_text @public\u001b[60C\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m4\u001b[6C\u001b[1m3\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.030446,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;3H\u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:\u001b[60C\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m7\u001b[6C\u001b[1m4\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.242103,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21;5H\u001b[38;5;130m(\u001b[31m'REST Hello World as text!'\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[33C\u001b[39m\u001b[48;5;224m \u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m9\u001b[6C\u001b[1m5\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.179785,
+      "\u001b[1;21r\u001b[H\u001b[21d\n\u001b[1;23r\u001b[H\u001b[21d\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[22;66H\u001b[38;5;17m\u001b[48;5;190m92\u001b[6C\u001b[1m6\u001b[1;24r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.140225,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m4\u001b[6C\u001b[1m7\u001b[1;24r\u001b[H\u001b[19d\u001b(B\u001b[m"
+    ],
+    [
+      0.209782,
+      "\u001b[1;23r\u001b[H\u001b[22;67H\u001b[38;5;17m\u001b[48;5;190m7\u001b[6C\u001b[1m8\u001b[1;24r\u001b[H\u001b[20d\u001b(B\u001b[m"
+    ],
+    [
+      0.165141,
+      "\u001b[1;23r\u001b[H\u001b[22;65H\u001b[38;5;17m\u001b[48;5;190m100\u001b[6C\u001b[1m9\u001b[1;24r\u001b[H\u001b[21d\u001b(B\u001b[m"
+    ],
+    [
+      0.150787,
+      "\u001b[?25l\u001b[24d\u001b[30m\u001b[42mBell in current window                                                          \u001b(B\u001b[m\u001b[21;1H"
+    ],
+    [
+      0.376161,
+      "\u001b[H\u001b[31m    \u003cmeta charset=\u001b[35m\\\"\u001b[31mutf-8\u001b[35m\\\"\u001b[31m\u003e\u001b[39m                                                  \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[31m    \u003ctitle\u003eREST Hello World!\u003c/title\u003e\u001b[39m                                          \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[31m\u003c/head\u003e\u001b[39m                                                                       \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[31m\u003cbody\u003e\u001b[39m                                                                        \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[31m    \u003cp\u003eREST Hello World as HTML!\u003c/p\u003e\u001b[39m                                          \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[31m\u003c/body\u003e\u001b[39m                                                                       \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[31m\u003c/html\u003e'\u001b[39m                                                                      \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n                                                                              \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n    \u001b[38;5;130m(\u001b[36mBody\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[39m                                                        \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[38;5;130mend\u001b[39m                                                                           \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n                                                                              \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[38;5;130mfn\u001b[39m to_json @public                                                            \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n  \u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:                                                            \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n    \u001b[36mBody\u001b[39m \u001b[38;5;130m=\u001b[39m jsx.encode\u001b[38;5;130m(\u001b[91m{\u001b[31m'rest'\u001b[39m: \u001b[31m'Hello World!'\u001b[91m}\u001b[38;5;130m)\u001b[39m                               \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n    \u001b[38;5;130m(\u001b[36mBody\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[39m                                                        \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[38;5;130mend\u001b[39m                                                                           \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n                                                                              \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[38;5;130mfn\u001b[39m to_text @public                                                            \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n  \u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:                                                            \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n    \u001b[38;5;130m(\u001b[31m'REST Hello World as text!'\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[39m                                 \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[38;5;130mend\u001b[39m                                                                           \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[38;5;17m\u001b[48;5;190m \u001b[1mNORMAL\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m \u001b[38;5;190m\u001b[48;5;238m\u003e\u001b[38;5;238m\u001b[48;5;234m\u003e\u001b[38;5;85m src/myrestapp_handler.fn                  \u001b[38;5;234m\u003c\u001b[38;5;85m efene \u001b[38;5;238m\u003c\u001b[38;5;190m\u001b[48;5;238m\u003c\u001b[38;5;17m\u001b[48;5;190m 100% :\u001b[1m  39\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m:  1  \u001b[23;1H\u001b(B\u001b[m\u001b[K\r\n\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:vim*\u001b[37m 2:~-                                     \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000119,
+      "\u001b[1;23r\u001b[H\u001b[23d:\u001b[1;24r\u001b[H\u001b[23;2H"
+    ],
+    [
+      0.167615,
+      "\u001b[1;23r\u001b[H\u001b[23;2Ht\u001b[1;24r\u001b[H\u001b[23;3H"
+    ],
+    [
+      0.175133,
+      "\u001b[1;23r\u001b[H\u001b[23;3Ha\u001b[1;24r\u001b[H\u001b[23;4H"
+    ],
+    [
+      0.125272,
+      "\u001b[1;23r\u001b[H\u001b[23;4Hb\u001b[1;24r\u001b[H\u001b[23;5H"
+    ],
+    [
+      0.144798,
+      "\u001b[1;23r\u001b[H\u001b[23;5He\u001b[1;24r\u001b[H\u001b[23;6H"
+    ],
+    [
+      0.092951,
+      "\u001b[1;23r\u001b[H\u001b[23;6H \u001b[1;24r\u001b[H\u001b[23;7H"
+    ],
+    [
+      0.320852,
+      "\u001b[1;23r\u001b[H\u001b[23;7Hs\u001b[1;24r\u001b[H\u001b[23;8H"
+    ],
+    [
+      0.201654,
+      "\u001b[1;23r\u001b[H\u001b[23;8Hr\u001b[1;24r\u001b[H\u001b[23;9H"
+    ],
+    [
+      0.201885,
+      "\u001b[1;23r\u001b[H\u001b[23;9H...\u001b[3Dc/\u001b[K\u001b[1;24r\u001b[H\u001b[23;11H"
+    ],
+    [
+      0.283095,
+      "\u001b[1;23r\u001b[H\u001b[23;11Hf\u001b[1;24r\u001b[H\u001b[23;12H"
+    ],
+    [
+      0.445317,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149947,
+      "\u001b[1;23r\u001b[H\u001b[23;11Hm\u001b[1;24r\u001b[H\u001b[23;12H"
+    ],
+    [
+      0.165186,
+      "\u001b[1;23r\u001b[H\u001b[23;12Hy\u001b[1;24r\u001b[H\u001b[23;13H"
+    ],
+    [
+      0.220295,
+      "\u001b[1;23r\u001b[H\u001b[23;13H...\u001b[3Drestapp\r\nmyrestapp.app.src     myrestapp_handler.fn\r\nmyrestapp_app.fn      myrestapp_sup.fn\r\n:tabe src/myrestapp...\u001b[3D\u001b[K\u001b[1;24r\u001b[H\u001b[23;20H"
+    ],
+    [
+      1.645628,
+      "\u001b[1;23r\u001b[H\u001b[23;20H_\u001b[1;24r\u001b[H\u001b[23;21H"
+    ],
+    [
+      0.134735,
+      "\u001b[1;23r\u001b[H\u001b[23;21Ha\u001b[1;24r\u001b[H\u001b[23;22H"
+    ],
+    [
+      0.115165,
+      "\u001b[1;23r\u001b[H\u001b[23;22Hp\u001b[1;24r\u001b[H\u001b[23;23H"
+    ],
+    [
+      0.115142,
+      "\u001b[1;23r\u001b[H\u001b[23;23Hp\u001b[1;24r\u001b[H\u001b[23;24H"
+    ],
+    [
+      0.065147,
+      "\u001b[1;23r\u001b[H\u001b[23;24H...\u001b[2Dfn\u001b[1;24r\u001b[H\u001b[23;27H"
+    ],
+    [
+      0.394559,
+      "\r"
+    ],
+    [
+      0.008019,
+      "\u001b[1;23r\u001b[H\u001b[23d\"src/myrestapp_app.fn\" \u001b[K18L, 406C\u001b[1;24r\u001b[H\u001b[23;33H\u001b[?25l"
+    ],
+    [
+      0.016379,
+      "\u001b[1;23r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[30m\u001b[47m\u001b[4m s/myrestapp_handler.fn \u001b(B\u001b[m\u001b[1m s/myrestapp_app.fn \u001b(B\u001b[m\u001b[7m                                    \u001b[1;80H\u001b(B\u001b[m\u001b[30m\u001b[47m\u001b[4mX\u001b[2;1H\u001b(B\u001b[m\u001b[38;5;130m@behaviour(\u001b[39mapplication\u001b[38;5;130m)\u001b[55C\u001b[39m\u001b[48;5;224m \u001b[3;79H \r\n\u001b[49m\u001b[38;5;130mfn\u001b[39m start @public\u001b[62C\u001b[48;5;224m \r\n\u001b[49m  \u001b[38;5;130mcase\u001b[39m \u001b[36m_Type\u001b[39m, \u001b[36m_Args\u001b[39m:\u001b[58C\u001b[48;5;224m \r\n\u001b[49m    \u001b[36mDispatch\u001b[39m \u001b[38;5;130m=\u001b[39m cowboy_router.compile\u001b[38;5;130m(\u001b[91m[\u001b[31m(`_`\u001b[39m, \u001b[36m[\u001b[32m(\u001b[31m\"/\"\u001b[39m, myrestapp_handler, \u001b[34m[]\u001b[32m)\u001b[39m \u001b[36m]\u001b[31m)\u001b[91m]\u001b[38;5;130m)\u001b[39m\u001b[48;5;224m \u001b[7;79H \r\n\u001b[49m    \u001b[36mTransportOpts\u001b[39m \u001b[38;5;130m=\u001b[39m \u001b[38;5;130m[\u001b[91m(\u001b[39mport, \u001b[31m8080\u001b[91m)\u001b[38;5;130m]\u001b[44C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m    \u001b[36mNumAcceptors\u001b[39m \u001b[38;5;130m=\u001b[39m \u001b[31m100\u001b[56C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m    \u001b[36mProtoOpts\u001b[39m \u001b[38;5;130m=\u001b[39m \u001b[38;5;130m[\u001b[91m(\u001b[39menv, \u001b[31m[\u001b[36m(\u001b[39mdispatch, \u001b[36mDispatch)\u001b[31m]\u001b[91m)\u001b[38;5;130m]\u001b[31C\u001b[39m\u001b[48;5;224m \u001b[11;79H \r\n\u001b[49m    \u001b[38;5;130m(\u001b[39mok, \u001b[36m_\u001b[38;5;130m)\u001b[39m \u001b[38;5;130m=\u001b[39m cowboy.start_http\u001b[38;5;130m(\u001b[39mhttp, \u001b[36mNumAcceptors\u001b[39m, \u001b[36mTransportOpts\u001b[39m, \u001b[36mProtoOpts\u001b[38;5;130m)\u001b[39m \u001b[48;5;224m \r\n\u001b[49m    myrestapp_sup.start_link\u001b[38;5;130m()\u001b[48C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[15;79H \r\n\u001b[49m\u001b[38;5;130mfn\u001b[39m stop @public\u001b[63C\u001b[48;5;224m \r\n\u001b[49m  \u001b[38;5;130mcase\u001b[39m \u001b[36m_State\u001b[39m:\u001b[64C\u001b[48;5;224m \r\n\u001b[49m    ok\u001b[72C\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[94m~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H\u001b[38;5;17m\u001b[48;5;190m \u001b[1mNORMAL\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m \u001b[38;5;190m\u001b[48;5;238m\u003e\u001b[38;5;238m\u001b[48;5;234m\u003e\u001b[38;5;85m src/myrestapp_app.fn                      \u001b[38;5;234m\u003c\u001b[38;5;85m efene \u001b[38;5;238m\u003c\u001b[1;24r\u001b[H\u001b[22;63H\u001b(B\u001b[m\u001b[1;23r\u001b[H\u001b[22;63H\u001b[38;5;190m\u001b[48;5;238m\u003c\u001b[38;5;17m\u001b[48;5;190m   5% :\u001b[1m   1\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m:  1  \u001b[23;1H\u001b[39m\u001b[49m\"src/myrestapp_app.fn\" 18L, 406C\u001b[1;24r\u001b[H\r\n\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.000000,
+      "\u001b[23d\u001b[K\u001b[1;23r\u001b[H\u001b[23d:\u001b[1;24r\u001b[H\u001b[23;2H"
+    ],
+    [
+      0.286200,
+      "\u001b[1;23r\u001b[H\u001b[23;2Hq\u001b[1;24r\u001b[H\u001b[23;3H"
+    ],
+    [
+      0.111547,
+      "\r"
+    ],
+    [
+      0.003058,
+      "\u001b[1;23r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[31m    \u003cmeta charset=\u001b[35m\\\"\u001b[31mutf-8\u001b[35m\\\"\u001b[31m\u003e\u001b[50C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m    \u003ctitle\u003eREST Hello World!\u003c/title\u003e\u001b[42C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m\u003c/head\u003e\u001b[71C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m\u003cbody\u003e\u001b[72C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m    \u003cp\u003eREST Hello World as HTML!\u003c/p\u003e\u001b[42C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m\u003c/body\u003e\u001b[71C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[31m\u003c/html\u003e'\u001b[70C\u001b[39m\u001b[48;5;224m \u001b[8;79H \r\n\u001b[49m    \u001b[38;5;130m(\u001b[36mBody\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[56C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[11;79H \r\n\u001b[49m\u001b[38;5;130mfn\u001b[39m to_json @public\u001b[60C\u001b[48;5;224m \r\n\u001b[49m  \u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:\u001b[60C\u001b[48;5;224m \r\n\u001b[49m    \u001b[36mBody\u001b[39m \u001b[38;5;130m=\u001b[39m jsx.encode\u001b[38;5;130m(\u001b[91m{\u001b[31m'rest'\u001b[39m: \u001b[31m'Hello World!'\u001b[91m}\u001b[38;5;130m)\u001b[31C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m    \u001b[38;5;130m(\u001b[36mBody\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[56C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \u001b[17;79H \r\n\u001b[49m\u001b[38;5;130mfn\u001b[39m to_text @public\u001b[60C\u001b[48;5;224m \r\n\u001b[49m  \u001b[38;5;130mcase\u001b[39m \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[39m:\u001b[60C\u001b[48;5;224m \r\n\u001b[49m    \u001b[38;5;130m(\u001b[31m'REST Hello World as text!'\u001b[39m, \u001b[36mReq\u001b[39m, \u001b[36mState\u001b[38;5;130m)\u001b[33C\u001b[39m\u001b[48;5;224m \r\n\u001b[49m\u001b[38;5;130mend\u001b[75C\u001b[39m\u001b[48;5;224m \r\n\u001b[38;5;17m\u001b[48;5;190m \u001b[1mNORMAL\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m \u001b[38;5;190m\u001b[48;5;238m\u003e\u001b[38;5;238m\u001b[48;5;234m\u003e\u001b[38;5;85m src/myrestapp_handler.fn                  \u001b[38;5;234m\u003c\u001b[38;5;85m efene \u001b[38;5;238m\u003c\u001b[38;5;190m\u001b[48;5;238m\u003c\u001b[38;5;17m\u001b[48;5;190m 100% :\u001b[1m  39\u001b(B\u001b[m\u001b[38;5;17m\u001b[48;5;190m:  1  \u001b[22;1H\u001b[1;24r\u001b[H\u001b[21d\u001b(B\u001b[m"
+    ],
+    [
+      0.338766,
+      "\u001b[1;23r\u001b[H\u001b[23d:\u001b[1;24r\u001b[H\u001b[23;2H"
+    ],
+    [
+      0.196365,
+      "\u001b[1;23r\u001b[H\u001b[23;2Hq\u001b[1;24r\u001b[H\u001b[23;3H"
+    ],
+    [
+      0.106414,
+      "\r"
+    ],
+    [
+      0.002648,
+      "\u001b[K\u001b[?25l\u001b[H\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[mvim src/myrestapp_handler.fn \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001958,
+      "\u001b[1;23r\u001b[H\r\n\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[2;1H \u001b]0;ganesha:0.1.0 ~/myrestapp ganesha\u0007\u001b[?25l\u001b[24;1H\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m1:~/myrestapp*\u001b[37m 2:~-                             \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\r\n\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003622,
+      "\u001b[1;23r\u001b[H\r\n\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[2d\u001b[32m\u001b[1m➜  \u001b[36mmyrestapp \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;24r\u001b[H\u001b[2;15H\u001b[?1h\u001b="
+    ],
+    [
+      1.618168,
+      "\r\n"
+    ],
+    [
+      0.013347,
+      "\u001b]0;ganesha:0.2.0 ~ ganesha\u0007\u001b[?25l\u001b[H\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[31m\u001b[40mganesha\u001b[32m:\u001b[37m0 \u001b[32m][\u001b[37m \u001b[32m2:~*\u001b[37m                                            \u001b[32m][ \u001b[34m2015-04-05 \u001b[37m23:58\u001b(B\u001b[m\u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.530639,
+      "\r\n"
+    ],
+    [
+      0.032381,
+      "\u001b[1;24r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l"
+    ],
+    [
+      0.000279,
+      "[exited]\r\n"
+    ]
+  ]
+}
