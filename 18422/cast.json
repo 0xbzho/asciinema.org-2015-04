@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 7.872555,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005254,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "bash-3.2$ "
+    ],
+    [
+      2.194087,
+      "l"
+    ],
+    [
+      0.144371,
+      "s"
+    ],
+    [
+      0.256108,
+      " "
+    ],
+    [
+      0.176038,
+      "-"
+    ],
+    [
+      0.135947,
+      "l"
+    ],
+    [
+      0.287801,
+      "\r\n"
+    ],
+    [
+      0.004683,
+      "total 0\r\n"
+    ],
+    [
+      0.000263,
+      "drwx------    7 01135722  CORPPVT\\Domain Users   238 Mar  4 10:59 Applications\r\ndrwxr-xr-x@   5 01135722  CORPPVT\\Domain Users   170 Apr  2 10:31 Applications (Parallels)\r\ndrwxr-xr-x    7 01135722  CORPPVT\\Domain Users   238 Feb 11 10:55 Clojure\r\ndrwx------+  14 01135722  CORPPVT\\Domain Users   476 Apr  3 08:30 Desktop\r\ndrwx------+  71 01135722  CORPPVT\\Domain Users  2414 Apr  3 08:31 Documents\r\ndrwx------+ 101 01135722  CORPPVT\\Domain Users  3434 Apr  3 08:26 Downloads\r\ndrwx------@  51 01135722  CORPPVT\\Domain Users  1734 Apr  3 08:29 Library\r\ndrwx------+   4 01135722  CORPPVT\\Domain Users   136 Feb  5 11:02 Movies\r\ndrwx------+   5 01135722  CORPPVT\\Domain Users   170 Feb  5 11:02 Music\r\ndrwxr-xr-x    4 01135722  CORPPVT\\Domain Users   136 Mar  4 14:30 OneDriveB\r\ndrwx------+   4 01135722  CORPPVT\\Domain Users   136 Feb  5 11:02 Pictures\r\ndrwxr-xr-x+   6 01135722  CORPPVT\\Domain Users   204 Jan 22 12:46 Public\r\ndrwxr-xr-x    4 01135722  CORPPVT\\Domain Users   136 Jan 28 08:13 lwork\r\n"
+    ],
+    [
+      0.000285,
+      "bash-3.2$ "
+    ],
+    [
+      3.922756,
+      "e"
+    ],
+    [
+      0.231939,
+      "x"
+    ],
+    [
+      0.176074,
+      "i"
+    ],
+    [
+      0.175860,
+      "t"
+    ],
+    [
+      0.159857,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "exit\r\n"
+    ]
+  ]
+}
