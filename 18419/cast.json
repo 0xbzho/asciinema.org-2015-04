@@ -1,0 +1,442 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 39,
+  "duration": 10.235767,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.411096,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000068,
+      "\u001bk~\u001b\\"
+    ],
+    [
+      0.014786,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[36mvader@kamino vader \u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000019,
+      "\u001b[K\u001b[67C \u001b[68D"
+    ],
+    [
+      0.000138,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.274760,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.166746,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.132647,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000054,
+      "\r\r\n"
+    ],
+    [
+      0.000685,
+      "\u001bkls\u001b\\"
+    ],
+    [
+      0.005963,
+      "#.emacs#\r\n#hello.html#\r\n202.45.129.172.conf\r\n3-1111111111_ak.ee4f6c9b-65b5-6185-ef34-8d37e90c8966.tar.gz\r\n\u001b[1m\u001b[36mApplications\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mArch\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mAudacity\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mBTSync\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mBTSync1\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u001b[36mColossal Order\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mDesktop\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mDocuments\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mDownloads\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mGoogle\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mJob\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mLibrary\u001b[39;49m\u001b[0m\r\nMEGA-MASTERKEY.txt\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u001b[36mMEGAsync\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mMovies\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mMusic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u001b[36mNews\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mPictures\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[30m\u001b[43mPublic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u001b[36mRelax\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u001b[36mSites\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "String Literals.html\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m\u001b[36mSync\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m\u001b[36mVirtualBox VMs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "a.scpt\r\n"
+    ],
+    [
+      0.000002,
+      "apple1.applescript\r\n"
+    ],
+    [
+      0.000002,
+      "apple1.applescript~\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[31marchey\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "asdf.lisp\r\n"
+    ],
+    [
+      0.000002,
+      "axe-pillar.blend\r\n"
+    ],
+    [
+      0.000002,
+      "axe-pillar.blend1\r\n"
+    ],
+    [
+      0.000002,
+      "bin.tar.gz\r\n"
+    ],
+    [
+      0.000002,
+      "cell2.log\r\ncores.txt\r\n"
+    ],
+    [
+      0.000002,
+      "diary\r\n"
+    ],
+    [
+      0.000002,
+      "diary~\r\n"
+    ],
+    [
+      0.000002,
+      "dotemacs.d.tar.gz\r\n"
+    ],
+    [
+      0.000002,
+      "emacs-desktop\r\n"
+    ],
+    [
+      0.000003,
+      "example-sexp.lisp.txt\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[31mfib.boot\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "gtkearth.lisp\r\n"
+    ],
+    [
+      0.000002,
+      "gtktest.dx64fsl\r\n"
+    ],
+    [
+      0.000002,
+      "gtktest.lisp\r\nhello.html\r\n"
+    ],
+    [
+      0.000002,
+      "hello.html~\r\n"
+    ],
+    [
+      0.000002,
+      "id_rsa.pub\r\n"
+    ],
+    [
+      0.000002,
+      "ilomrc.log\r\n"
+    ],
+    [
+      0.000002,
+      "jrc2client.log\r\n"
+    ],
+    [
+      0.000002,
+      "pgadmin.log\r\n"
+    ],
+    [
+      0.000002,
+      "quicklisp.lisp\r\n"
+    ],
+    [
+      0.000002,
+      "racoon.tar.gz\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[31mscreen\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u001b[36msrc\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[1m\u001b[36mtbs_logs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000407,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000109,
+      "\u001bk~\u001b\\"
+    ],
+    [
+      0.011622,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[36mvader@kamino vader \u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[67C \u001b[68D"
+    ],
+    [
+      0.000086,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.752202,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.064072,
+      "\u0008\u001b[32md\u001b[39m "
+    ],
+    [
+      0.375794,
+      "\u0008"
+    ],
+    [
+      0.148976,
+      "\u0008\u001b[39m \u0008"
+    ],
+    [
+      0.234522,
+      "\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.062657,
+      "\u0008\u001b[24m\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.056412,
+      " "
+    ],
+    [
+      0.656795,
+      "\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.399412,
+      "\u0008\u001b[24m \u0008"
+    ],
+    [
+      0.136653,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.088216,
+      "\u0008\u001b[4ms\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.056248,
+      "\u0008\u001b[4mr\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.117130,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000029,
+      "\r\r\n"
+    ],
+    [
+      0.000911,
+      "\u001bkcd\u001b\\"
+    ],
+    [
+      0.000228,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000074,
+      "\u001bk~/src\u001b\\"
+    ],
+    [
+      0.032662,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[36mvader@kamino src \u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[69C \u001b[70D"
+    ],
+    [
+      0.000057,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.617014,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.104134,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.108923,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000018,
+      "\r\r\n"
+    ],
+    [
+      0.000632,
+      "\u001bkls\u001b\\"
+    ],
+    [
+      0.007929,
+      "\u001b[31m123.pl\u001b[39;49m\u001b[0m                          \u001b[1m\u001b[36mjohn\u001b[39;49m\u001b[0m\r\n\u001b[31m123.pl.tdy\u001b[39;49m\u001b[0m                      jsaptest.scpt\r\n84                              \u001b[1m\u001b[36mjsaptest1.app\u001b[39;49m\u001b[0m\r\n9                               kilt.png\r\n\u001b[1m\u001b[36mCataclysm-DDA-0.7.1\u001b[39;49m\u001b[0m             krava.mobileconfig\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[1m\u001b[36mCataclysm-DDA-0.8\u001b[39;49m\u001b[0m               \u001b[1m\u001b[36ml4\u001b[39;49m\u001b[0m\r\nCataclysm-DDA-0.8.zip           langband-0.1.6.tar.gz\r\n\u001b[1m\u001b[36mE11.pdp\u001b[39;49m\u001b[0m                         \u001b[1m\u001b[36mliblcf\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mMail\u001b[39;49m\u001b[0m                            \u001b[1m\u001b[36mlocarus\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mPlayer\u001b[39;49m\u001b[0m                          \u001b[1m\u001b[36mmacgap\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u001b[36mTest0\u001b[39;49m\u001b[0m                           \u001b[1m\u001b[36mmarkdown\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u001b[36mTiled.app\u001b[39;49m\u001b[0m                       \u001b[1m\u001b[36mmaverick.hack\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[1m\u001b[36mTiled.examples\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[36mminetest\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36maif\u001b[39;49m\u001b[0m                             \u001b[1m\u001b[36mmongo-cl-driver\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[1m\u001b[36manyconnect\u001b[39;49m\u001b[0m                      \u001b[1m\u001b[36mnode\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mapache-maven-3.3.1\u001b[39;49m\u001b[0m              \u001b[1m\u001b[36mnode-webkit-v0.10.2-osx-x64\u001b[39;49m\u001b[0m\r\natom-clojure.clj                node-webkit-v0.10.2-osx-x64.zip\r\nbackground-light.png            \u001b[1m\u001b[36mnode-webkit-v0.11.1-osx-x64\u001b[39;49m\u001b[0m\r\nbash-fix.sh.txt                 notes.export.scpt\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u001b[36mbchunk-1.2.0\u001b[39;49m\u001b[0m                    \u001b[1m\u001b[36mperl-net-ssh\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u001b[36mbootstrap\u001b[39;49m\u001b[0m                       \u001b[1m\u001b[36mplay-clj-examples\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "bootstrap.zip                   \u001b[1m\u001b[36mproxy\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u001b[36mbtc\u001b[39;49m\u001b[0m                             proxyset.scpt\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u001b[36mbtserial\u001b[39;49m\u001b[0m                        qlctracebuf.sh\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[31mbuildfw-ft.sh\u001b[39;49m\u001b[0m                   \u001b[1m\u001b[36mqtads\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u001b[36mccl\u001b[39;49m\u001b[0m                             \u001b[1m\u001b[36mquickfort\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u001b[36mcl-tetris3d\u001b[39;49m\u001b[0m                     \u001b[1m\u001b[36mquiz\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u001b[36mclojure\u001b[39;49m\u001b[0m                         \u001b[1m\u001b[36mrealpath\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "cltl_ht.tgz                     \u001b[1m\u001b[36mrenpy-6.18.3-sdk\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "cons-alpha-7-osx.dmg            renpy-6.18.3-sdk.zip\r\ncorkscrew-2.0.tar.gz            \u001b[1m\u001b[36mrogueh\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u001b[36mdcs\u001b[39;49m\u001b[0m                             rouge.tar.gz\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u001b[36mdf\u001b[39;49m\u001b[0m                              seattle-data0.dtm\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u001b[36mdf-multiscroll\u001b[39;49m\u001b[0m                  seattle-schema.dtm\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u001b[36mdfhack\u001b[39;49m\u001b[0m                          sewers-src.zip\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u001b[36mditch\u001b[39;49m\u001b[0m                           sewers.tar.gz\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[1m\u001b[36mepub\u001b[39;49m\u001b[0m                            \u001b[1m\u001b[36mshalava\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[1m\u001b[36mfonts\u001b[39;49m\u001b[0m                           \u001b[1m\u001b[36msyncthing\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mgamelepra\u001b[39;49m\u001b[0m                       test-res\r\n\u001b[31mgpar1.pl\u001b[39;49m\u001b[0m                        three-friday.clj\r\n\u001b[1m\u001b[36mhello-hhs\u001b[39;49m\u001b[0m                       three-friday.clj~\r\nhhhsf                           tut.beam\r\nhhhsf1                          tut.erl\r\nhotkernel.txt                   \u001b[1m\u001b[36mumongo-osx-all_1-4-2\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36micu\u001b[39;49m\u001b[0m                             \u001b[31mupx\u001b[39;49m\u001b[0m\r\nicu4c-53_1-src.tgz              uwar.tar.gz\r\n\u001b[31mig_2_3_exploit\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[36mvagrant-solaris\u001b[39;49m\u001b[0m\r\nig_2_3_exploit.c                \u001b[1m\u001b[36mvdbench\u001b[39;49m\u001b[0m\r\nignull_2_3.c                    virtualbox\r\n\u001b[1m\u001b[36milom\u001b[39;49m\u001b[0m                            \u001b[1m\u001b[36mvpn\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mjavacv-0.10\u001b[39;49m\u001b[0m                     \u001b[1m\u001b[36mxcode.plg1\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000354,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000113,
+      "\u001bk~/src\u001b\\"
+    ],
+    [
+      0.029914,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[36mvader@kamino src \u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[69C \u001b[70D"
+    ],
+    [
+      0.000082,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.160388,
+      "\r\r\n"
+    ]
+  ]
+}
