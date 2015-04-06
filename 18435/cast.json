@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "width": 150,
+  "height": 37,
+  "duration": 7.275223,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.114622,
+      "O programa 'rbenv' não está instalado no momento. Você pode instalá-lo digitando:\r\n"
+    ],
+    [
+      0.000019,
+      "sudo apt-get install rbenv\r\n"
+    ],
+    [
+      0.151141,
+      "\u001b]0;bruno@bruno-Aspire-E1-572: ~\u0007bruno@bruno-Aspire-E1-572:~$ "
+    ],
+    [
+      7.008986,
+      "\r\u001b[K\u001b]0;bruno@bruno-Aspire-E1-572: ~\u0007bruno@bruno-Aspire-E1-572:~$ exit\r\n"
+    ]
+  ]
+}
