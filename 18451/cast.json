@@ -1,0 +1,442 @@
+{
+  "version": 1,
+  "width": 123,
+  "height": 32,
+  "duration": 13.463964,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.041791,
+      "\u001b]0;root@cristal: /etc\u0007root@cristal:/etc# "
+    ],
+    [
+      1.029930,
+      "v"
+    ],
+    [
+      0.280116,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143548,
+      "c"
+    ],
+    [
+      0.039304,
+      "d"
+    ],
+    [
+      0.121621,
+      " "
+    ],
+    [
+      0.095390,
+      "r"
+    ],
+    [
+      0.183574,
+      "c"
+    ],
+    [
+      0.776770,
+      "."
+    ],
+    [
+      0.247263,
+      "d"
+    ],
+    [
+      0.608175,
+      "0"
+    ],
+    [
+      0.167924,
+      "\r\nbash: cd: rc.d0: No such file or directory\r\n\u001b]0;root@cristal: /etc\u0007root@cristal:/etc# "
+    ],
+    [
+      0.424419,
+      "l"
+    ],
+    [
+      0.063470,
+      "s"
+    ],
+    [
+      0.119697,
+      "\r\n"
+    ],
+    [
+      0.001517,
+      "\u001b[0m\u001b[01;34macpi\u001b[0m                           \u001b[01;34mdoc-base\u001b[0m           ldap.conf         passwd                   \u001b[01;34msignon-ui\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "adduser.conf                   \u001b[01;34mdpkg\u001b[0m               ldap.secret       passwd-                  \u001b[01;34mskel\u001b[0m\r\n\u001b[01;34malternatives\u001b[0m                   drirc              ld.so.cache       \u001b[01;34mpcmcia\u001b[0m                   smi.conf\r\nanacrontab                     \u001b[01;34memacs\u001b[0m              ld.so.conf        \u001b[01;34mperl\u001b[0m                     \u001b[01;34msound\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "apg.conf                       environment        \u001b[01;34mld.so.conf.d\u001b[0m      \u001b[01;34mpki\u001b[0m                      \u001b[01;34mspeech-dispatcher\u001b[0m\r\n\u001b[01;34mapm\u001b[0m                            ethertypes         legal             \u001b[01;34mpm\u001b[0m                       \u001b[01;34mssh\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[01;34mapparmor\u001b[0m                       \u001b[01;34mfirefox\u001b[0m            libaudit.conf     pnm2ppa.conf             \u001b[01;34mssl\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[01;34mapparmor.d\u001b[0m                     \u001b[01;34mfish\u001b[0m               \u001b[01;34mlibnl-3\u001b[0m           \u001b[01;34mpolkit-1\u001b[0m                 subgid\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[01;34mapport\u001b[0m                         \u001b[01;34mfonts\u001b[0m              \u001b[01;34mlibpaper.d\u001b[0m        popularity-contest.conf  subgid-\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34mapt\u001b[0m                            fstab              \u001b[01;34mlibreoffice\u001b[0m       \u001b[01;34mpostgresql-common\u001b[0m        subuid\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34maptdaemon\u001b[0m                      \u001b[01;34mfstab.d\u001b[0m            \u001b[01;34mlibvirt\u001b[0m           \u001b[01;34mppp\u001b[0m                      subuid-\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34mat-spi2\u001b[0m                        fuse.conf          \u001b[01;34mlightdm\u001b[0m           \u001b[01;36mprintcap\u001b[0m                 sudoers\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mauth-client-config\u001b[0m             gai.conf           lintianrc         profile                  \u001b[01;34msudoers.d\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[01;34mavahi\u001b[0m                          \u001b[01;34mgconf\u001b[0m              locale.alias      \u001b[01;34mprofile.d\u001b[0m                sysctl.conf\r\n"
+    ],
+    [
+      0.000005,
+      "bash.bashrc                    \u001b[01;34mgdb\u001b[0m                localtime         protocols                \u001b[01;34msysctl.d\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "bash_completion                \u001b[01;34mghostscript\u001b[0m        \u001b[01;34mlogcheck\u001b[0m          \u001b[01;34mpulse\u001b[0m                    \u001b[01;34msystemd\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[01;34mbash_completion.d\u001b[0m              \u001b[01;34mgnome\u001b[0m              login.defs        \u001b[01;34mpython\u001b[0m                   \u001b[01;34mterminfo\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "bindresvport.blacklist         \u001b[01;34mgnome-app-install\u001b[0m  logrotate.conf    \u001b[01;34mpython2.7\u001b[0m                \u001b[01;34mtexmf\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "blkid.conf                     \u001b[01;34mgnome-vfs-2.0\u001b[0m      \u001b[01;34mlogrotate.d\u001b[0m       \u001b[01;34mpython3\u001b[0m                  \u001b[01;34mthunderbird\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[40;31;01mblkid.tab\u001b[0m                      \u001b[01;34mgroff\u001b[0m              lsb-release       \u001b[01;34mpython3.4\u001b[0m                timezone\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[01;34mbluetooth\u001b[0m                      group              ltrace.conf       \u001b[01;34mqemu\u001b[0m                     \u001b[01;34mtimidity\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mbonobo-activation\u001b[0m              group-             \u001b[01;34mlxc\u001b[0m               \u001b[01;32mqemu-ifdown\u001b[0m              ts.conf\r\n"
+    ],
+    [
+      0.000008,
+      "brlapi.key                     \u001b[01;34mgrub.d\u001b[0m             \u001b[01;34mlynx-cur\u001b[0m          \u001b[01;32mqemu-ifup\u001b[0m                ucf.conf\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mbrltty\u001b[0m                         gshadow            magic             \u001b[01;34mrc0.d\u001b[0m                    \u001b[01;34mudev\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "brltty.conf                    gshadow-           magic.mime        \u001b[01;34mrc1.d\u001b[0m                    \u001b[01;34mudisks2\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[01;34mca-certificates\u001b[0m                gssapi_mech.conf   mailcap           \u001b[01;34mrc2.d\u001b[0m                    \u001b[01;34mufw\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "ca-certificates.conf           \u001b[01;34mgtk-2.0\u001b[0m            mailcap.order     \u001b[01;34mrc3.d\u001b[0m                    updatedb.conf\r\n"
+    ],
+    [
+      0.000016,
+      "ca-certificates.conf.dpkg-old  \u001b[01;34mgtk-3.0\u001b[0m            manpath.config    \u001b[01;34mrc4.d\u001b[0m                    \u001b[01;34mupdate-manager\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34mcalendar\u001b[0m                       hdparm.conf        mime.types        \u001b[01;34mrc5.d\u001b[0m                    \u001b[01;34mupdate-motd.d\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34mchatscripts\u001b[0m                    host.conf          mke2fs.conf       \u001b[01;34mrc6.d\u001b[0m                    \u001b[01;34mupdate-notifier\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "colord.conf                    hostname           \u001b[01;34mmodprobe.d\u001b[0m        \u001b[01;32mrc.local\u001b[0m                 \u001b[01;34mUPower\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mcompizconfig\u001b[0m                   hosts              modules           \u001b[01;34mrcS.d\u001b[0m                    upstart-xsessions\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mconsole-setup\u001b[0m                  hosts.allow        \u001b[01;34mmodules-load.d\u001b[0m    \u001b[01;34mrequest-key.d\u001b[0m            usb_modeswitch.conf\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[01;34mcracklib\u001b[0m                       hosts.deny         mtab              \u001b[01;34mresolvconf\u001b[0m               \u001b[01;34musb_modeswitch.d\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[01;34mcron.d\u001b[0m                         \u001b[01;34mhp\u001b[0m                 mtab.fuselock     \u001b[01;36mresolv.conf\u001b[0m              \u001b[01;34mvbox\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[01;34mcron.daily\u001b[0m                     idmapd.conf        mtools.conf       \u001b[01;32mrmt\u001b[0m                      \u001b[01;34mvelocity\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[01;34mcron.hourly\u001b[0m                    \u001b[01;34mifplugd\u001b[0m            nanorc            rpc                      \u001b[01;34mvim\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34mcron.monthly\u001b[0m                   \u001b[01;34mImageMagick\u001b[0m        netconfig         rsyslog.conf             \u001b[01;36mvtrgb\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "crontab                        \u001b[01;34minit\u001b[0m               netscsid.conf     \u001b[01;34mrsyslog.d\u001b[0m                wgetrc"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[01;34mcron.weekly\u001b[0m                    \u001b[01;34minit.d\u001b[0m             \u001b[01;34mnetwork\u001b[0m           \u001b[01;34msamba\u001b[0m                    \u001b[01;34mwildmidi\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[01;34mcups\u001b[0m                           \u001b[01;34minitramfs-tools\u001b[0m    \u001b[01;34mNetworkManager\u001b[0m    \u001b[01;34msane.d\u001b[0m                   \u001b[01;34mwireshark\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[01;34mcupshelpers\u001b[0m                    inputrc            networks          \u001b[01;34msasl2\u001b[0m                    wodim.conf\r\n\u001b[01;34mdbus-1\u001b[0m                         \u001b[01;34minsserv\u001b[0m            \u001b[01;34mnewt\u001b[0m              \u001b[01;34mscite\u001b[0m                    \u001b[01;34mwpa_supplicant\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[01;34mdconf\u001b[0m                          insserv.conf       \u001b[40;31;01mnologin\u001b[0m           securetty                \u001b[01;34mX11\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "debconf.conf                   \u001b[01;34minsserv.conf.d\u001b[0m     nsswitch.conf     \u001b[01;34msecurity\u001b[0m                 \u001b[01;34mxdg\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "debian_version                 \u001b[01;34miproute2\u001b[0m           \u001b[01;34mobex-data-server\u001b[0m  \u001b[01;34mselinux\u001b[0m                  xinetd.conf\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[01;34mdefault\u001b[0m                        issue              \u001b[01;34mopenal\u001b[0m            sensors3.conf            \u001b[01;34mxinetd.d\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "deluser.conf                   issue.net          \u001b[01;34mopenvswitch\u001b[0m       \u001b[01;34msensors.d\u001b[0m                \u001b[01;34mxml\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34mdepmod.d\u001b[0m                       \u001b[01;34mjava-7-openjdk\u001b[0m     \u001b[01;34mopt\u001b[0m               services                 \u001b[01;34mxul-ext\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[01;34mdhcp\u001b[0m                           \u001b[01;34mkbd\u001b[0m                os-release        \u001b[01;34msgml\u001b[0m                     \u001b[01;34mzabbix\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mdictionaries-common\u001b[0m            \u001b[01;34mkernel\u001b[0m             \u001b[01;34mownCloud\u001b[0m          shadow                   zsh_command_not_found\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mdkms\u001b[0m                           kernel-img.conf    pam.conf          shadow-\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mdnsmasq.d\u001b[0m                      kerneloops.conf    \u001b[01;34mpam.d\u001b[0m             shells\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mdnsmasq.d-available\u001b[0m            \u001b[01;34mldap\u001b[0m               papersize         signond.conf\r\n"
+    ],
+    [
+      0.000236,
+      "\u001b]0;root@cristal: /etc\u0007root@cristal:/etc# "
+    ],
+    [
+      0.749849,
+      "v"
+    ],
+    [
+      0.119550,
+      "i"
+    ],
+    [
+      0.151866,
+      "m"
+    ],
+    [
+      0.088881,
+      " "
+    ],
+    [
+      0.159633,
+      "r"
+    ],
+    [
+      0.160261,
+      "c"
+    ],
+    [
+      0.127485,
+      "."
+    ],
+    [
+      0.176243,
+      "l"
+    ],
+    [
+      0.136215,
+      "o"
+    ],
+    [
+      0.199982,
+      "c"
+    ],
+    [
+      0.056317,
+      "a"
+    ],
+    [
+      0.095753,
+      "l"
+    ],
+    [
+      0.151470,
+      "\r\n"
+    ],
+    [
+      0.019967,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000004,
+      "\u001b[2;1H▽\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.000410,
+      "\u001b[1;32r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[32;1H\"rc.local\""
+    ],
+    [
+      0.000036,
+      " 13L, 305C"
+    ],
+    [
+      0.002731,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000673,
+      "\u001b[1;1H\u001b[34m#!/bin/sh -e\r\n#\r\n# rc.local\r\n#\r\n# This script is executed at the end of each multiuser runlevel.\r\n# Make sure that the script will \"exit 0\" on success or any other\r\n# value on error.\r\n#\r\n# In order to enable or disable this script just change the execution\r\n# bits.\r\n#\r\n# By default this script does nothing.\u001b[m\r\n\u001b[33mexit\u001b[m \u001b[31m0\u001b[m\r\n\u001b[1m\u001b[34m~                                                                                                                          \u001b[15;1H~                                                                                                                          \u001b[16;1H~                                                                                                                          \u001b[17;1H~                                                                                                                          \u001b[18;1H~                                                                                                                          \u001b[19;1H~                                                                                                                          \u001b[20;1H~                                                                                                                          \u001b[21;1H~                                                                                                                          \u001b[22;1H~                                                                                                                          \u001b[23;1H~                                                                                                                          \u001b[24;1H~                                                                                                                          \u001b[25;1H~                                                                                                                          \u001b[26;1H~                                                                                                                          "
+    ],
+    [
+      0.000013,
+      "\u001b[27;1H~                                                                                                                          \u001b[28;1H~                                                                                                                          \u001b[29;1H~                                                                                                                          \u001b[30;1H~                                                                                                                          \u001b[31;1H~                                                                                                                          \u001b[m\u001b[32;106H1,1\u001b[11CAll\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002372,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.607150,
+      "\u001b[?25l\u001b[32;1H\u001b[1m-- INSERT --\u001b[m\u001b[32;13H\u001b[K\u001b[32;106H1,1\u001b[11CAll"
+    ],
+    [
+      0.000008,
+      "\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.671497,
+      "\u001b[?25l\u001b[1C\u001b[34m#!/bin/sh -e\u001b[m\u001b[32;108H2\u001b[1;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.377310,
+      "\u001b[32;1H\u001b[K\u001b[1;1H"
+    ],
+    [
+      0.950445,
+      "\u001b[?25l\u001b[32;106H1,1\u001b[11CAll\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015103,
+      "\u001b[?25l\u001b[32;106H\u001b[K\u001b[32;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.345317,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.231181,
+      "!\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.193435,
+      "\r\u001b[?25l\u001b[32;1H\u001b[K\u001b[32;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000189,
+      "\u001b]0;root@cristal: /etc\u0007root@cristal:/etc# "
+    ],
+    [
+      1.431328,
+      "e"
+    ],
+    [
+      0.191348,
+      "x"
+    ],
+    [
+      0.143757,
+      "i"
+    ],
+    [
+      0.080250,
+      "t"
+    ],
+    [
+      0.480604,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
