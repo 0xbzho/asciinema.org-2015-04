@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "width": 207,
+  "height": 57,
+  "duration": 68.734661,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.244060,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000017,
+      "\u001bk..space/ansible\u001b\\"
+    ],
+    [
+      0.016546,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32mdsociative@ds \u001b[01;34m~/workspace/ansible (testing*) $\u001b[00m \u001b[K"
+    ],
+    [
+      0.000097,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.188631,
+      "-"
+    ],
+    [
+      0.188916,
+      "\u0008-p"
+    ],
+    [
+      0.181009,
+      "l"
+    ],
+    [
+      0.089982,
+      "a"
+    ],
+    [
+      0.163654,
+      "\u0008\u0008\u0008\u0008gst-play-1.0\u001b[1m \u001b[0m"
+    ],
+    [
+      0.670481,
+      "\u0007"
+    ],
+    [
+      0.000014,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.001138,
+      "\r\r\n"
+    ],
+    [
+      0.000168,
+      "\u001b[0maccess.yml                  buildbot.yml                geektech.yml                \u001b[1;31mjewels_factory\u001b[0m/             playbook.yml                tiles.yml                                             \r\n"
+    ],
+    [
+      0.000044,
+      "ansible.cfg                 \u001b[1;31mdocker\u001b[0m/                     \u001b[1;31mgroup_vars\u001b[0m/                 jewels.yml                  \u001b[1;31mroles\u001b[0m/                      tunnel.yml                                            \r\nansible.sublime-project     \u001b[1;31mfiles\u001b[0m/                      hosts                       \u001b[1;31mlib\u001b[0m/                        slaves.yml                  Vagrantfile                                           \r\nansible.sublime-workspace   fluentd.yml                 \u001b[1;31minclude\u001b[0m/                    match.yml                   \u001b[1;31mtemplates\u001b[0m/                  vk-production.yml                                     \r\n\u001b[J\u001b[1;32masciinema\u001b[0m*                  \u001b[Jgeektech.sublime-workspace  \u001b[J\u001b[1;31mjewels_config\u001b[0m/              \u001b[Jod-production.yml           \u001b[Jtest.json                   \u001b[J                                                    \u001b[5A\u001b[0m\u001b[23m\u001b[24m\r\u001b[47Cgst-play-1.0\u001b[K\u001b[1C"
+    ],
+    [
+      0.522478,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000629,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000049,
+      "\u001bk..space/ansible\u001b\\"
+    ],
+    [
+      0.013612,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32mdsociative@ds \u001b[01;34m~/workspace/ansible (testing*) $\u001b[00m \u001b[K"
+    ],
+    [
+      0.000114,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.406640,
+      "a"
+    ],
+    [
+      0.094870,
+      "\u0008an"
+    ],
+    [
+      0.111044,
+      "s"
+    ],
+    [
+      0.280076,
+      "i"
+    ],
+    [
+      0.166644,
+      "\u0008\u0008\u0008\u0008syslinux2ansi\u001b[1m \u001b[0m"
+    ],
+    [
+      0.861409,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.499689,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030693,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030374,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030310,
+      "\u0008 \u0008"
+    ],
+    [
+      0.029941,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030928,
+      "\u0008 \u0008"
+    ],
+    [
+      0.031305,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030040,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030180,
+      "\u0008 \u0008"
+    ],
+    [
+      0.029892,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030951,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030002,
+      "\u0008\u0008s \u0008"
+    ],
+    [
+      0.030059,
+      "\u0008 \u0008"
+    ],
+    [
+      0.237509,
+      "\r\r\nbck-i-search: _\u001b[K\u001bM\u001b[32C"
+    ],
+    [
+      0.216020,
+      "/home/dsociative/workspace/ansible/a\u001b[4ms\u001b[24mciinema rec\u001b[1B\u001b[81Ds_\u001bM\u001b[67C"
+    ],
+    [
+      0.090040,
+      "\u001b[29D\u001b[4ms\u001b[4mo\u001b[24m\u001b[27C\u001b[24ms\u001b[1B\u001b[69Do_\u001bM\u001b[37C"
+    ],
+    [
+      0.196148,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4ms\u001b[4mo\u001b[4mu\u001b[24mrce \u001b[24m.\u001b[24menv/bin/activate                        \u001b[1B\u001b[79Du_\u001bM\u001b[29C"
+    ],
+    [
+      0.169674,
+      "\u001b[2C\u001b[4mu\u001b[4mr\u001b[24m\u001b[1B\u001b[34Dr_\u001bM\u001b[28C"
+    ],
+    [
+      0.521192,
+      "\u001b[24ms\u001b[24mo\u001b[24mu\u001b[24mr\u001b[1B\r\u001b[K\u001bM\u001b[47C"
+    ],
+    [
+      0.000077,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000012,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000718,
+      "\u001bksource\u001b\\"
+    ],
+    [
+      0.009367,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000034,
+      "\u001bk..space/ansible\u001b\\"
+    ],
+    [
+      0.021833,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.env)\u001b[01;32mdsociative@ds \u001b[01;34m~/workspace/ansible (testing*) $\u001b[00m \u001b[K"
+    ],
+    [
+      0.000100,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.545022,
+      "a"
+    ],
+    [
+      0.094969,
+      "\u0008an"
+    ],
+    [
+      0.280909,
+      "s"
+    ],
+    [
+      0.109949,
+      "i"
+    ],
+    [
+      0.149592,
+      "ble"
+    ],
+    [
+      0.366466,
+      "-"
+    ],
+    [
+      0.276140,
+      "p"
+    ],
+    [
+      0.249795,
+      "l"
+    ],
+    [
+      0.125316,
+      "aybook\u001b[1m \u001b[0m"
+    ],
+    [
+      0.863592,
+      "\u0008\u001b[0m m"
+    ],
+    [
+      0.149160,
+      "a"
+    ],
+    [
+      0.134386,
+      "tch.yml\u001b[1m \u001b[0m"
+    ],
+    [
+      0.457539,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000088,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000747,
+      "\u001bkansible-playbook\u001b\\"
+    ],
+    [
+      0.273698,
+      "\r\nPLAY [match-01] *************************************************************** \r\n"
+    ],
+    [
+      0.000252,
+      "\r\nGATHERING FACTS *************************************************************** \r\n"
+    ],
+    [
+      4.365967,
+      "\u001b[0;32mok: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.000982,
+      "\r\nTASK: [matcher | apt name={{ item }} state=present] *************************** \r\n"
+    ],
+    [
+      2.017229,
+      "\u001b[0;32mok: [104.155.67.43] =\u003e (item=supervisor,nginx,python-setuptools)\u001b[0m\r\n"
+    ],
+    [
+      0.000253,
+      "\r\nTASK: [matcher | easy_install name=pip] *************************************** "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      1.818513,
+      "\u001b[0;32mok: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.000268,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "TASK: [matcher | pip name=virtualenv state=latest] **************************** \r\n"
+    ],
+    [
+      2.305698,
+      "\u001b[0;32mok: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.002188,
+      "\r\nTASK: [matcher | synchronize src={{ matcher_src }} dest={{ matcher_dest }}] *** \r\n"
+    ],
+    [
+      26.417911,
+      "\u001b[0;33mchanged: [104.155.67.43 -\u003e 127.0.0.1]\u001b[0m\r\n"
+    ],
+    [
+      0.001838,
+      "\r\nTASK: [matcher | stat path={{ matcher_env }}] ********************************* \r\n"
+    ],
+    [
+      1.725274,
+      "\u001b[0;32mok: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.001854,
+      "\r\nTASK: [matcher | shell virtualenv {{ matcher_env }}] ************************** \r\n"
+    ],
+    [
+      0.009222,
+      "\u001b[0;36mskipping: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.001283,
+      "\r\nTASK: [matcher | pip name={{ matcher_path }} virtualenv={{ matcher_env }}] **** \r\n"
+    ],
+    [
+      2.951670,
+      "\u001b[0;32mok: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.001953,
+      "\r\nTASK: [matcher | template src=supervisor.conf.j2 dest={{ supervisor_conf_dir }}/matcher.conf] *** \r\n"
+    ],
+    [
+      2.018676,
+      "\u001b[0;32mok: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK: [matcher | template src=nginx.j2 dest=/etc/nginx/sites-available/matcher] *** \r\n"
+    ],
+    [
+      2.926546,
+      "\u001b[0;33mchanged: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.000346,
+      "\r\nTASK: [matcher | file src=/etc/nginx/sites-available/matcher dest=/etc/nginx/sites-enabled/matcher state=link] *** \r\n"
+    ],
+    [
+      1.752155,
+      "\u001b[0;32mok: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.000341,
+      "\r\nNOTIFIED: [matcher | restart nginx] ******************************************* \r\n"
+    ],
+    [
+      1.895133,
+      "\u001b[0;33mchanged: [104.155.67.43]\u001b[0m\r\n"
+    ],
+    [
+      0.000314,
+      "\r\nPLAY RECAP ******************************************************************** \r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[0;33m104.155.67.43\u001b[0m              : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m11\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m3\u001b[0m    unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.014833,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000101,
+      "\u001bk..space/ansible\u001b\\"
+    ],
+    [
+      0.011349,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J(.env)\u001b[01;32mdsociative@ds \u001b[01;34m~/workspace/ansible (testing*) $\u001b[00m \u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.875460,
+      "\r\r\n"
+    ]
+  ]
+}
