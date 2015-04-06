@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 57,
+  "duration": 4.710705,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.209216,
+      "\u001b]0;uncledamfee@uncledamfee-laptop: ~\u0007uncledamfee@uncledamfee-laptop:~$ "
+    ],
+    [
+      0.714739,
+      "t"
+    ],
+    [
+      0.109453,
+      "h"
+    ],
+    [
+      0.071641,
+      "i"
+    ],
+    [
+      0.107580,
+      "s"
+    ],
+    [
+      0.147644,
+      " "
+    ],
+    [
+      0.556133,
+      "\r\n"
+    ],
+    [
+      0.447296,
+      "No command 'this' found, did you mean:\r\n"
+    ],
+    [
+      0.000065,
+      " Command 'thin' from package 'thin' (universe)\r\nthis: command not found\r\n"
+    ],
+    [
+      0.040675,
+      "\u001b]0;uncledamfee@uncledamfee-laptop: ~\u0007uncledamfee@uncledamfee-laptop:~$ "
+    ],
+    [
+      2.305301,
+      "exit\r\n"
+    ]
+  ]
+}
