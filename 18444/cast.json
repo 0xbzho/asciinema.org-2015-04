@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 28,
+  "duration": 11.583750,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.211975,
+      "\u001b]0;uncledamfee@uncledamfee-laptop: ~\u0007uncledamfee@uncledamfee-laptop:~$ "
+    ],
+    [
+      0.214956,
+      "\r\n\u001b]0;uncledamfee@uncledamfee-laptop: ~\u0007uncledamfee@uncledamfee-laptop:~$ "
+    ],
+    [
+      3.143673,
+      "n"
+    ],
+    [
+      0.111377,
+      "a"
+    ],
+    [
+      0.068563,
+      "n"
+    ],
+    [
+      0.127857,
+      "o"
+    ],
+    [
+      0.183097,
+      "\r\n"
+    ],
+    [
+      0.155165,
+      "\r\nError reading /home/uncledamfee/.nano_history: Permission denied\r\n"
+    ],
+    [
+      0.000047,
+      "\r\nPress Enter to continue starting nano.\r\n"
+    ],
+    [
+      1.037254,
+      "\r\n"
+    ],
+    [
+      0.001626,
+      "\u001b[?1049h\u001b[1;28r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000208,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000190,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.004036,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6                     New Buffer                                                  \u001b[27;1H^G\u001b(B\u001b[m Get Help     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut     \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File    \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page    \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text     \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[28d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[28;17H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[33G\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is     \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page    \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text   \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      1.480762,
+      "\u001b[27d\u001b[J\u001b[28;97H\u001b[28;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\u001b]0;uncledamfee@uncledamfee-laptop: ~\u0007uncledamfee@uncledamfee-laptop:~$ "
+    ],
+    [
+      3.898720,
+      "e"
+    ],
+    [
+      0.488092,
+      "x"
+    ],
+    [
+      0.164906,
+      "i"
+    ],
+    [
+      0.105227,
+      "t"
+    ],
+    [
+      0.185581,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
