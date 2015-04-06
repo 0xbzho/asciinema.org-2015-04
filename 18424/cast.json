@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 21.449370,
+  "command": "/bin/bash",
+  "title": "lwoot",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005388,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000005,
+      "bash-3.2$ "
+    ],
+    [
+      2.691922,
+      "l"
+    ],
+    [
+      0.159956,
+      "s"
+    ],
+    [
+      0.343964,
+      " "
+    ],
+    [
+      0.175938,
+      "-"
+    ],
+    [
+      0.207978,
+      "l"
+    ],
+    [
+      1.127942,
+      "\r\n"
+    ],
+    [
+      0.004433,
+      "total 14296\r\n"
+    ],
+    [
+      0.000234,
+      "-rwxr-xr-x  1 root  wheel  7307652 Apr  6 07:54 asciinema\r\n"
+    ],
+    [
+      0.000070,
+      "lrwxr-xr-x  1 root  wheel       67 Jan 22 12:46 git-media -\u003e /Applications/GitHub.app/Contents/Resources/git-media/bin/git-media\r\n"
+    ],
+    [
+      0.000261,
+      "lrwxr-xr-x  1 root  wheel       50 Jan 22 12:46 github -\u003e /Applications/GitHub.app/Contents/MacOS/github_cli\r\n"
+    ],
+    [
+      0.000295,
+      "bash-3.2$ "
+    ],
+    [
+      7.050591,
+      "c"
+    ],
+    [
+      0.095713,
+      "d"
+    ],
+    [
+      0.112202,
+      " "
+    ],
+    [
+      0.560281,
+      "~"
+    ],
+    [
+      0.264042,
+      "\r\n"
+    ],
+    [
+      0.000316,
+      "bash-3.2$ "
+    ],
+    [
+      0.935155,
+      "l"
+    ],
+    [
+      0.127961,
+      "s"
+    ],
+    [
+      0.264064,
+      " "
+    ],
+    [
+      0.263995,
+      "-"
+    ],
+    [
+      0.208053,
+      "l"
+    ],
+    [
+      0.135766,
+      "\r\n"
+    ],
+    [
+      0.009513,
+      "total 0\r\n"
+    ],
+    [
+      0.000149,
+      "drwx------    7 01135722  CORPPVT\\Domain Users   238 Mar  4 10:59 Applications\r\ndrwxr-xr-x@   5 01135722  CORPPVT\\Domain Users   170 Apr  2 10:31 Applications (Parallels)\r\ndrwxr-xr-x    7 01135722  CORPPVT\\Domain Users   238 Feb 11 10:55 Clojure\r\n"
+    ],
+    [
+      0.000006,
+      "drwx------+  14 01135722  CORPPVT\\Domain Users   476 Apr  3 08:30 Desktop\r\ndrwx------+  71 01135722  CORPPVT\\Domain Users  2414 Apr  3 08:31 Documents\r\ndrwx------+ 101 01135722  CORPPVT\\Domain Users  3434 Apr  3 08:26 Downloads\r\ndrwx------@  51 01135722  CORPPVT\\Domain Users  1734 Apr  3 08:29 Library\r\n"
+    ],
+    [
+      0.000003,
+      "drwx------+   4 01135722  CORPPVT\\Domain Users   136 Feb  5 11:02 Movies\r\ndrwx------+   5 01135722  CORPPVT\\Domain Users   170 Feb  5 11:02 Music\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x    4 01135722  CORPPVT\\Domain Users   136 Mar  4 14:30 OneDriveB\r\ndrwx------+   4 01135722  CORPPVT\\Domain Users   136 Feb  5 11:02 Pictures\r\n"
+    ],
+    [
+      0.000002,
+      "drwxr-xr-x+   6 01135722  CORPPVT\\Domain Users   204 Jan 22 12:46 Public\r\n"
+    ],
+    [
+      0.000002,
+      "drwxr-xr-x    4 01135722  CORPPVT\\Domain Users   136 Jan 28 08:13 lwork\r\n"
+    ],
+    [
+      0.000272,
+      "bash-3.2$ "
+    ],
+    [
+      6.701898,
+      "exit\r\n"
+    ]
+  ]
+}
