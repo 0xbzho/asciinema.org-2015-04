@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "width": 148,
+  "height": 48,
+  "duration": 16.666003,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.030809,
+      "bash: autoload: command not found\r\n"
+    ],
+    [
+      0.000610,
+      "bash: autoload: command not found\r\n"
+    ],
+    [
+      0.002085,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.000596,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.000618,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.000572,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.000687,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.000633,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.000614,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.002662,
+      "bash: bindkey: command not found\r\n"
+    ],
+    [
+      0.000217,
+      "bash: compdef: command not found\r\n"
+    ],
+    [
+      0.003279,
+      "bash: `internet\\?': not a valid identifier\r\n"
+    ],
+    [
+      0.003353,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000530,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000484,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000471,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000462,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000467,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000468,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000467,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000477,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000489,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.000500,
+      "bash: setopt: command not found\r\n"
+    ],
+    [
+      0.024233,
+      "bash-3.2$ "
+    ],
+    [
+      4.829655,
+      "w"
+    ],
+    [
+      0.044494,
+      "e"
+    ],
+    [
+      0.337437,
+      "a"
+    ],
+    [
+      0.146579,
+      "t"
+    ],
+    [
+      0.179560,
+      "h"
+    ],
+    [
+      0.123853,
+      "e"
+    ],
+    [
+      0.123986,
+      "r"
+    ],
+    [
+      0.213858,
+      " "
+    ],
+    [
+      0.157222,
+      "-"
+    ],
+    [
+      0.382488,
+      " "
+    ],
+    [
+      0.337774,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.225091,
+      "l"
+    ],
+    [
+      0.156968,
+      " "
+    ],
+    [
+      0.855380,
+      "4"
+    ],
+    [
+      0.314986,
+      "6"
+    ],
+    [
+      0.438879,
+      "8"
+    ],
+    [
+      2.115161,
+      "2"
+    ],
+    [
+      0.168217,
+      "5"
+    ],
+    [
+      0.202690,
+      "\r\n"
+    ],
+    [
+      1.898479,
+      "\u001b[34m                          .':loolc;.\r\n                       .o0NNNXKKKXNNXk:\r\n                  .,::kXNKo,.     .:kXNXo:;,.\r\n               ;kXNNNNNXc            .xNNNNNNKd.\r\n             .0NNk:',:odccc:,.         ....,lKNXd\r\n            .KNXdlOXNNNNNNNNNNXOo,            dNNd\r\n            cXNNNNKd:'.    .';o0NNKl.         .NNX\r\n      .';cccxNNXd'              .oXNXoccc;'.  ,NNK\r\n   .cOXNNNNNNNO.                  .kNNNNNNNXOoXNX'\r\n  oXNXx;..  ..                      ..   .;dXNNX.\r\n.ONNd.                                      .oXNO.\r\nxNNo                                          lNNk\r\nXNN.                                          .NNX\r\n0NN,                                          .NNK\r\n;XN0.                                        .ONNc\r\n ;XNXo.        .                           .lXNX:\r\n  .dXNX0dlcclx0Xo.              .oXKxoccldOXNXx.\r\n     ,ok0XXXX0kKNN0o;'.    ..;o0NNKk0KXXX0ko,\r\n                'lOXNNNNNNNNNNXOo,\r\n                    :x0XNNX0x:.\u001b[0m\r\n"
+    ],
+    [
+      0.000125,
+      "\r\nCurrent weather is \u001b[36mOvercast\u001b[0m in \u001b[32mFort Wayne in Indiana\u001b[0m for \u001b[36mApril 6 at 1:17pm EDT\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "The temperature is \u001b[35m56.02°F\u001b[0m, but it feels like \u001b[35m56.02°F\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "Ick! The humidity is \u001b[97m59%\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "The nearest storm is \u001b[97m78 miles ESE\u001b[0m away\r\n"
+    ],
+    [
+      0.000011,
+      "The wind speed is \u001b[97m4.86 mph SE\u001b[0m\r\nThe cloud coverage is \u001b[97m100%\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "The pressure is \u001b[97m1017.78 mbar\u001b[0m\r\n"
+    ],
+    [
+      0.001710,
+      "bash-3.2$ "
+    ],
+    [
+      2.690163,
+      "e"
+    ],
+    [
+      0.191690,
+      "x"
+    ],
+    [
+      0.122736,
+      "i"
+    ],
+    [
+      0.146463,
+      "t"
+    ],
+    [
+      0.179807,
+      "\r\n"
+    ],
+    [
+      0.001985,
+      "exit\r\n"
+    ]
+  ]
+}
