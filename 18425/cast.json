@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "width": 137,
+  "height": 25,
+  "duration": 19.088204,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007104,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "bash-3.2$ "
+    ],
+    [
+      1.472286,
+      "l"
+    ],
+    [
+      0.095917,
+      "s"
+    ],
+    [
+      0.208059,
+      " "
+    ],
+    [
+      0.159929,
+      "-"
+    ],
+    [
+      0.168034,
+      "l"
+    ],
+    [
+      0.192087,
+      "\r\n"
+    ],
+    [
+      0.004605,
+      "total 14296\r\n"
+    ],
+    [
+      0.000255,
+      "-rwxr-xr-x  1 root  wheel  7307652 Apr  6 07:54 asciinema\r\n"
+    ],
+    [
+      0.000644,
+      "lrwxr-xr-x  1 root  wheel       67 Jan 22 12:46 git-media -\u003e /Applications/GitHub.app/Contents/Resources/git-media/bin/git-media\r\n"
+    ],
+    [
+      0.000171,
+      "lrwxr-xr-x  1 root  wheel       50 Jan 22 12:46 github -\u003e /Applications/GitHub.app/Contents/MacOS/github_cli\r\n"
+    ],
+    [
+      0.000327,
+      "bash-3.2$ "
+    ],
+    [
+      1.385694,
+      "c"
+    ],
+    [
+      1.088129,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.184053,
+      "\u0007"
+    ],
+    [
+      0.592040,
+      "l"
+    ],
+    [
+      0.127791,
+      "s"
+    ],
+    [
+      0.223995,
+      " "
+    ],
+    [
+      4.695868,
+      "!"
+    ],
+    [
+      0.383844,
+      "\r\n"
+    ],
+    [
+      0.003103,
+      "ls: !: No such file or directory\r\n"
+    ],
+    [
+      0.000218,
+      "bash-3.2$ "
+    ],
+    [
+      1.876773,
+      "l"
+    ],
+    [
+      0.143977,
+      "s"
+    ],
+    [
+      0.199918,
+      " "
+    ],
+    [
+      0.775883,
+      "~"
+    ],
+    [
+      0.231907,
+      "\r\n"
+    ],
+    [
+      0.003546,
+      "Applications\t\t\tDocuments\t\t\tMusic\t\t\t\tlwork\r\nApplications (Parallels)\tDownloads\t\t\tOneDriveB\r\nClojure\t\t\t\tLibrary\t\t\t\tPictures\r\nDesktop\t\t\t\tMovies\t\t\t\tPublic\r\n"
+    ],
+    [
+      0.000264,
+      "bash-3.2$ "
+    ],
+    [
+      3.020288,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "bash-3.2$ "
+    ],
+    [
+      1.839913,
+      "exit\r\n"
+    ]
+  ]
+}
