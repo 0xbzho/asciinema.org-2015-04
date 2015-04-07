@@ -1,0 +1,1026 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 41,
+  "duration": 49.566927,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.339153,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000339,
+      "\u001b]2;wyrihaximus@Inspiron-7537: ~/Projects/ReactBlogSeriesExamples/http\u0007\u001b]1;..Examples/http\u0007"
+    ],
+    [
+      0.144398,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;34m\u001b[1m┌─[\u001b[0m\u001b[0m\u001b[1;32mwyrihaximus\u001b[1;30m@\u001b[0m\u001b[0;36mInspiron-7537\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0m\u001b[0;34m\u001b[1m[\u001b[0m\u001b[1;37m~/Projects/ReactBlogSeriesExamples/http\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0;34m\u001b[1m[\u001b[0m\u001b[0;33m2015-04-07 11:41:45\u001b[0m\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m\r\n\u001b[0;34m\u001b[1m└─\u001b[1m[\u001b[1;35m0\u001b[0;34m\u001b[1m] \u003cgit:(master \u001b[34mc95ebc4\u001b[00m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[00m) \u003e\u001b[0m\u001b[0m \u001b[K"
+    ],
+    [
+      0.000057,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.234648,
+      "t"
+    ],
+    [
+      0.260886,
+      "\u0008tm"
+    ],
+    [
+      0.243238,
+      "u"
+    ],
+    [
+      0.107903,
+      "x"
+    ],
+    [
+      0.390763,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000066,
+      "\r\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b]2;tmux\u0007\u001b]1;tmux\u0007"
+    ],
+    [
+      0.013407,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b[\u003e4;1m\u001b[?1004h\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:zsh*                                                                                                         \"Inspiron-7537\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[41;1H\u001b[1;41r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.337086,
+      "\u001b[1;40r\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                                 \u001b[1;1H \u001b[1;41r\u001b[H"
+    ],
+    [
+      0.023783,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:zsh*                                                                             \"[~/Projects/ReactBlogS\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000412,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:..Examples/http*                                                                                    \"[~/Projects/ReactBlogS\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141315,
+      "\u001b[1;40r\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:47\u001b[34m\u001b[1m]\r\n└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e \u001b[K\u001b[1;41r\u001b[H\u001b[2;34H\u001b[?1h\u001b="
+    ],
+    [
+      0.501779,
+      "\u001b[1;40r\u001b[H\u001b[2;34Hp\u001b[1;41r\u001b[H\u001b[2;35H"
+    ],
+    [
+      0.092309,
+      "\u001b[1;40r\u001b[H\u001b[2;34Hph\u001b[1;41r\u001b[H\u001b[2;36H"
+    ],
+    [
+      0.299836,
+      "\u001b[1;40r\u001b[H\u001b[2;36Hp\u001b[1;41r\u001b[H\u001b[2;37H"
+    ],
+    [
+      0.328569,
+      "\u001b[1;40r\u001b[H\u001b[2;37H \u001b[1;41r\u001b[H\u001b[2;38H"
+    ],
+    [
+      0.210825,
+      "\u001b[1;40r\u001b[H\u001b[2;38Ht\u001b[1;41r\u001b[H\u001b[2;39H"
+    ],
+    [
+      0.118596,
+      "\u001b[1;40r\u001b[H\u001b[2;39Hxt.php\u001b[1m \u001b[1;41r\u001b[H\u001b[2;46H\u001b(B\u001b[m"
+    ],
+    [
+      0.453500,
+      "\u001b[1;40r\u001b[H\u001b[2;45H \u001b[1;41r\u001b[H\u001b[2;45H"
+    ],
+    [
+      0.000051,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.015437,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:php*                                                                             \"[~/Projects/ReactBlogS\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000808,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:php*                                                                                                \"[~/Projects/ReactBlogS\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.523686,
+      "\u001b[1;74H│\u001b[2;74H│\u001b[3;74H│\u001b[4;74H│\u001b[5;74H│\u001b[6;74H│\u001b[7;74H│\u001b[8;74H│\u001b[9;74H│\u001b[10;74H│\u001b[11;74H│\u001b[12;74H│\u001b[13;74H│\u001b[14;74H│\u001b[15;74H│\u001b[16;74H│\u001b[17;74H│\u001b[18;74H│\u001b[19;74H│\u001b[20;74H│\u001b[21;74H│\u001b[32m\u001b[22;74H│\u001b[23;74H│\u001b[24;74H│\u001b[25;74H│\u001b[26;74H│\u001b[27;74H│\u001b[28;74H│\u001b[29;74H│\u001b[30;74H│\u001b[31;74H│\u001b[32;74H│\u001b[33;74H│\u001b[34;74H│\u001b[35;74H│\u001b[36;74H│\u001b[37;74H│\u001b[38;74H│\u001b[39;74H│\u001b[40;74H│\u001b[?25l\u001b[H\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:47\u001b[34m\u001b[1m]\u001b(B\u001b[m                                                 \r\n\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e php txt.php                             \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                            "
+    ],
+    [
+      0.000714,
+      "             \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \r\n                                                                         \u001b[1;75H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:php*                                                                                                         \"Inspiron-7537\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[1;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.362994,
+      "\u001b[1;40r\u001b[H\u001b[74C\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                       \u001b[1;75H \u001b[1;41r\u001b[H\u001b[74C"
+    ],
+    [
+      0.023309,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:zsh*                                                                             \"[~/Projects/ReactBlogS\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[1;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000892,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:..Examples/http*                                                                                    \"[~/Projects/ReactBlogS\" 23:41 07-Apr-15\u001b(B\u001b[m\u001b[1;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141286,
+      "\u001b[1;40r\u001b[H\u001b[74C                                                                        \u001b[2;75H                                                                        \u001b[3;75H                                                                        \u001b[4;75H                                                                        \u001b[5;75H                                                                        \u001b[6;75H                                                                        \u001b[7;75H                                                                        \u001b[8;75H                                                                        \u001b[9;75H                                                                        \u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75H         "
+    ],
+    [
+      0.000033,
+      "                                                               \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                        \u001b[1;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[2;75H\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:51\u001b[34m\u001b[1m]\u001b[3;75H└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e                                        \u001b[3;1H\u001b[1;41r\u001b[H\u001b[3;108H\u001b[?1h\u001b="
+    ],
+    [
+      1.470779,
+      "\u001b[1;40r\u001b[H\u001b[3;108Hl\u001b[1;41r\u001b[H\u001b[3;109H"
+    ],
+    [
+      0.324340,
+      "\u001b[1;40r\u001b[H\u001b[3;108Hly\u001b[1;41r\u001b[H\u001b[3;110H"
+    ],
+    [
+      0.203465,
+      "\u001b[1;40r\u001b[H\u001b[3;110Hn\u001b[1;41r\u001b[H\u001b[3;111H"
+    ],
+    [
+      0.646173,
+      "\u001b[1;40r\u001b[H\u001b[3;111Hx\u001b[1;41r\u001b[H\u001b[3;112H"
+    ],
+    [
+      0.485681,
+      "\u001b[1;40r\u001b[H\u001b[3;112H \u001b[1;41r\u001b[H\u001b[3;113H"
+    ],
+    [
+      0.360451,
+      "\u001b[1;40r\u001b[H\u001b[3;113Hh\u001b[1;41r\u001b[H\u001b[3;114H"
+    ],
+    [
+      0.205859,
+      "\u001b[1;40r\u001b[H\u001b[3;114Ht\u001b[1;41r\u001b[H\u001b[3;115H"
+    ],
+    [
+      0.625588,
+      "\u001b[1;40r\u001b[H\u001b[3;115Ht\u001b[1;41r\u001b[H\u001b[3;116H"
+    ],
+    [
+      0.150903,
+      "\u001b[1;40r\u001b[H\u001b[3;116Hp\u001b[1;41r\u001b[H\u001b[3;117H"
+    ],
+    [
+      0.275424,
+      "\u001b[1;40r\u001b[H\u001b[3;117H:\u001b[1;41r\u001b[H\u001b[3;118H"
+    ],
+    [
+      0.413028,
+      "\u001b[1;40r\u001b[H\u001b[3;118H/\u001b[1;41r\u001b[H\u001b[3;119H"
+    ],
+    [
+      0.712640,
+      "\u001b[1;40r\u001b[H\u001b[3;119H/\u001b[1;41r\u001b[H\u001b[3;120H"
+    ],
+    [
+      0.356826,
+      "\u001b[1;40r\u001b[H\u001b[3;120Hl\u001b[1;41r\u001b[H\u001b[3;121H"
+    ],
+    [
+      0.159960,
+      "\u001b[1;40r\u001b[H\u001b[3;121Ho\u001b[1;41r\u001b[H\u001b[3;122H"
+    ],
+    [
+      0.094822,
+      "\u001b[1;40r\u001b[H\u001b[3;122Hc\u001b[1;41r\u001b[H\u001b[3;123H"
+    ],
+    [
+      0.064222,
+      "\u001b[1;40r\u001b[H\u001b[3;123Ha\u001b[1;41r\u001b[H\u001b[3;124H"
+    ],
+    [
+      0.045738,
+      "\u001b[1;40r\u001b[H\u001b[3;124Hl\u001b[1;41r\u001b[H\u001b[3;125H"
+    ],
+    [
+      0.192766,
+      "\u001b[1;40r\u001b[H\u001b[3;125Hh\u001b[1;41r\u001b[H\u001b[3;126H"
+    ],
+    [
+      0.115200,
+      "\u001b[1;40r\u001b[H\u001b[3;126Ho\u001b[1;41r\u001b[H\u001b[3;127H"
+    ],
+    [
+      0.100794,
+      "\u001b[1;40r\u001b[H\u001b[3;127Hs\u001b[1;41r\u001b[H\u001b[3;128H"
+    ],
+    [
+      0.121371,
+      "\u001b[1;40r\u001b[H\u001b[3;128Ht\u001b[1;41r\u001b[H\u001b[3;129H"
+    ],
+    [
+      0.346182,
+      "\u001b[1;40r\u001b[H\u001b[3;129H:\u001b[1;41r\u001b[H\u001b[3;130H"
+    ],
+    [
+      0.300341,
+      "\u001b[1;40r\u001b[H\u001b[3;130H1\u001b[1;41r\u001b[H\u001b[3;131H"
+    ],
+    [
+      0.491833,
+      "\u001b[1;40r\u001b[H\u001b[3;131H3\u001b[1;41r\u001b[H\u001b[3;132H"
+    ],
+    [
+      0.181988,
+      "\u001b[1;40r\u001b[H\u001b[3;132H3\u001b[1;41r\u001b[H\u001b[3;133H"
+    ],
+    [
+      0.559954,
+      "\u001b[1;40r\u001b[H\u001b[3;133H7\u001b[1;41r\u001b[H\u001b[3;134H"
+    ],
+    [
+      0.943801,
+      "\u001b[1;40r\u001b[H\u001b[3;134H/\u001b[1;41r\u001b[H\u001b[3;135H"
+    ],
+    [
+      3.242089,
+      "\u001b[1;40r\u001b[H\u001b[3;135Hh\u001b[1;41r\u001b[H\u001b[3;136H"
+    ],
+    [
+      0.169523,
+      "\u001b[1;40r\u001b[H\u001b[3;136Hi\u001b[1;41r\u001b[H\u001b[3;137H"
+    ],
+    [
+      0.208980,
+      "\u001b[1;40r\u001b[H\u001b[3;137Ht\u001b[1;41r\u001b[H\u001b[3;138H"
+    ],
+    [
+      0.184872,
+      "\u001b[1;40r\u001b[H\u001b[3;138Hh\u001b[1;41r\u001b[H\u001b[3;139H"
+    ],
+    [
+      0.086175,
+      "\u001b[1;40r\u001b[H\u001b[3;139He\u001b[1;41r\u001b[H\u001b[3;140H"
+    ],
+    [
+      0.255584,
+      "\u001b[1;40r\u001b[H\u001b[3;140Hr\u001b[1;41r\u001b[H\u001b[3;141H"
+    ],
+    [
+      0.060893,
+      "\u001b[1;40r\u001b[H\u001b[3;141He\u001b[1;41r\u001b[H\u001b[3;142H"
+    ],
+    [
+      0.465238,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000166,
+      "\u001b[4;75H"
+    ],
+    [
+      0.033195,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:lynx*                                                                            \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[4;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000560,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:lynx*                                                                                               \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[4;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.378418,
+      "\u001b[?25l\u001b[1d\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1d\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.002741,
+      "\u001b[1;40r\u001b[H\u001b[74C\u001b[37m\u001b[40m                                                                        \u001b[2;75H                                                                        \u001b[3;75H                                                                        \u001b[4;75H                                                                        \u001b[5;75H                                                                        \u001b[6;75H                                                                        \u001b[7;75H                                                                        \u001b[8;75H                                                                        \u001b[9;75H                                                                        \u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75"
+    ],
+    [
+      0.000029,
+      "H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                       \u0008 \u001b[?25l\u001b[71D                                                                      \u001b[39m\u001b[49m \u001b[37m\u001b[40m \u001b(B\u001b[m\u001b[40;146H\u0008\u001b[37m\u001b[40m \u001b[1;41r\u001b[H\u001b[74C\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.000081,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mGetting http://localhost:1337/hithere                                   \u001b[38;1H\u001b[1;41r\u001b[H\u001b[38;112H\u001b(B\u001b[m"
+    ],
+    [
+      0.000095,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mLooking up localhost:1337            \u001b[1;41r\u001b[H\u001b[38;100H\u001b(B\u001b[m"
+    ],
+    [
+      0.003442,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mMaking HTTP connection to localhost:1337\u001b[1;41r\u001b[H\u001b[38;115H\u001b(B\u001b[m"
+    ],
+    [
+      0.000042,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mSending HTTP request.                   \u001b[1;41r\u001b[H\u001b[38;96H\u001b(B\u001b[m"
+    ],
+    [
+      0.000220,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mHTTP request sent; waiting for response.\u001b[1;41r\u001b[H\u001b[38;115H\u001b(B\u001b[m"
+    ],
+    [
+      0.001726,
+      "\u001b[1;40r\u001b[H\u001b[2BRequest for: /hithere\u001b[1;41r\u001b[H\u001b[38;115H"
+    ],
+    [
+      0.003216,
+      "\u001b[1;40r\u001b[H\u001b[38;79H\u001b[33m\u001b[44m\u001b[1m/1.1 200 OK                         \u001b[1;41r\u001b[H\u001b[38;90H\u001b(B\u001b[m"
+    ],
+    [
+      0.000958,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mData transfer complete\u001b[1;41r\u001b[H\u001b[38;97H\u001b(B\u001b[m"
+    ],
+    [
+      0.000558,
+      "\u001b[1;40r\u001b[H\u001b[2;75H\u001b[37m\u001b[40mFile not found\u001b[1;41r\u001b[H\u001b[37;75H\u001b(B\u001b[m"
+    ],
+    [
+      0.000124,
+      "\u001b[1;40r\u001b[H\u001b[39;77H\u001b[37m\u001b[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go b\u001b[40;76HH)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history\u001b[1;41r\u001b[H\u001b[40;146H\u001b(B\u001b[m"
+    ],
+    [
+      0.000078,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mCommands: Use arrow keys to move, '?' for help, 'q' to quit, '\u003c-' to go\u001b[1;41r\u001b[H\u001b[38;146H\u001b(B\u001b[m"
+    ],
+    [
+      1.364046,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mAre you sure you want to quit? (y)                                     \u001b[1;41r\u001b[H\u001b[38;110H\u001b(B\u001b[m"
+    ],
+    [
+      0.494531,
+      "\u001b[1;40r\u001b[H\u001b[40;76H\u001b[37m\u001b[40m                                                                      \u001b[?25l\u001b[1;75H\u001b[49m\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[1;146H\u001b[2;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:51\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[3;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/hithere\u001b[K\u001b[4;75H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1;41r\u001b[H\u001b[4;75H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000826,
+      "\u001b[1;40r\u001b[H\u001b[4;75H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                       \u001b[4;75H \u001b[1;41r\u001b[H\u001b[4;75H"
+    ],
+    [
+      0.016322,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:zsh*                                                                             \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[4;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000770,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:..Examples/http*                                                                                    \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[4;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079887,
+      "\u001b[1;40r\u001b[H\u001b[4;75H                                                                        \u001b[5;75H                                                                        \u001b[6;75H                                                                        \u001b[7;75H                                                                        \u001b[8;75H                                                                        \u001b[9;75H                                                                        \u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H    "
+    ],
+    [
+      0.000041,
+      "                                                                    \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                        \u001b[4;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[5;75H\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:08\u001b[34m\u001b[1m]\u001b[6;75H└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e \u001b[1;41r\u001b[H\u001b[6;108H                                       \u001b[6;108H\u001b[?1h\u001b="
+    ],
+    [
+      0.557943,
+      "\u001b[1;40r\u001b[H\u001b[6;108Hlynx http://localhost:1337/hithere\u001b[1;41r\u001b[H\u001b[6;142H"
+    ],
+    [
+      0.337625,
+      "\u001b[1;40r\u001b[H\u001b[6;141H \u001b[1;41r\u001b[H\u001b[6;141H"
+    ],
+    [
+      0.162973,
+      "\u001b[1;40r\u001b[H\u001b[6;140H \u001b[1;41r\u001b[H\u001b[6;140H"
+    ],
+    [
+      0.154497,
+      "\u001b[1;40r\u001b[H\u001b[6;139H \u001b[1;41r\u001b[H\u001b[6;139H"
+    ],
+    [
+      0.159420,
+      "\u001b[1;40r\u001b[H\u001b[6;138H \u001b[1;41r\u001b[H\u001b[6;138H"
+    ],
+    [
+      0.149213,
+      "\u001b[1;40r\u001b[H\u001b[6;137H \u001b[1;41r\u001b[H\u001b[6;137H"
+    ],
+    [
+      0.164552,
+      "\u001b[1;40r\u001b[H\u001b[6;136H \u001b[1;41r\u001b[H\u001b[6;136H"
+    ],
+    [
+      0.287263,
+      "\u001b[1;40r\u001b[H\u001b[6;135H \u001b[1;41r\u001b[H\u001b[6;135H"
+    ],
+    [
+      0.420608,
+      "\u001b[1;40r\u001b[H\u001b[6;135Hr\u001b[1;41r\u001b[H\u001b[6;136H"
+    ],
+    [
+      0.095985,
+      "\u001b[1;40r\u001b[H\u001b[6;136Ho\u001b[1;41r\u001b[H\u001b[6;137H"
+    ],
+    [
+      0.202816,
+      "\u001b[1;40r\u001b[H\u001b[6;137Hb\u001b[1;41r\u001b[H\u001b[6;138H"
+    ],
+    [
+      0.141667,
+      "\u001b[1;40r\u001b[H\u001b[6;138Ho\u001b[1;41r\u001b[H\u001b[6;139H"
+    ],
+    [
+      0.123523,
+      "\u001b[1;40r\u001b[H\u001b[6;139Ht\u001b[1;41r\u001b[H\u001b[6;140H"
+    ],
+    [
+      0.053680,
+      "\u001b[1;40r\u001b[H\u001b[6;140Hs\u001b[1;41r\u001b[H\u001b[6;141H"
+    ],
+    [
+      0.130394,
+      "\u001b[1;40r\u001b[H\u001b[6;141H.\u001b[1;41r\u001b[H\u001b[6;142H"
+    ],
+    [
+      0.405162,
+      "\u001b[1;40r\u001b[H\u001b[6;142Ht\u001b[1;41r\u001b[H\u001b[6;143H"
+    ],
+    [
+      0.095307,
+      "\u001b[1;40r\u001b[H\u001b[6;143Hx\u001b[1;41r\u001b[H\u001b[6;144H"
+    ],
+    [
+      0.087657,
+      "\u001b[1;40r\u001b[H\u001b[6;144Ht\u001b[1;41r\u001b[H\u001b[6;145H"
+    ],
+    [
+      0.829527,
+      "\u001b[7;75H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.015384,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:lynx*                                                                            \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[7;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000900,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:lynx*                                                                                               \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[7;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023768,
+      "\u001b[?25l\u001b[1d\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1d\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.001801,
+      "\u001b[1;40r\u001b[H\u001b[74C\u001b[37m\u001b[40m                                                                        \u001b[2;75H                                                                        \u001b[3;75H                                                                        \u001b[4;75H                                                                        \u001b[5;75H                                                                        \u001b[6;75H                                                                        \u001b[7;75H                                                                        \u001b[8;75H                                                                        \u001b[9;75H                                                                        \u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75"
+    ],
+    [
+      0.000012,
+      "H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                       \u0008 \u001b[?25l\u001b[71D                                                                      \u001b[39m\u001b[49m \u001b[37m\u001b[40m \u001b(B\u001b[m\u001b[40;146H\u0008\u001b[37m\u001b[40m \u001b[1;41r\u001b[H\u001b[74C\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mGetting http://localhost:1337/robots.txt                                \u001b[38;75HLooking up localhost:1337               \u001b[1;41r\u001b[H\u001b[38;100H\u001b(B\u001b[m"
+    ],
+    [
+      0.000205,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mMaking HTTP connection to localhost:1337\u001b[1;41r\u001b[H\u001b[38;115H\u001b(B\u001b[m"
+    ],
+    [
+      0.001070,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mSending HTTP request.                   \u001b[1;41r\u001b[H\u001b[38;96H\u001b(B\u001b[m"
+    ],
+    [
+      0.000151,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mHTTP request sent; waiting for response.\u001b[1;41r\u001b[H\u001b[38;115H\u001b(B\u001b[m"
+    ],
+    [
+      0.000200,
+      "\u001b[1;40r\u001b[H\u001b[3BRequest for: /robots.txt\u001b[1;41r\u001b[H\u001b[38;115H"
+    ],
+    [
+      0.001780,
+      "\u001b[1;40r\u001b[H\u001b[38;79H\u001b[33m\u001b[44m\u001b[1m/1.1 200 OK                         \u001b[1;41r\u001b[H\u001b[38;90H\u001b(B\u001b[m"
+    ],
+    [
+      0.000914,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mData transfer complete\u001b[1;41r\u001b[H\u001b[38;97H\u001b(B\u001b[m"
+    ],
+    [
+      0.000647,
+      "\u001b[1;40r\u001b[H\u001b[2;75H\u001b[37m\u001b[40mUser-agent: *\u001b[3;75HDisallow:\u001b[1;41r\u001b[H\u001b[37;75H\u001b(B\u001b[m"
+    ],
+    [
+      0.000122,
+      "\u001b[1;40r\u001b[H\u001b[39;77H\u001b[37m\u001b[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go b\u001b[40;76HH)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history\u001b[1;41r\u001b[H\u001b[40;146H\u001b(B\u001b[m"
+    ],
+    [
+      0.000110,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mCommands: Use arrow keys to move, '?' for help, 'q' to quit, '\u003c-' to go\u001b[1;41r\u001b[H\u001b[38;146H\u001b(B\u001b[m"
+    ],
+    [
+      1.906560,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mAre you sure you want to quit? (y)                                     \u001b[1;41r\u001b[H\u001b[38;110H\u001b(B\u001b[m"
+    ],
+    [
+      0.650016,
+      "\u001b[1;40r\u001b[H\u001b[40;76H\u001b[37m\u001b[40m                                                                      \u001b[1;41r\u001b[H\u001b[40;75H\u001b(B\u001b[m"
+    ],
+    [
+      0.000782,
+      "\u001b[?25l\u001b[1d\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[1;146H\u001b[2;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:51\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[3;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/hithere\u001b[K\u001b[4;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[4;146H\u001b[5;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:08\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[6;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/robots.txt\u001b[K\u001b[7;75H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[7d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000961,
+      "\u001b[1;40r\u001b[H\u001b[7;75H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                       \u001b[7;75H \u001b[1;41r\u001b[H\u001b[7;75H"
+    ],
+    [
+      0.018111,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:zsh*                                                                             \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[7;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000755,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:..Examples/http*                                                                                    \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[7;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.071727,
+      "\u001b[1;40r\u001b[H\u001b[7;75H                                                                        \u001b[8;75H                                                                        \u001b[9;75H                                                                        \u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                        \u001b[7;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[8;75H\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:15\u001b[34m\u001b[1m]\u001b[9;75H└─[\u001b[35m0\u001b[34m] \u003cgit:(ma"
+    ],
+    [
+      0.000010,
+      "ster c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e                                        \u001b[9;1H\u001b[1;41r\u001b[H\u001b[9;108H\u001b[?1h\u001b="
+    ],
+    [
+      0.452883,
+      "\u001b[1;40r\u001b[H\u001b[9;108Hlynx http://localhost:1337/robots.txt\u001b[1;41r\u001b[H\u001b[9;145H"
+    ],
+    [
+      0.331355,
+      "\u001b[1;40r\u001b[H\u001b[9;144H \u001b[1;41r\u001b[H\u001b[9;144H"
+    ],
+    [
+      0.140776,
+      "\u001b[1;40r\u001b[H\u001b[9;143H \u001b[1;41r\u001b[H\u001b[9;143H"
+    ],
+    [
+      0.152251,
+      "\u001b[1;40r\u001b[H\u001b[9;142H \u001b[1;41r\u001b[H\u001b[9;142H"
+    ],
+    [
+      0.146629,
+      "\u001b[1;40r\u001b[H\u001b[9;141H \u001b[1;41r\u001b[H\u001b[9;141H"
+    ],
+    [
+      0.158482,
+      "\u001b[1;40r\u001b[H\u001b[9;140H \u001b[1;41r\u001b[H\u001b[9;140H"
+    ],
+    [
+      0.146390,
+      "\u001b[1;40r\u001b[H\u001b[9;139H \u001b[1;41r\u001b[H\u001b[9;139H"
+    ],
+    [
+      0.157404,
+      "\u001b[1;40r\u001b[H\u001b[9;138H \u001b[1;41r\u001b[H\u001b[9;138H"
+    ],
+    [
+      0.150442,
+      "\u001b[1;40r\u001b[H\u001b[9;137H \u001b[1;41r\u001b[H\u001b[9;137H"
+    ],
+    [
+      0.155201,
+      "\u001b[1;40r\u001b[H\u001b[9;136H \u001b[1;41r\u001b[H\u001b[9;136H"
+    ],
+    [
+      0.165702,
+      "\u001b[1;40r\u001b[H\u001b[9;135H \u001b[1;41r\u001b[H\u001b[9;135H"
+    ],
+    [
+      0.597651,
+      "\u001b[1;40r\u001b[H\u001b[9;135Hh\u001b[1;41r\u001b[H\u001b[9;136H"
+    ],
+    [
+      0.156816,
+      "\u001b[1;40r\u001b[H\u001b[9;136Hu\u001b[1;41r\u001b[H\u001b[9;137H"
+    ],
+    [
+      0.898067,
+      "\u001b[1;40r\u001b[H\u001b[9;137Hm\u001b[1;41r\u001b[H\u001b[9;138H"
+    ],
+    [
+      0.119514,
+      "\u001b[1;40r\u001b[H\u001b[9;138Ha\u001b[1;41r\u001b[H\u001b[9;139H"
+    ],
+    [
+      0.088394,
+      "\u001b[1;40r\u001b[H\u001b[9;139Hn\u001b[1;41r\u001b[H\u001b[9;140H"
+    ],
+    [
+      0.110438,
+      "\u001b[1;40r\u001b[H\u001b[9;140Hs\u001b[1;41r\u001b[H\u001b[9;141H"
+    ],
+    [
+      0.182208,
+      "\u001b[1;40r\u001b[H\u001b[9;141H.\u001b[1;41r\u001b[H\u001b[9;142H"
+    ],
+    [
+      0.431313,
+      "\u001b[1;40r\u001b[H\u001b[9;142Ht\u001b[1;41r\u001b[H\u001b[9;143H"
+    ],
+    [
+      0.110558,
+      "\u001b[1;40r\u001b[H\u001b[9;143Hx\u001b[1;41r\u001b[H\u001b[9;144H"
+    ],
+    [
+      0.088637,
+      "\u001b[1;40r\u001b[H\u001b[9;144Ht\u001b[1;41r\u001b[H\u001b[9;145H"
+    ],
+    [
+      0.953732,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000188,
+      "\u001b[70D\n"
+    ],
+    [
+      0.015591,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:lynx*                                                                            \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[10;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000454,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:lynx*                                                                                               \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[10;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.020271,
+      "\u001b[?25l\u001b[1d\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1d\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.002808,
+      "\u001b[1;40r\u001b[H\u001b[74C\u001b[37m\u001b[40m                                                                        \u001b[2;75H                                                                        \u001b[3;75H                                                                        \u001b[4;75H                                                                        \u001b[5;75H                                                                        \u001b[6;75H                                                                        \u001b[7;75H                                                                        \u001b[8;75H                                                                        \u001b[9;75H                                                                        \u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                       \u0008 \u001b[?25l\u001b[71D                                                                      \u001b[39m\u001b[49m \u001b[37m\u001b[40m \u001b(B\u001b[m\u001b[40;146H\u0008\u001b[37m\u001b[40m \u001b[1;41r\u001b[H\u001b[74C\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mGetting http://localhost:1337/humans.txt                                \u001b[38;75HLooking up localhost:1337               \u001b[1;41r\u001b[H\u001b[38;100H\u001b(B\u001b[m"
+    ],
+    [
+      0.000583,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mMaking HTTP connection to localhost:1337\u001b[1;41r\u001b[H\u001b[38;115H\u001b(B\u001b[m"
+    ],
+    [
+      0.001538,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mSending HTTP request.                   \u001b[1;41r\u001b[H\u001b[38;96H\u001b(B\u001b[m"
+    ],
+    [
+      0.000170,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mHTTP request sent; waiting for response.\u001b[1;41r\u001b[H\u001b[38;115H\u001b(B\u001b[m"
+    ],
+    [
+      0.000281,
+      "\u001b[1;40r\u001b[H\u001b[4BRequest for: /humans.txt\u001b[1;41r\u001b[H\u001b[38;115H"
+    ],
+    [
+      0.002835,
+      "\u001b[1;40r\u001b[H\u001b[38;79H\u001b[33m\u001b[44m\u001b[1m/1.1 200 OK                         \u001b[1;41r\u001b[H\u001b[38;90H\u001b(B\u001b[m"
+    ],
+    [
+      0.001436,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mData transfer complete\u001b[1;41r\u001b[H\u001b[38;97H\u001b(B\u001b[m"
+    ],
+    [
+      0.000752,
+      "\u001b[1;40r\u001b[H\u001b[2;75H\u001b[37m\u001b[40mHumans build this with love.\u001b[1;41r\u001b[H\u001b[37;75H\u001b(B\u001b[m"
+    ],
+    [
+      0.000248,
+      "\u001b[1;40r\u001b[H\u001b[39;77H\u001b[37m\u001b[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go b\u001b[40;76HH)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history\u001b[1;41r\u001b[H\u001b[40;146H\u001b(B\u001b[m"
+    ],
+    [
+      0.000100,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mCommands: Use arrow keys to move, '?' for help, 'q' to quit, '\u003c-' to go\u001b[1;41r\u001b[H\u001b[38;146H\u001b(B\u001b[m"
+    ],
+    [
+      1.225929,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mAre you sure you want to quit? (y)                                     \u001b[1;41r\u001b[H\u001b[38;110H\u001b(B\u001b[m"
+    ],
+    [
+      1.594411,
+      "\u001b[1;40r\u001b[H\u001b[40;76H\u001b[37m\u001b[40m                                                                      \u001b[1;41r\u001b[H\u001b[40;75H\u001b(B\u001b[m"
+    ],
+    [
+      0.000474,
+      "\u001b[?25l\u001b[1d\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[1;146H\u001b[2;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:51\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[3;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/hithere\u001b[K\u001b[4;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[4;146H\u001b[5;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:08\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[6;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/robots.txt\u001b[K\u001b[7;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[7;146H\u001b[8;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:15\u001b["
+    ],
+    [
+      0.000535,
+      "34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[9;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/humans.txt\u001b[K\u001b[10;75H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[10d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000588,
+      "\u001b[1;40r\u001b[H\u001b[10;75H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                       \u001b[10;75H \u001b[1;41r\u001b[H\u001b[10;75H"
+    ],
+    [
+      0.017128,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:zsh*                                                                             \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[10;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000949,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:..Examples/http*                                                                                    \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[10;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081339,
+      "\u001b[1;40r\u001b[H\u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                        \u001b[10;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[11;75H\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:24\u001b[34m\u001b[1m]\u001b[12;75H└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e                                        \u001b[12;1H\u001b[1;41r\u001b[H\u001b[12;108H\u001b[?1h\u001b="
+    ],
+    [
+      1.787660,
+      "\u001b[1;40r\u001b[H\u001b[12;108Hlynx http://localhost:1337/humans.txt\u001b[1;41r\u001b[H\u001b[12;145H"
+    ],
+    [
+      0.463181,
+      "\u001b[1;40r\u001b[H\u001b[12;144H \u001b[1;41r\u001b[H\u001b[12;144H"
+    ],
+    [
+      0.166412,
+      "\u001b[1;40r\u001b[H\u001b[12;143H \u001b[1;41r\u001b[H\u001b[12;143H"
+    ],
+    [
+      0.158693,
+      "\u001b[1;40r\u001b[H\u001b[12;142H \u001b[1;41r\u001b[H\u001b[12;142H"
+    ],
+    [
+      0.312619,
+      "\u001b[1;40r\u001b[H\u001b[12;141H \u001b[1;41r\u001b[H\u001b[12;141H"
+    ],
+    [
+      0.140574,
+      "\u001b[1;40r\u001b[H\u001b[12;140H \u001b[1;41r\u001b[H\u001b[12;140H"
+    ],
+    [
+      0.148370,
+      "\u001b[1;40r\u001b[H\u001b[12;139H \u001b[1;41r\u001b[H\u001b[12;139H"
+    ],
+    [
+      0.180811,
+      "\u001b[1;40r\u001b[H\u001b[12;138H \u001b[1;41r\u001b[H\u001b[12;138H"
+    ],
+    [
+      0.191885,
+      "\u001b[1;40r\u001b[H\u001b[12;137H \u001b[1;41r\u001b[H\u001b[12;137H"
+    ],
+    [
+      0.231908,
+      "\u001b[1;40r\u001b[H\u001b[12;136H \u001b[1;41r\u001b[H\u001b[12;136H"
+    ],
+    [
+      0.201160,
+      "\u001b[1;40r\u001b[H\u001b[12;135H \u001b[1;41r\u001b[H\u001b[12;135H"
+    ],
+    [
+      0.344208,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\u001b[60D"
+    ],
+    [
+      0.000537,
+      "\n"
+    ],
+    [
+      0.013549,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:lynx*                                                                            \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[13;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000634,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:lynx*                                                                                               \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[13;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025029,
+      "\u001b[?25l\u001b[1d\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1d\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.002568,
+      "\u001b[1;40r\u001b[H\u001b[74C\u001b[37m\u001b[40m                                                                        \u001b[2;75H                                                                        \u001b[3;75H                                                                        \u001b[4;75H                                                                        \u001b[5;75H                                                                        \u001b[6;75H                                                                        \u001b[7;75H                                                                        \u001b[8;75H                                                                        \u001b[9;75H                                                                        \u001b[10;75H                                                                        \u001b[11;75H                                                                        \u001b[12;75H                                                                        \u001b[13;75H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;75H                                                                        \u001b[26;75H                                                 \u001b[1;41r\u001b[H\u001b[26;124H\u001b(B\u001b[m\u001b[1;40r\u001b[H\u001b[26;124H\u001b[37m\u001b[40m                       \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                       \u0008 \u001b[?25l\u001b[71D                                                                      \u001b[39m\u001b[49m \u001b[37m\u001b[40m \u001b(B\u001b[m\u001b[40;146H\u0008\u001b[37m\u001b[40m \u001b[38;75H\u001b[33m\u001b[44m\u001b[1mGetting http://localhost:1337/                                          \u001b[38;75HLooking up localhost:1337     \u001b[1;41r\u001b[H\u001b[38;100H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.000013,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mMaking HTTP connection to localhost:1337\u001b[1;41r\u001b[H\u001b[38;115H\u001b(B\u001b[m"
+    ],
+    [
+      0.001112,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mSending HTTP request.                   \u001b[1;41r\u001b[H\u001b[38;96H\u001b(B\u001b[m"
+    ],
+    [
+      0.002515,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mHTTP request sent; waiting for response.\u001b[36D/1.1 200 OK                         \u001b[6;1H\u001b(B\u001b[mRequest for: /\u001b[1;41r\u001b[H\u001b[38;90H"
+    ],
+    [
+      0.000872,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mData transfer complete\u001b[1;41r\u001b[H\u001b[38;97H\u001b(B\u001b[m"
+    ],
+    [
+      0.000553,
+      "\u001b[1;40r\u001b[H\u001b[2;75H\u001b[37m\u001b[40mFile not found\u001b[1;41r\u001b[H\u001b[37;75H\u001b(B\u001b[m"
+    ],
+    [
+      0.000193,
+      "\u001b[1;40r\u001b[H\u001b[39;77H\u001b[37m\u001b[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go b\u001b[40;76HH)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history\u001b[1;41r\u001b[H\u001b[40;146H\u001b(B\u001b[m"
+    ],
+    [
+      0.000097,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mCommands: Use arrow keys to move, '?' for help, 'q' to quit, '\u003c-' to go\u001b[1;41r\u001b[H\u001b[38;146H\u001b(B\u001b[m"
+    ],
+    [
+      1.018425,
+      "\u001b[1;40r\u001b[H\u001b[38;75H\u001b[33m\u001b[44m\u001b[1mAre you sure you want to quit? (y)                                     \u001b[1;41r\u001b[H\u001b[38;110H\u001b(B\u001b[m"
+    ],
+    [
+      0.426823,
+      "\u001b[1;40r\u001b[H\u001b[40;76H\u001b[37m\u001b[40m                                                                      \u001b[?25l\u001b[1;75H\u001b[49m\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[1;146H\u001b[2;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:51\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[3;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/hithere\u001b[K\u001b[4;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[4;146H\u001b[5;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:08\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[6;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/robots.txt\u001b[K\u001b[7;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[7;146H\u001b[8;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:15\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[9;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/humans.txt\u001b[K\u001b[10;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b(B\u001b[m\u001b[10;146H\u001b[11;75H\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:24\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\u001b[12;75H\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e lynx http://localhost:1337/          \u001b[K\u001b[13;75H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1;41r\u001b[H\u001b[13;75H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000897,
+      "\u001b[1;40r\u001b[H\u001b[13;75H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                       \u001b[13;75H \u001b[1;41r\u001b[H\u001b[13;75H"
+    ],
+    [
+      0.019260,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:zsh*                                                                             \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[13;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000313,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:..Examples/http*                                                                                    \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[13;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087416,
+      "\u001b[1;40r\u001b[H\u001b[13;75H                                                                        \u001b[14;75H                                                                        \u001b[15;75H                                                                        \u001b[16;75H                                                                        \u001b[17;75H                                                                        \u001b[18;75H                                                                        \u001b[19;75H                                                                        \u001b[20;75H                                                                        \u001b[21;75H                                                                        \u001b[22;75H                                                                        \u001b[23;75H                                                                        \u001b[24;75H                                                                        \u001b[25;7"
+    ],
+    [
+      0.000087,
+      "5H                                                                        \u001b[26;75H                                                                        \u001b[27;75H                                                                        \u001b[28;75H                                                                        \u001b[29;75H                                                                        \u001b[30;75H                                                                        \u001b[31;75H                                                                        \u001b[32;75H                                                                        \u001b[33;75H                                                                        \u001b[34;75H                                                                        \u001b[35;75H                                                                        \u001b[36;75H                                                                        \u001b[37;75H                                                                        \u001b[38;75H                                                                        \u001b[39;75H                                                                        \u001b[40;75H                                                                        \u001b[13;75H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[14;75H\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:30\u001b[34m\u001b[1m]\u001b[15;75H└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e                                        \u001b[15;1H\u001b[1;41r\u001b[H\u001b[15;108H"
+    ],
+    [
+      0.000119,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.369532,
+      "\u001b[1;40r\u001b[H\u001b[15;108He\u001b[1;41r\u001b[H\u001b[15;109H"
+    ],
+    [
+      0.257481,
+      "\u001b[1;40r\u001b[H\u001b[15;108Hex\u001b[1;41r\u001b[H\u001b[15;110H"
+    ],
+    [
+      0.129229,
+      "\u001b[1;40r\u001b[H\u001b[15;110Hi\u001b[1;41r\u001b[H\u001b[15;111H"
+    ],
+    [
+      0.165504,
+      "\u001b[1;40r\u001b[H\u001b[15;111Ht\u001b[1;41r\u001b[H\u001b[15;112H"
+    ],
+    [
+      0.181960,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000122,
+      "\u001b[16;75H"
+    ],
+    [
+      0.013850,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:exit*                                                                            \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[16;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000314,
+      "\u001b[?25l\u001b[41;1H\u001b[30m\u001b[42m[0] 0:exit*                                                                                               \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[16;75H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002157,
+      "\u001b[?25l\u001b[H\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:41:47\u001b[34m\u001b[1m]\u001b(B\u001b[m\u001b[K\r\n\u001b[34m\u001b[1m└─[\u001b[35m0\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e php txt.php \u001b[K\r\nRequest for: /hithere\u001b[K\r\nRequest for: /robots.txt\u001b[K\r\nRequest for: /humans.txt\u001b[K\r\nRequest for: /\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:exit*                                                                                               \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.626745,
+      "\u001b[1;40r\u001b[H\u001b[6B^C\u001b[1;41r\u001b[H\u001b[7;3H"
+    ],
+    [
+      0.001288,
+      "\r\n"
+    ],
+    [
+      0.000406,
+      "\u001b[1;40r\u001b[H\u001b[7B\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                                 \u001b[8;1H \u001b[1;41r\u001b[H\u001b[7B"
+    ],
+    [
+      0.010806,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:zsh*                                                                             \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000705,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:..Examples/http*                                                                                    \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079448,
+      "\u001b[1;40r\u001b[H\u001b[7B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[8d\u001b[34m\u001b[1m┌─[\u001b[32mwyrihaximus\u001b[30m@\u001b(B\u001b[m\u001b[36mInspiron-7537\u001b[34m\u001b[1m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b[37m~/Projects/ReactBlogSeriesExamples/http\u001b[34m]\u001b(B\u001b[m - \u001b[34m\u001b[1m[\u001b(B\u001b[m\u001b[33m2015-04-07 11:42:32\u001b[34m\u001b[1m]\r\n└─[\u001b[35m130\u001b[34m] \u003cgit:(master c95ebc4\u001b(B\u001b[m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[39m) \u003e \u001b[1;41r\u001b[H\u001b[9;36H"
+    ],
+    [
+      0.000012,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.241342,
+      "\u001b[1;40r\u001b[H\u001b[9;36He\u001b[1;41r\u001b[H\u001b[9;37H"
+    ],
+    [
+      0.268654,
+      "\u001b[1;40r\u001b[H\u001b[9;36Hex\u001b[1;41r\u001b[H\u001b[9;38H"
+    ],
+    [
+      0.129871,
+      "\u001b[1;40r\u001b[H\u001b[9;38Hi\u001b[1;41r\u001b[H\u001b[9;39H"
+    ],
+    [
+      0.171893,
+      "\u001b[1;40r\u001b[H\u001b[9;39Ht\u001b[1;41r\u001b[H\u001b[9;40H"
+    ],
+    [
+      0.189239,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000156,
+      "\r"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.016558,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:Inspiron-7537:http:exit*                                                                            \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000790,
+      "\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[0] 0:exit*                                                                                               \"[~/Projects/ReactBlogS\" 23:42 07-Apr-15\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004705,
+      "\u001b[1;41r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[\u003e4m\u001b[?1004l\u001b[?1049l"
+    ],
+    [
+      0.000099,
+      "[exited]"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000473,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000219,
+      "\u001b]2;wyrihaximus@Inspiron-7537: ~/Projects/ReactBlogSeriesExamples/http\u0007"
+    ],
+    [
+      0.000177,
+      "\u001b]1;..Examples/http\u0007"
+    ],
+    [
+      0.076263,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;34m\u001b[1m┌─[\u001b[0m\u001b[0m\u001b[1;32mwyrihaximus\u001b[1;30m@\u001b[0m\u001b[0;36mInspiron-7537\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0m\u001b[0;34m\u001b[1m[\u001b[0m\u001b[1;37m~/Projects/ReactBlogSeriesExamples/http\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0;34m\u001b[1m[\u001b[0m\u001b[0;33m2015-04-07 11:42:33\u001b[0m\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0;34m\u001b[1m└─\u001b[1m[\u001b[1;35m0\u001b[0;34m\u001b[1m] \u003cgit:(master \u001b[34mc95ebc4\u001b[00m\u001b[31m✗\u001b[33m✱\u001b[34m✈\u001b[00m) \u003e\u001b[0m\u001b[0m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.598983,
+      "e"
+    ],
+    [
+      0.225183,
+      "\u0008ex"
+    ],
+    [
+      0.124064,
+      "i"
+    ],
+    [
+      0.130035,
+      "t"
+    ],
+    [
+      0.171153,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.000950,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.004051,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
