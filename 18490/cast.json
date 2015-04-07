@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "width": 117,
+  "height": 39,
+  "duration": 11.489377,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.089414,
+      "\u001b]0;adam_jensen@mandrake:~/src/radare2\u0007"
+    ],
+    [
+      0.004911,
+      "adam_jensen@mandrake ~/src/radare2$ "
+    ],
+    [
+      0.765466,
+      "(cd libr/anal; make) \u0026\u0026 r2 -a 8051 ite_it8502.rom"
+    ],
+    [
+      1.062488,
+      "\r\n"
+    ],
+    [
+      0.376439,
+      "make[1]: Entering directory '/home/adam_jensen/src/radare2/libr/anal/p'\r\n"
+    ],
+    [
+      0.178283,
+      "make[1]: Nothing to be done for 'all'.\r\nmake[1]: Leaving directory '/home/adam_jensen/src/radare2/libr/anal/p'\r\n"
+    ],
+    [
+      0.019955,
+      "DIR r_anal/p\r\n"
+    ],
+    [
+      0.011306,
+      "make[1]: Entering directory '/home/adam_jensen/src/radare2/libr/anal/p'\r\n"
+    ],
+    [
+      0.177537,
+      "make[1]: Nothing to be done for 'all'.\r\n"
+    ],
+    [
+      0.001006,
+      "make[1]: Leaving directory '/home/adam_jensen/src/radare2/libr/anal/p'\r\n"
+    ],
+    [
+      0.110083,
+      " -- Connection with license server failed.\r\n\u001b[0K\r"
+    ],
+    [
+      0.000023,
+      "\u001b[0K\r\u001b[33m[0x00000000]\u003e\u001b[0m "
+    ],
+    [
+      1.268454,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m a\r\u001b[33m[0x00000000]\u003e\u001b[0m a"
+    ],
+    [
+      0.065363,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar\r\u001b[33m[0x00000000]\u003e\u001b[0m ar"
+    ],
+    [
+      0.295201,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar\r\nr0 = 0x00000000\r\nr1 = 0x00000000\r\nr2 = 0x00000000\r\nr3 = 0x00000000\r\nr4 = 0x00000000\r\nr5 = 0x00000000\r\nr6 = 0x00000000\r\nr7 = 0x00000000\r\nA = 0x00000000\r\nB = 0x00000000\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x00000000]\u003e\u001b[0m "
+    ],
+    [
+      0.795971,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m a\r\u001b[33m[0x00000000]\u003e\u001b[0m a"
+    ],
+    [
+      0.069379,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar\r\u001b[33m[0x00000000]\u003e\u001b[0m ar"
+    ],
+    [
+      0.271720,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar \r\u001b[33m[0x00000000]\u003e\u001b[0m ar "
+    ],
+    [
+      0.650539,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar 1\r\u001b[33m[0x00000000]\u003e\u001b[0m ar 1"
+    ],
+    [
+      0.029296,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar 16\r\u001b[33m[0x00000000]\u003e\u001b[0m ar 16"
+    ],
+    [
+      0.452307,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar 16\r\npc = 0x00000000\r\nsp = 0x00000000\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x00000000]\u003e\u001b[0m "
+    ],
+    [
+      1.381844,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m a\r\u001b[33m[0x00000000]\u003e\u001b[0m a"
+    ],
+    [
+      0.114992,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar\r\u001b[33m[0x00000000]\u003e\u001b[0m ar"
+    ],
+    [
+      0.289149,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar=\r\u001b[33m[0x00000000]\u003e\u001b[0m ar="
+    ],
+    [
+      0.231482,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00000000]\u003e\u001b[0m ar=\r\n  r0 0x00000000      r1 0x00000000      r2 0x00000000      r3 0x00000000\r\n  r4 0x00000000      r5 0x00000000      r6 0x00000000      r7 0x00000000\r\n   A 0x00000000       B 0x00000000    \r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x00000000]\u003e\u001b[0m "
+    ],
+    [
+      1.768894,
+      "\u001b[0K\r\r\u001b[2K\r^D\r\n"
+    ],
+    [
+      0.000702,
+      "\u001b]0;adam_jensen@mandrake:~/src/radare2\u0007"
+    ],
+    [
+      0.000258,
+      "adam_jensen@mandrake ~/src/radare2$ "
+    ],
+    [
+      1.000930,
+      "exit\r\n"
+    ]
+  ]
+}
