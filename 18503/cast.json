@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 12.079688,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.924871,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000036,
+      "\u001b]2;okerivy@okerivydeMacBook-Pro-2: ~\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000093,
+      "\u001b]7;file:///Users/okerivy\u0007"
+    ],
+    [
+      0.010964,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000163,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      11.139190,
+      "\r\r\n"
+    ]
+  ]
+}
