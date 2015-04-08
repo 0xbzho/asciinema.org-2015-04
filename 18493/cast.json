@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "width": 117,
+  "height": 60,
+  "duration": 60.887443,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.116519,
+      "\u001b]0;root@localhost:/tmp\u0007"
+    ],
+    [
+      0.000229,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000035,
+      "[root@localhost tmp]# "
+    ],
+    [
+      1.291203,
+      "l"
+    ],
+    [
+      0.047493,
+      "s"
+    ],
+    [
+      0.256759,
+      "\r\n"
+    ],
+    [
+      0.001666,
+      "\u001b[0m\u001b[38;5;13m97e5f09caef514421b8cb870845ca5d4-{87A94AB0-E370-4cde-98D3-ACC110C5967D}\u001b[0m  \u001b[38;5;27mksocket-root\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[38;5;34mNVIDIA-Linux-x86_64-304.125.run\u001b[0m                                          \u001b[38;5;27mlispkit\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[38;5;34mNVIDIA-Linux-x86_64-304.88.run\u001b[0m                                           \u001b[38;5;27mmatrix-decider\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[38;5;27makonadi-monogate.QEUCoN\u001b[0m                                                  \u001b[38;5;27mmatrix-decider1\u001b[0m\r\n\u001b[38;5;27makonadi-root.nF6vZR\u001b[0m                                                      \u001b[38;5;27mplugtmp\u001b[0m\r\nasciicast-816812871                                                      \u001b[38;5;27mplugtmp-1\u001b[0m\r\n\u001b[38;5;27mbabel-12179VH\u001b[0m                                                            \u001b[38;5;27msbt\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[38;5;27mbabel-27027ax4\u001b[0m                                                           sbt2944416334280254808.log\r\n\u001b[38;5;27mbabel-30305em7\u001b[0m                                                           sbt3101429259363553007.log\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[38;5;27mbabel-36030fg\u001b[0m                                                            sbt8041811598504710649.log\r\n\u001b[38;5;27mbin\u001b[0m                                                                      \u001b[38;5;27msbt_22d31b77\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "build.log                                                                \u001b[38;5;27msbt_78240453\u001b[0m\r\n\u001b[38;5;27memacs0\u001b[0m                                                                   \u001b[38;5;27mssh-Ur2QXCAlDVfm\u001b[0m"
+    ],
+    [
+      0.000041,
+      "\r\n\u001b[38;5;27mensime_update_27865Gm2\u001b[0m                                                   \u001b[38;5;27msystemd-private-0Ku7xW\u001b[0m\r\nest_15456_00009_aud_00001                                                test.txt\r\n\u001b[38;5;27mhello\u001b[0m                                                                    \u001b[38;5;27mtmux-0\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[38;5;27mhsperfdata_monogate\u001b[0m                                                      \u001b[38;5;13mvirt_1113\u001b[0m\r\n\u001b[38;5;27mhsperfdata_root\u001b[0m                                                          virtuoso_wZ4331.ini\r\n\u001b[38;5;27mkde-monogate\u001b[0m                                                             \u001b[38;5;27myakuake-2.9.9\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n\u001b[38;5;27mkde-root\u001b[0m                                                                 yum_save_tx.2015-04-07.16-28.XyVi5q.yumtx\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[38;5;27mksocket-monogate\u001b[0m                                                         yum_save_tx.2015-04-07.16-29.Khl3un.yumtx\r\n"
+    ],
+    [
+      0.000647,
+      "\u001b]0;root@localhost:/tmp\u0007[root@localhost tmp]# "
+    ],
+    [
+      1.589054,
+      "c"
+    ],
+    [
+      0.208001,
+      "d"
+    ],
+    [
+      0.279873,
+      " "
+    ],
+    [
+      0.552115,
+      "/"
+    ],
+    [
+      0.895876,
+      " "
+    ],
+    [
+      0.263963,
+      "-"
+    ],
+    [
+      0.799981,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.712294,
+      "\r\n\u001b]0;root@localhost:/\u0007[root@localhost /]# "
+    ],
+    [
+      27.791476,
+      "s"
+    ],
+    [
+      0.031520,
+      "h"
+    ],
+    [
+      0.376177,
+      "a"
+    ],
+    [
+      0.592375,
+      "l"
+    ],
+    [
+      0.695883,
+      "s"
+    ],
+    [
+      0.248973,
+      "\u0007"
+    ],
+    [
+      0.328755,
+      "\u0007"
+    ],
+    [
+      0.199445,
+      "\u0007"
+    ],
+    [
+      0.271790,
+      "\u0007"
+    ],
+    [
+      0.199972,
+      "\u0007"
+    ],
+    [
+      0.199826,
+      "\u0007"
+    ],
+    [
+      2.983206,
+      "u"
+    ],
+    [
+      0.263788,
+      "m"
+    ],
+    [
+      0.640184,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.575995,
+      "yshalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.215970,
+      "ushalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.272179,
+      "mshalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.255513,
+      " shalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.519628,
+      "\u001b[Cshalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.128697,
+      "eshalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.191589,
+      "ashalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.080191,
+      "rshalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.392377,
+      "cshalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.095885,
+      "hshalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.127379,
+      " shalsum\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.240099,
+      "\r\n"
+    ],
+    [
+      0.164518,
+      "Loaded plugins: fastestmirror, langpacks\r\n"
+    ],
+    [
+      0.047551,
+      "Loading mirror speeds from cached hostfile\r\n"
+    ],
+    [
+      0.616481,
+      " * base: centos.mirror.cdnetworks.com\r\n"
+    ],
+    [
+      0.000621,
+      " * epel: mirrors.yun-idc.com\r\n"
+    ],
+    [
+      0.000480,
+      " * extras: centos.mirror.cdnetworks.com\r\n"
+    ],
+    [
+      0.000453,
+      " * updates: www.ftp.ne.jp\r\n"
+    ],
+    [
+      0.420425,
+      "Warning: No matches found for: shalsum\r\n"
+    ],
+    [
+      0.000094,
+      "No matches found\r\n"
+    ],
+    [
+      0.013707,
+      "\u001b]0;root@localhost:/\u0007[root@localhost /]# "
+    ],
+    [
+      6.784223,
+      "s"
+    ],
+    [
+      0.095559,
+      "h"
+    ],
+    [
+      0.432133,
+      "a"
+    ],
+    [
+      0.346046,
+      "\u0007"
+    ],
+    [
+      0.175752,
+      "\r\nsha1sum    sha224sum  sha256sum  sha384sum  sha512sum  sharesec   shasum     \r\n[root@localhost /]# sha"
+    ],
+    [
+      0.167723,
+      "\r\nsha1sum    sha224sum  sha256sum  sha384sum  sha512sum  sharesec   shasum     \r\n[root@localhost /]# sha"
+    ],
+    [
+      3.542344,
+      "\u0007"
+    ],
+    [
+      2.224297,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.367835,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175845,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.376336,
+      "exit\r\n"
+    ]
+  ]
+}
