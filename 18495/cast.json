@@ -1,0 +1,2842 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 40,
+  "duration": 193.152179,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.572844,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:14:49]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      1.212688,
+      "curl -sL https://asciinema.org/install | bash"
+    ],
+    [
+      0.289829,
+      "\r\n"
+    ],
+    [
+      1.973943,
+      "^C"
+    ],
+    [
+      0.004532,
+      "\r\n\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:14:52]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      1.989154,
+      "https://asciinema.org/connect/9bac02ca-40f1-40f7-946c-b1a724b99f05"
+    ],
+    [
+      0.794956,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.255928,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.025706,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.036276,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.026971,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033323,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039407,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.026723,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034477,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040101,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029259,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.052276,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.017439,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.036526,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034429,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029260,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035066,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033125,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.036352,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.037417,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028591,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035055,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.036523,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031506,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.036417,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030132,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033610,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035719,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.037388,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.078575,
+      "\u0008\u001b[K\u0008\u001b[K"
+    ],
+    [
+      0.018859,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032396,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.037134,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030669,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033791,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035706,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035873,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030811,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034553,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.046969,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.025596,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029570,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033196,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035129,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034123,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034226,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034336,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034889,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.043340,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.025337,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031814,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034161,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.047746,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.020525,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.038655,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032018,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.037120,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033605,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029678,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034386,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.051602,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.018647,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031252,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032389,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.037867,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029745,
+      "\u0007"
+    ],
+    [
+      0.076024,
+      "\u0007"
+    ],
+    [
+      0.038193,
+      "\u0007"
+    ],
+    [
+      0.032383,
+      "\u0007"
+    ],
+    [
+      0.022756,
+      "\u0007"
+    ],
+    [
+      0.022683,
+      "\u0007"
+    ],
+    [
+      0.021454,
+      "\u0007"
+    ],
+    [
+      0.061752,
+      "\u0007"
+    ],
+    [
+      0.002421,
+      "\u0007"
+    ],
+    [
+      0.050134,
+      "\u0007"
+    ],
+    [
+      0.032165,
+      "\u0007"
+    ],
+    [
+      35.337442,
+      "sudo apt-add-repository ppa:zanchey/asciinema\r\n"
+    ],
+    [
+      3.083527,
+      "You are about to add the following PPA to your system:\r\n \r\n"
+    ],
+    [
+      0.001019,
+      " More info: https://launchpad.net/~zanchey/+archive/ubuntu/asciinema\r\nPress [ENTER] to continue or ctrl-c to cancel adding it\r\n"
+    ],
+    [
+      5.967105,
+      "\r\n"
+    ],
+    [
+      3.150767,
+      "gpg: keyring `/tmp/tmpjjpj7O/secring.gpg' created\r\n"
+    ],
+    [
+      0.001831,
+      "gpg: keyring `/tmp/tmpjjpj7O/pubring.gpg' created\r\n"
+    ],
+    [
+      0.014226,
+      "gpg: requesting key 0F833EAD from hkp server keyserver.ubuntu.com\r\n"
+    ],
+    [
+      2.121816,
+      "gpg: /tmp/tmpjjpj7O/trustdb.gpg: trustdb created\r\n"
+    ],
+    [
+      0.001783,
+      "gpg: key 0F833EAD: public key \"Launchpad PPA for David Adam\" imported\r\n"
+    ],
+    [
+      0.002198,
+      "gpg: no ultimately trusted keys found\r\n"
+    ],
+    [
+      0.001482,
+      "gpg: Total number processed: 1\r\ngpg: "
+    ],
+    [
+      0.000061,
+      "              imported: 1  (RSA: 1)\r\n"
+    ],
+    [
+      0.167660,
+      "OK\r\n"
+    ],
+    [
+      0.075061,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:15:48]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      4.781774,
+      "sudo apt-add-repository ppa:zanchey/asciinema"
+    ],
+    [
+      1.015568,
+      "\r\u001b[C\u001b[C\u001b[K"
+    ],
+    [
+      4.902207,
+      "sudo apt-get update"
+    ],
+    [
+      0.449569,
+      "\r\n"
+    ],
+    [
+      0.093720,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.059392,
+      "\r            \rHit http://mirrors.aliyun.com precise Release.gpg"
+    ],
+    [
+      0.002428,
+      "\r\n"
+    ],
+    [
+      0.000341,
+      "\r            \r11% [Waiting for headers] [Connecting to dl.google.com (203.208.40.134)] [Connecting to ppa.launchpad.net (91.189.95.83\r                                                                                                                       \rGet:1 http://mirrors.aliyun.com precise-security Release.gpg [198 B]\r\n"
+    ],
+    [
+      0.000170,
+      "\r                                                                                                                       \rGet:2 http://mirrors.aliyun.com precise-updates Release.gpg [198 B]\r\n\r                                                                                                                       \rGet:3 http://mirrors.aliyun.com precise-proposed Release.gpg [198 B]\r\n"
+    ],
+    [
+      0.000050,
+      "\r94% [3 Release.gpg 169 B/198 B 85%] [Connecting to dl.google.com (203.208.40.134)] [Connecting to ppa.launchpad.net (91"
+    ],
+    [
+      0.026083,
+      "\r                                                                                                                       \rGet:4 http://mirrors.aliyun.com precise-backports Release.gpg [198 B]\r\n\r99% [4 Release.gpg 198 B/198 B 100%] [Connecting to dl.google.com (203.208.40.134)] [Connecting to ppa.launchpad.net (9\r99% [Waiting for headers] [Connecting to dl.google.com (203.208.40.134)] [Connecting to ppa.launchpad.net (91.189.95.83"
+    ],
+    [
+      0.063583,
+      "\r                                                                                                                       \rHit http://mirrors.aliyun.com precise Release\r\n\r                                                                                                                       \r99% [Connecting to dl.google.com (203.208.40.134)] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.000077,
+      "\r                                                                                                   \rGet:5 http://mirrors.aliyun.com precise-security Release [54.3 kB]\r\n"
+    ],
+    [
+      0.000089,
+      "\r                                                                                                   \r24% [5 Release 12.5 kB/54.3 kB 23%] [Waiting for headers] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.003164,
+      "\r                                                                                                          \r24% [Release gpgv 49.6 kB] [5 Release 12.5 kB/54.3 kB 23%] [Waiting for headers] [Connecting to ppa.launchpad.net (91.1"
+    ],
+    [
+      0.032578,
+      "\r                                                                                                                       \r61% [5 Release 32.8 kB/54.3 kB 60%] [Waiting for headers] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.057334,
+      "\r                                                                                                          \rGet:6 http://dl.google.com stable Release.gpg [198 B]"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "\r                                                                                                          \r95% [5 Release 51.6 kB/54.3 kB 95%] [6 Release.gpg 198 B/198 B 100%] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.000634,
+      "\r                                                                                                                     \r95% [5 Release 51.6 kB/54.3 kB 95%] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.020572,
+      "\r                                                                                    \r100% [Waiting for headers] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.002136,
+      "\r                                                                           \r100% [5 Release gpgv 54.3 kB] [Waiting for headers] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.001046,
+      "\r                                                                                                    \rGet:7 http://mirrors.aliyun.com precise-updates Release [196 kB]"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "\r                                                                                                    \r22% [5 Release gpgv 54.3 kB] [7 Release 0 B/196 kB 0%] [Waiting for headers] [Connecting to ppa.launchpad.net (91.189.9"
+    ],
+    [
+      0.019536,
+      "\r                                                                                                                       \r46% [7 Release 60.8 kB/196 kB 31%] [Waiting for headers] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.096274,
+      "\r                                                                                                         \rGet:8 http://dl.google.com stable Release [1,347 B]\r\n\r                                                                                                         \r76% [7 Release 135 kB/196 kB 69%] [8 Release 1,347 B/1,347 B 100%] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.002528,
+      "\r                                                                                                                   \r76% [7 Release 135 kB/196 kB 69%] [Connecting to ppa.launchpad.net (91.189.95.83)]\r                                                                                  \r76% [8 Release gpgv 1,347 B] [7 Release 135 kB/196 kB 69%] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.012145,
+      "\r                                                                                                           \r83% [7 Release 153 kB/196 kB 78%] [Waiting for headers]"
+    ],
+    [
+      0.048612,
+      "\r                                                       \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000379,
+      "\r                                                                      \rGet:9 http://mirrors.aliyun.com precise-proposed Release [196 kB]"
+    ],
+    [
+      0.002423,
+      "\r\n"
+    ],
+    [
+      0.000249,
+      "\r                                                                      \r57% [9 Release 2,512 B/196 kB 1%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000244,
+      "\r                                                                             \r57% [7 Release gpgv 196 kB] [9 Release 2,512 B/196 kB 1%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.031478,
+      "\r                                                                                                     \r63% [9 Release 28.6 kB/196 kB 15%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.049433,
+      "\r                                                                              \rGet:10 http://dl.google.com stable/main i386 Packages [1,185 B]"
+    ],
+    [
+      0.000371,
+      "\r\n"
+    ],
+    [
+      0.001135,
+      "\r                                                                              \r73% [9 Release 76.4 kB/196 kB 39%] [10 Packages 1,185 B/1,185 B 100%] [Waiting for headers]"
+    ],
+    [
+      0.027752,
+      "\r                                                                                           \r73% [9 Release 76.4 kB/196 kB 39%] [Waiting for headers]"
+    ],
+    [
+      0.003967,
+      "\r                                                        \r73% [10 Packages bzip2 0 B] [9 Release 76.4 kB/196 kB 39%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.022759,
+      "\r                                                                                                      \r73% [9 Release 76.4 kB/196 kB 39%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.096354,
+      "\r                                                                              \rIgn http://dl.google.com stable/main TranslationIndex\r\n\r                                                                              \r73% [9 Release 76.4 kB/196 kB 39%] [Waiting for headers]"
+    ],
+    [
+      0.095127,
+      "\r                                                        \rGet:11 http://ppa.launchpad.net precise Release.gpg [316 B]"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "\r                                                        \r73% [9 Release 76.4 kB/196 kB 39%] [Waiting for headers] [11 Release.gpg 316 B/316 B 100%]"
+    ],
+    [
+      0.000304,
+      "\r                                                                                          \r73% [9 Release 76.4 kB/196 kB 39%] [Waiting for headers]"
+    ],
+    [
+      0.376970,
+      "\r                                                        \rGet:12 http://ppa.launchpad.net precise Release [12.9 kB]\r\n\r                                                        \r74% [9 Release 76.4 kB/196 kB 39%] [12 Release 12.9 kB/12.9 kB 100%]"
+    ],
+    [
+      0.001969,
+      "\r                                                                    \r74% [9 Release 76.4 kB/196 kB 39%]"
+    ],
+    [
+      0.000405,
+      "\r                                  \r74% [12 Release gpgv 12.9 kB] [9 Release 76.4 kB/196 kB 39%]"
+    ],
+    [
+      0.010185,
+      "\r                                                            \r74% [9 Release 76.4 kB/196 kB 39%]"
+    ],
+    [
+      0.215629,
+      "\r                                  \rGet:13 http://mirrors.aliyun.com precise-backports Release [54.3 kB]\r\n\r                                  \r89% [13 Release 0 B/54.3 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.001899,
+      "\r                                                     \r91% [9 Release gpgv 196 kB] [13 Release 9,863 B/54.3 kB 18%] [Waiting for headers]"
+    ],
+    [
+      0.017381,
+      "\r                                                                                  \r97% [13 Release 38.4 kB/54.3 kB 71%] [Waiting for headers]"
+    ],
+    [
+      0.012195,
+      "\r                                                          \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003114,
+      "\r                                                \rHit http://mirrors.aliyun.com precise/main Sources\r\n\r                                                \rHit http://mirrors.aliyun.com precise/restricted Sources\r\n\r                                                \rHit http://mirrors.aliyun.com precise/universe Sources\r\n\r                                                \rHit http://mirrors.aliyun.com precise/multiverse Sources\r\n\r                                                \rHit http://mirrors.aliyun.com precise/main i386 Packages\r\n\r                                                \rHit http://mirrors.aliyun.com precise/restricted i386 Packages\r\n\r                                                \rHit http://mirrors.aliyun.com precise/universe i386 Packages\r\n\r                                                \rHit http://mirrors.aliyun.com precise/multiverse i386 Packages\r\n"
+    ],
+    [
+      0.001219,
+      "\r                                                \rHit http://mirrors.aliyun.com precise/main TranslationIndex"
+    ],
+    [
+      0.000927,
+      "\r\n"
+    ],
+    [
+      0.002214,
+      "\r                                                \r100% [Waiting for headers]\r                          \r100% [13 Release gpgv 54.3 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.010123,
+      "\r                                                                          \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.006148,
+      "\r                                                \rHit http://mirrors.aliyun.com precise/multiverse TranslationIndex\r\n"
+    ],
+    [
+      0.000026,
+      "\r                                                \rHit http://mirrors.aliyun.com precise/restricted TranslationIndex\r\n\r                                                \r100% [Waiting for headers]\r                          \rHit http://mirrors.aliyun.com precise/universe TranslationIndex\r\n\r                          \rGet:14 http://mirrors.aliyun.com precise-security/main Sources [126 kB]\r\n\r                          \r81% [14 Sources 2,597 B/126 kB 2%] [Waiting for headers]"
+    ],
+    [
+      0.102173,
+      "\r                                                        \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000048,
+      "\r                                                \rGet:15 http://mirrors.aliyun.com precise-security/restricted Sources [3,759 B]"
+    ],
+    [
+      0.002596,
+      "\r\n"
+    ],
+    [
+      0.000784,
+      "\r                                                \r100% [15 Sources 3,759 B/3,759 B 100%] [Waiting for headers]"
+    ],
+    [
+      0.001167,
+      "\r                                                            \rGet:16 http://mirrors.aliyun.com precise-security/universe Sources [34.2 kB]"
+    ],
+    [
+      0.000437,
+      "\r\n"
+    ],
+    [
+      0.000799,
+      "\r                                                            \r97% [14 Sources bzip2 0 B] [16 Sources 15.7 kB/34.2 kB 46%] [Waiting for headers]"
+    ],
+    [
+      0.009246,
+      "\r                                                                                 \r100% [14 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001677,
+      "\r                                                 \rGet:17 http://mirrors.aliyun.com precise-security/multiverse Sources [1,815 B]"
+    ],
+    [
+      0.001420,
+      "\r\n"
+    ],
+    [
+      0.001251,
+      "\r                                                 \r100% [14 Sources bzip2 0 B] [17 Sources 0 B/1,815 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.001703,
+      "\r                                                                             \r100% [14 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001753,
+      "\r                                                 \rGet:18 http://ppa.launchpad.net precise/main Sources [696 B]"
+    ],
+    [
+      0.001203,
+      "\r\n"
+    ],
+    [
+      0.001591,
+      "\r                                                 \r100% [14 Sources bzip2 0 B]"
+    ],
+    [
+      0.002986,
+      "\r                           \rGet:19 http://mirrors.aliyun.com precise-security/main i386 Packages [531 kB]"
+    ],
+    [
+      0.000751,
+      "\r\n"
+    ],
+    [
+      0.000997,
+      "\r                           \r56% [14 Sources bzip2 0 B] [19 Packages 0 B/531 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.083020,
+      "\r                                                                            \r70% [19 Packages 167 kB/531 kB 32%] [Waiting for headers]"
+    ],
+    [
+      0.002265,
+      "\r                                                         \r70% [15 Sources bzip2 0 B] [19 Packages 167 kB/531 kB 32%] [Waiting for headers]"
+    ],
+    [
+      0.009632,
+      "\r                                                                                \r73% [19 Packages 201 kB/531 kB 38%] [Waiting for headers]"
+    ],
+    [
+      0.000477,
+      "\r                                                         \r73% [16 Sources bzip2 0 B] [19 Packages 201 kB/531 kB 38%] [Waiting for headers]"
+    ],
+    [
+      0.022214,
+      "\r                                                                                \r76% [19 Packages 241 kB/531 kB 45%] [Waiting for headers]"
+    ],
+    [
+      0.002305,
+      "\r                                                         \r76% [17 Sources bzip2 0 B] [19 Packages 241 kB/531 kB 45%] [Waiting for headers]"
+    ],
+    [
+      0.007043,
+      "\r                                                                                \r78% [19 Packages 261 kB/531 kB 49%] [Waiting for headers]"
+    ],
+    [
+      0.001764,
+      "\r                                                         \r78% [18 Sources bzip2 0 B] [19 Packages 261 kB/531 kB 49%] [Waiting for headers]"
+    ],
+    [
+      0.009706,
+      "\r                                                                                \r81% [19 Packages 299 kB/531 kB 56%] [Waiting for headers]"
+    ],
+    [
+      0.088920,
+      "\r                                                         \r100% [Waiting for headers] [Waiting for headers]\r                                                \rGet:20 http://mirrors.aliyun.com precise-security/restricted i386 Packages [8,939 B]"
+    ],
+    [
+      0.003119,
+      "\r\n\r                                                \r100% [20 Packages 8,192 B/8,939 B 92%] [Waiting for headers]"
+    ],
+    [
+      0.001860,
+      "\r                                                            \r100% [19 Packages bzip2 0 B] [20 Packages 8,939 B/8,939 B 100%] [Waiting for headers]"
+    ],
+    [
+      0.004308,
+      "\r                                                                                     \r100% [19 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]\r                                                                        \rGet:21 http://mirrors.aliyun.com precise-security/universe i386 Packages [116 kB]\r\n\r                                                                        \r91% [19 Packages bzip2 0 B] [21 Packages 0 B/116 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.029748,
+      "\r                                                                             \r100% [19 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002190,
+      "\r                                                  \rGet:22 http://mirrors.aliyun.com precise-security/multiverse i386 Packages [2,652 B]\r\n"
+    ],
+    [
+      0.000013,
+      "\r                                                  \r100% [19 Packages bzip2 0 B] [22 Packages 0 B/2,652 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.002533,
+      "\r                                                                               \r100% [19 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002203,
+      "\r                                                  \rGet:23 http://mirrors.aliyun.com precise-security/main TranslationIndex [208 B]\r\n\r                                                  \r100% [19 Packages bzip2 0 B] [23 TranslationIndex 0 B/208 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.004444,
+      "\r                                                                                     \r100% [19 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.003007,
+      "\r                                                  \rGet:24 http://mirrors.aliyun.com precise-security/multiverse TranslationIndex [199 B]\r\n"
+    ],
+    [
+      0.001618,
+      "\r                                                  \r100% [19 Packages bzip2 0 B] [24 TranslationIndex 0 B/199 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.002697,
+      "\r                                                                                     \r100% [19 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002588,
+      "\r                                                  \rGet:25 http://mirrors.aliyun.com precise-security/restricted TranslationIndex [202 B]\r\n"
+    ],
+    [
+      0.000013,
+      "\r                                                  \r100% [19 Packages bzip2 0 B] [25 TranslationIndex 0 B/202 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.002791,
+      "\r                                                                                     \r100% [19 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002047,
+      "\r                                                  \rGet:26 http://mirrors.aliyun.com precise-security/universe TranslationIndex [205 B]\r\n"
+    ],
+    [
+      0.000015,
+      "\r                                                  \r100% [19 Packages bzip2 0 B] [26 TranslationIndex 0 B/205 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.002885,
+      "\r                                                                                     \r100% [19 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.006048,
+      "\r                                                  \rGet:27 http://mirrors.aliyun.com precise-updates/main Sources [487 kB]\r\n"
+    ],
+    [
+      0.000014,
+      "\r                                                  \r73% [19 Packages bzip2 0 B] [27 Sources 0 B/487 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.101067,
+      "\r                                                                            \rGet:28 http://ppa.launchpad.net precise/main i386 Packages [415 B]\r\n"
+    ],
+    [
+      0.000015,
+      "\r                                                                            \r100% [19 Packages bzip2 0 B] [27 Sources 487 kB/487 kB 100%] [Waiting for headers] [28 Packages 0 B/415 B 0%]"
+    ],
+    [
+      0.004145,
+      "\r                                                                                                             \r100% [19 Packages bzip2 0 B] [27 Sources 487 kB/487 kB 100%] [Waiting for headers]"
+    ],
+    [
+      0.003159,
+      "\r                                                                                  \r100% [19 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001815,
+      "\r                                                                        \rGet:29 http://mirrors.aliyun.com precise-updates/restricted Sources [7,981 B]\r\n"
+    ],
+    [
+      0.000012,
+      "\r                                                                        \r100% [19 Packages bzip2 0 B] [29 Sources 0 B/7,981 B 0%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003587,
+      "\r                                                                                                    \r100% [19 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001906,
+      "\r                                                                        \rGet:30 http://mirrors.aliyun.com precise-updates/universe Sources [112 kB]\r\n"
+    ],
+    [
+      0.000014,
+      "\r                                                                        \r94% [19 Packages bzip2 0 B] [30 Sources 0 B/112 kB 0%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.012677,
+      "\r                                                                                                  \rGet:31 http://ppa.launchpad.net precise/main TranslationIndex [196 B]"
+    ],
+    [
+      0.000852,
+      "\r\n"
+    ],
+    [
+      0.000857,
+      "\r                                                                                                  \r97% [19 Packages bzip2 0 B] [30 Sources 54.0 kB/112 kB 48%] [Waiting for headers] [31 TranslationIndex 196 B/196 B 100%"
+    ],
+    [
+      0.001255,
+      "\r                                                                                                                       \r97% [19 Packages bzip2 0 B] [30 Sources 54.0 kB/112 kB 48%] [Waiting for headers]"
+    ],
+    [
+      0.038143,
+      "\r                                                                                 \r100% [19 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003421,
+      "\r                                                                        \rGet:32 http://mirrors.aliyun.com precise-updates/multiverse Sources [9,417 B]\r\n"
+    ],
+    [
+      0.000014,
+      "\r                                                                        \r100% [19 Packages bzip2 0 B] [32 Sources 0 B/9,417 B 0%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.006186,
+      "\r                                                                                                    \r100% [19 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003887,
+      "\r                                                                        \rGet:33 http://mirrors.aliyun.com precise-updates/main i386 Packages [922 kB]\r\n\r                                                                        \r68% [19 Packages bzip2 0 B] [33 Packages 0 B/922 kB 0%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.306466,
+      "\r                                                                                                   \r85% [33 Packages 491 kB/922 kB 53%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001874,
+      "\r                                                                               \r85% [20 Packages bzip2 0 B] [33 Packages 491 kB/922 kB 53%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.032752,
+      "\r                                                                                                       \r87% [33 Packages 535 kB/922 kB 58%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001704,
+      "\r                                                                               \r87% [21 Packages bzip2 0 B] [33 Packages 535 kB/922 kB 58%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.027737,
+      "\r                                                                                                       \rGet:34 http://ppa.launchpad.net precise/main Translation-en [162 B]\r\n"
+    ],
+    [
+      0.000076,
+      "\r                                                                                                       \r88% [21 Packages bzip2 0 B] [33 Packages 577 kB/922 kB 63%] [Waiting for headers]"
+    ],
+    [
+      0.062387,
+      "\r                                                                                 \r91% [33 Packages 665 kB/922 kB 72%] [Waiting for headers]"
+    ],
+    [
+      0.011190,
+      "\r                                                         \r91% [22 Packages bzip2 0 B] [33 Packages 665 kB/922 kB 72%] [Waiting for headers]"
+    ],
+    [
+      0.007036,
+      "\r                                                                                 \r92% [33 Packages 687 kB/922 kB 74%] [Waiting for headers]"
+    ],
+    [
+      0.002409,
+      "\r                                                         \r92% [28 Packages bzip2 0 B] [33 Packages 687 kB/922 kB 74%] [Waiting for headers]"
+    ],
+    [
+      0.007325,
+      "\r                                                                                 \r93% [33 Packages 710 kB/922 kB 77%] [Waiting for headers]"
+    ],
+    [
+      0.002442,
+      "\r                                                         \r93% [27 Sources bzip2 0 B] [33 Packages 710 kB/922 kB 77%] [Waiting for headers]"
+    ],
+    [
+      0.149400,
+      "\r                                                                                \r100% [27 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.010038,
+      "\r                                                 \rGet:35 http://mirrors.aliyun.com precise-updates/restricted i386 Packages [13.6 kB]"
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.002775,
+      "\r                                                 \r100% [27 Sources bzip2 0 B] [35 Packages 0 B/13.6 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.007768,
+      "\r                                                                              \r100% [27 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002831,
+      "\r                                                 \rGet:36 http://mirrors.aliyun.com precise-updates/universe i386 Packages [265 kB]"
+    ],
+    [
+      0.002226,
+      "\r\n"
+    ],
+    [
+      0.004249,
+      "\r                                                 \r92% [27 Sources bzip2 0 B] [36 Packages 0 B/265 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.166005,
+      "\r                                                                            \r99% [36 Packages 223 kB/265 kB 84%] [Waiting for headers]"
+    ],
+    [
+      0.000641,
+      "\r                                                         \r99% [29 Sources bzip2 0 B] [36 Packages 223 kB/265 kB 84%] [Waiting for headers]"
+    ],
+    [
+      0.013059,
+      "\r                                                                                \r99% [36 Packages 239 kB/265 kB 90%] [Waiting for headers]"
+    ],
+    [
+      0.001995,
+      "\r                                                         \r99% [30 Sources bzip2 0 B] [36 Packages 239 kB/265 kB 90%] [Waiting for headers]"
+    ],
+    [
+      0.061724,
+      "\r                                                                                \rGet:37 http://mirrors.aliyun.com precise-updates/multiverse i386 Packages [16.6 kB]\r\n"
+    ],
+    [
+      0.000015,
+      "\r                                                                                \r100% [30 Sources bzip2 0 B] [37 Packages 4,268 B/16.6 kB 26%] [Waiting for headers]"
+    ],
+    [
+      0.007552,
+      "\r                                                                                   \r100% [37 Packages 4,268 B/16.6 kB 26%] [Waiting for headers]"
+    ],
+    [
+      0.001065,
+      "\r                                                            \r100% [32 Sources bzip2 0 B] [37 Packages 4,268 B/16.6 kB 26%] [Waiting for headers]"
+    ],
+    [
+      0.010780,
+      "\r                                                                                   \r100% [37 Packages 4,268 B/16.6 kB 26%] [Waiting for headers]"
+    ],
+    [
+      0.001236,
+      "\r                                                            \r100% [34 Translation-en bzip2 0 B] [37 Packages 4,268 B/16.6 kB 26%] [Waiting for headers]"
+    ],
+    [
+      0.006401,
+      "\r                                                                                          \r100% [37 Packages 4,268 B/16.6 kB 26%] [Waiting for headers]"
+    ],
+    [
+      0.001090,
+      "\r                                                            \r100% [33 Packages bzip2 0 B] [37 Packages 4,268 B/16.6 kB 26%] [Waiting for headers]"
+    ],
+    [
+      0.009660,
+      "\r                                                                                    \rGet:38 http://mirrors.aliyun.com precise-updates/main TranslationIndex [10.6 kB]"
+    ],
+    [
+      0.001649,
+      "\r\n"
+    ],
+    [
+      0.001231,
+      "\r                                                                                    \r100% [33 Packages bzip2 0 B] [38 TranslationIndex 7,676 B/10.6 kB 73%] [Waiting for headers]"
+    ],
+    [
+      0.009864,
+      "\r                                                                                            \r100% [33 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001838,
+      "\r                                                  \rGet:39 http://mirrors.aliyun.com precise-updates/multiverse TranslationIndex [7,613 B]"
+    ],
+    [
+      0.001303,
+      "\r\n"
+    ],
+    [
+      0.001165,
+      "\r                                                  \r100% [33 Packages bzip2 0 B] [39 TranslationIndex 0 B/7,613 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.008452,
+      "\r                                                                                       \r100% [33 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002046,
+      "\r                                                  \rGet:40 http://mirrors.aliyun.com precise-updates/restricted TranslationIndex [7,297 B]"
+    ],
+    [
+      0.002206,
+      "\r\n"
+    ],
+    [
+      0.001158,
+      "\r                                                  \r100% [33 Packages bzip2 0 B] [40 TranslationIndex 0 B/7,297 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.007371,
+      "\r                                                                                       \r100% [33 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002440,
+      "\r                                                  \rGet:41 http://mirrors.aliyun.com precise-updates/universe TranslationIndex [8,333 B]"
+    ],
+    [
+      0.001195,
+      "\r\n"
+    ],
+    [
+      0.001643,
+      "\r                                                  \r100% [33 Packages bzip2 0 B] [41 TranslationIndex 0 B/8,333 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.023662,
+      "\r                                                                                       \rGet:42 http://mirrors.aliyun.com precise-proposed/main Sources [16.5 kB]"
+    ],
+    [
+      0.001128,
+      "\r\n"
+    ],
+    [
+      0.001197,
+      "\r                                                                                       \r100% [33 Packages bzip2 0 B] [42 Sources 4,406 B/16.5 kB 27%] [Waiting for headers]"
+    ],
+    [
+      0.023025,
+      "\r                                                                                   \r100% [33 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.002454,
+      "\r                                                                        \rGet:43 http://mirrors.aliyun.com precise-proposed/restricted Sources [1,424 B]\r\n"
+    ],
+    [
+      0.000332,
+      "\r100% [33 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]\r                                                                        \rGet:44 http://mirrors.aliyun.com precise-proposed/universe Sources [4,901 B]\r\n\r                                                                        \r100% [33 Packages bzip2 0 B] [44 Sources 0 B/4,901 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.011091,
+      "\r                                                                              \rGet:45 http://mirrors.aliyun.com precise-proposed/multiverse Sources [1,358 B]\r\n"
+    ],
+    [
+      0.000016,
+      "\r                                                                              \rGet:46 http://mirrors.aliyun.com precise-proposed/main i386 Packages [180 kB]\r\n\r                                                                              \r95% [33 Packages bzip2 0 B] [46 Packages 3,623 B/180 kB 2%] [Waiting for headers]"
+    ],
+    [
+      0.278016,
+      "\r                                                                                 \rGet:47 http://mirrors.aliyun.com precise-proposed/restricted i386 Packages [1,138 B]\r\n"
+    ],
+    [
+      0.000013,
+      "\r                                                                                 \rGet:48 http://mirrors.aliyun.com precise-proposed/universe i386 Packages [9,639 B]\r\n"
+    ],
+    [
+      0.000890,
+      "\r                                                                                 \r100% [33 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.006817,
+      "\r                                                                        \rGet:49 http://mirrors.aliyun.com precise-proposed/multiverse i386 Packages [28 B]\r\n"
+    ],
+    [
+      0.000016,
+      "\r                                                                        \r100% [33 Packages bzip2 0 B] [49 Packages 0 B/28 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.001673,
+      "\r                                                                            \r100% [33 Packages bzip2 0 B] [Waiting for headers]\r                                                  \rGet:50 http://mirrors.aliyun.com precise-proposed/main TranslationIndex [10.6 kB]\r\n\r                                                  \r100% [33 Packages bzip2 0 B] [50 TranslationIndex 0 B/10.6 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.042292,
+      "\r                                                                                       \r100% [33 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.000015,
+      "\r                                                  \rGet:51 http://mirrors.aliyun.com precise-proposed/multiverse TranslationIndex [7,613 B]\r\n"
+    ],
+    [
+      0.002678,
+      "\r                                                  \rGet:52 http://mirrors.aliyun.com precise-proposed/restricted TranslationIndex [7,297 B]\r\n"
+    ],
+    [
+      0.001801,
+      "\r                                                  \r100% [33 Packages bzip2 0 B] [52 TranslationIndex 5,232 B/7,297 B 72%] [Waiting for headers]"
+    ],
+    [
+      0.010637,
+      "\r                                                                                            \rGet:53 http://mirrors.aliyun.com precise-proposed/universe TranslationIndex [8,333 B]\r\n"
+    ],
+    [
+      0.004981,
+      "\r                                                                                            \rHit http://mirrors.aliyun.com precise/main Translation-en\r\n\r                                                                                            \rGet:54 http://mirrors.aliyun.com precise-backports/main Sources [5,411 B]\r\n"
+    ],
+    [
+      0.000014,
+      "\r                                                                                            \r100% [33 Packages bzip2 0 B] [54 Sources 1,448 B/5,411 B 27%] [Waiting for headers]"
+    ],
+    [
+      0.007367,
+      "\r                                                                                   \rGet:55 http://mirrors.aliyun.com precise-backports/restricted Sources [28 B]\r\n\r                                                                                   \rGet:56 http://mirrors.aliyun.com precise-backports/universe Sources [41.3 kB]\r\n"
+    ],
+    [
+      0.000030,
+      "\r                                                                                   \r99% [33 Packages bzip2 0 B] [56 Sources 7,010 B/41.3 kB 17%] [Waiting for headers]"
+    ],
+    [
+      0.048350,
+      "\r                                                                                  \r100% [33 Packages bzip2 0 B] [Waiting for headers]\r                                                  \rGet:57 http://mirrors.aliyun.com precise-backports/multiverse Sources [5,750 B]\r\n\r                                                  \r100% [33 Packages bzip2 0 B] [57 Sources 0 B/5,750 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.014428,
+      "\r                                                                              \rGet:58 http://mirrors.aliyun.com precise-backports/main i386 Packages [5,484 B]\r\n"
+    ],
+    [
+      0.000038,
+      "\r                                                                              \rGet:59 http://mirrors.aliyun.com precise-backports/restricted i386 Packages [28 B]\r\n\r                                                                              \rGet:60 http://mirrors.aliyun.com precise-backports/universe i386 Packages [43.2 kB]\r\n"
+    ],
+    [
+      0.000052,
+      "\r                                                                              \r99% [33 Packages bzip2 0 B] [60 Packages 4,991 B/43.2 kB 12%] [Waiting for headers]"
+    ],
+    [
+      0.060275,
+      "\r                                                                                   \r100% [33 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001610,
+      "\r                                                                        \rGet:61 http://mirrors.aliyun.com precise-backports/multiverse i386 Packages [5,413 B]"
+    ],
+    [
+      0.001499,
+      "\r\n"
+    ],
+    [
+      0.001413,
+      "\r                                                                        \r100% [33 Packages bzip2 0 B] [61 Packages 5,413 B/5,413 B 100%] [Waiting for headers]"
+    ],
+    [
+      0.001375,
+      "\r                                                                                     \r100% [33 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001728,
+      "\r                                                                        \rGet:62 http://mirrors.aliyun.com precise-backports/main TranslationIndex [202 B]"
+    ],
+    [
+      0.002820,
+      "\r\n"
+    ],
+    [
+      0.001291,
+      "\r                                                                        \r100% [33 Packages bzip2 0 B] [62 TranslationIndex 0 B/202 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.006301,
+      "\r                                                                                     \r100% [33 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.007692,
+      "\r                                                  \rGet:63 http://mirrors.aliyun.com precise-backports/multiverse TranslationIndex [202 B]"
+    ],
+    [
+      0.001931,
+      "\r\n"
+    ],
+    [
+      0.001333,
+      "\r                                                  \r100% [33 Packages bzip2 0 B] [63 TranslationIndex 202 B/202 B 100%] [Waiting for headers]"
+    ],
+    [
+      0.001969,
+      "\r                                                                                         \rGet:64 http://mirrors.aliyun.com precise-backports/restricted TranslationIndex [193 B]"
+    ],
+    [
+      0.001971,
+      "\r\n"
+    ],
+    [
+      0.002823,
+      "\r                                                                                         \rGet:65 http://mirrors.aliyun.com precise-backports/universe TranslationIndex [205 B]"
+    ],
+    [
+      0.002435,
+      "\r\n"
+    ],
+    [
+      0.001344,
+      "\r100% [33 Packages bzip2 0 B] [65 TranslationIndex 205 B/205 B 100%] [Waiting for headers]"
+    ],
+    [
+      0.002522,
+      "\r                                                                                         \rHit http://mirrors.aliyun.com precise/multiverse Translation-en"
+    ],
+    [
+      0.001388,
+      "\r\n"
+    ],
+    [
+      0.001596,
+      "\r                                                                                         \rHit http://mirrors.aliyun.com precise/restricted Translation-en"
+    ],
+    [
+      0.001700,
+      "\r\n"
+    ],
+    [
+      0.001815,
+      "\r                                                                                         \rHit http://mirrors.aliyun.com precise/universe Translation-en"
+    ],
+    [
+      0.003812,
+      "\r\n"
+    ],
+    [
+      0.001816,
+      "\r                                                                                         \rGet:66 http://mirrors.aliyun.com precise-security/main Translation-en [219 kB]"
+    ],
+    [
+      0.001992,
+      "\r\n"
+    ],
+    [
+      0.001273,
+      "\r                                                                                         \r96% [33 Packages bzip2 0 B] [66 Translation-en 49.2 kB/219 kB 22%] [Waiting for headers]"
+    ],
+    [
+      0.145961,
+      "\r                                                                                        \rHit http://mirrors.aliyun.com precise-security/multiverse Translation-en"
+    ],
+    [
+      0.001542,
+      "\r\n"
+    ],
+    [
+      0.001606,
+      "\r                                                                                        \rHit http://mirrors.aliyun.com precise-security/restricted Translation-en"
+    ],
+    [
+      0.001138,
+      "\r\n"
+    ],
+    [
+      0.002037,
+      "\r                                                                                        \rGet:67 http://mirrors.aliyun.com precise-security/universe Translation-en [66.6 kB]"
+    ],
+    [
+      0.001181,
+      "\r\n"
+    ],
+    [
+      0.001215,
+      "\r                                                                                        \r98% [33 Packages bzip2 0 B] [67 Translation-en 6,595 B/66.6 kB 10%] [Waiting for headers]"
+    ],
+    [
+      0.045879,
+      "\r                                                                                         \r100% [33 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002108,
+      "\r                                                  \rGet:68 http://mirrors.aliyun.com precise-updates/main Translation-en [389 kB]\r\n\r                                                  \r91% [33 Packages bzip2 0 B] [68 Translation-en 0 B/389 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.104783,
+      "\r                                                                                   \r94% [68 Translation-en 136 kB/389 kB 35%] [Waiting for headers]"
+    ],
+    [
+      0.002171,
+      "\r                                                               \r94% [35 Packages bzip2 0 B] [68 Translation-en 136 kB/389 kB 35%] [Waiting for headers]"
+    ],
+    [
+      0.064577,
+      "\r                                                                                       \r95% [68 Translation-en 160 kB/389 kB 41%] [Waiting for headers]"
+    ],
+    [
+      0.001963,
+      "\r                                                               \r95% [36 Packages bzip2 0 B] [68 Translation-en 160 kB/389 kB 41%] [Waiting for headers]"
+    ],
+    [
+      0.186255,
+      "\r                                                                                       \r98% [68 Translation-en 306 kB/389 kB 79%] [Waiting for headers]"
+    ],
+    [
+      0.001653,
+      "\r                                                               \r98% [37 Packages bzip2 0 B] [68 Translation-en 306 kB/389 kB 79%] [Waiting for headers]"
+    ],
+    [
+      0.016322,
+      "\r                                                                                       \r98% [68 Translation-en 325 kB/389 kB 83%] [Waiting for headers]"
+    ],
+    [
+      0.001481,
+      "\r                                                               \r98% [42 Sources bzip2 0 B] [68 Translation-en 325 kB/389 kB 83%] [Waiting for headers]"
+    ],
+    [
+      0.020428,
+      "\r                                                                                      \r99% [68 Translation-en 345 kB/389 kB 89%] [Waiting for headers]"
+    ],
+    [
+      0.001960,
+      "\r                                                               \r99% [43 Sources bzip2 0 B] [68 Translation-en 345 kB/389 kB 89%] [Waiting for headers]"
+    ],
+    [
+      0.009719,
+      "\r                                                                                      \r99% [68 Translation-en 357 kB/389 kB 92%] [Waiting for headers]"
+    ],
+    [
+      0.001932,
+      "\r                                                               \r99% [44 Sources bzip2 0 B] [68 Translation-en 357 kB/389 kB 92%] [Waiting for headers]"
+    ],
+    [
+      0.009691,
+      "\r                                                                                      \r100% [68 Translation-en 370 kB/389 kB 95%] [Waiting for headers]"
+    ],
+    [
+      0.001585,
+      "\r                                                                \r100% [45 Sources bzip2 0 B] [68 Translation-en 370 kB/389 kB 95%] [Waiting for headers]"
+    ],
+    [
+      0.007108,
+      "\r                                                                                       \r100% [68 Translation-en 370 kB/389 kB 95%] [Waiting for headers]"
+    ],
+    [
+      0.005371,
+      "\r                                                                \r100% [46 Packages bzip2 0 B] [68 Translation-en 370 kB/389 kB 95%] [Waiting for headers]"
+    ],
+    [
+      0.014014,
+      "\r                                                                                        \r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001830,
+      "\r                                                  \rGet:69 http://mirrors.aliyun.com precise-updates/multiverse Translation-en [9,533 B]"
+    ],
+    [
+      0.000915,
+      "\r\n"
+    ],
+    [
+      0.001052,
+      "\r                                                  \r100% [46 Packages bzip2 0 B] [69 Translation-en 0 B/9,533 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.005515,
+      "\r                                                                                     \r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001642,
+      "\r                                                  \rHit http://mirrors.aliyun.com precise-updates/restricted Translation-en"
+    ],
+    [
+      0.000977,
+      "\r\n"
+    ],
+    [
+      0.001064,
+      "\r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001638,
+      "\r                                                  \rGet:70 http://mirrors.aliyun.com precise-updates/universe Translation-en [149 kB]"
+    ],
+    [
+      0.000996,
+      "\r\n"
+    ],
+    [
+      0.001070,
+      "\r                                                  \r97% [46 Packages bzip2 0 B] [70 Translation-en 0 B/149 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.160120,
+      "\r                                                                                   \r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002873,
+      "\r                                                  \rGet:71 http://mirrors.aliyun.com precise-proposed/main Translation-en [38.7 kB]\r\n"
+    ],
+    [
+      0.000012,
+      "\r                                                  \r99% [46 Packages bzip2 0 B] [71 Translation-en 0 B/38.7 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.037251,
+      "\r                                                                                    \r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002010,
+      "\r                                                  \rGet:72 http://mirrors.aliyun.com precise-proposed/multiverse Translation-en [28 B]\r\n\r                                                  \r100% [46 Packages bzip2 0 B] [72 Translation-en 0 B/28 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.002928,
+      "\r                                                                                  \r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.000499,
+      "\r                                                  \rHit http://mirrors.aliyun.com precise-proposed/restricted Translation-en\r\n"
+    ],
+    [
+      0.000010,
+      "\r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002752,
+      "\r                                                  \rGet:73 http://mirrors.aliyun.com precise-proposed/universe Translation-en [6,061 B]\r\n"
+    ],
+    [
+      0.000036,
+      "\r                                                  \r100% [46 Packages bzip2 0 B] [73 Translation-en 0 B/6,061 B 0%] [Waiting for headers]"
+    ],
+    [
+      0.002806,
+      "\r                                                                                     \r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.000470,
+      "\r                                                  \rHit http://mirrors.aliyun.com precise-backports/main Translation-en\r\n\r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.002689,
+      "\r                                                  \rHit http://mirrors.aliyun.com precise-backports/multiverse Translation-en\r\n"
+    ],
+    [
+      0.000035,
+      "\r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.000554,
+      "\r                                                  \rHit http://mirrors.aliyun.com precise-backports/restricted Translation-en\r\n\r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.003273,
+      "\r                                                  \rHit http://mirrors.aliyun.com precise-backports/universe Translation-en\r\n\r100% [46 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.011981,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.001459,
+      "\r                          \r100% [47 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.007955,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.000954,
+      "\r                          \r100% [48 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.011407,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.000805,
+      "\r                          \r100% [49 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.007046,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.001525,
+      "\r                          \r100% [54 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.009435,
+      "\r                                                 \r100% [Waiting for headers]"
+    ],
+    [
+      0.000494,
+      "\r                          \r100% [55 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.007818,
+      "\r                                                 \r100% [Waiting for headers]"
+    ],
+    [
+      0.000491,
+      "\r                          \r100% [56 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.024118,
+      "\r                                                 \r100% [Waiting for headers]"
+    ],
+    [
+      0.001333,
+      "\r                          \r100% [57 Sources bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.008248,
+      "\r                                                 \r100% [Waiting for headers]"
+    ],
+    [
+      0.000478,
+      "\r                          \r100% [58 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.009902,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.001811,
+      "\r                          \r100% [59 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.012058,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.000372,
+      "\r                          \r100% [60 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.028064,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.001439,
+      "\r                          \r100% [61 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.008573,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.001197,
+      "\r                          \r100% [66 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.284098,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.001976,
+      "\r                          \r100% [67 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.045565,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.002069,
+      "\r                          \r100% [68 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.423939,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.001708,
+      "\r                          \r100% [69 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.026880,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.002117,
+      "\r                          \r100% [70 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.108529,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.006045,
+      "\r                          \r100% [71 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.109525,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.000316,
+      "\r                          \r100% [72 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.008082,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.001000,
+      "\r                          \r100% [73 Translation-en bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.009559,
+      "\r                                                        \r100% [Waiting for headers]"
+    ],
+    [
+      0.501970,
+      "\r                          \r100% [Waiting for headers]                                                                                  716 kB/s 0s"
+    ],
+    [
+      0.499989,
+      "\r100% [Waiting for headers]                                                                                  716 kB/s 0s"
+    ],
+    [
+      0.501111,
+      "\r100% [Waiting for headers]                                                                                  716 kB/s 0s"
+    ],
+    [
+      0.501107,
+      "\r100% [Waiting for headers]                                                                                  716 kB/s 0s"
+    ],
+    [
+      0.500954,
+      "\r100% [Waiting for headers]                                                                                  716 kB/s 0s"
+    ],
+    [
+      0.056830,
+      "\r                                                                                                                       \rIgn http://dl.google.com stable/main Translation-en_US\r\n\r100% [Working]                                                                                              716 kB/s 0s"
+    ],
+    [
+      0.123521,
+      "\r                                                                                                                       \rIgn http://dl.google.com stable/main Translation-en\r\n\r100% [Working]                                                                                              716 kB/s 0s\r                                                                                                                       \r"
+    ],
+    [
+      0.000013,
+      "Fetched 4,444 kB in 8s (530 kB/s)\r\n"
+    ],
+    [
+      0.045353,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.058280,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.038901,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.228470,
+      "\rReading package lists... 9%\r\rReading package lists... 9%\r"
+    ],
+    [
+      0.010903,
+      "\rReading package lists... 9%\r\rReading package lists... 9%\r"
+    ],
+    [
+      0.467224,
+      "\rReading package lists... 25%\r"
+    ],
+    [
+      0.649380,
+      "\rReading package lists... 41%\r\rReading package lists... 41%\r"
+    ],
+    [
+      0.036555,
+      "\rReading package lists... 42%\r\rReading package lists... 42%\r"
+    ],
+    [
+      0.018306,
+      "\rReading package lists... 43%\r"
+    ],
+    [
+      0.129576,
+      "\rReading package lists... 47%\r"
+    ],
+    [
+      0.000013,
+      "\rReading package lists... 47%\r"
+    ],
+    [
+      0.040150,
+      "\rReading package lists... 47%\r"
+    ],
+    [
+      0.001529,
+      "\rReading package lists... 47%\r"
+    ],
+    [
+      0.002521,
+      "\rReading package lists... 48%\r"
+    ],
+    [
+      0.001226,
+      "\rReading package lists... 48%\r"
+    ],
+    [
+      0.531287,
+      "\rReading package lists... 62%\r"
+    ],
+    [
+      0.177611,
+      "\rReading package lists... 66%\r\rReading package lists... 66%\r"
+    ],
+    [
+      0.193630,
+      "\rReading package lists... 71%\r"
+    ],
+    [
+      0.000013,
+      "\rReading package lists... 71%\r"
+    ],
+    [
+      0.004750,
+      "\rReading package lists... 72%\r\rReading package lists... 72%\r"
+    ],
+    [
+      0.039182,
+      "\rReading package lists... 72%\r\rReading package lists... 72%\r"
+    ],
+    [
+      0.001678,
+      "\rReading package lists... 72%\r\rReading package lists... 72%\r"
+    ],
+    [
+      0.070627,
+      "\rReading package lists... 76%\r\rReading package lists... 76%\r\rReading package lists... 76%\r\rReading package lists... 76%\r"
+    ],
+    [
+      0.002107,
+      "\rReading package lists... 76%\r\rReading package lists... 76%\r"
+    ],
+    [
+      0.008831,
+      "\rReading package lists... 76%\r\rReading package lists... 76%\r"
+    ],
+    [
+      0.257833,
+      "\rReading package lists... 85%\r"
+    ],
+    [
+      0.020170,
+      "\rReading package lists... 85%\r\rReading package lists... 85%\r"
+    ],
+    [
+      0.004618,
+      "\rReading package lists... 85%\r"
+    ],
+    [
+      0.001769,
+      "\rReading package lists... 85%\r"
+    ],
+    [
+      0.113065,
+      "\rReading package lists... 87%\r\rReading package lists... 87%\r"
+    ],
+    [
+      0.005804,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.001971,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.100525,
+      "\rReading package lists... 92%\r\rReading package lists... 92%\r"
+    ],
+    [
+      0.001650,
+      "\rReading package lists... 92%\r\rReading package lists... 92%\r"
+    ],
+    [
+      0.001875,
+      "\rReading package lists... 92%\r\rReading package lists... 92%\r"
+    ],
+    [
+      0.020535,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.004059,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.031012,
+      "\rReading package lists... 95%\r\rReading package lists... 95%\r"
+    ],
+    [
+      0.001266,
+      "\rReading package lists... 95%\r\rReading package lists... 95%\r"
+    ],
+    [
+      0.003565,
+      "\rReading package lists... 96%\r\rReading package lists... 96%\r"
+    ],
+    [
+      0.001248,
+      "\rReading package lists... 96%\r\rReading package lists... 96%\r"
+    ],
+    [
+      0.023339,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.001681,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.002353,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.001440,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.020066,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.003349,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.016499,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.001779,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.001786,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.000367,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      1.146243,
+      "\rReading package lists... 97%\r\rReading package lists... 97%\r"
+    ],
+    [
+      0.007993,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.312505,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.013864,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:16:12]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      0.973408,
+      "s"
+    ],
+    [
+      0.001751,
+      "udo apt-get install asciinema"
+    ],
+    [
+      0.388961,
+      "\r\n"
+    ],
+    [
+      0.035818,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.010555,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.047589,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.061979,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.217053,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.001702,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.006416,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.261777,
+      "Some packages could not be installed. This may mean that you have\r\nrequested an impossible situation or if you are using the unstable\r\ndistribution that some required packages have not yet been created\r\nor been moved out of Incoming.\r\nThe following information may help to resolve the situation:\r\n\r\nThe following packages have unmet dependencies:\r\n"
+    ],
+    [
+      0.003339,
+      " asciinema : Depends: python-requests (\u003e= 1.1.0) but it is not going to be installed\r\n"
+    ],
+    [
+      0.049050,
+      "E: Unable to correct problems, you have held broken packages.\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:16:14]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      13.809404,
+      "p"
+    ],
+    [
+      1.072805,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191377,
+      "e"
+    ],
+    [
+      0.194273,
+      "a"
+    ],
+    [
+      0.223389,
+      "s"
+    ],
+    [
+      0.221082,
+      "y"
+    ],
+    [
+      0.794152,
+      "_"
+    ],
+    [
+      0.203306,
+      "i"
+    ],
+    [
+      0.180858,
+      "n"
+    ],
+    [
+      0.027399,
+      "s"
+    ],
+    [
+      0.224178,
+      "t"
+    ],
+    [
+      0.180615,
+      "a"
+    ],
+    [
+      0.002078,
+      "l"
+    ],
+    [
+      0.096820,
+      "l"
+    ],
+    [
+      0.223728,
+      " "
+    ],
+    [
+      0.576915,
+      "y"
+    ],
+    [
+      0.602514,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.862956,
+      "p"
+    ],
+    [
+      0.213150,
+      "y"
+    ],
+    [
+      0.159508,
+      "t"
+    ],
+    [
+      0.054181,
+      "h"
+    ],
+    [
+      0.052964,
+      "o"
+    ],
+    [
+      0.124994,
+      "n"
+    ],
+    [
+      0.234513,
+      "-"
+    ],
+    [
+      0.443006,
+      "r"
+    ],
+    [
+      0.056414,
+      "e"
+    ],
+    [
+      0.205874,
+      "q"
+    ],
+    [
+      0.095230,
+      "u"
+    ],
+    [
+      0.096154,
+      "e"
+    ],
+    [
+      0.129008,
+      "s"
+    ],
+    [
+      0.160153,
+      "t"
+    ],
+    [
+      0.154801,
+      "s"
+    ],
+    [
+      0.158882,
+      "\r\n"
+    ],
+    [
+      0.959418,
+      "error: can't create or remove files in install directory\r\n\r\nThe following error occurred while trying to add or remove files in the\r\ninstallation directory:\r\n\r\n    [Errno 13] Permission denied: '/usr/local/lib/python2.7/dist-packages/test-easy-install-7017.pth'\r\n\r\nThe installation directory you specified (via --install-dir, --prefix, or\r\nthe distutils default setting) was:\r\n\r\n    /usr/local/lib/python2.7/dist-packages/\r\n\r\nPerhaps your account does not have write access to this directory?  If the\r\ninstallation directory is a system-owned directory, you may need to sign in\r\nas the administrator or \"root\" account.  If you do not have administrative\r\n"
+    ],
+    [
+      0.000672,
+      "access to this machine, you may wish to choose a different installation\r\ndirectory, preferably one that is listed in your PYTHONPATH environment\r\nvariable.\r\n\r\nFor information on other options, you may wish to consult the\r\ndocumentation at:\r\n\r\n  http://packages.python.org/distribute/easy_install.html\r\n\r\nPlease make the appropriate changes for your system and try again.\r\n\r\n"
+    ],
+    [
+      0.010880,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:16:37]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      1.351170,
+      "easy_install python-requests"
+    ],
+    [
+      0.766327,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.234982,
+      "\u001b[1@s"
+    ],
+    [
+      0.000040,
+      "\u001b[1@u"
+    ],
+    [
+      0.001613,
+      "\u001b[1@d"
+    ],
+    [
+      0.000260,
+      "\u001b[1@o"
+    ],
+    [
+      0.000322,
+      "\u001b[1@ \r\n"
+    ],
+    [
+      0.300448,
+      "Searching for python-requests\r\n"
+    ],
+    [
+      0.000859,
+      "Reading http://pypi.python.org/simple/python-requests/\r\n"
+    ],
+    [
+      1.028828,
+      "Couldn't find index page for 'python-requests' (maybe misspelled?)\r\nScanning index of all packages (this may take a while)\r\nReading http://pypi.python.org/simple/\r\n"
+    ],
+    [
+      6.844048,
+      "No local packages or download links found for python-requests\r\n"
+    ],
+    [
+      0.002348,
+      "error: Could not find suitable distribution for Requirement.parse('python-requests')\r\n"
+    ],
+    [
+      0.016262,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:16:49]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      1.069870,
+      "sudo easy_install python-requests"
+    ],
+    [
+      0.246190,
+      "\u0008"
+    ],
+    [
+      0.258984,
+      "\u0008"
+    ],
+    [
+      0.029592,
+      "\u0008"
+    ],
+    [
+      0.035088,
+      "\u0008"
+    ],
+    [
+      0.029231,
+      "\u0008"
+    ],
+    [
+      0.400822,
+      "\u0008"
+    ],
+    [
+      0.198261,
+      "\u0008"
+    ],
+    [
+      0.393686,
+      "\u0008"
+    ],
+    [
+      0.660846,
+      "\u0008\u001b[1Prequests\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.150536,
+      "\u0008\u001b[1Prequests\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.171179,
+      "\u0008\u001b[1Prequests\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.116412,
+      "\u0008\u001b[1Prequests\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.151849,
+      "\u0008\u001b[1Prequests\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.225450,
+      "\r\n"
+    ],
+    [
+      0.214010,
+      "Searching for pyrequests\r\n"
+    ],
+    [
+      0.000202,
+      "Reading http://pypi.python.org/simple/pyrequests/\r\n"
+    ],
+    [
+      0.734221,
+      "Couldn't find index page for 'pyrequests' (maybe misspelled?)\r\nScanning index of all packages (this may take a while)\r\nReading http://pypi.python.org/simple/\r\n"
+    ],
+    [
+      3.189724,
+      "^C"
+    ],
+    [
+      0.004427,
+      "interrupted\r\n"
+    ],
+    [
+      0.030802,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:16:57]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      0.217708,
+      "^C\r\n\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:16:57]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      0.031235,
+      "^C\r\n\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:16:57]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      0.233751,
+      "sudo easy_install pyrequests"
+    ],
+    [
+      0.661399,
+      "\u0008"
+    ],
+    [
+      0.172122,
+      "\u0008"
+    ],
+    [
+      0.121188,
+      "\u0008"
+    ],
+    [
+      0.117483,
+      "\u0008"
+    ],
+    [
+      0.158697,
+      "\u0008"
+    ],
+    [
+      0.073654,
+      "\u0008"
+    ],
+    [
+      0.112420,
+      "\u0008"
+    ],
+    [
+      0.120691,
+      "\u0008"
+    ],
+    [
+      0.143062,
+      "\u0008"
+    ],
+    [
+      0.567287,
+      "\u001b[C"
+    ],
+    [
+      0.316832,
+      "\u0008\u001b[1Prequests\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.114139,
+      "\u0008\u001b[1Prequests\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.247020,
+      "\r\n"
+    ],
+    [
+      0.215444,
+      "Searching for requests\r\n"
+    ],
+    [
+      0.001596,
+      "Reading http://pypi.python.org/simple/requests/\r\n"
+    ],
+    [
+      0.516654,
+      "Best match: requests 2.6.0\r\nDownloading https://pypi.python.org/packages/source/r/requests/requests-2.6.0.tar.gz#md5=25287278fa3ea106207461112bb37050\r\n"
+    ],
+    [
+      0.944873,
+      "Processing requests-2.6.0.tar.gz\r\n"
+    ],
+    [
+      0.076785,
+      "Running requests-2.6.0/setup.py -q bdist_egg --dist-dir /tmp/easy_install-GJhmJf/requests-2.6.0/egg-dist-tmp-5eAndg\r\n"
+    ],
+    [
+      1.313094,
+      "Adding requests 2.6.0 to easy-install.pth file\r\n"
+    ],
+    [
+      0.013006,
+      "\r\nInstalled /usr/local/lib/python2.7/dist-packages/requests-2.6.0-py2.7.egg\r\n"
+    ],
+    [
+      0.000253,
+      "Processing dependencies for requests\r\n"
+    ],
+    [
+      0.003824,
+      "Finished processing dependencies for requests\r\n"
+    ],
+    [
+      0.025467,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:17:03]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      1.300012,
+      "sudo easy_install requests"
+    ],
+    [
+      0.198864,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008pyrequests"
+    ],
+    [
+      0.192517,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008thon-requests"
+    ],
+    [
+      0.191234,
+      "\r\u001b[C\u001b[C\u001b[5P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.240932,
+      "\r\u001b[C\u001b[Csudo apt-get install asciinema"
+    ],
+    [
+      1.706114,
+      "\r\n"
+    ],
+    [
+      0.032522,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.011420,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000170,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.016278,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.063728,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.224128,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000013,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.008270,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.251040,
+      "Some packages could not be installed. This may mean that you have\r\nrequested an impossible situation or if you are using the unstable\r\ndistribution that some required packages have not yet been created\r\nor been moved out of Incoming.\r\nThe following information may help to resolve the situation:\r\n\r\nThe following packages have unmet dependencies:\r\n"
+    ],
+    [
+      0.000035,
+      " asciinema : Depends: python-requests (\u003e= 1.1.0) but it is not going to be installed\r\n"
+    ],
+    [
+      0.049599,
+      "E: Unable to correct problems, you have held broken packages.\r\n"
+    ],
+    [
+      0.003828,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:17:08]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      1.764229,
+      "s"
+    ],
+    [
+      0.120774,
+      "u"
+    ],
+    [
+      0.057171,
+      "d"
+    ],
+    [
+      0.108721,
+      "o"
+    ],
+    [
+      0.114440,
+      " "
+    ],
+    [
+      0.943843,
+      "a"
+    ],
+    [
+      0.062065,
+      "p"
+    ],
+    [
+      0.143921,
+      "t"
+    ],
+    [
+      0.088113,
+      "-"
+    ],
+    [
+      0.188756,
+      "g"
+    ],
+    [
+      0.035782,
+      "e"
+    ],
+    [
+      0.142456,
+      "t"
+    ],
+    [
+      0.157279,
+      " "
+    ],
+    [
+      0.088367,
+      "i"
+    ],
+    [
+      0.467961,
+      "n"
+    ],
+    [
+      0.218333,
+      "s"
+    ],
+    [
+      0.229970,
+      "t"
+    ],
+    [
+      0.094450,
+      "a"
+    ],
+    [
+      0.104552,
+      "l"
+    ],
+    [
+      0.151825,
+      "l"
+    ],
+    [
+      0.169309,
+      " "
+    ],
+    [
+      0.199902,
+      "p"
+    ],
+    [
+      0.595183,
+      "th"
+    ],
+    [
+      0.936548,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.562354,
+      "\u0008\u001b[Ky"
+    ],
+    [
+      0.067252,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.391370,
+      "y"
+    ],
+    [
+      0.327754,
+      "t"
+    ],
+    [
+      0.122604,
+      "h"
+    ],
+    [
+      0.030724,
+      "o"
+    ],
+    [
+      0.101113,
+      "n"
+    ],
+    [
+      0.281806,
+      "-"
+    ],
+    [
+      0.444049,
+      "r"
+    ],
+    [
+      0.059313,
+      "e"
+    ],
+    [
+      0.211319,
+      "q"
+    ],
+    [
+      0.071299,
+      "u"
+    ],
+    [
+      0.160238,
+      "e"
+    ],
+    [
+      0.060670,
+      "s"
+    ],
+    [
+      0.170921,
+      "t"
+    ],
+    [
+      0.107062,
+      "s"
+    ],
+    [
+      0.188658,
+      "\r\n"
+    ],
+    [
+      0.033344,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.010823,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000182,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.016931,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.059838,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.223765,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000066,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.008117,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.335242,
+      "The following extra packages will be installed:\r\n  python-gevent python-greenlet\r\n"
+    ],
+    [
+      0.002711,
+      "Suggested packages:\r\n  python-gevent-doc python-gevent-dbg python-greenlet-doc python-greenlet-dev python-greenlet-dbg\r\n"
+    ],
+    [
+      0.004424,
+      "The following NEW packages will be installed:\r\n  python-gevent python-greenlet python-requests\r\n"
+    ],
+    [
+      0.017121,
+      "0 upgraded, 3 newly installed, 0 to remove and 329 not upgraded.\r\n"
+    ],
+    [
+      0.025255,
+      "Need to get 192 kB of archives.\r\nAfter this operation, 804 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000016,
+      "Do you want to continue [Y/n]? "
+    ],
+    [
+      1.304194,
+      "y"
+    ],
+    [
+      0.082444,
+      "\r\n"
+    ],
+    [
+      0.008714,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.109408,
+      "\r            \rGet:1 http://mirrors.aliyun.com/ubuntu/ precise/universe python-requests all 0.8.2-1 [49.0 kB]\r\n\r            \r7% [1 python-requests 14.2 kB/49.0 kB 29%]"
+    ],
+    [
+      0.097147,
+      "\r                                          \r26% [Waiting for headers]\r                         \rGet:2 http://mirrors.aliyun.com/ubuntu/ precise-updates/main python-greenlet i386 0.3.1-1ubuntu5.1 [15.8 kB]\r\n\r                         \r27% [2 python-greenlet 2,532 B/15.8 kB 16%]"
+    ],
+    [
+      0.036909,
+      "\r                                           \r34% [Waiting for headers]\r                         \rGet:3 http://mirrors.aliyun.com/ubuntu/ precise/universe python-gevent i386 0.13.6-1ubuntu1 [127 kB]\r\n\r                         \r38% [3 python-gevent 8,176 B/127 kB 6%]"
+    ],
+    [
+      0.270181,
+      "\r                                       \r100% [Working]\r              \rFetched 192 kB in 0s (374 kB/s)\r\n"
+    ],
+    [
+      0.600325,
+      "Selecting previously unselected package python-requests.\r\n(Reading database ... "
+    ],
+    [
+      0.014159,
+      "\r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%"
+    ],
+    [
+      0.012938,
+      "\r(Reading database ... 60%"
+    ],
+    [
+      0.025832,
+      "\r(Reading database ... 65%"
+    ],
+    [
+      0.073871,
+      "\r(Reading database ... 70%"
+    ],
+    [
+      0.013582,
+      "\r(Reading database ... 75%"
+    ],
+    [
+      0.027120,
+      "\r(Reading database ... 80%"
+    ],
+    [
+      0.041445,
+      "\r(Reading database ... 85%"
+    ],
+    [
+      0.153284,
+      "\r(Reading database ... 90%"
+    ],
+    [
+      0.092732,
+      "\r(Reading database ... 95%"
+    ],
+    [
+      0.048141,
+      "\r(Reading database ... 100%\r(Reading database ... 160861 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.013869,
+      "Unpacking python-requests (from .../python-requests_0.8.2-1_all.deb) ...\r\n"
+    ],
+    [
+      0.145098,
+      "Selecting previously unselected package python-greenlet.\r\n"
+    ],
+    [
+      0.038671,
+      "Unpacking python-greenlet (from .../python-greenlet_0.3.1-1ubuntu5.1_i386.deb) ...\r\n"
+    ],
+    [
+      0.091599,
+      "Selecting previously unselected package python-gevent.\r\n"
+    ],
+    [
+      0.038835,
+      "Unpacking python-gevent (from .../python-gevent_0.13.6-1ubuntu1_i386.deb) ...\r\n"
+    ],
+    [
+      0.786198,
+      "Setting up python-requests (0.8.2-1) ...\r\n"
+    ],
+    [
+      0.301113,
+      "Setting up python-greenlet (0.3.1-1ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.013291,
+      "Setting up python-gevent (0.13.6-1ubuntu1) ...\r\n"
+    ],
+    [
+      1.449412,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:17:25]\r\r\n\u001b[32m$ \u001b[m"
+    ],
+    [
+      0.833678,
+      "sudo apt-get install python-requests"
+    ],
+    [
+      0.144621,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[6Pasciinema"
+    ],
+    [
+      0.239184,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[4Peasy_install requests"
+    ],
+    [
+      0.522902,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Capt-get install asciinema"
+    ],
+    [
+      0.547222,
+      "\r\n"
+    ],
+    [
+      0.031565,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.010897,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.015924,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.060384,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.225588,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.001787,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.005587,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.267563,
+      "Some packages could not be installed. This may mean that you have\r\nrequested an impossible situation or if you are using the unstable\r\ndistribution that some required packages have not yet been created\r\nor been moved out of Incoming.\r\nThe following information may help to resolve the situation:\r\n\r\nThe following packages have unmet dependencies:"
+    ],
+    [
+      0.007544,
+      "\r\n asciinema : Depends: python-requests (\u003e= 1.1.0) but 0.8.2-1 is to be installed\r\n"
+    ],
+    [
+      0.030753,
+      "E: Unable to correct problems, you have held broken packages.\r\n"
+    ],
+    [
+      0.000451,
+      "\u001b[32mxelz\u001b[m@\u001b[31mubuntu: \u001b[34m/tmp/ipip \u001b[33m[11:17:28]\r\r\n"
+    ],
+    [
+      0.000635,
+      "\u001b[32m$ \u001b[m"
+    ],
+    [
+      33.014799,
+      "exit\r\n"
+    ]
+  ]
+}
