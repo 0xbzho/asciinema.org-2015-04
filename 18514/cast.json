@@ -1,0 +1,3686 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 159.400899,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "linux",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.041849,
+      "root@debian-filip-01:/tmp# "
+    ],
+    [
+      5.855817,
+      "l"
+    ],
+    [
+      0.104477,
+      "s"
+    ],
+    [
+      0.071120,
+      " "
+    ],
+    [
+      0.129630,
+      "-"
+    ],
+    [
+      0.116697,
+      "a"
+    ],
+    [
+      0.075294,
+      "l"
+    ],
+    [
+      0.189821,
+      "\r\n"
+    ],
+    [
+      0.013293,
+      "insgesamt 50628"
+    ],
+    [
+      0.002691,
+      "\r\n"
+    ],
+    [
+      0.003086,
+      "drwxrwxrwt  8 root root     4096 Apr  8 17:13 ."
+    ],
+    [
+      0.003889,
+      "\r\n"
+    ],
+    [
+      0.002809,
+      "drwxr-xr-x 22 root root     4096 Apr  8 11:44 .."
+    ],
+    [
+      0.002440,
+      "\r\n"
+    ],
+    [
+      0.002476,
+      "dr-xr-xr-x  2 root root     4096 Apr  8 13:46 32Bit"
+    ],
+    [
+      0.002185,
+      "\r\n"
+    ],
+    [
+      0.002278,
+      "dr-xr-xr-x  2 root root     4096 Apr  8 13:46 64Bit"
+    ],
+    [
+      0.003150,
+      "\r\n"
+    ],
+    [
+      0.002514,
+      "-rw-------  1 root root        0 Apr  8 17:13 asciicast-721258671"
+    ],
+    [
+      0.001164,
+      "\r\n"
+    ],
+    [
+      0.000958,
+      "-r-xr-xr-x  1 root root      647 Apr  8 13:46 AUTORUN.INF"
+    ],
+    [
+      0.002022,
+      "\r\n"
+    ],
+    [
+      0.002468,
+      "-r-xr-xr-x  1 root root     6966 Apr  8 13:46 autorun.sh"
+    ],
+    [
+      0.002180,
+      "\r\n"
+    ],
+    [
+      0.001656,
+      "dr-xr-xr-x  2 root root     4096 Apr  8 13:46 cert"
+    ],
+    [
+      0.002452,
+      "\r\n"
+    ],
+    [
+      0.000975,
+      "drwxrwxrwt  2 root root     4096 Apr  8 13:42 .ICE-unix"
+    ],
+    [
+      0.003405,
+      "\r\n"
+    ],
+    [
+      0.002896,
+      "dr-xr-xr-x  2 root root     4096 Apr  8 13:46 OS2"
+    ],
+    [
+      0.002433,
+      "\r\n"
+    ],
+    [
+      0.001121,
+      "-r-xr-xr-x  1 root root     5523 Apr  8 13:46 runasroot.sh"
+    ],
+    [
+      0.001795,
+      "\r\n"
+    ],
+    [
+      0.001923,
+      "-r-xr-xr-x  1 root root  7095757 Apr  8 13:46 VBoxLinuxAdditions.run"
+    ],
+    [
+      0.002698,
+      "\r\n"
+    ],
+    [
+      0.003344,
+      "-r-xr-xr-x  1 root root 16239104 Apr  8 13:46 VBoxSolarisAdditions.pkg"
+    ],
+    [
+      0.001916,
+      "\r\n"
+    ],
+    [
+      0.002116,
+      "-r-xr-xr-x  1 root root 17367512 Apr  8 13:46 VBoxWindowsAdditions-amd64.exe"
+    ],
+    [
+      0.002621,
+      "\r\n"
+    ],
+    [
+      0.001889,
+      "-r-xr-xr-x  1 root root   312384 Apr  8 13:46 VBoxWindowsAdditions.exe"
+    ],
+    [
+      0.001714,
+      "\r\n"
+    ],
+    [
+      0.000969,
+      "-r-xr-xr-x  1 root root 10762680 Apr  8 13:46 VBoxWindowsAdditions-x86.exe"
+    ],
+    [
+      0.001652,
+      "\r\n"
+    ],
+    [
+      0.003940,
+      "drwxrwxrwt  2 root root     4096 Apr  8 13:42 .X11-unix"
+    ],
+    [
+      0.002602,
+      "\r\n"
+    ],
+    [
+      0.005001,
+      "root@debian-filip-01:/tmp# "
+    ],
+    [
+      3.181052,
+      "dc"
+    ],
+    [
+      0.474053,
+      " "
+    ],
+    [
+      0.621620,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175857,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.164059,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.117548,
+      "c"
+    ],
+    [
+      0.034137,
+      "d"
+    ],
+    [
+      0.110026,
+      " "
+    ],
+    [
+      0.757267,
+      "/"
+    ],
+    [
+      0.599893,
+      "e"
+    ],
+    [
+      0.099029,
+      "t"
+    ],
+    [
+      0.121128,
+      "c/"
+    ],
+    [
+      0.226367,
+      "a"
+    ],
+    [
+      0.088005,
+      "s"
+    ],
+    [
+      0.167435,
+      "\u0007"
+    ],
+    [
+      0.834091,
+      "t"
+    ],
+    [
+      0.064665,
+      "e"
+    ],
+    [
+      0.222317,
+      "r"
+    ],
+    [
+      0.582265,
+      "i"
+    ],
+    [
+      0.360468,
+      "s"
+    ],
+    [
+      0.602703,
+      "k"
+    ],
+    [
+      0.241670,
+      "\r\nbash: cd: /etc/asterisk: Datei oder Verzeichnis nicht gefunden"
+    ],
+    [
+      0.004107,
+      "\r\n"
+    ],
+    [
+      0.003209,
+      "root@debian-filip-01:/tmp# "
+    ],
+    [
+      1.744771,
+      "a"
+    ],
+    [
+      0.123907,
+      "p"
+    ],
+    [
+      0.074650,
+      "t"
+    ],
+    [
+      0.179141,
+      "-"
+    ],
+    [
+      0.196482,
+      "g"
+    ],
+    [
+      0.104555,
+      "e"
+    ],
+    [
+      0.121962,
+      "t"
+    ],
+    [
+      0.140181,
+      " "
+    ],
+    [
+      0.099184,
+      "i"
+    ],
+    [
+      0.115439,
+      "s"
+    ],
+    [
+      0.011223,
+      "n"
+    ],
+    [
+      0.151002,
+      "t"
+    ],
+    [
+      0.217242,
+      "a"
+    ],
+    [
+      0.108943,
+      "l"
+    ],
+    [
+      0.356177,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.169005,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149472,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.110147,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.155588,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.622666,
+      "n"
+    ],
+    [
+      0.091400,
+      "s"
+    ],
+    [
+      0.172452,
+      "t"
+    ],
+    [
+      0.204336,
+      "a"
+    ],
+    [
+      0.088802,
+      "l"
+    ],
+    [
+      0.141098,
+      "l"
+    ],
+    [
+      0.125794,
+      " "
+    ],
+    [
+      0.070853,
+      "a"
+    ],
+    [
+      0.111846,
+      "s"
+    ],
+    [
+      0.235697,
+      "t"
+    ],
+    [
+      0.193037,
+      "i"
+    ],
+    [
+      0.051068,
+      "e"
+    ],
+    [
+      0.073215,
+      "r"
+    ],
+    [
+      0.526146,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.202257,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.189800,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.137139,
+      "e"
+    ],
+    [
+      0.062711,
+      "r"
+    ],
+    [
+      0.613392,
+      "i"
+    ],
+    [
+      0.068942,
+      "s"
+    ],
+    [
+      0.093474,
+      "k"
+    ],
+    [
+      0.498853,
+      "\r\n"
+    ],
+    [
+      0.025716,
+      "\rPaketlisten werden gelesen... 0%\r"
+    ],
+    [
+      0.016067,
+      "\rPaketlisten werden gelesen... 100%\r"
+    ],
+    [
+      0.003268,
+      "\rPaketlisten werden gelesen... Fertig\r"
+    ],
+    [
+      0.003244,
+      "\r\n"
+    ],
+    [
+      0.028249,
+      "\rAbhängigkeitsbaum wird aufgebaut.... 0%\r"
+    ],
+    [
+      0.003760,
+      "\rAbhängigkeitsbaum wird aufgebaut.... 0%\r"
+    ],
+    [
+      0.040054,
+      "\rAbhängigkeitsbaum wird aufgebaut.... 50%\r"
+    ],
+    [
+      0.003703,
+      "\rAbhängigkeitsbaum wird aufgebaut.... 50%\r"
+    ],
+    [
+      0.116237,
+      "\rAbhängigkeitsbaum wird aufgebaut.       \r"
+    ],
+    [
+      0.003334,
+      "\r\n"
+    ],
+    [
+      0.003297,
+      "\rStatusinformationen werden eingelesen.... 0%\r"
+    ],
+    [
+      0.004301,
+      "\rStatusinformationen werden eingelesen.... 0%\r"
+    ],
+    [
+      0.007049,
+      "\rStatusinformationen werden eingelesen.... Fertig\r"
+    ],
+    [
+      0.004163,
+      "\r\n"
+    ],
+    [
+      0.115889,
+      "Die folgenden zusätzlichen Pakete werden installiert:"
+    ],
+    [
+      0.003939,
+      "\r\n"
+    ],
+    [
+      0.002994,
+      "  asterisk-config asterisk-core-sounds-en asterisk-core-sounds-en-gsm"
+    ],
+    [
+      0.003853,
+      "\r\n"
+    ],
+    [
+      0.002510,
+      "  asterisk-modules asterisk-moh-opsound-gsm asterisk-voicemail autopoint"
+    ],
+    [
+      0.002517,
+      "\r\n"
+    ],
+    [
+      0.003376,
+      "  build-essential debhelper dpkg-dev freetds-common g++ g++-4.7 gettext git"
+    ],
+    [
+      0.004187,
+      "\r\n"
+    ],
+    [
+      0.003386,
+      "  git-man html2text intltool-debian libalgorithm-diff-perl"
+    ],
+    [
+      0.004311,
+      "\r\n"
+    ],
+    [
+      0.004114,
+      "  libalgorithm-diff-xs-perl libalgorithm-merge-perl libcroco3 libcurl3-gnutls"
+    ],
+    [
+      0.004357,
+      "\r\n"
+    ],
+    [
+      0.003712,
+      "  libdpkg-perl liberror-perl libfile-fcntllock-perl libflac8 libgettextpo0"
+    ],
+    [
+      0.003508,
+      "\r\n"
+    ],
+    [
+      0.004419,
+      "  libgmime-2.6-0 libgsm1 libical0 libiksemel3 libjack-jackd2-0 liblua5.1-0"
+    ],
+    [
+      0.004349,
+      "\r\n"
+    ],
+    [
+      0.003272,
+      "  libmail-sendmail-perl libneon27-gnutls libodbc1 libogg0 libopencore-amrnb0"
+    ],
+    [
+      0.003346,
+      "\r\n"
+    ],
+    [
+      0.003169,
+      "  libopencore-amrwb0 libpq5 libradiusclient-ng2 libresample1 libsaclm3"
+    ],
+    [
+      0.004102,
+      "\r\n"
+    ],
+    [
+      0.005071,
+      "  libsaevt3 libsamplerate0 libsndfile1 libsox-fmt-alsa libsox-fmt-base libsox2"
+    ],
+    [
+      0.003223,
+      "\r\n"
+    ],
+    [
+      0.003910,
+      "  libspandsp2 libspeex1 libspeexdsp1 libsqlite0 libsrtp0 libstdc++6-4.7-dev"
+    ],
+    [
+      0.003390,
+      "\r\n"
+    ],
+    [
+      0.003888,
+      "  libsybdb5 libsys-hostname-long-perl libunistring0 libvorbis0a libvorbisenc2"
+    ],
+    [
+      0.005151,
+      "\r\n"
+    ],
+    [
+      0.003061,
+      "  libvorbisfile3 libvpb0 libwavpack1 module-assistant po-debconf rsync sox"
+    ],
+    [
+      0.002942,
+      "\r\n"
+    ],
+    [
+      0.001253,
+      "  vpb-driver-source"
+    ],
+    [
+      0.003836,
+      "\r\n"
+    ],
+    [
+      0.005359,
+      "Vorgeschlagene Pakete:"
+    ],
+    [
+      0.003817,
+      "\r\n"
+    ],
+    [
+      0.003153,
+      "  asterisk-doc asterisk-dev asterisk-ooh323 asterisk-dahdi dh-make"
+    ],
+    [
+      0.004105,
+      "\r\n"
+    ],
+    [
+      0.005035,
+      "  debian-keyring g++-multilib g++-4.7-multilib gcc-4.7-doc libstdc++6-4.7-dbg"
+    ],
+    [
+      0.003754,
+      "\r\n"
+    ],
+    [
+      0.003811,
+      "  gettext-doc git-daemon-run git-daemon-sysvinit git-doc git-el git-arch"
+    ],
+    [
+      0.004543,
+      "\r\n"
+    ],
+    [
+      0.004111,
+      "  git-cvs git-svn git-email git-gui gitk gitweb jackd2 libmyodbc"
+    ],
+    [
+      0.003432,
+      "\r\n"
+    ],
+    [
+      0.003827,
+      "  odbc-postgresql tdsodbc unixodbc-bin libsox-fmt-all speex srtp-utils"
+    ],
+    [
+      0.004119,
+      "\r\n"
+    ],
+    [
+      0.004400,
+      "  libstdc++6-4.7-doc vpb-utils libmail-box-perl"
+    ],
+    [
+      0.004141,
+      "\r\n"
+    ],
+    [
+      0.005441,
+      "Die folgenden NEUEN Pakete werden installiert:"
+    ],
+    [
+      0.003940,
+      "\r\n"
+    ],
+    [
+      0.005154,
+      "  asterisk asterisk-config asterisk-core-sounds-en asterisk-core-sounds-en-gsm"
+    ],
+    [
+      0.003170,
+      "\r\n"
+    ],
+    [
+      0.004130,
+      "  asterisk-modules asterisk-moh-opsound-gsm asterisk-voicemail autopoint"
+    ],
+    [
+      0.003276,
+      "\r\n"
+    ],
+    [
+      0.004239,
+      "  build-essential debhelper dpkg-dev freetds-common g++ g++-4.7 gettext git"
+    ],
+    [
+      0.004266,
+      "\r\n"
+    ],
+    [
+      0.003279,
+      "  git-man html2text intltool-debian libalgorithm-diff-perl"
+    ],
+    [
+      0.003908,
+      "\r\n"
+    ],
+    [
+      0.004190,
+      "  libalgorithm-diff-xs-perl libalgorithm-merge-perl libcroco3 libcurl3-gnutls"
+    ],
+    [
+      0.004292,
+      "\r\n"
+    ],
+    [
+      0.003423,
+      "  libdpkg-perl liberror-perl libfile-fcntllock-perl libflac8 libgettextpo0"
+    ],
+    [
+      0.002439,
+      "\r\n"
+    ],
+    [
+      0.003429,
+      "  libgmime-2.6-0 libgsm1 libical0 libiksemel3 libjack-jackd2-0 liblua5.1-0"
+    ],
+    [
+      0.004098,
+      "\r\n"
+    ],
+    [
+      0.004104,
+      "  libmail-sendmail-perl libneon27-gnutls libodbc1 libogg0 libopencore-amrnb0"
+    ],
+    [
+      0.003653,
+      "\r\n"
+    ],
+    [
+      0.003369,
+      "  libopencore-amrwb0 libpq5 libradiusclient-ng2 libresample1 libsaclm3"
+    ],
+    [
+      0.005757,
+      "\r\n"
+    ],
+    [
+      0.001351,
+      "  libsaevt3 libsamplerate0 libsndfile1 libsox-fmt-alsa libsox-fmt-base libsox2"
+    ],
+    [
+      0.001369,
+      "\r\n"
+    ],
+    [
+      0.001361,
+      "  libspandsp2 libspeex1 libspeexdsp1 libsqlite0 libsrtp0 libstdc++6-4.7-dev"
+    ],
+    [
+      0.001327,
+      "\r\n"
+    ],
+    [
+      0.003930,
+      "  libsybdb5 libsys-hostname-long-perl libunistring0 libvorbis0a libvorbisenc2"
+    ],
+    [
+      0.002605,
+      "\r\n"
+    ],
+    [
+      0.004561,
+      "  libvorbisfile3 libvpb0 libwavpack1 module-assistant po-debconf rsync sox"
+    ],
+    [
+      0.003887,
+      "\r\n"
+    ],
+    [
+      0.002990,
+      "  vpb-driver-source"
+    ],
+    [
+      0.003015,
+      "\r\n"
+    ],
+    [
+      0.012704,
+      "0 aktualisiert, 70 neu installiert, 0 zu entfernen und 0 nicht aktualisiert."
+    ],
+    [
+      0.003969,
+      "\r\n"
+    ],
+    [
+      0.038607,
+      "Es müssen 40,8 MB an Archiven heruntergeladen werden."
+    ],
+    [
+      0.004624,
+      "\r\n"
+    ],
+    [
+      0.003367,
+      "Nach dieser Operation werden 88,1 MB Plattenplatz zusätzlich benutzt."
+    ],
+    [
+      0.004559,
+      "\r\n"
+    ],
+    [
+      0.005728,
+      "Möchten Sie fortfahren [J/n]? "
+    ],
+    [
+      0.469425,
+      "\r\n"
+    ],
+    [
+      0.033785,
+      "\r\r0% [Wird verarbeitet]"
+    ],
+    [
+      0.087327,
+      "\r                     \rHolen: 1 http://security.debian.org/ wheezy/updates/main libcurl3-gnutls i386 7.26.0-1+wheezy12 [326 kB]\r\n\r                     \r0% [Warten auf Kopfzeilen] [1 libcurl3-gnutls 0 B/326 kB 0%]"
+    ],
+    [
+      0.008162,
+      "\r                                                            \rHolen: 2 http://ftp.de.debian.org/debian/ wheezy/main libcroco3 i386 0.6.6-2 [133 kB]"
+    ],
+    [
+      0.003232,
+      "\r\n"
+    ],
+    [
+      0.003864,
+      "\r                                                            \r0% [2 libcroco3 0 B/133 kB 0%] [1 libcurl3-gnutls 0 B/326 kB 0%]"
+    ],
+    [
+      0.119524,
+      "\r                                                                \r1% [1 libcurl3-gnutls 100 kB/326 kB 31%]"
+    ],
+    [
+      0.044571,
+      "\r                                        \rHolen: 3 http://ftp.de.debian.org/debian/ wheezy/main libogg0 i386 1.3.0-4 [20,6 kB]\r\n\r                                        \r1% [3 libogg0 0 B/20,6 kB 0%] [1 libcurl3-gnutls 227 kB/326 kB 70%]"
+    ],
+    [
+      0.015930,
+      "\r                                                                   \r1% [1 libcurl3-gnutls 227 kB/326 kB 70%]"
+    ],
+    [
+      0.031630,
+      "\r                                        \r1% [Warten auf Kopfzeilen]"
+    ],
+    [
+      0.013011,
+      "\r                          \rHolen: 4 http://ftp.de.debian.org/debian/ wheezy/main libflac8 i386 1.2.1-6+deb7u1 [159 kB]"
+    ],
+    [
+      0.005932,
+      "\r\n"
+    ],
+    [
+      0.003296,
+      "\r                          \r1% [4 libflac8 42,5 kB/159 kB 27%] [Warten auf Kopfzeilen]"
+    ],
+    [
+      0.024357,
+      "\r                                                          \rHolen: 5 http://security.debian.org/ wheezy/updates/main libpq5 i386 9.1.15-0+deb7u1 [138 kB]"
+    ],
+    [
+      0.005241,
+      "\r\n"
+    ],
+    [
+      0.002659,
+      "\r                                                          \r1% [4 libflac8 48,0 kB/159 kB 30%] [5 libpq5 36,1 kB/138 kB 26%]"
+    ],
+    [
+      0.087461,
+      "\r                                                                \r2% [5 libpq5 130 kB/138 kB 94%]"
+    ],
+    [
+      0.005888,
+      "\r                               \r2% [Wird verarbeitet]"
+    ],
+    [
+      0.043423,
+      "\r                     \rHolen: 6 http://ftp.de.debian.org/debian/ wheezy/main libunistring0 i386 0.9.3-5 [442 kB]\r\n\r                     \r2% [6 libunistring0 0 B/442 kB 0%]"
+    ],
+    [
+      0.407330,
+      "\r                                  \r3% [Wird verarbeitet]"
+    ],
+    [
+      0.072798,
+      "\r                     \rHolen: 7 http://ftp.de.debian.org/debian/ wheezy/main libgettextpo0 i386 0.18.1.1-9 [140 kB]"
+    ],
+    [
+      0.024712,
+      "\r\n"
+    ],
+    [
+      0.003383,
+      "\r                     \r3% [7 libgettextpo0 77,0 kB/140 kB 55%]"
+    ],
+    [
+      0.057273,
+      "\r                                       \r3% [Wird verarbeitet]"
+    ],
+    [
+      0.074594,
+      "\r                     \rHolen: 8 http://ftp.de.debian.org/debian/ wheezy/main libgsm1 i386 1.0.13-4 [30,0 kB]"
+    ],
+    [
+      0.001261,
+      "\r\n\r                     \r3% [8 libgsm1 30,0 kB/30,0 kB 100%]\r                                   \r3% [Warten auf Kopfzeilen]"
+    ],
+    [
+      0.035084,
+      "\r                          \rHolen: 9 http://ftp.de.debian.org/debian/ wheezy/main libsamplerate0 i386 0.1.8-5 [1.351 kB]"
+    ],
+    [
+      0.007168,
+      "\r\n"
+    ],
+    [
+      0.027119,
+      "\r                          \r4% [9 libsamplerate0 39,7 kB/1.351 kB 3%]"
+    ],
+    [
+      0.532413,
+      "\r5% [9 libsamplerate0 628 kB/1.351 kB 46%]"
+    ],
+    [
+      0.213438,
+      "\r                                         \r7% [Wird verarbeitet]"
+    ],
+    [
+      0.045044,
+      "\r                     \rHolen: 10 http://ftp.de.debian.org/debian/ wheezy/main libjack-jackd2-0 i386 1.9.8~dfsg.4+20120529git007cdc37-5 [208 kB]"
+    ],
+    [
+      0.003949,
+      "\r\n"
+    ],
+    [
+      0.006240,
+      "\r                     \r7% [10 libjack-jackd2-0 42,5 kB/208 kB 20%]"
+    ],
+    [
+      0.061147,
+      "\r                                           \r7% [Wird verarbeitet]"
+    ],
+    [
+      0.043026,
+      "\r                     \rHolen: 11 http://ftp.de.debian.org/debian/ wheezy/main liblua5.1-0 i386 5.1.5-4+deb7u1 [185 kB]"
+    ],
+    [
+      0.003573,
+      "\r\n"
+    ],
+    [
+      0.005622,
+      "\r                     \r7% [11 liblua5.1-0 0 B/185 kB 0%]"
+    ],
+    [
+      0.093191,
+      "\r                                 \r8% [Wird verarbeitet]"
+    ],
+    [
+      0.042426,
+      "\r                     \rHolen: 12 http://ftp.de.debian.org/debian/ wheezy/main libodbc1 i386 2.2.14p2-5 [252 kB]"
+    ],
+    [
+      0.003564,
+      "\r\n"
+    ],
+    [
+      0.002740,
+      "\r                     \r8% [12 libodbc1 0 B/252 kB 0%]"
+    ],
+    [
+      0.129349,
+      "\r                              \r8% [Wird verarbeitet]"
+    ],
+    [
+      0.045250,
+      "\r                     \rHolen: 13 http://ftp.de.debian.org/debian/ wheezy/main libopencore-amrnb0 i386 0.1.3-2 [103 kB]"
+    ],
+    [
+      0.001186,
+      "\r\n\r                     \r8% [13 libopencore-amrnb0 0 B/103 kB 0%]"
+    ],
+    [
+      0.066430,
+      "\r                                        \r9% [Wird verarbeitet]"
+    ],
+    [
+      0.041803,
+      "\r                     \rHolen: 14 http://ftp.de.debian.org/debian/ wheezy/main libopencore-amrwb0 i386 0.1.3-2 [52,5 kB]\r\n\r                     \r9% [14 libopencore-amrwb0 0 B/52,5 kB 0%]"
+    ],
+    [
+      0.055949,
+      "\r                                         \r9% [Wird verarbeitet]"
+    ],
+    [
+      0.044986,
+      "\r                     \rHolen: 15 http://ftp.de.debian.org/debian/ wheezy/main libvorbis0a i386 1.3.2-1.3 [106 kB]"
+    ],
+    [
+      0.003803,
+      "\r\n"
+    ],
+    [
+      0.005813,
+      "\r                     \r9% [15 libvorbis0a 36,9 kB/106 kB 35%]"
+    ],
+    [
+      0.057281,
+      "\r                                      \r9% [Wird verarbeitet]"
+    ],
+    [
+      0.053058,
+      "\r                     \rHolen: 16 http://ftp.de.debian.org/debian/ wheezy/main libvorbisenc2 i386 1.3.2-1.3 [122 kB]"
+    ],
+    [
+      0.023285,
+      "\r\n"
+    ],
+    [
+      0.000593,
+      "\r                     \r9% [16 libvorbisenc2 0 B/122 kB 0%]"
+    ],
+    [
+      0.063991,
+      "\r                                   \r9% [Wird verarbeitet]"
+    ],
+    [
+      0.060336,
+      "\r                     \rHolen: 17 http://ftp.de.debian.org/debian/ wheezy/main libsndfile1 i386 1.0.25-5 [257 kB]"
+    ],
+    [
+      0.010396,
+      "\r\n"
+    ],
+    [
+      0.019516,
+      "\r                     \r9% [17 libsndfile1 0 B/257 kB 0%]"
+    ],
+    [
+      0.153068,
+      "\r                                 \r10% [Wird verarbeitet]"
+    ],
+    [
+      0.049134,
+      "\r                      \rHolen: 18 http://ftp.de.debian.org/debian/ wheezy/main libspeex1 i386 1.2~rc1-7 [123 kB]"
+    ],
+    [
+      0.003659,
+      "\r\n"
+    ],
+    [
+      0.003196,
+      "\r                      \r10% [18 libspeex1 41,1 kB/123 kB 33%]"
+    ],
+    [
+      0.065313,
+      "\r                                     \r10% [Wird verarbeitet]"
+    ],
+    [
+      0.045241,
+      "\r                      \rHolen: 19 http://ftp.de.debian.org/debian/ wheezy/main libspeexdsp1 i386 1.2~rc1-7 [97,3 kB]"
+    ],
+    [
+      0.013440,
+      "\r\n"
+    ],
+    [
+      0.000787,
+      "\r                      \r10% [19 libspeexdsp1 20,5 kB/97,3 kB 21%]"
+    ],
+    [
+      0.046160,
+      "\r                                         \r10% [Wird verarbeitet]"
+    ],
+    [
+      0.053526,
+      "\r                      \rHolen: 20 http://ftp.de.debian.org/debian/ wheezy/main freetds-common all 0.91-2+deb7u1 [58,4 kB]"
+    ],
+    [
+      0.032729,
+      "\r\n"
+    ],
+    [
+      0.000630,
+      "\r                      \r10% [20 freetds-common 13,3 kB/58,4 kB 23%]"
+    ],
+    [
+      0.026407,
+      "\r                                           \r11% [Wird verarbeitet]"
+    ],
+    [
+      0.057336,
+      "\r                      \rHolen: 21 http://ftp.de.debian.org/debian/ wheezy/main libsybdb5 i386 0.91-2+deb7u1 [223 kB]"
+    ],
+    [
+      0.011066,
+      "\r\n"
+    ],
+    [
+      0.006087,
+      "\r                      \r11% [21 libsybdb5 32,8 kB/223 kB 15%]"
+    ],
+    [
+      0.191582,
+      "\r                                     \r11% [Warten auf Kopfzeilen]"
+    ],
+    [
+      0.030123,
+      "\r                           \rHolen: 22 http://ftp.de.debian.org/debian/ wheezy/main libvorbisfile3 i386 1.3.2-1.3 [27,2 kB]"
+    ],
+    [
+      0.006554,
+      "\r\n"
+    ],
+    [
+      0.004506,
+      "\r                           \r11% [22 libvorbisfile3 27,2 kB/27,2 kB 100%]"
+    ],
+    [
+      0.002623,
+      "\r                                            \r11% [Warten auf Kopfzeilen]"
+    ],
+    [
+      0.032405,
+      "\r                           \rHolen: 23 http://ftp.de.debian.org/debian/ wheezy/main libwavpack1 i386 4.60.1-3 [91,3 kB]"
+    ],
+    [
+      0.006659,
+      "\r\n"
+    ],
+    [
+      0.003514,
+      "\r                           \r11% [23 libwavpack1 31,3 kB/91,3 kB 34%]"
+    ],
+    [
+      0.055052,
+      "\r                                        \r11% [Wird verarbeitet]"
+    ],
+    [
+      0.049613,
+      "\r                      \rHolen: 24 http://ftp.de.debian.org/debian/ wheezy/main asterisk-config all 1:1.8.13.1~dfsg1-3+deb7u3 [1.000 kB]\r\n\r                      \r11% [24 asterisk-config 0 B/1.000 kB 0%]"
+    ],
+    [
+      0.532241,
+      "\r                                        \r13% [24 asterisk-config 565 kB/1.000 kB 57%]"
+    ],
+    [
+      0.301109,
+      "\r                                            \r14% [Wird verarbeitet]"
+    ],
+    [
+      0.046320,
+      "\r                      \rHolen: 25 http://ftp.de.debian.org/debian/ wheezy/main libgmime-2.6-0 i386 2.6.10-1 [264 kB]"
+    ],
+    [
+      0.008210,
+      "\r\n"
+    ],
+    [
+      0.005192,
+      "\r                      \r14% [25 libgmime-2.6-0 32,8 kB/264 kB 12%]"
+    ],
+    [
+      0.240120,
+      "\r                                          \r14% [Wird verarbeitet]"
+    ],
+    [
+      0.117133,
+      "\r                      \rHolen: 26 http://ftp.de.debian.org/debian/ wheezy/main libical0 i386 0.48-2 [244 kB]"
+    ],
+    [
+      0.015309,
+      "\r\n"
+    ],
+    [
+      0.003969,
+      "\r                      \r15% [26 libical0 36,9 kB/244 kB 15%]"
+    ],
+    [
+      0.183146,
+      "\r                                    \r15% [Wird verarbeitet]"
+    ],
+    [
+      0.053810,
+      "\r                      \rHolen: 27 http://ftp.de.debian.org/debian/ wheezy/main libiksemel3 i386 1.2-4 [35,2 kB]"
+    ],
+    [
+      0.003608,
+      "\r\n"
+    ],
+    [
+      0.006664,
+      "\r                      \r15% [27 libiksemel3 35,2 kB/35,2 kB 100%]"
+    ],
+    [
+      0.003890,
+      "\r                                         \r15% [Warten auf Kopfzeilen]"
+    ],
+    [
+      0.035108,
+      "\r                           \rHolen: 28 http://ftp.de.debian.org/debian/ wheezy/main libneon27-gnutls i386 0.29.6-3 [144 kB]"
+    ],
+    [
+      0.005861,
+      "\r\n"
+    ],
+    [
+      0.004729,
+      "\r                           \r15% [28 libneon27-gnutls 38,3 kB/144 kB 27%]"
+    ],
+    [
+      0.090352,
+      "\r                                            \r16% [Wird verarbeitet]"
+    ],
+    [
+      0.056009,
+      "\r                      \rHolen: 29 http://ftp.de.debian.org/debian/ wheezy/main libradiusclient-ng2 i386 0.5.6-1.1 [38,2 kB]"
+    ],
+    [
+      0.008990,
+      "\r\n"
+    ],
+    [
+      0.021712,
+      "\r                      \r16% [29 libradiusclient-ng2 0 B/38,2 kB 0%]"
+    ],
+    [
+      0.010345,
+      "\r                                           \r16% [Wird verarbeitet]"
+    ],
+    [
+      0.058416,
+      "\r                      \rHolen: 30 http://ftp.de.debian.org/debian/ wheezy/main libresample1 i386 0.1.3-4 [11,6 kB]"
+    ],
+    [
+      0.014614,
+      "\r\n"
+    ],
+    [
+      0.006895,
+      "\r                      \r16% [30 libresample1 11,6 kB/11,6 kB 100%]"
+    ],
+    [
+      0.005355,
+      "\r                                          \r16% [Warten auf Kopfzeilen]"
+    ],
+    [
+      0.021822,
+      "\r                           \rHolen: 31 http://ftp.de.debian.org/debian/ wheezy/main libsaclm3 i386 1.1.4-4.1 [105 kB]"
+    ],
+    [
+      0.001445,
+      "\r\n"
+    ],
+    [
+      0.002469,
+      "\r                           \r16% [31 libsaclm3 0 B/105 kB 0%]"
+    ],
+    [
+      0.088058,
+      "\r                                \r16% [Wird verarbeitet]"
+    ],
+    [
+      0.043352,
+      "\r                      \rHolen: 32 http://ftp.de.debian.org/debian/ wheezy/main libsaevt3 i386 1.1.4-4.1 [114 kB]\r\n\r                      \r16% [32 libsaevt3 0 B/114 kB 0%]"
+    ],
+    [
+      0.097752,
+      "\r                                \r16% [Wird verarbeitet]                                          1.099 kB/s 31 s"
+    ],
+    [
+      0.040996,
+      "\r                                                                               \rHolen: 33 http://ftp.de.debian.org/debian/ wheezy/main libspandsp2 i386 0.0.6~pre20-3.1 [328 kB]\r\n\r16% [33 libspandsp2 0 B/328 kB 0%]                              1.099 kB/s 31 s"
+    ],
+    [
+      0.319908,
+      "\r17% [Wird verarbeitet]                                          1.099 kB/s 30 s"
+    ],
+    [
+      0.041330,
+      "\r                                                                               \rHolen: 34 http://ftp.de.debian.org/debian/ wheezy/main libsqlite0 i386 2.8.17-7 [188 kB]\r\n\r17% [34 libsqlite0 0 B/188 kB 0%]                               1.099 kB/s 30 s"
+    ],
+    [
+      0.152478,
+      "\r17% [Wird verarbeitet]                                          1.099 kB/s 30 s"
+    ],
+    [
+      0.049312,
+      "\r                                                                               \rHolen: 35 http://ftp.de.debian.org/debian/ wheezy/main libsrtp0 i386 1.4.4+20100615~dfsg-2+deb7u1 [77,0 kB]"
+    ],
+    [
+      0.005381,
+      "\r\n\r17% [35 libsrtp0 0 B/77,0 kB 0%]                                1.099 kB/s 30 s"
+    ],
+    [
+      0.052427,
+      "\r18% [Wird verarbeitet]                                          1.099 kB/s 30 s"
+    ],
+    [
+      0.064937,
+      "\r                                                                               \rHolen: 36 http://ftp.de.debian.org/debian/ wheezy/main libvpb0 i386 4.2.55-1 [201 kB]"
+    ],
+    [
+      0.027490,
+      "\r\n"
+    ],
+    [
+      0.010333,
+      "\r18% [36 libvpb0 38,3 kB/201 kB 19%]                             1.099 kB/s 30 s"
+    ],
+    [
+      0.104829,
+      "\r18% [Wird verarbeitet]                                          1.099 kB/s 30 s"
+    ],
+    [
+      0.047699,
+      "\r                                                                               \rHolen: 37 http://ftp.de.debian.org/debian/ wheezy/main asterisk-modules i386 1:1.8.13.1~dfsg1-3+deb7u3 [2.734 kB]"
+    ],
+    [
+      0.005841,
+      "\r\n"
+    ],
+    [
+      0.004946,
+      "\r18% [37 asterisk-modules 0 B/2.734 kB 0%]                       1.099 kB/s 30 s"
+    ],
+    [
+      0.507511,
+      "\r21% [37 asterisk-modules 1.064 kB/2.734 kB 39%]                 1.099 kB/s 29 s"
+    ],
+    [
+      0.504235,
+      "\r25% [Wird verarbeitet]                                          1.099 kB/s 27 s"
+    ],
+    [
+      0.042395,
+      "\r                                                                               \rHolen: 38 http://ftp.de.debian.org/debian/ wheezy/main asterisk-core-sounds-en-gsm all 1.4.22-1 [2.064 kB]"
+    ],
+    [
+      0.003544,
+      "\r\n"
+    ],
+    [
+      0.006808,
+      "\r25% [38 asterisk-core-sounds-en-gsm 41,1 kB/2.064 kB 2%]        1.099 kB/s 27 s"
+    ],
+    [
+      0.510207,
+      "\r28% [38 asterisk-core-sounds-en-gsm 1.324 kB/2.064 kB 64%]      1.099 kB/s 26 s"
+    ],
+    [
+      0.249169,
+      "\r30% [Wird verarbeitet]                                          1.099 kB/s 26 s"
+    ],
+    [
+      0.041628,
+      "\r                                                                               \rHolen: 39 http://ftp.de.debian.org/debian/ wheezy/main asterisk-core-sounds-en all 1.4.22-1 [22,1 kB]\r\n\r30% [39 asterisk-core-sounds-en 0 B/22,1 kB 0%]                 1.099 kB/s 26 s"
+    ],
+    [
+      0.005994,
+      "\r30% [Wird verarbeitet]                                          1.099 kB/s 26 s"
+    ],
+    [
+      0.044748,
+      "\r                                                                               \rHolen: 40 http://ftp.de.debian.org/debian/ wheezy/main asterisk i386 1:1.8.13.1~dfsg1-3+deb7u3 [1.759 kB]"
+    ],
+    [
+      0.006772,
+      "\r\n"
+    ],
+    [
+      0.000268,
+      "\r30% [40 asterisk 0 B/1.759 kB 0%]                               1.099 kB/s 26 s"
+    ],
+    [
+      0.509162,
+      "\r32% [40 asterisk 982 kB/1.759 kB 56%]                           1.099 kB/s 25 s"
+    ],
+    [
+      0.380311,
+      "\r34% [Wird verarbeitet]                                          1.099 kB/s 24 s"
+    ],
+    [
+      0.046613,
+      "\r                                                                               \rHolen: 41 http://ftp.de.debian.org/debian/ wheezy/main asterisk-voicemail i386 1:1.8.13.1~dfsg1-3+deb7u3 [692 kB]"
+    ],
+    [
+      0.007503,
+      "\r\n"
+    ],
+    [
+      0.003866,
+      "\r34% [41 asterisk-voicemail 43,8 kB/692 kB 6%]                   1.099 kB/s 24 s"
+    ],
+    [
+      0.401680,
+      "\r36% [Wird verarbeitet]                                          1.099 kB/s 23 s"
+    ],
+    [
+      0.043157,
+      "\r                                                                               \rHolen: 42 http://ftp.de.debian.org/debian/ wheezy/main liberror-perl all 0.17-1 [23,6 kB]\r\n\r36% [42 liberror-perl 0 B/23,6 kB 0%]                           1.099 kB/s 23 s"
+    ],
+    [
+      0.016198,
+      "\r36% [Wird verarbeitet]                                          1.099 kB/s 23 s"
+    ],
+    [
+      0.058694,
+      "\r                                                                               \rHolen: 43 http://ftp.de.debian.org/debian/ wheezy/main git-man all 1:1.7.10.4-1+wheezy1 [1.074 kB]"
+    ],
+    [
+      0.017772,
+      "\r\n"
+    ],
+    [
+      0.001529,
+      "\r36% [43 git-man 42,5 kB/1.074 kB 4%]                            1.099 kB/s 23 s"
+    ],
+    [
+      0.512611,
+      "\r38% [43 git-man 848 kB/1.074 kB 79%]                            1.099 kB/s 22 s"
+    ],
+    [
+      0.143407,
+      "\r39% [Wird verarbeitet]                                          1.099 kB/s 22 s"
+    ],
+    [
+      0.053362,
+      "\r                                                                               \rHolen: 44 http://ftp.de.debian.org/debian/ wheezy/main git i386 1:1.7.10.4-1+wheezy1 [6.564 kB]"
+    ],
+    [
+      0.005496,
+      "\r\n"
+    ],
+    [
+      0.011760,
+      "\r39% [44 git 22,2 kB/6.564 kB 0%]                                1.099 kB/s 22 s"
+    ],
+    [
+      0.519520,
+      "\r40% [44 git 644 kB/6.564 kB 10%]                                1.099 kB/s 22 s"
+    ],
+    [
+      0.515006,
+      "\r42% [44 git 1.278 kB/6.564 kB 19%]                              1.713 kB/s 13 s"
+    ],
+    [
+      0.524230,
+      "\r44% [44 git 2.003 kB/6.564 kB 31%]                              1.713 kB/s 13 s"
+    ],
+    [
+      0.510520,
+      "\r47% [44 git 3.343 kB/6.564 kB 51%]                              1.713 kB/s 12 s"
+    ],
+    [
+      0.501709,
+      "\r50% [44 git 4.777 kB/6.564 kB 73%]                              1.713 kB/s 11 s"
+    ],
+    [
+      0.506756,
+      "\r54% [44 git 6.248 kB/6.564 kB 95%]                              1.713 kB/s 10 s"
+    ],
+    [
+      0.102469,
+      "\r55% [Wird verarbeitet]                                          1.713 kB/s 10 s"
+    ],
+    [
+      0.059099,
+      "\r                                                                               \rHolen: 45 http://ftp.de.debian.org/debian/ wheezy/main autopoint all 0.18.1.1-9 [629 kB]"
+    ],
+    [
+      0.011508,
+      "\r\n"
+    ],
+    [
+      0.003163,
+      "\r55% [45 autopoint 42,5 kB/629 kB 7%]                            1.713 kB/s 10 s"
+    ],
+    [
+      0.232532,
+      "\r56% [Wird verarbeitet]                                          1.713 kB/s 10 s"
+    ],
+    [
+      0.045190,
+      "\r                                                                               \rHolen: 46 http://ftp.de.debian.org/debian/ wheezy/main libstdc++6-4.7-dev i386 4.7.2-5 [1.711 kB]"
+    ],
+    [
+      0.009960,
+      "\r\n"
+    ],
+    [
+      0.000316,
+      "\r56% [46 libstdc++6-4.7-dev 0 B/1.711 kB 0%]                     1.713 kB/s 10 s"
+    ],
+    [
+      0.499021,
+      "\r59% [46 libstdc++6-4.7-dev 1.156 kB/1.711 kB 68%]                1.713 kB/s 9 s"
+    ],
+    [
+      0.239149,
+      "\r60% [Wird verarbeitet]                                           1.713 kB/s 9 s"
+    ],
+    [
+      0.044124,
+      "\r                                                                               \rHolen: 47 http://ftp.de.debian.org/debian/ wheezy/main g++-4.7 i386 4.7.2-5 [7.786 kB]\r\n\r60% [47 g++-4.7 0 B/7.786 kB 0%]                                 1.713 kB/s 9 s"
+    ],
+    [
+      0.503747,
+      "\r63% [47 g++-4.7 993 kB/7.786 kB 13%]                             1.713 kB/s 8 s"
+    ],
+    [
+      0.509509,
+      "\r66% [47 g++-4.7 2.092 kB/7.786 kB 27%]                           1.713 kB/s 8 s"
+    ],
+    [
+      0.514587,
+      "\r69% [47 g++-4.7 3.284 kB/7.786 kB 42%]                           1.713 kB/s 7 s"
+    ],
+    [
+      0.495257,
+      "\r73% [47 g++-4.7 5.012 kB/7.786 kB 64%]                           1.713 kB/s 6 s"
+    ],
+    [
+      0.520082,
+      "\r76% [47 g++-4.7 6.293 kB/7.786 kB 81%]                           1.713 kB/s 5 s"
+    ],
+    [
+      0.516899,
+      "\r78% [47 g++-4.7 7.240 kB/7.786 kB 93%]                           2.340 kB/s 3 s"
+    ],
+    [
+      0.416829,
+      "\r80% [Wird verarbeitet]                                           2.340 kB/s 3 s"
+    ],
+    [
+      0.026832,
+      "\r                                                                               \rHolen: 48 http://ftp.de.debian.org/debian/ wheezy/main g++ i386 4:4.7.2-1 [1.372 B]"
+    ],
+    [
+      0.003410,
+      "\r\n"
+    ],
+    [
+      0.002927,
+      "\r80% [Warten auf Kopfzeilen]                                      2.340 kB/s 3 s"
+    ],
+    [
+      0.035022,
+      "\r                                                                               \rHolen: 49 http://ftp.de.debian.org/debian/ wheezy/main libdpkg-perl all 1.16.15 [958 kB]\r\n\r80% [49 libdpkg-perl 0 B/958 kB 0%]                              2.340 kB/s 3 s"
+    ],
+    [
+      0.504874,
+      "\r81% [49 libdpkg-perl 592 kB/958 kB 62%]                          2.340 kB/s 3 s"
+    ],
+    [
+      0.289941,
+      "\r82% [Wird verarbeitet]                                           2.340 kB/s 3 s"
+    ],
+    [
+      0.132328,
+      "\r                                                                               \rHolen: 50 http://ftp.de.debian.org/debian/ wheezy/main dpkg-dev all 1.16.15 [1.356 kB]"
+    ],
+    [
+      0.009947,
+      "\r\n\r82% [50 dpkg-dev 42,5 kB/1.356 kB 3%]                            2.340 kB/s 3 s"
+    ],
+    [
+      0.507257,
+      "\r84% [50 dpkg-dev 654 kB/1.356 kB 48%]                            2.340 kB/s 2 s"
+    ],
+    [
+      0.507784,
+      "\r85% [50 dpkg-dev 1.294 kB/1.356 kB 95%]                          2.340 kB/s 2 s"
+    ],
+    [
+      0.042837,
+      "\r85% [Wird verarbeitet]                                           2.340 kB/s 2 s"
+    ],
+    [
+      0.044245,
+      "\r                                                                               \rHolen: 51 http://ftp.de.debian.org/debian/ wheezy/main build-essential i386 11.5 [7.190 B]"
+    ],
+    [
+      0.006435,
+      "\r\n"
+    ],
+    [
+      0.006881,
+      "\r85% [51 build-essential 0 B/7.190 B 0%]                          2.340 kB/s 2 s"
+    ],
+    [
+      0.008520,
+      "\r85% [Wird verarbeitet]                                           2.340 kB/s 2 s"
+    ],
+    [
+      0.044882,
+      "\r                                                                               \rHolen: 52 http://ftp.de.debian.org/debian/ wheezy/main html2text i386 1.3.2a-15 [101 kB]\r\n\r85% [52 html2text 0 B/101 kB 0%]                                 2.340 kB/s 2 s"
+    ],
+    [
+      0.067887,
+      "\r86% [Wird verarbeitet]                                           2.340 kB/s 2 s"
+    ],
+    [
+      0.056108,
+      "\r                                                                               \rHolen: 53 http://ftp.de.debian.org/debian/ wheezy/main gettext i386 0.18.1.1-9 [1.916 kB]"
+    ],
+    [
+      0.006450,
+      "\r\n"
+    ],
+    [
+      0.004591,
+      "\r86% [53 gettext 38,3 kB/1.916 kB 2%]                             2.340 kB/s 2 s"
+    ],
+    [
+      0.507532,
+      "\r87% [53 gettext 553 kB/1.916 kB 29%]                             2.340 kB/s 2 s"
+    ],
+    [
+      0.518672,
+      "\r88% [53 gettext 1.057 kB/1.916 kB 55%]                           2.340 kB/s 2 s"
+    ],
+    [
+      0.539974,
+      "\r90% [53 gettext 1.686 kB/1.916 kB 88%]                           2.340 kB/s 1 s"
+    ],
+    [
+      0.075745,
+      "\r90% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.045656,
+      "\r                                                                               \rHolen: 54 http://ftp.de.debian.org/debian/ wheezy/main intltool-debian all 0.35.0+20060710.1 [30,8 kB]"
+    ],
+    [
+      0.014069,
+      "\r\n"
+    ],
+    [
+      0.004253,
+      "\r90% [54 intltool-debian 25,9 kB/30,8 kB 84%]                     2.340 kB/s 1 s"
+    ],
+    [
+      0.012885,
+      "\r90% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.041503,
+      "\r                                                                               \rHolen: 55 http://ftp.de.debian.org/debian/ wheezy/main po-debconf all 1.0.16+nmu2 [224 kB]"
+    ],
+    [
+      0.004444,
+      "\r\n"
+    ],
+    [
+      0.005876,
+      "\r90% [55 po-debconf 41,1 kB/224 kB 18%]                           2.340 kB/s 1 s"
+    ],
+    [
+      0.111112,
+      "\r91% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.041722,
+      "\r                                                                               \rHolen: 56 http://ftp.de.debian.org/debian/ wheezy/main debhelper all 9.20120909 [705 kB]\r\n\r91% [56 debhelper 0 B/705 kB 0%]                                 2.340 kB/s 1 s"
+    ],
+    [
+      0.433333,
+      "\r93% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.071275,
+      "\r                                                                               \rHolen: 57 http://ftp.de.debian.org/debian/ wheezy/main libalgorithm-diff-perl all 1.19.02-2 [51,5 kB]"
+    ],
+    [
+      0.009798,
+      "\r\n"
+    ],
+    [
+      0.004505,
+      "\r93% [57 libalgorithm-diff-perl 48,0 kB/51,5 kB 93%]              2.340 kB/s 1 s"
+    ],
+    [
+      0.295772,
+      "\r93% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.029497,
+      "\r                                                                               \rHolen: 58 http://ftp.de.debian.org/debian/ wheezy/main libalgorithm-diff-xs-perl i386 0.04-2+b1 [13,3 kB]"
+    ],
+    [
+      0.003754,
+      "\r\n"
+    ],
+    [
+      0.002595,
+      "\r93% [58 libalgorithm-diff-xs-perl 2.443 B/13,3 kB 18%]           2.340 kB/s 1 s"
+    ],
+    [
+      0.057932,
+      "\r93% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.041211,
+      "\r                                                                               \rHolen: 59 http://ftp.de.debian.org/debian/ wheezy/main libalgorithm-merge-perl all 0.08-2 [13,5 kB]\r\n\r93% [59 libalgorithm-merge-perl 0 B/13,5 kB 0%]                  2.340 kB/s 1 s"
+    ],
+    [
+      0.004892,
+      "\r93% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.039104,
+      "\r                                                                               \rHolen: 60 http://ftp.de.debian.org/debian/ wheezy/main libfile-fcntllock-perl i386 0.14-2 [17,2 kB]\r\n\r93% [60 libfile-fcntllock-perl 0 B/17,2 kB 0%]                   2.340 kB/s 1 s"
+    ],
+    [
+      0.005599,
+      "\r93% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.045463,
+      "\r                                                                               \rHolen: 61 http://ftp.de.debian.org/debian/ wheezy/main libsys-hostname-long-perl all 1.4-2 [11,3 kB]\r\n\r93% [61 libsys-hostname-long-perl 0 B/11,3 kB 0%]                2.340 kB/s 1 s"
+    ],
+    [
+      0.006491,
+      "\r93% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.040747,
+      "\r                                                                               \rHolen: 62 http://ftp.de.debian.org/debian/ wheezy/main libmail-sendmail-perl all 0.79.16-1 [26,6 kB]\r\n\r93% [62 libmail-sendmail-perl 0 B/26,6 kB 0%]                    2.340 kB/s 1 s"
+    ],
+    [
+      0.007257,
+      "\r93% [Wird verarbeitet]                                           2.340 kB/s 1 s"
+    ],
+    [
+      0.042499,
+      "\r                                                                               \rHolen: 63 http://ftp.de.debian.org/debian/ wheezy/main libsox2 i386 14.4.0-3+deb7u1 [302 kB]\r\n\r93% [63 libsox2 0 B/302 kB 0%]                                   2.340 kB/s 1 s"
+    ],
+    [
+      0.267443,
+      "\r94% [Warten auf Kopfzeilen]                                      1.037 kB/s 2 s"
+    ],
+    [
+      0.036119,
+      "\r                                                                               \rHolen: 64 http://ftp.de.debian.org/debian/ wheezy/main libsox-fmt-alsa i386 14.4.0-3+deb7u1 [51,0 kB]"
+    ],
+    [
+      0.004919,
+      "\r\n"
+    ],
+    [
+      0.002244,
+      "\r94% [64 libsox-fmt-alsa 38,3 kB/51,0 kB 75%]                     1.037 kB/s 2 s"
+    ],
+    [
+      0.022967,
+      "\r94% [Warten auf Kopfzeilen]                                      1.037 kB/s 2 s"
+    ],
+    [
+      0.033078,
+      "\r                                                                               \rHolen: 65 http://ftp.de.debian.org/debian/ wheezy/main libsox-fmt-base i386 14.4.0-3+deb7u1 [72,7 kB]"
+    ],
+    [
+      0.008766,
+      "\r\n"
+    ],
+    [
+      0.001725,
+      "\r94% [65 libsox-fmt-base 38,3 kB/72,7 kB 53%]                     1.037 kB/s 2 s"
+    ],
+    [
+      0.031008,
+      "\r94% [Wird verarbeitet]                                           1.037 kB/s 2 s"
+    ],
+    [
+      0.042809,
+      "\r                                                                               \rHolen: 66 http://ftp.de.debian.org/debian/ wheezy/main module-assistant all 0.11.4 [115 kB]"
+    ],
+    [
+      0.007939,
+      "\r\n"
+    ],
+    [
+      0.015732,
+      "\r94% [66 module-assistant 0 B/115 kB 0%]                          1.037 kB/s 2 s"
+    ],
+    [
+      0.044678,
+      "\r94% [Wird verarbeitet]                                           1.037 kB/s 2 s"
+    ],
+    [
+      0.043213,
+      "\r                                                                               \rHolen: 67 http://ftp.de.debian.org/debian/ wheezy/main rsync i386 3.0.9-4 [357 kB]"
+    ],
+    [
+      0.014043,
+      "\r\n"
+    ],
+    [
+      0.002088,
+      "\r94% [67 rsync 7.961 B/357 kB 2%]                                 1.037 kB/s 2 s"
+    ],
+    [
+      0.288430,
+      "\r95% [Wird verarbeitet]                                           1.037 kB/s 1 s"
+    ],
+    [
+      0.042090,
+      "\r                                                                               \rHolen: 68 http://ftp.de.debian.org/debian/ wheezy/main sox i386 14.4.0-3+deb7u1 [140 kB]"
+    ],
+    [
+      0.004145,
+      "\r\n"
+    ],
+    [
+      0.003636,
+      "\r95% [68 sox 0 B/140 kB 0%]                                       1.037 kB/s 1 s"
+    ],
+    [
+      0.099816,
+      "\r95% [Wird verarbeitet]                                           1.037 kB/s 1 s"
+    ],
+    [
+      0.048195,
+      "\r                                                                               \rHolen: 69 http://ftp.de.debian.org/debian/ wheezy/main vpb-driver-source all 4.2.55-1 [86,5 kB]"
+    ],
+    [
+      0.018019,
+      "\r\n"
+    ],
+    [
+      0.003547,
+      "\r96% [69 vpb-driver-source 39,7 kB/86,5 kB 46%]                   1.037 kB/s 1 s"
+    ],
+    [
+      0.048921,
+      "\r96% [Wird verarbeitet]                                           1.037 kB/s 1 s"
+    ],
+    [
+      0.043141,
+      "\r                                                                               \rHolen: 70 http://ftp.de.debian.org/debian/ wheezy/main asterisk-moh-opsound-gsm all 2.03-1 [1.781 kB]\r\n\r96% [70 asterisk-moh-opsound-gsm 0 B/1.781 kB 0%]                1.037 kB/s 1 s"
+    ],
+    [
+      0.500542,
+      "\r97% [70 asterisk-moh-opsound-gsm 559 kB/1.781 kB 31%]            1.037 kB/s 1 s"
+    ],
+    [
+      0.502101,
+      "\r99% [70 asterisk-moh-opsound-gsm 1.235 kB/1.781 kB 69%]          1.037 kB/s 0 s"
+    ],
+    [
+      0.149047,
+      "\r100% [Wird verarbeitet]                                          1.037 kB/s 0 s"
+    ],
+    [
+      0.003263,
+      "\r                                                                               \r"
+    ],
+    [
+      0.004605,
+      "Es wurden 40,8 MB in 26 s geholt (1.535 kB/s)."
+    ],
+    [
+      0.004384,
+      "\r\n"
+    ],
+    [
+      0.874347,
+      "\rExtrahiere Vorlagen aus Paketen: 42%"
+    ],
+    [
+      0.353098,
+      "\rExtrahiere Vorlagen aus Paketen: 85%"
+    ],
+    [
+      0.144051,
+      "\rExtrahiere Vorlagen aus Paketen: 100%\r\n"
+    ],
+    [
+      0.079333,
+      "Vorkonfiguration der Pakete ..."
+    ],
+    [
+      0.003734,
+      "\r\n"
+    ],
+    [
+      0.170234,
+      "\u001b[1;25r\u001b[4l\u001b[?25l\u001b[?1c\u001b[0;10m\u001b[37m\u001b[40m\u001b[1;25r\u001b[H\u001b[J\u001b[1;1H\u001b[1m\u001b[37m\u001b[44m                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                      "
+    ],
+    [
+      0.002357,
+      "          \u001b[24;1H                                                                                \u001b[25;1H                                                                               \u001b[25;79H \u0008\u001b[4h \u001b[4l\u001b[1;1H"
+    ],
+    [
+      0.005475,
+      "\u001b[?25l\u001b[?1c\u001b[?25h\u001b[?0c\u001b[0;10m\u001b[37m\u001b[44mPaketkonfiguration\u001b[7;2H\u001b[30m\u001b[47m┌─────────────────────────┤ \u001b[31mKonfiguriere libvpb0\u001b[30m ├──────────────────────────┐\u001b[8;2H│ Dies ist der numerische Code fÃ¼r die Region, in der Ihr Telefonsystem    │\u001b[1m\u001b[37m\u001b[40m \u001b[9;2H\u001b[0;10m\u001b[30m\u001b[47m│ betrieben werden wird (z.B. 61 fÃ¼r Australien oder 33 fÃ¼r Frankreich).  │\u001b[1m\u001b[37m\u001b[40m \u001b[10;2H\u001b[0;10m\u001b[30m\u001b[47m│ Er wird dafÃ¼r verwandt, die Standardregionseinstellungen einzustellen,   │\u001b[1m\u001b[37m\u001b[40m \u001b[11;2H\u001b[0;10m\u001b[30m\u001b[47m│ die die Voicetronix-Telephoniehardware befolgen soll.                     │\u001b[1m\u001b[37m\u001b[40m \u001b[12;2H\u001b[0;10m\u001b[30m\u001b[47m│                                                                           │\u001b[1m\u001b[37m\u001b[40m \u001b[13;2H\u001b[0;10m\u001b[30m\u001b[47m│ ITU-T-Telefon-Code:                                                       │\u001b[1m\u001b[37m\u001b[40m \u001b[14;2H\u001b[0;10m\u001b[30m\u001b[47m│                                                                           │\u001b[1m\u001b[37m\u001b[40m \u001b[15;2H\u001b[0;10m\u001b[30m\u001b[47m│ \u001b[37m\u001b[44m49_______________________________________________________________________\u001b[30m\u001b[47m │\u001b[1m\u001b[37m\u001b[40m \u001b[16;2H\u001b[0;10m\u001b[30m\u001b[47m│                                                                           │\u001b[1m\u001b[37m\u001b[40m \u001b[17;2H\u001b[0;10m\u001b[30m\u001b[47m│                                  \u003cOk\u003e                                     │\u001b[1m\u001b[37m\u001b[40m \u001b[18;2H\u001b[0;10m\u001b[30m\u001b[47m│                                                                           │\u001b[1m\u001b[37m\u001b[40m \u001b[19;2H\u001b[0;10m\u001b[30m\u001b[47m└───────────────────────────────────────────────────────────────────────────┘\u001b[1m\u001b[37m\u001b[40m \u001b[20;3H                                                                             \u001b[15;6H"
+    ],
+    [
+      9.709049,
+      "\u001b[?25l\u001b[?1c\u001b[?25h\u001b[?0c\u001b[25;1H\u001b[0;10m\u001b[37m\u001b[40m\u001b[0;10m\u001b[39;49m\r\u001b[K\r"
+    ],
+    [
+      0.324863,
+      "Vormals nicht ausgewähltes Paket libcroco3:i386 wird gewählt."
+    ],
+    [
+      0.010338,
+      "\r\n"
+    ],
+    [
+      0.007368,
+      "(Lese Datenbank ... \r"
+    ],
+    [
+      0.020463,
+      "(Lese Datenbank ... 5%\r"
+    ],
+    [
+      0.004073,
+      "(Lese Datenbank ... 10%\r"
+    ],
+    [
+      0.005006,
+      "(Lese Datenbank ... 15%\r"
+    ],
+    [
+      0.004188,
+      "(Lese Datenbank ... 20%\r"
+    ],
+    [
+      0.003922,
+      "(Lese Datenbank ... 25%\r"
+    ],
+    [
+      0.004612,
+      "(Lese Datenbank ... 30%\r"
+    ],
+    [
+      0.004782,
+      "(Lese Datenbank ... 35%\r"
+    ],
+    [
+      0.003988,
+      "(Lese Datenbank ... 40%\r"
+    ],
+    [
+      0.003182,
+      "(Lese Datenbank ... 45%\r"
+    ],
+    [
+      0.004686,
+      "(Lese Datenbank ... 50%\r"
+    ],
+    [
+      0.004753,
+      "(Lese Datenbank ... 55%\r"
+    ],
+    [
+      0.003847,
+      "(Lese Datenbank ... 60%\r"
+    ],
+    [
+      0.003730,
+      "(Lese Datenbank ... 65%\r"
+    ],
+    [
+      0.036350,
+      "(Lese Datenbank ... 70%\r"
+    ],
+    [
+      0.011923,
+      "(Lese Datenbank ... 75%\r"
+    ],
+    [
+      0.012410,
+      "(Lese Datenbank ... 80%\r"
+    ],
+    [
+      0.011610,
+      "(Lese Datenbank ... 85%\r"
+    ],
+    [
+      0.010560,
+      "(Lese Datenbank ... 90%\r"
+    ],
+    [
+      0.010754,
+      "(Lese Datenbank ... 95%\r"
+    ],
+    [
+      0.014717,
+      "(Lese Datenbank ... 100%\r"
+    ],
+    [
+      0.004391,
+      "(Lese Datenbank ... "
+    ],
+    [
+      0.003681,
+      "51926 Dateien und Verzeichnisse sind derzeit installiert.)"
+    ],
+    [
+      0.005091,
+      "\r\n"
+    ],
+    [
+      0.010072,
+      "Entpacken von libcroco3:i386 (aus .../libcroco3_0.6.6-2_i386.deb) ..."
+    ],
+    [
+      0.005177,
+      "\t"
+    ],
+    [
+      0.006810,
+      "\r\n"
+    ],
+    [
+      0.308854,
+      "Vormals nicht ausgewähltes Paket libcurl3-gnutls:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.010093,
+      "Entpacken von libcurl3-gnutls:i386 (aus .../libcurl3-gnutls_7.26.0-1+wheezy12_i386.deb) ..."
+    ],
+    [
+      0.005811,
+      "\r\n"
+    ],
+    [
+      0.300023,
+      "Vormals nicht ausgewähltes Paket libogg0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.012092,
+      "Entpacken von libogg0:i386 (aus .../libogg0_1.3.0-4_i386.deb) ..."
+    ],
+    [
+      0.004973,
+      "\r\n"
+    ],
+    [
+      0.171906,
+      "Vormals nicht ausgewähltes Paket libflac8:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.011121,
+      "Entpacken von libflac8:i386 (aus .../libflac8_1.2.1-6+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.004045,
+      "\r\n"
+    ],
+    [
+      0.204031,
+      "Vormals nicht ausgewähltes Paket libunistring0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.011894,
+      "Entpacken von libunistring0:i386 (aus .../libunistring0_0.9.3-5_i386.deb) ..."
+    ],
+    [
+      0.004961,
+      "\r\n"
+    ],
+    [
+      0.522961,
+      "Vormals nicht ausgewähltes Paket libgettextpo0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.012872,
+      "Entpacken von libgettextpo0:i386 (aus .../libgettextpo0_0.18.1.1-9_i386.deb) ..."
+    ],
+    [
+      0.005126,
+      "\r\n"
+    ],
+    [
+      0.262213,
+      "Vormals nicht ausgewähltes Paket libgsm1:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.013959,
+      "Entpacken von libgsm1:i386 (aus .../libgsm1_1.0.13-4_i386.deb) ..."
+    ],
+    [
+      0.005101,
+      "\r\n"
+    ],
+    [
+      0.204823,
+      "Vormals nicht ausgewähltes Paket libsamplerate0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.011072,
+      "Entpacken von libsamplerate0:i386 (aus .../libsamplerate0_0.1.8-5_i386.deb) ..."
+    ],
+    [
+      0.004038,
+      "\r\n"
+    ],
+    [
+      0.637050,
+      "Vormals nicht ausgewähltes Paket libjack-jackd2-0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.013472,
+      "Entpacken von libjack-jackd2-0:i386 (aus .../libjack-jackd2-0_1.9.8~dfsg.4+20120529git007cdc37-5_i386.deb) ..."
+    ],
+    [
+      0.004782,
+      "\r\n"
+    ],
+    [
+      0.317703,
+      "Vormals nicht ausgewähltes Paket liblua5.1-0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.010981,
+      "Entpacken von liblua5.1-0:i386 (aus .../liblua5.1-0_5.1.5-4+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.004251,
+      "\r\n"
+    ],
+    [
+      0.224593,
+      "Vormals nicht ausgewähltes Paket libodbc1:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.013180,
+      "Entpacken von libodbc1:i386 (aus .../libodbc1_2.2.14p2-5_i386.deb) ..."
+    ],
+    [
+      0.003995,
+      "\r\n"
+    ],
+    [
+      0.272366,
+      "Vormals nicht ausgewähltes Paket libopencore-amrnb0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.026413,
+      "Entpacken von libopencore-amrnb0:i386 (aus .../libopencore-amrnb0_0.1.3-2_i386.deb) ...\r\n"
+    ],
+    [
+      0.256345,
+      "Vormals nicht ausgewähltes Paket libopencore-amrwb0:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.011183,
+      "Entpacken von libopencore-amrwb0:i386 (aus .../libopencore-amrwb0_0.1.3-2_i386.deb) ..."
+    ],
+    [
+      0.004332,
+      "\r\n"
+    ],
+    [
+      0.212248,
+      "Vormals nicht ausgewähltes Paket libvorbis0a:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.014224,
+      "Entpacken von libvorbis0a:i386 (aus .../libvorbis0a_1.3.2-1.3_i386.deb) ..."
+    ],
+    [
+      0.004164,
+      "\r\n"
+    ],
+    [
+      0.237654,
+      "Vormals nicht ausgewähltes Paket libvorbisenc2:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.011756,
+      "Entpacken von libvorbisenc2:i386 (aus .../libvorbisenc2_1.3.2-1.3_i386.deb) ..."
+    ],
+    [
+      0.004023,
+      "\r\n"
+    ],
+    [
+      0.292729,
+      "Vormals nicht ausgewähltes Paket libsndfile1:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.014421,
+      "Entpacken von libsndfile1:i386 (aus .../libsndfile1_1.0.25-5_i386.deb) ..."
+    ],
+    [
+      0.003861,
+      "\r\n"
+    ],
+    [
+      0.321106,
+      "Vormals nicht ausgewähltes Paket libspeex1:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.012759,
+      "Entpacken von libspeex1:i386 (aus .../libspeex1_1.2~rc1-7_i386.deb) ..."
+    ],
+    [
+      0.004485,
+      "\r\n"
+    ],
+    [
+      0.214754,
+      "Vormals nicht ausgewähltes Paket libspeexdsp1:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.013430,
+      "Entpacken von libspeexdsp1:i386 (aus .../libspeexdsp1_1.2~rc1-7_i386.deb) ..."
+    ],
+    [
+      0.003909,
+      "\r\n"
+    ],
+    [
+      0.226863,
+      "Vormals nicht ausgewähltes Paket freetds-common wird gewählt.\r\n"
+    ],
+    [
+      0.013660,
+      "Entpacken von freetds-common (aus .../freetds-common_0.91-2+deb7u1_all.deb) ..."
+    ],
+    [
+      0.005063,
+      "\r\n"
+    ],
+    [
+      0.233241,
+      "Vormals nicht ausgewähltes Paket libsybdb5:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.011958,
+      "Entpacken von libsybdb5:i386 (aus .../libsybdb5_0.91-2+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.004841,
+      "\r\n"
+    ],
+    [
+      0.239193,
+      "Vormals nicht ausgewähltes Paket libvorbisfile3:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.012845,
+      "Entpacken von libvorbisfile3:i386 (aus .../libvorbisfile3_1.3.2-1.3_i386.deb) ..."
+    ],
+    [
+      0.004377,
+      "\r\n"
+    ],
+    [
+      0.190669,
+      "Vormals nicht ausgewähltes Paket libwavpack1:i386 wird gewählt.\r\n"
+    ],
+    [
+      0.013738,
+      "Entpacken von libwavpack1:i386 (aus .../libwavpack1_4.60.1-3_i386.deb) ..."
+    ],
+    [
+      0.004732,
+      "\r\n"
+    ],
+    [
+      0.225498,
+      "Vormals nicht ausgewähltes Paket asterisk-config wird gewählt.\r\n"
+    ],
+    [
+      0.011690,
+      "Entpacken von asterisk-config (aus .../asterisk-config_1%3a1.8.13.1~dfsg1-3+deb7u3_all.deb) ..."
+    ],
+    [
+      0.003946,
+      "\r\n"
+    ],
+    [
+      1.008500,
+      "Vormals nicht ausgewähltes Paket libgmime-2.6-0 wird gewählt.\r\n"
+    ],
+    [
+      0.013121,
+      "Entpacken von libgmime-2.6-0 (aus .../libgmime-2.6-0_2.6.10-1_i386.deb) ..."
+    ],
+    [
+      0.005495,
+      "\r\n"
+    ],
+    [
+      0.405398,
+      "Vormals nicht ausgewähltes Paket libical0 wird gewählt.\r\n"
+    ],
+    [
+      0.022790,
+      "Entpacken von libical0 (aus .../libical0_0.48-2_i386.deb) ..."
+    ],
+    [
+      0.003595,
+      "\r\n"
+    ],
+    [
+      0.346391,
+      "Vormals nicht ausgewähltes Paket libiksemel3 wird gewählt.\r\n"
+    ],
+    [
+      0.011166,
+      "Entpacken von libiksemel3 (aus .../libiksemel3_1.2-4_i386.deb) ..."
+    ],
+    [
+      0.005100,
+      "\r\n"
+    ],
+    [
+      0.175113,
+      "Vormals nicht ausgewähltes Paket libneon27-gnutls wird gewählt.\r\n"
+    ],
+    [
+      0.014693,
+      "Entpacken von libneon27-gnutls (aus .../libneon27-gnutls_0.29.6-3_i386.deb) ..."
+    ],
+    [
+      0.003871,
+      "\r\n"
+    ],
+    [
+      0.244327,
+      "Vormals nicht ausgewähltes Paket libpq5 wird gewählt."
+    ],
+    [
+      0.005904,
+      "\r\n"
+    ],
+    [
+      0.038035,
+      "Entpacken von libpq5 (aus .../libpq5_9.1.15-0+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.004866,
+      "\r\n"
+    ],
+    [
+      0.324911,
+      "Vormals nicht ausgewähltes Paket libradiusclient-ng2 wird gewählt.\r\n"
+    ],
+    [
+      0.012147,
+      "Entpacken von libradiusclient-ng2 (aus .../libradiusclient-ng2_0.5.6-1.1_i386.deb) ..."
+    ],
+    [
+      0.003919,
+      "\r\n"
+    ],
+    [
+      0.195116,
+      "Vormals nicht ausgewähltes Paket libresample1 wird gewählt.\r\n"
+    ],
+    [
+      0.013198,
+      "Entpacken von libresample1 (aus .../libresample1_0.1.3-4_i386.deb) ..."
+    ],
+    [
+      0.005069,
+      "\r\n"
+    ],
+    [
+      0.161650,
+      "Vormals nicht ausgewähltes Paket libsaclm3 wird gewählt.\r\n"
+    ],
+    [
+      0.012577,
+      "Entpacken von libsaclm3 (aus .../libsaclm3_1.1.4-4.1_i386.deb) ..."
+    ],
+    [
+      0.004811,
+      "\r\n"
+    ],
+    [
+      0.190697,
+      "Vormals nicht ausgewähltes Paket libsaevt3 wird gewählt.\r\n"
+    ],
+    [
+      0.013859,
+      "Entpacken von libsaevt3 (aus .../libsaevt3_1.1.4-4.1_i386.deb) ..."
+    ],
+    [
+      0.004920,
+      "\r\n"
+    ],
+    [
+      0.197406,
+      "Vormals nicht ausgewähltes Paket libspandsp2 wird gewählt.\r\n"
+    ],
+    [
+      0.013417,
+      "Entpacken von libspandsp2 (aus .../libspandsp2_0.0.6~pre20-3.1_i386.deb) ..."
+    ],
+    [
+      0.004179,
+      "\r\n"
+    ],
+    [
+      0.366127,
+      "Vormals nicht ausgewähltes Paket libsqlite0 wird gewählt.\r\n"
+    ],
+    [
+      0.012407,
+      "Entpacken von libsqlite0 (aus .../libsqlite0_2.8.17-7_i386.deb) ..."
+    ],
+    [
+      0.004148,
+      "\r\n"
+    ],
+    [
+      0.315433,
+      "Vormals nicht ausgewähltes Paket libsrtp0 wird gewählt.\r\n"
+    ],
+    [
+      0.013587,
+      "Entpacken von libsrtp0 (aus .../libsrtp0_1.4.4+20100615~dfsg-2+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.004110,
+      "\r\n"
+    ],
+    [
+      0.238499,
+      "Vormals nicht ausgewähltes Paket libvpb0 wird gewählt.\r\n"
+    ],
+    [
+      0.011217,
+      "Entpacken von libvpb0 (aus .../libvpb0_4.2.55-1_i386.deb) ..."
+    ],
+    [
+      0.005181,
+      "\r\n"
+    ],
+    [
+      0.272445,
+      "Vormals nicht ausgewähltes Paket asterisk-modules wird gewählt."
+    ],
+    [
+      0.004952,
+      "\r\n"
+    ],
+    [
+      0.017521,
+      "Entpacken von asterisk-modules (aus .../asterisk-modules_1%3a1.8.13.1~dfsg1-3+deb7u3_i386.deb) ..."
+    ],
+    [
+      0.005489,
+      "\r\n"
+    ],
+    [
+      1.759816,
+      "Vormals nicht ausgewähltes Paket asterisk-core-sounds-en-gsm wird gewählt.\r\n"
+    ],
+    [
+      0.012352,
+      "Entpacken von asterisk-core-sounds-en-gsm (aus .../asterisk-core-sounds-en-gsm_1.4.22-1_all.deb) ..."
+    ],
+    [
+      0.003209,
+      "\r\n"
+    ],
+    [
+      2.119724,
+      "Vormals nicht ausgewähltes Paket asterisk-core-sounds-en wird gewählt.\r\n"
+    ],
+    [
+      0.013086,
+      "Entpacken von asterisk-core-sounds-en (aus .../asterisk-core-sounds-en_1.4.22-1_all.deb) ..."
+    ],
+    [
+      0.004975,
+      "\r\n"
+    ],
+    [
+      0.173973,
+      "Vormals nicht ausgewähltes Paket asterisk wird gewählt.\r\n"
+    ],
+    [
+      0.016527,
+      "Entpacken von asterisk (aus .../asterisk_1%3a1.8.13.1~dfsg1-3+deb7u3_i386.deb) ..."
+    ],
+    [
+      0.003350,
+      "\r\n"
+    ],
+    [
+      1.032262,
+      "Vormals nicht ausgewähltes Paket asterisk-voicemail wird gewählt.\r\n"
+    ],
+    [
+      0.015772,
+      "Entpacken von asterisk-voicemail (aus .../asterisk-voicemail_1%3a1.8.13.1~dfsg1-3+deb7u3_i386.deb) ..."
+    ],
+    [
+      0.004096,
+      "\r\n"
+    ],
+    [
+      0.459102,
+      "Vormals nicht ausgewähltes Paket liberror-perl wird gewählt."
+    ],
+    [
+      0.005195,
+      "\r\n"
+    ],
+    [
+      0.017400,
+      "Entpacken von liberror-perl (aus .../liberror-perl_0.17-1_all.deb) ..."
+    ],
+    [
+      0.004460,
+      "\r\n"
+    ],
+    [
+      0.193816,
+      "Vormals nicht ausgewähltes Paket git-man wird gewählt.\r\n"
+    ],
+    [
+      0.013282,
+      "Entpacken von git-man (aus .../git-man_1%3a1.7.10.4-1+wheezy1_all.deb) ..."
+    ],
+    [
+      0.004779,
+      "\r\n"
+    ],
+    [
+      1.066712,
+      "Vormals nicht ausgewähltes Paket git wird gewählt.\r\n"
+    ],
+    [
+      0.013849,
+      "Entpacken von git (aus .../git_1%3a1.7.10.4-1+wheezy1_i386.deb) ..."
+    ],
+    [
+      0.003963,
+      "\r\n"
+    ],
+    [
+      4.633273,
+      "Vormals nicht ausgewähltes Paket autopoint wird gewählt.\r\n"
+    ],
+    [
+      0.014883,
+      "Entpacken von autopoint (aus .../autopoint_0.18.1.1-9_all.deb) ..."
+    ],
+    [
+      0.004857,
+      "\r\n"
+    ],
+    [
+      0.419939,
+      "Vormals nicht ausgewähltes Paket libstdc++6-4.7-dev wird gewählt."
+    ],
+    [
+      0.004259,
+      "\r\n"
+    ],
+    [
+      0.018967,
+      "Entpacken von libstdc++6-4.7-dev (aus .../libstdc++6-4.7-dev_4.7.2-5_i386.deb) ..."
+    ],
+    [
+      0.004242,
+      "\r\n"
+    ],
+    [
+      3.391809,
+      "Vormals nicht ausgewähltes Paket g++-4.7 wird gewählt."
+    ],
+    [
+      0.004807,
+      "\r\n"
+    ],
+    [
+      0.019355,
+      "Entpacken von g++-4.7 (aus .../g++-4.7_4.7.2-5_i386.deb) ..."
+    ],
+    [
+      0.004494,
+      "\r\n"
+    ],
+    [
+      5.243947,
+      "Vormals nicht ausgewähltes Paket g++ wird gewählt."
+    ],
+    [
+      0.004093,
+      "\r\n"
+    ],
+    [
+      0.018730,
+      "Entpacken von g++ (aus .../g++_4%3a4.7.2-1_i386.deb) ..."
+    ],
+    [
+      0.005007,
+      "\r\n"
+    ],
+    [
+      0.156130,
+      "Vormals nicht ausgewähltes Paket libdpkg-perl wird gewählt."
+    ],
+    [
+      0.003895,
+      "\r\n"
+    ],
+    [
+      0.016903,
+      "Entpacken von libdpkg-perl (aus .../libdpkg-perl_1.16.15_all.deb) ..."
+    ],
+    [
+      0.005336,
+      "\r\n"
+    ],
+    [
+      0.910315,
+      "Vormals nicht ausgewähltes Paket dpkg-dev wird gewählt.\r\n"
+    ],
+    [
+      0.015301,
+      "Entpacken von dpkg-dev (aus .../dpkg-dev_1.16.15_all.deb) ..."
+    ],
+    [
+      0.004904,
+      "\r\n"
+    ],
+    [
+      1.418020,
+      "Vormals nicht ausgewähltes Paket build-essential wird gewählt."
+    ],
+    [
+      0.004429,
+      "\r\n"
+    ],
+    [
+      0.018653,
+      "Entpacken von build-essential (aus .../build-essential_11.5_i386.deb) ..."
+    ],
+    [
+      0.004925,
+      "\r\n"
+    ],
+    [
+      0.165892,
+      "Vormals nicht ausgewähltes Paket html2text wird gewählt.\r\n"
+    ],
+    [
+      0.016893,
+      "Entpacken von html2text (aus .../html2text_1.3.2a-15_i386.deb) ..."
+    ],
+    [
+      0.005061,
+      "\r\n"
+    ],
+    [
+      0.238039,
+      "Vormals nicht ausgewähltes Paket gettext wird gewählt.\r\n"
+    ],
+    [
+      0.014886,
+      "Entpacken von gettext (aus .../gettext_0.18.1.1-9_i386.deb) ..."
+    ],
+    [
+      0.005745,
+      "\r\n"
+    ],
+    [
+      1.481397,
+      "Vormals nicht ausgewähltes Paket intltool-debian wird gewählt."
+    ],
+    [
+      0.004351,
+      "\r\n"
+    ],
+    [
+      0.019614,
+      "Entpacken von intltool-debian (aus .../intltool-debian_0.35.0+20060710.1_all.deb) ..."
+    ],
+    [
+      0.004557,
+      "\r\n"
+    ],
+    [
+      0.181527,
+      "Vormals nicht ausgewähltes Paket po-debconf wird gewählt.\r\n"
+    ],
+    [
+      0.012569,
+      "Entpacken von po-debconf (aus .../po-debconf_1.0.16+nmu2_all.deb) ..."
+    ],
+    [
+      0.003756,
+      "\r\n"
+    ],
+    [
+      0.460462,
+      "Vormals nicht ausgewähltes Paket debhelper wird gewählt."
+    ],
+    [
+      0.004202,
+      "\r\n"
+    ],
+    [
+      0.020137,
+      "Entpacken von debhelper (aus .../debhelper_9.20120909_all.deb) ..."
+    ],
+    [
+      0.012849,
+      "\r\n"
+    ],
+    [
+      1.843408,
+      "Vormals nicht ausgewähltes Paket libalgorithm-diff-perl wird gewählt."
+    ],
+    [
+      0.004109,
+      "\r\n"
+    ],
+    [
+      0.018513,
+      "Entpacken von libalgorithm-diff-perl (aus .../libalgorithm-diff-perl_1.19.02-2_all.deb) ..."
+    ],
+    [
+      0.006719,
+      "\r\n"
+    ],
+    [
+      0.213195,
+      "Vormals nicht ausgewähltes Paket libalgorithm-diff-xs-perl wird gewählt.\r\n"
+    ],
+    [
+      0.013331,
+      "Entpacken von libalgorithm-diff-xs-perl (aus .../libalgorithm-diff-xs-perl_0.04-2+b1_i386.deb) ..."
+    ],
+    [
+      0.011063,
+      "\r\n"
+    ],
+    [
+      0.197835,
+      "Vormals nicht ausgewähltes Paket libalgorithm-merge-perl wird gewählt."
+    ],
+    [
+      0.004192,
+      "\r\n"
+    ],
+    [
+      0.017916,
+      "Entpacken von libalgorithm-merge-perl (aus .../libalgorithm-merge-perl_0.08-2_all.deb) ..."
+    ],
+    [
+      0.004777,
+      "\r\n"
+    ],
+    [
+      0.223722,
+      "Vormals nicht ausgewähltes Paket libfile-fcntllock-perl wird gewählt."
+    ],
+    [
+      0.004862,
+      "\r\n"
+    ],
+    [
+      0.019673,
+      "Entpacken von libfile-fcntllock-perl (aus .../libfile-fcntllock-perl_0.14-2_i386.deb) ..."
+    ],
+    [
+      0.005441,
+      "\r\n"
+    ],
+    [
+      0.202255,
+      "Vormals nicht ausgewähltes Paket libsys-hostname-long-perl wird gewählt."
+    ],
+    [
+      0.004374,
+      "\r\n"
+    ],
+    [
+      0.019846,
+      "Entpacken von libsys-hostname-long-perl (aus .../libsys-hostname-long-perl_1.4-2_all.deb) ..."
+    ],
+    [
+      0.004613,
+      "\r\n"
+    ],
+    [
+      0.181261,
+      "Vormals nicht ausgewähltes Paket libmail-sendmail-perl wird gewählt."
+    ],
+    [
+      0.004455,
+      "\r\n"
+    ],
+    [
+      0.019577,
+      "Entpacken von libmail-sendmail-perl (aus .../libmail-sendmail-perl_0.79.16-1_all.deb) ..."
+    ],
+    [
+      0.003919,
+      "\r\n"
+    ],
+    [
+      0.193214,
+      "Vormals nicht ausgewähltes Paket libsox2 wird gewählt.\r\n"
+    ],
+    [
+      0.011551,
+      "Entpacken von libsox2 (aus .../libsox2_14.4.0-3+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.005696,
+      "\r\n"
+    ],
+    [
+      0.251021,
+      "Vormals nicht ausgewähltes Paket libsox-fmt-alsa wird gewählt."
+    ],
+    [
+      0.004221,
+      "\r\n"
+    ],
+    [
+      0.018706,
+      "Entpacken von libsox-fmt-alsa (aus .../libsox-fmt-alsa_14.4.0-3+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.005011,
+      "\r\n"
+    ],
+    [
+      0.164666,
+      "Vormals nicht ausgewähltes Paket libsox-fmt-base wird gewählt."
+    ],
+    [
+      0.004893,
+      "\r\n"
+    ],
+    [
+      0.018804,
+      "Entpacken von libsox-fmt-base (aus .../libsox-fmt-base_14.4.0-3+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.004290,
+      "\r\n"
+    ],
+    [
+      0.204609,
+      "Vormals nicht ausgewähltes Paket module-assistant wird gewählt."
+    ],
+    [
+      0.004301,
+      "\r\n"
+    ],
+    [
+      0.017118,
+      "Entpacken von module-assistant (aus .../module-assistant_0.11.4_all.deb) ..."
+    ],
+    [
+      0.004349,
+      "\r\n"
+    ],
+    [
+      0.376468,
+      "Vormals nicht ausgewähltes Paket rsync wird gewählt.\r\n"
+    ],
+    [
+      0.017585,
+      "Entpacken von rsync (aus .../rsync_3.0.9-4_i386.deb) ..."
+    ],
+    [
+      0.004651,
+      "\r\n"
+    ],
+    [
+      0.385804,
+      "Vormals nicht ausgewähltes Paket sox wird gewählt.\r\n"
+    ],
+    [
+      0.015981,
+      "Entpacken von sox (aus .../sox_14.4.0-3+deb7u1_i386.deb) ..."
+    ],
+    [
+      0.004778,
+      "\r\n"
+    ],
+    [
+      0.218770,
+      "Vormals nicht ausgewähltes Paket vpb-driver-source wird gewählt."
+    ],
+    [
+      0.004943,
+      "\r\n"
+    ],
+    [
+      0.019736,
+      "Entpacken von vpb-driver-source (aus .../vpb-driver-source_4.2.55-1_all.deb) ..."
+    ],
+    [
+      0.004891,
+      "\r\n"
+    ],
+    [
+      0.186796,
+      "Vormals nicht ausgewähltes Paket asterisk-moh-opsound-gsm wird gewählt.\r\n"
+    ],
+    [
+      0.014318,
+      "Entpacken von asterisk-moh-opsound-gsm (aus .../asterisk-moh-opsound-gsm_2.03-1_all.deb) ..."
+    ],
+    [
+      0.004811,
+      "\r\n"
+    ],
+    [
+      0.803341,
+      "Trigger für man-db werden verarbeitet ..."
+    ],
+    [
+      0.004577,
+      "\r\n"
+    ],
+    [
+      31.296383,
+      "Trigger für mime-support werden verarbeitet ..."
+    ],
+    [
+      0.004138,
+      "\r\n"
+    ],
+    [
+      0.195953,
+      "Trigger für install-info werden verarbeitet ..."
+    ],
+    [
+      0.008801,
+      "\r\n"
+    ],
+    [
+      1.698921,
+      "libcroco3:i386 (0.6.6-2) wird eingerichtet ..."
+    ],
+    [
+      0.004402,
+      "\r\n"
+    ],
+    [
+      0.134073,
+      "libcurl3-gnutls:i386 (7.26.0-1+wheezy12) wird eingerichtet ..."
+    ],
+    [
+      0.004785,
+      "\r\n"
+    ],
+    [
+      0.090191,
+      "libogg0:i386 (1.3.0-4) wird eingerichtet ..."
+    ],
+    [
+      0.004011,
+      "\r\n"
+    ],
+    [
+      0.090728,
+      "libflac8:i386 (1.2.1-6+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.003904,
+      "\r\n"
+    ],
+    [
+      0.089441,
+      "libunistring0:i386 (0.9.3-5) wird eingerichtet ..."
+    ],
+    [
+      0.004256,
+      "\r\n"
+    ],
+    [
+      0.085234,
+      "libgettextpo0:i386 (0.18.1.1-9) wird eingerichtet ..."
+    ],
+    [
+      0.004282,
+      "\r\n"
+    ],
+    [
+      0.081304,
+      "libgsm1:i386 (1.0.13-4) wird eingerichtet ..."
+    ],
+    [
+      0.003744,
+      "\r\n"
+    ],
+    [
+      0.084559,
+      "libsamplerate0:i386 (0.1.8-5) wird eingerichtet ..."
+    ],
+    [
+      0.003847,
+      "\r\n"
+    ],
+    [
+      0.079999,
+      "libjack-jackd2-0:i386 (1.9.8~dfsg.4+20120529git007cdc37-5) wird eingerichtet ..."
+    ],
+    [
+      0.004715,
+      "\r\n"
+    ],
+    [
+      0.076992,
+      "liblua5.1-0:i386 (5.1.5-4+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.003952,
+      "\r\n"
+    ],
+    [
+      0.075194,
+      "libodbc1:i386 (2.2.14p2-5) wird eingerichtet ..."
+    ],
+    [
+      0.003975,
+      "\r\n"
+    ],
+    [
+      0.073767,
+      "libopencore-amrnb0:i386 (0.1.3-2) wird eingerichtet ..."
+    ],
+    [
+      0.003543,
+      "\r\n"
+    ],
+    [
+      0.074715,
+      "libopencore-amrwb0:i386 (0.1.3-2) wird eingerichtet ..."
+    ],
+    [
+      0.003316,
+      "\r\n"
+    ],
+    [
+      0.074715,
+      "libvorbis0a:i386 (1.3.2-1.3) wird eingerichtet ..."
+    ],
+    [
+      0.004683,
+      "\r\n"
+    ],
+    [
+      0.084966,
+      "libvorbisenc2:i386 (1.3.2-1.3) wird eingerichtet ..."
+    ],
+    [
+      0.004276,
+      "\r\n"
+    ],
+    [
+      0.083051,
+      "libsndfile1:i386 (1.0.25-5) wird eingerichtet ..."
+    ],
+    [
+      0.004379,
+      "\r\n"
+    ],
+    [
+      0.082018,
+      "libspeex1:i386 (1.2~rc1-7) wird eingerichtet ..."
+    ],
+    [
+      0.004133,
+      "\r\n"
+    ],
+    [
+      0.079578,
+      "libspeexdsp1:i386 (1.2~rc1-7) wird eingerichtet ..."
+    ],
+    [
+      0.005237,
+      "\r\n"
+    ],
+    [
+      0.080854,
+      "freetds-common (0.91-2+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.004150,
+      "\r\n"
+    ],
+    [
+      0.061109,
+      "libsybdb5:i386 (0.91-2+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.003757,
+      "\r\n"
+    ],
+    [
+      0.080899,
+      "libvorbisfile3:i386 (1.3.2-1.3) wird eingerichtet ..."
+    ],
+    [
+      0.003780,
+      "\r\n"
+    ],
+    [
+      0.081285,
+      "libwavpack1:i386 (4.60.1-3) wird eingerichtet ..."
+    ],
+    [
+      0.003986,
+      "\r\n"
+    ],
+    [
+      0.107384,
+      "asterisk-config (1:1.8.13.1~dfsg1-3+deb7u3) wird eingerichtet ..."
+    ],
+    [
+      0.004324,
+      "\r\n"
+    ],
+    [
+      2.228967,
+      "libgmime-2.6-0 (2.6.10-1) wird eingerichtet ..."
+    ],
+    [
+      0.007052,
+      "\r\n"
+    ],
+    [
+      0.087329,
+      "libical0 (0.48-2) wird eingerichtet ..."
+    ],
+    [
+      0.004088,
+      "\r\n"
+    ],
+    [
+      0.089465,
+      "libiksemel3 (1.2-4) wird eingerichtet ..."
+    ],
+    [
+      0.004183,
+      "\r\n"
+    ],
+    [
+      0.091437,
+      "libneon27-gnutls (0.29.6-3) wird eingerichtet ..."
+    ],
+    [
+      0.004233,
+      "\r\n"
+    ],
+    [
+      0.078749,
+      "libpq5 (9.1.15-0+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.004279,
+      "\r\n"
+    ],
+    [
+      0.075465,
+      "libradiusclient-ng2 (0.5.6-1.1) wird eingerichtet ..."
+    ],
+    [
+      0.005221,
+      "\r\n"
+    ],
+    [
+      0.156369,
+      "libresample1 (0.1.3-4) wird eingerichtet ..."
+    ],
+    [
+      0.004984,
+      "\r\n"
+    ],
+    [
+      0.072009,
+      "libsaclm3 (1.1.4-4.1) wird eingerichtet ..."
+    ],
+    [
+      0.004907,
+      "\r\n"
+    ],
+    [
+      0.074988,
+      "libsaevt3 (1.1.4-4.1) wird eingerichtet ..."
+    ],
+    [
+      0.003416,
+      "\r\n"
+    ],
+    [
+      0.081626,
+      "libspandsp2 (0.0.6~pre20-3.1) wird eingerichtet ..."
+    ],
+    [
+      0.004966,
+      "\r\n"
+    ],
+    [
+      0.074568,
+      "libsqlite0 (2.8.17-7) wird eingerichtet ..."
+    ],
+    [
+      0.003254,
+      "\r\n"
+    ],
+    [
+      0.077409,
+      "libsrtp0 (1.4.4+20100615~dfsg-2+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.003982,
+      "\r\n"
+    ],
+    [
+      0.080481,
+      "libvpb0 (4.2.55-1) wird eingerichtet ..."
+    ],
+    [
+      0.004572,
+      "\r\n"
+    ],
+    [
+      0.352483,
+      "\r\n"
+    ],
+    [
+      0.004680,
+      "Voicetronix hardware configuration helper 4.2.55."
+    ],
+    [
+      0.004995,
+      "\r\n"
+    ],
+    [
+      0.004081,
+      "This will scan the PCI bus to determine what cards you have"
+    ],
+    [
+      0.004239,
+      "\r\n"
+    ],
+    [
+      0.004112,
+      "and create a set of default config files for them."
+    ],
+    [
+      0.003978,
+      "\r\n"
+    ],
+    [
+      0.007272,
+      "\r\n"
+    ],
+    [
+      0.040121,
+      "Scanning PCI bus...."
+    ],
+    [
+      0.004883,
+      "\r\n"
+    ],
+    [
+      0.030538,
+      "Failed to read hardware config: Cannot find any Voicetronix boards.\r\n\r\n"
+    ],
+    [
+      0.209990,
+      "asterisk-modules (1:1.8.13.1~dfsg1-3+deb7u3) wird eingerichtet ..."
+    ],
+    [
+      0.004117,
+      "\r\n"
+    ],
+    [
+      0.043370,
+      "asterisk-core-sounds-en-gsm (1.4.22-1) wird eingerichtet ..."
+    ],
+    [
+      0.004736,
+      "\r\n"
+    ],
+    [
+      0.041366,
+      "asterisk-core-sounds-en (1.4.22-1) wird eingerichtet ..."
+    ],
+    [
+      0.009278,
+      "\r\n"
+    ],
+    [
+      0.195736,
+      "update-alternatives: "
+    ],
+    [
+      0.010626,
+      "/usr/share/asterisk/sounds/en_US_f_Allison wird verwendet, um /usr/share/asterisk/sounds/en (asterisk-prompt-en) im Auto-Modus bereitzustellen"
+    ],
+    [
+      0.015851,
+      "\r\n"
+    ],
+    [
+      0.073234,
+      "update-alternatives: "
+    ],
+    [
+      0.003462,
+      "/usr/share/asterisk/sounds/en_US_f_Allison wird verwendet, um /usr/share/asterisk/sounds/en_US (asterisk-prompt-en-us) im Auto-Modus bereitzustellen"
+    ],
+    [
+      0.004874,
+      "\r\n"
+    ],
+    [
+      0.040401,
+      "asterisk (1:1.8.13.1~dfsg1-3+deb7u3) wird eingerichtet ..."
+    ],
+    [
+      0.004158,
+      "\r\n"
+    ],
+    [
+      0.086979,
+      "Adding system user for Asterisk\r\n"
+    ],
+    [
+      0.556388,
+      "Füge Benutzer »asterisk« der Gruppe »dialout« hinzu ..."
+    ],
+    [
+      0.004103,
+      "\r\n"
+    ],
+    [
+      0.019534,
+      "Benutzer asterisk wird zur Gruppe dialout hinzugefügt."
+    ],
+    [
+      0.004489,
+      "\r\n"
+    ],
+    [
+      0.084987,
+      "Fertig.\r\n"
+    ],
+    [
+      0.078057,
+      "Füge Benutzer »asterisk« der Gruppe »audio« hinzu ..."
+    ],
+    [
+      0.003439,
+      "\r\n"
+    ],
+    [
+      0.014872,
+      "Benutzer asterisk wird zur Gruppe audio hinzugefügt."
+    ],
+    [
+      0.004957,
+      "\r\n"
+    ],
+    [
+      0.074232,
+      "Fertig."
+    ],
+    [
+      0.003995,
+      "\r\n"
+    ],
+    [
+      1.848699,
+      "Starting Asterisk PBX: "
+    ],
+    [
+      0.061799,
+      "asterisk."
+    ],
+    [
+      0.003318,
+      "\r\n"
+    ],
+    [
+      0.579029,
+      "asterisk-voicemail (1:1.8.13.1~dfsg1-3+deb7u3) wird eingerichtet ..."
+    ],
+    [
+      0.019451,
+      "\r\n"
+    ],
+    [
+      0.656291,
+      "liberror-perl (0.17-1) wird eingerichtet ...\r\n"
+    ],
+    [
+      0.035685,
+      "git-man (1:1.7.10.4-1+wheezy1) wird eingerichtet ..."
+    ],
+    [
+      0.007519,
+      "\r\n"
+    ],
+    [
+      0.044721,
+      "git (1:1.7.10.4-1+wheezy1) wird eingerichtet ..."
+    ],
+    [
+      0.004831,
+      "\r\n"
+    ],
+    [
+      0.090263,
+      "autopoint (0.18.1.1-9) wird eingerichtet ..."
+    ],
+    [
+      0.004447,
+      "\r\n"
+    ],
+    [
+      0.047877,
+      "libdpkg-perl (1.16.15) wird eingerichtet ..."
+    ],
+    [
+      0.004512,
+      "\r\n"
+    ],
+    [
+      0.044369,
+      "dpkg-dev (1.16.15) wird eingerichtet ..."
+    ],
+    [
+      0.003269,
+      "\r\n"
+    ],
+    [
+      0.119721,
+      "html2text (1.3.2a-15) wird eingerichtet ..."
+    ],
+    [
+      0.004946,
+      "\r\n"
+    ],
+    [
+      0.079428,
+      "gettext (0.18.1.1-9) wird eingerichtet ..."
+    ],
+    [
+      0.005260,
+      "\r\n"
+    ],
+    [
+      0.090394,
+      "intltool-debian (0.35.0+20060710.1) wird eingerichtet ..."
+    ],
+    [
+      0.004617,
+      "\r\n"
+    ],
+    [
+      0.044230,
+      "po-debconf (1.0.16+nmu2) wird eingerichtet ..."
+    ],
+    [
+      0.005494,
+      "\r\n"
+    ],
+    [
+      0.046479,
+      "debhelper (9.20120909) wird eingerichtet ..."
+    ],
+    [
+      0.005076,
+      "\r\n"
+    ],
+    [
+      0.042519,
+      "libalgorithm-diff-perl (1.19.02-2) wird eingerichtet ..."
+    ],
+    [
+      0.004969,
+      "\r\n"
+    ],
+    [
+      0.041628,
+      "libalgorithm-diff-xs-perl (0.04-2+b1) wird eingerichtet ..."
+    ],
+    [
+      0.004318,
+      "\r\n"
+    ],
+    [
+      0.046623,
+      "libalgorithm-merge-perl (0.08-2) wird eingerichtet ..."
+    ],
+    [
+      0.005966,
+      "\r\n"
+    ],
+    [
+      0.043059,
+      "libfile-fcntllock-perl (0.14-2) wird eingerichtet ..."
+    ],
+    [
+      0.004478,
+      "\r\n"
+    ],
+    [
+      0.056552,
+      "libsys-hostname-long-perl (1.4-2) wird eingerichtet ..."
+    ],
+    [
+      0.004923,
+      "\r\n"
+    ],
+    [
+      0.045606,
+      "libmail-sendmail-perl (0.79.16-1) wird eingerichtet ..."
+    ],
+    [
+      0.009443,
+      "\r\n"
+    ],
+    [
+      0.044482,
+      "libsox2 (14.4.0-3+deb7u1) wird eingerichtet ...\r\n"
+    ],
+    [
+      0.076646,
+      "libsox-fmt-alsa (14.4.0-3+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.004499,
+      "\r\n"
+    ],
+    [
+      0.045049,
+      "libsox-fmt-base (14.4.0-3+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.005641,
+      "\r\n"
+    ],
+    [
+      0.045170,
+      "module-assistant (0.11.4) wird eingerichtet ..."
+    ],
+    [
+      0.004562,
+      "\r\n"
+    ],
+    [
+      0.059036,
+      "rsync (3.0.9-4) wird eingerichtet ..."
+    ],
+    [
+      0.005596,
+      "\r\n"
+    ],
+    [
+      0.095886,
+      "update-rc.d: using dependency based boot sequencing"
+    ],
+    [
+      0.003990,
+      "\r\n"
+    ],
+    [
+      0.386673,
+      "sox (14.4.0-3+deb7u1) wird eingerichtet ..."
+    ],
+    [
+      0.004845,
+      "\r\n"
+    ],
+    [
+      0.080877,
+      "vpb-driver-source (4.2.55-1) wird eingerichtet ..."
+    ],
+    [
+      0.004925,
+      "\r\n"
+    ],
+    [
+      0.050625,
+      "asterisk-moh-opsound-gsm (2.03-1) wird eingerichtet ..."
+    ],
+    [
+      0.003533,
+      "\r\n"
+    ],
+    [
+      0.043139,
+      "g++-4.7 (4.7.2-5) wird eingerichtet ..."
+    ],
+    [
+      0.004097,
+      "\r\n"
+    ],
+    [
+      0.043050,
+      "g++ (4:4.7.2-1) wird eingerichtet ..."
+    ],
+    [
+      0.004074,
+      "\r\n"
+    ],
+    [
+      0.150326,
+      "update-alternatives: "
+    ],
+    [
+      0.006394,
+      "/usr/bin/g++ wird verwendet, um /usr/bin/c++ (c++) im Auto-Modus bereitzustellen"
+    ],
+    [
+      0.003996,
+      "\r\n"
+    ],
+    [
+      0.044009,
+      "build-essential (11.5) wird eingerichtet ..."
+    ],
+    [
+      0.004822,
+      "\r\n"
+    ],
+    [
+      0.049223,
+      "libstdc++6-4.7-dev (4.7.2-5) wird eingerichtet ..."
+    ],
+    [
+      0.005017,
+      "\r\n"
+    ],
+    [
+      1.782481,
+      "root@debian-filip-01:/tmp# "
+    ],
+    [
+      3.317555,
+      "exit"
+    ],
+    [
+      0.004024,
+      "\r\n"
+    ]
+  ]
+}
