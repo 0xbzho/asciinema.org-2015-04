@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 26.609866,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006276,
+      "vaibhav@vaibhav-Inspiron-3537:~$ "
+    ],
+    [
+      26.603205,
+      "exit\r\n"
+    ]
+  ]
+}
