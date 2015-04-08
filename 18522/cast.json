@@ -1,0 +1,3462 @@
+{
+  "version": 1,
+  "width": 186,
+  "height": 52,
+  "duration": 6035.371878,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.970403,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.107508,
+      "\r\r\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/data/dev/clients/nightswapping/cosmosystem/terraform \u001b[43m\u001b[34m\u001b[30m  feature/77-include-ansible-provisionning-in-terraform ● \u001b[49m\u001b[33m\u001b[39m                                                           [20:01:49] » "
+    ],
+    [
+      0.000010,
+      "\u001b[32mbuild\u001b[39m preprod\u001b[K"
+    ],
+    [
+      0.000374,
+      "\r"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.016068,
+      "mklink.sh preprod"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.162858,
+      "Création de l'infra preprod\r\n"
+    ],
+    [
+      0.000786,
+      "Liste l'infrastructure de l'environnement de preprod\r\n"
+    ],
+    [
+      0.000038,
+      "-----[ VPC ]-------\r\n"
+    ],
+    [
+      0.000036,
+      "CIDR vpc-name\r\n"
+    ],
+    [
+      0.840846,
+      "-----[ security groups ]-------\r\nDescription SG-name\r\n"
+    ],
+    [
+      0.812929,
+      "-----[ RDS ]-------\r\n"
+    ],
+    [
+      0.955516,
+      "_[X] None\r\n-----[ Elasticache ]-------\r\n"
+    ],
+    [
+      0.743163,
+      "_[X] None\r\n-----[ ELB ]-------\r\n"
+    ],
+    [
+      0.731463,
+      "-----[ Autoscaling ]-------\r\n"
+    ],
+    [
+      0.698003,
+      "-----[ My AMI ]-------\r\nAMI-ID AMI-name\r\n"
+    ],
+    [
+      0.760651,
+      "-----[ EC2 ]-------\r\ninstance-ids dns-name\r\n"
+    ],
+    [
+      0.836715,
+      "-----[ S3 ]-------\r\n"
+    ],
+    [
+      0.788180,
+      "terraform plan -var-file terraform.tfvars -out terraform.tfplan\r\n"
+    ],
+    [
+      0.173541,
+      "Refreshing Terraform state prior to plan..."
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.035428,
+      "\r\n"
+    ],
+    [
+      0.096082,
+      "The Terraform execution plan has been generated and is shown below.\r\n"
+    ],
+    [
+      0.000342,
+      "Resources are shown in alphabetical order for quick scanning. Green resources\r\n"
+    ],
+    [
+      0.000196,
+      "will be created (or destroyed and then created if an existing resource\r\n"
+    ],
+    [
+      0.000159,
+      "exists), yellow resources are being changed in-place, and red resources\r\n"
+    ],
+    [
+      0.000041,
+      "will be destroyed.\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "Your plan was also saved to the path below. Call the \"apply\" subcommand\r\n"
+    ],
+    [
+      0.000165,
+      "with this plan file and Terraform will exactly execute this execution\r\n"
+    ],
+    [
+      0.000031,
+      "plan.\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000318,
+      "Path: terraform.tfplan\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.005674,
+      "\u001b[32m+ aws_autoscaling_group.as_group"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000452,
+      "\u001b[0m    availability_zones.#:               \"\" =\u003e \"2\""
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "    availability_zones.1924028850:      \"\" =\u003e \"eu-west-1b\"\r\n"
+    ],
+    [
+      0.000104,
+      "    availability_zones.3953592328:      \"\" =\u003e \"eu-west-1a\"\r\n"
+    ],
+    [
+      0.000118,
+      "    default_cooldown:                   \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000254,
+      "    desired_capacity:                   \"\" =\u003e \"2\"\r\n    force_delete:                       \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000213,
+      "    health_check_grace_period:          \"\" =\u003e \"300\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001077,
+      "    health_check_type:                  \"\" =\u003e \"ELB\"\r\n    launch_configuration:               \"\" =\u003e \"preprod-nightswapping-as-conf\"\r\n    load_balancers.#:                   \"\" =\u003e \"1\"\r\n    load_balancers.1566092270:          \"\" =\u003e \"preprod-nightswapping-elb\"\r\n    max_size:                           \"\" =\u003e \"4\"\r\n    min_size:                           \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000352,
+      "    name:                               \"\" =\u003e \"preprod-nightswapping-as-group\"\r\n    tag.#:                              \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000077,
+      "    tag.2346352784.key:                 \"\" =\u003e \"Environnement\""
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "    tag.2346352784.propagate_at_launch: \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000126,
+      "    tag.2346352784.value:               \"\" =\u003e \"preprod\""
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000772,
+      "    tag.3791447772.key:                 \"\" =\u003e \"Role\"\r\n    tag.3791447772.propagate_at_launch: \"\" =\u003e \"1\"\r\n    tag.3791447772.value:               \"\" =\u003e \"web\"\r\n    termination_policies.#:             \"\" =\u003e \"\u003ccomputed\u003e\"\r\n    vpc_zone_identifier.#:              \"\" =\u003e \"\u003ccomputed\u003e\"\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.001454,
+      "\u001b[0m\u001b[32m+ aws_db_instance.db\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[0m    address:                   \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000095,
+      "    allocated_storage:         \"\" =\u003e \"5\"\r\n"
+    ],
+    [
+      0.000089,
+      "    apply_immediately:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000108,
+      "    availability_zone:         \"\" =\u003e \"eu-west-1a\"\r\n"
+    ],
+    [
+      0.000075,
+      "    backup_retention_period:   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000112,
+      "    backup_window:             \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000197,
+      "    db_subnet_group_name:      \"\" =\u003e \"preprod-nightswapping-db-private-subnet\"\r\n"
+    ],
+    [
+      0.000081,
+      "    endpoint:                  \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000092,
+      "    engine:                    \"\" =\u003e \"postgres\"\r\n"
+    ],
+    [
+      0.000087,
+      "    engine_version:            \"\" =\u003e \"9.4.1\"\r\n"
+    ],
+    [
+      0.000124,
+      "    final_snapshot_identifier: \"\" =\u003e \"preprod-nightswapping-pg-rds\"\r\n"
+    ],
+    [
+      0.000383,
+      "    identifier:                \"\" =\u003e \"preprod-nightswapping-pg-rds\"\r\n    instance_class:            \"\" =\u003e \"db.t2.micro\"\r\n    maintenance_window:        \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000070,
+      "    multi_az:                  \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000102,
+      "    name:                      \"\" =\u003e \"postgres\"\r\n"
+    ],
+    [
+      0.000096,
+      "    parameter_group_name:      \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000125,
+      "    password:                  \"\" =\u003e \"************\"\r\n"
+    ],
+    [
+      0.000100,
+      "    port:                      \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000110,
+      "    publicly_accessible:       \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000138,
+      "    status:                    \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000122,
+      "    storage_type:              \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000114,
+      "    username:                  \"\" =\u003e \"postgres\"\r\n"
+    ],
+    [
+      0.000165,
+      "    vpc_security_group_ids.#:  \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[0m\u001b[32m+ aws_db_subnet_group.db_private_subnet\r\n"
+    ],
+    [
+      0.000181,
+      "\u001b[0m    description:  \"\" =\u003e \"Our main group of db subnets for preprod\"\r\n"
+    ],
+    [
+      0.000149,
+      "    name:         \"\" =\u003e \"preprod-nightswapping-db-private-subnet\"\r\n"
+    ],
+    [
+      0.000107,
+      "    subnet_ids.#: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0m\u001b[32m+ aws_elb.web_elb\r\n"
+    ],
+    [
+      0.000170,
+      "\u001b[0m    availability_zones.#:                        \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000163,
+      "    cross_zone_load_balancing:                   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000160,
+      "    dns_name:                                    \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000151,
+      "    health_check.#:                              \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000132,
+      "    health_check.3961386071.healthy_threshold:   \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.001796,
+      "    health_check.3961386071.interval:            \"\" =\u003e \"30\"\r\n    health_check.3961386071.target:              \"\" =\u003e \"HTTP:80/elb_status/\"\r\n    health_check.3961386071.timeout:             \"\" =\u003e \"3\"\r\n"
+    ],
+    [
+      0.000018,
+      "    health_check.3961386071.unhealthy_threshold: \"\" =\u003e \"2\"\r\n    instances.#:                                 \"\" =\u003e \"\u003ccomputed\u003e\"\r\n    internal:                                    \"\" =\u003e \"\u003ccomputed\u003e\"\r\n    listener.#:                                  \"\" =\u003e \"2\"\r\n    listener.3057123346.instance_port:           \"\" =\u003e \"80\"\r\n    listener.3057123346.instance_protocol:       \"\" =\u003e \"http\"\r\n    listener.3057123346.lb_port:                 \"\" =\u003e \"80\"\r\n    listener.3057123346.lb_protocol:             \"\" =\u003e \"http\"\r\n"
+    ],
+    [
+      0.000109,
+      "    listener.3057123346.ssl_certificate_id:      \"\" =\u003e \"\"\r\n"
+    ],
+    [
+      0.000154,
+      "    listener.873367889.instance_port:            \"\" =\u003e \"443\"\r\n"
+    ],
+    [
+      0.000169,
+      "    listener.873367889.instance_protocol:        \"\" =\u003e \"https\"\r\n"
+    ],
+    [
+      0.000135,
+      "    listener.873367889.lb_port:                  \"\" =\u003e \"443\"\r\n"
+    ],
+    [
+      0.000160,
+      "    listener.873367889.lb_protocol:              \"\" =\u003e \"https\"\r\n"
+    ],
+    [
+      0.000346,
+      "    listener.873367889.ssl_certificate_id:       \"\" =\u003e \"arn:aws:iam::465947734094:server-certificate/cloudfront/nightswapping/star_nightswapping_com\"\r\n"
+    ],
+    [
+      0.000196,
+      "    name:                                        \"\" =\u003e \"preprod-nightswapping-elb\"\r\n"
+    ],
+    [
+      0.000163,
+      "    security_groups.#:                           \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000194,
+      "    subnets.#:                                   \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[0m\u001b[32m+ aws_internet_gateway.default\r\n"
+    ],
+    [
+      0.000186,
+      "\u001b[0m    vpc_id: \"\" =\u003e \"${aws_vpc.my_vpc.id}\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.002945,
+      "\u001b[0m\u001b[32m+ aws_launch_configuration.as_conf"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[0m    associate_public_ip_address: \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000298,
+      "    ebs_block_device.#:          \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "    ebs_optimized:               \"\" =\u003e \"0\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "    ephemeral_block_device.#:    \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "    image_id:                    \"\" =\u003e \"ami-20903157\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "    instance_type:               \"\" =\u003e \"t2.micro\"\r\n"
+    ],
+    [
+      0.000153,
+      "    key_name:                    \"\" =\u003e \"christophe@centurion\"\r\n"
+    ],
+    [
+      0.000154,
+      "    name:                        \"\" =\u003e \"preprod-nightswapping-as-conf\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "    root_block_device.#:         \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "    security_groups.#:           \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[0m\u001b[32m+ aws_route_table.private_route"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[0m    route.#:                                     \"\" =\u003e \"1\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "    route.~1312964942.cidr_block:                \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000221,
+      "    route.~1312964942.gateway_id:                \"\" =\u003e \"${aws_internet_gateway.default.id}\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "    route.~1312964942.instance_id:               \"\" =\u003e \"\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "    route.~1312964942.vpc_peering_connection_id: \"\" =\u003e \"\"\r\n"
+    ],
+    [
+      0.000185,
+      "    vpc_id:                                      \"\" =\u003e \"${aws_vpc.my_vpc.id}\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0m\u001b[32m+ aws_route_table.publique_route\r\n"
+    ],
+    [
+      0.000198,
+      "\u001b[0m    route.#:                                     \"\" =\u003e \"1\""
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "    route.~1312964942.cidr_block:                \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "    route.~1312964942.gateway_id:                \"\" =\u003e \"${aws_internet_gateway.default.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "    route.~1312964942.instance_id:               \"\" =\u003e \"\""
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "    route.~1312964942.vpc_peering_connection_id: \"\" =\u003e \"\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "    vpc_id:                                      \"\" =\u003e \"${aws_vpc.my_vpc.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[0m\u001b[32m+ aws_route_table_association.private_route_association_a"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[0m    route_table_id: \"\" =\u003e \"${aws_route_table.private_route.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "    subnet_id:      \"\" =\u003e \"${aws_subnet.private_subnet_a.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0m\u001b[32m+ aws_route_table_association.private_route_association_b"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[0m    route_table_id: \"\" =\u003e \"${aws_route_table.private_route.id}\"\r\n"
+    ],
+    [
+      0.000121,
+      "    subnet_id:      \"\" =\u003e \"${aws_subnet.private_subnet_b.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[0m\u001b[32m+ aws_route_table_association.publique_route_association_a"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b[0m    route_table_id: \"\" =\u003e \"${aws_route_table.publique_route.id}\""
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "    subnet_id:      \"\" =\u003e \"${aws_subnet.publique_subnet_a.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[0m\u001b[32m+ aws_route_table_association.publique_route_association_b"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[0m    route_table_id: \"\" =\u003e \"${aws_route_table.publique_route.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "    subnet_id:      \"\" =\u003e \"${aws_subnet.publique_subnet_b.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0m\u001b[32m+ aws_security_group.rds_sg"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[0m    description:                          \"\" =\u003e \"RDS security group for preprod\"\r\n"
+    ],
+    [
+      0.000105,
+      "    egress.#:                             \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "    ingress.#:                            \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000090,
+      "    ingress.1760891655.cidr_blocks.#:     \"\" =\u003e \"1\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "    ingress.1760891655.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "    ingress.1760891655.from_port:         \"\" =\u003e \"6379\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "    ingress.1760891655.protocol:          \"\" =\u003e \"tcp\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "    ingress.1760891655.security_groups.#: \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000096,
+      "    ingress.1760891655.self:              \"\" =\u003e \"0\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.004736,
+      "    ingress.1760891655.to_port:           \"\" =\u003e \"6379\"\r\n    ingress.761371496.cidr_blocks.#:      \"\" =\u003e \"1\"\r\n    ingress.761371496.cidr_blocks.0:      \"\" =\u003e \"0.0.0.0/0\"\r\n    ingress.761371496.from_port:          \"\" =\u003e \"5432\"\r\n    ingress.761371496.protocol:           \"\" =\u003e \"tcp\"\r\n    ingress.761371496.security_groups.#:  \"\" =\u003e \"0\"\r\n    ingress.761371496.self:               \"\" =\u003e \"0\"\r\n    ingress.761371496.to_port:            \"\" =\u003e \"5432\"\r\n    name:                                 \"\" =\u003e \"preprod-nightswapping-rds-sg\"\r\n    owner_id:                             \"\" =\u003e \"\u003ccomputed\u003e\"\r\n    tags.#:                               \"\" =\u003e \"1\"\r\n    tags.Environnement:                   \"\" =\u003e \"preprod\"\r\n    vpc_id:                               \"\" =\u003e \"${aws_vpc.my_vpc.id}\"\r\n\u001b[0m\r\n\u001b[0m\u001b[32m+ aws_security_group.web_sg\r\n\u001b[0m    description:                          \"\" =\u003e \"Machines Web for preprod\"\r\n    egress.#:                             \"\" =\u003e \"\u003ccomputed\u003e\"\r\n    ingress.#:                            \"\" =\u003e \"3\"\r\n    ingress.2214680975.cidr_blocks.#:     \"\" =\u003e \"1\"\r\n    ingress.2214680975.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\"\r\n    ingress.2214680975.from_port:         \"\" =\u003e \"80\"\r\n    ingress.2214680975.protocol:          \"\" =\u003e \"tcp\"\r\n    ingress.2214680975.security_groups.#: \"\" =\u003e \"0\"\r\n    ingress.2214680975.self:              \"\" =\u003e \"0\"\r\n    ingress.2214680975.to_port:           \"\" =\u003e \"80\"\r\n    ingress.2541437006.cidr_blocks.#:     \"\" =\u003e \"1\"\r\n    ingress.2541437006.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\"\r\n    ingress.2541437006.from_port:         \"\" =\u003e \"22\"\r\n    ingress.2541437006.protocol:          \"\" =\u003e \"tcp\"\r\n    ingress.2541437006.security_groups.#: \"\" =\u003e \"0\"\r\n    ingress.2541437006.self:              \"\" =\u003e \"0\"\r\n    ingress.2541437006.to_port:           \"\" =\u003e \"22\"\r\n    ingress.2617001939.cidr_blocks.#:     \"\" =\u003e \"1\"\r\n    ingress.2617001939.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\"\r\n    ingress.2617001939.from_port:         \"\" =\u003e \"443\"\r\n    ingress.2617001939.protocol:          \"\" =\u003e \"tcp\"\r\n    ingress.2617001939.security_groups.#: \"\" =\u003e \"0\"\r\n    ingress.2617001939.self:              \"\" =\u003e \"0\"\r\n    ingress.2617001939.to_port:           \"\" =\u003e \"443\"\r\n    name:                                 \"\" =\u003e \"preprod-nightswapping-web-sg\"\r\n    owner_id:                             \"\" =\u003e \"\u003ccomputed\u003e\"\r\n    tags.#:                               \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000049,
+      "    tags.Environnement:                   \"\" =\u003e \"preprod\"\r\n"
+    ],
+    [
+      0.000123,
+      "    vpc_id:                               \"\" =\u003e \"${aws_vpc.my_vpc.id}\"\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0m\u001b[32m+ aws_subnet.private_subnet_a\r\n"
+    ],
+    [
+      0.000111,
+      "\u001b[0m    availability_zone:       \"\" =\u003e \"eu-west-1a\"\r\n"
+    ],
+    [
+      0.000105,
+      "    cidr_block:              \"\" =\u003e \"10.1.11.0/24\"\r\n"
+    ],
+    [
+      0.000086,
+      "    map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000283,
+      "    tags.#:                  \"\" =\u003e \"1\"\r\n    tags.Environnement:      \"\" =\u003e \"preprod\"\r\n    vpc_id:                  \"\" =\u003e \"${aws_vpc.my_vpc.id}\"\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0m\u001b[32m+ aws_subnet.private_subnet_b\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[0m    availability_zone:       \"\" =\u003e \"eu-west-1b\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "    cidr_block:              \"\" =\u003e \"10.1.12.0/24\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "    map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "    tags.#:                  \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000087,
+      "    tags.Environnement:      \"\" =\u003e \"preprod\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "    vpc_id:                  \"\" =\u003e \"${aws_vpc.my_vpc.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0m\u001b[32m+ aws_subnet.publique_subnet_a"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[0m    availability_zone:       \"\" =\u003e \"eu-west-1a\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "    cidr_block:              \"\" =\u003e \"10.1.1.0/24\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "    map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "    tags.#:                  \"\" =\u003e \"1\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "    tags.Environnement:      \"\" =\u003e \"preprod\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "    vpc_id:                  \"\" =\u003e \"${aws_vpc.my_vpc.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0m\u001b[32m+ aws_subnet.publique_subnet_b"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[0m    availability_zone:       \"\" =\u003e \"eu-west-1b\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    cidr_block:              \"\" =\u003e \"10.1.2.0/24\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "    map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "    tags.#:                  \"\" =\u003e \"1\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "    tags.Environnement:      \"\" =\u003e \"preprod\"\r\n"
+    ],
+    [
+      0.000107,
+      "    vpc_id:                  \"\" =\u003e \"${aws_vpc.my_vpc.id}\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[0m\u001b[32m+ aws_vpc.my_vpc"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[0m    cidr_block:                \"\" =\u003e \"10.1.0.0/16\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "    default_network_acl_id:    \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.004395,
+      "    default_security_group_id: \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "    enable_dns_hostnames:      \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000282,
+      "    enable_dns_support:        \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "    main_route_table_id:       \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000231,
+      "    tags.#:                    \"\" =\u003e \"2\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "    tags.Environnement:        \"\" =\u003e \"preprod\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "    tags.Name:                 \"\" =\u003e \"VPC de preprod\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001656,
+      "terraform apply -var-file terraform.tfvars\r\n"
+    ],
+    [
+      0.301341,
+      "\u001b[0m\u001b[1maws_vpc.my_vpc: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000100,
+      "  cidr_block:                \"\" =\u003e \"10.1.0.0/16\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "  default_network_acl_id:    \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000138,
+      "  default_security_group_id: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000070,
+      "  enable_dns_hostnames:      \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000128,
+      "  enable_dns_support:        \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000143,
+      "  main_route_table_id:       \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000077,
+      "  tags.#:                    \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000131,
+      "  tags.Environnement:        \"\" =\u003e \"preprod\"\r\n"
+    ],
+    [
+      0.000147,
+      "  tags.Name:                 \"\" =\u003e \"VPC de preprod\"\u001b[0m\r\n"
+    ],
+    [
+      4.695188,
+      "\u001b[0m\u001b[1maws_vpc.my_vpc: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.007028,
+      "\u001b[0m\u001b[1maws_internet_gateway.default: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.004948,
+      "  vpc_id: \"\" =\u003e \"vpc-006cc365\"\u001b[0m\r\n"
+    ],
+    [
+      0.002282,
+      "\u001b[0m\u001b[1maws_security_group.rds_sg: Creating...\u001b[21m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000265,
+      "  description:                          \"\" =\u003e \"RDS security group for preprod\""
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "  egress.#:                             \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000169,
+      "  ingress.#:                            \"\" =\u003e \"2\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "  ingress.1760891655.cidr_blocks.#:     \"\" =\u003e \"1\""
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "  ingress.1760891655.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "  ingress.1760891655.from_port:         \"\" =\u003e \"6379\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000166,
+      "  ingress.1760891655.protocol:          \"\" =\u003e \"tcp\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000170,
+      "  ingress.1760891655.security_groups.#: \"\" =\u003e \"0\""
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "  ingress.1760891655.self:              \"\" =\u003e \"0\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000273,
+      "  ingress.1760891655.to_port:           \"\" =\u003e \"6379\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "  ingress.761371496.cidr_blocks.#:      \"\" =\u003e \"1\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "  ingress.761371496.cidr_blocks.0:      \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "  ingress.761371496.from_port:          \"\" =\u003e \"5432\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "  ingress.761371496.protocol:           \"\" =\u003e \"tcp\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "  ingress.761371496.security_groups.#:  \"\" =\u003e \"0\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "  ingress.761371496.self:               \"\" =\u003e \"0\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "  ingress.761371496.to_port:            \"\" =\u003e \"5432\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000257,
+      "  name:                                 \"\" =\u003e \"preprod-nightswapping-rds-sg\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000170,
+      "  owner_id:                             \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "  tags.#:                               \"\" =\u003e \"1\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "  tags.Environnement:                   \"\" =\u003e \"preprod\""
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.001648,
+      "  vpc_id:                               \"\" =\u003e \"vpc-006cc365\"\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.013991,
+      "\u001b[0m\u001b[1maws_subnet.private_subnet_b: Creating...\u001b[21m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "  availability_zone:       \"\" =\u003e \"eu-west-1b\""
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  cidr_block:              \"\" =\u003e \"10.1.12.0/24\""
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "  map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "  tags.#:                  \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000123,
+      "  tags.Environnement:      \"\" =\u003e \"preprod\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000257,
+      "  vpc_id:                  \"\" =\u003e \"vpc-006cc365\"\u001b[0m\r\n"
+    ],
+    [
+      0.014283,
+      "\u001b[0m\u001b[1maws_subnet.publique_subnet_a: Creating...\u001b[21m\r\n  availability_zone:       \"\" =\u003e \"eu-west-1a\"\r\n  cidr_block:              \"\" =\u003e \"10.1.1.0/24\"\r\n  map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n  tags.#:                  \"\" =\u003e \"1\"\r\n  tags.Environnement:      \"\" =\u003e \"preprod\"\r\n  vpc_id:                  \"\" =\u003e \"vpc-006cc365\"\u001b[0m\r\n\u001b[0m\u001b[1maws_subnet.publique_subnet_b: Creating...\u001b[21m\r\n  availability_zone:       \"\" =\u003e \"eu-west-1b\"\r\n"
+    ],
+    [
+      0.000268,
+      "  cidr_block:              \"\" =\u003e \"10.1.2.0/24\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "  map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "  tags.#:                  \"\" =\u003e \"1\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "  tags.Environnement:      \"\" =\u003e \"preprod\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "  vpc_id:                  \"\" =\u003e \"vpc-006cc365\"\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0m\u001b[1maws_security_group.web_sg: Creating...\u001b[21m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "  description:                          \"\" =\u003e \"Machines Web for preprod\""
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  egress.#:                             \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  ingress.#:                            \"\" =\u003e \"3\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  ingress.2214680975.cidr_blocks.#:     \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000123,
+      "  ingress.2214680975.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  ingress.2214680975.from_port:         \"\" =\u003e \"80\"\r\n"
+    ],
+    [
+      0.000092,
+      "  ingress.2214680975.protocol:          \"\" =\u003e \"tcp\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  ingress.2214680975.security_groups.#: \"\" =\u003e \"0\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  ingress.2214680975.self:              \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000086,
+      "  ingress.2214680975.to_port:           \"\" =\u003e \"80\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  ingress.2541437006.cidr_blocks.#:     \"\" =\u003e \"1\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "  ingress.2541437006.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "  ingress.2541437006.from_port:         \"\" =\u003e \"22\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "  ingress.2541437006.protocol:          \"\" =\u003e \"tcp\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "  ingress.2541437006.security_groups.#: \"\" =\u003e \"0\"\r\n  ingress.2541437006.self:              \"\" =\u003e \"0\"\r\n  ingress.2541437006.to_port:           \"\" =\u003e \"22\"\r\n"
+    ],
+    [
+      0.003997,
+      "  ingress.2617001939.cidr_blocks.#:     \"\" =\u003e \"1\"\r\n  ingress.2617001939.cidr_blocks.0:     \"\" =\u003e \"0.0.0.0/0\"\r\n  ingress.2617001939.from_port:         \"\" =\u003e \"443\"\r\n  ingress.2617001939.protocol:          \"\" =\u003e \"tcp\"\r\n  ingress.2617001939.security_groups.#: \"\" =\u003e \"0\"\r\n  ingress.2617001939.self:              \"\" =\u003e \"0\"\r\n  ingress.2617001939.to_port:           \"\" =\u003e \"443\"\r\n  name:                                 \"\" =\u003e \"preprod-nightswapping-web-sg\"\r\n  owner_id:                             \"\" =\u003e \"\u003ccomputed\u003e\"\r\n  tags.#:                               \"\" =\u003e \"1\"\r\n  tags.Environnement:                   \"\" =\u003e \"preprod\"\r\n  vpc_id:                               \"\" =\u003e \"vpc-006cc365\"\u001b[0m\r\n\u001b[0m\u001b[1maws_subnet.private_subnet_a: Creating...\u001b[21m\r\n  availability_zone:       \"\" =\u003e \"eu-west-1a\"\r\n  cidr_block:              \"\" =\u003e \"10.1.11.0/24\"\r\n  map_public_ip_on_launch: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n  tags.#:                  \"\" =\u003e \"1\"\r\n  tags.Environnement:      \"\" =\u003e \"preprod\"\r\n  vpc_id:                  \"\" =\u003e \"vpc-006cc365\"\u001b[0m\r\n"
+    ],
+    [
+      1.492299,
+      "\u001b[0m\u001b[1maws_internet_gateway.default: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.004321,
+      "\u001b[0m\u001b[1maws_route_table.private_route: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.001092,
+      "  route.#:                                    \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000124,
+      "  route.3292694715.cidr_block:                \"\" =\u003e \"0.0.0.0/0\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "  route.3292694715.gateway_id:                \"\" =\u003e \"igw-4fc7082a\"\r\n"
+    ],
+    [
+      0.000133,
+      "  route.3292694715.instance_id:               \"\" =\u003e \"\"\r\n"
+    ],
+    [
+      0.000138,
+      "  route.3292694715.vpc_peering_connection_id: \"\" =\u003e \"\"\r\n"
+    ],
+    [
+      0.000182,
+      "  vpc_id:                                     \"\" =\u003e \"vpc-006cc365\"\u001b[0m\r\n"
+    ],
+    [
+      0.001153,
+      "\u001b[0m\u001b[1maws_route_table.publique_route: Creating...\u001b[21m\r\n  route.#:                                    \"\" =\u003e \"1\"\r\n  route.3292694715.cidr_block:                \"\" =\u003e \"0.0.0.0/0\"\r\n  route.3292694715.gateway_id:                \"\" =\u003e \"igw-4fc7082a\"\r\n  route.3292694715.instance_id:               \"\" =\u003e \"\"\r\n  route.3292694715.vpc_peering_connection_id: \"\" =\u003e \"\"\r\n  vpc_id:                                     \"\" =\u003e \"vpc-006cc365\"\u001b[0m\r\n"
+    ],
+    [
+      0.533090,
+      "\u001b[0m\u001b[1maws_subnet.publique_subnet_a: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.000430,
+      "\u001b[0m\u001b[1maws_subnet.publique_subnet_b: Creation complete\u001b[21m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.043179,
+      "\u001b[0m\u001b[1maws_subnet.private_subnet_a: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.009102,
+      "\u001b[0m\u001b[1maws_subnet.private_subnet_b: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.001419,
+      "\u001b[0m\u001b[1maws_db_subnet_group.db_private_subnet: Creating...\u001b[21m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000455,
+      "  description:           \"\" =\u003e \"Our main group of db subnets for preprod\""
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000385,
+      "  name:                  \"\" =\u003e \"preprod-nightswapping-db-private-subnet\"\r\n"
+    ],
+    [
+      0.000005,
+      "  subnet_ids.#:          \"\" =\u003e \"4\"\r\n"
+    ],
+    [
+      0.000299,
+      "  subnet_ids.2256901485: \"\" =\u003e \"subnet-b724a4c0\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "  subnet_ids.2486440207: \"\" =\u003e \"subnet-5f8e153a\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "  subnet_ids.2747066222: \"\" =\u003e \"subnet-5c8e1539\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "  subnet_ids.661921946:  \"\" =\u003e \"subnet-c824a4bf\"\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.860315,
+      "\u001b[0m\u001b[1maws_security_group.rds_sg: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.004519,
+      "\u001b[0m\u001b[1maws_security_group.web_sg: Creation complete\u001b[21m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.002289,
+      "\u001b[0m\u001b[1maws_launch_configuration.as_conf: Creating...\u001b[21m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  associate_public_ip_address: \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000148,
+      "  ebs_block_device.#:          \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000105,
+      "  ebs_optimized:               \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000120,
+      "  ephemeral_block_device.#:    \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000130,
+      "  image_id:                    \"\" =\u003e \"ami-20903157\"\r\n"
+    ],
+    [
+      0.000127,
+      "  instance_type:               \"\" =\u003e \"t2.micro\"\r\n"
+    ],
+    [
+      0.000142,
+      "  key_name:                    \"\" =\u003e \"christophe@centurion\"\r\n"
+    ],
+    [
+      0.000164,
+      "  name:                        \"\" =\u003e \"preprod-nightswapping-as-conf\"\r\n"
+    ],
+    [
+      0.000123,
+      "  root_block_device.#:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000108,
+      "  security_groups.#:           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000163,
+      "  security_groups.1772176667:  \"\" =\u003e \"sg-c0e5aba5\"\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.005396,
+      "\u001b[0m\u001b[1maws_elb.web_elb: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000269,
+      "  availability_zones.#:                        \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "  cross_zone_load_balancing:                   \"\" =\u003e \"1\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "  dns_name:                                    \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "  health_check.#:                              \"\" =\u003e \"1\""
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "  health_check.3961386071.healthy_threshold:   \"\" =\u003e \"2\""
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "  health_check.3961386071.interval:            \"\" =\u003e \"30\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000377,
+      "  health_check.3961386071.target:              \"\" =\u003e \"HTTP:80/elb_status/\""
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000319,
+      "  health_check.3961386071.timeout:             \"\" =\u003e \"3\""
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "  health_check.3961386071.unhealthy_threshold: \"\" =\u003e \"2\""
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001526,
+      "  instances.#:                                 \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "  internal:                                    \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000147,
+      "  listener.#:                                  \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000156,
+      "  listener.3057123346.instance_port:           \"\" =\u003e \"80\"\r\n"
+    ],
+    [
+      0.000143,
+      "  listener.3057123346.instance_protocol:       \"\" =\u003e \"http\"\r\n"
+    ],
+    [
+      0.000150,
+      "  listener.3057123346.lb_port:                 \"\" =\u003e \"80\"\r\n"
+    ],
+    [
+      0.000167,
+      "  listener.3057123346.lb_protocol:             \"\" =\u003e \"http\"\r\n"
+    ],
+    [
+      0.000138,
+      "  listener.3057123346.ssl_certificate_id:      \"\" =\u003e \"\"\r\n"
+    ],
+    [
+      0.000233,
+      "  listener.873367889.instance_port:            \"\" =\u003e \"443\"\r\n"
+    ],
+    [
+      0.000105,
+      "  listener.873367889.instance_protocol:        \"\" =\u003e \"https\"\r\n"
+    ],
+    [
+      0.000143,
+      "  listener.873367889.lb_port:                  \"\" =\u003e \"443\"\r\n"
+    ],
+    [
+      0.000126,
+      "  listener.873367889.lb_protocol:              \"\" =\u003e \"https\"\r\n"
+    ],
+    [
+      0.000263,
+      "  listener.873367889.ssl_certificate_id:       \"\" =\u003e \"arn:aws:iam::465947734094:server-certificate/cloudfront/nightswapping/star_nightswapping_com\"\r\n"
+    ],
+    [
+      0.000158,
+      "  name:                                        \"\" =\u003e \"preprod-nightswapping-elb\"\r\n"
+    ],
+    [
+      0.000116,
+      "  security_groups.#:                           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000108,
+      "  security_groups.1772176667:                  \"\" =\u003e \"sg-c0e5aba5\"\r\n"
+    ],
+    [
+      0.000112,
+      "  subnets.#:                                   \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000129,
+      "  subnets.2256901485:                          \"\" =\u003e \"subnet-b724a4c0\"\r\n"
+    ],
+    [
+      0.000136,
+      "  subnets.2747066222:                          \"\" =\u003e \"subnet-5c8e1539\"\u001b[0m\r\n"
+    ],
+    [
+      0.288843,
+      "\u001b[0m\u001b[1maws_db_subnet_group.db_private_subnet: Creation complete\u001b[21m\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.008125,
+      "\u001b[0m\u001b[1maws_db_instance.db: Creating...\u001b[21m\r\n  address:                           \"\" =\u003e \"\u003ccomputed\u003e\"\r\n  allocated_storage:                 \"\" =\u003e \"5\"\r\n  apply_immediately:                 \"\" =\u003e \"\u003ccomputed\u003e\"\r\n  availability_zone:                 \"\" =\u003e \"eu-west-1a\"\r\n  backup_retention_period:           \"\" =\u003e \"1\"\r\n  backup_window:                     \"\" =\u003e \"\u003ccomputed\u003e\"\r\n  db_subnet_group_name:              \"\" =\u003e \"preprod-nightswapping-db-private-subnet\"\r\n  endpoint:                          \"\" =\u003e \"\u003ccomputed\u003e\"\r\n  engine:                            \"\" =\u003e \"postgres\"\r\n  engine_version:                    \"\" =\u003e \"9.4.1\"\r\n  final_snapshot_identifier:         \"\" =\u003e \"preprod-nightswapping-pg-rds\"\r\n"
+    ],
+    [
+      0.000724,
+      "  identifier:                        \"\" =\u003e \"preprod-nightswapping-pg-rds\""
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "  instance_class:                    \"\" =\u003e \"db.t2.micro\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "  maintenance_window:                \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "  multi_az:                          \"\" =\u003e \"0\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "  name:                              \"\" =\u003e \"postgres\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "  parameter_group_name:              \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "  password:                          \"\" =\u003e \"************\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "  port:                              \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "  publicly_accessible:               \"\" =\u003e \"0\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "  status:                            \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  storage_type:                      \"\" =\u003e \"\u003ccomputed\u003e\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  username:                          \"\" =\u003e \"postgres\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "  vpc_security_group_ids.#:          \"\" =\u003e \"1\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  vpc_security_group_ids.3100737081: \"\" =\u003e \"sg-c1e5aba4\"\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.093528,
+      "\u001b[0m\u001b[1maws_route_table.private_route: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.002774,
+      "\u001b[0m\u001b[1maws_route_table.publique_route: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.002568,
+      "\u001b[0m\u001b[1maws_route_table_association.private_route_association_a: Creating...\u001b[21m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000218,
+      "  route_table_id: \"\" =\u003e \"rtb-dbfc42be\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000932,
+      "  subnet_id:      \"\" =\u003e \"subnet-5f8e153a\"\u001b[0m\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[0m\u001b[1maws_route_table_association.private_route_association_b: Creating...\u001b[21m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000529,
+      "  route_table_id: \"\" =\u003e \"rtb-dbfc42be\"\r\n"
+    ],
+    [
+      0.000139,
+      "  subnet_id:      \"\" =\u003e \"subnet-c824a4bf\"\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000287,
+      "\u001b[0m\u001b[1maws_route_table_association.publique_route_association_a: Creating...\u001b[21m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "  route_table_id: \"\" =\u003e \"rtb-dafc42bf\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "  subnet_id:      \"\" =\u003e \"subnet-5c8e1539\"\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000366,
+      "\u001b[0m\u001b[1maws_route_table_association.publique_route_association_b: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000014,
+      "  route_table_id: \"\" =\u003e \"rtb-dafc42bf\""
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "  subnet_id:      \"\" =\u003e \"subnet-b724a4c0\"\u001b[0m\r\n"
+    ],
+    [
+      0.372415,
+      "\u001b[0m\u001b[1maws_route_table_association.private_route_association_b: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.016246,
+      "\u001b[0m\u001b[1maws_route_table_association.private_route_association_a: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.002810,
+      "\u001b[0m\u001b[1maws_route_table_association.publique_route_association_b: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.013852,
+      "\u001b[0m\u001b[1maws_route_table_association.publique_route_association_a: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.816731,
+      "\u001b[0m\u001b[1maws_launch_configuration.as_conf: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.693792,
+      "\u001b[0m\u001b[1maws_elb.web_elb: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.006365,
+      "\u001b[0m\u001b[1maws_autoscaling_group.as_group: Creating...\u001b[21m\r\n  availability_zones.#:               \"\" =\u003e \"2\"\r\n  availability_zones.1924028850:      \"\" =\u003e \"eu-west-1b\"\r\n  availability_zones.3953592328:      \"\" =\u003e \"eu-west-1a\"\r\n  default_cooldown:                   \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000096,
+      "  desired_capacity:                   \"\" =\u003e \"2\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000339,
+      "  force_delete:                       \"\" =\u003e \"1\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "  health_check_grace_period:          \"\" =\u003e \"300\"\r\n"
+    ],
+    [
+      0.000124,
+      "  health_check_type:                  \"\" =\u003e \"ELB\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "  launch_configuration:               \"\" =\u003e \"preprod-nightswapping-as-conf\"\r\n"
+    ],
+    [
+      0.000142,
+      "  load_balancers.#:                   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000141,
+      "  load_balancers.1566092270:          \"\" =\u003e \"preprod-nightswapping-elb\"\r\n"
+    ],
+    [
+      0.000119,
+      "  max_size:                           \"\" =\u003e \"4\"\r\n"
+    ],
+    [
+      0.000121,
+      "  min_size:                           \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000188,
+      "  name:                               \"\" =\u003e \"preprod-nightswapping-as-group\"\r\n"
+    ],
+    [
+      0.000108,
+      "  tag.#:                              \"\" =\u003e \"2\"\r\n"
+    ],
+    [
+      0.000140,
+      "  tag.2346352784.key:                 \"\" =\u003e \"Environnement\"\r\n"
+    ],
+    [
+      0.000115,
+      "  tag.2346352784.propagate_at_launch: \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000146,
+      "  tag.2346352784.value:               \"\" =\u003e \"preprod\"\r\n"
+    ],
+    [
+      0.000143,
+      "  tag.3791447772.key:                 \"\" =\u003e \"Role\"\r\n"
+    ],
+    [
+      0.000101,
+      "  tag.3791447772.propagate_at_launch: \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000117,
+      "  tag.3791447772.value:               \"\" =\u003e \"web\"\r\n"
+    ],
+    [
+      0.000129,
+      "  termination_policies.#:             \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000126,
+      "  vpc_zone_identifier.#:              \"\" =\u003e \"2\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "  vpc_zone_identifier.2256901485:     \"\" =\u003e \"subnet-b724a4c0\"\r\n"
+    ],
+    [
+      0.000528,
+      "  vpc_zone_identifier.2747066222:     \"\" =\u003e \"subnet-5c8e1539\"\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.634062,
+      "\u001b[0m\u001b[1maws_autoscaling_group.as_group: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      5.405110,
+      "\u001b[0m\u001b[1maws_db_instance.db: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.002373,
+      "\u001b[0m\u001b[1m\u001b[32m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "Apply complete! Resources: 19 added, 0 changed, 0 destroyed.\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000148,
+      "The state of your infrastructure has been saved to the path\r\n"
+    ],
+    [
+      0.000142,
+      "below. This state is required to modify and destroy your\r\n"
+    ],
+    [
+      0.000149,
+      "infrastructure, so keep it safe. To inspect the complete state\r\n"
+    ],
+    [
+      0.002141,
+      "use the `terraform show` command.\r\n\r\nState path: terraform.tfstate\u001b[0m\r\n\u001b[0m\u001b[1m\u001b[32m\r\nOutputs:\r\n\r\n  db_endpoint = preprod-nightswapping-pg-rds.cca9kqmyjfdp.eu-west-1.rds.amazonaws.com:5432\r\n  elbdns_name = preprod-nightswapping-elb-338634473.eu-west-1.elb.amazonaws.com\u001b[0m\r\n"
+    ],
+    [
+      0.002804,
+      "build_infra.sh\r\n"
+    ],
+    [
+      0.002310,
+      "Création de l'infra preprod\r\n"
+    ],
+    [
+      0.000920,
+      "Création de l'elasticache"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      1.119536,
+      "  =\u003e Create cache\r\n  =\u003e Create cache subnet\r\n"
+    ],
+    [
+      1.014328,
+      "{\r\n    \"CacheSubnetGroup\": {\r\n        \"VpcId\": \"vpc-cd0ec5a8\", \r\n        \"CacheSubnetGroupDescription\": \"Subnet cache for nightswapping for preprod\", \r\n        \"Subnets\": [\r\n            {\r\n                \"SubnetIdentifier\": \"subnet-c44fe3b3\", \r\n                \"SubnetAvailabilityZone\": {\r\n                    \"Name\": \"eu-west-1b\"\r\n                }\r\n            }, \r\n            {\r\n                \"SubnetIdentifier\": \"subnet-b646c1d3\", \r\n                \"SubnetAvailabilityZone\": {\r\n                    \"Name\": \"eu-west-1a\"\r\n                }\r\n            }, \r\n            {\r\n                \"SubnetIdentifier\": \"subnet-b146c1d4\", \r\n                \"SubnetAvailabilityZone\": {\r\n                    \"Name\": \"eu-west-1a\"\r\n                }\r\n            }, \r\n            {\r\n                \"SubnetIdentifier\": \"subnet-c34fe3b4\", \r\n                \"SubnetAvailabilityZone\": {\r\n                    \"Name\": \"eu-west-1b\"\r\n                }\r\n            }\r\n        ], \r\n        \"CacheSubnetGroupName\": \"preprod-nightswapping-cache-subnet\"\r\n    }\r\n}\r\n"
+    ],
+    [
+      0.030359,
+      "      - Work in progress \r\n"
+    ],
+    [
+      0.000009,
+      "        "
+    ],
+    [
+      1.784361,
+      "."
+    ],
+    [
+      0.000188,
+      "\r\n      - Work done !\r\n  =\u003e Create cache cluster\r\n"
+    ],
+    [
+      1.175652,
+      "{\r\n    \"CacheCluster\": {\r\n        \"Engine\": \"redis\", \r\n        \"CacheParameterGroup\": {\r\n            \"CacheNodeIdsToReboot\": [], \r\n            \"CacheParameterGroupName\": \"default.redis2.8\", \r\n            \"ParameterApplyStatus\": \"in-sync\"\r\n        }, \r\n        \"CacheClusterId\": \"preprod-ns-redis\", \r\n        \"CacheSecurityGroups\": [], \r\n        \"NumCacheNodes\": 1, \r\n        \"AutoMinorVersionUpgrade\": true, \r\n        \"CacheClusterStatus\": \"creating\", \r\n        \"PreferredAvailabilityZone\": \"eu-west-1a\", \r\n        \"ClientDownloadLandingPage\": \"https://console.aws.amazon.com/elasticache/home#client-download:\", \r\n        \"SecurityGroups\": [\r\n            {\r\n                \"Status\": \"active\", \r\n                \"SecurityGroupId\": \"sg-6a9a0d0f\"\r\n            }\r\n        ], \r\n        \"CacheSubnetGroupName\": \"preprod-nightswapping-cache-subnet\", \r\n        \"EngineVersion\": \"2.8.19\", \r\n        \"PendingModifiedValues\": {}, \r\n        \"PreferredMaintenanceWindow\": \"fri:05:00-fri:06:00\", \r\n        \"CacheNodeType\": \"cache.t2.micro\"\r\n    }\r\n}\r\n"
+    ],
+    [
+      0.033979,
+      "      - Work in progress \r\n        "
+    ],
+    [
+      1.748523,
+      "."
+    ],
+    [
+      1.820578,
+      "."
+    ],
+    [
+      1.699994,
+      "."
+    ],
+    [
+      1.723985,
+      "."
+    ],
+    [
+      1.765829,
+      "."
+    ],
+    [
+      1.688654,
+      ".\r\n      - Work done !\r\n"
+    ],
+    [
+      0.000400,
+      "Création du reste de l'infra via cloudformation\r\n"
+    ],
+    [
+      0.954103,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "PLAY [amibuilder] ************************************************************* \r\n"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "GATHERING FACTS *************************************************************** "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.265909,
+      "\u001b[0;32mok: [amibuilder]\u001b[0m\r\n"
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [make temp cloudformation yml] ****************************************** \r\n"
+    ],
+    [
+      0.092718,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m\r\n"
+    ],
+    [
+      0.000304,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "TASK: [make temp cloudformation json] ***************************************** \r\n"
+    ],
+    [
+      0.092470,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.002416,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK: [debug msg=\"cfymltemp location {{cfymltemp.stdout}} | cftemp location {{cftemp.stdout}}\"] *** \r\n"
+    ],
+    [
+      0.024857,
+      "\u001b[0;32mok: [amibuilder] =\u003e {\r\n    \"msg\": \"cfymltemp location /tmp/user/1000/tmp.6btDAOhl4P | cftemp location /tmp/user/1000/cfjson.uWL9Ody\""
+    ],
+    [
+      0.000012,
+      "\r\n}\u001b[0m\r\n"
+    ],
+    [
+      0.000149,
+      "\r\nTASK: [create yml temp files] ************************************************* \r\n"
+    ],
+    [
+      0.150583,
+      "\u001b[0;33mchanged: [amibuilder] =\u003e (item=meta)\u001b[0m\r\n"
+    ],
+    [
+      0.096244,
+      "\u001b[0;33mchanged: [amibuilder] =\u003e (item=parameters)\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.092363,
+      "\u001b[0;33mchanged: [amibuilder] =\u003e (item=mappings)\u001b[0m\r\n"
+    ],
+    [
+      0.109792,
+      "\u001b[0;33mchanged: [amibuilder] =\u003e (item=resources)\u001b[0m\r\n"
+    ],
+    [
+      0.084175,
+      "\u001b[0;33mchanged: [amibuilder] =\u003e (item=outputs)\u001b[0m\r\n"
+    ],
+    [
+      0.000332,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "TASK: [assemble cloud formation files] **************************************** \r\n"
+    ],
+    [
+      0.243556,
+      "\u001b[0;32mok: [amibuilder]\u001b[0m\r\n"
+    ],
+    [
+      0.000331,
+      "\r\nTASK: [Launch Cloud Formation] ************************************************ \r\n"
+    ],
+    [
+      10.439322,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m\r\n\r\nTASK: [show stack outputs] **************************************************** \r\n"
+    ],
+    [
+      0.127275,
+      "\u001b[0;32mok: [amibuilder] =\u003e {"
+    ],
+    [
+      0.000018,
+      "\r\n    \"msg\": \"My stack outputs are {****************************************************}\"\r\n}\u001b[0m\r\n"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [Do stack_info.csv] ***************************************************** \r\n"
+    ],
+    [
+      0.184445,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000282,
+      "\r\nPLAY RECAP ******************************************************************** \r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[0;33mamibuilder\u001b[0m                 : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m9\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m5\u001b[0m    unreachable=0    failed=0   "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.912717,
+      "Création du fichier ansible/vars/env_files/preprod_aws.yml\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n  rds   : preprod-nightswapping-pg-rds.cca9kqmyjfdp.eu-west-1.rds.amazonaws.com\r\n"
+    ],
+    [
+      0.000006,
+      "  redis : preprod-ns-redis.rb1f1v.0001.euw1.cache.amazonaws.com"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "Complement du fichier ansible/stack_info.csv\r\n"
+    ],
+    [
+      0.000192,
+      "Construction de l'AMI\r\n"
+    ],
+    [
+      0.030840,
+      "make[1]: entrant dans le répertoire « /home/christophe/data/dev/clients/nightswapping/cosmosystem/terraform »\r\n"
+    ],
+    [
+      0.000009,
+      "mklink.sh preprod\r\n"
+    ],
+    [
+      0.076445,
+      "make[1]: quittant le répertoire « /home/christophe/data/dev/clients/nightswapping/cosmosystem/terraform »\r\n"
+    ],
+    [
+      1.600066,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "PLAY [amibuilder] ************************************************************* \r\n"
+    ],
+    [
+      0.000200,
+      "\r\nGATHERING FACTS *************************************************************** \r\n"
+    ],
+    [
+      0.916799,
+      "\u001b[0;32mok: [amibuilder]\u001b[0m\r\n"
+    ],
+    [
+      0.000350,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [launch temporary instance] ********************************************* \r\n"
+    ],
+    [
+      1.579005,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m\r\n"
+    ],
+    [
+      0.000545,
+      "\r\nTASK: [waiting for ssh to start] ********************************************** \r\n"
+    ],
+    [
+      1.886777,
+      "\u001b[0;32mok: [amibuilder]\u001b[0m\r\n\r\nTASK: [add host to group] ***************************************************** \r\n"
+    ],
+    [
+      0.025309,
+      "\u001b[0;32mok: [amibuilder]\u001b[0m\r\n\r\nPLAY [just_created] *********************************************************** \r\n\r\nGATHERING FACTS *************************************************************** \r\n"
+    ],
+    [
+      1.718637,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [common | Update the apt cache] ***************************************** \r\n"
+    ],
+    [
+      1.576236,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [common | Upgrade all packages] ***************************************** \r\n"
+    ],
+    [
+      1.688462,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000289,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [common | Upgrade dist] ************************************************* \r\n"
+    ],
+    [
+      1.989641,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [common | Install common software] ************************************** \r\n"
+    ],
+    [
+      1.248938,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=software-properties-common,console-data,unicode-data,language-pack-fr-base,language-pack-fr,tree,htop,dfc,strace,make,gcc,lsof,vim,curl,git,mc,sysstat,iotop,dstat,iptraf,tmux,zsh)\u001b[0m\r\n\r\nTASK: [common | Set hostname] ************************************************* \r\n"
+    ],
+    [
+      1.239550,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [common | Update hosts - add hostname to /etc/hosts] ******************** \r\n"
+    ],
+    [
+      3.918871,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [common | set locale to fr_FR.UTF-8] ************************************ \r\n"
+    ],
+    [
+      3.912379,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [common | Set timezone variables] *************************************** \r\n"
+    ],
+    [
+      3.119515,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [common | Allow sudo without password] ********************************** \r\n"
+    ],
+    [
+      4.105933,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [ansible-newrelic | Check for newrelic_license_key] ********************* \r\n"
+    ],
+    [
+      0.037000,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000359,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [ansible-newrelic | Debian | Set newrelic_loaded_os_family] ************* \r\n"
+    ],
+    [
+      0.034375,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [ansible-newrelic | Debian | Add New Relic repo key] ******************** \r\n"
+    ],
+    [
+      1.137693,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [ansible-newrelic | Debian | Add New Relic repository] ****************** \r\n"
+    ],
+    [
+      1.122000,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [ansible-newrelic | Debian | apt-get update] **************************** \r\n"
+    ],
+    [
+      1.709785,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [ansible-newrelic | Debian | Install New Relic Sysmond] ***************** \r\n"
+    ],
+    [
+      1.309129,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [ansible-newrelic | RedHat | Set newrelic_loaded_os_family] ************* \r\n"
+    ],
+    [
+      0.009393,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000342,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "TASK: [ansible-newrelic | RedHat | Add the New Relic repository key] ********** "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.010935,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m\r\n"
+    ],
+    [
+      0.001814,
+      "\r\nTASK: [ansible-newrelic | RedHat | Add the Rew Relic repository file] ********* \r\n"
+    ],
+    [
+      0.011472,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.001629,
+      "\r\n"
+    ],
+    [
+      0.002047,
+      "\r\nTASK: [ansible-newrelic | RedHat | Install New Relic Sysmond] ***************** \r\n"
+    ],
+    [
+      0.015759,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000379,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "TASK: [ansible-newrelic | Default | Check for unsupported target operating system] *** \r\n"
+    ],
+    [
+      0.016298,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000417,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "TASK: [ansible-newrelic | Configure New Relic Sysmond] ************************ \r\n"
+    ],
+    [
+      1.912135,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [ansible-newrelic | Ensure New Relic Sysmond is started and enabled] **** \r\n"
+    ],
+    [
+      1.724447,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [python-common | apt-get update] **************************************** \r\n"
+    ],
+    [
+      1.934377,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [python-common | Install packages from apt.] **************************** \r\n"
+    ],
+    [
+      1.150768,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=build-essential,libpq-dev,python-dev,python-pip,postgresql-server-dev-9.3,libxml2-dev,libxslt1-dev,libjpeg8-dev,libtiff4-dev,zlib1g-dev,libfreetype6-dev,liblcms2-dev,libwebp-dev,tcl8.6-dev,tk8.6-dev,python-tk,libevent-dev)\u001b[0m\r\n\r\nTASK: [python-common | Upgrade pip. Install setuptools.] ********************** \r\n"
+    ],
+    [
+      8.300117,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=pip)\u001b[0m\r\n"
+    ],
+    [
+      5.820664,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=setuptools)\u001b[0m\r\n"
+    ],
+    [
+      5.528680,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=virtualenv)\u001b[0m\r\n"
+    ],
+    [
+      2.077994,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=virtualenvwrapper)\u001b[0m\r\n\r\nTASK: [nginx | Uninstall the apache packages] ********************************* \r\n"
+    ],
+    [
+      5.624535,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx | Install the selinux python module] ***************************** \r\n"
+    ],
+    [
+      0.016619,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000381,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "TASK: [nginx | Copy the epel packages] **************************************** "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.012730,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000749,
+      "\r\n"
+    ],
+    [
+      0.000386,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "TASK: [nginx | Install the nginx packages] ************************************ \r\n"
+    ],
+    [
+      0.027453,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m\r\n"
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "TASK: [nginx | Install the nginx packages] ************************************ \r\n"
+    ],
+    [
+      1.040913,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=python-selinux,nginx)\u001b[0m\r\n\r\nTASK: [nginx | Create the directories for site specific configurations] ******* \r\n"
+    ],
+    [
+      4.351297,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=sites-available)\u001b[0m\r\n"
+    ],
+    [
+      4.312903,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=sites-enabled)\u001b[0m\r\n"
+    ],
+    [
+      4.289573,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=auth_basic)\u001b[0m\r\n"
+    ],
+    [
+      4.307412,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=global)\u001b[0m\r\n\r\nTASK: [nginx | Ensure log directory exist] ************************************ \r\n"
+    ],
+    [
+      4.342926,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx | Copy the nginx configuration file] ***************************** \r\n"
+    ],
+    [
+      1.889709,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx | Ensure auth_basic files created] ******************************* \r\n"
+    ],
+    [
+      0.009593,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "TASK: [nginx | Disable the default site] ************************************** "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      4.331469,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx | Create the configurations for independent config file] ********* \r\n"
+    ],
+    [
+      0.010219,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "\r\nTASK: [nginx | Check nginx syntax of configuration files] ********************* \r\n"
+    ],
+    [
+      4.569176,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "TASK: [nginx | Start the nginx service] *************************************** \r\n"
+    ],
+    [
+      4.750329,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx | Install ngxtop] ************************************************ \r\n"
+    ],
+    [
+      2.039078,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx-conf | Delete confs] ********************************************* \r\n"
+    ],
+    [
+      4.374525,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=certs)\u001b[0m\r\n"
+    ],
+    [
+      4.322802,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=global)\u001b[0m\r\n\r\nTASK: [nginx-conf | Create directorys] **************************************** \r\n"
+    ],
+    [
+      2.491652,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=certs)\u001b[0m\r\n"
+    ],
+    [
+      1.050424,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=global)\u001b[0m\r\n\r\nTASK: [nginx-conf | Create time_log_format] *********************************** \r\n"
+    ],
+    [
+      1.396666,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx-conf | Create global conf] *************************************** \r\n"
+    ],
+    [
+      2.904429,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=prerenderio)\u001b[0m\r\n\r\nTASK: [nginx-conf | Create htpasswd] ****************************************** \r\n"
+    ],
+    [
+      2.382647,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx-conf | Delete the configurations for sites] ********************** \r\n"
+    ],
+    [
+      2.372325,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx-conf | Create the configurations for sites] ********************** \r\n"
+    ],
+    [
+      2.886411,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=nightswapping)\u001b[0m\r\n"
+    ],
+    [
+      2.889558,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=nightswappinglang)\u001b[0m\r\n\r\nTASK: [nginx-conf | Disable the all site] ************************************* \r\n"
+    ],
+    [
+      2.349057,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx-conf | Create links for sites-enabled] *************************** \r\n"
+    ],
+    [
+      2.336813,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=nightswapping)\u001b[0m\r\n"
+    ],
+    [
+      2.348052,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=nightswappinglang)\u001b[0m\r\n\r\nTASK: [nginx-conf | Check nginx syntax of configuration files] **************** \r\n"
+    ],
+    [
+      2.600646,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [nginx-conf | Start the nginx service] ********************************** \r\n"
+    ],
+    [
+      2.662911,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Create the application user] ****************************** \r\n"
+    ],
+    [
+      2.001430,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Create the application group] ***************************** \r\n"
+    ],
+    [
+      2.749475,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Add the application user to the application group] ******** \r\n"
+    ],
+    [
+      2.050952,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Ensure that the $HOME/.ssh file permissions are set properly] *** \r\n"
+    ],
+    [
+      2.703210,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Add ssh private key] ************************************** \r\n"
+    ],
+    [
+      2.061794,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Add ssh public key] *************************************** \r\n"
+    ],
+    [
+      2.965774,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Add ssh authorized_keys to admin user] ******************** \r\n"
+    ],
+    [
+      2.047784,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n"
+    ],
+    [
+      0.000588,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "TASK: [web-django | stat path=\"/home/{{ app_user }}/.virtualenvs/{{ application_name }}/bin\"] *** \r\n"
+    ],
+    [
+      2.481749,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | debug msg=\"Path /home/{{ app_user }}/.virtualenvs/{{ application_name }} exists and is a directory\"] *** \r\n"
+    ],
+    [
+      0.039203,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m\r\n"
+    ],
+    [
+      0.000274,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "TASK: [web-django | create virtualenv] **************************************** \r\n"
+    ],
+    [
+      2.490971,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Create virtual env postactivate] ************************** \r\n"
+    ],
+    [
+      2.194991,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Create virtual env exec] ********************************** \r\n"
+    ],
+    [
+      2.200273,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Add user profile] ***************************************** \r\n"
+    ],
+    [
+      2.478149,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | install module pip] *************************************** \r\n"
+    ],
+    [
+      2.624769,
+      "\u001b[0;32mok: [52.16.225.2] =\u003e (item=httplib2)\u001b[0m\r\n\r\nTASK: [web-django | Install dependences] ************************************** \r\n"
+    ],
+    [
+      2.590125,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=postgresql-client,binutils,libproj-dev,gdal-bin,postgresql-9.3-postgis-2.1)\u001b[0m\r\n\r\nTASK: [web-django | Create pgpass file] *************************************** \r\n"
+    ],
+    [
+      2.745880,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | create log dir] ******************************************* \r\n"
+    ],
+    [
+      2.371598,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [web-django | Create the application log files] ************************* \r\n"
+    ],
+    [
+      4.517391,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=out)\u001b[0m\r\n"
+    ],
+    [
+      4.389476,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=err)\u001b[0m\r\n\r\nTASK: [web-django | Set permission to the application log file] *************** \r\n"
+    ],
+    [
+      4.422564,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=out)\u001b[0m\r\n"
+    ],
+    [
+      4.938660,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=err)\u001b[0m\r\n\r\nTASK: [web-django | Ensure that the application file permissions are set properly] *** \r\n"
+    ],
+    [
+      4.629699,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [dploy-django | Setup the Git repo] ************************************* \r\n"
+    ],
+    [
+      2.163454,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [dploy-django | Ensure that the application file permissions are set properly] *** \r\n"
+    ],
+    [
+      4.432810,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [dploy-django | Create app conf] **************************************** \r\n"
+    ],
+    [
+      6.965045,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [dploy-django | install requirements into virtualenv] ******************* \r\n"
+    ],
+    [
+      2.035146,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [dploy-django | install module pip] ************************************* \r\n"
+    ],
+    [
+      2.500057,
+      "\u001b[0;32mok: [52.16.225.2] =\u003e (item=httplib2)\u001b[0m\r\n\r\nTASK: [dploy-django | Run Django South migrations] **************************** \r\n"
+    ],
+    [
+      0.029891,
+      "\u001b[0;36mskipping: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [dploy-django | Run Django collectstatic] ******************************* \r\n"
+    ],
+    [
+      2.594114,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [dploy-django | Ensure that the application file permissions are set properly] *** \r\n"
+    ],
+    [
+      2.422676,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [supervisor | install supervisor] *************************************** \r\n"
+    ],
+    [
+      2.362030,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [supervisor | installing gunicorn start script] ************************* \r\n"
+    ],
+    [
+      2.965346,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000511,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "TASK: [supervisor | stop gunicorn] ******************************************** \r\n"
+    ],
+    [
+      1.117730,
+      "\u001b[0;32mok: [52.16.225.2] =\u003e (item=cosmoserver)\u001b[0m\r\n\r\nTASK: [supervisor | installing tasks] ***************************************** \r\n"
+    ],
+    [
+      2.968688,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=cosmoserver)\u001b[0m\r\n\r\nTASK: [supervisor | create log dir] ******************************************* \r\n"
+    ],
+    [
+      2.368223,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [supervisor | Start supervisor] ***************************************** \r\n"
+    ],
+    [
+      2.794077,
+      "\u001b[0;32mok: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [supervisor | update supervisor] **************************************** \r\n"
+    ],
+    [
+      2.458688,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nTASK: [supervisor | restart tasks] ******************************************** \r\n"
+    ],
+    [
+      2.093405,
+      "\u001b[0;33mchanged: [52.16.225.2] =\u003e (item=cosmoserver)\u001b[0m\r\n\r\nNOTIFIED: [common | update timezone] ****************************************** \r\n"
+    ],
+    [
+      2.245357,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nNOTIFIED: [ansible-newrelic | Restart New Relic] ****************************** \r\n"
+    ],
+    [
+      2.628413,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nNOTIFIED: [nginx | restart nginx] ********************************************* \r\n"
+    ],
+    [
+      2.639787,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nNOTIFIED: [nginx | reload nginx] ********************************************** \r\n"
+    ],
+    [
+      2.245195,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nNOTIFIED: [web-django | restart application] ********************************** \r\n"
+    ],
+    [
+      2.781067,
+      "\u001b[0;33mchanged: [52.16.225.2]\u001b[0m\r\n\r\nPLAY [amibuilder] ************************************************************* \r\n\r\nGATHERING FACTS *************************************************************** \r\n"
+    ],
+    [
+      2.093550,
+      "\u001b[0;32mok: [amibuilder]\u001b[0m\r\n"
+    ],
+    [
+      0.000500,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [bundle ami] ************************************************************ \r\n"
+    ],
+    [
+      2.523543,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m\r\n\r\nTASK: [delete old ami] ******************************************************** \r\n"
+    ],
+    [
+      0.008096,
+      "\u001b[0;36mskipping: [amibuilder]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [terminate temporary instance] ****************************************** \r\n"
+    ],
+    [
+      1.473621,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000362,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK: [create vars file with new ami info] ************************************ \r\n"
+    ],
+    [
+      0.196406,
+      "\u001b[0;33mchanged: [amibuilder]\u001b[0m\r\n"
+    ],
+    [
+      0.000297,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "PLAY RECAP ******************************************************************** \r\n"
+    ],
+    [
+      0.000112,
+      "\u001b[0;33m52.16.225.2\u001b[0m                : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m79\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m56\u001b[0m   unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;33mamibuilder\u001b[0m                 : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m8\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m4\u001b[0m    unreachable=0    failed=0   "
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.233566,
+      "/home/christophe/data/dev/clients/nightswapping/cosmosystem/terraform\r\n"
+    ],
+    [
+      0.176983,
+      "make[1]: entrant dans le répertoire « /home/christophe/data/dev/clients/nightswapping/cosmosystem/terraform »\r\n"
+    ],
+    [
+      0.000009,
+      "mklink.sh preprod\r\n"
+    ],
+    [
+      0.222512,
+      "make[1]: quittant le répertoire « /home/christophe/data/dev/clients/nightswapping/cosmosystem/terraform »\r\n"
+    ],
+    [
+      0.000758,
+      "Liste l'infrastructure de l'environnement de preprod\r\n-----[ VPC ]-------\r\nCIDR vpc-name\r\n"
+    ],
+    [
+      3.091654,
+      "10.1.0.0/16\tvpc-006cc365\r\n"
+    ],
+    [
+      0.000645,
+      "-----[ security groups ]-------\r\nDescription SG-name\r\n"
+    ],
+    [
+      0.796267,
+      "Machines Web for preprod\t"
+    ],
+    [
+      0.000009,
+      "preprod-nightswapping-web-sg\r\nRDS security group for preprod\tpreprod-nightswapping-rds-sg\r\n"
+    ],
+    [
+      0.000324,
+      "-----[ RDS ]-------\r\n"
+    ],
+    [
+      0.996415,
+      "ENDPOINT\tpreprod-nightswapping-pg-rds.cca9kqmyjfdp.eu-west-1.rds.amazonaws.com\t5432\r\n"
+    ],
+    [
+      0.000222,
+      "-----[ Elasticache ]-------"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.793340,
+      "ENDPOINT\tpreprod-ns-redis.rb1f1v.0001.euw1.cache.amazonaws.com\t6379\r\n"
+    ],
+    [
+      0.000087,
+      "-----[ ELB ]-------"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.910712,
+      "preprod-nightswapping-elb-338634473.eu-west-1.elb.amazonaws.com\r\n"
+    ],
+    [
+      0.000921,
+      "-----[ Autoscaling ]-------\r\n"
+    ],
+    [
+      0.867045,
+      "preprod-nightswapping-as-group\r\n"
+    ],
+    [
+      0.000344,
+      "-----[ My AMI ]-------\r\n"
+    ],
+    [
+      0.000051,
+      "AMI-ID AMI-name\r\n"
+    ],
+    [
+      0.878865,
+      "ami-957c1be2\tpreprod-cosmoserver-1428521562\r\n"
+    ],
+    [
+      0.000166,
+      "-----[ EC2 ]-------\r\ninstance-ids dns-name\r\n"
+    ],
+    [
+      1.117746,
+      "i-2e1640ca\tec2-52-17-93-26.eu-west-1.compute.amazonaws.com\r\ni-a5db8f42\tec2-52-16-114-240.eu-west-1.compute.amazonaws.com\r\n"
+    ],
+    [
+      0.000207,
+      "-----[ S3 ]-------\r\n"
+    ],
+    [
+      0.811881,
+      "preprod-nightswapping\r\npreprod-nightswapping-backup\r\npreprod-nightswapping-cosmoclient\r\n"
+    ],
+    [
+      0.031906,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                         \r \r"
+    ],
+    [
+      1.640427,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/data/dev/clients/nightswapping/cosmosystem/terraform \u001b[43m\u001b[34m\u001b[30m  feature/77-include-ansible-provisionning-in-terraform ● \u001b[49m\u001b[33m\u001b[39m                                                           [21:40:33] » "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      2.786951,
+      "\u001b[32mex\u001b[90mit\u001b[39m\u0008\u0008\u0008"
+    ],
+    [
+      0.229337,
+      "\u001b[1C\u001b[32mi\u0008"
+    ],
+    [
+      0.143684,
+      "\u001b[1C\u001b[32mt\u001b[39m\u0008"
+    ],
+    [
+      0.207669,
+      "\u001b[1C"
+    ],
+    [
+      0.429912,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.120730,
+      "\r\r\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/data/dev/clients/nightswapping/cosmosystem/terraform \u001b[43m\u001b[34m\u001b[30m  feature/77-include-ansible-provisionning-in-terraform ● \u001b[49m\u001b[33m\u001b[39m                                                           [21:42:02] » "
+    ],
+    [
+      0.000010,
+      "\u001b[32mexit\u001b[39m\u001b[K"
+    ],
+    [
+      0.000325,
+      "\r\r\n"
+    ]
+  ]
+}
