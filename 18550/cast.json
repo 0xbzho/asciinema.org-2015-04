@@ -1,0 +1,874 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 20.375258,
+  "command": "/usr/bin/zsh",
+  "title": "Command: pstree",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.748602,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000120,
+      "\u001b]2;harrison@neadwerx-hk: ~\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.011776,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;33m% \u001b[01;32m➜ \u001b[01;37mharrison@neadwerx-hk \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.000000,
+      "p"
+    ],
+    [
+      0.080947,
+      "\u0008\u001b[32mp\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.078769,
+      "\u0008\u0008\u001b[1m\u001b[33mp\u001b[1m\u001b[33ms\u001b[1m\u001b[33mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.102823,
+      "\u0008\u0008\u0008\u001b[39m\u001b[1m\u001b[41mp\u001b[39m\u001b[1m\u001b[41ms\u001b[39m\u001b[1m\u001b[41mt\u001b[1m\u001b[41mr\u001b[0m\u001b[49m"
+    ],
+    [
+      0.136854,
+      "\u0008\u001b[1m\u001b[41mr\u001b[1m\u001b[41me\u001b[0m\u001b[49m"
+    ],
+    [
+      0.136787,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[49m\u001b[32mp\u001b[0m\u001b[49m\u001b[32ms\u001b[0m\u001b[49m\u001b[32mt\u001b[0m\u001b[49m\u001b[32mr\u001b[0m\u001b[49m\u001b[32me\u001b[32me\u001b[39m"
+    ],
+    [
+      0.119911,
+      " "
+    ],
+    [
+      0.176516,
+      "\u001b[1m\u001b[33mv\u001b[0m\u001b[39m"
+    ],
+    [
+      0.088844,
+      "\u0008\u001b[1m\u001b[33mv\u001b[1m\u001b[33mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.151712,
+      "\u0008\u0008\u001b[0m\u001b[39mv\u001b[0m\u001b[39mis"
+    ],
+    [
+      0.237120,
+      "u"
+    ],
+    [
+      0.154735,
+      "a"
+    ],
+    [
+      0.159856,
+      "l"
+    ],
+    [
+      0.135456,
+      "l"
+    ],
+    [
+      0.128595,
+      "y"
+    ],
+    [
+      0.112092,
+      " "
+    ],
+    [
+      0.104154,
+      "s"
+    ],
+    [
+      0.111305,
+      "\u0008\u001b[1m\u001b[33ms\u001b[1m\u001b[33mh\u001b[0m\u001b[39m"
+    ],
+    [
+      0.088189,
+      "\u0008\u001b[1m\u001b[33mh\u001b[1m\u001b[33mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.112725,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39ms\u001b[0m\u001b[39mh\u001b[0m\u001b[39mow"
+    ],
+    [
+      0.072031,
+      "s"
+    ],
+    [
+      0.103609,
+      " "
+    ],
+    [
+      0.111443,
+      "a"
+    ],
+    [
+      0.136015,
+      " "
+    ],
+    [
+      0.208786,
+      "p"
+    ],
+    [
+      0.167660,
+      "r"
+    ],
+    [
+      0.129565,
+      "o"
+    ],
+    [
+      0.215678,
+      "\u0008\u0008\u0008\u001b[1m\u001b[33mp\u001b[1m\u001b[33mr\u001b[1m\u001b[33mo\u001b[1m\u001b[33mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.174706,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[39mp\u001b[0m\u001b[39mr\u001b[0m\u001b[39mo\u001b[0m\u001b[39mce"
+    ],
+    [
+      0.208840,
+      "s"
+    ],
+    [
+      0.127827,
+      "s"
+    ],
+    [
+      0.319184,
+      " "
+    ],
+    [
+      0.193172,
+      "\u001b[1m\u001b[33mh\u001b[0m\u001b[39m"
+    ],
+    [
+      0.111274,
+      "\u0008\u001b[1m\u001b[33mh\u001b[1m\u001b[33mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.159823,
+      "\u0008\u0008\u001b[0m\u001b[39mh\u001b[0m\u001b[39mie"
+    ],
+    [
+      0.200448,
+      "r"
+    ],
+    [
+      0.127409,
+      "a"
+    ],
+    [
+      0.152333,
+      "r"
+    ],
+    [
+      0.192048,
+      "c"
+    ],
+    [
+      0.104622,
+      "h"
+    ],
+    [
+      0.287482,
+      "y"
+    ],
+    [
+      0.168025,
+      " "
+    ],
+    [
+      0.127137,
+      "a"
+    ],
+    [
+      0.081169,
+      "\u0008\u001b[1m\u001b[33ma\u001b[1m\u001b[33ms\u001b[0m\u001b[39m"
+    ],
+    [
+      0.087480,
+      "\u0008\u0008\u001b[0m\u001b[39ma\u001b[0m\u001b[39ms "
+    ],
+    [
+      0.144378,
+      "a"
+    ],
+    [
+      0.104036,
+      " "
+    ],
+    [
+      0.344815,
+      "t"
+    ],
+    [
+      0.079927,
+      "r"
+    ],
+    [
+      0.151278,
+      "e"
+    ],
+    [
+      0.151961,
+      "e"
+    ],
+    [
+      0.908494,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;harrison@neadwerx-hk: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.012039,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;33m% \u001b[01;31m➜ \u001b[27m\u001b[01;37mharrison@neadwerx-hk \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000043,
+      "\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.000000,
+      "p"
+    ],
+    [
+      0.073570,
+      "\u0008\u001b[32mp\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.070694,
+      "\u0008\u0008\u001b[1m\u001b[33mp\u001b[1m\u001b[33ms\u001b[1m\u001b[33mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.110983,
+      "\u0008\u0008\u0008\u001b[39m\u001b[1m\u001b[41mp\u001b[39m\u001b[1m\u001b[41ms\u001b[39m\u001b[1m\u001b[41mt\u001b[1m\u001b[41mr\u001b[0m\u001b[49m"
+    ],
+    [
+      0.144586,
+      "\u0008\u001b[1m\u001b[41mr\u001b[1m\u001b[41me\u001b[0m\u001b[49m"
+    ],
+    [
+      0.153755,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[49m\u001b[32mp\u001b[0m\u001b[49m\u001b[32ms\u001b[0m\u001b[49m\u001b[32mt\u001b[0m\u001b[49m\u001b[32mr\u001b[0m\u001b[49m\u001b[32me\u001b[32me\u001b[39m"
+    ],
+    [
+      0.487335,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;pstree\u0007\u001b]1;pstree\u0007"
+    ],
+    [
+      0.022274,
+      "init─┬─ModemManager───2*[{ModemManager}]\r\n     ├─NetworkManager─┬─dhclient\r\n     │                ├─dnsmasq\r\n     │                └─3*[{NetworkManager}]\r\n     ├─accounts-daemon───2*[{accounts-daemon}]\r\n     ├─acpid\r\n     ├─aptd───{aptd}\r\n     ├─avahi-daemon───avahi-daemon\r\n     ├─bluetoothd\r\n     ├─colord───2*[{colord}]\r\n     ├─cron\r\n"
+    ],
+    [
+      0.000019,
+      "     ├─cups-browsed\r\n     ├─cupsd\r\n     ├─dbus-daemon\r\n     ├─6*[getty]\r\n     ├─irqbalance\r\n     ├─kerneloops\r\n     ├─lightdm─┬─Xorg\r\n"
+    ],
+    [
+      0.000009,
+      "     │         ├─lightdm─┬─init─┬─at-spi-bus-laun─┬─dbus-daemon\r\n     │         │         │      │                 └─3*[{at-spi-bus-laun}]\r\n"
+    ],
+    [
+      0.000014,
+      "     │         │         │      ├─at-spi2-registr───{at-spi2-registr}\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      ├─bamfdaemon───3*[{bamfdaemon}]\r\n"
+    ],
+    [
+      0.000012,
+      "     │         │         │      ├─chromium-browse─┬─chrome-sandbox───chromium-b+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      │                 ├─chromium-browse─┬─chromium-+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "     │         │         │      │                 │                 └─3*[{chrom+\r\n"
+    ],
+    [
+      0.000005,
+      "     │         │         │      │                 └─45*[{chromium-browse}]\r\n     │         │         │      ├─dbus-daemon\r\n"
+    ],
+    [
+      0.000018,
+      "     │         │         │      ├─dconf-service───2*[{dconf-service}]\r\n"
+    ],
+    [
+      0.000006,
+      "     │         │         │      ├─evolution-calen───4*[{evolution-calen}]\r\n     │         │         │      ├─evolution-sourc───2*[{evolution-sourc}]"
+    ],
+    [
+      0.000012,
+      "\r\n     │         │         │      ├─gconfd-2\r\n"
+    ],
+    [
+      0.000004,
+      "     │         │         │      ├─gnome-keyring-d───5*[{gnome-keyring-d}]\r\n"
+    ],
+    [
+      0.000012,
+      "     │         │         │      ├─gnome-session─┬─compiz───7*[{compiz}]"
+    ],
+    [
+      0.000004,
+      "\r\n     │         │         │      │               ├─deja-dup-monito───2*[{deja-du+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "     │         │         │      │               ├─indicator-multi───2*[{indicat+\r\n"
+    ],
+    [
+      0.000005,
+      "     │         │         │      │               ├─nm-applet───2*[{nm-applet}]\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      │               ├─polkit-gnome-au───3*[{polkit-+\r\n"
+    ],
+    [
+      0.000010,
+      "     │         │         │      │               ├─telepathy-indic───2*[{telepat+\r\n"
+    ],
+    [
+      0.000014,
+      "     │         │         │      │               ├─unity-fallback-───2*[{unity-f+\r\n"
+    ],
+    [
+      0.000005,
+      "     │         │         │      │               ├─update-notifier───3*[{update-+\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      │               ├─zeitgeist-datah───6*[{zeitgei+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "     │         │         │      │               └─3*[{gnome-session}]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      ├─gnome-terminal─┬─gnome-pty-helpe\r\n"
+    ],
+    [
+      0.000010,
+      "     │         │         │      │                ├─zsh───ssh-remote-zsh───ssh"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "     │         │         │      │                ├─zsh───vim"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "     │         │         │      │                ├─zsh───asciinema─┬─sh───zsh──+++\r\n"
+    ],
+    [
+      0.000046,
+      "     │         │         │      │                │                 └─5*[{asciin+\r\n     │         │         │      │                └─3*[{gnome-terminal}]\r\n     │         │         │      ├─gvfs-afc-volume───2*[{gvfs-afc-volume}]\r\n     │         │         │      ├─gvfs-gphoto2-vo───{gvfs-gphoto2-vo}\r\n     │         │         │      ├─gvfs-mtp-volume───{gvfs-mtp-volume}\r\n"
+    ],
+    [
+      0.000005,
+      "     │         │         │      ├─gvfs-udisks2-vo───2*[{gvfs-udisks2-vo}]\r\n     │         │         │      ├─gvfsd───{gvfsd}\r\n"
+    ],
+    [
+      0.000004,
+      "     │         │         │      ├─gvfsd-burn───2*[{gvfsd-burn}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "     │         │         │      ├─gvfsd-fuse───4*[{gvfsd-fuse}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      ├─gvfsd-metadata───{gvfsd-metadata}\r\n"
+    ],
+    [
+      0.000009,
+      "     │         │         │      ├─gvfsd-trash───2*[{gvfsd-trash}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "     │         │         │      ├─hud-service───3*[{hud-service}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "     │         │         │      ├─ibus-daemon─┬─ibus-dconf───3*[{ibus-dconf}]"
+    ],
+    [
+      0.000007,
+      "\r\n     │         │         │      │             ├─ibus-engine-sim───2*[{ibus-engi+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "     │         │         │      │             ├─ibus-ui-gtk3───3*[{ibus-ui-gtk3+\r\n"
+    ],
+    [
+      0.000007,
+      "     │         │         │      │             └─2*[{ibus-daemon}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "     │         │         │      ├─ibus-x11───3*[{ibus-x11}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "     │         │         │      ├─indicator-appli───{indicator-appli}"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "     │         │         │      ├─indicator-bluet───2*[{indicator-bluet}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "     │         │         │      ├─indicator-datet───5*[{indicator-datet}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "     │         │         │      ├─indicator-keybo───2*[{indicator-keybo}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "     │         │         │      ├─indicator-messa───3*[{indicator-messa}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "     │         │         │      ├─indicator-power───2*[{indicator-power}]\r\n     │         │         │      ├─indicator-print───2*[{indicator-print}]\r\n"
+    ],
+    [
+      0.000012,
+      "     │         │         │      ├─indicator-sessi───2*[{indicator-sessi}]"
+    ],
+    [
+      0.000005,
+      "\r\n     │         │         │      ├─indicator-sound───3*[{indicator-sound}]\r\n"
+    ],
+    [
+      0.000004,
+      "     │         │         │      ├─insync───10*[{insync}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "     │         │         │      ├─mission-control───2*[{mission-control}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "     │         │         │      ├─notify-osd───2*[{notify-osd}]\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      ├─oneconf-service───3*[{oneconf-service}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "     │         │         │      ├─pulseaudio───3*[{pulseaudio}]\r\n"
+    ],
+    [
+      0.000002,
+      "     │         │         │      ├─2*[ssh-agent]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "     │         │         │      ├─unity-panel-ser───2*[{unity-panel-ser}]\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      ├─unity-settings-───3*[{unity-settings-}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "     │         │         │      ├─update-manager─┬─debconf-communi\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      │                └─2*[{update-manager}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "     │         │         │      ├─2*[upstart-dbus-br]\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      ├─upstart-event-b"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "     │         │         │      ├─upstart-file-br\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      ├─window-stack-br\r\n"
+    ],
+    [
+      0.000011,
+      "     │         │         │      ├─zeitgeist-daemo───{zeitgeist-daemo}\r\n"
+    ],
+    [
+      0.000003,
+      "     │         │         │      └─zeitgeist-fts─┬─cat"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "     │         │         │                      └─2*[{zeitgeist-fts}]"
+    ],
+    [
+      0.000003,
+      "\r\n     │         │         └─{lightdm}"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "     │         └─2*[{lightdm}]"
+    ],
+    [
+      0.000007,
+      "\r\n     ├─nvidia-persiste"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "     ├─polkitd───2*[{polkitd}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "     ├─rsyslogd───3*[{rsyslogd}]"
+    ],
+    [
+      0.000003,
+      "\r\n     ├─rtkit-daemon───2*[{rtkit-daemon}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "     ├─sh───initctl\r\n"
+    ],
+    [
+      0.000002,
+      "     ├─systemd-logind"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "     ├─systemd-udevd"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "     ├─teamviewerd───15*[{teamviewerd}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "     ├─udisksd───4*[{udisksd}]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "     ├─upowerd───2*[{upowerd}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "     ├─upstart-file-br"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "     ├─upstart-socket-\r\n"
+    ],
+    [
+      0.000004,
+      "     ├─upstart-udev-br\r\n"
+    ],
+    [
+      0.000002,
+      "     └─whoopsie───2*[{whoopsie}]\r\n"
+    ],
+    [
+      0.000486,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;harrison@neadwerx-hk: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.005490,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;33m% \u001b[01;32m➜ \u001b[01;37mharrison@neadwerx-hk \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.000000,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;harrison@neadwerx-hk: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.005865,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;33m% \u001b[01;32m➜ \u001b[01;37mharrison@neadwerx-hk \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.000000,
+      "\u001b[32m4\u001b[39m"
+    ],
+    [
+      0.012007,
+      "\u0008\u001b[1m\u001b[33m4\u001b[1m\u001b[33mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.028127,
+      "\u0008\u0008\u001b[39m\u001b[1m\u001b[41m4\u001b[39m\u001b[1m\u001b[41mp\u001b[1m\u001b[41ms\u001b[0m\u001b[49m"
+    ],
+    [
+      0.080532,
+      "\u0008\u001b[1m\u001b[41ms\u001b[1m\u001b[41mt\u001b[0m\u001b[49m"
+    ],
+    [
+      0.135990,
+      "\u0008\u001b[1m\u001b[41mt\u001b[1m\u001b[41mr\u001b[0m\u001b[49m"
+    ],
+    [
+      0.272159,
+      "\u0008\u0008\u001b[1m\u001b[41mt\u001b[0m\u001b[49m\u001b[0m\u001b[49m \u0008"
+    ],
+    [
+      0.127862,
+      "\u0008\u0008\u001b[1m\u001b[41ms\u001b[0m\u001b[49m\u001b[0m\u001b[49m \u0008"
+    ],
+    [
+      0.136112,
+      "\u0008\u0008\u0008\u001b[49m\u001b[1m\u001b[33m4\u001b[49m\u001b[1m\u001b[33mp\u001b[0m\u001b[39m\u001b[0m\u001b[49m \u0008"
+    ],
+    [
+      0.151372,
+      "\u0008\u0008\u001b[0m\u001b[32m4\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.136815,
+      "\u0008\u001b[39m \u0008"
+    ],
+    [
+      0.255357,
+      "p"
+    ],
+    [
+      0.272157,
+      "\u0008\u001b[32mp\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.072481,
+      "\u0008\u0008\u001b[1m\u001b[33mp\u001b[1m\u001b[33ms\u001b[1m\u001b[33mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.191290,
+      "\u0008\u0008\u0008\u001b[39m\u001b[1m\u001b[41mp\u001b[39m\u001b[1m\u001b[41ms\u001b[39m\u001b[1m\u001b[41mt\u001b[1m\u001b[41mr\u001b[0m\u001b[49m"
+    ],
+    [
+      0.320536,
+      "\u0008\u001b[1m\u001b[41mr\u001b[1m\u001b[41me\u001b[0m\u001b[49m"
+    ],
+    [
+      0.119700,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[49m\u001b[32mp\u001b[0m\u001b[49m\u001b[32ms\u001b[0m\u001b[49m\u001b[32mt\u001b[0m\u001b[49m\u001b[32mr\u001b[0m\u001b[49m\u001b[32me\u001b[32me\u001b[39m"
+    ],
+    [
+      0.222849,
+      " "
+    ],
+    [
+      0.864943,
+      "\u001b[1m\u001b[33m2\u001b[0m\u001b[39m"
+    ],
+    [
+      0.699080,
+      "\u0008\u001b[0m\u001b[39m24"
+    ],
+    [
+      0.428785,
+      "3"
+    ],
+    [
+      0.272706,
+      "0"
+    ],
+    [
+      0.438184,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000697,
+      "\r\r\n\u001b]2;pstree 2430\u0007\u001b]1;pstree\u0007"
+    ],
+    [
+      0.008510,
+      "chromium-browse─┬─chromium-browse\r\n                └─3*[{chromium-browse}]\r\n"
+    ],
+    [
+      0.000397,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;harrison@neadwerx-hk: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.008061,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;33m% \u001b[01;32m➜ \u001b[01;37mharrison@neadwerx-hk \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.000000,
+      "\r\r\n"
+    ]
+  ]
+}
