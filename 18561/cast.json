@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 17.830560,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.052433,
+      "\u001b]0;robot@robot-move: ~\u0007robot@robot-move:~$ "
+    ],
+    [
+      1.466130,
+      "t"
+    ],
+    [
+      0.178163,
+      "o"
+    ],
+    [
+      0.182106,
+      "p"
+    ],
+    [
+      0.509285,
+      "\r\n"
+    ],
+    [
+      0.001765,
+      "\u001b[?1h\u001b=\u001b[?25l"
+    ],
+    [
+      0.162055,
+      "\u001b[H\u001b[2J\u001b(B\u001b[mtop - 21:55:53 up 1 day, 10:35,  4 users,  load average: 0.59, 0.43, 0.50\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nTasks:\u001b(B\u001b[m\u001b[39;49m\u001b[1m 314 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   1 \u001b(B\u001b[m\u001b[39;49mrunning,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 313 \u001b(B\u001b[m\u001b[39;49msleeping,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mstopped,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mzombie\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000325,
+      "%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m 29.3 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 13.8 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.5 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 55.8 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.1 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.4 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Mem: \u001b(B\u001b[m\u001b[39;49m\u001b[1m 16380036 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 14870732 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1509304 \u001b(B\u001b[m\u001b[39;49mfree,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   424212 \u001b(B\u001b[m\u001b[39;49mbuffers\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Swap:\u001b(B\u001b[m\u001b[39;49m\u001b[1m  4136956 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m     2276 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  4134680 \u001b(B\u001b[m\u001b[39;49mfree.\u001b(B\u001b[m\u001b[39;49m\u001b[1m  7586312 \u001b(B\u001b[m\u001b[39;49mcached Mem\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b[K\r\n\u001b[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 3562 robot     20   0  560580  19652  16068 S  19.2  0.1  90:15.15 indicator-+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m    7 root      20   0       0      0      0 S   6.4  0.0  10:09.65 rcu_sched   \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b(B\u001b[m   67 root      25   5       0      0      0 S   6.4  0.0   4:54.23 ksmd        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 3250 robot     20   0  378412  26956   5552 S   6.4  0.2   1:54.17 ibus-daemon \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m27077 robot     20   0  660036  36024  24604 S   6.4  0.2   0:08.81 gnome-term+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m    1 root      20   0   34100   4416   2672 S   0.0  0.0   0:01.73 init        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.14 kthreadd    \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m    3 root      20   0       0      0      0 S   0.0  0.0   2:23.31 ksoftirqd/0 \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m    8 root      20   0       0      0      0 S   0.0  0.0   0:26.51 rcuos/0     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m    9 root      20   0       0      0      0 S   0.0  0.0   0:"
+    ],
+    [
+      0.000048,
+      "11.85 rcuos/1     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m   10 root      20   0       0      0      0 S   0.0  0.0   0:23.06 rcuos/2     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b(B\u001b[m   11 root      20   0       0      0      0 S   0.0  0.0   0:12.43 rcuos/3     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m   12 root      20   0       0      0      0 S   0.0  0.0   0:22.25 rcuos/4     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m   13 root      20   0       0      0      0 S   0.0  0.0   0:12.78 rcuos/5     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m   14 root      20   0       0      0      0 S   0.0  0.0   0:22.38 rcuos/6     \u001b(B\u001b[m\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000014,
+      "\r\n\u001b(B\u001b[m   15 root      20   0       0      0      0 S   0.0  0.0   0:13.33 rcuos/7     \u001b(B\u001b[m\u001b[39;49m\u001b[K"
+    ],
+    [
+      2.948589,
+      "\u001b[?25l"
+    ],
+    [
+      0.005856,
+      "\u001b[H\u001b(B\u001b[mtop - 21:55:56 up 1 day, 10:35,  4 users,  load average: 0.59, 0.43, 0.50\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nTasks:\u001b(B\u001b[m\u001b[39;49m\u001b[1m 314 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   2 \u001b(B\u001b[m\u001b[39;49mrunning,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 312 \u001b(B\u001b[m\u001b[39;49msleeping,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mstopped,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mzombie\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.5 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.5 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 97.0 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Mem: \u001b(B\u001b[m\u001b[39;49m\u001b[1m 16380036 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 14871304 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1508732 \u001b(B\u001b[m\u001b[39;49mfree,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   424212 \u001b(B\u001b[m\u001b[39;49mbuffers\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Swap:\u001b(B\u001b[m\u001b[39;49m\u001b[1m  4136956 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m     2276 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  4134680 \u001b(B\u001b[m\u001b[39;49mfree.\u001b(B\u001b[m\u001b[39;49m\u001b[1m  7586312 \u001b(B\u001b[m\u001b[39;49mcached Mem\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[K\r\n\u001b[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m15235 libvirt+  20   0 8975336 2.262g  16852 S   4.7 14.5  28:35.52 qemu-syste+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 3510 robot     20   0 1993412 634588 107452 S   1.7  3.9  55:30.67 compiz      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5757 robot     20   0 1187144 389556 134352 S   1.0  2.4   4:07.70 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 2246 root      20   0  661224 323436 121708 S   0.7  2.0  93:55.61 Xorg        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m26801 robot     20   0 1424892 313296 116528 S   0.7  1.9   8:43.03 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m17191 robot     20   0 1059748 291148  74152 S   1.0  1.8   1:26.85 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32536 robot     20   0 1261760 251852  46972 S   0.0  1.5   0:10.34 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.000118,
+      "26838 robot     20   0  667196 246872 103648 S   1.4  1.5   7:29.14 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m14567 robot     20   0 1499028 225032 103324 S   0.0  1.4   1:32.26 soffice.bin \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32605 robot     20   0  907328 222400  46264 S   0.0  1.4   0:54.71 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 6144 robot     20   0  875384 181952  57068 S   0.0  1.1   0:15.46 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5781 robot     20   0  855596 175032  54928 S   0.0  1.1   0:05.40 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 6264 robot     20   0  895272 162860  65064 S   0.7  1.0   0:45.58 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m14317 robot     20   0  845476 153892  57228 S   0.0  0.9   0:03.29 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b(B\u001b[m17275 robot     20   0  872744 147280  72508 S   0.3  0.9   0:27.96 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32592 robot     20   0  906504 141276  45896 S   0.0  0.9   0:11.63 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32576 robot     20   0  843024 132320  46564 S   0.0  0.8   0:35.16 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K"
+    ],
+    [
+      3.006780,
+      "\u001b[H\u001b(B\u001b[mtop - 21:55:59 up 1 day, 10:35,  4 users,  load average: 0.54, 0.43, 0.49\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000051,
+      "\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.2 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.5 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 97.2 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Mem: \u001b(B\u001b[m\u001b[39;49m\u001b[1m 16380036 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 14871412 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1508624 \u001b(B\u001b[m\u001b[39;49mfree,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   424212 \u001b(B\u001b[m\u001b[39;49mbuffers\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b[K\r\n\r\n\u001b(B\u001b[m15235 libvirt+  20   0 8975336 2.262g  16852 S   4.7 14.5  28:35.66 qemu-syste+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 3510 robot     20   0 1993412 634588 107452 S   2.0  3.9  55:30.73 compiz      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5757 robot     20   0 1187144 389556 134352 S   1.0  2.4   4:07.73 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 2246 root      20   0  661224 323436 121708 S   0.3  2.0  93:55.62 Xorg        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m26801 robot     20   0 1424892 313296 116528 S   0.7  1.9   8:43.05 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b(B\u001b[m17191 robot     20   0 1059748 291148  74152 S   0.3  1.8   1:26.86 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b(B\u001b[m26838 robot     20   0  667196 246872 103648 S   0.0  1.5   7:29.14 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\r\n\r\n\u001b(B\u001b[m 6264 robot     20   0  895272 162860  65064 S   0.7  1.0   0:45.60 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b(B\u001b[m17275 robot     20   0  872744 147280  72508 S   0.7  0.9   0:27.98 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n"
+    ],
+    [
+      0.834304,
+      "\u001b[6;1H\u001b[1mChange delay from 3.0 to \u001b[?12;25h\u001b(B\u001b[m\u001b[39;49m\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.140259,
+      "\u001b[6;26H\u001b[K1\u001b[6;27H"
+    ],
+    [
+      0.589214,
+      "\u001b[?25l"
+    ],
+    [
+      0.005783,
+      "\u001b[H\u001b(B\u001b[mtop - 21:56:02 up 1 day, 10:35,  4 users,  load average: 0.54, 0.43, 0.49\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nTasks:\u001b(B\u001b[m\u001b[39;49m\u001b[1m 314 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   1 \u001b(B\u001b[m\u001b[39;49mrunning,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 313 \u001b(B\u001b[m\u001b[39;49msleeping,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mstopped,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mzombie\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.4 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.3 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 97.3 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Mem: \u001b(B\u001b[m\u001b[39;49m\u001b[1m 16380036 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 14871628 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1508408 \u001b(B\u001b[m\u001b[39;49mfree,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   424212 \u001b(B\u001b[m\u001b[39;49mbuffers\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Swap:\u001b(B\u001b[m\u001b[39;49m\u001b[1m  4136956 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m     2276 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  4134680 \u001b(B\u001b[m\u001b[39;49mfree.\u001b(B\u001b[m\u001b[39;49m\u001b[1m  7586312 \u001b(B\u001b[m\u001b[39;49mcached Mem\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b[K"
+    ],
+    [
+      0.000042,
+      "\r\n\u001b[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m15235 libvirt+  20   0 8975336 2.262g  16852 S   4.7 14.5  28:35.78 qemu-syste+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 3510 robot     20   0 1993412 634588 107452 S   1.9  3.9  55:30.78 compiz      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5757 robot     20   0 1187144 389556 134352 S   1.2  2.4   4:07.76 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 2246 root      20   0  661224 323436 121708 S   1.6  2.0  93:55.66 Xorg        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m26801 robot     20   0 1424892 313296 116528 S   0.8  1.9   8:43.07 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m17191 robot     20   0 1059748 291148  74152 S   0.0  1.8   1:26.86 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32536 robot     20   0 1261760 251852  46972 S   0.0  1.5   0:10.34 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.000136,
+      "26838 robot     20   0  667196 246872 103648 S   0.0  1.5   7:29.14 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m14567 robot     20   0 1499028 225032 103324 S   0.0  1.4   1:32.26 soffice.bin \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32605 robot     20   0  907328 222400  46264 S   0.0  1.4   0:54.71 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 6144 robot     20   0  875384 181952  57068 S   0.0  1.1   0:15.46 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5781 robot     20   0  855596 175032  54928 S   0.0  1.1   0:05.40 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 6264 robot     20   0  895272 162860  65064 S   0.4  1.0   0:45.61 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m14317 robot     20   0  845476 153892  57228 S   0.0  0.9   0:03.29 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b(B\u001b[m17275 robot     20   0  872744 147280  72508 S   0.4  0.9   0:27.99 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32592 robot     20   0  906504 141276  45896 S   0.0  0.9   0:11.63 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m32576 robot     20   0  843024 132320  46564 S   0.0  0.8   0:35.16 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K"
+    ],
+    [
+      1.006862,
+      "\u001b[H\u001b(B\u001b[mtop - 21:56:03 up 1 day, 10:35,  4 users,  load average: 0.58, 0.44, 0.50\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  6.2 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.6 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 91.8 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.4 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\u001b[K\r\n\r\n\u001b(B\u001b[m15235 libvirt+  20   0 8975336 2.262g  16852 S   4.0 14.5  28:35.82 qemu-syste+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b(B\u001b[m 3510 robot     20   0 1993412 634588 107452 S   2.0  3.9  55:30.80 compiz      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5757 robot     20   0 1187144 389556 134352 S   1.0  2.4   4:07.77 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 2246 root      20   0  661224 323436 121708 S   0.0  2.0  93:55.66 Xorg        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m26801 robot     20   0 1424892 313296 116528 S  39.7  1.9   8:43.47 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m17191 robot     20   0 1059748 291148  74152 S   1.0  1.8   1:26.87 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b(B\u001b[m 6264 robot     20   0  895272 162860  65064 S   0.0  1.0   0:45.61 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b(B\u001b[m17275 robot     20   0  872744 147280  72508 S   0.0  0.9   0:27.99 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b(B\u001b[m32576 robot     20   0  843024 132316  46564 S   0.0  0.8   0:35.16 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K"
+    ],
+    [
+      1.007062,
+      "\u001b[H\u001b(B\u001b[mtop - 21:56:04 up 1 day, 10:35,  4 users,  load average: 0.58, 0.44, 0.50\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.1 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.1 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 97.8 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\u001b[K\r\n\r\n\u001b(B\u001b[m15235 libvirt+  20   0 8975336 2.262g  16852 S   5.0 14.5  28:35.87 qemu-syste+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 3510 robot     20   0 1993412 634588 107452 S   1.0  3.9  55:30.81 compiz      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b(B\u001b[m 5757 robot     20   0 1187144 389556 134352 S   1.0  2.4   4:07.78 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 2246 root      20   0  661224 323436 121708 S   1.0  2.0  93:55.67 Xorg        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m26801 robot     20   0 1424892 313296 116528 S   1.0  1.9   8:43.48 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m17191 robot     20   0 1059748 291148  74152 S   1.0  1.8   1:26.88 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b(B\u001b[m 6264 robot     20   0  895272 162860  65064 S   1.0  1.0   0:45.62 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b(B\u001b[m17275 robot     20   0  872744 147280  72508 S   1.0  0.9   0:28.00 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n"
+    ],
+    [
+      1.007153,
+      "\u001b[H\u001b(B\u001b[mtop - 21:56:05 up 1 day, 10:35,  4 users,  load average: 0.58, 0.44, 0.50\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.2 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.4 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 97.4 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Mem: \u001b(B\u001b[m\u001b[39;49m\u001b[1m 16380036 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 14871596 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1508440 \u001b(B\u001b[m\u001b[39;49mfree,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   424220 \u001b(B\u001b[m\u001b[39;49mbuffers\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b[K\r\n\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b(B\u001b[m15235 libvirt+  20   0 8975336 2.262g  16852 S   4.0 14.5  28:35.91 qemu-syste+ \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 3510 robot     20   0 1993412 634588 107452 S   2.0  3.9  55:30.83 compiz      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5757 robot     20   0 1187144 389556 134352 S   1.0  2.4   4:07.79 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 2246 root      20   0  661224 323436 121708 S   2.0  2.0  93:55.69 Xorg        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m26801 robot     20   0 1424892 313296 116528 S   0.0  1.9   8:43.48 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m17191 robot     20   0 1059748 291148  74152 S   0.0  1.8   1:26.88 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b(B\u001b[m 6264 robot     20   0  895272 162860  65064 S   0.0  1.0   0:45.62 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b(B\u001b[m17275 robot     20   0  872744 147280  72508 S   0.0  0.9   0:28.00 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n"
+    ],
+    [
+      1.006882,
+      "\u001b[H\u001b(B\u001b[mtop - 21:56:06 up 1 day, 10:35,  4 users,  load average: 0.58, 0.44, 0.50\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nTasks:\u001b(B\u001b[m\u001b[39;49m\u001b[1m 314 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   2 \u001b(B\u001b[m\u001b[39;49mrunning,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 312 \u001b(B\u001b[m\u001b[39;49msleeping,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mstopped,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mzombie\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.1 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.2 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 97.6 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\u001b[K\r\n\r\n\u001b(B\u001b[m15235 libvirt+  20   0 8975336 2.262g  16852 S   5.0 14.5  28:35.96 qemu-syste+ \u001b(B\u001b[m\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000073,
+      "\r\n\u001b(B\u001b[m\u001b[1m 3510 robot     20   0 1993412 634588 107452 R   1.0  3.9  55:30.84 compiz      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 5757 robot     20   0 1187144 389556 134352 S   2.0  2.4   4:07.81 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m 2246 root      20   0  661224 323436 121708 S   0.0  2.0  93:55.69 Xorg        \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\u001b(B\u001b[m26801 robot     20   0 1424892 313296 116528 S   1.0  1.9   8:43.49 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b(B\u001b[m 6264 robot     20   0  895272 162860  65064 S   1.0  1.0   0:45.63 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b(B\u001b[m17275 robot     20   0  872744 147524  72508 S   1.0  0.9   0:28.01 chrome      \u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n"
+    ],
+    [
+      0.100671,
+      "\u001b[?1l\u001b\u003e\u001b[25;1H\r\n\u001b[?12l\u001b[?25h\u001b[K"
+    ],
+    [
+      0.000435,
+      "\u001b]0;robot@robot-move: ~\u0007robot@robot-move:~$ "
+    ],
+    [
+      2.616569,
+      "exit\r\n"
+    ]
+  ]
+}
