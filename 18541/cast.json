@@ -1,0 +1,3282 @@
+{
+  "version": 1,
+  "width": 136,
+  "height": 38,
+  "duration": 515.300696,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.392202,
+      "v"
+    ],
+    [
+      0.927937,
+      "\u0008 \u0008"
+    ],
+    [
+      0.222930,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000013,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.003151,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[11:53:57]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000013,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.610635,
+      "v"
+    ],
+    [
+      0.019361,
+      "\u0008va"
+    ],
+    [
+      0.247785,
+      "g"
+    ],
+    [
+      0.208142,
+      "r"
+    ],
+    [
+      0.111923,
+      "a"
+    ],
+    [
+      0.168082,
+      "n"
+    ],
+    [
+      0.103984,
+      "t"
+    ],
+    [
+      0.111929,
+      " "
+    ],
+    [
+      0.176193,
+      "s"
+    ],
+    [
+      0.167971,
+      "s"
+    ],
+    [
+      0.703892,
+      "h"
+    ],
+    [
+      0.215997,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000360,
+      "\u001b]2;vagrant ssh\u0007\u001b]1;vagrant\u0007"
+    ],
+    [
+      1.831672,
+      "Welcome to Ubuntu 14.04.1 LTS (GNU/Linux 3.13.0-24-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\nLast login: Tue Oct 21 14:52:42 2014 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.260054,
+      "\u001b]0;vagrant@RSD-glass-vm-343-ubuntu: ~\u0007vagrant@RSD-glass-vm-343-ubuntu:~$ "
+    ],
+    [
+      0.732483,
+      "i"
+    ],
+    [
+      0.519980,
+      "n"
+    ],
+    [
+      0.360024,
+      "f"
+    ],
+    [
+      0.135952,
+      "o"
+    ],
+    [
+      0.256556,
+      "\r\n"
+    ],
+    [
+      0.180690,
+      "{\r\n  \"rsd_glass_version\": \"3.4.3.0-SNAPSHOT-15032222\",\r\n  \"rsd_glass_scm_revision\": \"\",\r\n"
+    ],
+    [
+      0.000092,
+      "  \"rsd_glass_build_date\": \"15032222\",\r\n  \"rsd_glass_build_jdk\": \"1.7.0_76\",\r\n  \"rsd_govapps_version\": \"1.2.0-SNAPSHOT\",\r\n"
+    ],
+    [
+      0.000134,
+      "  \"rsd_govapps_scm_revision\": \"2081\",\r\n  \"rsd_govapps_build_date\": \"2015-03-23 10:16:07\",\r\n  \"rsd_govapps_build_jdk\": \"1.7.0_76\",\r\n  \"rsd_pm_version\": \"3.4.3.0-SNAPSHOT-15032222\",\r\n  \"rsd_pm_scm_revision\": \"\",\r\n  \"rsd_pm_build_date\": \"15032222\",\r\n  \"rsd_pm_build_jdk\": \"1.7.0_76\"\r\n}"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.001506,
+      "\u001b]0;vagrant@RSD-glass-vm-343-ubuntu: ~\u0007vagrant@RSD-glass-vm-343-ubuntu:~$ "
+    ],
+    [
+      2.145778,
+      "logout\r\n"
+    ],
+    [
+      0.032047,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.000565,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000089,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.003636,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[11:54:06]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000003,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.130406,
+      "v"
+    ],
+    [
+      0.175986,
+      "\u0008va"
+    ],
+    [
+      0.208126,
+      "g"
+    ],
+    [
+      0.167847,
+      "r"
+    ],
+    [
+      0.104029,
+      "a"
+    ],
+    [
+      0.127942,
+      "n"
+    ],
+    [
+      0.304075,
+      "t"
+    ],
+    [
+      0.087923,
+      " "
+    ],
+    [
+      0.168036,
+      "b"
+    ],
+    [
+      0.144059,
+      "o"
+    ],
+    [
+      0.119772,
+      "x"
+    ],
+    [
+      0.111989,
+      " "
+    ],
+    [
+      0.600235,
+      "o"
+    ],
+    [
+      0.447913,
+      "o"
+    ],
+    [
+      0.392048,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127940,
+      "u"
+    ],
+    [
+      0.479964,
+      "t"
+    ],
+    [
+      0.216044,
+      "d"
+    ],
+    [
+      0.120043,
+      "a"
+    ],
+    [
+      0.208057,
+      "t"
+    ],
+    [
+      0.167860,
+      "e"
+    ],
+    [
+      0.192023,
+      "d"
+    ],
+    [
+      1.288137,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000024,
+      "\r\r\n"
+    ],
+    [
+      0.000308,
+      "\u001b]2;vagrant box outdated\u0007\u001b]1;vagrant\u0007"
+    ],
+    [
+      1.027624,
+      "\u001b[0mChecking if box 'glass-3.4.3-snapshot-de' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      0.101875,
+      "\u001b[0;33mA newer version of the box 'glass-3.4.3-snapshot-de' is available! You currently\r\nhave version '3.4.3.0.29'. The latest is version '3.4.3.0.30'. Run\r\n`vagrant box update` to update.\u001b[0m\r\n"
+    ],
+    [
+      0.060675,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.003130,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[11:54:14]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000004,
+      "\u001b[K"
+    ],
+    [
+      0.000018,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.334218,
+      "v"
+    ],
+    [
+      0.168008,
+      "\u0008va"
+    ],
+    [
+      0.175968,
+      "g"
+    ],
+    [
+      0.200083,
+      "r"
+    ],
+    [
+      0.127846,
+      "a"
+    ],
+    [
+      0.543944,
+      "n"
+    ],
+    [
+      0.064177,
+      "t"
+    ],
+    [
+      0.071856,
+      " "
+    ],
+    [
+      0.272079,
+      "b"
+    ],
+    [
+      0.656061,
+      "o"
+    ],
+    [
+      1.639974,
+      "x"
+    ],
+    [
+      0.943833,
+      " "
+    ],
+    [
+      0.192150,
+      "i"
+    ],
+    [
+      0.431887,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167969,
+      "\u0008"
+    ],
+    [
+      0.160169,
+      "i"
+    ],
+    [
+      0.256012,
+      "n"
+    ],
+    [
+      0.568022,
+      "f"
+    ],
+    [
+      0.527947,
+      "o"
+    ],
+    [
+      0.095877,
+      " "
+    ],
+    [
+      0.200099,
+      "g"
+    ],
+    [
+      0.184047,
+      "l"
+    ],
+    [
+      0.079894,
+      "a"
+    ],
+    [
+      0.232122,
+      "s"
+    ],
+    [
+      0.151971,
+      "s"
+    ],
+    [
+      0.135999,
+      "-"
+    ],
+    [
+      0.368060,
+      "3"
+    ],
+    [
+      0.151850,
+      "."
+    ],
+    [
+      0.192009,
+      "4"
+    ],
+    [
+      0.311966,
+      "."
+    ],
+    [
+      0.191965,
+      "3"
+    ],
+    [
+      0.160077,
+      "-"
+    ],
+    [
+      0.415943,
+      "d"
+    ],
+    [
+      0.511976,
+      "\u0008 \u0008"
+    ],
+    [
+      0.072055,
+      "s"
+    ],
+    [
+      0.104032,
+      "n"
+    ],
+    [
+      0.079933,
+      "a"
+    ],
+    [
+      0.128082,
+      "p"
+    ],
+    [
+      0.255930,
+      "s"
+    ],
+    [
+      0.096147,
+      "h"
+    ],
+    [
+      0.079895,
+      "o"
+    ],
+    [
+      0.119957,
+      "t"
+    ],
+    [
+      0.184140,
+      "-"
+    ],
+    [
+      0.119947,
+      "d"
+    ],
+    [
+      0.136048,
+      "e"
+    ],
+    [
+      2.207965,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000022,
+      "\r\r\n"
+    ],
+    [
+      0.000280,
+      "\u001b]2;vagrant boxinfo glass-3.4.3-snapshot-de\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      0.579984,
+      "\u001b[0mReading url http://vagrant.rsd.com/glass-3.4.3-snapshot-de/glass-3.4.3-snapshot-de.json...\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.094198,
+      "\u001b[0mBox name: glass-3.4.3-snapshot-de\u001b[0m\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[0mDescription: ubuntu vagrant box for glass 3.4.3.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[0m\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[0m3.4.3.0.30\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[0m\t rsd_glass_version: 3.4.3.0-SNAPSHOT-15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_glass_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\t rsd_glass_build_date: 15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[0m\t rsd_glass_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_version: 1.2.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[0m\t rsd_govapps_scm_revision: 2238\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_build_date: 2015-04-02 16:16:05\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_version: 3.4.3.0-SNAPSHOT-15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_pm_build_date: 15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000761,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " downloaded: false\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m3.4.3.0.29\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_version: 3.4.3.0-SNAPSHOT-15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_date: 15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_version: 1.2.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_scm_revision: 2081\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_build_date: 2015-03-23 10:16:07\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\t rsd_govapps_build_jdk: 1.7.0_76\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_version: 3.4.3.0-SNAPSHOT-15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_pm_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_date: 15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " rsd_pm_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000916,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " downloaded: true\u001b[0m\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[0m3.4.3.0.28\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\t rsd_glass_version: 3.4.3.0-SNAPSHOT-15031122\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[0m\t rsd_glass_scm_revision: \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000007,
+      " rsd_glass_build_date: 15031122\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_glass_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " rsd_govapps_version: 1.2.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " rsd_govapps_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " rsd_govapps_build_date: 2015-03-12 08:19:40\u001b[0m\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " rsd_govapps_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " rsd_pm_version: 3.4.3.0-SNAPSHOT-15031122\u001b[0m\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_pm_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_pm_build_date: 15031122\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000737,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " downloaded: false\u001b[0m\r\n"
+    ],
+    [
+      0.050424,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000027,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.003495,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[11:54:30]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      14.794448,
+      "v"
+    ],
+    [
+      0.119828,
+      "\u0008va"
+    ],
+    [
+      0.176324,
+      "g"
+    ],
+    [
+      0.215659,
+      "r"
+    ],
+    [
+      0.112039,
+      "a"
+    ],
+    [
+      0.127973,
+      "n"
+    ],
+    [
+      0.104030,
+      "t"
+    ],
+    [
+      0.096003,
+      " "
+    ],
+    [
+      0.176149,
+      "v"
+    ],
+    [
+      0.000040,
+      "b"
+    ],
+    [
+      0.375838,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144018,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111993,
+      "b"
+    ],
+    [
+      0.111953,
+      "o"
+    ],
+    [
+      0.160153,
+      "x"
+    ],
+    [
+      0.127845,
+      " "
+    ],
+    [
+      0.072067,
+      "u"
+    ],
+    [
+      0.152081,
+      "p"
+    ],
+    [
+      0.079923,
+      "d"
+    ],
+    [
+      0.055973,
+      "a"
+    ],
+    [
+      0.215999,
+      "t"
+    ],
+    [
+      0.168043,
+      "e"
+    ],
+    [
+      1.120008,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "\u001b]2;vagrant box update\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      1.177773,
+      "\u001b[1m==\u003e default: Checking for updates to 'glass-3.4.3-snapshot-de'\u001b[0m\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[0m    default: Latest installed version: 3.4.3.0.29\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[0m    default: Version constraints: \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[0m    default: Provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.102205,
+      "\u001b[1m==\u003e default: Updating 'glass-3.4.3-snapshot-de' with provider 'virtualbox' from version\r\n"
+    ],
+    [
+      0.000010,
+      "==\u003e default: '3.4.3.0.29' to '3.4.3.0.30'...\u001b[0m\r\n"
+    ],
+    [
+      0.179394,
+      "\u001b[1m==\u003e default: Loading metadata for box 'http://vagrant.rsd.com/glass-3.4.3-snapshot-de/glass-3.4.3-snapshot-de.json'\u001b[0m\r\n"
+    ],
+    [
+      0.104222,
+      "\u001b[1m==\u003e default: Adding box 'glass-3.4.3-snapshot-de' (v3.4.3.0.30) for provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.003118,
+      "\u001b[0m    default: Downloading: http://vagrant.rsd.com/glass-3.4.3-snapshot-de/boxes/glass-3.4.3-snapshot-de-3.4.3.0.30.box\u001b[0m\r\n"
+    ],
+    [
+      0.777090,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000275,
+      "\u001b[0m    default: Progress: 0% (Rate: 0/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      0.999831,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001651,
+      "\u001b[0m    default: Progress: 0% (Rate: 7961k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      0.998627,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000609,
+      "\u001b[0m    default: Progress: 1% (Rate: 9619k/s, Estimated time remaining: 0:02:48)\u001b[0m"
+    ],
+    [
+      0.999226,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000097,
+      "\u001b[0m    default: Progress: 1% (Rate: 9.7M/s, Estimated time remaining: 0:02:39)\u001b[0m"
+    ],
+    [
+      1.000198,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000134,
+      "\u001b[0m    default: Progress: 2% (Rate: 10.0M/s, Estimated time remaining: 0:02:33)\u001b[0m"
+    ],
+    [
+      0.999999,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000151,
+      "\u001b[0m    default: Progress: 3% (Rate: 10.2M/s, Estimated time remaining: 0:02:30)\u001b[0m"
+    ],
+    [
+      0.999739,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000276,
+      "\u001b[0m    default: Progress: 3% (Rate: 10.6M/s, Estimated time remaining: 0:02:27)\u001b[0m"
+    ],
+    [
+      1.000125,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000544,
+      "\u001b[0m    default: Progress: 4% (Rate: 10.7M/s, Estimated time remaining: 0:02:25)\u001b[0m"
+    ],
+    [
+      0.999219,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[0m    default: Progress: 5% (Rate: 10.7M/s, Estimated time remaining: 0:02:23)\u001b[0m"
+    ],
+    [
+      1.000877,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 5% (Rate: 10.7M/s, Estimated time remaining: 0:02:21)\u001b[0m"
+    ],
+    [
+      0.998312,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000115,
+      "\u001b[0m    default: Progress: 6% (Rate: 10.7M/s, Estimated time remaining: 0:02:20)\u001b[0m"
+    ],
+    [
+      0.999893,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000098,
+      "\u001b[0m    default: Progress: 7% (Rate: 10.5M/s, Estimated time remaining: 0:02:20)\u001b[0m"
+    ],
+    [
+      1.000768,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.002314,
+      "\u001b[0m    default: Progress: 7% (Rate: 10.5M/s, Estimated time remaining: 0:02:19)\u001b[0m"
+    ],
+    [
+      0.997843,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000098,
+      "\u001b[0m    default: Progress: 8% (Rate: 10.4M/s, Estimated time remaining: 0:02:18)\u001b[0m"
+    ],
+    [
+      0.999355,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000152,
+      "\u001b[0m    default: Progress: 9% (Rate: 10.4M/s, Estimated time remaining: 0:02:16)\u001b[0m"
+    ],
+    [
+      0.999205,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000085,
+      "\u001b[0m    default: Progress: 9% (Rate: 10.4M/s, Estimated time remaining: 0:02:15)\u001b[0m"
+    ],
+    [
+      1.000833,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 10% (Rate: 10.6M/s, Estimated time remaining: 0:02:14)\u001b[0m"
+    ],
+    [
+      0.999541,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000437,
+      "\u001b[0m    default: Progress: 11% (Rate: 10.6M/s, Estimated time remaining: 0:02:13)\u001b[0m"
+    ],
+    [
+      0.999567,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000331,
+      "\u001b[0m    default: Progress: 11% (Rate: 10.5M/s, Estimated time remaining: 0:02:12)\u001b[0m"
+    ],
+    [
+      0.999727,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000087,
+      "\u001b[0m    default: Progress: 12% (Rate: 10.5M/s, Estimated time remaining: 0:02:11)\u001b[0m"
+    ],
+    [
+      0.999379,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\u001b[0m    default: Progress: 13% (Rate: 10.5M/s, Estimated time remaining: 0:02:10)\u001b[0m"
+    ],
+    [
+      1.000051,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000458,
+      "\u001b[0m    default: Progress: 13% (Rate: 10.5M/s, Estimated time remaining: 0:02:08)\u001b[0m"
+    ],
+    [
+      1.000389,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000118,
+      "\u001b[0m    default: Progress: 14% (Rate: 10.6M/s, Estimated time remaining: 0:02:07)\u001b[0m"
+    ],
+    [
+      1.001340,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000131,
+      "\u001b[0m    default: Progress: 15% (Rate: 10.5M/s, Estimated time remaining: 0:02:07)\u001b[0m"
+    ],
+    [
+      0.997495,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000211,
+      "\u001b[0m    default: Progress: 15% (Rate: 10.3M/s, Estimated time remaining: 0:02:06)\u001b[0m"
+    ],
+    [
+      0.999774,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000093,
+      "\u001b[0m    default: Progress: 16% (Rate: 10.2M/s, Estimated time remaining: 0:02:05)\u001b[0m"
+    ],
+    [
+      0.999843,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000107,
+      "\u001b[0m    default: Progress: 17% (Rate: 10.1M/s, Estimated time remaining: 0:02:04)\u001b[0m"
+    ],
+    [
+      1.000326,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000150,
+      "\u001b[0m    default: Progress: 17% (Rate: 10.0M/s, Estimated time remaining: 0:02:03)\u001b[0m"
+    ],
+    [
+      0.999723,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000097,
+      "\u001b[0m    default: Progress: 18% (Rate: 10.1M/s, Estimated time remaining: 0:02:02)\u001b[0m"
+    ],
+    [
+      1.000070,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\u001b[0m    default: Progress: 19% (Rate: 10.2M/s, Estimated time remaining: 0:02:02)\u001b[0m"
+    ],
+    [
+      1.000214,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000106,
+      "\u001b[0m    default: Progress: 19% (Rate: 10.3M/s, Estimated time remaining: 0:02:00)\u001b[0m"
+    ],
+    [
+      0.999759,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000114,
+      "\u001b[0m    default: Progress: 20% (Rate: 10.4M/s, Estimated time remaining: 0:01:59)\u001b[0m"
+    ],
+    [
+      1.002288,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000077,
+      "\u001b[0m    default: Progress: 21% (Rate: 10.2M/s, Estimated time remaining: 0:01:59)\u001b[0m"
+    ],
+    [
+      0.998322,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000183,
+      "\u001b[0m    default: Progress: 21% (Rate: 9.8M/s, Estimated time remaining: 0:01:59)\u001b[0m"
+    ],
+    [
+      0.999509,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000156,
+      "\u001b[0m    default: Progress: 22% (Rate: 9805k/s, Estimated time remaining: 0:01:58)\u001b[0m"
+    ],
+    [
+      0.998704,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000210,
+      "\u001b[0m    default: Progress: 22% (Rate: 9423k/s, Estimated time remaining: 0:01:58)\u001b[0m"
+    ],
+    [
+      1.000441,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\u001b[0m    default: Progress: 23% (Rate: 9287k/s, Estimated time remaining: 0:01:57)\u001b[0m"
+    ],
+    [
+      0.999603,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000086,
+      "\u001b[0m    default: Progress: 24% (Rate: 9468k/s, Estimated time remaining: 0:01:56)\u001b[0m"
+    ],
+    [
+      0.999543,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000085,
+      "\u001b[0m    default: Progress: 24% (Rate: 9793k/s, Estimated time remaining: 0:01:55)\u001b[0m"
+    ],
+    [
+      1.000287,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000119,
+      "\u001b[0m    default: Progress: 25% (Rate: 9.9M/s, Estimated time remaining: 0:01:54)\u001b[0m"
+    ],
+    [
+      1.027653,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000158,
+      "\u001b[0m    default: Progress: 26% (Rate: 10.2M/s, Estimated time remaining: 0:01:53)\u001b[0m"
+    ],
+    [
+      0.972081,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000095,
+      "\u001b[0m    default: Progress: 26% (Rate: 10.3M/s, Estimated time remaining: 0:01:52)\u001b[0m"
+    ],
+    [
+      0.999973,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000080,
+      "\u001b[0m    default: Progress: 27% (Rate: 10.4M/s, Estimated time remaining: 0:01:51)\u001b[0m"
+    ],
+    [
+      0.999945,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\u001b[0m    default: Progress: 28% (Rate: 10.5M/s, Estimated time remaining: 0:01:50)\u001b[0m"
+    ],
+    [
+      1.000299,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.003090,
+      "\u001b[0m    default: Progress: 28% (Rate: 10.5M/s, Estimated time remaining: 0:01:49)\u001b[0m"
+    ],
+    [
+      0.996261,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000111,
+      "\u001b[0m    default: Progress: 29% (Rate: 10.2M/s, Estimated time remaining: 0:01:48)\u001b[0m"
+    ],
+    [
+      0.999625,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000091,
+      "\u001b[0m    default: Progress: 29% (Rate: 9.8M/s, Estimated time remaining: 0:01:48)\u001b[0m"
+    ],
+    [
+      1.000138,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\u001b[0m    default: Progress: 30% (Rate: 9791k/s, Estimated time remaining: 0:01:47)\u001b[0m"
+    ],
+    [
+      0.999691,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000082,
+      "\u001b[0m    default: Progress: 31% (Rate: 9530k/s, Estimated time remaining: 0:01:46)\u001b[0m"
+    ],
+    [
+      1.000354,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000114,
+      "\u001b[0m    default: Progress: 31% (Rate: 9341k/s, Estimated time remaining: 0:01:45)\u001b[0m"
+    ],
+    [
+      0.999401,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000091,
+      "\u001b[0m    default: Progress: 32% (Rate: 8932k/s, Estimated time remaining: 0:01:45)\u001b[0m"
+    ],
+    [
+      0.999985,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\u001b[0m    default: Progress: 32% (Rate: 8829k/s, Estimated time remaining: 0:01:45)\u001b[0m"
+    ],
+    [
+      1.000111,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000120,
+      "\u001b[0m    default: Progress: 33% (Rate: 8783k/s, Estimated time remaining: 0:01:44)\u001b[0m"
+    ],
+    [
+      0.999740,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000101,
+      "\u001b[0m    default: Progress: 33% (Rate: 8262k/s, Estimated time remaining: 0:01:44)\u001b[0m"
+    ],
+    [
+      1.007285,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[0m    default: Progress: 34% (Rate: 7418k/s, Estimated time remaining: 0:01:45)\u001b[0m"
+    ],
+    [
+      0.992588,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    default: Progress: 34% (Rate: 6824k/s, Estimated time remaining: 0:01:45)\u001b[0m"
+    ],
+    [
+      1.004718,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000156,
+      "\u001b[0m    default: Progress: 34% (Rate: 6118k/s, Estimated time remaining: 0:01:46)\u001b[0m"
+    ],
+    [
+      0.999817,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000083,
+      "\u001b[0m    default: Progress: 34% (Rate: 5282k/s, Estimated time remaining: 0:01:46)\u001b[0m"
+    ],
+    [
+      0.995108,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000101,
+      "\u001b[0m    default: Progress: 35% (Rate: 4850k/s, Estimated time remaining: 0:01:47)\u001b[0m"
+    ],
+    [
+      0.999962,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000080,
+      "\u001b[0m    default: Progress: 35% (Rate: 4822k/s, Estimated time remaining: 0:01:47)\u001b[0m"
+    ],
+    [
+      1.002187,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000080,
+      "\u001b[0m    default: Progress: 35% (Rate: 5011k/s, Estimated time remaining: 0:01:47)\u001b[0m"
+    ],
+    [
+      1.001076,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000150,
+      "\u001b[0m    default: Progress: 36% (Rate: 5173k/s, Estimated time remaining: 0:01:47)\u001b[0m"
+    ],
+    [
+      0.996806,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000096,
+      "\u001b[0m    default: Progress: 36% (Rate: 5417k/s, Estimated time remaining: 0:01:47)\u001b[0m"
+    ],
+    [
+      0.999291,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000087,
+      "\u001b[0m    default: Progress: 37% (Rate: 5883k/s, Estimated time remaining: 0:01:47)\u001b[0m"
+    ],
+    [
+      1.000190,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001127,
+      "\u001b[0m    default: Progress: 37% (Rate: 6605k/s, Estimated time remaining: 0:01:46)\u001b[0m"
+    ],
+    [
+      0.999527,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.005183,
+      "\u001b[0m    default: Progress: 38% (Rate: 7658k/s, Estimated time remaining: 0:01:45)\u001b[0m"
+    ],
+    [
+      0.994668,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\u001b[0m    default: Progress: 38% (Rate: 8692k/s, Estimated time remaining: 0:01:44)\u001b[0m"
+    ],
+    [
+      0.999697,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000095,
+      "\u001b[0m    default: Progress: 39% (Rate: 9551k/s, Estimated time remaining: 0:01:42)\u001b[0m"
+    ],
+    [
+      0.999510,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000097,
+      "\u001b[0m    default: Progress: 40% (Rate: 9844k/s, Estimated time remaining: 0:01:41)\u001b[0m"
+    ],
+    [
+      1.000332,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000204,
+      "\u001b[0m    default: Progress: 40% (Rate: 9995k/s, Estimated time remaining: 0:01:40)\u001b[0m"
+    ],
+    [
+      0.999457,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\u001b[0m    default: Progress: 41% (Rate: 9404k/s, Estimated time remaining: 0:01:40)\u001b[0m"
+    ],
+    [
+      0.999747,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000077,
+      "\u001b[0m    default: Progress: 41% (Rate: 8892k/s, Estimated time remaining: 0:01:39)\u001b[0m"
+    ],
+    [
+      1.001706,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000128,
+      "\u001b[0m    default: Progress: 42% (Rate: 8626k/s, Estimated time remaining: 0:01:38)\u001b[0m"
+    ],
+    [
+      0.998344,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000160,
+      "\u001b[0m    default: Progress: 42% (Rate: 8735k/s, Estimated time remaining: 0:01:37)\u001b[0m"
+    ],
+    [
+      1.000294,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.011758,
+      "\u001b[0m    default: Progress: 43% (Rate: 8704k/s, Estimated time remaining: 0:01:36)\u001b[0m"
+    ],
+    [
+      0.987758,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000092,
+      "\u001b[0m    default: Progress: 44% (Rate: 9038k/s, Estimated time remaining: 0:01:35)\u001b[0m"
+    ],
+    [
+      1.000539,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000114,
+      "\u001b[0m    default: Progress: 44% (Rate: 9298k/s, Estimated time remaining: 0:01:34)\u001b[0m"
+    ],
+    [
+      0.998973,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000099,
+      "\u001b[0m    default: Progress: 45% (Rate: 9433k/s, Estimated time remaining: 0:01:33)\u001b[0m"
+    ],
+    [
+      1.000547,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[0m    default: Progress: 45% (Rate: 9647k/s, Estimated time remaining: 0:01:32)\u001b[0m"
+    ],
+    [
+      0.999375,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\u001b[0m    default: Progress: 46% (Rate: 9947k/s, Estimated time remaining: 0:01:31)\u001b[0m"
+    ],
+    [
+      0.999916,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000043,
+      "\u001b[0m    default: Progress: 47% (Rate: 10.0M/s, Estimated time remaining: 0:01:29)\u001b[0m"
+    ],
+    [
+      0.999995,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0m    default: Progress: 47% (Rate: 10.2M/s, Estimated time remaining: 0:01:28)\u001b[0m"
+    ],
+    [
+      1.000678,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\u001b[0m    default: Progress: 48% (Rate: 10.4M/s, Estimated time remaining: 0:01:27)\u001b[0m"
+    ],
+    [
+      0.999064,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000104,
+      "\u001b[0m    default: Progress: 49% (Rate: 10.5M/s, Estimated time remaining: 0:01:26)\u001b[0m"
+    ],
+    [
+      1.000423,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000028,
+      "\u001b[0m    default: Progress: 49% (Rate: 10.6M/s, Estimated time remaining: 0:01:24)\u001b[0m"
+    ],
+    [
+      0.999331,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000124,
+      "\u001b[0m    default: Progress: 50% (Rate: 10.6M/s, Estimated time remaining: 0:01:23)\u001b[0m"
+    ],
+    [
+      1.000581,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000147,
+      "\u001b[0m    default: Progress: 51% (Rate: 10.7M/s, Estimated time remaining: 0:01:22)\u001b[0m"
+    ],
+    [
+      1.001022,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000264,
+      "\u001b[0m    default: Progress: 51% (Rate: 10.5M/s, Estimated time remaining: 0:01:21)\u001b[0m"
+    ],
+    [
+      0.997853,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000087,
+      "\u001b[0m    default: Progress: 52% (Rate: 10.0M/s, Estimated time remaining: 0:01:20)\u001b[0m"
+    ],
+    [
+      1.004529,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000119,
+      "\u001b[0m    default: Progress: 52% (Rate: 9702k/s, Estimated time remaining: 0:01:19)\u001b[0m"
+    ],
+    [
+      0.996400,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    default: Progress: 53% (Rate: 9001k/s, Estimated time remaining: 0:01:19)\u001b[0m"
+    ],
+    [
+      0.999315,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000220,
+      "\u001b[0m    default: Progress: 53% (Rate: 8429k/s, Estimated time remaining: 0:01:18)\u001b[0m"
+    ],
+    [
+      0.999378,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000096,
+      "\u001b[0m    default: Progress: 54% (Rate: 8065k/s, Estimated time remaining: 0:01:17)\u001b[0m"
+    ],
+    [
+      1.000510,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000098,
+      "\u001b[0m    default: Progress: 54% (Rate: 8074k/s, Estimated time remaining: 0:01:16)\u001b[0m"
+    ],
+    [
+      0.999695,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000105,
+      "\u001b[0m    default: Progress: 55% (Rate: 8147k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.003706,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000072,
+      "\u001b[0m    default: Progress: 55% (Rate: 8244k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      0.996632,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 56% (Rate: 8365k/s, Estimated time remaining: 0:01:14)\u001b[0m"
+    ],
+    [
+      1.001073,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000077,
+      "\u001b[0m    default: Progress: 57% (Rate: 8254k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.005913,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\u001b[0m    default: Progress: 57% (Rate: 7291k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      0.993880,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000084,
+      "\u001b[0m    default: Progress: 57% (Rate: 6381k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      0.997668,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\u001b[0m    default: Progress: 57% (Rate: 5554k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.001804,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 57% (Rate: 4642k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.000129,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000083,
+      "\u001b[0m    default: Progress: 58% (Rate: 3915k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      0.998722,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000121,
+      "\u001b[0m    default: Progress: 58% (Rate: 4093k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.002342,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000088,
+      "\u001b[0m    default: Progress: 58% (Rate: 4235k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      0.996742,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000155,
+      "\u001b[0m    default: Progress: 59% (Rate: 4492k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.002808,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000103,
+      "\u001b[0m    default: Progress: 59% (Rate: 4945k/s, Estimated time remaining: 0:01:12)\u001b[0m"
+    ],
+    [
+      0.997393,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000085,
+      "\u001b[0m    default: Progress: 60% (Rate: 5664k/s, Estimated time remaining: 0:01:11)\u001b[0m"
+    ],
+    [
+      1.000169,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    default: Progress: 60% (Rate: 6561k/s, Estimated time remaining: 0:01:10)\u001b[0m"
+    ],
+    [
+      0.999715,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000313,
+      "\u001b[0m    default: Progress: 61% (Rate: 7723k/s, Estimated time remaining: 0:01:09)\u001b[0m"
+    ],
+    [
+      0.999040,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000110,
+      "\u001b[0m    default: Progress: 61% (Rate: 8828k/s, Estimated time remaining: 0:01:08)\u001b[0m"
+    ],
+    [
+      1.000776,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000103,
+      "\u001b[0m    default: Progress: 62% (Rate: 9744k/s, Estimated time remaining: 0:01:07)\u001b[0m"
+    ],
+    [
+      0.999380,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\u001b[0m    default: Progress: 63% (Rate: 10.1M/s, Estimated time remaining: 0:01:05)\u001b[0m"
+    ],
+    [
+      1.000266,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000111,
+      "\u001b[0m    default: Progress: 63% (Rate: 10.5M/s, Estimated time remaining: 0:01:04)\u001b[0m"
+    ],
+    [
+      1.000323,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\u001b[0m    default: Progress: 64% (Rate: 10.6M/s, Estimated time remaining: 0:01:03)\u001b[0m"
+    ],
+    [
+      0.999546,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000215,
+      "\u001b[0m    default: Progress: 65% (Rate: 10.7M/s, Estimated time remaining: 0:01:01)\u001b[0m"
+    ],
+    [
+      0.999288,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000092,
+      "\u001b[0m    default: Progress: 65% (Rate: 10.6M/s, Estimated time remaining: 0:01:00)\u001b[0m"
+    ],
+    [
+      1.004509,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000146,
+      "\u001b[0m    default: Progress: 66% (Rate: 10.1M/s, Estimated time remaining: 0:00:59)\u001b[0m"
+    ],
+    [
+      0.995483,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000200,
+      "\u001b[0m    default: Progress: 67% (Rate: 9855k/s, Estimated time remaining: 0:00:58)\u001b[0m"
+    ],
+    [
+      1.002047,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000103,
+      "\u001b[0m    default: Progress: 67% (Rate: 9113k/s, Estimated time remaining: 0:00:57)\u001b[0m"
+    ],
+    [
+      0.998979,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000110,
+      "\u001b[0m    default: Progress: 67% (Rate: 8445k/s, Estimated time remaining: 0:00:57)\u001b[0m"
+    ],
+    [
+      0.998057,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000028,
+      "\u001b[0m    default: Progress: 68% (Rate: 7943k/s, Estimated time remaining: 0:00:56)\u001b[0m"
+    ],
+    [
+      1.000125,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\u001b[0m    default: Progress: 68% (Rate: 7896k/s, Estimated time remaining: 0:00:55)\u001b[0m"
+    ],
+    [
+      1.002147,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000116,
+      "\u001b[0m    default: Progress: 69% (Rate: 7863k/s, Estimated time remaining: 0:00:54)\u001b[0m"
+    ],
+    [
+      0.998143,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000089,
+      "\u001b[0m    default: Progress: 69% (Rate: 8046k/s, Estimated time remaining: 0:00:53)\u001b[0m"
+    ],
+    [
+      0.999372,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[0m    default: Progress: 70% (Rate: 8155k/s, Estimated time remaining: 0:00:52)\u001b[0m"
+    ],
+    [
+      1.000218,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000104,
+      "\u001b[0m    default: Progress: 71% (Rate: 8268k/s, Estimated time remaining: 0:00:52)\u001b[0m"
+    ],
+    [
+      0.999525,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001095,
+      "\u001b[0m    default: Progress: 71% (Rate: 8517k/s, Estimated time remaining: 0:00:50)\u001b[0m"
+    ],
+    [
+      0.999876,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000064,
+      "\u001b[0m    default: Progress: 72% (Rate: 9017k/s, Estimated time remaining: 0:00:49)\u001b[0m"
+    ],
+    [
+      0.999231,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000133,
+      "\u001b[0m    default: Progress: 72% (Rate: 9589k/s, Estimated time remaining: 0:00:48)\u001b[0m"
+    ],
+    [
+      0.999963,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000128,
+      "\u001b[0m    default: Progress: 73% (Rate: 9.9M/s, Estimated time remaining: 0:00:47)\u001b[0m"
+    ],
+    [
+      1.004298,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000143,
+      "\u001b[0m    default: Progress: 74% (Rate: 10.4M/s, Estimated time remaining: 0:00:45)\u001b[0m"
+    ],
+    [
+      0.995530,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000695,
+      "\u001b[0m    default: Progress: 75% (Rate: 10.7M/s, Estimated time remaining: 0:00:44)\u001b[0m"
+    ],
+    [
+      0.998713,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[0m    default: Progress: 75% (Rate: 10.6M/s, Estimated time remaining: 0:00:43)\u001b[0m"
+    ],
+    [
+      1.000696,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000103,
+      "\u001b[0m    default: Progress: 76% (Rate: 10.6M/s, Estimated time remaining: 0:00:42)\u001b[0m"
+    ],
+    [
+      0.999615,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000105,
+      "\u001b[0m    default: Progress: 77% (Rate: 10.6M/s, Estimated time remaining: 0:00:40)\u001b[0m"
+    ],
+    [
+      1.000004,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000140,
+      "\u001b[0m    default: Progress: 77% (Rate: 10.6M/s, Estimated time remaining: 0:00:39)\u001b[0m"
+    ],
+    [
+      1.002272,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[0m    default: Progress: 78% (Rate: 10.6M/s, Estimated time remaining: 0:00:38)\u001b[0m"
+    ],
+    [
+      0.997828,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.002758,
+      "\u001b[0m    default: Progress: 79% (Rate: 10.6M/s, Estimated time remaining: 0:00:37)\u001b[0m"
+    ],
+    [
+      0.996456,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 79% (Rate: 10.5M/s, Estimated time remaining: 0:00:35)\u001b[0m"
+    ],
+    [
+      1.001535,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000154,
+      "\u001b[0m    default: Progress: 80% (Rate: 10.5M/s, Estimated time remaining: 0:00:34)\u001b[0m"
+    ],
+    [
+      0.998923,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000084,
+      "\u001b[0m    default: Progress: 81% (Rate: 10.2M/s, Estimated time remaining: 0:00:33)\u001b[0m"
+    ],
+    [
+      0.999631,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000222,
+      "\u001b[0m    default: Progress: 81% (Rate: 9.8M/s, Estimated time remaining: 0:00:32)\u001b[0m"
+    ],
+    [
+      1.000103,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000150,
+      "\u001b[0m    default: Progress: 82% (Rate: 9891k/s, Estimated time remaining: 0:00:31)\u001b[0m"
+    ],
+    [
+      1.007857,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000102,
+      "\u001b[0m    default: Progress: 82% (Rate: 9629k/s, Estimated time remaining: 0:00:30)\u001b[0m"
+    ],
+    [
+      0.991176,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000097,
+      "\u001b[0m    default: Progress: 83% (Rate: 9387k/s, Estimated time remaining: 0:00:29)\u001b[0m"
+    ],
+    [
+      1.000140,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000155,
+      "\u001b[0m    default: Progress: 83% (Rate: 9133k/s, Estimated time remaining: 0:00:28)\u001b[0m"
+    ],
+    [
+      1.001070,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000196,
+      "\u001b[0m    default: Progress: 84% (Rate: 9216k/s, Estimated time remaining: 0:00:27)\u001b[0m"
+    ],
+    [
+      0.998377,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000066,
+      "\u001b[0m    default: Progress: 85% (Rate: 9408k/s, Estimated time remaining: 0:00:26)\u001b[0m"
+    ],
+    [
+      1.000206,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000101,
+      "\u001b[0m    default: Progress: 85% (Rate: 9713k/s, Estimated time remaining: 0:00:25)\u001b[0m"
+    ],
+    [
+      1.000165,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000084,
+      "\u001b[0m    default: Progress: 86% (Rate: 9417k/s, Estimated time remaining: 0:00:24)\u001b[0m"
+    ],
+    [
+      1.001922,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000239,
+      "\u001b[0m    default: Progress: 86% (Rate: 9485k/s, Estimated time remaining: 0:00:23)\u001b[0m"
+    ],
+    [
+      0.998397,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\u001b[0m    default: Progress: 87% (Rate: 9384k/s, Estimated time remaining: 0:00:22)\u001b[0m"
+    ],
+    [
+      0.998952,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001389,
+      "\u001b[0m    default: Progress: 87% (Rate: 9093k/s, Estimated time remaining: 0:00:21)\u001b[0m"
+    ],
+    [
+      0.999034,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000095,
+      "\u001b[0m    default: Progress: 88% (Rate: 8631k/s, Estimated time remaining: 0:00:20)\u001b[0m"
+    ],
+    [
+      0.999212,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001560,
+      "\u001b[0m    default: Progress: 89% (Rate: 8711k/s, Estimated time remaining: 0:00:19)\u001b[0m"
+    ],
+    [
+      1.002569,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.003532,
+      "\u001b[0m    default: Progress: 89% (Rate: 8852k/s, Estimated time remaining: 0:00:18)\u001b[0m"
+    ],
+    [
+      0.992535,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000083,
+      "\u001b[0m    default: Progress: 90% (Rate: 8954k/s, Estimated time remaining: 0:00:17)\u001b[0m"
+    ],
+    [
+      0.999814,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000118,
+      "\u001b[0m    default: Progress: 90% (Rate: 8716k/s, Estimated time remaining: 0:00:16)\u001b[0m"
+    ],
+    [
+      1.000704,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\u001b[0m    default: Progress: 91% (Rate: 8704k/s, Estimated time remaining: 0:00:16)\u001b[0m"
+    ],
+    [
+      0.999269,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000134,
+      "\u001b[0m    default: Progress: 91% (Rate: 8870k/s, Estimated time remaining: 0:00:14)\u001b[0m"
+    ],
+    [
+      0.999566,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000190,
+      "\u001b[0m    default: Progress: 92% (Rate: 8912k/s, Estimated time remaining: 0:00:13)\u001b[0m"
+    ],
+    [
+      1.002991,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000144,
+      "\u001b[0m    default: Progress: 93% (Rate: 9050k/s, Estimated time remaining: 0:00:12)\u001b[0m"
+    ],
+    [
+      0.996793,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\u001b[0m    default: Progress: 93% (Rate: 9582k/s, Estimated time remaining: 0:00:11)\u001b[0m"
+    ],
+    [
+      0.999901,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000036,
+      "\u001b[0m    default: Progress: 94% (Rate: 9950k/s, Estimated time remaining: 0:00:10)\u001b[0m"
+    ],
+    [
+      0.999837,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001198,
+      "\u001b[0m    default: Progress: 95% (Rate: 9.9M/s, Estimated time remaining: 0:00:09)\u001b[0m"
+    ],
+    [
+      0.998702,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000115,
+      "\u001b[0m    default: Progress: 95% (Rate: 10.0M/s, Estimated time remaining: 0:00:08)\u001b[0m"
+    ],
+    [
+      1.000742,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\u001b[0m    default: Progress: 96% (Rate: 10.2M/s, Estimated time remaining: 0:00:07)\u001b[0m"
+    ],
+    [
+      1.000536,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\u001b[0m    default: Progress: 97% (Rate: 10.3M/s, Estimated time remaining: 0:00:05)\u001b[0m"
+    ],
+    [
+      0.998447,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000129,
+      "\u001b[0m    default: Progress: 97% (Rate: 10.5M/s, Estimated time remaining: 0:00:04)\u001b[0m"
+    ],
+    [
+      1.000805,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000088,
+      "\u001b[0m    default: Progress: 98% (Rate: 10.6M/s, Estimated time remaining: 0:00:03)\u001b[0m"
+    ],
+    [
+      1.000148,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000176,
+      "\u001b[0m    default: Progress: 99% (Rate: 10.7M/s, Estimated time remaining: 0:00:02)\u001b[0m"
+    ],
+    [
+      0.287475,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000105,
+      "\u001b[0m    default: Progress: 99% (Rate: 10.8M/s, Estimated time remaining: 0:00:01)\u001b[0m"
+    ],
+    [
+      0.000228,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000248,
+      "\u001b[0m    default: Calculating and comparing box checksum...\u001b[0m\r\n"
+    ],
+    [
+      23.041586,
+      "\u001b[1;32m==\u003e default: Successfully added box 'glass-3.4.3-snapshot-de' (v3.4.3.0.30) for 'virtualbox'!\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      6.930429,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000054,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.136901,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[11:58:13]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.907609,
+      "v"
+    ],
+    [
+      0.117747,
+      "\u0008va"
+    ],
+    [
+      0.431974,
+      "g"
+    ],
+    [
+      0.224185,
+      "r"
+    ],
+    [
+      0.071757,
+      "a"
+    ],
+    [
+      0.720012,
+      "t"
+    ],
+    [
+      0.000043,
+      "n"
+    ],
+    [
+      0.079930,
+      " "
+    ],
+    [
+      0.656011,
+      "\u0008"
+    ],
+    [
+      0.176018,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144042,
+      "\u0008 \u0008"
+    ],
+    [
+      0.576014,
+      "n"
+    ],
+    [
+      0.039934,
+      "t"
+    ],
+    [
+      0.047958,
+      " "
+    ],
+    [
+      0.312127,
+      "s"
+    ],
+    [
+      0.168052,
+      "s"
+    ],
+    [
+      0.256027,
+      "h"
+    ],
+    [
+      0.263907,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.071252,
+      "\u001b]2;vagrant ssh\u0007\u001b]1;vagrant\u0007"
+    ],
+    [
+      9.530465,
+      "vagrant@127.0.0.1's password: "
+    ],
+    [
+      3.158148,
+      "\r\n"
+    ],
+    [
+      0.000490,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000049,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.003054,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[11:58:33]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      3.396413,
+      "v"
+    ],
+    [
+      0.160000,
+      "\u0008va"
+    ],
+    [
+      0.176067,
+      "g"
+    ],
+    [
+      0.184063,
+      "r"
+    ],
+    [
+      0.080042,
+      "a"
+    ],
+    [
+      0.103967,
+      "n"
+    ],
+    [
+      0.071987,
+      "t"
+    ],
+    [
+      0.071829,
+      " "
+    ],
+    [
+      0.168070,
+      "d"
+    ],
+    [
+      0.168001,
+      "e"
+    ],
+    [
+      0.152075,
+      "s"
+    ],
+    [
+      0.208005,
+      "t"
+    ],
+    [
+      0.168083,
+      "r"
+    ],
+    [
+      0.063977,
+      "o"
+    ],
+    [
+      0.135914,
+      "y"
+    ],
+    [
+      0.104026,
+      " "
+    ],
+    [
+      0.136041,
+      "-"
+    ],
+    [
+      0.263864,
+      "f"
+    ],
+    [
+      0.640157,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000306,
+      "\u001b]2;vagrant destroy -f\u0007\u001b]1;vagrant\u0007"
+    ],
+    [
+      3.826937,
+      "\u001b[1m==\u003e default: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.497521,
+      "\u001b[1m==\u003e default: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      0.949792,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000043,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.003180,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[11:58:46]\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.082223,
+      "v"
+    ],
+    [
+      0.159918,
+      "\u0008va"
+    ],
+    [
+      0.143957,
+      "g"
+    ],
+    [
+      0.167957,
+      "r"
+    ],
+    [
+      0.064062,
+      "a"
+    ],
+    [
+      0.111901,
+      "n"
+    ],
+    [
+      0.072059,
+      "t"
+    ],
+    [
+      0.095895,
+      " "
+    ],
+    [
+      0.167923,
+      "p"
+    ],
+    [
+      0.312185,
+      "\u0008 \u0008"
+    ],
+    [
+      0.160052,
+      "u"
+    ],
+    [
+      0.087971,
+      "p"
+    ],
+    [
+      0.343828,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "\u001b]2;vagrant up\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      1.173108,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.216803,
+      "\u001b[1m==\u003e default: Importing base box 'glass-3.4.3-snapshot-de'...\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      4.485360,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000059,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      0.402688,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000061,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      3.123498,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000074,
+      "\u001b[0mProgress: 30%\u001b[0m"
+    ],
+    [
+      1.206727,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      3.123233,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000104,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      0.604165,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000096,
+      "\u001b[0mProgress: 70%\u001b[0m"
+    ],
+    [
+      3.020962,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000076,
+      "\u001b[0mProgress: 80%\u001b[0m"
+    ],
+    [
+      13.788855,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000044,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      19.649495,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000289,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.375418,
+      "\u001b[1m==\u003e default: Checking if box 'glass-3.4.3-snapshot-de' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      0.705702,
+      "\u001b[1m==\u003e default: Setting the name of the VM: vagrant-test_default_1428573580889_45017\u001b[0m\r\n"
+    ],
+    [
+      1.062564,
+      "\u001b[1m==\u003e default: Fixed port collision for 8080 =\u003e 18080. Now on port 2205.\u001b[0m\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b[1m==\u003e default: Fixed port collision for 389 =\u003e 10389. Now on port 2206.\u001b[0m\r\n"
+    ],
+    [
+      0.000574,
+      "\u001b[1m==\u003e default: Fixed port collision for 9090 =\u003e 19090. Now on port 2207.\u001b[0m\r\n"
+    ],
+    [
+      0.000549,
+      "\u001b[1m==\u003e default: Fixed port collision for 3306 =\u003e 13306. Now on port 2208.\u001b[0m\r\n"
+    ],
+    [
+      0.000485,
+      "\u001b[1m==\u003e default: Fixed port collision for 8585 =\u003e 18585. Now on port 2209.\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000512,
+      "\u001b[1m==\u003e default: Fixed port collision for 8443 =\u003e 18443. Now on port 2210.\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000464,
+      "\u001b[1m==\u003e default: Fixed port collision for 22 =\u003e 2222. Now on port 2211.\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.440885,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.257498,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000241,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.218509,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.033343,
+      "\u001b[0m    default: 8080 =\u003e 2205 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[0m    default: 389 =\u003e 2206 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[0m    default: 9090 =\u003e 2207 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[0m    default: 3306 =\u003e 2208 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "\u001b[0m    default: 8585 =\u003e 2209 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    default: 8443 =\u003e 2210 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[0m    default: 22 =\u003e 2211 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.707320,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.803327,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.404530,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2211\u001b[0m\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\n"
+    ],
+    [
+      15.081801,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.093304,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      10.007315,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      10.066937,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      10.017942,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      10.015181,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      10.018246,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      10.071603,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      10.078023,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      10.018734,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      10.059990,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      10.063638,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      10.054909,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      5.015180,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.080913,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[0m    default: /vagrant =\u003e /tmp/vagrant-test\u001b[0m\r\n"
+    ],
+    [
+      2.061523,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.003481,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[12:01:57]"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      17.861314,
+      "v"
+    ],
+    [
+      0.119615,
+      "\u0008va"
+    ],
+    [
+      0.135956,
+      "g"
+    ],
+    [
+      0.167962,
+      "r"
+    ],
+    [
+      0.080563,
+      "a"
+    ],
+    [
+      0.135535,
+      "n"
+    ],
+    [
+      0.063939,
+      "t"
+    ],
+    [
+      0.063988,
+      " "
+    ],
+    [
+      0.160060,
+      "s"
+    ],
+    [
+      0.176022,
+      "s"
+    ],
+    [
+      0.079879,
+      "h"
+    ],
+    [
+      0.104114,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000047,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000808,
+      "\u001b]2;vagrant ssh\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      2.438833,
+      "Welcome to Ubuntu 14.04.1 LTS (GNU/Linux 3.13.0-24-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\nLast login: Tue Oct 21 14:52:42 2014 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.838732,
+      "\u001b]0;vagrant@RSD-glass-vm-343-ubuntu: ~\u0007vagrant@RSD-glass-vm-343-ubuntu:~$ "
+    ],
+    [
+      0.866084,
+      "i"
+    ],
+    [
+      0.176087,
+      "n"
+    ],
+    [
+      0.095821,
+      "f"
+    ],
+    [
+      0.087987,
+      "o"
+    ],
+    [
+      0.248680,
+      "\r\n"
+    ],
+    [
+      2.133118,
+      "{\r\n  \"rsd_glass_version\": \"3.4.3.0-SNAPSHOT-15032422\",\r\n  \"rsd_glass_scm_revision\": \"\",\r\n  \"rsd_glass_build_date\": \"15032422\","
+    ],
+    [
+      0.000018,
+      "\r\n  \"rsd_glass_build_jdk\": \"1.7.0_76\",\r\n  \"rsd_govapps_version\": \"1.2.0-SNAPSHOT\",\r\n"
+    ],
+    [
+      0.000019,
+      "  \"rsd_govapps_scm_revision\": \"2238\",\r\n  \"rsd_govapps_build_date\": \"2015-04-02 16:16:05\",\r\n  \"rsd_govapps_build_jdk\": \"1.7.0_76\","
+    ],
+    [
+      0.000065,
+      "\r\n  \"rsd_pm_version\": \"3.4.3.0-SNAPSHOT-15032422\","
+    ],
+    [
+      0.000274,
+      "\r\n  \"rsd_pm_scm_revision\": \"\",\r\n  \"rsd_pm_build_date\": \"15032422\",\r\n  \"rsd_pm_build_jdk\": \"1.7.0_76\""
+    ],
+    [
+      0.000055,
+      "\r\n}"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.001668,
+      "\u001b]0;vagrant@RSD-glass-vm-343-ubuntu: ~\u0007vagrant@RSD-glass-vm-343-ubuntu:~$ "
+    ],
+    [
+      5.785299,
+      "logout\r\n"
+    ],
+    [
+      0.039253,
+      "Connection to 127.0.0.1 closed.\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000767,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000070,
+      "\u001b]2;bubo@obsidian: /tmp/vagrant-test\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;../vagrant-test\u0007"
+    ],
+    [
+      0.008315,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp/vagrant-test\u001b[00m \u001b[37m[12:02:29]\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u001b[31m$ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.205929,
+      "\r\r\n"
+    ]
+  ]
+}
