@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 9.698652,
+  "command": "/usr/local/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      0.286976,
+      "bash-4.3$ "
+    ],
+    [
+      1.026087,
+      "l"
+    ],
+    [
+      0.103744,
+      "s"
+    ],
+    [
+      0.135845,
+      "\r\n"
+    ],
+    [
+      0.043823,
+      "\u001b[1m\u001b[34m-Lyrics\u001b[39;49m\u001b[0m                            config\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1m\u001b[34m2013\u001b[39;49m\u001b[0m                               config.log\r\n\u001b[30m\u001b[43mAdlm\u001b[39;49m\u001b[0m                               date.fig\r\n\u001b[1m\u001b[34mApplications\u001b[39;49m\u001b[0m                       \u001b[1m\u001b[32mdnet\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u001b[34mApplications (Parallels)\u001b[39;49m\u001b[0m           \u001b[1m\u001b[32mdnet-config.old.dontuse\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u001b[34mArturia\u001b[39;49m\u001b[0m                            \u001b[1m\u001b[34mexternalmods\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000106,
+      "\u001b[1m\u001b[34mBitBucket\u001b[39;49m\u001b[0m                          \u001b[1m\u001b[34mgb_demo\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mBooks\u001b[39;49m\u001b[0m                              genymotion-log.zip\r\n\u001b[1m\u001b[34mBox Files Backup (not synced)\u001b[39;49m\u001b[0m      \u001b[1m\u001b[34miOS_ROOT\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mBox Sync\u001b[39;49m\u001b[0m                           kali_ExploitationTools\r\n\u001b[1m\u001b[34mCalibre Library\u001b[39;49m\u001b[0m                    kali_ForensicTools\r\n\u001b[1m\u001b[34mCap'd Packets\u001b[39;49m\u001b[0m                      kali_HardwareHacking\r\n"
+    ],
+    [
+      0.000503,
+      "\u001b[1m\u001b[34mCodeProjects\u001b[39;49m\u001b[0m                       kali_InfoGathering\r\nCore-current.dmg                   kali_MaintainingAccess\r\nCore-current.iso                   kali_PasswordAttacks\r\n\u001b[1m\u001b[34mDOS\u001b[39;49m\u001b[0m                                kali_ReportingTools\r\n\u001b[30m\u001b[43mDesktop\u001b[39;49m\u001b[0m                            kali_ReverseEngineering\r\n\u001b[1m\u001b[34mDev\u001b[39;49m\u001b[0m                                kali_SniffingSpoofing\r\n\u001b[1m\u001b[34mDocuments\u001b[39;49m\u001b[0m                          kali_StressTesting\r\n\u001b[1m\u001b[34mDownloads\u001b[39;49m\u001b[0m                          kali_VulnrabilityAnalysis\r\n\u001b[1m\u001b[34mDropbox\u001b[39;49m\u001b[0m                            kali_WebApplications\r\nFFXI-Noob-Guide.txt                kali_WirelessAttacks\r\nFeb8 - Changed GCC to GCC-MAV      kaliorg\r\n\u001b[1m\u001b[34mIOS_PORT\u001b[39;49m\u001b[0m                           libat3plusdecoder.dylib\r\nIncaseWiresharkDoesntListDoThis.sh \u001b[1m\u001b[34mlibdnet-1.12\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mLibrary\u001b[39;49m\u001b[0m                            ljes-2.00.tar.gz\r\nLovely.txt                     "
+    ],
+    [
+      0.000210,
+      "    \u001b[1m\u001b[32mloginsfx.command\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[32mMacbook.ovpn\u001b[39;49m\u001b[0m                       \u001b[1m\u001b[34mlove\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mMelodyne Transfer\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[34mlove-android-sdl2\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mMovies\u001b[39;49m\u001b[0m                             \u001b[1m\u001b[34mlove2d-light-and-shadow-engine\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mMtn\u001b[39;49m\u001b[0m                                lsdj.sav\r\n\u001b[1m\u001b[34mMusic\u001b[39;49m\u001b[0m                              \u001b[1m\u001b[34mluajit-2.0\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[32mMyPhone.ovpn\u001b[39;49m\u001b[0m                       \u001b[1m\u001b[34mluarocks\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mNetBeansProjects\u001b[39;49m\u001b[0m                   luash\r\n\u001b[1m\u001b[34mNew Unity Project\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[34mmoai\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mNewProject\u001b[39;49m\u001b[0m                         \u001b[1m\u001b[32mmplayerurl\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mNotes\u001b[39;49m\u001b[0m                              mybashprofile.txt\r\n\u001b[1m\u001b[34mPictures\u001b[39;49m\u001b[0m                           \u001b[1m\u001b[34mn3\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mPirate\u001b[39;49m\u001b[0m                             ngin"
+    ],
+    [
+      0.000013,
+      "x-installed.log\r\n\u001b[1m\u001b[35mPlayOnMac's virtual drives\u001b[39;49m\u001b[0m         npm-debug.log\r\n\u001b[1m\u001b[34mPolycode\u001b[39;49m\u001b[0m                           \u001b[1m\u001b[34mpebble-dev\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mPublic\u001b[39;49m\u001b[0m                             perma-login-pic\r\n\u001b[1m\u001b[34mQt\u001b[39;49m\u001b[0m                                 piCore-5.3.1-SSH.zip\r\n\u001b[1m\u001b[34mQt5.1.1\u001b[39;49m\u001b[0m                            \u001b[1m\u001b[34mply.egg-info\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[1m\u001b[34mQt5.3.1\u001b[39;49m\u001b[0m                            \u001b[1m\u001b[34mppsspp\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mRPG Interface\u001b[39;49m\u001b[0m                      ppsspp.ini\r\nSMB.gbs                            \u001b[1m\u001b[34mpyrit-read-only\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mStuffIt\u001b[39;49m\u001b[0m                            \u001b[1m\u001b[34mqt5\u001b[39;49m\u001b[0m\r\nSwitches                           ratpoisonrc\r\nTerminal Saved Output              rogue.save\r\n\u001b[1m\u001b[34mTests\u001b[39;49m\u001b[0m                              \u001b[1m\u001b[34msfx\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mVirtualBox VMs\u001b[39;49m\u001b[0m                     song1.lsdsng\r\n\u001b[1m\u001b[34mandroid-sdks\u001b[39;49m\u001b[0m                       stream.yuv\r\n\u001b[1m\u001b[34mappbundler\u001b[39;49m\u001b[0m                         tags\r\n"
+    ],
+    [
+      0.000303,
+      "\u001b[1m\u001b[34mbak\u001b[39;49m\u001b[0m                                test.cpp\r\nbash_pro                           \u001b[1m\u001b[34mtmp\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mbin\u001b[39;49m\u001b[0m                                \u001b[1m\u001b[34mtmux\u001b[39;49m\u001b[0m\r\nbrew update TueApr7                tmux.conf\r\nca.crt                             umbrella0.log\r\n\u001b[1m\u001b[34mcasablanca\u001b[39;49m\u001b[0m                         \u001b[1m\u001b[34mwget-1.14\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[34mcheats\u001b[39;49m\u001b[0m                             wget-1.14.tar.gz\r\ncommon-ports                       xdg_menu\r\ncomports                           \u001b[1m\u001b[34mxgen\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000540,
+      "bash-4.3$ "
+    ],
+    [
+      1.778188,
+      "c"
+    ],
+    [
+      0.080221,
+      "a"
+    ],
+    [
+      0.239739,
+      "t"
+    ],
+    [
+      0.232102,
+      " "
+    ],
+    [
+      0.728160,
+      "c"
+    ],
+    [
+      0.111867,
+      "o"
+    ],
+    [
+      0.241233,
+      "\u0007"
+    ],
+    [
+      0.558897,
+      "m"
+    ],
+    [
+      0.152070,
+      "\u0007"
+    ],
+    [
+      0.527683,
+      "o"
+    ],
+    [
+      0.352109,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.215843,
+      "m"
+    ],
+    [
+      0.127798,
+      "o"
+    ],
+    [
+      0.179447,
+      "n-ports "
+    ],
+    [
+      0.532613,
+      "\r\n"
+    ],
+    [
+      0.046358,
+      "   --------------------------------------------------------------------------\r\n                            Appendix C. Common Ports\r\n\r\n   http://www.iana.org/assignments/port-numbers\r\n\r\n   +------------------------------------------------------------------------+\r\n   | Port # / | Name            | Comment                                   |\r\n   | Layer    |                 |                                           |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 1        | tcpmux          | TCP port service multiplexer              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 5        | rje             | Remote Job Entry                          |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 7        | echo            | Echo service                              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 9        | discard         | Null service f"
+    ],
+    [
+      0.000036,
+      "or connection testing       |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 11       | systat          | System Status service for listing         |\r\n   |          |                 | connected ports                           |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 13       | daytime         | Sends date and time to requesting host    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 17       | qotd            | Sends quote of the day to connected host  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 18       | msp             | Message Send Protocol                     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 19       | chargen         | Character Generation service; sends       |\r\n   |          |                 | endless stream of characters              |\r\n   |----------+-----------------+------------"
+    ],
+    [
+      0.000147,
+      "-------------------------------|\r\n   | 20       | ftp-data        | FTP data port                             |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | File Transfer Protocol (FTP) port;        |\r\n   | 21       | ftp             | sometimes used by File Service Protocol   |\r\n   |          |                 | (FSP)                                     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 22       | ssh             | Secure Shell (SSH) service                |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 23       | telnet          | The Telnet service                        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 25       | smtp            | Simple Mail Transfer Protocol (SMTP)      |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 37       | time            | Time Pro"
+    ],
+    [
+      0.000356,
+      "tocol                             |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 39       | rlp             | Resource Location Protocol                |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 42       | nameserver      | Internet Name Service                     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 43       | nicname         | WHOIS directory service                   |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Terminal Access Controller Access Control |\r\n   | 49       | tacacs          | System for TCP/IP based authentication    |\r\n   |          |                 | and access                                |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 50       | re-mail-ck      | Remote Mail Checking Protocol             |\r\n   |----------+-----------------+------"
+    ],
+    [
+      0.000051,
+      "-------------------------------------|\r\n   | 53       | domain          | domain name services (such as BIND)       |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 63       | whois++         | WHOIS++, extended WHOIS services          |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Bootstrap Protocol (BOOTP) services; also |\r\n   | 67       | bootps          | used by Dynamic Host Configuration        |\r\n   |          |                 | Protocol (DHCP) services                  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Bootstrap (BOOTP) client; also used by    |\r\n   | 68       | bootpc          | Dynamic Host Control Protocol (DHCP)      |\r\n   |          |                 | clients                                   |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 69       | tftp            | Tr"
+    ],
+    [
+      0.000078,
+      "ivial File Transfer Protocol (TFTP)     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 70       | gopher          | Gopher Internet document search and       |\r\n   |          |                 | retrieval                                 |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 71       | netrjs-1        | Remote Job Service                        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 72       | netrjs-2        | Remote Job Service                        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 73       | netrjs-3        | Remote Job Service                        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 73       | netrjs-4        | Remote Job Service                        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 79       | finger          |"
+    ],
+    [
+      0.000184,
+      " Finger service for user contact           |\r\n   |          |                 | information                               |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 80       | http            | HyperText Transfer Protocol (HTTP) for    |\r\n   |          |                 | World Wide Web (WWW) services             |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 88       | kerberos        | Kerberos network authentication system    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 95       | supdup          | Telnet protocol extension                 |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 101      | hostname        | Hostname services on SRI-NIC machines     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 102/tcp  | iso-tsap        | ISO Development Environment (ISODE)       |\r\n   |          |               "
+    ],
+    [
+      0.000081,
+      "  | network applications                      |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 105      | csnet-ns        | Mailbox nameserver; also used by CSO      |\r\n   |          |                 | nameserver                                |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 107      | rtelnet         | Remote Telnet                             |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 109      | pop2            | Post Office Protocol version 2            |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 110      | pop3            | Post Office Protocol version 3            |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Remote Procedure Call (RPC) Protocol for  |\r\n   | 111      | sunrpc          | remote command execution, used by Network |\r\n   |          |            "
+    ],
+    [
+      0.000091,
+      "     | Filesystem (NFS)                          |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 113      | auth            | Authentication and Ident protocols        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 115      | sftp            | Secure File Transfer Protocol (SFTP)      |\r\n   |          |                 | services                                  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 117      | uucp-path       | Unix-to-Unix Copy Protocol (UUCP) Path    |\r\n   |          |                 | services                                  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 119      | nntp            | Network News Transfer Protocol (NNTP) for |\r\n   |          |                 | the USENET discussion system              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 123      | ntp     "
+    ],
+    [
+      0.000279,
+      "        | Network Time Protocol (NTP)               |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 137      | netbios-ns      | NETBIOS Name Service used in Red Hat      |\r\n   |          |                 | Enterprise Linux by Samba                 |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 138      | netbios-dgm     | NETBIOS Datagram Service used in Red Hat  |\r\n   |          |                 | Enterprise Linux by Samba                 |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 139      | netbios-ssn     | NETBIOS Session Service used in Red Hat   |\r\n   |          |                 | Enterprise Linux by Samba                 |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 143      | imap            | Internet Message Access Protocol (IMAP)   |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 161      | snmp "
+    ],
+    [
+      0.000048,
+      "           | Simple Network Management Protocol (SNMP) |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 162      | snmptrap        | Traps for SNMP                            |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 163      | cmip-man        | Common Management Information Protocol    |\r\n   |          |                 | (CMIP)                                    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 164      | cmip-agent      | Common Management Information Protocol    |\r\n   |          |                 | (CMIP)                                    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 174      | mailq           | MAILQ email transport queue               |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 177      | xdmcp           | X Display Manager Control Protocol        |\r\n   |          |   "
+    ],
+    [
+      0.000078,
+      "              | (XDMCP)                                   |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 178      | nextstep        | NeXTStep window server                    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 179      | bgp             | Border Gateway Protocol                   |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 191      | prospero        | Prospero distributed filesystem services  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 194      | irc             | Internet Relay Chat (IRC)                 |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 199      | smux            | SNMP UNIX Multiplexer                     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 201      | at-rtmp         | AppleTalk routing                         |\r\n   |----------+"
+    ],
+    [
+      0.000172,
+      "-----------------+-------------------------------------------|\r\n   | 202      | at-nbp          | AppleTalk name binding                    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 204      | at-echo         | AppleTalk echo                            |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 206      | at-zis          | AppleTalk zone information                |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 209      | qmtp            | Quick Mail Transfer Protocol (QMTP)       |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 210      | z39.50          | NISO Z39.50 database                      |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Internetwork Packet Exchange (IPX), a     |\r\n   | 213      | ipx             | datagram protocol commonly used in Novell |\r\n   |        "
+    ],
+    [
+      0.000140,
+      "  |                 | Netware environments                      |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 220      | imap3           | Internet Message Access Protocol version  |\r\n   |          |                 | 3                                         |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 245      | link            | LINK / 3-DNS iQuery service               |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 347      | fatserv         | FATMEN file and tape management server    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 363      | rsvp_tunnel     | RSVP Tunnel                               |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 369      | rpc2portmap     | Coda file system portmapper               |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 370 "
+    ],
+    [
+      0.000137,
+      "     | codaauth2       | Coda file system authentication services  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 372      | ulistproc       | UNIX LISTSERV                             |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 389      | ldap            | Lightweight Directory Access Protocol     |\r\n   |          |                 | (LDAP)                                    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 427      | svrloc          | Service Location Protocol (SLP)           |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 434      | mobileip-agent  | Mobile Internet Protocol (IP) agent       |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 435      | mobilip-mn      | Mobile Internet Protocol (IP) manager     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 4"
+    ],
+    [
+      0.000129,
+      "43      | https           | Secure Hypertext Transfer Protocol (HTTP) |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 444      | snpp            | Simple Network Paging Protocol            |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 445      | microsoft-ds    | Server Message Block (SMB) over TCP/IP    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 464      | kpasswd         | Kerberos password and key changing        |\r\n   |          |                 | services                                  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 468      | photuris        | Photuris session key management protocol  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 487      | saft            | Simple Asynchronous File Transfer (SAFT)  |\r\n   |          |                 | protocol                                  |\r\n   "
+    ],
+    [
+      0.000125,
+      "|----------+-----------------+-------------------------------------------|\r\n   | 488      | gss-http        | Generic Security Services (GSS) for HTTP  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Rendezvous Point Discovery (RP-DISC) for  |\r\n   | 496      | pim-rp-disc     | Protocol Independent Multicast (PIM)      |\r\n   |          |                 | services                                  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 500      | isakmp          | Internet Security Association and Key     |\r\n   |          |                 | Management Protocol (ISAKMP)              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 535      | iiop            | Internet Inter-Orb Protocol (IIOP)        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 538      | gdomap          | GNUstep Distributed Objects Mapper        |\r\n"
+    ],
+    [
+      0.000056,
+      "   |          |                 | (GDOMAP)                                  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 546      | dhcpv6-client   | Dynamic Host Configuration Protocol       |\r\n   |          |                 | (DHCP) version 6 client                   |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 547      | dhcpv6-server   | Dynamic Host Configuration Protocol       |\r\n   |          |                 | (DHCP) version 6 Service                  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 554      | rtsp            | Real Time Stream Control Protocol (RTSP)  |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 563      | nntps           | Network News Transport Protocol over      |\r\n   |          |                 | Secure Sockets Layer (NNTPS)              |\r\n   |----------+-----------------+-------------------------------------------"
+    ],
+    [
+      0.000083,
+      "|\r\n   | 565      | whoami          | whoami user ID listing                    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 587      | submission      | Mail Message Submission Agent (MSA)       |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Network Peripheral Management Protocol    |\r\n   | 610      | npmp-local      | (NPMP) local / Distributed Queueing       |\r\n   |          |                 | System (DQS)                              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   |          |                 | Network Peripheral Management Protocol    |\r\n   | 611      | npmp-gui        | (NPMP) GUI / Distributed Queueing System  |\r\n   |          |                 | (DQS)                                     |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 612      | hmmp-ind        | HyperMedia Management Protocol (HMMP)  "
+    ],
+    [
+      0.000183,
+      "   |\r\n   |          |                 | Indication / DQS                          |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 631      | ipp             | Internet Printing Protocol (IPP)          |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 636      | ldaps           | Lightweight Directory Access Protocol     |\r\n   |          |                 | over Secure Sockets Layer (LDAPS)         |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 674      | acap            | Application Configuration Access Protocol |\r\n   |          |                 | (ACAP)                                    |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 694      | ha-cluster      | Heartbeat services for High-Availability  |\r\n   |          |                 | Clusters                                  |\r\n   |----------+-----------------+-------------------------------------"
+    ],
+    [
+      0.000079,
+      "------|\r\n   | 749      | kerberos-adm    | Kerberos version 5 (v5) 'kadmin' database |\r\n   |          |                 | administration                            |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 750      | kerberos-iv     | Kerberos version 4 (v4) services          |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 765      | webster         | Network Dictionary                        |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 767      | phonebook       | Network Phonebook                         |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 873      | rsync           | rsync file transfer services              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 992      | telnets         | Telnet over Secure Sockets Layer          |\r\n   |          |                 | (TelnetS)                        "
+    ],
+    [
+      0.000091,
+      "         |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 993      | imaps           | Internet Message Access Protocol over     |\r\n   |          |                 | Secure Sockets Layer (IMAPS)              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 994      | ircs            | Internet Relay Chat over Secure Sockets   |\r\n   |          |                 | Layer (IRCS)                              |\r\n   |----------+-----------------+-------------------------------------------|\r\n   | 995      | pop3s           | Post Office Protocol version 3 over       |\r\n   |          |                 | Secure Sockets Layer (POP3S)              |\r\n   +------------------------------------------------------------------------+\r\n\r\n   Table C-1. Well Known Ports\r\n\r\n   Table C-2 lists UNIX-specific ports and cover services ranging from email\r\n   to authentication and more. Names enclosed in brackets (for example,\r\n   [service]) are either daemon nam"
+    ],
+    [
+      0.000186,
+      "es for the service or common alias(es).\r\n\r\n   +------------------------------------------------------------------------+\r\n   | Port # / Layer | Name                | Comment                         |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 512/tcp        | exec                | Authentication for remote       |\r\n   |                |                     | process execution               |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 512/udp        | biff [comsat]       | Asynchrous mail client (biff)   |\r\n   |                |                     | and service (comsat)            |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 513/tcp        | login               | Remote Login (rlogin)           |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 513/udp        | who [whod]          | whod user logging daemon        |\r\n   |----------------+------------"
+    ],
+    [
+      0.000079,
+      "---------+---------------------------------|\r\n   |                |                     | Remote shell (rshell) and       |\r\n   | 514/tcp        | shell [cmd]         | remote copy (rcp) with no       |\r\n   |                |                     | logging                         |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 514/udp        | syslog              | UNIX system logging service     |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 515            | printer [spooler]   | Line printer (lpr) spooler      |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 517/udp        | talk                | Talk remote calling service and |\r\n   |                |                     | client                          |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 518/udp        | ntalk               | Network talk (ntalk) remote     |\r\n   |                |         "
+    ],
+    [
+      0.000086,
+      "            | calling service and client      |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 519            | utime [unixtime]    | UNIX time (utime) protocol      |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 520/tcp        | efs                 | Extended Filename Server (EFS)  |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 520/udp        | router [route,      | Routing Information Protocol    |\r\n   |                | routed]             | (RIP)                           |\r\n   |----------------+---------------------+---------------------------------|\r\n   |                |                     | Routing Information Protocol    |\r\n   | 521            | ripng               | for Internet Protocol version 6 |\r\n   |                |                     | (IPv6)                          |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 525            | timed"
+    ],
+    [
+      0.000026,
+      " [timeserver]  | Time daemon (timed)             |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 526/tcp        | tempo [newdate]     | Tempo                           |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 530/tcp        | courier [rpc]       | Courier Remote Procedure Call   |\r\n   |                |                     | (RPC) protocol                  |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 531/tcp        | conference [chat]   | Internet Relay Chat             |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 532            | netnews             | Netnews newsgroup service       |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 533/udp        | netwall             | Netwall for emergency           |\r\n   |                |                     | broadcasts                      |\r\n   |----------------+---"
+    ],
+    [
+      0.000068,
+      "------------------+---------------------------------|\r\n   | 540/tcp        | uucp [uucpd]        | UNIX-to-UNIX copy services      |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 543/tcp        | klogin              | Kerberos version 5 (v5) remote  |\r\n   |                |                     | login                           |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 544/tcp        | kshell              | Kerberos version 5 (v5) remote  |\r\n   |                |                     | shell                           |\r\n   |----------------+---------------------+---------------------------------|\r\n   |                |                     | Appletalk Filing Protocol (AFP) |\r\n   | 548            | afpovertcp          | over Transmission Control       |\r\n   |                |                     | Protocol (TCP)                  |\r\n   |----------------+---------------------+---------------------------------|\r\n   | 556            |"
+    ],
+    [
+      0.000182,
+      " remotefs            | Brunhoff's Remote Filesystem    |\r\n   |                | [rfs_server, rfs]   | (RFS)                           |\r\n   +------------------------------------------------------------------------+\r\n\r\n   Table C-2. UNIX Specific Ports\r\n\r\n   Table C-3 lists ports submitted by the network and software community to\r\n   the IANA for formal registration into the port number list.\r\n\r\n   +------------------------------------------------------------------------+\r\n   | Port # / Layer  | Name                   | Comment                     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1080            | socks                  | SOCKS network application   |\r\n   |                 |                        | proxy services              |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Remote configuration server |\r\n   | 1236            | bvcontrol [rmtcfg]     | for Gracilis Packeten    "
+    ],
+    [
+      0.000056,
+      "   |\r\n   |                 |                        | network switches[a]         |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1300            | h323hostcallsc         | H.323 telecommunication     |\r\n   |                 |                        | Host Call Secure            |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1433            | ms-sql-s               | Microsoft SQL Server        |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1434            | ms-sql-m               | Microsoft SQL Monitor       |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1494            | ica                    | Citrix ICA Client           |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1512            | wins                   | Microsoft Windows Internet  |\r\n   |                 |                        | Name Server           "
+    ],
+    [
+      0.000179,
+      "      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1524            | ingreslock             | Ingres Database Management  |\r\n   |                 |                        | System (DBMS) lock services |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1525            | prospero-np            | Prospero non-privileged     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1645            | datametrics            | Datametrics / old radius    |\r\n   |                 | [old-radius]           | entry                       |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1646            | sa-msg-port            | sa-msg-port / old radacct   |\r\n   |                 | [oldradacct]           | entry                       |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1649            | kermit                 | Kermit file transfe"
+    ],
+    [
+      0.000078,
+      "r and    |\r\n   |                 |                        | management service          |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Layer 2 Tunneling Protocol  |\r\n   | 1701            | l2tp [l2f]             | (LT2P) / Layer 2 Forwarding |\r\n   |                 |                        | (L2F)                       |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1718            | h323gatedisc           | H.323 telecommunication     |\r\n   |                 |                        | Gatekeeper Discovery        |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1719            | h323gatestat           | H.323 telecommunication     |\r\n   |                 |                        | Gatekeeper Status           |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1720            | h323hostcall           | H.323 telecommun"
+    ],
+    [
+      0.000100,
+      "ication     |\r\n   |                 |                        | Host Call setup             |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1758            | tftp-mcast             | Trivial FTP Multicast       |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1759/udp        | mtftp                  | Multicast Trivial FTP       |\r\n   |                 |                        | (MTFTP)                     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1789            | hello                  | Hello router communication  |\r\n   |                 |                        | protocol                    |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Radius dial-up              |\r\n   | 1812            | radius                 | authentication and          |\r\n   |                 |                        | accounting se"
+    ],
+    [
+      0.000077,
+      "rvices         |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1813            | radius-acct            | Radius Accounting           |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Starlight Networks          |\r\n   | 1911            | mtp                    | Multimedia Transport        |\r\n   |                 |                        | Protocol (MTP)              |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1985            | hsrp                   | Cisco Hot Standby Router    |\r\n   |                 |                        | Protocol                    |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 1986            | licensedaemon          | Cisco License Management    |\r\n   |                 |                        | Daemon                      |\r\n   |-----------------+------------------------+-----------"
+    ],
+    [
+      0.000125,
+      "------------------|\r\n   | 1997            | gdp-port               | Cisco Gateway Discovery     |\r\n   |                 |                        | Protocol (GDP)              |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2049            | nfs [nfsd]             | Network File System (NFS)   |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2102            | zephyr-srv             | Zephyr distributed          |\r\n   |                 |                        | messaging Server            |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2103            | zephyr-clt             | Zephyr client               |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2104            | zephyr-hm              | Zephyr host manager         |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Concurr"
+    ],
+    [
+      0.000056,
+      "ent Versions System  |\r\n   | 2401            | cvspserver             | (CVS) client/server         |\r\n   |                 |                        | operations                  |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Venus cache manager for     |\r\n   | 2430/tcp        | venus                  | Coda file system (codacon   |\r\n   |                 |                        | port)                       |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Venus cache manager for     |\r\n   | 2430/udp        | venus                  | Coda file system            |\r\n   |                 |                        | (callback/wbc interface)    |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2431/tcp        | venus-se               | Venus Transmission Control  |\r\n   |                 |                        | Prot"
+    ],
+    [
+      0.000184,
+      "ocol (TCP) side effects |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2431/udp        | venus-se               | Venus User Datagram         |\r\n   |                 |                        | Protocol (UDP) side effects |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2432/udp        | codasrv                | Coda file system server     |\r\n   |                 |                        | port                        |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2433/tcp        | codasrv-se             | Coda file system TCP side   |\r\n   |                 |                        | effects                     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2433/udp        | codasrv-se             | Coda file system UDP SFTP   |\r\n   |                 |                        | side effect                 |\r\n   |-----------------+------------------------+--"
+    ],
+    [
+      0.000078,
+      "---------------------------|\r\n   | 2600            | hpstgmgr [zebrasrv]    | Zebra routing[b]            |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2601            | discp-client [zebra]   | discp client; Zebra         |\r\n   |                 |                        | integrated shell            |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | discp server; Routing       |\r\n   | 2602            | discp-server [ripd]    | Information Protocol daemon |\r\n   |                 |                        | (ripd)                      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2603            | servicemeter [ripngd]  | Service Meter; RIP daemon   |\r\n   |                 |                        | for IPv6                    |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2604            | nsc-ccs [ospfd]        "
+    ],
+    [
+      0.000094,
+      "| NSC CCS; Open Shortest Path |\r\n   |                 |                        | First daemon (ospfd)        |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2605            | nsc-posa               | NSC POSA; Border Gateway    |\r\n   |                 |                        | Protocol daemon (bgpd)      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 2606            | netmon [ospf6d]        | Dell Netmon; OSPF for IPv6  |\r\n   |                 |                        | daemon (ospf6d)             |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Common Object Request       |\r\n   | 2809            | corbaloc               | Broker Architecture (CORBA) |\r\n   |                 |                        | naming service locator      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                     "
+    ],
+    [
+      0.000188,
+      "   | Internet Cache Protocol     |\r\n   | 3130            | icpv2                  | version 2 (v2); used by     |\r\n   |                 |                        | Squid proxy caching server  |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 3306            | mysql                  | MySQL database service      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 3346            | trnsprntproxy          | Transparent proxy           |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 4011            | pxe                    | Pre-execution Environment   |\r\n   |                 |                        | (PXE) service               |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 4321            | rwhois                 | Remote Whois (rwhois)       |\r\n   |                 |                        | service                     |\r\n   |-----------------+------------------"
+    ],
+    [
+      0.000135,
+      "------+-----------------------------|\r\n   |                 |                        | Kerberos version 5 (v5) to  |\r\n   | 4444            | krb524                 | version 4 (v4) ticket       |\r\n   |                 |                        | translator                  |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 5002            | rfe                    | Radio Free Ethernet (RFE)   |\r\n   |                 |                        | audio broadcasting system   |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 5308            | cfengine               | Configuration engine        |\r\n   |                 |                        | (Cfengine)                  |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 5999            | cvsup [CVSup]          | CVSup file transfer and     |\r\n   |                 |                        | update tool                 |\r\n   |-----------------+---------------"
+    ],
+    [
+      0.000131,
+      "---------+-----------------------------|\r\n   | 6000/tcp        | x11 [X]                | X Window System services    |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7000            | afs3-fileserver        | Andrew File System (AFS)    |\r\n   |                 |                        | file server                 |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7001            | afs3-callback          | AFS port for callbacks to   |\r\n   |                 |                        | cache manager               |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7002            | afs3-prserver          | AFS user and group database |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7003            | afs3-vlserver          | AFS volume location         |\r\n   |                 |                        | database                    |\r\n   |-----------------+------------"
+    ],
+    [
+      0.000131,
+      "------------+-----------------------------|\r\n   | 7004            | afs3-kaserver          | AFS Kerberos authentication |\r\n   |                 |                        | service                     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7005            | afs3-volser            | AFS volume management       |\r\n   |                 |                        | server                      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7006            | afs3-errors            | AFS error interpretation    |\r\n   |                 |                        | service                     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7007            | afs3-bos               | AFS basic overseer process  |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7008            | afs3-update            | AFS server-to-server        |\r\n   |                 |         "
+    ],
+    [
+      0.000136,
+      "               | updater                     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 7009            | afs3-rmtsys            | AFS remote cache manager    |\r\n   |                 |                        | service                     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 9876            | sd                     | Session Director for IP     |\r\n   |                 |                        | multicast conferencing      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Advanced Maryland Automatic |\r\n   | 10080           | amanda                 | Network Disk Archiver       |\r\n   |                 |                        | (Amanda) backup services    |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Pretty Good Privacy (PGP) / |\r\n   | 11371           | pgpke"
+    ],
+    [
+      0.000137,
+      "yserver           | GNU Privacy Guard (GPG)     |\r\n   |                 |                        | public keyserver            |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 11720           | h323callsigalt         | H.323 Call Signal Alternate |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 13720           | bprd                   | Veritas NetBackup Request   |\r\n   |                 |                        | Daemon (bprd)               |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 13721           | bpdbm                  | Veritas NetBackup Database  |\r\n   |                 |                        | Manager (bpdbm)             |\r\n   |-----------------+------------------------+-----------------------------|\r\n   |                 |                        | Veritas NetBackup Java /    |\r\n   | 13722           | bpjava-msvc            | Microsoft Visual C++ (MSVC) |\r\n   |                 |   "
+    ],
+    [
+      0.000131,
+      "                     | protocol                    |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 13724           | vnetd                  | Veritas network utility     |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 13782           | bpcd                   | Veritas NetBackup           |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 13783           | vopied                 | Veritas VOPIE               |\r\n   |                 |                        | authentication daemon       |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 22273           | wnn6 [wnn4]            | Kana/Kanji conversion       |\r\n   |                 |                        | system[c]                   |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 26000           | quake                  | Quake (and related)         |\r\n   |                 |"
+    ],
+    [
+      0.000141,
+      "                        | multi-player game servers   |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 26208           | wnn6-ds                | Wnn6 Kana/Kanji server      |\r\n   |-----------------+------------------------+-----------------------------|\r\n   | 33434           | traceroute             | Traceroute network tracking |\r\n   |                 |                        | tool                        |\r\n   |------------------------------------------------------------------------|\r\n   | Notes:                                                                 |\r\n   | a. Comment from /etc/services: \"Port 1236 is registered as             |\r\n   | `bvcontrol', but is also used by the Gracilis Packeten remote config   |\r\n   | server. The official name is listed as the primary name, with the      |\r\n   | unregistered name as an alias.\"                                        |\r\n   | b. Comment from /etc/services: \"Ports numbered 2600 through 2606 are   |\r\n   | used by the ze"
+    ],
+    [
+      0.000131,
+      "bra package without being registered. The primary names  |\r\n   | are the registered names, and the unregistered names used by zebra are |\r\n   | listed as aliases.\"                                                    |\r\n   | c. Comment from /etc/services: \"This port is registered as wnn6, but   |\r\n   | also used under the unregistered name 'wnn4' by the FreeWnn package.\"  |\r\n   +------------------------------------------------------------------------+\r\n\r\n   Table C-3. Registered Ports\r\n\r\n   Table C-4 is a listing of ports related to the Datagram Delivery Protocol\r\n   (DDP) used on AppleTalk networks.\r\n\r\n   +------------------------------------------------------------------------+\r\n   | Port # / Layer | Name  | Comment                                       |\r\n   |----------------+-------+-----------------------------------------------|\r\n   | 1/ddp          | rtmp  | Routing Table Management Protocol             |\r\n   |----------------+-------+-----------------------------------------------|\r\n   | 2/ddp          "
+    ],
+    [
+      0.000142,
+      "| nbp   | Name Binding Protocol                         |\r\n   |----------------+-------+-----------------------------------------------|\r\n   | 4/ddp          | echo  | AppleTalk Echo Protocol                       |\r\n   |----------------+-------+-----------------------------------------------|\r\n   | 6/ddp          | zip   | Zone Information Protocol                     |\r\n   +------------------------------------------------------------------------+\r\n\r\n   Table C-4. Datagram Deliver Protocol Ports\r\n\r\n   Table C-5 is a listing of ports related to the Kerberos network\r\n   authentication protocol. Where noted, v5 refers to the Kerberos version 5\r\n   protocol. Note that these ports are not registered with the IANA.\r\n\r\n   +------------------------------------------------------------------------+\r\n   | Port # / | Name              | Comment                                 |\r\n   | Layer    |                   |                                         |\r\n   |----------+-------------------+-----------------------------"
+    ],
+    [
+      0.000058,
+      "------------|\r\n   | 751      | kerberos_master   | Kerberos authentication                 |\r\n   |----------+-------------------+-----------------------------------------|\r\n   | 752      | passwd_server     | Kerberos Password (kpasswd) server      |\r\n   |----------+-------------------+-----------------------------------------|\r\n   | 754      | krb5_prop         | Kerberos v5 slave propagation           |\r\n   |----------+-------------------+-----------------------------------------|\r\n   | 760      | krbupdate [kreg]  | Kerberos registration                   |\r\n   |----------+-------------------+-----------------------------------------|\r\n   | 1109     | kpop              | Kerberos Post Office Protocol (KPOP)    |\r\n   |----------+-------------------+-----------------------------------------|\r\n   | 2053     | knetd             | Kerberos de-multiplexor                 |\r\n   |----------+-------------------+-----------------------------------------|\r\n   | 2105     | eklogin           | Kerberos v5 encrypted rem"
+    ],
+    [
+      0.000083,
+      "ote login      |\r\n   |          |                   | (rlogin)                                |\r\n   +------------------------------------------------------------------------+\r\n\r\n   Table C-5. Kerberos (Project Athena/MIT) Ports\r\n\r\n   Table C-6 is a listing of unregistered ports that are used by services and\r\n   protocols that may be installed on your Red Hat Enterprise Linux system,\r\n   or that is necessary for communication between Red Hat Enterprise Linux\r\n   and other operating systems.\r\n\r\n   +------------------------------------------------------------------------+\r\n   | Port # / Layer | Name                 | Comment                        |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 15/tcp         | netstat              | Network Status (netstat)       |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 98/tcp         | linuxconf            | Linuxconf Linux administration |\r\n   |                |                      | tool   "
+    ],
+    [
+      0.000025,
+      "                        |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 106            | poppassd             | Post Office Protocol password  |\r\n   |                |                      | change daemon (POPPASSD)       |\r\n   |----------------+----------------------+--------------------------------|\r\n   |                |                      | Simple Mail Transfer Protocol  |\r\n   | 465/tcp        | smtps                | over Secure Sockets Layer      |\r\n   |                |                      | (SMTPS)                        |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 616/tcp        | gii                  | Gated (routing daemon)         |\r\n   |                |                      | Interactive Interface          |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 808            | omirr [omirrd]       | Online Mirror (Omirr) file     |\r\n   |                |                      | mirr"
+    ],
+    [
+      0.000067,
+      "oring services             |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 871/tcp        | supfileserv          | Software Upgrade Protocol      |\r\n   |                |                      | (SUP) server                   |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 901/tcp        | swat                 | Samba Web Administration Tool  |\r\n   |                |                      | (SWAT)                         |\r\n   |----------------+----------------------+--------------------------------|\r\n   |                |                      | Berkeley Internet Name Domain  |\r\n   | 953            | rndc                 | version 9 (BIND 9) remote      |\r\n   |                |                      | configuration tool             |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 1127/tcp       | supfiledbg           | Software Upgrade Protocol      |\r\n   |                |                      | ("
+    ],
+    [
+      0.000177,
+      "SUP) debugging                |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 1178/tcp       | skkserv              | Simple Kana to Kanji (SKK)     |\r\n   |                |                      | Japanese input server          |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 1313/tcp       | xtel                 | French Minitel text            |\r\n   |                |                      | information system             |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 1529/tcp       | support [prmsd,      | GNATS bug tracking system      |\r\n   |                | gnatsd]              |                                |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 2003/tcp       | cfinger              | GNU finger                     |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 2150           | ninstall             "
+    ],
+    [
+      0.000070,
+      "| Network Installation Service   |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 2988           | afbackup             | afbackup client-server backup  |\r\n   |                |                      | system                         |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 3128/tcp       | squid                | Squid Web proxy cache          |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 3455           | prsvp                | RSVP port                      |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 5432           | postgres             | PostgreSQL database            |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 4557/tcp       | fax                  | FAX transmission service (old  |\r\n   |                |                      | service)                       |\r\n   |----------------+-------------------"
+    ],
+    [
+      0.000121,
+      "---+--------------------------------|\r\n   | 4559/tcp       | hylafax              | HylaFAX client-server protocol |\r\n   |                |                      | (new service)                  |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 5232           | sgi-dgl              | SGI Distributed Graphics       |\r\n   |                |                      | Library                        |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 5354           | noclog               | NOCOL network operation center |\r\n   |                |                      | logging daemon (noclogd)       |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 5355           | hostmon              | NOCOL network operation center |\r\n   |                |                      | host monitoring                |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 5680/tcp       | canna          "
+    ],
+    [
+      0.000062,
+      "      | Canna Japanese character input |\r\n   |                |                      | interface                      |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 6010/tcp       | x11-ssh-offset       | Secure Shell (SSH) X11         |\r\n   |                |                      | forwarding offset              |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 6667           | ircd                 | Internet Relay Chat daemon     |\r\n   |                |                      | (ircd)                         |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 7100/tcp       | xfs                  | X Font Server (XFS)            |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 7666/tcp       | tircproxy            | Tircproxy IRC proxy service    |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 8008           | http-alt    "
+    ],
+    [
+      0.000179,
+      "         | Hypertext Tranfer Protocol     |\r\n   |                |                      | (HTTP) alternate               |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 8080           | webcache             | World Wide Web (WWW) caching   |\r\n   |                |                      | service                        |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 8081           | tproxy               | Transparent Proxy              |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 9100/tcp       | jetdirect [laserjet, | Hewlett-Packard (HP) JetDirect |\r\n   |                | hplj]                | network printing service       |\r\n   |----------------+----------------------+--------------------------------|\r\n   |                | mandelspawn          | Parallel mandelbrot spawning   |\r\n   | 9359           | [mandelbrot]         | program for the X Window       |\r\n   |                |          "
+    ],
+    [
+      0.000058,
+      "            | System                         |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 10081          | kamanda              | Amanda backup service over     |\r\n   |                |                      | Kerberos                       |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 10082/tcp      | amandaidx            | Amanda index server            |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 10083/tcp      | amidxtape            | Amanda tape server             |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 20011          | isdnlog              | Integrated Services Digital    |\r\n   |                |                      | Network (ISDN) logging system  |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 20012          | vboxd                | ISDN voice box daemon (vboxd)  |\r\n   |----------------+-------"
+    ],
+    [
+      0.000338,
+      "---------------+--------------------------------|\r\n   | 22305/tcp      | wnn4_Kr              | kWnn Korean input system       |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 22289/tcp      | wnn4_Cn              | cWnn Chinese input system      |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 22321/tcp      | wnn4_Tw              | tWnn Chinese input system      |\r\n   |                |                      | (Taiwan)                       |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 24554          | binkp                | Binkley TCP/IP Fidonet mailer  |\r\n   |                |                      | daemon                         |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 27374          | asp                  | Address Search Protocol        |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 60177          | tfi"
+    ],
+    [
+      0.000017,
+      "do                | Ifmail FidoNet compatible      |\r\n   |                |                      | mailer service                 |\r\n   |----------------+----------------------+--------------------------------|\r\n   | 60179          | fido                 | FidoNet electronic mail and    |\r\n   |                |                      | news network                   |\r\n   +------------------------------------------------------------------------+\r\n\r\n   Table C-6. Unregistered Ports\r\n\r\n   --------------------------------------------------------------------------\r\n\r\n   Prev                                                            Home  Next \r\n   Common Exploits and Attacks                                      Up  Index \r\n"
+    ],
+    [
+      0.000554,
+      "bash-4.3$ "
+    ],
+    [
+      1.386283,
+      "e"
+    ],
+    [
+      0.159964,
+      "x"
+    ],
+    [
+      0.144058,
+      "i"
+    ],
+    [
+      0.136066,
+      "t"
+    ],
+    [
+      0.159874,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "exit\r\n"
+    ]
+  ]
+}
