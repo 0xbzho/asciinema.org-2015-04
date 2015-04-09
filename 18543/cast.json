@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 19.225439,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-termite",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.065574,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000160,
+      "\u001b]2;~/workspace/go/src/github.com/deiwin/interact/test\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;...nteract/test\u0007"
+    ],
+    [
+      0.036821,
+      "\u001b]7;file:///home/deiwin/workspace/go/src/github%2Ecom/deiwin/interact/test\u0007"
+    ],
+    [
+      0.001445,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34mdeiwin\u001b[31m@\u001b[32mdeiwin-arch\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/w/g/s/g/d/i/test \u001b[42m\u001b[34m\u001b[30m  master ⁝ ? \u001b[49m\u001b[32m\u001b[39m\r\n  "
+    ],
+    [
+      0.000016,
+      "\u001b[K\u001b[67C\u001b[34m[\u001b[32m15:21:33\u001b[34m]\u001b[39m\u001b[77D"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.002368,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34mdeiwin\u001b[31m@\u001b[32mdeiwin-arch\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/w/g/s/g/d/i/test \u001b[42m\u001b[34m\u001b[30m  master ⁝ ? \u001b[49m\u001b[32m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m \u001b[K\u001b[66C\u001b[34m[\u001b[32m15:21:33\u001b[34m]\u001b[39m\u001b[76D"
+    ],
+    [
+      0.845166,
+      "g"
+    ],
+    [
+      0.110429,
+      "\u0008go"
+    ],
+    [
+      0.047535,
+      " "
+    ],
+    [
+      0.368251,
+      "r"
+    ],
+    [
+      0.119918,
+      "u"
+    ],
+    [
+      0.104468,
+      "n"
+    ],
+    [
+      0.111595,
+      " "
+    ],
+    [
+      0.191802,
+      "m"
+    ],
+    [
+      0.095955,
+      "a"
+    ],
+    [
+      0.090067,
+      "i"
+    ],
+    [
+      0.053780,
+      "n"
+    ],
+    [
+      0.328137,
+      "."
+    ],
+    [
+      0.288578,
+      "g"
+    ],
+    [
+      0.087715,
+      "o"
+    ],
+    [
+      0.360893,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005976,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34mdeiwin\u001b[31m@\u001b[32mdeiwin-arch\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/w/g/s/g/d/i/test \u001b[42m\u001b[34m\u001b[30m  master ⁝ ? \u001b[49m\u001b[32m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m go run main.go\u001b[K\u001b[52C\u001b[34m[\u001b[32m15:21:36\u001b[34m]\u001b[39m\u001b[62D\r\r\n\u001b]2;go\u0007\u001b]1;go\u0007"
+    ],
+    [
+      0.173323,
+      "Please enter something that's not empty: "
+    ],
+    [
+      1.659697,
+      "h"
+    ],
+    [
+      0.087708,
+      "e"
+    ],
+    [
+      0.095988,
+      "l"
+    ],
+    [
+      0.152124,
+      "l"
+    ],
+    [
+      0.199828,
+      "o"
+    ],
+    [
+      0.232365,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "Please enter a positive number: "
+    ],
+    [
+      1.495787,
+      "-"
+    ],
+    [
+      0.088105,
+      "2"
+    ],
+    [
+      0.135693,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "The number can not be negative!\r\nDo you want to try again? [y/N]: "
+    ],
+    [
+      1.280031,
+      "y"
+    ],
+    [
+      0.151946,
+      "\r\nPlease enter a positive number: "
+    ],
+    [
+      1.304077,
+      "2"
+    ],
+    [
+      0.904456,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "Please enter another positive number: (7) "
+    ],
+    [
+      1.327359,
+      "-"
+    ],
+    [
+      0.495865,
+      "3"
+    ],
+    [
+      0.168097,
+      "\r\nThe number can not be negative!\r\nDo you want to try again? [y/N]: "
+    ],
+    [
+      2.591721,
+      "y"
+    ],
+    [
+      0.176169,
+      "\r\nPlease enter another positive number: (7) "
+    ],
+    [
+      0.808416,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "Thanks! (hello, 2, 7)\r\n"
+    ],
+    [
+      0.008044,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;~/workspace/go/src/github.com/deiwin/interact/test\u0007\u001b]1;...nteract/test\u0007"
+    ],
+    [
+      0.023902,
+      "\u001b[1m\u001b[32m\u003e\u003e\u003e elapsed time 13s\u001b[0m\r\n"
+    ],
+    [
+      0.001611,
+      "\u001b]7;file:///home/deiwin/workspace/go/src/github%2Ecom/deiwin/interact/test\u0007"
+    ],
+    [
+      0.001600,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34mdeiwin\u001b[31m@\u001b[32mdeiwin-arch\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/w/g/s/g/d/i/test \u001b[42m\u001b[34m\u001b[30m  master ⁝ ? \u001b[49m\u001b[32m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m \u001b[K\u001b[66C\u001b[34m[\u001b[32m15:21:49\u001b[34m]\u001b[39m\u001b[76D"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001702,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34mdeiwin\u001b[31m@\u001b[32mdeiwin-arch\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/w/g/s/g/d/i/test \u001b[42m\u001b[34m\u001b[30m  master ⁝ ? \u001b[49m\u001b[32m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[66C\u001b[34m[\u001b[32m15:21:49\u001b[34m]\u001b[39m\u001b[76D"
+    ],
+    [
+      2.340600,
+      "\r\r\n"
+    ]
+  ]
+}
