@@ -1,0 +1,930 @@
+{
+  "version": 1,
+  "width": 136,
+  "height": 38,
+  "duration": 27.722458,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.122170,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000018,
+      "\u001b]2;bubo@obsidian: ~/rsd/vagrant-glass-3.4.3-snapshot-de\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..3-snapshot-de\u0007"
+    ],
+    [
+      0.002947,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m~/rsd/vagrant-glass-3.4.3-snapshot-de\u001b[00m \u001b[37m[15:43:49]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.467164,
+      "c"
+    ],
+    [
+      0.103660,
+      "\u0008ca"
+    ],
+    [
+      0.231980,
+      "t"
+    ],
+    [
+      0.087993,
+      " "
+    ],
+    [
+      0.264022,
+      "V"
+    ],
+    [
+      0.231865,
+      "a"
+    ],
+    [
+      0.307186,
+      "grantfile\u001b[1m \u001b[0m"
+    ],
+    [
+      0.372769,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000049,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000363,
+      "\u001b]2;cat Vagrantfile\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      0.000663,
+      "Vagrant.configure(2) do |config|\r\n  config.vm.network \"forwarded_port\", guest: 8080, host: 18080, auto_correct: true\r\n  config.vm.network \"forwarded_port\", guest: 389,  host: 10389, auto_correct: true\r\n  config.vm.network \"forwarded_port\", guest: 9090, host: 19090, auto_correct: true\r\n"
+    ],
+    [
+      0.000019,
+      "  config.vm.network \"forwarded_port\", guest: 3306, host: 13306, auto_correct: true\r\n  config.vm.network \"forwarded_port\", guest: 8585, host: 18585, auto_correct: true\r\n  config.vm.network \"forwarded_port\", guest: 8443, host: 18443, auto_correct: true\r\n\r\n  config.vm.box = \"glass-3.4.3-snapshot-de\"\r\n  config.vm.box_url = \"http://vagrant.rsd.com/glass-3.4.3-snapshot-de/glass-3.4.3-snapshot-de.json\"\r\nend\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;bubo@obsidian: ~/rsd/vagrant-glass-3.4.3-snapshot-de\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..3-snapshot-de\u0007"
+    ],
+    [
+      0.003034,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m~/rsd/vagrant-glass-3.4.3-snapshot-de\u001b[00m \u001b[37m[15:43:51]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.427830,
+      "v"
+    ],
+    [
+      0.135940,
+      "\u0008va"
+    ],
+    [
+      0.400200,
+      "g"
+    ],
+    [
+      0.191862,
+      "r"
+    ],
+    [
+      0.080010,
+      "a"
+    ],
+    [
+      0.119895,
+      "n"
+    ],
+    [
+      0.088063,
+      "t"
+    ],
+    [
+      0.095899,
+      " "
+    ],
+    [
+      0.312136,
+      "b"
+    ],
+    [
+      0.191955,
+      "o"
+    ],
+    [
+      0.104020,
+      "x"
+    ],
+    [
+      0.103863,
+      " "
+    ],
+    [
+      0.256018,
+      "o"
+    ],
+    [
+      0.111920,
+      "u"
+    ],
+    [
+      0.160087,
+      "t"
+    ],
+    [
+      0.360118,
+      "d"
+    ],
+    [
+      0.087945,
+      "a"
+    ],
+    [
+      0.167925,
+      "t"
+    ],
+    [
+      0.168100,
+      "e"
+    ],
+    [
+      0.320009,
+      "d"
+    ],
+    [
+      0.407975,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000361,
+      "\u001b]2;vagrant box outdated\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      1.041782,
+      "\u001b[0mChecking if box 'glass-3.4.3-snapshot-de' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      0.102096,
+      "\u001b[0;33mA newer version of the box 'glass-3.4.3-snapshot-de' is available! You currently\r\nhave version '3.4.3.0.30'. The latest is version '3.4.3.0.32'. Run\r\n`vagrant box update` to update.\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.044880,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000038,
+      "\u001b]2;bubo@obsidian: ~/rsd/vagrant-glass-3.4.3-snapshot-de\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;..3-snapshot-de\u0007"
+    ],
+    [
+      0.003027,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m~/rsd/vagrant-glass-3.4.3-snapshot-de\u001b[00m \u001b[37m[15:43:57]"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.223725,
+      "a"
+    ],
+    [
+      0.311921,
+      "\u0008 \u0008"
+    ],
+    [
+      0.080064,
+      "v"
+    ],
+    [
+      0.103991,
+      "\u0008va"
+    ],
+    [
+      0.167978,
+      "g"
+    ],
+    [
+      0.192001,
+      "r"
+    ],
+    [
+      0.079999,
+      "a"
+    ],
+    [
+      0.104001,
+      "n"
+    ],
+    [
+      0.095993,
+      "t"
+    ],
+    [
+      0.087995,
+      " "
+    ],
+    [
+      0.144062,
+      "b"
+    ],
+    [
+      0.103970,
+      "o"
+    ],
+    [
+      0.167886,
+      "x"
+    ],
+    [
+      0.096057,
+      "i"
+    ],
+    [
+      0.176103,
+      "n"
+    ],
+    [
+      0.119961,
+      "f"
+    ],
+    [
+      0.504042,
+      "o"
+    ],
+    [
+      0.119931,
+      " "
+    ],
+    [
+      0.536096,
+      "g"
+    ],
+    [
+      0.111871,
+      "l"
+    ],
+    [
+      0.056046,
+      "a"
+    ],
+    [
+      0.215915,
+      "s"
+    ],
+    [
+      0.144023,
+      "s"
+    ],
+    [
+      0.119877,
+      "-"
+    ],
+    [
+      0.144135,
+      "3"
+    ],
+    [
+      0.224072,
+      "."
+    ],
+    [
+      0.247998,
+      "4"
+    ],
+    [
+      0.143981,
+      "."
+    ],
+    [
+      0.207987,
+      "3"
+    ],
+    [
+      0.215902,
+      "-"
+    ],
+    [
+      0.616174,
+      "s"
+    ],
+    [
+      0.095879,
+      "n"
+    ],
+    [
+      0.087950,
+      "a"
+    ],
+    [
+      0.112059,
+      "p"
+    ],
+    [
+      0.144087,
+      "s"
+    ],
+    [
+      0.119933,
+      "h"
+    ],
+    [
+      0.063996,
+      "o"
+    ],
+    [
+      0.120029,
+      "t"
+    ],
+    [
+      0.167969,
+      "-"
+    ],
+    [
+      0.104061,
+      "d"
+    ],
+    [
+      0.159995,
+      "e"
+    ],
+    [
+      0.103944,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b]2;vagrant boxinfo glass-3.4.3-snapshot-de\u0007\u001b]1;vagrant\u0007"
+    ],
+    [
+      0.581586,
+      "\u001b[0mReading url http://vagrant.rsd.com/glass-3.4.3-snapshot-de/glass-3.4.3-snapshot-de.json...\u001b[0m\r\n"
+    ],
+    [
+      0.095281,
+      "\u001b[0mBox name: glass-3.4.3-snapshot-de\u001b[0m\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0mDescription: ubuntu vagrant box for glass 3.4.3.1-SNAPSHOT\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[0m3.4.3.0.32\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000016,
+      " rsd_glass_version: 3.4.3.1-SNAPSHOT-15040821\u001b[0m\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000016,
+      " rsd_glass_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_glass_build_date: 15040821\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\t rsd_glass_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_version: 1.2.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_scm_revision: 2265\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_build_date: 2015-04-09 11:46:18\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_govapps_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\t rsd_pm_version: 3.4.3.1-SNAPSHOT-15040821\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_pm_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_pm_build_date: 15040821\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000005,
+      " rsd_pm_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000827,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000004,
+      " downloaded: false\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m3.4.3.0.30\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000007,
+      " rsd_glass_version: 3.4.3.0-SNAPSHOT-15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_date: 15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_version: 1.2.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_scm_revision: 2238\u001b[0m\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_build_date: 2015-04-02 16:16:05\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_version: 3.4.3.0-SNAPSHOT-15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_date: 15032422\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000753,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000007,
+      " downloaded: true\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m3.4.3.0.29\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_version: 3.4.3.0-SNAPSHOT-15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_date: 15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_version: 1.2.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_scm_revision: 2081\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_build_date: 2015-03-23 10:16:07\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000011,
+      " rsd_govapps_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_version: 3.4.3.0-SNAPSHOT-15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_date: 15032222\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000733,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " downloaded: true\u001b[0m\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m3.4.3.0.28\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_version: 3.4.3.0-SNAPSHOT-15031122\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_date: 15031122\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_glass_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_version: 1.2.0-SNAPSHOT\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_build_date: 2015-03-12 08:19:40\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_govapps_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_version: 3.4.3.0-SNAPSHOT-15031122\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_scm_revision: \u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_date: 15031122\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " rsd_pm_build_jdk: 1.7.0_76\u001b[0m\r\n"
+    ],
+    [
+      0.000733,
+      "\u001b[0m\t"
+    ],
+    [
+      0.000006,
+      " downloaded: false\u001b[0m\r\n"
+    ],
+    [
+      0.048641,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                       \r \r"
+    ],
+    [
+      0.000125,
+      "\u001b]2;bubo@obsidian: ~/rsd/vagrant-glass-3.4.3-snapshot-de\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;..3-snapshot-de\u0007"
+    ],
+    [
+      0.003268,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m~/rsd/vagrant-glass-3.4.3-snapshot-de\u001b[00m \u001b[37m[15:44:06]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      10.160706,
+      "\r\r\n"
+    ]
+  ]
+}
