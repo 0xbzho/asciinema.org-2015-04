@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "width": 123,
+  "height": 30,
+  "duration": 4.092756,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.092374,
+      "\u001b]0;chriad@chriad-HP-Folio-13-2000-Notebook-PC: ~\u0007chriad@chriad-HP-Folio-13-2000-Notebook-PC:~$ "
+    ],
+    [
+      1.559813,
+      "w"
+    ],
+    [
+      0.036100,
+      "h"
+    ],
+    [
+      0.047520,
+      "o"
+    ],
+    [
+      0.467025,
+      "\r\n"
+    ],
+    [
+      0.005095,
+      "chriad   :0           2015-04-09 16:42 (:0)\r\nchriad   pts/7        2015-04-09 16:42 (:0)\r\nchriad   pts/0        2015-04-09 17:01 (:0)\r\n"
+    ],
+    [
+      0.001171,
+      "\u001b]0;chriad@chriad-HP-Folio-13-2000-Notebook-PC: ~\u0007chriad@chriad-HP-Folio-13-2000-Notebook-PC:~$ "
+    ],
+    [
+      1.883163,
+      "exit\r\n"
+    ]
+  ]
+}
