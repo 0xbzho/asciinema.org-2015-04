@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "width": 99,
+  "height": 30,
+  "duration": 18.535042,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.164415,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      1.487314,
+      "sudo dpkg-reconfigure virtualbox-dkms"
+    ],
+    [
+      1.764366,
+      "\r\n"
+    ],
+    [
+      0.017856,
+      "[sudo] password for lucas: "
+    ],
+    [
+      2.653667,
+      "\r\n"
+    ],
+    [
+      0.322216,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "------------------------------\r\nDeleting module version: 4.1.18\r\n"
+    ],
+    [
+      0.000005,
+      "completely from the DKMS tree.\r\n"
+    ],
+    [
+      0.000021,
+      "------------------------------\r\n"
+    ],
+    [
+      0.005031,
+      "Done."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.071311,
+      "Loading new virtualbox-4.1.18 DKMS files...\r\n"
+    ],
+    [
+      0.070721,
+      "Building only for 3.19.3-031903-generic\r\n"
+    ],
+    [
+      0.024834,
+      "Building initial module for 3.19.3-031903-generic\r\n"
+    ],
+    [
+      6.095319,
+      "Error! Bad return status for module build on kernel: 3.19.3-031903-generic (x86_64)\r\nConsult /var/lib/dkms/virtualbox/4.1.18/build/make.log for more information.\r\n"
+    ],
+    [
+      0.028976,
+      " * Stopping VirtualBox kernel modules       "
+    ],
+    [
+      0.001366,
+      "\u001b[102G"
+    ],
+    [
+      0.000080,
+      " "
+    ],
+    [
+      0.005201,
+      "\r"
+    ],
+    [
+      0.000514,
+      "\u001b[96G"
+    ],
+    [
+      0.000077,
+      "[ OK ]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.003381,
+      " * Starting VirtualBox kernel modules       "
+    ],
+    [
+      0.001635,
+      "\u001b[102G"
+    ],
+    [
+      0.000059,
+      " "
+    ],
+    [
+      0.016310,
+      " \u001b[31m*\u001b[39;49m No suitable module for running kernel found\r\n"
+    ],
+    [
+      0.000753,
+      "\r"
+    ],
+    [
+      0.000604,
+      "\u001b[96G"
+    ],
+    [
+      0.000367,
+      "["
+    ],
+    [
+      0.000903,
+      "\u001b[31m"
+    ],
+    [
+      0.000093,
+      "fail"
+    ],
+    [
+      0.000796,
+      "\u001b[39;49m"
+    ],
+    [
+      0.000171,
+      "]"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000861,
+      "invoke-rc.d: initscript virtualbox, action \"restart\" failed."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.132292,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[00m"
+    ],
+    [
+      2.592419,
+      "\r\u001b[K\u001b[00m"
+    ],
+    [
+      0.082150,
+      "\r\u001b[K\u001b[00m"
+    ],
+    [
+      0.050006,
+      "\r\u001b[K\u001b[00m"
+    ],
+    [
+      2.938733,
+      "exit\r\n"
+    ]
+  ]
+}
