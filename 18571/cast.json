@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "width": 132,
+  "height": 42,
+  "duration": 79.054605,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.168534,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      1.216481,
+      "v"
+    ],
+    [
+      0.095385,
+      "a"
+    ],
+    [
+      0.160293,
+      "g"
+    ],
+    [
+      0.074183,
+      "r"
+    ],
+    [
+      0.116329,
+      "a"
+    ],
+    [
+      0.122195,
+      "n"
+    ],
+    [
+      0.100680,
+      "t"
+    ],
+    [
+      0.125089,
+      " "
+    ],
+    [
+      0.196927,
+      "u"
+    ],
+    [
+      0.181793,
+      "p"
+    ],
+    [
+      0.269117,
+      "\r\n"
+    ],
+    [
+      1.089886,
+      "\u001b[0;31mVirtualBox is complaining that the kernel module is not loaded. Please\r\nrun `VBoxManage --version` or open the VirtualBox GUI to see the error\r\nmessage which should contain instructions on how to fix this error.\u001b[0m\r\n"
+    ],
+    [
+      0.015593,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[00m"
+    ],
+    [
+      3.039753,
+      "VBoxManage --version"
+    ],
+    [
+      0.377001,
+      "\r\n"
+    ],
+    [
+      0.002374,
+      "WARNING: The vboxdrv kernel module is not loaded. Either there is no module"
+    ],
+    [
+      0.000010,
+      "\r\n         available for the current kernel (3.18.4-031804-generic) or it failed to\r\n         load. Please recompile the kernel module and install it by\r\n\r\n           sudo /etc/init.d/vboxdrv setup\r\n\r\n         You will not be able to start VMs until this problem is fixed.\r\n"
+    ],
+    [
+      0.014830,
+      "4.2.0r80737\r\n"
+    ],
+    [
+      0.003421,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      3.645632,
+      "sudo /etc/init.d/vboxdrv setup"
+    ],
+    [
+      3.159200,
+      "\r\n"
+    ],
+    [
+      0.004979,
+      "[sudo] password for lucas: "
+    ],
+    [
+      2.698524,
+      "\r\n"
+    ],
+    [
+      0.047030,
+      " * Stopping VirtualBox kernel modules       "
+    ],
+    [
+      0.001000,
+      "\u001b[132G"
+    ],
+    [
+      0.000065,
+      " "
+    ],
+    [
+      0.003625,
+      "\r"
+    ],
+    [
+      0.000484,
+      "\u001b[126G"
+    ],
+    [
+      0.000100,
+      "[ OK ]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.005354,
+      " * Uninstalling old VirtualBox DKMS kernel modules       "
+    ],
+    [
+      0.001188,
+      "\u001b[132G"
+    ],
+    [
+      0.000071,
+      " "
+    ],
+    [
+      0.136069,
+      "\r"
+    ],
+    [
+      0.000583,
+      "\u001b[126G"
+    ],
+    [
+      0.000126,
+      "[ OK ]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.054129,
+      " * Trying to register the VirtualBox kernel modules using DKMS       "
+    ],
+    [
+      0.001023,
+      "\u001b[132G"
+    ],
+    [
+      0.000087,
+      " "
+    ],
+    [
+      6.174165,
+      "Error! Bad return status for module build on kernel: 3.18.4-031804-generic (x86_64)\r\nConsult /var/lib/dkms/vboxhost/4.2.0/build/make.log for more information.\r\n"
+    ],
+    [
+      0.000829,
+      "\r\n"
+    ],
+    [
+      0.002583,
+      " \u001b[31m*\u001b[39;49m Failed, trying without DKMS\r\n"
+    ],
+    [
+      0.004305,
+      " * Recompiling VirtualBox kernel modules       "
+    ],
+    [
+      0.000989,
+      "\u001b[132G"
+    ],
+    [
+      0.000086,
+      " "
+    ],
+    [
+      0.691820,
+      "\r\n"
+    ],
+    [
+      0.002546,
+      " \u001b[31m*\u001b[39;49m Look at /var/log/vbox-install.log to find out what went wrong\r\n"
+    ],
+    [
+      0.004819,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      7.070161,
+      "c"
+    ],
+    [
+      0.064954,
+      "a"
+    ],
+    [
+      0.170870,
+      "t"
+    ],
+    [
+      0.128621,
+      " "
+    ],
+    [
+      0.314492,
+      "/var/log/vbox-install.log"
+    ],
+    [
+      0.245166,
+      "\r\n"
+    ],
+    [
+      0.000675,
+      "Uninstalling modules from DKMS\r\n  removing old DKMS module vboxhost version  4.2.0\r\n\r\n------------------------------\r\nDeleting module version: 4.2.0\r\ncompletely from the DKMS tree.\r\n------------------------------\r\nDone.\r\nAttempting to install using DKMS\r\n\r\nCreating symlink /var/lib/dkms/vboxhost/4.2.0/source -\u003e\r\n                 /usr/src/vboxhost-4.2.0\r\n\r\nDKMS: add completed.\r\n\r\nKernel preparation unnecessary for this kernel.  Skipping...\r\n\r\nBuilding module:\r\ncleaning build area....\r\nmake KERNELRELEASE=3.18.4-031804-generic -C /lib/modules/3.18.4-031804-generic/build M=/var/lib/dkms/vboxhost/4.2.0/build....(bad exit status: 2)\r\nFailed to install using DKMS, attempting to install without\r\nmake KBUILD_VERBOSE=1 SUBDIRS=/tmp/vbox.0 SRCROOT=/tmp/vbox.0 CONFIG_MODULE_SIG= -C /lib/modules/3.18.4-031804-generic/build modules\r\ntest -e include/generated/autoconf.h -a -e include/config/auto.conf || (\t\t\\\r\n\techo \u003e\u00262;\t\t\t\t\t\t\t\\\r\n\techo \u003e\u00262 \"  ERROR: Kernel configuration is invalid.\";\t\t\\\r\n\techo \u003e\u00262 \"         include/generated/autoconf.h or include/config/auto.conf are missing.\";\\\r\n\techo \u003e\u00262 \"         Run 'make oldconfig \u0026\u0026 make prepare' on kernel src to fix it.\";\t\\\r\n\techo \u003e\u00262 ;\t\t\t\t\t\t\t\\\r\n\t/bin/false)\r\nmkdir -p /tmp/vbox.0/.tmp_versions ; rm -f /tmp/vbox.0/.tmp_versions/*\r\nmake -f ./scripts/Makefile.build obj=/tmp/vbox.0\r\n  gcc -Wp,-MD,/tmp/vbox.0/linux/.SUPDrv-linux.o.d  -nostdinc -isystem /usr/lib/gcc/x86_64-linux-gnu/4.7/include -I./arch/x86/include -Iarch/x86/include/generated  -Iinclude -I./arch/x86/include/uapi -Iarch/x86/include/generated/uapi -I./include/uapi -Iinclude/generated/uapi -include ./include/linux/kconfig.h -D__KERNEL__ -Wall -Wundef -Wstrict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -Werror-implicit-function-declaration -Wno-format-security -std=gnu89 -m64 -mno-80387 -mno-fp-ret-in-387 -mtune=generic -mno-red-zone -mcmodel=kernel -funit-at-a-time -maccumulate-outgoing-args -DCONFIG_X86_X32_ABI -DCONFIG_AS_CFI=1 -DCONFIG_AS_CFI_SIGNAL_FRAME=1 -DCONFIG_AS_CFI_SECTIONS=1 -DCONFIG_AS_FXSAVEQ=1 -DCONFIG_AS_CRC32=1 -DCONFIG_AS_AVX=1 -DCONFIG_AS_AVX2=1 -pipe -Wno-sign-compare -fno-asynchronous-unwind-tables -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -fno-delete-null-pointer-checks -O2 --param=allow-store-data-races=0 -Wframe-larger-than=1024 -fstack-protector -Wno-unused-but-set-variable -fno-omit-frame-pointer -fno-optimize-sibling-calls -fno-var-tracking-assignments -pg -mfentry -DCC_USING_FENTRY -Wdeclaration-after-statement -Wno-pointer-sign -fno-strict-overflow -fconserve-stack -Werror=implicit-int -Werror=strict-prototypes -DCC_HAVE_ASM_GOTO -include /tmp/vbox.0/include/VBox/SUPDrvMangling.h -I/lib/modules/3.18.4-031804-generic/build/include -I/tmp/vbox.0/ -I/tmp/vbox.0/include -I/tmp/vbox.0/r0drv/linux -I/tmp/vbox.0/vboxdrv/ -I/tmp/vbox.0/vboxdrv/include -I/tmp/vbox.0/vboxdrv/r0drv/linux -D__KERNEL__ -DMODULE -DRT_OS_LINUX -DIN_RING0 -DIN_RT_R0 -DIN_SUP_R0 -DVBOX -DRT_WITH_VBOX -DVBOX_WITH_HARDENING -DCONFIG_VBOXDRV_AS_MISC -DRT_ARCH_AMD64 -DVBOX_WITH_64_BITS_GUESTS  -DMODULE  -D\"KBUILD_STR(s)=#s\" -D\"KBUILD_BASENAME=KBUILD_STR(SUPDrv_linux)\"  -D\"KBUILD_MODNAME=KBUILD_STR(vboxdrv)\" -c -o /tmp/vbox.0/linux/.tmp_SUPDrv-linux.o /tmp/vbox.0/linux/SUPDrv-linux.c\r\n/tmp/vbox.0/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxUid’:\r\n/tmp/vbox.0/linux/SUPDrv-linux.c:226:5: error: incompatible types when returning type ‘kuid_t’ but ‘RTUID’ was expected\r\n/tmp/vbox.0/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxGid’:\r\n/tmp/vbox.0/linux/SUPDrv-linux.c:235:5: error: incompatible types when returning type ‘kgid_t’ but ‘RTGID’ was expected\r\n/tmp/vbox.0/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxEuid’:\r\n/tmp/vbox.0/linux/SUPDrv-linux.c:244:5: error: incompatible types when returning type ‘kuid_t’ but ‘RTUID’ was expected\r\n/tmp/vbox.0/linux/SUPDrv-linux.c:248:1: warning: control reaches end of non-void function [-Wreturn-type]\r\n/tmp/vbox.0/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxUid’:\r\n/tmp/vbox.0/linux/SUPDrv-linux.c:230:1: warning: control reaches end of non-void "
+    ],
+    [
+      0.000009,
+      "function [-Wreturn-type]\r\n/tmp/vbox.0/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxGid’:\r\n/tmp/vbox.0/linux/SUPDrv-linux.c:239:1: warning: control reaches end of non-void function [-Wreturn-type]\r\nmake[2]: *** [/tmp/vbox.0/linux/SUPDrv-linux.o] Error 1\r\nmake[1]: *** [_module_/tmp/vbox.0] Error 2\r\nmake: *** [vboxdrv] Error 2\r\n"
+    ],
+    [
+      0.002803,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[00m"
+    ],
+    [
+      22.415189,
+      "c"
+    ],
+    [
+      0.070042,
+      "d"
+    ],
+    [
+      0.209003,
+      " "
+    ],
+    [
+      0.149794,
+      "/"
+    ],
+    [
+      0.418669,
+      "u"
+    ],
+    [
+      0.084987,
+      "s"
+    ],
+    [
+      0.153380,
+      "r/"
+    ],
+    [
+      0.389020,
+      "s"
+    ],
+    [
+      0.155698,
+      "r"
+    ],
+    [
+      0.108747,
+      "c/"
+    ],
+    [
+      0.613187,
+      "k"
+    ],
+    [
+      0.249722,
+      "r"
+    ],
+    [
+      0.515630,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.066567,
+      "\u0007"
+    ],
+    [
+      0.341305,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.132092,
+      "\u0007"
+    ],
+    [
+      0.235679,
+      "l"
+    ],
+    [
+      0.163681,
+      "i"
+    ],
+    [
+      0.088314,
+      "\u0007nux-headers-3."
+    ],
+    [
+      0.583859,
+      "\u0007"
+    ],
+    [
+      0.560252,
+      "1"
+    ],
+    [
+      0.201483,
+      "8"
+    ],
+    [
+      0.174768,
+      "\u0007.4-031804"
+    ],
+    [
+      0.177139,
+      "\u0007"
+    ],
+    [
+      0.589586,
+      "-"
+    ],
+    [
+      0.497796,
+      "g"
+    ],
+    [
+      0.107361,
+      "eneric/"
+    ],
+    [
+      0.788753,
+      "\r\n"
+    ],
+    [
+      0.009411,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m /usr/src/linux-headers-3.18.4-031804-generic \u001b[33m\u001b[01;34m$\r\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[00m"
+    ],
+    [
+      2.233843,
+      "make oldconfig \u0026\u0026 make prepare"
+    ],
+    [
+      1.055251,
+      "\r\n"
+    ],
+    [
+      0.372881,
+      "scripts/kconfig/conf --oldconfig Kconfig\r\n"
+    ],
+    [
+      0.172376,
+      "\r\n*** Error during writing of the configuration.\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.002421,
+      "make[1]: *** [oldconfig] Error 1\r\n"
+    ],
+    [
+      0.000126,
+      "make: "
+    ],
+    [
+      0.000015,
+      "*** [oldconfig] Error 2"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.002673,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m /usr/src/linux-headers-3.18.4-031804-generic \u001b[33m\u001b[01;34m$\r\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[00m"
+    ],
+    [
+      2.152637,
+      "s"
+    ],
+    [
+      0.148243,
+      "u"
+    ],
+    [
+      0.086319,
+      "d"
+    ],
+    [
+      0.111784,
+      "o"
+    ],
+    [
+      0.158045,
+      " "
+    ],
+    [
+      0.360595,
+      "make oldconfig \u0026\u0026 make prepare"
+    ],
+    [
+      0.507202,
+      "\r\n"
+    ],
+    [
+      0.328590,
+      "scripts/kconfig/conf --oldconfig Kconfig\r\n"
+    ],
+    [
+      0.179481,
+      "#\r\n"
+    ],
+    [
+      0.000008,
+      "# configuration written to .config\r\n#\r\n"
+    ],
+    [
+      0.131042,
+      "arch/x86/Makefile:129: CONFIG_X86_X32 enabled but no binutils support\r\n"
+    ],
+    [
+      0.080852,
+      "Makefile:657: Cannot use CONFIG_CC_STACKPROTECTOR_REGULAR: -fstack-protector not supported by compiler\r\n"
+    ],
+    [
+      0.456104,
+      "scripts/kconfig/conf --silentoldconfig Kconfig\r\n"
+    ],
+    [
+      0.181746,
+      "\r\n*** Error during update of the configuration.\r\n\r\n"
+    ],
+    [
+      0.001698,
+      "make[2]: *** [silentoldconfig] Error 1\r\n"
+    ],
+    [
+      0.000439,
+      "make[1]: *** [silentoldconfig] Error 2\r\n"
+    ],
+    [
+      0.012213,
+      "make[1]: *** "
+    ],
+    [
+      0.000007,
+      "No rule to make target `arch/x86/syscalls/syscall_32.tbl', needed by `arch/x86/syscalls/../include/generated/asm/syscalls_32.h'.  Stop.\r\n"
+    ],
+    [
+      0.000510,
+      "make: *** [archheaders] Error 2\r\n"
+    ],
+    [
+      0.002569,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m /usr/src/linux-headers-3.18.4-031804-generic \u001b[33m\u001b[01;34m$\r"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[00m"
+    ],
+    [
+      8.054553,
+      "exit\r\n"
+    ]
+  ]
+}
