@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "width": 136,
+  "height": 39,
+  "duration": 4.793123,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.043527,
+      "\u001b]0;jghibiki@Mitsuko:/home/jghibiki/Git/mkcast\u0007"
+    ],
+    [
+      0.000581,
+      "\u001b[01;32mjghibiki@Mitsuko\u001b[01;34m ~/Git/mkcast $\u001b[00m "
+    ],
+    [
+      3.108177,
+      "H"
+    ],
+    [
+      0.199653,
+      "e"
+    ],
+    [
+      0.184054,
+      "l"
+    ],
+    [
+      0.127767,
+      "l"
+    ],
+    [
+      0.200105,
+      "o"
+    ],
+    [
+      0.288995,
+      "\r\n"
+    ],
+    [
+      0.001044,
+      "bash: Hello: command not found\r\n"
+    ],
+    [
+      0.000827,
+      "\u001b]0;jghibiki@Mitsuko:/home/jghibiki/Git/mkcast\u0007\u001b[01;32mjghibiki@Mitsuko\u001b[01;34m ~/Git/mkcast $\u001b[00m "
+    ],
+    [
+      0.638217,
+      "exit\r\n"
+    ]
+  ]
+}
