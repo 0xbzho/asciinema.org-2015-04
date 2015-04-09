@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "width": 150,
+  "height": 37,
+  "duration": 20.091069,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.089968,
+      "\u001b]0;milo@milo-laptop: ~\u0007milo@milo-laptop:~$ "
+    ],
+    [
+      17.350075,
+      "l"
+    ],
+    [
+      0.175943,
+      "s"
+    ],
+    [
+      0.400594,
+      "\r\n"
+    ],
+    [
+      0.001587,
+      "\u001b[0m\u001b[01;34m2-plan\u001b[0m                                    examples.desktop     mailbox                              re\r\n\u001b[01;34m2plan_workspace\u001b[0m                           fb0003.pdf           \u001b[01;32mmilo_hyben_gmail_com@104.155.213.78\u001b[0m  requests\r\n\u001b[01;34m4a065220c4b6be9bd4ffd045b9ce4d0654eada55\u001b[0m  file.diff            \u001b[01;34mMusic\u001b[0m                                sda-backup.gpt\r\n\u001b[01;34mBooks\u001b[0m                                     \u001b[01;34mfontconfig\u001b[0m           \u001b[01;34mMy Kindle Content\u001b[0m                    \u001b[01;34mShare\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n\u001b[01;34mCalibre Library\u001b[0m                           \u001b[01;34mgdrive\u001b[0m               new.txt                              shutil\r\nC:\\nppdf32Log\\debuglog.txt                gevent               \u001b[01;34mnode_modules\u001b[0m                         \u001b[01;34mspideroak-archiveblocks\u001b[0m\r\nconnections.xml                           glob                 \u001b[01;34mnpm\u001b[0m                                  \u001b[01;34mSpiderOak Hive\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\ncore                                      \u001b[01;34mGNUstep\u001b[0m              old.txt                              \u001b[34;42msublime_backups\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[01;34mDbVisualizer\u001b[0m                              \u001b[01;34mgoogle-cloud-sdk\u001b[0m     organizations.json                   \u001b[01;31msublime-text_build-3065_amd64.deb\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mDesktop\u001b[0m                                   \u001b[01;34mGoogle Drive\u001b[0m         os                                   \u001b[01;34mTemplates\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[01;34mDevelopment\u001b[0m                               gzip                 pgadmin.log                          time"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "diff (copy).txt                           hs_err_pid11112.log  \u001b[01;34mPictures\u001b[0m                             \u001b[01;34mtmp\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "diff (copy).txt~                          hs_err_pid22507.log  pkglist                              \u001b[01;34mTriggerToolkit\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "diff.txt                                  hs_err_pid5221.log   \u001b[01;36mPlayOnLinux's virtual drives\u001b[0m         \u001b[01;34mVideos\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "diff.txt~                                 hs_err_pid9888.log   \u001b[01;34mProjects\u001b[0m                             \u001b[01;34mWebstormProjects\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[01;34mDocuments\u001b[0m                                 json                 \u001b[01;34mpst-export\u001b[0m                           \u001b[01;34mWireframeSketcher\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[01;34mDownloads\u001b[0m                                 logging              \u001b[01;34mPublic\u001b[0m                               \u001b[01;34mYandex.Disk\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[01;34mDropBox\u001b[0m                                   ls                   \u001b[01;32mrabbitmqadmin\u001b[0m                        \u001b[01;34myEd\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[01;34meBook Converter\u001b[0m                           \u001b[01;34mmail\u001b[0m                 rabbitmq-signing-key-public.asc      \u001b[01;34mzd_backup\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "erlang_solutions.asc                      \u001b[01;34mMail\u001b[0m                 raw01.json                           \u001b[01;34mzdesktop\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000512,
+      "\u001b]0;milo@milo-laptop: ~\u0007milo@milo-laptop:~$ "
+    ],
+    [
+      2.071927,
+      "exit\r\n"
+    ]
+  ]
+}
