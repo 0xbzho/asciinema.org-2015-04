@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "width": 132,
+  "height": 42,
+  "duration": 77.099002,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.173896,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      6.081989,
+      "v"
+    ],
+    [
+      0.064787,
+      "a"
+    ],
+    [
+      0.179214,
+      "g"
+    ],
+    [
+      0.080877,
+      "r"
+    ],
+    [
+      0.137031,
+      "a"
+    ],
+    [
+      0.136225,
+      "n"
+    ],
+    [
+      0.100919,
+      "t"
+    ],
+    [
+      0.100604,
+      " "
+    ],
+    [
+      0.170963,
+      "u"
+    ],
+    [
+      0.175325,
+      "p"
+    ],
+    [
+      0.492804,
+      "\r\n"
+    ],
+    [
+      1.140357,
+      "\u001b[0;31mVirtualBox is complaining that the kernel module is not loaded. Please\r\nrun `VBoxManage --version` or open the VirtualBox GUI to see the error\r\nmessage which should contain instructions on how to fix this error.\u001b[0m\r\n"
+    ],
+    [
+      0.015716,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[00m"
+    ],
+    [
+      6.640964,
+      "VBoxManage --version"
+    ],
+    [
+      0.230597,
+      "\r\n"
+    ],
+    [
+      0.002396,
+      "WARNING: The vboxdrv kernel module is not loaded. Either there is no module\r\n         available for the current kernel (3.18.4-031804-generic) or it failed to\r\n         load. Please recompile the kernel module and install it by\r\n\r\n           sudo /etc/init.d/vboxdrv setup\r\n\r\n         You will not be able to start VMs until this problem is fixed.\r\n"
+    ],
+    [
+      0.015194,
+      "4.2.0r80737"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.003574,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      4.540587,
+      "sudo /etc/init.d/vboxdrv setup"
+    ],
+    [
+      0.813345,
+      "\r\n"
+    ],
+    [
+      0.054035,
+      "[sudo] password for lucas: "
+    ],
+    [
+      2.365956,
+      "\r\n"
+    ],
+    [
+      0.050652,
+      " * Stopping VirtualBox kernel modules       "
+    ],
+    [
+      0.001102,
+      "\u001b[132G"
+    ],
+    [
+      0.000072,
+      " "
+    ],
+    [
+      0.003148,
+      "\r"
+    ],
+    [
+      0.000586,
+      "\u001b[126G"
+    ],
+    [
+      0.000093,
+      "[ OK ]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.003889,
+      " * Uninstalling old VirtualBox DKMS kernel modules       "
+    ],
+    [
+      0.001024,
+      "\u001b[132G"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.133672,
+      "\r"
+    ],
+    [
+      0.000534,
+      "\u001b[126G"
+    ],
+    [
+      0.000063,
+      "[ OK ]\r\n"
+    ],
+    [
+      0.052903,
+      " * Trying to register the VirtualBox kernel modules using DKMS       "
+    ],
+    [
+      0.001070,
+      "\u001b[132G"
+    ],
+    [
+      0.000046,
+      " "
+    ],
+    [
+      6.178239,
+      "Error! Bad return status for module build on kernel: 3.18.4-031804-generic (x86_64)\r\nConsult /var/lib/dkms/vboxhost/4.2.0/build/make.log for more information.\r\n"
+    ],
+    [
+      0.000793,
+      "\r\n"
+    ],
+    [
+      0.002543,
+      " \u001b[31m*\u001b[39;49m Failed, trying without DKMS\r\n"
+    ],
+    [
+      0.003768,
+      " * Recompiling VirtualBox kernel modules       "
+    ],
+    [
+      0.000989,
+      "\u001b[132G"
+    ],
+    [
+      0.000097,
+      " "
+    ],
+    [
+      0.697464,
+      "\r\n"
+    ],
+    [
+      0.002462,
+      " \u001b[31m*\u001b[39;49m Look at /var/log/vbox-install.log to find out what went wrong\r\n"
+    ],
+    [
+      0.004926,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      9.238020,
+      "c"
+    ],
+    [
+      0.057981,
+      "a"
+    ],
+    [
+      0.167774,
+      "t"
+    ],
+    [
+      0.159972,
+      " "
+    ],
+    [
+      0.330838,
+      "/var/lib/dkms/vboxhost/4.2.0/build/make.log"
+    ],
+    [
+      0.276702,
+      "\r\n"
+    ],
+    [
+      0.000623,
+      "DKMS make.log for vboxhost-4.2.0 for kernel 3.18.4-031804-generic (x86_64)\r\nThu Apr  9 13:29:34 BRT 2015\r\nmake: Entering directory `/usr/src/linux-headers-3.18.4-031804-generic'\r\n  LD      /var/lib/dkms/vboxhost/4.2.0/build/built-in.o\r\n  LD      /var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/built-in.o\r\n  CC [M]  /var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.o\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxUid’:\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c:226:5: error: incompatible types when returning type ‘kuid_t’ but ‘RTUID’ was expected\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxGid’:\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c:235:5: error: incompatible types when returning type ‘kgid_t’ but ‘RTGID’ was expected\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxEuid’:\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c:244:5: error: incompatible types when returning type ‘kuid_t’ but ‘RTUID’ was expected\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c:248:1: warning: control reaches end of non-void function [-Wreturn-type]\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxUid’:\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c:230:1: warning: control reaches end of non-void function [-Wreturn-type]\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c: In function ‘vboxdrvLinuxGid’:\r\n/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.c:239:1: warning: control reaches end of non-void function [-Wreturn-type]\r\nmake[2]: *** [/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv/linux/SUPDrv-linux.o] Error 1\r\nmake[1]: *** [/var/lib/dkms/vboxhost/4.2.0/build/vboxdrv] Error 2\r\nmake: *** [_module_/var/lib/dkms/vboxhost/4.2.0/build] Error 2\r\nmake: Leaving directory `/usr/src/linux-headers-3.18.4-031804-generic'\r\n"
+    ],
+    [
+      0.002896,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r\r\n\u001b[00m"
+    ],
+    [
+      34.866544,
+      "^C\r\n"
+    ],
+    [
+      0.002501,
+      "\u001b[01;32mlucas@Lucas-Notebook\u001b[01;34m ~/www/natura-am/git/config/server/providers/vbox \u001b[33m(setup)\u001b[01;34m$\r"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[00m"
+    ],
+    [
+      1.137404,
+      "exit\r\n"
+    ]
+  ]
+}
