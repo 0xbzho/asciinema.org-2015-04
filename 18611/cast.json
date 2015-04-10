@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "width": 137,
+  "height": 33,
+  "duration": 15.693444,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.276618,
+      "\u001b]0;marcos@xps: ~/Projects/redis/utils/create-cluster\u0007\u001b[01;32mmarcos@xps\u001b[00m:\u001b[01;34m~/Projects/redis/utils/create-cluster\u001b[00m (unstable)$ "
+    ],
+    [
+      0.079691,
+      "\r\u001b[39P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.603454,
+      "\u0008\u0008\u0008\u001b[18@s': ./create-cluster\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.501393,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[10@o': source ~/.rvm/scripts/rvm\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.178915,
+      "\u0008\u0008\u0008\u001b[1@u\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.056701,
+      "\u0008\u0008\u0008\u001b[1@r\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.176822,
+      "\u0008\u0008\u0008\u001b[1@c\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.058786,
+      "\u0008\u0008\u0008\u001b[1@e\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.155978,
+      "\r\u001b]0;marcos@xps: ~/Projects/redis/utils/create-cluster\u0007\u001b[01;32mmarcos@xps\u001b[00m:\u001b[01;34m~/Projects/redis/utils/create-cluster\u001b[00m (unstable)$ source ~/.rvm/scripts/rvm \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.100874,
+      "\u001b]0;marcos@xps: ~/Projects/redis/utils/create-cluster\u0007\u001b[01;32mmarcos@xps\u001b[00m:\u001b[01;34m~/Projects/redis/utils/create-cluster\u001b[00m (unstable)$ "
+    ],
+    [
+      1.041357,
+      "."
+    ],
+    [
+      0.049633,
+      "/"
+    ],
+    [
+      0.131009,
+      "c"
+    ],
+    [
+      0.134340,
+      "r"
+    ],
+    [
+      0.045534,
+      "e"
+    ],
+    [
+      0.121269,
+      "a"
+    ],
+    [
+      0.164964,
+      "te-cluster "
+    ],
+    [
+      1.333381,
+      "s"
+    ],
+    [
+      0.079329,
+      "t"
+    ],
+    [
+      0.064320,
+      "a"
+    ],
+    [
+      0.096017,
+      "r"
+    ],
+    [
+      0.114570,
+      "t"
+    ],
+    [
+      0.166407,
+      "\r\n"
+    ],
+    [
+      0.001475,
+      "Starting 30001\r\n"
+    ],
+    [
+      0.001552,
+      "Starting 30002"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.003972,
+      "Starting 30003"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.005888,
+      "Starting 30004\r\n"
+    ],
+    [
+      0.004150,
+      "Starting 30005"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.003338,
+      "Starting 30006\r\n"
+    ],
+    [
+      0.007284,
+      "\u001b]0;marcos@xps: ~/Projects/redis/utils/create-cluster\u0007\u001b[01;32mmarcos@xps\u001b[00m:\u001b[01;34m~/Projects/redis/utils/create-cluster\u001b[00m (unstable)$ "
+    ],
+    [
+      0.612204,
+      "./create-cluster start"
+    ],
+    [
+      0.326862,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.175123,
+      "c"
+    ],
+    [
+      0.170576,
+      "r"
+    ],
+    [
+      0.070105,
+      "e"
+    ],
+    [
+      0.056099,
+      "a"
+    ],
+    [
+      0.089854,
+      "t"
+    ],
+    [
+      0.049357,
+      "e"
+    ],
+    [
+      0.135146,
+      "\r\n"
+    ],
+    [
+      0.058362,
+      "\u003e\u003e\u003e Creating cluster"
+    ],
+    [
+      0.000015,
+      "\r\nConnecting to node 127.0.0.1:30001: "
+    ],
+    [
+      0.000465,
+      "OK"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.002268,
+      "[ERR] Node 127.0.0.1:30001 is not empty. Either the node already knows other nodes (check with CLUSTER NODES) or contains some key in database 0."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.005903,
+      "\u001b]0;marcos@xps: ~/Projects/redis/utils/create-cluster\u0007\u001b[01;32mmarcos@xps\u001b[00m:\u001b[01;34m~/Projects/redis/utils/create-cluster\u001b[00m (unstable)$ "
+    ],
+    [
+      2.572085,
+      "./create-cluster create"
+    ],
+    [
+      0.492162,
+      "\r\n"
+    ],
+    [
+      0.049309,
+      "\u003e\u003e\u003e Creating cluster"
+    ],
+    [
+      0.000013,
+      "\r\nConnecting to node 127.0.0.1:30001: "
+    ],
+    [
+      0.000486,
+      "OK"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002133,
+      "[ERR] Node 127.0.0.1:30001 is not empty. Either the node already knows other nodes (check with CLUSTER NODES) or contains some key in database 0."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006146,
+      "\u001b]0;marcos@xps: ~/Projects/redis/utils/create-cluster\u0007\u001b[01;32mmarcos@xps\u001b[00m:\u001b[01;34m~/Projects/redis/utils/create-cluster\u001b[00m (unstable)$ "
+    ],
+    [
+      5.058250,
+      "exit\r\n"
+    ]
+  ]
+}
