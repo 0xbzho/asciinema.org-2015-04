@@ -1,0 +1,730 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 36,
+  "duration": 12.152221,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.207816,
+      " \r\n\u001b[44m Vagrant Box for WePay \u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.001975,
+      "  Built: Fri Jul 25 16:32:34 PDT 2014\r\n  Provider: VMware\r\n \r\n"
+    ],
+    [
+      0.039155,
+      "\u001b[?1034h[\u001b[92mvagrant@localhost\u001b(B\u001b[m: \u001b[37m\u001b[44m /vagrant \u001b(B\u001b[m]\u001b[93m (master)\u001b(B\u001b[m \u001b[97m\u001b[42m ✓ \u001b(B\u001b[m "
+    ],
+    [
+      0.187268,
+      "./bin/integration_tests riskengine/br"
+    ],
+    [
+      1.013898,
+      "E"
+    ],
+    [
+      0.136038,
+      "A \r"
+    ],
+    [
+      0.119988,
+      "K"
+    ],
+    [
+      0.088100,
+      "E"
+    ],
+    [
+      0.303933,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111959,
+      "\r\u001b[K"
+    ],
+    [
+      0.120072,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.119925,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128014,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.527982,
+      "r"
+    ],
+    [
+      0.127830,
+      "e"
+    ],
+    [
+      0.064270,
+      "a \r"
+    ],
+    [
+      0.111910,
+      "k"
+    ],
+    [
+      0.112030,
+      "e"
+    ],
+    [
+      0.119981,
+      "r"
+    ],
+    [
+      0.135994,
+      "."
+    ],
+    [
+      0.191979,
+      "p"
+    ],
+    [
+      0.112051,
+      "h"
+    ],
+    [
+      0.088023,
+      "p"
+    ],
+    [
+      0.247687,
+      "\r\n"
+    ],
+    [
+      0.034877,
+      "/vagrant/vendor/bin/phpunit  --no-configuration --bootstrap=/vagrant/content/index.php /vagrant/modules/unit_test/libraries/Tests.php riskengine/breaker.php"
+    ],
+    [
+      0.261081,
+      "PHPUnit 3.8-dev by Sebastian Bergmann.\r\n\r\n"
+    ],
+    [
+      0.002926,
+      "Starting tests at 2015-04-10T15:27:34-04:00\r\n"
+    ],
+    [
+      0.035016,
+      "Including files that cause autoload issues during tests                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005980,
+      "Closing DB connections created from DataProviders                       [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.008986,
+      "Modifying configuration settings                                        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.330065,
+      "Importing table structure from wepay                                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.050072,
+      "Importing data from wepay.zip                                           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.016994,
+      "Importing data from wepay.fee_schedules                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.015015,
+      "Importing data from wepay.geo_regions                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.208941,
+      "Importing table structure from products                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.108939,
+      "Importing table structure from fraud                                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.013098,
+      "Importing data from fraud.fraud_location_data                           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.012953,
+      "Importing data from fraud.fraud_tos_whitelist                           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.012959,
+      "Importing data from fraud.risk_scores                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.061121,
+      "Importing table structure from private                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.136931,
+      "Importing table structure from log                                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.061985,
+      "Importing table structure from analytics                                [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.068997,
+      "Importing table structure from analytics2                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.014961,
+      "Importing data from analytics2.analytics_fee_schedules                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.043183,
+      "Importing table structure from syslog                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      3.105833,
+      "Creating test database                                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002048,
+      "=============================================================\r\n         1         2         3         4         5         6\r\n1234567890123456789012345678901234567890123456789012345678901\r\n"
+    ],
+    [
+      0.054084,
+      ".\r\n=============================================================\r\n"
+    ],
+    [
+      0.046877,
+      "Account AccountsTableMatchesBankAccountsTable DIC                       [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000979,
+      "Account AccountsTableMatchesCheckRecipientsTable DIC                    [\u001b[0;32m  OK  \u001b[0m]\r\nAccount AccountsTableMatchesCreditCardsTable DIC                        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001013,
+      "Account AccountsTableMatchesGroupsTable DIC                             [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001009,
+      "Account AccountsTableMatchesUsersTable DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001000,
+      "Account AccountsTableMatchesWePayAccountsTable DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\nAccount BankAccountObjectsHaveAccount DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000977,
+      "Account BankAccountRowsMatchAccountsTable DIC                           [\u001b[0;32m  OK  \u001b[0m]\r\nAccount CheckRecipientObjectsHaveAccount DIC                            [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001030,
+      "Account CheckRecipientRowsMatchAccountsTable DIC                        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001102,
+      "Account CreditCardObjectsHaveAccount DIC                                [\u001b[0;32m  OK  \u001b[0m]\r\nAccount CreditCardRowsMatchAccountsTable DIC                            [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000951,
+      "Account GroupObjectsHaveAccount DIC                                     [\u001b[0;32m  OK  \u001b[0m]\r\nAccount GroupRowsMatchAccountsTable DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000954,
+      "Account GroupsHaveCorrectNumberOfCurrencyAccounts DIC                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000987,
+      "Account OwnerIsSet DIC                                                  [\u001b[0;32m  OK  \u001b[0m]\r\nAccount UserObjectsHaveAccount DIC                                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000971,
+      "Account UserRowsMatchAccountsTable DIC                                  [\u001b[0;32m  OK  \u001b[0m]\r\nAccount UsersHaveCorrectNumberOfCurrencyAccounts DIC                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001060,
+      "Account WePayAccountObjectsHaveAccount DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001029,
+      "Account WePayAccountRowsMatchAccountsTable DIC                          [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000962,
+      "Account_history AccountsWithBalanceHaveHistory DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000013,
+      "Account_history BalanceMatchesSumOfChangeInHistory DIC                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002045,
+      "Account_history CompletedPaymentLegsHaveHistory DIC                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001069,
+      "Account_history HistoryHasPaymentLeg DIC                                [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000902,
+      "Account_history NetZeroDisbursementHistory DIC                          [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002926,
+      "Analytics AppCount DIC                                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001156,
+      "Analytics DonationCampaignCount DIC                                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000927,
+      "Analytics GroupCount DIC                                                [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001010,
+      "Analytics InvoiceCount DIC                                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001891,
+      "Analytics PaymentRequestsCount DIC                                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002013,
+      "Analytics ShopCount DIC                                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001075,
+      "Analytics TicketGroupCount DIC                                          [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000936,
+      "Analytics UserCount DIC                                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005973,
+      "Api_callback HangingNew DIC                                             [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002037,
+      "Api_callback HangingStarted DIC                                         [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001957,
+      "Api_checkout CheckoutsHaveAppId DIC                                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.008022,
+      "Api_checkout NonHiddenCheckoutsHavePaymentRequestId DIC                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001125,
+      "Api_checkout PayerIdIsSet DIC                                           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.004892,
+      "Authorization HangingStarted DIC                                        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002137,
+      "Bank_account BankAccountsAreGarbageCollectedAfterWindow DIC             [\u001b[0;32m  OK  \u001b[0m]\r\nBank_account BankAccountsHaveRoutingNumbers DIC                         [\u001b[0;32m  OK  \u001b[0m]\r\nBank_account BankAccountsStateConfirmConfirmNone DIC                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001021,
+      "Bank_account InvalidRoutingNumber DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\nBank_account UserExists DIC                                             [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002538,
+      "Bank_account_private_data BankAccountsFlaggedGCHaveNoPrivateData DIC    [\u001b[0;32m  OK  \u001b[0m]\r\nBank_account_private_data BankAccountsMissingPrivateDataAreFlaggedGC DIC[\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002417,
+      "Batch_call BatchesAreBeingProcessed DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001079,
+      "Batch_call BatchesAreNotHanging DIC                                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.003243,
+      "Batch_call BatchesAreNotInUnknownState DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002101,
+      "Chargeback AmountChargebackedMatchesChargebacks DIC                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000431,
+      "Credit_card CardsAreGarbageCollectedAfterWindow DIC                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001507,
+      "Credit_card CardsAreUsedAndHaveFirstPaymentIdAfterFirstAuth DIC         [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000795,
+      "Credit_card_private_data CardsFlaggedGCHaveNoPrivateData DIC            [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001681,
+      "Credit_card_private_data CardsMissingPrivateDataAreFlaggedGC DIC        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.003002,
+      "Credit_card_private_data CvnIsCleared DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005034,
+      "Dispute AccountReserveMatchesOpenDisputes DIC                           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002990,
+      "Dispute ChargebackDisputesAreNotLeftWaitingOnPayeeAfterWidow DIC        [\u001b[0;32m  OK  \u001b[0m]\r\nDispute ChargebackDisputesAreNotOpenForTooLong DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001152,
+      "Dispute ChargebackDisputesHaveChargebackId DIC                          [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002849,
+      "Dispute ChargebackDisputesHaveChargebackOpenWhileDisputeStillIs DIC     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000999,
+      "Dispute ChargebackDisputesHaveProcessedChargeback DIC                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000983,
+      "Dispute ChargebackDisputesResolvedForPayeeMatchChargeback DIC           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001019,
+      "Dispute ChargebackDisputesResolvedForPayerMatchChargeback DIC           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000984,
+      "Dispute ChargebackDisputesThatAreResolvedHaveResolvedChargeback DIC     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001041,
+      "Dispute DisputesWaitingOnPayerAreNotHoldingFunds DIC                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000987,
+      "Dispute NonChargebackDisputesAreNotLeftWaitingOnPayeeAfterWindow DIC    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001021,
+      "Dispute NonResolvedDisputesShouldNotBeRefunded DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\nDispute NotHangingInResolving DIC                                       [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001995,
+      "Dispute OnlyOneOpenNonChargebackDispute DIC                             [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001056,
+      "Dispute OpenDisputesMatchesActualReserve DIC                            [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000976,
+      "Dispute ResolvedDisputesHaveRemovedFundsHold DIC                        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002013,
+      "Dispute ResolvedNonChargebackDisputesAreFullyRefunded DIC               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002007,
+      "Donation DonationMatchesPaymentRequest DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002954,
+      "Donation_campaign DenormalizedData DIC                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005950,
+      "Error_report Unchecked DIC                                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.022029,
+      "Group CanadaGroupsHaveReconciliationWithdrawal DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001977,
+      "Invoice AlertsForInvoicesHaveInvoiceThatExists DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.015001,
+      "Invoice InvoicesFromDeletedSendersHaveGoodState DIC                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001172,
+      "Invoice PaidInvoicesHaveGoodState DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\nLoss_writeoff WriteoffAmountVaildity DIC                                [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005943,
+      "Notification NotHangingInNew DIC                                        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001867,
+      "Payment IncomingPaymentsHaveDepositTime DIC                             [\u001b[0;32m  OK  \u001b[0m]\r\nPayment OutgoingPaymentsHaveWithdrawTime DIC                            [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001144,
+      "Payment PaymentsHaveAuthorizations DIC                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001012,
+      "Payment TimestampOrderMakesSense DIC                                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000969,
+      "Payment_leg StateMatchesExpectedForPayment DIC                          [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.007680,
+      "Payment_request AdjustmentCrossPR DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.004372,
+      "Payment_request ApiCheckoutCrossPR DIC                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002841,
+      "Payment_request ApiCheckoutStateMatchesPaymentRequest DIC               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.011010,
+      "Payment_request CartCrossPR DIC                                         [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001296,
+      "Payment_request CartStateMatchesPaymentRequest DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002858,
+      "Payment_request ChargebackCrossPR DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.003981,
+      "Payment_request DonationCrossPR DIC                                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000998,
+      "Payment_request DonationStateMatchesPaymentRequest DIC                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.006946,
+      "Payment_request InvoicePaymentCrossPR DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001042,
+      "Payment_request InvoicePaymentStateMatchesPaymentRequest DIC            [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005882,
+      "Payment_request LossWriteoffCrossPR DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.006020,
+      "Payment_request NotHangingInCancelling DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001120,
+      "Payment_request NotHangingInDenying DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001845,
+      "Payment_request NotHangingInFailing DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001987,
+      "Payment_request NotHangingInFinishing DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002016,
+      "Payment_request NotHangingInStarted DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002034,
+      "Payment_request OnlyCompletedPaymentsHaveRefunds DIC                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002016,
+      "Payment_request PRCrossAdjustment DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001945,
+      "Payment_request PRCrossApiCheckout DIC                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002016,
+      "Payment_request PRCrossCart DIC                                         [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001976,
+      "Payment_request PRCrossChargeback DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001110,
+      "Payment_request PRCrossDonation DIC                                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001442,
+      "Payment_request PRCrossInvoicePayment DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\nPayment_request PRCrossLossWriteoff DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.006467,
+      "Payment_request PRCrossRecoveryAttempt DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.006985,
+      "Payment_request PRCrossRefund DIC                                       [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.003097,
+      "Payment_request PRCrossReversedChargeback DIC                           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.009966,
+      "Payment_request PRCrossSubscriptionPayment DIC                          [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.007458,
+      "Payment_request PRCrossTicketPurchase DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.014721,
+      "Payment_request PRCrossWithdrawal DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\nPayment_request PausedRecoveryAttempts DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001068,
+      "Payment_request PaymentCountIsCorrect DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000767,
+      "Payment_request PrimaryPaymentAmountMatchesPaymentRequest DIC           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002040,
+      "Payment_request RecoveryAttemptCrossPR DIC                              [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000975,
+      "Payment_request RefundCrossPR DIC                                       [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001027,
+      "Payment_request ReversedChargebackCrossPR DIC                           [\u001b[0;32m  OK  \u001b[0m]\r\nPayment_request StartedPaymentsHavePayerAndPayeeSet DIC                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001095,
+      "Payment_request StartedPaymentsHavePrimaryPaymentId DIC                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000978,
+      "Payment_request SubscriptionPaymentCrossPR DIC                          [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000856,
+      "Payment_request TicketPurchaseCrossPR DIC                               [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001215,
+      "Payment_request TicketPurchaseStateMatchesPaymentRequest DIC            [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000965,
+      "Payment_request WithdrawalCrossPR DIC                                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000832,
+      "Payment_request WithdrawalStateMatchesPaymentRequest DIC                [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.006021,
+      "Recurring_invoice UndeletedRecurringInvoicesForDeletedAccounts DIC      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001674,
+      "Refund AmountRefundedIsCorrect DIC                                      [\u001b[0;32m  OK  \u001b[0m]\r\nRefund RefundCountIsCorrect DIC                                         [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001343,
+      "Reversed_chargeback AmountReversedDoesNotExceedAmountChargedBack DIC    [\u001b[0;32m  OK  \u001b[0m]\r\nReversed_chargeback ReversedChargebackAuthState DIC                     [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005921,
+      "Review ActiveReviewsMatchPaymentRequest DIC                             [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.006082,
+      "Review CompleteReviewsPaymentRequestIsNotInReview DIC                   [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002037,
+      "Review ReviewsAreNotHanging DIC                                         [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.004902,
+      "Scheduled_event NotHangingExecuting DIC                                 [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.002040,
+      "Scheduled_event PeriodIsSet DIC                                         [\u001b[0;32m  OK  \u001b[0m]\r\nScheduled_event ScheduledEventsForPreapprovalsHaveExistingPreapproval DI\r\nC                                                                       [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.018976,
+      "User GuestUsersDoNotHaveEmailModel DIC                                  [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001020,
+      "User PrimaryEmailMatchesDenormalizedField DIC                           [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.005000,
+      "User UsersWithEmailVerifiedFlagMatchEmailModel DIC                      [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.000944,
+      "User VerifiedEmailIsFlaggedOnRegisteredUsers DIC                        [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.001032,
+      "User_private_data RegisteredUsersHavePasswordSet DIC                    [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.004507,
+      "User_private_data UnregisteredUsersDoNotHavePasswordSet DIC             [\u001b[0;32m  OK  \u001b[0m]\r\n"
+    ],
+    [
+      0.309563,
+      "Dropping Database _phpunit_1428694054                                   [\u001b[0;32m  OK  \u001b[0m]\r\nClosing DB connection                                                   [\u001b[0;32m  OK  \u001b[0m]\r\n\r\nLongest Running Tests:\r\n  0.053326 seconds : Circuit_Breaker_test\r\n\r\n\r\nTime: 5.31 seconds, Memory: 24.75Mb\r\n\r\nOK (1 test, 2 assertions)\r\n"
+    ],
+    [
+      0.070052,
+      "[\u001b[92mvagrant@localhost\u001b(B\u001b[m: \u001b[37m\u001b[44m /vagrant \u001b(B\u001b[m]\u001b[93m (master)\u001b(B\u001b[m \u001b[97m\u001b[42m ✓ \u001b(B\u001b[m "
+    ],
+    [
+      1.496887,
+      "^C\r\n"
+    ],
+    [
+      0.037039,
+      "[\u001b[92mvagrant@localhost\u001b(B\u001b[m: \u001b[37m\u001b[44m /vagrant \u001b(B\u001b[m]\u001b[93m (master)\u001b(B\u001b[m \u001b[97m\u001b[41m ‼ \u001b(B\u001b[m "
+    ],
+    [
+      0.747017,
+      "exit\r\n"
+    ]
+  ]
+}
