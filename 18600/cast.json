@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "width": 266,
+  "height": 79,
+  "duration": 24.496277,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.039987,
+      "\u001b]0;h2@packer-debian-7: ~/works\u0007\u001b[01;32mh2@packer-debian-7\u001b[00m:\u001b[01;34m~/works\u001b[00m$ "
+    ],
+    [
+      11.810182,
+      "\r\n\u001b]0;h2@packer-debian-7: ~/works\u0007\u001b[01;32mh2@packer-debian-7\u001b[00m:\u001b[01;34m~/works\u001b[00m$ "
+    ],
+    [
+      10.755636,
+      "l"
+    ],
+    [
+      0.079345,
+      "s"
+    ],
+    [
+      0.339421,
+      "\r\n"
+    ],
+    [
+      0.002265,
+      "\u001b]0;h2@packer-debian-7: ~/works\u0007\u001b[01;32mh2@packer-debian-7\u001b[00m:\u001b[01;34m~/works\u001b[00m$ "
+    ],
+    [
+      1.469349,
+      "exit\r\n"
+    ]
+  ]
+}
