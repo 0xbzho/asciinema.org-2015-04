@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "width": 93,
+  "height": 27,
+  "duration": 8.955064,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.011760,
+      "\u001b]0;netrocious@arid:~\u0007"
+    ],
+    [
+      0.000508,
+      "\u001b[0;36m[netrocious@arid ~]$\u001b[m "
+    ],
+    [
+      2.810701,
+      "l"
+    ],
+    [
+      0.129101,
+      "s"
+    ],
+    [
+      0.371473,
+      "\r\n"
+    ],
+    [
+      0.001278,
+      "\u001b[0m\u001b[01;34mdocuments\u001b[0m  \u001b[01;34mgymnasiearbete\u001b[0m  \u001b[01;34mmedia\u001b[0m  \u001b[01;34mnotes\u001b[0m     \u001b[01;34mscripts\u001b[0m    \u001b[01;34mtest\u001b[0m\r\n\u001b[01;34mdownloads\u001b[0m  \u001b[01;34mimportant\u001b[0m       \u001b[01;34mmisc\u001b[0m   \u001b[01;34mprojects\u001b[0m  \u001b[01;34mtemplates\u001b[0m  \u001b[01;34mwallpapers\u001b[0m\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b]0;netrocious@arid:~\u0007\u001b[0;36m[netrocious@arid ~]$\u001b[m "
+    ],
+    [
+      0.367064,
+      "c"
+    ],
+    [
+      0.028926,
+      "l"
+    ],
+    [
+      0.204912,
+      "e"
+    ],
+    [
+      0.084958,
+      "a"
+    ],
+    [
+      0.034707,
+      "r"
+    ],
+    [
+      0.146328,
+      "\r\n"
+    ],
+    [
+      0.000948,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000392,
+      "\u001b]0;netrocious@arid:~\u0007\u001b[0;36m[netrocious@arid ~]$\u001b[m "
+    ],
+    [
+      0.270352,
+      "l"
+    ],
+    [
+      0.109272,
+      "s"
+    ],
+    [
+      0.153536,
+      "\r\n"
+    ],
+    [
+      0.001564,
+      "\u001b[0m\u001b[01;34mdocuments\u001b[0m  \u001b[01;34mgymnasiearbete\u001b[0m  \u001b[01;34mmedia\u001b[0m  \u001b[01;34mnotes\u001b[0m     \u001b[01;34mscripts\u001b[0m    \u001b[01;34mtest\u001b[0m\r\n\u001b[01;34mdownloads\u001b[0m  \u001b[01;34mimportant\u001b[0m       \u001b[01;34mmisc\u001b[0m   \u001b[01;34mprojects\u001b[0m  \u001b[01;34mtemplates\u001b[0m  \u001b[01;34mwallpapers\u001b[0m\r\n"
+    ],
+    [
+      0.000417,
+      "\u001b]0;netrocious@arid:~\u0007\u001b[0;36m[netrocious@arid ~]$\u001b[m "
+    ],
+    [
+      0.812679,
+      "c"
+    ],
+    [
+      0.209901,
+      "d"
+    ],
+    [
+      0.204043,
+      " "
+    ],
+    [
+      0.906054,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.182872,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.158962,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.751795,
+      "exit\r\n"
+    ]
+  ]
+}
