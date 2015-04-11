@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "width": 238,
+  "height": 61,
+  "duration": 24.829924,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.473593,
+      "Writing /Users/max/.boot2docker/certs/boot2docker-vm/ca.pem\r\n"
+    ],
+    [
+      0.000125,
+      "Writing /Users/max/.boot2docker/certs/boot2docker-vm/cert.pem\r\n"
+    ],
+    [
+      0.000007,
+      "Writing /Users/max/.boot2docker/certs/boot2docker-vm/key.pem\r\n"
+    ],
+    [
+      0.136150,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000063,
+      "\u001b]2;max@geier: ~/sentiment_client\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;..timent_client\u0007"
+    ],
+    [
+      0.020868,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mmax\u001b[00m@\u001b[36mgeier\u001b[00m:\u001b[35m~/sentiment_client\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K"
+    ],
+    [
+      0.000073,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.441690,
+      "P"
+    ],
+    [
+      0.231888,
+      "\u0008PY"
+    ],
+    [
+      0.312009,
+      "THONPATH=. lymph node\u001b[21D"
+    ],
+    [
+      0.759774,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000105,
+      "\r\r\n"
+    ],
+    [
+      0.001113,
+      "\u001b]2;PYTHONPATH=. lymph node\u0007\u001b]1;lymph\u0007"
+    ],
+    [
+      0.000878,
+      "zsh: command not found: lymph\r\n"
+    ],
+    [
+      0.000316,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000066,
+      "\u001b]2;max@geier: ~/sentiment_client\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..timent_client\u0007"
+    ],
+    [
+      0.024624,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mmax\u001b[00m@\u001b[36mgeier\u001b[00m:\u001b[35m~/sentiment_client\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m \u001b[K\u001b[192C\u001b[31m127 ↵\u001b[00m\u001b[197D"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.410333,
+      "s"
+    ],
+    [
+      0.088365,
+      "\u0008so"
+    ],
+    [
+      0.063959,
+      "u"
+    ],
+    [
+      0.111939,
+      "r"
+    ],
+    [
+      0.199883,
+      "c"
+    ],
+    [
+      0.096444,
+      "e"
+    ],
+    [
+      0.183627,
+      " "
+    ],
+    [
+      0.519933,
+      "v"
+    ],
+    [
+      0.071918,
+      "e"
+    ],
+    [
+      0.256248,
+      "nv/bin/activate\u001b[15D"
+    ],
+    [
+      0.551818,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000037,
+      "\r\r\n"
+    ],
+    [
+      0.000643,
+      "\u001b]2;source venv/bin/activate\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;source\u0007"
+    ],
+    [
+      0.000085,
+      "source: no such file or directory: venv/bin/activate\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000048,
+      "\u001b]2;max@geier: ~/sentiment_client\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;..timent_client\u0007"
+    ],
+    [
+      0.025680,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mmax\u001b[00m@\u001b[36mgeier\u001b[00m:\u001b[35m~/sentiment_client\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m "
+    ],
+    [
+      0.000071,
+      "\u001b[K\u001b[192C\u001b[31m127 ↵\u001b[00m\u001b[197D"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.645494,
+      "l"
+    ],
+    [
+      0.135914,
+      "\u0008ll"
+    ],
+    [
+      0.175983,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000038,
+      "\r\r\n"
+    ],
+    [
+      0.000652,
+      "\u001b]2;ls -G -lh\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;ll\u0007"
+    ],
+    [
+      0.003892,
+      "total 14440\r\n"
+    ],
+    [
+      0.000115,
+      "-rw-r--r--  1 max  staff     0B Apr 11 13:15 1428750932753_that.png\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--  1 max  staff     0B Apr 11 13:15 1428750955282_that.png\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--  1 max  staff     0B Apr 11 13:18 1428751121392_that.png\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--  1 max  staff    18K Apr 11 13:00 LICENSE\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--  1 max  staff   128B Apr 11 13:10 README.md\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--  1 max  staff    29K Apr 11 13:19 YC\r\n"
+    ],
+    [
+      0.000018,
+      "-rwxr-xr-x  1 max  staff   7.0M Apr 11 13:26 \u001b[31masciinema\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--  1 max  staff   9.6K Apr 11 13:19 cat\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--  1 max  staff   216B Apr 11 13:03 quickstart.sh\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--  1 max  staff   895B Apr 11 13:00 sentiment_client.py\r\n"
+    ],
+    [
+      0.000002,
+      "-rw-r--r--  1 max  staff    82B Apr 11 13:00 sentiment_client.yml\r\n"
+    ],
+    [
+      0.000437,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000081,
+      "\u001b]2;max@geier: ~/sentiment_client\u0007"
+    ],
+    [
+      0.000077,
+      "\u001b]1;..timent_client\u0007"
+    ],
+    [
+      0.026561,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mmax\u001b[00m@\u001b[36mgeier\u001b[00m:\u001b[35m~/sentiment_client\u001b[33m(master\u001b[31m⚡\u001b[00m\u001b[33m)\u001b[00m \u001b[31m»\u001b[00m "
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      0.000065,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      12.823676,
+      "\r\r\n"
+    ]
+  ]
+}
