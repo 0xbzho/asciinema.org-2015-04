@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 28,
+  "duration": 8.606514,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.179412,
+      "bash-3.2$ "
+    ],
+    [
+      1.221621,
+      "l"
+    ],
+    [
+      0.104175,
+      "s"
+    ],
+    [
+      0.263955,
+      "\r\n"
+    ],
+    [
+      0.005742,
+      "CONTRIBUTING.md\tapp\t\tbower.json\tconfig.rb\tnotes.txt\treact-frontend\r\n"
+    ],
+    [
+      0.000017,
+      "Gemfile\t\tartisan\t\tcodeception.yml\tdata\t\tpackage.json\treadme.md\r\nGemfile.lock\tassets\t\tcomposer.json\thtml\t\tphpunit.xml\tserver.php\r\nGruntfile.js\tbootstrap\tcomposer.lock\tindex.html\tpublic\t\tvendor\r\n"
+    ],
+    [
+      0.000337,
+      "bash-3.2$ "
+    ],
+    [
+      3.553838,
+      "l"
+    ],
+    [
+      0.104098,
+      "s"
+    ],
+    [
+      0.159994,
+      " "
+    ],
+    [
+      0.207732,
+      "-"
+    ],
+    [
+      0.256201,
+      "l"
+    ],
+    [
+      0.160154,
+      "\r\n"
+    ],
+    [
+      0.010455,
+      "total 392\r\n"
+    ],
+    [
+      0.000337,
+      "-rw-r--r--   1 aegis  staff     145  8 Feb 17:38 CONTRIBUTING.md\r\n-rw-r--r--   1 aegis  staff     125 16 Mar 15:04 Gemfile\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--   1 aegis  staff     777 16 Mar 15:04 Gemfile.lock\r\n-rw-r--r--   1 aegis  staff    3516  8 Feb 17:38 Gruntfile.js\r\ndrwxr-xr-x  15 aegis  staff     510 11 Apr 20:57 app\r\n-rw-r--r--   1 aegis  staff    2424  8 Feb 17:38 artisan\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x   7 aegis  staff     238  8 Feb 17:38 assets\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   5 aegis  staff     170  8 Feb 17:38 bootstrap\r\n-rw-r--r--   1 aegis  staff    1014 16 Mar 15:04 bower.json\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--   1 aegis  staff     384  8 Feb 17:38 codeception.yml\r\n-rw-r--r--   1 aegis  staff    1035 11 Apr 11:13 composer.json\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 aegis  staff  138211  8 Feb 17:38 composer.lock\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--   1 aegis  staff    1180  8 Feb 17:38 config.rb\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x   3 aegis  staff     102  8 Feb 17:38 data\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x   2 aegis  staff      68  4 Feb 14:23 html\r\n-rw-r--r--   1 aegis  staff     177  8 Feb 17:38 index.html\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--   1 aegis  staff      20 10 Apr 12:37 notes.txt\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 aegis  staff     646  8 Feb 17:38 package.json\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--   1 aegis  staff     563  8 Feb 17:38 phpunit.xml\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   9 aegis  staff     306 17 Mar 17:33 public\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x  11 aegis  staff     374  5 Apr 22:37 react-frontend\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--   1 aegis  staff    1795  8 Feb 17:38 readme.md\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--   1 aegis  staff     519  8 Feb 17:38 server.php\r\n"
+    ],
+    [
+      0.000013,
+      "drwxrwxr-x  39 aegis  staff    1326  8 Feb 20:06 vendor\r\n"
+    ],
+    [
+      0.000561,
+      "bash-3.2$ "
+    ],
+    [
+      1.628351,
+      "e"
+    ],
+    [
+      0.263725,
+      "x"
+    ],
+    [
+      0.143959,
+      "i"
+    ],
+    [
+      0.160277,
+      "t"
+    ],
+    [
+      0.175769,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "exit\r\n"
+    ]
+  ]
+}
