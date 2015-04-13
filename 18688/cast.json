@@ -1,0 +1,2002 @@
+{
+  "version": 1,
+  "width": 137,
+  "height": 32,
+  "duration": 104.391157,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007050,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "bash-3.2$ "
+    ],
+    [
+      2.072083,
+      "c"
+    ],
+    [
+      0.079867,
+      "d"
+    ],
+    [
+      0.072136,
+      " "
+    ],
+    [
+      1.231781,
+      "~"
+    ],
+    [
+      0.000015,
+      "/"
+    ],
+    [
+      0.296028,
+      "s"
+    ],
+    [
+      0.240049,
+      "i"
+    ],
+    [
+      0.239858,
+      "t"
+    ],
+    [
+      0.072333,
+      "e"
+    ],
+    [
+      0.223957,
+      "\u0007"
+    ],
+    [
+      0.367978,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.184438,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151307,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143949,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.295979,
+      "S"
+    ],
+    [
+      0.184064,
+      "ites/"
+    ],
+    [
+      0.895809,
+      "b"
+    ],
+    [
+      0.064280,
+      "u"
+    ],
+    [
+      0.119745,
+      "n"
+    ],
+    [
+      0.088107,
+      "\u0007te-"
+    ],
+    [
+      0.271865,
+      "a"
+    ],
+    [
+      0.080084,
+      "pplication/"
+    ],
+    [
+      0.543870,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "bash-3.2$ "
+    ],
+    [
+      0.759627,
+      "g"
+    ],
+    [
+      0.192035,
+      "i"
+    ],
+    [
+      0.095979,
+      "t"
+    ],
+    [
+      0.064123,
+      " "
+    ],
+    [
+      0.135904,
+      "p"
+    ],
+    [
+      0.143890,
+      "u"
+    ],
+    [
+      0.271944,
+      "l"
+    ],
+    [
+      0.136112,
+      "l"
+    ],
+    [
+      0.335978,
+      ";"
+    ],
+    [
+      0.247890,
+      " "
+    ],
+    [
+      0.223985,
+      "g"
+    ],
+    [
+      0.200033,
+      "i"
+    ],
+    [
+      0.119774,
+      "t"
+    ],
+    [
+      0.064186,
+      " "
+    ],
+    [
+      0.247990,
+      "s"
+    ],
+    [
+      0.503915,
+      "u"
+    ],
+    [
+      0.248054,
+      "b"
+    ],
+    [
+      0.359873,
+      "m"
+    ],
+    [
+      0.199998,
+      "o"
+    ],
+    [
+      0.200017,
+      "d"
+    ],
+    [
+      0.151957,
+      "u"
+    ],
+    [
+      0.216016,
+      "l"
+    ],
+    [
+      0.103956,
+      "e"
+    ],
+    [
+      0.111963,
+      " "
+    ],
+    [
+      0.655959,
+      "u"
+    ],
+    [
+      0.072003,
+      "p"
+    ],
+    [
+      0.088255,
+      "d"
+    ],
+    [
+      0.047702,
+      "a"
+    ],
+    [
+      0.168725,
+      "t"
+    ],
+    [
+      0.095115,
+      "e"
+    ],
+    [
+      0.097239,
+      " "
+    ],
+    [
+      0.358729,
+      "-"
+    ],
+    [
+      0.160146,
+      "-"
+    ],
+    [
+      0.255895,
+      "i"
+    ],
+    [
+      0.145725,
+      "n"
+    ],
+    [
+      0.102192,
+      "i"
+    ],
+    [
+      0.112257,
+      "t"
+    ],
+    [
+      0.055799,
+      " "
+    ],
+    [
+      0.351911,
+      "-"
+    ],
+    [
+      0.168045,
+      "-"
+    ],
+    [
+      0.480300,
+      "r"
+    ],
+    [
+      0.079787,
+      "e"
+    ],
+    [
+      0.319915,
+      "c"
+    ],
+    [
+      0.231855,
+      "u"
+    ],
+    [
+      0.496095,
+      "r"
+    ],
+    [
+      0.208073,
+      "s"
+    ],
+    [
+      0.207893,
+      "i"
+    ],
+    [
+      0.080053,
+      "v"
+    ],
+    [
+      0.071863,
+      "e"
+    ],
+    [
+      0.815818,
+      "\r\n"
+    ],
+    [
+      0.781385,
+      "Already up-to-date.\r\n"
+    ],
+    [
+      1.672075,
+      "bash-3.2$ "
+    ],
+    [
+      0.818493,
+      "g"
+    ],
+    [
+      0.167847,
+      "i"
+    ],
+    [
+      0.080019,
+      "t"
+    ],
+    [
+      0.055859,
+      " "
+    ],
+    [
+      0.288102,
+      "f"
+    ],
+    [
+      0.175865,
+      "l"
+    ],
+    [
+      0.168093,
+      "o"
+    ],
+    [
+      0.087962,
+      "w"
+    ],
+    [
+      0.120067,
+      " "
+    ],
+    [
+      0.215840,
+      "r"
+    ],
+    [
+      0.072164,
+      "e"
+    ],
+    [
+      0.143972,
+      "l"
+    ],
+    [
+      0.103839,
+      "e"
+    ],
+    [
+      0.120065,
+      "a"
+    ],
+    [
+      0.159951,
+      "s"
+    ],
+    [
+      0.119939,
+      "e"
+    ],
+    [
+      0.104118,
+      " "
+    ],
+    [
+      0.447986,
+      "s"
+    ],
+    [
+      0.239995,
+      "t"
+    ],
+    [
+      0.111918,
+      "a"
+    ],
+    [
+      0.112051,
+      "r"
+    ],
+    [
+      0.247908,
+      "t"
+    ],
+    [
+      0.072090,
+      " "
+    ],
+    [
+      1.743927,
+      "v"
+    ],
+    [
+      1.000333,
+      "3"
+    ],
+    [
+      0.183581,
+      "6"
+    ],
+    [
+      0.255693,
+      "."
+    ],
+    [
+      0.272145,
+      "0"
+    ],
+    [
+      1.208215,
+      "\r\n"
+    ],
+    [
+      0.484026,
+      "Switched to a new branch 'release/v36.0'\r\n"
+    ],
+    [
+      0.001025,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "Summary of actions:\r\n"
+    ],
+    [
+      0.000052,
+      "- A new branch 'release/v36.0' was created, based on 'develop'\r\n"
+    ],
+    [
+      0.000009,
+      "- You are now on branch 'release/v36.0'\r\n\r\n"
+    ],
+    [
+      0.000022,
+      "Follow-up actions:\r\n"
+    ],
+    [
+      0.000016,
+      "- Bump the version number now!\r\n"
+    ],
+    [
+      0.000031,
+      "- Start committing last-minute fixes in preparing your release\r\n"
+    ],
+    [
+      0.000040,
+      "- When done, run:\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "     git flow release finish 'v36.0'\r\n\r\n"
+    ],
+    [
+      0.000895,
+      "bash-3.2$ "
+    ],
+    [
+      1.289293,
+      "v"
+    ],
+    [
+      0.184086,
+      "i"
+    ],
+    [
+      0.111873,
+      " "
+    ],
+    [
+      0.776003,
+      "V"
+    ],
+    [
+      0.152056,
+      "E"
+    ],
+    [
+      0.071851,
+      "R"
+    ],
+    [
+      0.288098,
+      "SION "
+    ],
+    [
+      0.608037,
+      "\r\n"
+    ],
+    [
+      0.133852,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.003518,
+      "\u001b[1;32r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[32;1H\"VERSION\""
+    ],
+    [
+      0.000353,
+      " 1L, 6C"
+    ],
+    [
+      0.001615,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000729,
+      "\u001b[1;1Hv35.2\r\n\u001b[94m~                                                                                                                                        \u001b[3;1H~                                                                                                                                        \u001b[4;1H~                                                                                                                                        \u001b[5;1H~                                                                                                                                        \u001b[6;1H~                                                                                                                                        \u001b[7;1H~                                                                                                                                        \u001b[8;1H~                                                                                                                                        \u001b[9;1H~    "
+    ],
+    [
+      0.000030,
+      "                                                                                                                                    \u001b[10;1H~                                                                                                                                        \u001b[11;1H~                                                                                                                                        \u001b[12;1H~                                                                                                                                        \u001b[13;1H~                                                                                                                                        \u001b[14;1H~                                                                                                                                        \u001b[15;1H~                                                                                                                                        \u001b[16;1H~                   "
+    ],
+    [
+      0.000082,
+      "                                                                                                                     \u001b[17;1H~                                                                                                                                        \u001b[18;1H~                                                                                                                                        \u001b[19;1H~                                                                                                                                        \u001b[20;1H~                                                                                                                                        \u001b[21;1H~                                                                                                                                        \u001b[22;1H~                                                                                                                                        \u001b[23;1H~                                   "
+    ],
+    [
+      0.000078,
+      "                                                                                                     \u001b[24;1H~                                                                                                                                        \u001b[25;1H~                                                                                                                                        \u001b[26;1H~                                                                                                                                        \u001b[27;1H~                                                                                                                                        \u001b[28;1H~                                                                                                                                        \u001b[29;1H~                                                                                                                                        \u001b[30;1H~                                                   "
+    ],
+    [
+      0.000101,
+      "                                                                                     \u001b[31;1H~                                                                                                                                        \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.291569,
+      "\u001b[mv"
+    ],
+    [
+      0.495873,
+      "\u001b[?25l\u001b[32;1H\u001b[1m-- INSERT --\u001b[m\u001b[32;13H\u001b[K\u001b[1;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.839900,
+      "3"
+    ],
+    [
+      0.328051,
+      "\u001b[?25l\u00083.2\u001b[1;5H\u001b[K\u001b[1;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200000,
+      "\u001b[?25l\u000832\u001b[1;4H\u001b[K\u001b[1;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.759900,
+      "\u001b[?25l\u001b[1;3H\u001b[K\u001b[1;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.448179,
+      "\u001b[?25l\u000836\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223648,
+      "\u001b[?25l\u00086.\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.256013,
+      "\u001b[?25l\u0008.0\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.617866,
+      "\u001b[32;1H\u001b[K\u001b[1;5H"
+    ],
+    [
+      0.350041,
+      "\u001b[?25l"
+    ],
+    [
+      0.000128,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[32;1H:"
+    ],
+    [
+      0.000044,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.263781,
+      "w"
+    ],
+    [
+      0.040541,
+      "q"
+    ],
+    [
+      0.631149,
+      "\r"
+    ],
+    [
+      0.000038,
+      "\u001b[?25l"
+    ],
+    [
+      0.000059,
+      "\"VERSION\""
+    ],
+    [
+      0.008083,
+      " 1L, 6C written"
+    ],
+    [
+      0.001525,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000732,
+      "bash-3.2$ "
+    ],
+    [
+      1.237616,
+      "v"
+    ],
+    [
+      0.135883,
+      "i"
+    ],
+    [
+      0.112174,
+      " "
+    ],
+    [
+      0.231908,
+      "C"
+    ],
+    [
+      0.184000,
+      "H"
+    ],
+    [
+      0.279985,
+      "ANGELOG "
+    ],
+    [
+      0.367952,
+      "\r\n"
+    ],
+    [
+      0.015096,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.001326,
+      "\u001b[1;32r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[32;1H\"CHANGELOG\""
+    ],
+    [
+      0.007607,
+      " 46L, 578C"
+    ],
+    [
+      0.000867,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000372,
+      "\u001b[1;1Hv35.2:\r\n- Correct merge for v35.1\r\n\r\nv35.1:\r\n- Hotfix for 5.5 incompatibility\r\n\r\nv35.0:\r\n- Planned release\r\n\r\nv34.0:\r\n- Planned release\r\n\r\nv33.1:\r\n- Replacement release for failed v33.0\r\n\r\nv33.0:\r\n- Planned release\r\n\r\nv32.0:\r\n- Planned release\r\n\r\nv31.0:\r\n- Planned release\r\n\r\nv30.1:\r\n- Hotfix for IntelliTXT script url\r\n\r\nv30.0:\r\n- Planned release\r\n\r\nv29.4:\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.846643,
+      "\u001b[?25l\u001b[32;1H\u001b[1m-- INSERT --\u001b[m\u001b[32;13H\u001b[K"
+    ],
+    [
+      0.000005,
+      "\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.536120,
+      "\u001b[?25l\u001b[2;31r\u001b[2;1H\u001b[L\u001b[1;32r\u001b[1;1H\u001b[K\u001b[2;1Hv35.2:\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.239845,
+      "\u001b[?25l\u001b[3;31r\u001b[3;1H\u001b[L\u001b[1;32r\u001b[2;1H\u001b[K\u001b[3;1Hv35.2:\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.279889,
+      "\u001b[2;1H"
+    ],
+    [
+      0.232066,
+      "\u001b[1;1H"
+    ],
+    [
+      0.975864,
+      "\u001b[?25lv\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.440104,
+      "\u001b[?25l\u0008v3\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.199854,
+      "\u001b[?25l\u000836\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223901,
+      "\u001b[?25l\u00086.\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.272196,
+      "\u001b[?25l\u0008.0\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.303790,
+      "\u001b[?25l\u00080:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.328050,
+      "\u001b[?25l\u001b[2;31r\u001b[2;1H\u001b[L\u001b[1;32r\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.688012,
+      "\u001b[?25l-\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127903,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.759864,
+      "\u001b[?25l\u0008 P\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192014,
+      "\u001b[?25l\u0008Pl\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104113,
+      "\u001b[?25l\u0008la\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.247925,
+      "\u001b[?25l\u0008an\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160918,
+      "\u001b[?25l\u0008nn\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094992,
+      "\u001b[?25l\u0008ne\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208002,
+      "\u001b[?25l\u0008ed\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080184,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.239609,
+      "\u001b[?25l\u0008 r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.288203,
+      "\u001b[?25l\u0008re\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159880,
+      "\u001b[?25l\u0008el\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087971,
+      "\u001b[?25l\u0008le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.224297,
+      "\u001b[?25l\u0008ea\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.743653,
+      "\u001b[?25l\u0008as\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191910,
+      "\u001b[?25l\u0008se\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.426401,
+      "\u001b[32;1H\u001b[K\u001b[2;17H"
+    ],
+    [
+      0.253460,
+      "\u001b[?25l"
+    ],
+    [
+      0.000177,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[32;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.215881,
+      "w"
+    ],
+    [
+      0.088463,
+      "q"
+    ],
+    [
+      0.159517,
+      "\r"
+    ],
+    [
+      0.000028,
+      "\u001b[?25l"
+    ],
+    [
+      0.000069,
+      "\"CHANGELOG\""
+    ],
+    [
+      0.000742,
+      " 49L, 604C written"
+    ],
+    [
+      0.000957,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000826,
+      "bash-3.2$ "
+    ],
+    [
+      1.021236,
+      "g"
+    ],
+    [
+      0.112039,
+      "i"
+    ],
+    [
+      0.072105,
+      "t"
+    ],
+    [
+      0.063857,
+      " "
+    ],
+    [
+      0.136025,
+      "a"
+    ],
+    [
+      0.215956,
+      "d"
+    ],
+    [
+      0.151930,
+      "d"
+    ],
+    [
+      0.072027,
+      " "
+    ],
+    [
+      0.647852,
+      "V"
+    ],
+    [
+      0.096457,
+      "E"
+    ],
+    [
+      0.119659,
+      "R"
+    ],
+    [
+      0.335960,
+      " "
+    ],
+    [
+      0.423967,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112083,
+      "SION "
+    ],
+    [
+      0.935956,
+      "C"
+    ],
+    [
+      0.231734,
+      "H"
+    ],
+    [
+      0.248191,
+      "ANGELOG "
+    ],
+    [
+      0.903797,
+      "\r\n"
+    ],
+    [
+      0.017482,
+      "bash-3.2$ "
+    ],
+    [
+      0.734401,
+      "g"
+    ],
+    [
+      0.208008,
+      "i"
+    ],
+    [
+      0.096066,
+      "t"
+    ],
+    [
+      0.047935,
+      " "
+    ],
+    [
+      0.199992,
+      "c"
+    ],
+    [
+      0.152053,
+      "o"
+    ],
+    [
+      0.255833,
+      "m"
+    ],
+    [
+      0.152026,
+      "m"
+    ],
+    [
+      0.087994,
+      "i"
+    ],
+    [
+      0.120011,
+      "t"
+    ],
+    [
+      0.063912,
+      " "
+    ],
+    [
+      0.264087,
+      "-"
+    ],
+    [
+      0.295858,
+      "m"
+    ],
+    [
+      0.224210,
+      " "
+    ],
+    [
+      0.327821,
+      "\""
+    ],
+    [
+      0.168132,
+      "\""
+    ],
+    [
+      0.543809,
+      "\u0008"
+    ],
+    [
+      1.159949,
+      "B\"\u0008"
+    ],
+    [
+      0.183780,
+      "u\"\u0008"
+    ],
+    [
+      0.200171,
+      "m\"\u0008"
+    ],
+    [
+      0.167911,
+      "p\"\u0008"
+    ],
+    [
+      0.257052,
+      "i\"\u0008"
+    ],
+    [
+      0.110918,
+      "n\"\u0008"
+    ],
+    [
+      0.095990,
+      "g\"\u0008"
+    ],
+    [
+      0.063990,
+      " \"\u0008"
+    ],
+    [
+      0.224122,
+      "v\"\u0008"
+    ],
+    [
+      0.112008,
+      "e\"\u0008"
+    ],
+    [
+      0.111869,
+      "r\"\u0008"
+    ],
+    [
+      0.192060,
+      "s\"\u0008"
+    ],
+    [
+      0.127864,
+      "i\"\u0008"
+    ],
+    [
+      0.056170,
+      "o\"\u0008"
+    ],
+    [
+      0.127901,
+      "n\"\u0008"
+    ],
+    [
+      0.551877,
+      "\r\n"
+    ],
+    [
+      0.023922,
+      "[release/v36.0 5e09258] Bumping version\r\n"
+    ],
+    [
+      0.000679,
+      " 2 files changed, 4 insertions(+), 1 deletion(-)\r\n"
+    ],
+    [
+      0.000702,
+      "bash-3.2$ "
+    ],
+    [
+      1.814773,
+      "git commit -m \"Bumping version\""
+    ],
+    [
+      0.199787,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[5Padd VERSION CHANGELOG "
+    ],
+    [
+      0.176129,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[13Pvi\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.175908,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[2PVERSION\u001b[C"
+    ],
+    [
+      0.384009,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008git flow release start v36.0"
+    ],
+    [
+      1.007838,
+      "\u0008"
+    ],
+    [
+      0.500973,
+      "\u0008"
+    ],
+    [
+      0.083426,
+      "\u0008"
+    ],
+    [
+      0.084625,
+      "\u0008"
+    ],
+    [
+      0.084058,
+      "\u0008"
+    ],
+    [
+      0.422733,
+      "\u0008"
+    ],
+    [
+      0.199837,
+      "\u0008\u001b[1P v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.128193,
+      "\u0008\u001b[1P v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.143966,
+      "\u0008\u001b[1P v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.208048,
+      "\u0008\u001b[1P v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.279988,
+      "\u0008\u001b[1P v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.375702,
+      "f v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.184308,
+      "i v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.215845,
+      "n v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.152269,
+      "i v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.407616,
+      "s v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.216089,
+      "h v36.0\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      2.183716,
+      "\r\n"
+    ],
+    [
+      0.487225,
+      "M\tdrupal-make\r\nM\tpuppet\r\n"
+    ],
+    [
+      0.000854,
+      "Switched to branch 'master'\r\n"
+    ],
+    [
+      0.002333,
+      "Your branch is behind 'origin/master' by 275 commits, and can be fast-forwarded.\r\n  (use \"git pull\" to update your local branch)\r\n"
+    ],
+    [
+      0.135400,
+      "Removing themes/bunte_mobile/sass/rebrush-2014/bunte/views/components/_caption-overrides.scss\r\nAuto-merging themes/bunte_mobile/sass/rebrush-2014/bunte/components/_video-channel-overrides.scss\r\nAuto-merging themes/bunte_mobile/sass/rebrush-2014/bunte/components/_teaser-list.scss\r\nAuto-merging themes/bunte_mobile/sass/rebrush-2014/bunte/components/_channel-block-overrides.scss\r\n"
+    ],
+    [
+      0.000022,
+      "Removing themes/bunte/sass/theme/overrides/views/components/_navigations.scss\r\nRemoving themes/bunte/sass/rebrush-2014/bunte/views/components/_type.scss\r\nRemoving themes/bunte/sass/rebrush-2014/bunte/views/components/_related-content.scss\r\nRemoving themes/bunte/sass/rebrush-2014/bunte/views/components/_css3.scss\r\nRemoving themes/bunte/sass/rebrush-2014/bunte/views/_layout.global.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/mixins/_mixins.bunte-misc.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/video/_video.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/video/_video-related-content.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/video/_video-channel.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/navigations/_navigation-top.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/navigations/_navigation-container.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_voting.scss\r\nAuto-merging themes"
+    ],
+    [
+      0.000173,
+      "/bunte/sass/rebrush-2014/bunte/components/_toolbar.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_teaser.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_regions.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_modal-overlay.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_misc.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_img.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_gallery-popup.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_footer.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_channel-block.scss\r\nAuto-merging themes/bunte/sass/rebrush-2014/bunte/components/_ads.scss\r\nRemoving themes/bunte/sass/rebrush-2014/bunte/_bootstrap.scss\r\nRemoving themes/bunte/images/rebrush-2014/sprite-global-s19a114d025.png\r\n"
+    ],
+    [
+      0.020044,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.001331,
+      "\u001b[1;32r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[32;1H\"~/Sites/bunte-application/.git/MERGE_MSG\""
+    ],
+    [
+      0.000050,
+      " 7L, 256C"
+    ],
+    [
+      0.001854,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000427,
+      "\u001b[1;1HMerge branch \u001b[95m'release/v36.0'\u001b[m\r\n\r\n\u001b[96m# Please enter a commit message to explain why this merge is necessary,\r\n# especially if it merges an updated upstream into a topic branch.\r\n#\r\n# Lines starting with '#' will be ignored, and an empty message aborts\r\n# the commit.\u001b[m\r\n\u001b[94m~                                                                                                                                        \u001b[9;1H~                                                                                                                                        \u001b[10;1H~                                                                                                                                        \u001b[11;1H~                                                                                                                                        \u001b[12;1H~                                                                                                                                        \u001b[13;1H~              "
+    ],
+    [
+      0.000145,
+      "                                                                                                                          \u001b[14;1H~                                                                                                                                        \u001b[15;1H~                                                                                                                                        \u001b[16;1H~                                                                                                                                        \u001b[17;1H~                                                                                                                                        \u001b[18;1H~                                                                                                                                        \u001b[19;1H~                                                                                                                                        \u001b[20;1H~                             "
+    ],
+    [
+      0.000087,
+      "                                                                                                           \u001b[21;1H~                                                                                                                                        \u001b[22;1H~                                                                                                                                        \u001b[23;1H~                                                                                                                                        \u001b[24;1H~                                                                                                                                        \u001b[25;1H~                                                                                                                                        \u001b[26;1H~                                                                                                                                        \u001b[27;1H~                                             "
+    ],
+    [
+      0.000005,
+      "                                                                                           \u001b[28;1H~                                                                                                                                        \u001b[29;1H~                                                                                                                                        \u001b[30;1H~                                                                                                                                        \u001b[31;1H~                                                                                                                                        \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.213882,
+      "\u0007\u001b[?25l\u001b[m\u001b[32;1H\u001b[K\u001b[32;1H:"
+    ],
+    [
+      0.000005,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208256,
+      "w"
+    ],
+    [
+      0.087944,
+      "q"
+    ],
+    [
+      0.423726,
+      "\r"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000078,
+      "\".git/MERGE_MSG\""
+    ],
+    [
+      0.008493,
+      " 7L, 256C written"
+    ],
+    [
+      0.001050,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001681,
+      "Merge made by the 'recursive' strategy.\r\n"
+    ],
+    [
+      0.058622,
+      " CHANGELOG                                                                              |   12 \u001b[32m+\u001b[m\r\n VERSION                                                                                |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n bunte-make.ini                                                                         |    9 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n drupal-make                                                                            |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_content_forms/bunte_content_forms.module                          |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../bunte_content_forms/bunte_content_forms_article/bunte_content_forms_article.module |    2 \u001b[32m+\u001b[m\r\n"
+    ],
+    [
+      0.000042,
+      " .../bunte_content_forms/bunte_content_forms_gallery/bunte_content_forms_gallery.module |    3 \u001b[31m-\u001b[m\r\n .../bunte_content_forms/bunte_content_forms_video/bunte_content_forms_video.module     |   34 \u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/bunte_panels.module                                        |   59 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/article_author.inc                   |    7 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/article_people_box.inc               |  194 \u001b[32m++++\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/article_plista.inc                   |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/people_biography.inc                 |   39 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/people_biography_short.inc           |   32 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/people_data.inc                      |  165 \u001b[32m+++\u001b[m\r\n modules/custom/bunte_panels/plugins/c"
+    ],
+    [
+      0.000213,
+      "ontent_types/people_headline.inc                  |   32 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/people_image.inc                     |   54 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/people_related_stars.inc             |   97 \u001b[32m++\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/related_articles_more.inc            |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/plugins/content_types/social_feeds_instagram.inc           |   43 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/theme/article-content-share.tpl.php                        |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/theme/article-people-box.tpl.php                           |   80 \u001b[32m++\u001b[m\r\n modules/custom/bunte_panels/theme/bunte-article-headline.tpl.php                       |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/theme/bunte-article-image.tpl.php                          |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/theme/most-popular-articles.tpl.php      "
+    ],
+    [
+      0.000106,
+      "                  |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/theme/people-biography-short.tpl.php                       |    3 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/theme/people-biography.tpl.php                             |    3 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/theme/people-data.tpl.php                                  |   56 \u001b[32m++\u001b[m\r\n modules/custom/bunte_panels/theme/people-headline.tpl.php                              |    2 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/theme/people-image.tpl.php                                 |    3 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/theme/people-related.tpl.php                               |   20 \u001b[32m+\u001b[m\r\n modules/custom/bunte_panels/theme/related-articles-more.tpl.php                        |   35 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_panels/theme/related-articles-top.tpl.php                         |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/custom/bunte_social/bunte_social.info                                          |    5 \u001b[32m+\u001b[m\r\n modul"
+    ],
+    [
+      0.000182,
+      "es/custom/bunte_social/bunte_social.install                                       |   15 \u001b[32m+\u001b[m\r\n modules/custom/bunte_social/bunte_social.module                                        |  195 \u001b[32m++++\u001b[m\r\n modules/custom/bunte_social/instagram.inc                                              |   65 \u001b[32m++\u001b[m\r\n modules/features/bunte/bunte_admin/bunte_admin.info                                    |    1 \u001b[32m+\u001b[m\r\n modules/features/bunte/bunte_admin/bunte_admin.views_default.inc                       |  296 \u001b[32m++++\u001b[m\u001b[31m--\u001b[m\r\n modules/features/bunte/bunte_ads/bunte_ads.module                                      |    5 \u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_ads/bunte_ads.strongarm.inc                               |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_author/bunte_author.views_default.inc                     |    1 \u001b[32m+\u001b[m\r\n modules/features/bunte/bunte_dossier/theme/dossier_header.tpl.php                      |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_gallery/the"
+    ],
+    [
+      0.000099,
+      "me/stand-alone-gallery.tpl.php                 |    9 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_nodequeue/bunte_nodequeue.module                          |   34 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_seo/bunte_seo.features.metatag.inc                        |   22 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_starcontrol/bunte-starcontrol-header.tpl.php              |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_starcontrol/bunte_starcontrol.info                        |    9 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_starcontrol/bunte_starcontrol.module                      |  195 \u001b[32m++++\u001b[m\r\n modules/features/bunte/bunte_starcontrol/bunte_starcontrol.pages_default.inc           |   43 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_starcontrol/bunte_starcontrol.strongarm.inc               |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_starcontrol/bunte_starcontrol.views_default.inc           |  918 \u001b[32m++++++++++++++++\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bun"
+    ],
+    [
+      0.000159,
+      "te/bunte_taxonomy/bunte_taxonomy.features.field_base.inc           |  112 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.features.field_instance.inc       |  302 \u001b[32m+++++\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.features.inc                      |    3 \u001b[32m+\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.field_group.inc                   |   70 \u001b[32m++\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.info                              |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.module                            |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.pages_default.inc                 |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.relation_type_default.inc         |   68 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_taxonomy/bunte_taxonomy.views_default.inc                 |  129 \u001b[32m+\u001b[m\u001b[31m--\u001b[m\r\n modules/features/bun"
+    ],
+    [
+      0.000122,
+      "te/bunte_video/theme/flowplayer.tpl.php                            |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/bunte/bunte_video/theme/related-videos.tpl.php                        |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n modules/features/config/bunte_config_default/bunte_config_default.install              |   56 \u001b[32m++\u001b[m\r\n modules/features/config/bunte_config_default/bunte_config_default.module               |   61 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n puppet                                                                                 |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/config.rb                                                                 |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/fonts/ionicons/ionicons.eot                                               |  Bin \u001b[31m0\u001b[m -\u003e \u001b[32m120724\u001b[m bytes\r\n themes/bunte/fonts/ionicons/ionicons.svg                                               | 2230 \u001b[32m+++++++++++++++++++++++++++++++++++++++++\u001b[m\r\n themes/bunte/fonts/ionicons/ionicons.ttf                                              "
+    ],
+    [
+      0.000103,
+      " |  Bin \u001b[31m0\u001b[m -\u003e \u001b[32m188508\u001b[m bytes\r\n themes/bunte/fonts/ionicons/ionicons.woff                                              |  Bin \u001b[31m0\u001b[m -\u003e \u001b[32m67904\u001b[m bytes\r\n themes/bunte/images/rebrush-2014/sprite-global-s19a114d025.png                         |  Bin \u001b[31m27855\u001b[m -\u003e \u001b[32m0\u001b[m bytes\r\n themes/bunte/images/rebrush-2014/sprite-global-sb7b5afb7b4.png                         |  Bin \u001b[31m0\u001b[m -\u003e \u001b[32m68916\u001b[m bytes\r\n themes/bunte/images/rebrush-2014/sprite-global/icon-socials-instagram.png              |  Bin \u001b[31m0\u001b[m -\u003e \u001b[32m41691\u001b[m bytes\r\n themes/bunte/js/navigation.js                                                          |   18 \u001b[32m+\u001b[m\r\n themes/bunte/js/{ =\u003e rebrush-2014}/ads.js                                              |    0\r\n themes/bunte/js/rebrush-2014/components/gallery-popup.js                               |    3 \u001b[32m+\u001b[m\r\n themes/bunte/js/rebrush-2014/components/gallery.js                                     |    5 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/components/m"
+    ],
+    [
+      0.000127,
+      "odal-overlay.js                               |   48 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/components/star-look.js                                   |   10 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/components/video.js                                       |  114 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/lib/idangerous.swiper.js                                  |   11 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/lib/instreamapi.flowplayer-2.3.0.min.js                   |  119 \u001b[32m+++\u001b[m\r\n themes/bunte/js/rebrush-2014/lib/instreamapi.flowplayer-2.3.1.min.js                   |  119 \u001b[32m+++\u001b[m\r\n themes/bunte/js/rebrush-2014/lib/instreamapi.flowplayer-2.3.2.min.js                   |  120 \u001b[32m+++\u001b[m\r\n themes/bunte/js/rebrush-2014/script.js                                                 |   11 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/tfm.js                                                    |   17 \u001b[32m+\u001b[m\r\n themes/bunte/js/rebrush-2014/tracking.js                   "
+    ],
+    [
+      0.000123,
+      "                            |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/utils/common-utils.js                                     |    6 \u001b[31m-\u001b[m\r\n themes/bunte/js/rebrush-2014/utils/update-utils.js                                     |  115 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/js/script.js                                                              |    4 \u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_article/panels-bunte-article.tpl.php                        |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_author_page/panels-bunte-author-page.tpl.php                |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_channel/panels-bunte-channel.tpl.php                        |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../bunte_gallery_template_standard/panels-bunte-gallery-template-standard.tpl.php     |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_generic_onecol/panels-bunte-generic-onecol.tpl.php          |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_generic_twocol/panels-bunte-generic-tw"
+    ],
+    [
+      0.000127,
+      "ocol.tpl.php          |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_people/bunte_people.inc                                     |   24 \u001b[32m+\u001b[m\r\n themes/bunte/layouts/bunte_people/bunte_people.jpg                                     |  Bin \u001b[31m0\u001b[m -\u003e \u001b[32m9375\u001b[m bytes\r\n themes/bunte/layouts/bunte_people/panels-bunte-admin-people.tpl.php                    |   10 \u001b[32m+\u001b[m\r\n themes/bunte/layouts/bunte_people/panels-bunte-people.tpl.php                          |   53 \u001b[32m+\u001b[m\r\n .../bunte_special_template_standard/panels-bunte-special-template-standard.tpl.php     |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_star_look_home/panels-bunte-star-look-home.tpl.php          |   51 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_voting_article/panels-bunte-voting-article.tpl.php          |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/layouts/bunte_voting_home/panels-bunte-voting-home.tpl.php                |   24 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/_bunte-variables.scss                             "
+    ],
+    [
+      0.000142,
+      "                   |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/_common.scss                                                         |   22 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/_mixins.scss                                                         |   29 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/_shame.scss                                                          |  135 \u001b[32m+\u001b[m\u001b[31m--\u001b[m\r\n themes/bunte/sass/rebrush-2014/ads-adition.scss                                        |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/article.scss                                            |   11 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bootstrap-bunte.scss                                    |  134 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bootstrap/_grid.scss                                    |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bootstrap/_responsive-utilities.scss                    |  200 \u001b[32m++\u001b[m\u001b[31m--\u001b[m\r\n themes/bunte/sass/rebrush-2014/bootstrap/_variables.s"
+    ],
+    [
+      0.000152,
+      "css                               |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bootstrap/mixins/_grid-framework.scss                   |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bootstrap/mixins/_grid.scss                             |   20 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/_admin.scss                           |    0\r\n themes/bunte/sass/rebrush-2014/bunte/_bootstrap.scss                                   |   96 \u001b[31m--\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/_bunte-variables.scss                             |   20 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/_icons.scss                                       |   97 \u001b[32m++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/_layout.global.scss                               |  184 \u001b[32m++++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/_mixins.scss                                      |    5 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_ads.scss                  |   2"
+    ],
+    [
+      0.000055,
+      "8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/components/_avatar.scss                           |  112 \u001b[32m+++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_banderoles.scss           |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_breadcrumb.scss           |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_buttons.scss              |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_caption.scss              |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_channel-block.scss        |   45 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/components/_css3.scss                             |    7 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_edelight-products.scss    |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_footer.scss               |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_forms.scss      "
+    ],
+    [
+      0.000086,
+      "          |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_gallery-channel.scss      |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_gallery-popup.scss        |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_img.scss                  |   18 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_likegate-gallery.scss     |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_likegate.scss             |    0\r\n themes/bunte/sass/rebrush-2014/bunte/components/_list.scss                             |   85 \u001b[32m++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_media.scss                |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_misc.scss                 |   61 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_modal-overlay.scss        |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_mo"
+    ],
+    [
+      0.000068,
+      "st-popular.scss         |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_pager.scss                |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_regions.scss              |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/components/_related-content.scss                  |   75 \u001b[32m++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/components/_social-feeds.scss                     |  126 \u001b[32m+++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_socials.scss              |    0\r\n themes/bunte/sass/rebrush-2014/bunte/components/_summary.scss                          |   38 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_swiper.scss               |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_tags.scss                 |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_teaser.scss               |   64 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/compone"
+    ],
+    [
+      0.000092,
+      "nts/_toolbar.scss              |    9 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/components/_type.scss                             |  239 \u001b[32m+++++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_vinsight.scss             |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_voting.scss               |   13 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-container.scss   |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-dossier.scss     |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-main.scss   |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-top.scss    |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/video/_video-channel.scss  |   15 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/video/_video-related-content.scss   |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n t"
+    ],
+    [
+      0.000102,
+      "hemes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/video/_video-widget.scss   |    0\r\n themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/video/_video.scss          |   63 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/fonts/_global-fonts.scss                          |    2 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/_ionicons-font.scss                |   27 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/_ionicons-icons.scss               | 1473 \u001b[32m+++++++++++++++++++++++++++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/_ionicons-variables.scss           |  741 \u001b[32m++++++++++++++\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/ionicons.scss                      |    3 \u001b[32m+\u001b[m\r\n .../rebrush-2014/bunte/mixins/{_mixins.bunte-layout.scss =\u003e _mixins.bunte-misc.scss}   |   21 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/mixins/_mixins.buttons.scss                       |    7 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrus"
+    ],
+    [
+      0.000101,
+      "h-2014/bunte/mixins/_mixins.css3.scss                          |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/mixins/_mixins.grid.scss                          |   34 \u001b[32m+\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/mixins/_mixins.icons.scss                         |   26 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/mixins/_mixins.layout.scss                        |   25 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/mixins/_mixins.type.scss                          |    1 \u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/rebrush-helper/_helper.scss                       |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/rebrush-helper/_helper.type.scss                  |  384 \u001b[32m+++\u001b[m\u001b[31m----\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/views/_layout.global.scss                         |   90 \u001b[31m--\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/views/components/_css3.scss                       |    3 \u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/views/"
+    ],
+    [
+      0.000127,
+      "components/_related-content.scss            |   37 \u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/bunte/views/components/_type.scss                       |    2 \u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/global.scss                                             |   78 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/home.scss                                               |   38 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/rebrush-2014/people.scss                                             |  101 \u001b[32m++\u001b[m\r\n themes/bunte/sass/rebrush-2014/videos.scss                                             |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/screen.scss                                                          |   18 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_author-page.scss                                              |   25 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_basic-page.scss                                               |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_channel-block.scss               "
+    ],
+    [
+      0.000102,
+      "                             |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_channel-page.scss                                             |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_horoscope.scss                                                |   32 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_main-presenter.scss                                           |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_news-page.scss                                                |    9 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_search-page.scss                                              |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_special-page.scss                                             |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/sass/theme/_star-control.scss                                             |    1 \u001b[32m+\u001b[m\r\n themes/bunte/sass/theme/_star-look.scss                                                |  153 \u001b[32m+\u001b[m\u001b[31m--\u001b[m\r\n themes/bunte/sass/theme/overrides/views/components/_nav"
+    ],
+    [
+      0.000111,
+      "igations.scss                   |   22 \u001b[31m-\u001b[m\r\n themes/bunte/template.php                                                              |   44 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/author_page/views-view-fields--author-artikel.tpl.php           |   53 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/author_page/views-view-fields--author-views--social.tpl.php     |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/bunte_social/instagram_timeline.tpl.php                         |   60 \u001b[32m++\u001b[m\r\n themes/bunte/templates/bunte_social/twitter_status.tpl.php                             |   43 \u001b[32m+\u001b[m\r\n .../bunte/templates/bunte_social/views-view--bunte-tweets--star-control-panel.tpl.php  |   27 \u001b[32m+\u001b[m\r\n .../templates/bunte_social/views-view-fields--bunte-tweets--star-control-panel.tpl.php |   40 \u001b[32m+\u001b[m\r\n .../bunte_social/views-view-unformatted--bunte-tweets--star-control-panel.tpl.php      |    4 \u001b[32m+\u001b[m\r\n themes/bunte/templates/channel_page/views-view--channel-views--video.tpl.php           |    4 \u001b[3"
+    ],
+    [
+      0.000077,
+      "2m+\u001b[m\u001b[31m-\u001b[m\r\n .../bunte/templates/channel_page/views-view-unformatted--channel-views--top5.tpl.php   |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../bunte/templates/channel_page/views-view-unformatted--channel-views--video.tpl.php  |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/gallery/views-view-fields--gallery--gallery-list.tpl.php        |   21 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/gallery/views-view-unformatted--gallery--top5.tpl.php           |   14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../templates/gallery_list/views-view-fields--bunte-galleries--teaser-list.tpl.php     |   64 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n ...ews-view-unformatted--bunte-nodequeue-home-top5--h733px-2-3-3spteaserrechts.tpl.php |   14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../views-view-unformatted--bunte-nodequeue-home-top5--h785px-2-3-2spteaser.tpl.php    |   14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n ...iews-view-unformatted--bunte-nodequeue-home-top5--h785px-2-3-3spteaserlinks.tpl.php |   14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../views-view-unformatted--bunte-nodequeue-home-top5--h785px-3-2-2spteaser.tpl.php   "
+    ],
+    [
+      0.000085,
+      " |   14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../views-view-unformatted--bunte-nodequeue-home-top5--h794px-dossier.tpl.php          |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n ...views-view-unformatted--bunte-nodequeue-home-top5--h938px-galeriehochformat.tpl.php |   12 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/html.tpl.php                                                    |    2 \u001b[32m+\u001b[m\r\n themes/bunte/templates/menu/block--menu--menu-bunte-shortcuts.tpl.php                  |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/menu_views/views-view-list--menu-views.tpl.php                  |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/node--teaser.tpl.php                                            |   32 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../templates/node_special/views-view-unformatted--node-special-views--top5.tpl.php    |   22 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/starcontrol/views-view--glossar-people--panel-pane.tpl.php      |    2 \u001b[32m+\u001b[m\r\n themes/bunte/templates/starcontrol/views-view--glossar-people.tpl.php                  |    5"
+    ],
+    [
+      0.000181,
+      " \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/starcontrol/views-view-list--glossar-people.tpl.php             |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/tags/views-view-unformatted--tag-views--top.tpl.php             |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/video/node--video--teaser.tpl.php                               |   14 \u001b[32m+\u001b[m\r\n themes/bunte/templates/video/panels-pane--video-views--video-special.tpl.php           |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/video/views-view--video-views--panel-pane.tpl.php               |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/video/views-view--video-views--video-nq-1.tpl.php               |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/video/views-view--video-views--video-nq-5.tpl.php               |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/video/views-view--video.tpl.php                                 |   29 \u001b[32m+\u001b[m\r\n themes/bunte/templates/video/views-view-unformatted--video-views--panel-pane.tpl.php   |    6 \u001b[32m+"
+    ],
+    [
+      0.000091,
+      "\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/video/views-view-unformatted--video-views--video-nq-5.tpl.php   |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte/templates/video/views-view-unformatted--video.tpl.php                     |   24 \u001b[32m+\u001b[m\r\n themes/bunte/templates/views-more--people-relatedcontent.tpl.php                       |    5 \u001b[32m+\u001b[m\r\n themes/bunte/templates/views-more.tpl.php                                              |    5 \u001b[32m+\u001b[m\r\n themes/bunte/templates/views-view--panel-pane.tpl.php                                  |   31 \u001b[32m+\u001b[m\r\n themes/bunte/templates/views-view--teaser-list.tpl.php                                 |   31 \u001b[32m+\u001b[m\r\n themes/bunte/templates/views-view-grid.tpl.php                                         |    9 \u001b[32m+\u001b[m\r\n themes/bunte_mobile/config.rb                                                          |   37 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte_mobile/layouts/bunte_mobil_page/panels-bunte-mobil-page.tpl.php           |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte_mobile/sass/_co"
+    ],
+    [
+      0.000134,
+      "nfig.scss                                                  |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte_mobile/sass/rebrush-2014/_article-overrides.scss                          |    6 \u001b[32m+\u001b[m\r\n themes/bunte_mobile/sass/rebrush-2014/_people-overrides.scss                           |   14 \u001b[32m+\u001b[m\r\n themes/bunte_mobile/sass/rebrush-2014/_video-overrides.scss                            |    1 \u001b[31m-\u001b[m\r\n themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_ads-overrides.scss |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_app-teaser-overlay.scss            |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_caption-overrides.scss             |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_channel-block-overrides.scss       |   14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_edelight-products-overrides.scss   |    0\r\n themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_fan-overlay.scss   |    0\r\n .../sass/rebrush-2014/bu"
+    ],
+    [
+      0.000072,
+      "nte/{views =\u003e }/components/_gallery-channel-overrides.scss     |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_gallery-popup-overrides.scss       |    0\r\n themes/bunte_mobile/sass/rebrush-2014/bunte/components/_misc-overrides.scss            |    7 \u001b[32m+\u001b[m\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_navigation-dossier-overrides.scss  |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_related-content-overrides.scss     |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_socials-overrides.scss             |    0\r\n themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_teaser-list.scss   |   21 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_teaser-overrides.scss |    0\r\n .../sass/rebrush-2014/bunte/{views =\u003e }/components/_video-channel-overrides.scss       |   13 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte_mobile/sass/screen.scss                                                   |   40 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte_mobile/s"
+    ],
+    [
+      0.000101,
+      "ass/theme/_channel-page-overrides.scss                            |    1 \u001b[31m-\u001b[m\r\n themes/bunte_mobile/template.php                                                       |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../bunte_content_blocks/bunte-content-blocks--video-teaser-container.tpl.php          |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte_mobile/templates/bunte_dossier/dossier_header.tpl.php                     |    8 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../templates/bunte_video/views-view-unformatted--video-views--video-nq-5.tpl.php      |   40 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n themes/bunte_mobile/templates/special/panels-bunte-special-template-standard.tpl.php   |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n 271 files changed, 11264 insertions(+), 2005 deletions(-)\r\n"
+    ],
+    [
+      0.000077,
+      " create mode 100644 modules/custom/bunte_panels/plugins/content_types/article_people_box.inc\r\n create mode 100644 modules/custom/bunte_panels/plugins/content_types/people_biography.inc\r\n create mode 100644 modules/custom/bunte_panels/plugins/content_types/people_biography_short.inc\r\n create mode 100644 modules/custom/bunte_panels/plugins/content_types/people_data.inc\r\n create mode 100644 modules/custom/bunte_panels/plugins/content_types/people_headline.inc\r\n create mode 100644 modules/custom/bunte_panels/plugins/content_types/people_image.inc\r\n create mode 100644 modules/custom/bunte_panels/plugins/content_types/people_related_stars.inc\r\n create mode 100644 modules/custom/bunte_panels/plugins/content_types/social_feeds_instagram.inc\r\n create mode 100644 modules/custom/bunte_panels/theme/article-people-box.tpl.php\r\n"
+    ],
+    [
+      0.000075,
+      " create mode 100644 modules/custom/bunte_panels/theme/people-biography-short.tpl.php\r\n create mode 100644 modules/custom/bunte_panels/theme/people-biography.tpl.php\r\n create mode 100644 modules/custom/bunte_panels/theme/people-data.tpl.php\r\n create mode 100644 modules/custom/bunte_panels/theme/people-headline.tpl.php\r\n create mode 100644 modules/custom/bunte_panels/theme/people-image.tpl.php\r\n create mode 100644 modules/custom/bunte_panels/theme/people-related.tpl.php\r\n create mode 100644 modules/custom/bunte_social/bunte_social.info\r\n create mode 100644 modules/custom/bunte_social/bunte_social.install\r\n create mode 100644 modules/custom/bunte_social/bunte_social.module\r\n create mode 100644 modules/custom/bunte_social/instagram.inc\r\n create mode 100644 modules/features/bunte/bunte_taxonomy/bunte_taxonomy.field_group.inc\r\n create mode 100755 themes/bunte/fonts/ionicons/ionicons.eot\r\n create mode 100755 themes/bunte/fonts/ionicons/ionicons.svg\r\n create mode 100755 themes/bunte/fonts/ionicons/ionicons.ttf\r\n crea"
+    ],
+    [
+      0.000095,
+      "te mode 100755 themes/bunte/fonts/ionicons/ionicons.woff\r\n delete mode 100644 themes/bunte/images/rebrush-2014/sprite-global-s19a114d025.png\r\n create mode 100644 themes/bunte/images/rebrush-2014/sprite-global-sb7b5afb7b4.png\r\n create mode 100644 themes/bunte/images/rebrush-2014/sprite-global/icon-socials-instagram.png\r\n rename themes/bunte/js/{ =\u003e rebrush-2014}/ads.js (100%)\r\n create mode 100644 themes/bunte/js/rebrush-2014/lib/instreamapi.flowplayer-2.3.0.min.js\r\n create mode 100644 themes/bunte/js/rebrush-2014/lib/instreamapi.flowplayer-2.3.1.min.js\r\n create mode 100644 themes/bunte/js/rebrush-2014/lib/instreamapi.flowplayer-2.3.2.min.js\r\n create mode 100644 themes/bunte/js/rebrush-2014/tfm.js\r\n create mode 100644 themes/bunte/layouts/bunte_people/bunte_people.inc\r\n create mode 100644 themes/bunte/layouts/bunte_people/bunte_people.jpg\r\n create mode 100644 themes/bunte/layouts/bunte_people/panels-bunte-admin-people.tpl.php\r\n create mode 100644 themes/bunte/layouts/bunte_people/panels-bunte-people.tpl.php\r\n r"
+    ],
+    [
+      0.000126,
+      "ename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/_admin.scss (100%)\r\n delete mode 100644 themes/bunte/sass/rebrush-2014/bunte/_bootstrap.scss\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/_layout.global.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_ads.scss (87%)\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/components/_avatar.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_banderoles.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_breadcrumb.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_buttons.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_caption.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_channel-block.scss (86%)\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/components/_css3.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_edelight-products.sc"
+    ],
+    [
+      0.000112,
+      "ss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_footer.scss (98%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_forms.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_gallery-channel.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_gallery-popup.scss (94%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_img.scss (52%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_likegate-gallery.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_likegate.scss (100%)\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/components/_list.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_media.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_misc.scss (53%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_modal-overlay.scss (95%)\r\n rename themes/bunte"
+    ],
+    [
+      0.000147,
+      "/sass/rebrush-2014/bunte/{views =\u003e }/components/_most-popular.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_pager.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_regions.scss (88%)\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/components/_related-content.scss\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/components/_social-feeds.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_socials.scss (100%)\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/components/_summary.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_swiper.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_tags.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_teaser.scss (84%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_toolbar.scss (92%)\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/components"
+    ],
+    [
+      0.000051,
+      "/_type.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_vinsight.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/_voting.scss (97%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-container.scss (92%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-dossier.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-main.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/navigations/_navigation-top.scss (93%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/video/_video-channel.scss (92%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/video/_video-related-content.scss (91%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/video/_video-widget.scss (100%)\r\n rename themes/bunte/sass/rebrush-2014/bunte/{views =\u003e }/components/video/_v"
+    ],
+    [
+      0.000169,
+      "ideo.scss (87%)\r\n create mode 100755 themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/_ionicons-font.scss\r\n create mode 100755 themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/_ionicons-icons.scss\r\n create mode 100755 themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/_ionicons-variables.scss\r\n create mode 100755 themes/bunte/sass/rebrush-2014/bunte/fonts/ionicons/ionicons.scss\r\n rename themes/bunte/sass/rebrush-2014/bunte/mixins/{_mixins.bunte-layout.scss =\u003e _mixins.bunte-misc.scss} (76%)\r\n create mode 100644 themes/bunte/sass/rebrush-2014/bunte/mixins/_mixins.grid.scss\r\n delete mode 100644 themes/bunte/sass/rebrush-2014/bunte/views/_layout.global.scss\r\n delete mode 100644 themes/bunte/sass/rebrush-2014/bunte/views/components/_css3.scss\r\n delete mode 100644 themes/bunte/sass/rebrush-2014/bunte/views/components/_related-content.scss\r\n delete mode 100644 themes/bunte/sass/rebrush-2014/bunte/views/components/_type.scss\r\n create mode 100644 themes/bunte/sass/rebrush-2014/people.scss\r\n delete mode 100644 t"
+    ],
+    [
+      0.000081,
+      "hemes/bunte/sass/theme/overrides/views/components/_navigations.scss\r\n create mode 100644 themes/bunte/templates/bunte_social/instagram_timeline.tpl.php\r\n create mode 100644 themes/bunte/templates/bunte_social/twitter_status.tpl.php\r\n create mode 100644 themes/bunte/templates/bunte_social/views-view--bunte-tweets--star-control-panel.tpl.php\r\n create mode 100644 themes/bunte/templates/bunte_social/views-view-fields--bunte-tweets--star-control-panel.tpl.php\r\n create mode 100644 themes/bunte/templates/bunte_social/views-view-unformatted--bunte-tweets--star-control-panel.tpl.php\r\n create mode 100644 themes/bunte/templates/starcontrol/views-view--glossar-people--panel-pane.tpl.php\r\n create mode 100644 themes/bunte/templates/video/node--video--teaser.tpl.php\r\n create mode 100644 themes/bunte/templates/video/views-view--video.tpl.php\r\n create mode 100644 themes/bunte/templates/video/views-view-unformatted--video.tpl.php\r\n create mode 100644 themes/bunte/templates/views-more--people-relatedcontent.tpl.php\r\n create mod"
+    ],
+    [
+      0.000096,
+      "e 100644 themes/bunte/templates/views-more.tpl.php\r\n create mode 100644 themes/bunte/templates/views-view--panel-pane.tpl.php\r\n create mode 100644 themes/bunte/templates/views-view--teaser-list.tpl.php\r\n create mode 100644 themes/bunte/templates/views-view-grid.tpl.php\r\n create mode 100644 themes/bunte_mobile/sass/rebrush-2014/_people-overrides.scss\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_ads-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_app-teaser-overlay.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_caption-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_channel-block-overrides.scss (90%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_edelight-products-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_fan-overlay.scss (100%)\r\n rename themes/bunte_mo"
+    ],
+    [
+      0.000070,
+      "bile/sass/rebrush-2014/bunte/{views =\u003e }/components/_gallery-channel-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_gallery-popup-overrides.scss (100%)\r\n create mode 100644 themes/bunte_mobile/sass/rebrush-2014/bunte/components/_misc-overrides.scss\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_navigation-dossier-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_related-content-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_socials-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_teaser-list.scss (63%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_teaser-overrides.scss (100%)\r\n rename themes/bunte_mobile/sass/rebrush-2014/bunte/{views =\u003e }/components/_video-channel-overrides.scss (73%)\r\n"
+    ],
+    [
+      0.066058,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.001270,
+      "\u001b[1;32r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[32;1H\"~/Sites/bunte-application/.git/TAG_EDITMSG\""
+    ],
+    [
+      0.000024,
+      " 4L, 68C"
+    ],
+    [
+      0.001041,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000431,
+      "\u001b[2;1H\u001b[96m#\r\n# Write a tag message\r\n# Lines starting with '#' will be ignored.\u001b[m\r\n\u001b[94m~                                                                                                                                        \u001b[6;1H~                                                                                                                                        \u001b[7;1H~                                                                                                                                        \u001b[8;1H~                                                                                                                                        \u001b[9;1H~                                                                                                                                        \u001b[10;1H~                                                                                                                                        \u001b[11;1H~                                                                          "
+    ],
+    [
+      0.000117,
+      "                                                              \u001b[12;1H~                                                                                                                                        \u001b[13;1H~                                                                                                                                        \u001b[14;1H~                                                                                                                                        \u001b[15;1H~                                                                                                                                        \u001b[16;1H~                                                                                                                                        \u001b[17;1H~                                                                                                                                        \u001b[18;1H~                                                                                          "
+    ],
+    [
+      0.000112,
+      "                                              \u001b[19;1H~                                                                                                                                        \u001b[20;1H~                                                                                                                                        \u001b[21;1H~                                                                                                                                        \u001b[22;1H~                                                                                                                                        \u001b[23;1H~                                                                                                                                        \u001b[24;1H~                                                                                                                                        \u001b[25;1H~                                                                                                          "
+    ],
+    [
+      0.000017,
+      "                              \u001b[26;1H~                                                                                                                                        \u001b[27;1H~                                                                                                                                        \u001b[28;1H~                                                                                                                                        \u001b[29;1H~                                                                                                                                        \u001b[30;1H~                                                                                                                                        \u001b[31;1H~                                                                                                                                        \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.920765,
+      "\u001b[?25l\u001b[m\u001b[32;1H\u001b[1m-- INSERT --\u001b[m\u001b[32;13H\u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.423934,
+      "\u001b[?25lT\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183881,
+      "\u001b[?25l\u0008Ta\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.248041,
+      "\u001b[?25l\u0008ag\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135936,
+      "\u001b[?25l\u0008gg\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120078,
+      "\u001b[?25l\u0008gi\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072462,
+      "\u001b[?25l\u0008in\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135465,
+      "\u001b[?25l\u0008ng\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088238,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.295704,
+      "\u001b[?25l\u0008 r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087890,
+      "\u001b[?25l\u0008re\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208108,
+      "\u001b[?25l\u0008el\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.071941,
+      "\u001b[?25l\u0008le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.112174,
+      "\u001b[?25l\u0008ea\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223738,
+      "\u001b[?25l\u0008as\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152049,
+      "\u001b[?25l\u0008se\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.601237,
+      "\u001b[32;1H\u001b[K\u001b[1;15H"
+    ],
+    [
+      0.294687,
+      "\u001b[?25l"
+    ],
+    [
+      0.000141,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[32;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.247709,
+      "w"
+    ],
+    [
+      0.087980,
+      "q"
+    ],
+    [
+      0.416104,
+      "\r"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000086,
+      "\".git/TAG_EDITMSG\""
+    ],
+    [
+      0.008476,
+      " 4L, 83C written"
+    ],
+    [
+      0.001016,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.219868,
+      "Switched to branch 'develop'\r\n"
+    ],
+    [
+      0.000308,
+      "Your branch is up-to-date with 'origin/develop'.\r\n"
+    ],
+    [
+      0.037786,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.001329,
+      "\u001b[1;32r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[32;1H\"~/Sites/bunte-application/.git/MERGE_MSG\""
+    ],
+    [
+      0.000060,
+      " 7L, 269C"
+    ],
+    [
+      0.000993,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000397,
+      "\u001b[1;1HMerge branch \u001b[95m'release/v36.0'\u001b[m into develop\r\n\r\n\u001b[96m# Please enter a commit message to explain why this merge is necessary,\r\n# especially if it merges an updated upstream into a topic branch.\r\n#\r\n# Lines starting with '#' will be ignored, and an empty message aborts\r\n# the commit.\u001b[m\r\n\u001b[94m~                                                                                                                                        \u001b[9;1H~                                                                                                                                        \u001b[10;1H~                                                                                                                                        \u001b[11;1H~                                                                                                                                        \u001b[12;1H~                                                                                                                                        \u001b[13;1H~ "
+    ],
+    [
+      0.000114,
+      "                                                                                                                                       \u001b[14;1H~                                                                                                                                        \u001b[15;1H~                                                                                                                                        \u001b[16;1H~                                                                                                                                        \u001b[17;1H~                                                                                                                                        \u001b[18;1H~                                                                                                                                        \u001b[19;1H~                                                                                                                                        \u001b[20;1H~                "
+    ],
+    [
+      0.000072,
+      "                                                                                                                        \u001b[21;1H~                                                                                                                                        \u001b[22;1H~                                                                                                                                        \u001b[23;1H~                                                                                                                                        \u001b[24;1H~                                                                                                                                        \u001b[25;1H~                                                                                                                                        \u001b[26;1H~                                                                                                                                        \u001b[27;1H~                                "
+    ],
+    [
+      0.000006,
+      "                                                                                                        \u001b[28;1H~                                                                                                                                        \u001b[29;1H~                                                                                                                                        \u001b[30;1H~                                                                                                                                        \u001b[31;1H~                                                                                                                                        \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.289229,
+      "\u0007\u001b[?25l\u001b[m\u001b[32;1H\u001b[K\u001b[32;1H:"
+    ],
+    [
+      0.000005,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.240116,
+      "w"
+    ],
+    [
+      0.079826,
+      "q"
+    ],
+    [
+      0.951759,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l"
+    ],
+    [
+      0.000053,
+      "\".git/MERGE_MSG\""
+    ],
+    [
+      0.002930,
+      " 7L, 269C written"
+    ],
+    [
+      0.001400,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000983,
+      "Merge made by the 'recursive' strategy.\r\n"
+    ],
+    [
+      0.005462,
+      " CHANGELOG | 3 \u001b[32m+++\u001b[m\r\n VERSION   | 2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n 2 files changed, 4 insertions(+), 1 deletion(-)\r\n"
+    ],
+    [
+      0.026335,
+      "Deleted branch release/v36.0 (was 5e09258).\r\n"
+    ],
+    [
+      0.000957,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Summary of actions:\r\n"
+    ],
+    [
+      0.000027,
+      "- Latest objects have been fetched from 'origin'\r\n"
+    ],
+    [
+      0.000028,
+      "- Release branch has been merged into 'master'\r\n"
+    ],
+    [
+      0.000108,
+      "- The release was tagged 'v36.0'\r\n"
+    ],
+    [
+      0.000004,
+      "- Release branch has been back-merged into 'develop'\r\n"
+    ],
+    [
+      0.000074,
+      "- Release branch 'release/v36.0' has been deleted\r\n"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000960,
+      "bash-3.2$ "
+    ],
+    [
+      1.520611,
+      "g"
+    ],
+    [
+      0.167973,
+      "i"
+    ],
+    [
+      0.088007,
+      "t"
+    ],
+    [
+      0.055895,
+      " "
+    ],
+    [
+      0.192076,
+      "p"
+    ],
+    [
+      0.231929,
+      "u"
+    ],
+    [
+      0.128128,
+      "s"
+    ],
+    [
+      0.151883,
+      "h"
+    ],
+    [
+      0.064380,
+      " "
+    ],
+    [
+      0.783650,
+      "-"
+    ],
+    [
+      0.271845,
+      "-"
+    ],
+    [
+      0.367881,
+      "a"
+    ],
+    [
+      0.200111,
+      "l"
+    ],
+    [
+      0.168003,
+      "l"
+    ],
+    [
+      0.223747,
+      "\r\n"
+    ],
+    [
+      0.872184,
+      "Counting objects: 73, done.\r\n"
+    ],
+    [
+      0.023776,
+      "Delta compression using up to 8 threads.\r\n"
+    ],
+    [
+      0.000037,
+      "Compressing objects:   7% (1/14)   \r"
+    ],
+    [
+      0.000029,
+      "Compressing objects:  14% (2/14)   \r"
+    ],
+    [
+      0.000017,
+      "Compressing objects:  21% (3/14)   \r"
+    ],
+    [
+      0.000480,
+      "Compressing objects:  28% (4/14)   \r"
+    ],
+    [
+      0.000508,
+      "Compressing objects:  35% (5/14)   \r"
+    ],
+    [
+      0.000155,
+      "Compressing objects:  42% (6/14)   \r"
+    ],
+    [
+      0.000064,
+      "Compressing objects:  50% (7/14)   \r"
+    ],
+    [
+      0.000004,
+      "Compressing objects:  57% (8/14)   \r"
+    ],
+    [
+      0.000139,
+      "Compressing objects:  64% (9/14)   \r"
+    ],
+    [
+      0.000090,
+      "Compressing objects:  71% (10/14)   \r"
+    ],
+    [
+      0.000112,
+      "Compressing objects:  78% (11/14)   \r"
+    ],
+    [
+      0.000183,
+      "Compressing objects:  85% (12/14)   \r"
+    ],
+    [
+      0.000444,
+      "Compressing objects:  92% (13/14)   \r"
+    ],
+    [
+      0.000071,
+      "Compressing objects: 100% (14/14)   \r"
+    ],
+    [
+      0.000211,
+      "Compressing objects: 100% (14/14), done.\r\n"
+    ],
+    [
+      0.030888,
+      "Writing objects:   6% (1/16)   \rWriting objects:  12% (2/16)   \r"
+    ],
+    [
+      0.000017,
+      "Writing objects:  18% (3/16)   \r"
+    ],
+    [
+      0.000083,
+      "Writing objects:  25% (4/16)   \rWriting objects:  31% (5/16)   \r"
+    ],
+    [
+      0.000009,
+      "Writing objects:  37% (6/16)   \r"
+    ],
+    [
+      0.000007,
+      "Writing objects:  43% (7/16)   \r"
+    ],
+    [
+      0.000060,
+      "Writing objects:  50% (8/16)   \r"
+    ],
+    [
+      0.000007,
+      "Writing objects:  56% (9/16)   \r"
+    ],
+    [
+      0.000011,
+      "Writing objects:  62% (10/16)   \r"
+    ],
+    [
+      0.000020,
+      "Writing objects:  68% (11/16)   \r"
+    ],
+    [
+      0.000024,
+      "Writing objects:  75% (12/16)   \r"
+    ],
+    [
+      0.000003,
+      "Writing objects:  81% (13/16)   \rWriting objects:  87% (14/16)   \rWriting objects:  93% (15/16)   \r"
+    ],
+    [
+      0.000012,
+      "Writing objects: 100% (16/16)   \r"
+    ],
+    [
+      0.000024,
+      "Writing objects: 100% (16/16), 1.49 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000003,
+      "Total 16 (delta 9), reused 4 (delta 0)\r\n"
+    ],
+    [
+      0.694770,
+      "To git@git.bip-intern.de:project-bunte/bunte-application.git\r\n"
+    ],
+    [
+      0.000161,
+      "   b7bc17c..ecc0eda  develop -\u003e develop\r\n"
+    ],
+    [
+      0.000161,
+      "   7b1679c..0b73b1c  master -\u003e master\r\n"
+    ],
+    [
+      0.000036,
+      " * [new branch]      ooyala-dev -\u003e ooyala-dev\r\n"
+    ],
+    [
+      0.010762,
+      "bash-3.2$ "
+    ],
+    [
+      0.276450,
+      "g"
+    ],
+    [
+      0.167995,
+      "i"
+    ],
+    [
+      0.111999,
+      "t"
+    ],
+    [
+      0.080018,
+      " "
+    ],
+    [
+      0.103937,
+      "p"
+    ],
+    [
+      0.191987,
+      "u"
+    ],
+    [
+      0.144069,
+      "s"
+    ],
+    [
+      0.121089,
+      "h"
+    ],
+    [
+      0.142795,
+      " "
+    ],
+    [
+      0.736026,
+      "o"
+    ],
+    [
+      0.192008,
+      "r"
+    ],
+    [
+      0.199853,
+      "i"
+    ],
+    [
+      0.096630,
+      "g"
+    ],
+    [
+      0.143427,
+      "i"
+    ],
+    [
+      0.080008,
+      "n"
+    ],
+    [
+      0.112054,
+      " "
+    ],
+    [
+      0.648005,
+      "v"
+    ],
+    [
+      0.327821,
+      "3"
+    ],
+    [
+      0.264016,
+      "6"
+    ],
+    [
+      0.247952,
+      "."
+    ],
+    [
+      0.215947,
+      "0"
+    ],
+    [
+      0.535868,
+      "\r\n"
+    ],
+    [
+      0.833087,
+      "Counting objects: 1, done.\r\n"
+    ],
+    [
+      0.022370,
+      "Writing objects: 100% (1/1)   \r"
+    ],
+    [
+      0.000006,
+      "Writing objects: 100% (1/1), 171 bytes | 0 bytes/s, done.\r\nTotal 1 (delta 0), reused 0 (delta 0)\r\n"
+    ],
+    [
+      0.281199,
+      "To git@git.bip-intern.de:project-bunte/bunte-application.git\r\n * [new tag]         v36.0 -\u003e v36.0\r\n"
+    ],
+    [
+      0.000930,
+      "bash-3.2$ "
+    ],
+    [
+      2.262293,
+      "exit\r\n"
+    ]
+  ]
+}
