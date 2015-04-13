@@ -1,0 +1,1214 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 20,
+  "duration": 88.028978,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006347,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "bash-3.2$ "
+    ],
+    [
+      1.585403,
+      "g"
+    ],
+    [
+      0.111399,
+      "i"
+    ],
+    [
+      0.072507,
+      "t"
+    ],
+    [
+      0.111688,
+      " "
+    ],
+    [
+      0.152082,
+      "i"
+    ],
+    [
+      0.072118,
+      "n"
+    ],
+    [
+      0.111787,
+      "i"
+    ],
+    [
+      0.080044,
+      "t"
+    ],
+    [
+      0.319757,
+      "\r\n"
+    ],
+    [
+      0.007931,
+      "Initialized empty Git repository in /Users/tom.hallam/Projects/example/.git/\r\n"
+    ],
+    [
+      0.000286,
+      "bash-3.2$ "
+    ],
+    [
+      0.991962,
+      "g"
+    ],
+    [
+      0.120396,
+      "i"
+    ],
+    [
+      0.063568,
+      "t"
+    ],
+    [
+      0.112132,
+      " "
+    ],
+    [
+      0.183834,
+      "a"
+    ],
+    [
+      0.112128,
+      "d"
+    ],
+    [
+      0.119830,
+      "d"
+    ],
+    [
+      0.088205,
+      " "
+    ],
+    [
+      0.120411,
+      "."
+    ],
+    [
+      0.263255,
+      "\r\n"
+    ],
+    [
+      0.009332,
+      "bash-3.2$ "
+    ],
+    [
+      0.598819,
+      "g"
+    ],
+    [
+      0.103946,
+      "i"
+    ],
+    [
+      0.056026,
+      "t"
+    ],
+    [
+      0.088049,
+      " "
+    ],
+    [
+      0.103897,
+      "c"
+    ],
+    [
+      0.055996,
+      "o"
+    ],
+    [
+      0.136211,
+      "m"
+    ],
+    [
+      0.151698,
+      "m"
+    ],
+    [
+      0.160284,
+      "i"
+    ],
+    [
+      0.087925,
+      "t"
+    ],
+    [
+      0.183936,
+      " "
+    ],
+    [
+      0.080030,
+      "-"
+    ],
+    [
+      0.439913,
+      "m"
+    ],
+    [
+      0.160192,
+      "\""
+    ],
+    [
+      0.447860,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144083,
+      " "
+    ],
+    [
+      0.151807,
+      "\""
+    ],
+    [
+      0.248046,
+      "F"
+    ],
+    [
+      0.128436,
+      "i"
+    ],
+    [
+      0.063654,
+      "r"
+    ],
+    [
+      0.096023,
+      "s"
+    ],
+    [
+      0.127990,
+      "t"
+    ],
+    [
+      0.063848,
+      " "
+    ],
+    [
+      0.128040,
+      "c"
+    ],
+    [
+      0.032125,
+      "o"
+    ],
+    [
+      0.159869,
+      "m"
+    ],
+    [
+      0.480277,
+      "m"
+    ],
+    [
+      0.151608,
+      "i"
+    ],
+    [
+      0.072166,
+      "t"
+    ],
+    [
+      0.256083,
+      "\""
+    ],
+    [
+      0.240021,
+      "\r\n"
+    ],
+    [
+      0.009362,
+      "[master (root-commit) 08ae8cb] First commit\r\n"
+    ],
+    [
+      0.000569,
+      " 9 files changed, 130 insertions(+)\r\n create mode 100644 app.js\r\n create mode 100755 bin/www\r\n create mode 100644 package.json\r\n create mode 100644 public/stylesheets/style.css\r\n create mode 100644 routes/index.js\r\n"
+    ],
+    [
+      0.000013,
+      " create mode 100644 routes/users.js\r\n create mode 100644 views/error.jade\r\n create mode 100644 views/index.jade\r\n create mode 100644 views/layout.jade\r\n"
+    ],
+    [
+      0.000470,
+      "bash-3.2$ "
+    ],
+    [
+      2.421473,
+      "g"
+    ],
+    [
+      0.096590,
+      "i"
+    ],
+    [
+      0.055376,
+      "t"
+    ],
+    [
+      0.079919,
+      " "
+    ],
+    [
+      0.184055,
+      "r"
+    ],
+    [
+      0.071763,
+      "e"
+    ],
+    [
+      0.055975,
+      "m"
+    ],
+    [
+      0.071955,
+      "o"
+    ],
+    [
+      0.040318,
+      "t"
+    ],
+    [
+      0.055926,
+      "e"
+    ],
+    [
+      0.095841,
+      " "
+    ],
+    [
+      0.360024,
+      "a"
+    ],
+    [
+      0.184202,
+      "d"
+    ],
+    [
+      0.124920,
+      "d"
+    ],
+    [
+      0.067151,
+      " "
+    ],
+    [
+      0.945663,
+      "c"
+    ],
+    [
+      0.077985,
+      "o"
+    ],
+    [
+      0.072109,
+      "n"
+    ],
+    [
+      0.055924,
+      "t"
+    ],
+    [
+      0.127777,
+      "a"
+    ],
+    [
+      0.040171,
+      "i"
+    ],
+    [
+      0.064044,
+      "n"
+    ],
+    [
+      0.056222,
+      "e"
+    ],
+    [
+      0.047789,
+      "r"
+    ],
+    [
+      0.119944,
+      "s"
+    ],
+    [
+      0.088125,
+      " "
+    ],
+    [
+      0.432002,
+      "d"
+    ],
+    [
+      0.336002,
+      "o"
+    ],
+    [
+      0.215935,
+      "k"
+    ],
+    [
+      0.127949,
+      "k"
+    ],
+    [
+      0.191870,
+      "u"
+    ],
+    [
+      0.272576,
+      "@"
+    ],
+    [
+      1.157452,
+      "c"
+    ],
+    [
+      0.098182,
+      "o"
+    ],
+    [
+      0.071934,
+      "n"
+    ],
+    [
+      0.055953,
+      "t"
+    ],
+    [
+      0.127912,
+      "a"
+    ],
+    [
+      0.064053,
+      "i"
+    ],
+    [
+      0.056061,
+      "n"
+    ],
+    [
+      0.039728,
+      "e"
+    ],
+    [
+      0.032120,
+      "r"
+    ],
+    [
+      0.128181,
+      "s"
+    ],
+    [
+      0.087820,
+      "."
+    ],
+    [
+      0.207983,
+      "m"
+    ],
+    [
+      0.184028,
+      "u"
+    ],
+    [
+      0.088262,
+      "b"
+    ],
+    [
+      0.159693,
+      "."
+    ],
+    [
+      0.216205,
+      "l"
+    ],
+    [
+      0.215835,
+      "u"
+    ],
+    [
+      0.280088,
+      ":"
+    ],
+    [
+      1.639878,
+      "e"
+    ],
+    [
+      0.184127,
+      "x"
+    ],
+    [
+      0.071933,
+      "a"
+    ],
+    [
+      0.047967,
+      "m"
+    ],
+    [
+      0.151983,
+      "p"
+    ],
+    [
+      0.063846,
+      "l"
+    ],
+    [
+      0.072480,
+      "e"
+    ],
+    [
+      0.119646,
+      "-"
+    ],
+    [
+      0.112026,
+      "a"
+    ],
+    [
+      0.095862,
+      "p"
+    ],
+    [
+      0.120180,
+      "p"
+    ],
+    [
+      2.135813,
+      "\r\n"
+    ],
+    [
+      0.007953,
+      "bash-3.2$ "
+    ],
+    [
+      2.456076,
+      "g"
+    ],
+    [
+      0.063854,
+      "i"
+    ],
+    [
+      0.080076,
+      "t"
+    ],
+    [
+      0.063866,
+      " "
+    ],
+    [
+      0.855994,
+      "p"
+    ],
+    [
+      0.195901,
+      "u"
+    ],
+    [
+      0.116088,
+      "s"
+    ],
+    [
+      0.079982,
+      "h"
+    ],
+    [
+      0.472182,
+      " "
+    ],
+    [
+      0.263938,
+      "c"
+    ],
+    [
+      0.066998,
+      "o"
+    ],
+    [
+      0.060856,
+      "n"
+    ],
+    [
+      0.064306,
+      "t"
+    ],
+    [
+      0.135863,
+      "a"
+    ],
+    [
+      0.023881,
+      "i"
+    ],
+    [
+      0.087604,
+      "n"
+    ],
+    [
+      0.040389,
+      "e"
+    ],
+    [
+      0.071998,
+      "r"
+    ],
+    [
+      0.104113,
+      "s"
+    ],
+    [
+      0.103914,
+      " "
+    ],
+    [
+      0.256069,
+      "m"
+    ],
+    [
+      0.079853,
+      "a"
+    ],
+    [
+      0.047944,
+      "s"
+    ],
+    [
+      0.184323,
+      "t"
+    ],
+    [
+      0.111613,
+      "e"
+    ],
+    [
+      0.040281,
+      "r"
+    ],
+    [
+      1.639535,
+      "\r\n"
+    ],
+    [
+      1.062089,
+      "Counting objects: 16, done.\r\n"
+    ],
+    [
+      0.000474,
+      "Delta compression using up to 8 threads.\r\n"
+    ],
+    [
+      0.000008,
+      "Compressing objects:   7% (1/13)   \r"
+    ],
+    [
+      0.000003,
+      "Compressing objects:  15% (2/13)   \r"
+    ],
+    [
+      0.000126,
+      "Compressing objects:  23% (3/13)   \r"
+    ],
+    [
+      0.000033,
+      "Compressing objects:  30% (4/13)   \r"
+    ],
+    [
+      0.000067,
+      "Compressing objects:  38% (5/13)   \r"
+    ],
+    [
+      0.000047,
+      "Compressing objects:  46% (6/13)   \rCompressing objects:  53% (7/13)   \r"
+    ],
+    [
+      0.000120,
+      "Compressing objects:  61% (8/13)   \r"
+    ],
+    [
+      0.000047,
+      "Compressing objects:  69% (9/13)   \r"
+    ],
+    [
+      0.000052,
+      "Compressing objects:  76% (10/13)   \rCompressing objects:  84% (11/13)   \r"
+    ],
+    [
+      0.000098,
+      "Compressing objects:  92% (12/13)   \rCompressing objects: 100% (13/13)   \r"
+    ],
+    [
+      0.000109,
+      "Compressing objects: 100% (13/13), done.\r\n"
+    ],
+    [
+      0.000237,
+      "Writing objects:   6% (1/16)   \r"
+    ],
+    [
+      0.000098,
+      "Writing objects:  12% (2/16)   \r"
+    ],
+    [
+      0.000138,
+      "Writing objects:  18% (3/16)   \r"
+    ],
+    [
+      0.000063,
+      "Writing objects:  25% (4/16)   \r"
+    ],
+    [
+      0.000091,
+      "Writing objects:  31% (5/16)   \r"
+    ],
+    [
+      0.000100,
+      "Writing objects:  37% (6/16)   \r"
+    ],
+    [
+      0.000057,
+      "Writing objects:  43% (7/16)   \r"
+    ],
+    [
+      0.000051,
+      "Writing objects:  50% (8/16)   \r"
+    ],
+    [
+      0.000066,
+      "Writing objects:  56% (9/16)   \r"
+    ],
+    [
+      0.000048,
+      "Writing objects:  62% (10/16)   \r"
+    ],
+    [
+      0.000089,
+      "Writing objects:  68% (11/16)   \r"
+    ],
+    [
+      0.000067,
+      "Writing objects:  75% (12/16)   \r"
+    ],
+    [
+      0.000070,
+      "Writing objects:  81% (13/16)   \r"
+    ],
+    [
+      0.000211,
+      "Writing objects:  87% (14/16)   \r"
+    ],
+    [
+      0.000028,
+      "Writing objects:  93% (15/16)   \r"
+    ],
+    [
+      0.000086,
+      "Writing objects: 100% (16/16)   \r"
+    ],
+    [
+      0.000059,
+      "Writing objects: 100% (16/16), 2.27 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000005,
+      "Total 16 (delta 0), reused 0 (delta 0)\r\n"
+    ],
+    [
+      0.468542,
+      "remote: Cloning into '/tmp/tmp.IniPqS0WTT'...\u001b[K\r\n"
+    ],
+    [
+      0.008132,
+      "remote: warning: You appear to have cloned an empty repository.\u001b[K\r\n"
+    ],
+    [
+      0.003016,
+      "remote: done.\u001b[K\r\n"
+    ],
+    [
+      0.011427,
+      "remote: HEAD is now at 08ae8cb... First commit\u001b[K\r\n"
+    ],
+    [
+      0.044643,
+      "remote: -----\u003e Building example-app using buildstep...\u001b[K\r\n"
+    ],
+    [
+      0.712402,
+      "remote: -----\u003e Installing ENV in build environment ...\u001b[K\r\n"
+    ],
+    [
+      1.783248,
+      "remote: \u001b[1G-----\u003e Node.js app detected\u001b[K\r\n"
+    ],
+    [
+      0.376159,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.003833,
+      "remote: \u001b[1G       PRO TIP: Specify a node version in package.json\u001b[K\r\n"
+    ],
+    [
+      0.004352,
+      "remote: \u001b[1G       See https://devcenter.heroku.com/articles/nodejs-support\u001b[K\r\n"
+    ],
+    [
+      0.001465,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000220,
+      "remote: \u001b[1G-----\u003e Defaulting to latest stable node: 0.12.2\u001b[K\r\n"
+    ],
+    [
+      0.000881,
+      "remote: \u001b[1G-----\u003e Downloading and installing node\u001b[K\r\n"
+    ],
+    [
+      2.846292,
+      "remote: \u001b[1G-----\u003e Exporting config vars to environment\u001b[K\r\n"
+    ],
+    [
+      0.004018,
+      "remote: \u001b[1G-----\u003e Installing dependencies\u001b[K\r\n"
+    ],
+    [
+      7.897502,
+      "remote: \u001b[1G       debug@2.0.0 node_modules/debug\u001b[K\r\n"
+    ],
+    [
+      0.000077,
+      "remote: \u001b[1G       └── ms@0.6.2\u001b[K\r\n"
+    ],
+    [
+      0.000274,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000355,
+      "remote: \u001b[1G       cookie-parser@1.3.4 node_modules/cookie-parser\u001b[K\r\n"
+    ],
+    [
+      0.000234,
+      "remote: \u001b[1G       ├── cookie-signature@1.0.6\u001b[K\r\n"
+    ],
+    [
+      0.000300,
+      "remote: \u001b[1G       └── cookie@0.1.2\u001b[K\r\n"
+    ],
+    [
+      0.000262,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000289,
+      "remote: \u001b[1G       morgan@1.3.2 node_modules/morgan\u001b[K\r\n"
+    ],
+    [
+      0.000223,
+      "remote: \u001b[1G       ├── basic-auth@1.0.0\u001b[K\r\n"
+    ],
+    [
+      0.000283,
+      "remote: \u001b[1G       ├── depd@0.4.5\u001b[K\r\n"
+    ],
+    [
+      0.009202,
+      "remote: \u001b[1G       └── on-finished@2.1.0 (ee-first@1.0.5)\u001b[K\r\nremote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000014,
+      "remote: \u001b[1G       serve-favicon@2.1.7 node_modules/serve-favicon\u001b[K\r\nremote: \u001b[1G       ├── ms@0.6.2\u001b[K\r\nremote: \u001b[1G       ├── fresh@0.2.4\u001b[K\r\nremote: \u001b[1G       └── etag@1.5.1 (crc@3.2.1)\u001b[K\r\nremote: \u001b[1G       \u001b[K\r\nremote: \u001b[1G       express@4.9.8 node_modules/express\u001b[K\r\nremote: \u001b[1G       ├── fresh@0.2.4\u001b[K\r\n"
+    ],
+    [
+      0.000026,
+      "remote: \u001b[1G       ├── cookie@0.1.2\u001b[K\r\nremote: \u001b[1G       ├── utils-merge@1.0.0\u001b[K\r\nremote: \u001b[1G       ├── merge-descriptors@0.0.2\u001b[K\r\nremote: \u001b[1G       ├── escape-html@1.0.1\u001b[K\r\nremote: \u001b[1G       ├── range-parser@1.0.2\u001b[K\r\nremote: \u001b[1G       ├── cookie-signature@1.0.5\u001b[K\r\nremote: \u001b[1G       ├── media-typer@0.3.0\u001b[K\r\n"
+    ],
+    [
+      0.000300,
+      "remote: \u001b[1G       ├── finalhandler@0.2.0\u001b[K\r\nremote: \u001b[1G       ├── vary@1.0.0\u001b[K\r\nremote: \u001b[1G       ├── methods@1.1.0\u001b[K\r\n"
+    ],
+    [
+      0.000015,
+      "remote: \u001b[1G       ├── parseurl@1.3.0\u001b[K\r\nremote: \u001b[1G       ├── serve-static@1.6.5\u001b[K\r\nremote: \u001b[1G       ├── path-to-regexp@0.1.3\u001b[K\r\nremote: \u001b[1G       ├── depd@0.4.5\u001b[K\r\nremote: \u001b[1G       ├── on-finished@2.1.1 (ee-first@1.1.0)\u001b[K\r\n"
+    ],
+    [
+      0.000027,
+      "remote: \u001b[1G       ├── qs@2.2.4\u001b[K\r\nremote: \u001b[1G       ├── etag@1.4.0 (crc@3.0.0)\u001b[K\r\n"
+    ],
+    [
+      0.000006,
+      "remote: \u001b[1G       ├── proxy-addr@1.0.7 (forwarded@0.1.0, ipaddr.js@0.1.9)\u001b[K\r\nremote: \u001b[1G       ├── send@0.9.3 (destroy@1.0.3, ms@0.6.2, on-finished@2.1.0, mime@1.2.11)\u001b[K\r\nremote: \u001b[1G       ├── type-is@1.5.7 (mime-types@2.0.10)\u001b[K\r\n"
+    ],
+    [
+      0.000003,
+      "remote: \u001b[1G       └── accepts@1.1.4 (negotiator@0.4.9, mime-types@2.0.10)\u001b[K\r\n"
+    ],
+    [
+      0.000003,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000003,
+      "remote: \u001b[1G       body-parser@1.8.4 node_modules/body-parser\u001b[K\r\n"
+    ],
+    [
+      0.000003,
+      "remote: \u001b[1G       ├── bytes@1.0.0\u001b[K\r\n"
+    ],
+    [
+      0.000003,
+      "remote: \u001b[1G       ├── media-typer@0.3.0\u001b[K\r\n"
+    ],
+    [
+      0.000012,
+      "remote: \u001b[1G       ├── raw-body@1.3.0\u001b[K\r\n"
+    ],
+    [
+      0.000293,
+      "remote: \u001b[1G       ├── depd@0.4.5\u001b[K\r\n"
+    ],
+    [
+      0.000985,
+      "remote: \u001b[1G       ├── on-finished@2.1.0 (ee-first@1.0.5)\u001b[K\r\nremote: \u001b[1G       ├── qs@2.2.4\u001b[K\r\nremote: \u001b[1G       ├── type-is@1.5.7 (mime-types@2.0.10)\u001b[K\r\n"
+    ],
+    [
+      0.000113,
+      "remote: \u001b[1G       └── iconv-lite@0.4.4\u001b[K\r\n"
+    ],
+    [
+      0.000299,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000839,
+      "remote: \u001b[1G       jade@1.6.0 node_modules/jade\u001b[K\r\nremote: \u001b[1G       ├── character-parser@1.2.0\u001b[K\r\n"
+    ],
+    [
+      0.008671,
+      "remote: \u001b[1G       ├── commander@2.1.0\u001b[K\r\nremote: \u001b[1G       ├── void-elements@1.0.0\u001b[K\r\nremote: \u001b[1G       ├── mkdirp@0.5.0 (minimist@0.0.8)\u001b[K\r\nremote: \u001b[1G       ├── constantinople@2.0.1 (uglify-js@2.4.19)\u001b[K\r\nremote: \u001b[1G       ├── transformers@2.1.0 (promise@2.0.0, css@1.0.8, uglify-js@2.2.5)\u001b[K\r\n"
+    ],
+    [
+      0.000010,
+      "remote: \u001b[1G       ├── with@3.0.1 (uglify-js@2.4.19)\u001b[K\r\nremote: \u001b[1G       └── monocle@1.1.51 (readdirp@0.2.5)\u001b[K\r\n"
+    ],
+    [
+      0.021723,
+      "remote: \u001b[1G-----\u003e Caching node_modules directory for future builds\u001b[K\r\n"
+    ],
+    [
+      0.123780,
+      "remote: \u001b[1G-----\u003e Cleaning up node-gyp and npm artifacts\u001b[K\r\n"
+    ],
+    [
+      0.005136,
+      "remote: \u001b[1G-----\u003e No Procfile found; Adding npm start to new Procfile\u001b[K\r\n"
+    ],
+    [
+      0.000124,
+      "remote: \u001b[1G-----\u003e Building runtime environment\u001b[K\r\n"
+    ],
+    [
+      0.007816,
+      "remote: \u001b[1G-----\u003e Discovering process types\u001b[K\r\n"
+    ],
+    [
+      0.048339,
+      "remote: \u001b[1G       Procfile declares types -\u003e web\u001b[K\r\n"
+    ],
+    [
+      2.078342,
+      "remote: -----\u003e Injecting git revision\u001b[K\r\n"
+    ],
+    [
+      0.705005,
+      "remote: -----\u003e Releasing example-app ...\u001b[K\r\n"
+    ],
+    [
+      1.117329,
+      "remote: -----\u003e Deploying example-app ...\u001b[K\r\n"
+    ],
+    [
+      0.430633,
+      "remote: -----\u003e Shutting down old containers\u001b[K\r\n"
+    ],
+    [
+      0.963711,
+      "remote: =====\u003e Application deployed:\u001b[K\r\n"
+    ],
+    [
+      0.175938,
+      "remote:        http://example-app.containers.mub.lu\u001b[K\r\n"
+    ],
+    [
+      0.085950,
+      "remote: -----\u003e Cleaning up ...\u001b[K\r\n"
+    ],
+    [
+      0.452386,
+      "To dokku@containers.mub.lu:example-app\r\n"
+    ],
+    [
+      0.000010,
+      " * [new branch]      master -\u003e master\r\n"
+    ],
+    [
+      0.002070,
+      "bash-3.2$ "
+    ],
+    [
+      22.262220,
+      "/"
+    ],
+    [
+      0.135895,
+      "/"
+    ],
+    [
+      0.112174,
+      " "
+    ],
+    [
+      0.207860,
+      "S"
+    ],
+    [
+      0.097655,
+      "h"
+    ],
+    [
+      0.158331,
+      "o"
+    ],
+    [
+      0.096254,
+      "u"
+    ],
+    [
+      0.175651,
+      "l"
+    ],
+    [
+      0.072226,
+      "d"
+    ],
+    [
+      0.047974,
+      " "
+    ],
+    [
+      0.199728,
+      "n"
+    ],
+    [
+      0.088180,
+      "o"
+    ],
+    [
+      0.072287,
+      "w"
+    ],
+    [
+      0.103603,
+      " "
+    ],
+    [
+      0.247999,
+      "b"
+    ],
+    [
+      0.144388,
+      "e"
+    ],
+    [
+      0.103944,
+      " "
+    ],
+    [
+      0.447727,
+      "d"
+    ],
+    [
+      0.154163,
+      "e"
+    ],
+    [
+      0.061565,
+      "p"
+    ],
+    [
+      0.072344,
+      "l"
+    ],
+    [
+      0.167920,
+      "o"
+    ],
+    [
+      0.064031,
+      "y"
+    ],
+    [
+      0.151866,
+      "e"
+    ],
+    [
+      0.224029,
+      "d"
+    ],
+    [
+      0.304040,
+      "!"
+    ],
+    [
+      3.399989,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500821,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084459,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.090038,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.077289,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084267,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.110099,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.057650,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084366,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084482,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084430,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083957,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084062,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084025,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084517,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083781,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084436,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084163,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083548,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083765,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084202,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084520,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084232,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084270,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084643,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.085079,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.081765,
+      "\u0007"
+    ],
+    [
+      0.068857,
+      "e"
+    ],
+    [
+      0.176079,
+      "x"
+    ],
+    [
+      0.152084,
+      "i"
+    ],
+    [
+      0.103682,
+      "t"
+    ],
+    [
+      0.752014,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "exit\r\n"
+    ]
+  ]
+}
