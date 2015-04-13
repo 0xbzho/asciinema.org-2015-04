@@ -1,0 +1,474 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 39.168891,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005575,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000005,
+      "bash-3.2$ "
+    ],
+    [
+      2.050110,
+      "."
+    ],
+    [
+      0.079889,
+      "/"
+    ],
+    [
+      0.072168,
+      "d"
+    ],
+    [
+      0.087897,
+      "i"
+    ],
+    [
+      0.071953,
+      "s"
+    ],
+    [
+      0.032152,
+      "t"
+    ],
+    [
+      0.080256,
+      "/"
+    ],
+    [
+      0.335577,
+      "b"
+    ],
+    [
+      0.072278,
+      "uild/"
+    ],
+    [
+      0.447760,
+      "\u0007"
+    ],
+    [
+      0.488553,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "autogen/         json-log-viewer/ messin/          \r\n"
+    ],
+    [
+      0.000020,
+      "bash-3.2$ ./dist/build/"
+    ],
+    [
+      0.463315,
+      "j"
+    ],
+    [
+      0.159990,
+      "s"
+    ],
+    [
+      0.127803,
+      "o"
+    ],
+    [
+      0.104342,
+      "n-log-viewer/"
+    ],
+    [
+      0.287898,
+      "j"
+    ],
+    [
+      0.103961,
+      "s"
+    ],
+    [
+      0.136023,
+      "\u0007on-log-viewer"
+    ],
+    [
+      0.896463,
+      " "
+    ],
+    [
+      0.623365,
+      "s"
+    ],
+    [
+      0.071801,
+      "o"
+    ],
+    [
+      0.079869,
+      "m"
+    ],
+    [
+      0.064391,
+      "e"
+    ],
+    [
+      0.088163,
+      "l"
+    ],
+    [
+      0.095329,
+      "o"
+    ],
+    [
+      0.096554,
+      "g"
+    ],
+    [
+      0.071917,
+      "s"
+    ],
+    [
+      0.103987,
+      "."
+    ],
+    [
+      0.119978,
+      "l"
+    ],
+    [
+      0.136238,
+      "og "
+    ],
+    [
+      0.527674,
+      "\r\n"
+    ],
+    [
+      0.016203,
+      "\u001b%G"
+    ],
+    [
+      0.000546,
+      "\u001b[?1049h\u001b[H\u001b[2J"
+    ],
+    [
+      0.001783,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[1;1H┌──────────────────────────────────────────────────────────────────────────────┐\u001b[2;1H│json-log-viewer by radix. ESC=Exit, TAB=Switch section, DEL=Delete filter, RET│\u001b[3;1H└──────────────────────────────────────────────────────────────────────────────┘\u001b[4;1HFilters     Messages                                                            \u001b[5;1H┌──────────┐┌──────────────────────────────────────────────────────────────────┐\u001b[6;1H│          ││\u001b[37m\u001b[44m{\"otter_facility\":\"kazoo\",\"@version\":1,\"host\":\"vm\",\"message\":\"R"
+    ],
+    [
+      0.000034,
+      "ece\u001b(B\u001b[m│\u001b[7;1H│          ││{\"scaling_group_id\":\"099ed76f-4445-4cd6-bb69-43bf2de7d201\",\"acquir│\u001b[8;1H│          ││{\"otter_facility\":\"kazoo\",\"@version\":1,\"host\":\"vm\",\"message\":\"Send│\u001b[9;1H│          ││{\"url\":\"http://localhost:8900/mimicking/NovaApi-414e06/ORD/v2/0000│\u001b[10;1H│          ││{\"otter_facility\":\"kazoo\",\"@version\":1,\"host\":\"vm\",\"message\":\"Read│\u001b[11;1H│          ││{\"otter_facility\":\"kazoo\",\"@version\":1,\"host\":\"vm\",\"message\":\"Rece│\u001b[12;1H│          ││{\"age\":158.6275041103363,\"tenant_id\":\"000000\",\"cache_ttl\":300,\"ott│\u001b[13;1H│          ││{\"url\":\"http://localhost:8900/mimicking/NovaApi-414e06/ORD/v2/0000│\u001b[14;1H│          ││{\"url\":\"http://localhost:8900/mimicking/NovaApi-414e06/ORD/v2/0000│\u001b[15;1H│          ││{\"data\":{\"tenantId\":\"000000\",\"groupId\":\"1c850f59-279c-4322-a974-32│\u001b[16;1H│          ││{\"scaling_group_id\":\"ad8a3c0e-956d-4af1-a37b-ca9a3a2a76be\",\"catego│\u001b[17;1H│          ││{\"age\":158.63269805908203,\"tenant_id\":\""
+    ],
+    [
+      0.000138,
+      "000000\",\"cache_ttl\":300,\"ot│\u001b[18;1H│          ││{\"url\":\"http://localhost:8900/mimicking/NovaApi-414e06/ORD/v2/0000│\u001b[19;1H│          ││{\"age\":158.63338494300842,\"tenant_id\":\"000000\",\"cache_ttl\":300,\"ot│\u001b[20;1H│          ││{\"url\":\"http://localhost:8900/mimicking/NovaApi-414e06/ORD/v2/0000│\u001b[21;1H│          ││{\"otter_facility\":\"otter\",\"@version\":1,\"host\":\"vm\",\"message\":\"Star│\u001b[22;1H│          ││{\"age\":158.6341631412506,\"tenant_id\":\"000000\",\"cache_ttl\":300,\"ott│\u001b[23;1H│          ││{\"url\":\"http://localhost:8900/mimicking/NovaApi-414e06/ORD/v2/0000│\u001b[24;1H│          ││{\"otter_facility\":\"otter\",\"@version\":1,\"host\":\"vm\",\"message\":\"Star│\u001b[25;1H└──────────┘└──────────────────────────────────────────────────────────────────┘\u001b[?25l"
+    ],
+    [
+      1.135520,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[1;1H┌───────────────────────────── Create New Filter ──────────────────────────────┐\u001b[2;1H│                                                                              │\u001b[3;1H│Filter Name:\u001b[4m\u001b[37m\u001b[44m                                                                  \u001b(B\u001b[m│\u001b[4;1H│JSON Path:\u001b[4m                                                                    \u001b[24m│\u001b[5;1H│Parse status:Please Enter a JSON Path.                                        │\u001b[6;1H│( ) Equals(*) Has Substring( ) Has Key                                        │\u001b[7;1H│Operand:\u001b[4m                                                                      \u001b[24m│\u001b[8;1H│                                                                              │\u001b[9;1H│                           \u001b[37m\u001b[40m   OK   \u001b(B\u001b[m    \u001b[37m\u001b[40m   Cancel   \u001b(B\u001b[m                           │\u001b[10;1H│    "
+    ],
+    [
+      0.000073,
+      "                                                                          │\u001b[11;1H└──────────────────────────────────────────────────────────────────────────────┘\u001b[12;1H\u001b[K\u001b[13;1H\u001b[K\u001b[14;1H\u001b[K\u001b[15;1H\u001b[K\u001b[16;1H\u001b[K\u001b[17;1H\u001b[K\u001b[18;1H\u001b[K\u001b[19;1H\u001b[K\u001b[20;1H\u001b[K\u001b[21;1H\u001b[K\u001b[22;1H\u001b[K\u001b[23;1H\u001b[K\u001b[24;1H\u001b[K\u001b[25;1H\u001b[K"
+    ],
+    [
+      0.000013,
+      "\u001b[?12l\u001b[?25h\u001b[3;14H"
+    ],
+    [
+      2.734531,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[3;1H│Filter Name:\u001b[4m\u001b[37m\u001b[44mf                                                                 \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[3;15H"
+    ],
+    [
+      0.023957,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[3;1H│Filter Name:\u001b[4m\u001b[37m\u001b[44mfo                                                                \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[3;16H"
+    ],
+    [
+      0.135933,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[3;1H│Filter Name:\u001b[4m\u001b[37m\u001b[44mfoo                                                               \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000008,
+      "\u001b[3;17H"
+    ],
+    [
+      0.071952,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[3;1H│Filter Name:\u001b[4m\u001b[37m\u001b[44mfoob                                                              \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[3;18H"
+    ],
+    [
+      0.079904,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[3;1H│Filter Name:\u001b[4m\u001b[37m\u001b[44mfooba                                                             \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[3;19H"
+    ],
+    [
+      0.032224,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[3;1H│Filter Name:\u001b[4m\u001b[37m\u001b[44mfoobar                                                            \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[3;20H"
+    ],
+    [
+      0.200144,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[3;1H│Filter Name:\u001b[4mfoobar                                                            \u001b[24m│\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m                                                                    \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[4;12H"
+    ],
+    [
+      0.487845,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$                                                                   \u001b(B\u001b[m│\u001b[5;1H│Parse status:Valid! :-)                                                       │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[4;13H"
+    ],
+    [
+      1.591982,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[                                                                  \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 3):                                              │\u001b[6;1H│             unexpected end of input                                          │\u001b[7;1H│             expecting integer or single-quoted string                        │\u001b[8;1H│( ) Equals(*) Has Substring( ) Has Key                                        │\u001b[9;1H│Operand:\u001b[4m                                                                      \u001b[24m│\u001b[11;1H│                           \u001b[37m\u001b[40m   OK   \u001b(B\u001b[m    \u001b[37m\u001b[40m   Cancel   \u001b(B\u001b[m                           │\u001b[12;1H│                                                                              │\u001b[13;1H└─────────────────────────────────────────────────────────────────────────"
+    ],
+    [
+      0.000037,
+      "─────┘"
+    ],
+    [
+      0.000006,
+      "\u001b[?12l\u001b[?25h\u001b[4;14H"
+    ],
+    [
+      2.023796,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[a                                                                 \u001b(B\u001b[m│\u001b[6;1H│             unexpected \"a\"                                                   │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;15H"
+    ],
+    [
+      2.039748,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[                                                                  \u001b(B\u001b[m│\u001b[6;1H│             unexpected end of input                                          │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000025,
+      "\u001b[4;14H"
+    ],
+    [
+      1.936188,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['                                                                 \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 4):                                              │\u001b[6;1H│             unexpected end of input                                          │\u001b[7;1H│             expecting \"'\"                                                    │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000018,
+      "\u001b[4;15H"
+    ],
+    [
+      1.399911,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['f                                                                \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 5):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;16H"
+    ],
+    [
+      0.607881,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['fo                                                               \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 6):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;17H"
+    ],
+    [
+      0.295991,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['foo                                                              \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 7):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;18H"
+    ],
+    [
+      0.248285,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['foo'                                                             \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 8):                                              │\u001b[7;1H│             expecting \"]\"                                                    │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[4;19H"
+    ],
+    [
+      0.999788,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['foo']                                                            \u001b(B\u001b[m│\u001b[5;1H│Parse status:Valid! :-)                                                       │\u001b[6;1H│( ) Equals(*) Has Substring( ) Has Key                                        │\u001b[7;1H│Operand:\u001b[4m                                                                      \u001b[24m│\u001b[8;1H│                                                                              │\u001b[9;1H│                           \u001b[37m\u001b[40m   OK   \u001b(B\u001b[m    \u001b[37m\u001b[40m   Cancel   \u001b(B\u001b[m                           │\u001b[11;1H└──────────────────────────────────────────────────────────────────────────────┘\u001b[12;1H\u001b[K\u001b[13;1H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[4;20H"
+    ],
+    [
+      3.583781,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['foo'                                                             \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 8):                                              │\u001b[6;1H│             unexpected end of input                                          │\u001b[7;1H│             expecting \"]\"                                                    │\u001b[8;1H│( ) Equals(*) Has Substring( ) Has Key                                        │\u001b[9;1H│Operand:\u001b[4m                                                                      \u001b[24m│\u001b[11;1H│                           \u001b[37m\u001b[40m   OK   \u001b(B\u001b[m    \u001b[37m\u001b[40m   Cancel   \u001b(B\u001b[m                           │\u001b[12;1H│                                                                              │\u001b[13;1H└─────────────────────────────────────────────────────────────────────────"
+    ],
+    [
+      0.000064,
+      "─────┘\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[4;19H"
+    ],
+    [
+      0.176003,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['foo                                                              \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 7):                                              │\u001b[7;1H│             expecting \"'\"                                                    │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;18H"
+    ],
+    [
+      0.192120,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['fo                                                               \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 6):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;17H"
+    ],
+    [
+      0.255850,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['f                                                                \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 5):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;16H"
+    ],
+    [
+      0.240027,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$['                                                                 \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 4):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;15H"
+    ],
+    [
+      0.207897,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[                                                                  \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 3):                                              │\u001b[6;1H│             unexpected end of input                                          │\u001b[7;1H│             expecting integer or single-quoted string                        │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;14H"
+    ],
+    [
+      0.280011,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[5                                                                 \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 4):                                              │\u001b[6;1H│             unexpected end of input                                          │\u001b[7;1H│             expecting \"]\"                                                    │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;15H"
+    ],
+    [
+      0.879912,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[50                                                                \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 5):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000008,
+      "\u001b[4;16H"
+    ],
+    [
+      0.120103,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[500                                                               \u001b(B\u001b[m│\u001b[5;1H│Parse status:(line 1, column 6):                                              │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;17H"
+    ],
+    [
+      1.023749,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m\u001b[37m\u001b[44m$[500]                                                              \u001b(B\u001b[m│\u001b[5;1H│Parse status:Valid! :-)                                                       │\u001b[6;1H│( ) Equals(*) Has Substring( ) Has Key                                        │\u001b[7;1H│Operand:\u001b[4m                                                                      \u001b[24m│\u001b[8;1H│                                                                              │\u001b[9;1H│                           \u001b[37m\u001b[40m   OK   \u001b(B\u001b[m    \u001b[37m\u001b[40m   Cancel   \u001b(B\u001b[m                           │\u001b[11;1H└──────────────────────────────────────────────────────────────────────────────┘\u001b[12;1H\u001b[K\u001b[13;1H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[4;18H"
+    ],
+    [
+      2.911921,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[4;1H│JSON Path:\u001b[4m$[500]                                                              \u001b[24m│\u001b[6;1H│\u001b[37m\u001b[44m( ) Equals\u001b(B\u001b[m(*) Has Substring( ) Has Key                                        │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[6;3H"
+    ],
+    [
+      0.160088,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[6;1H│( ) Equals\u001b[37m\u001b[44m(*) Has Substring\u001b(B\u001b[m( ) Has Key                                        │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[6;13H"
+    ],
+    [
+      0.175831,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[6;1H│( ) Equals(*) Has Substring\u001b[37m\u001b[44m( ) Has Key\u001b(B\u001b[m                                        │\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000011,
+      "\u001b[6;30H"
+    ],
+    [
+      0.192021,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[6;1H│( ) Equals(*) Has Substring( ) Has Key                                        │\u001b[7;1H│Operand:\u001b[4m\u001b[37m\u001b[44m                                                                      \u001b(B\u001b[m│\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[7;10H"
+    ],
+    [
+      0.256009,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[7;1H│Operand:\u001b[4m                                                                      \u001b[24m│\u001b[9;1H│                           \u001b[34m\u001b[47m   OK   \u001b(B\u001b[m    \u001b[37m\u001b[40m   Cancel   \u001b(B\u001b[m                           │\u001b[?25l"
+    ],
+    [
+      0.458125,
+      "\u001b[?25l\u001b(B\u001b[m\u001b[1;1H┌──────────────────────────────────────────────────────────────────────────────┐\u001b[2;1H│json-log-viewer by radix. ESC=Exit, TAB=Switch section, DEL=Delete filter, RET│\u001b[3;1H└──────────────────────────────────────────────────────────────────────────────┘\u001b[4;1HFilters     Messages                                                            \u001b[5;1H┌──────────┐┌──────────────────────────────────────────────────────────────────┐\u001b[6;1H│\u001b[37m\u001b[44mFilter (Se\u001b(B\u001b[m││                                                         "
+    ],
+    [
+      0.000037,
+      "         │\u001b[7;1H│          ││                                                                  │\u001b[8;1H│          ││                                                                  │\u001b[9;1H│          ││                                                                  │\u001b[10;1H│          ││                                                                  │\u001b[11;1H│          ││                                                                  │\u001b[12;1H│          ││                                                                  │\u001b[13;1H│          ││                                                                  │\u001b[14;1H│          ││                                                                  │\u001b[15;1H│          ││                                                                  │\u001b[16;1H│          ││                                                                  │\u001b[17;1H│          ││                                       "
+    ],
+    [
+      0.000205,
+      "                           │\u001b[18;1H│          ││                                                                  │\u001b[19;1H│          ││                                                                  │\u001b[20;1H│          ││                                                                  │\u001b[21;1H│          ││                                                                  │\u001b[22;1H│          ││                                                                  │\u001b[23;1H│          ││                                                                  │\u001b[24;1H│          ││                                                                  │\u001b[25;1H└──────────┘└──────────────────────────────────────────────────────────────────┘\u001b[?25l"
+    ],
+    [
+      2.252767,
+      "\u001b[?1049l"
+    ],
+    [
+      0.000012,
+      "\u001b[?12l\u001b[?25h\u001b%@\u001b(B\u001b[m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001786,
+      "bash-3.2$ "
+    ],
+    [
+      1.550169,
+      "exit\r\n"
+    ]
+  ]
+}
