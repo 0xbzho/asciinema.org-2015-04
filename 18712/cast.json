@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "width": 177,
+  "height": 57,
+  "duration": 12.330140,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.297065,
+      "\u001b]0;ch124262@crit-probe2:/var/www/html/openatrium-7.x-2.33\u0007"
+    ],
+    [
+      0.002844,
+      "\u001b[?1034h[ch124262@crit-probe2 openatrium-7.x-2.33]$ "
+    ],
+    [
+      1.238008,
+      "l"
+    ],
+    [
+      0.103995,
+      "s"
+    ],
+    [
+      0.728015,
+      "\r\n"
+    ],
+    [
+      0.023423,
+      "authorize.php  cron.php   INSTALL.mysql.txt  INSTALL.sqlite.txt  MAINTAINERS.txt  PATCHES.txt  robots.txt  \u001b[0m\u001b[01;34mthemes\u001b[0m       web.config\r\nCHANGELOG.txt  \u001b[01;34mincludes\u001b[0m   INSTALL.pgsql.txt  INSTALL.txt         \u001b[01;34mmisc\u001b[0m             \u001b[01;34mprofiles\u001b[0m     \u001b[01;34mscripts\u001b[0m     update.php   xmlrpc.php\r\nCOPYRIGHT.txt  index.php  install.php        LICENSE.txt         \u001b[01;34mmodules\u001b[0m          README.txt   \u001b[01;34msites\u001b[0m       UPGRADE.txt\r\n\u001b[m\u001b]0;ch124262@crit-probe2:/var/www/html/openatrium-7.x-2.33\u0007[ch124262@crit-probe2 openatrium-7.x-2.33]$ "
+    ],
+    [
+      1.409553,
+      "c"
+    ],
+    [
+      0.384009,
+      "d"
+    ],
+    [
+      0.135005,
+      " "
+    ],
+    [
+      0.199994,
+      "i"
+    ],
+    [
+      0.136003,
+      "n"
+    ],
+    [
+      0.103996,
+      "c"
+    ],
+    [
+      0.167994,
+      "l"
+    ],
+    [
+      0.184997,
+      "u"
+    ],
+    [
+      0.054998,
+      "d"
+    ],
+    [
+      0.168004,
+      "e"
+    ],
+    [
+      0.104003,
+      "\r\nbash: cd: include: No such file or directory\r\n\u001b]0;ch124262@crit-probe2:/var/www/html/openatrium-7.x-2.33\u0007[ch124262@crit-probe2 openatrium-7.x-2.33]$ "
+    ],
+    [
+      4.273300,
+      "cd include"
+    ],
+    [
+      0.358714,
+      "s"
+    ],
+    [
+      0.344998,
+      "\r\n\u001b]0;ch124262@crit-probe2:/var/www/html/openatrium-7.x-2.33/includes\u0007[ch124262@crit-probe2 includes]$ "
+    ],
+    [
+      1.062998,
+      "e"
+    ],
+    [
+      0.209010,
+      "x"
+    ],
+    [
+      0.174991,
+      "i"
+    ],
+    [
+      0.201026,
+      "t"
+    ],
+    [
+      0.262891,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
