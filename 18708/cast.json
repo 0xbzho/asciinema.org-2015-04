@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "width": 178,
+  "height": 51,
+  "duration": 27.051740,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.178313,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000040,
+      "\u001b]2;Stefano@MacBook-Air-di-Databiz-4: ~/Projects/scalajs-calendar\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..lajs-calendar\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]7;file:///Users/Stefano/Projects/scalajs-calendar\u0007"
+    ],
+    [
+      0.043581,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000019,
+      "\u001b[K\u001b[147C\u001b[38;5;242mscalajs-calendar/git/master \u001b[00m\u001b[175D"
+    ],
+    [
+      0.000108,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.203889,
+      "c"
+    ],
+    [
+      0.138263,
+      "\u0008ca"
+    ],
+    [
+      0.091770,
+      "t"
+    ],
+    [
+      0.095156,
+      " "
+    ],
+    [
+      0.323391,
+      "\u003e"
+    ],
+    [
+      1.132357,
+      " "
+    ],
+    [
+      0.635243,
+      "p"
+    ],
+    [
+      0.075847,
+      "r"
+    ],
+    [
+      0.096316,
+      "o"
+    ],
+    [
+      0.105543,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.012797,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m❯\u001b[22m\u001b[00m cat \u003e project\u001b[1m/\u001b[0m\u001b[K\u001b[133C\u001b[38;5;242mscalajs-calendar/git/master \u001b[00m\u001b[161D"
+    ],
+    [
+      0.990496,
+      "\u0008\u001b[0m/p"
+    ],
+    [
+      0.535690,
+      "l"
+    ],
+    [
+      0.000507,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.004333,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000008,
+      "cat \u003e project/plugins.sbt\u001b[1m \u001b[0m\u001b[K\u001b[121C\u001b[38;5;242mscalajs-calendar/git/master \u001b[00m\u001b[149D"
+    ],
+    [
+      0.621127,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000067,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000099,
+      "\r\r\n"
+    ],
+    [
+      0.008094,
+      "\u001b]2;cat \u003e project/plugins.sbt\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      1.083635,
+      "addSbtPlugin(\"org.scala-js\" % \"sbt-scalajs\" % \"0.6.2\")"
+    ],
+    [
+      0.724220,
+      "\r\n"
+    ],
+    [
+      0.247698,
+      "\r\n"
+    ],
+    [
+      0.261060,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.008574,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000147,
+      "\u001b]2;Stefano@MacBook-Air-di-Databiz-4: ~/Projects/scalajs-calendar\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;..lajs-calendar\u0007"
+    ],
+    [
+      0.000185,
+      "\u001b]7;file:///Users/Stefano/Projects/scalajs-calendar\u0007"
+    ],
+    [
+      0.040868,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[147C\u001b[38;5;242mscalajs-calendar/git/master \u001b[00m\u001b[175D"
+    ],
+    [
+      0.000014,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.049632,
+      "b"
+    ],
+    [
+      0.063875,
+      "\u0008br"
+    ],
+    [
+      0.079756,
+      "e"
+    ],
+    [
+      0.056064,
+      "w"
+    ],
+    [
+      0.091899,
+      " "
+    ],
+    [
+      0.309038,
+      "s"
+    ],
+    [
+      0.087379,
+      "e"
+    ],
+    [
+      0.175518,
+      "r"
+    ],
+    [
+      0.003649,
+      "a"
+    ],
+    [
+      0.582256,
+      "\u0008 \u0008"
+    ],
+    [
+      0.104733,
+      "\u0008 \u0008"
+    ],
+    [
+      0.107181,
+      "a"
+    ],
+    [
+      0.109662,
+      "r"
+    ],
+    [
+      0.231649,
+      "c"
+    ],
+    [
+      0.138978,
+      "h"
+    ],
+    [
+      0.221526,
+      "\u0008 \u0008"
+    ],
+    [
+      0.105174,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128956,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135018,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120883,
+      "\u0008 \u0008"
+    ],
+    [
+      0.125130,
+      "\u0008 \u0008"
+    ],
+    [
+      0.181049,
+      "i"
+    ],
+    [
+      0.135998,
+      "n"
+    ],
+    [
+      0.088175,
+      "f"
+    ],
+    [
+      0.088827,
+      "o"
+    ],
+    [
+      0.088080,
+      " "
+    ],
+    [
+      0.158945,
+      "i"
+    ],
+    [
+      0.123747,
+      "o"
+    ],
+    [
+      0.185202,
+      "j"
+    ],
+    [
+      0.129030,
+      "s"
+    ],
+    [
+      0.834773,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000062,
+      "\r\r\n"
+    ],
+    [
+      0.008806,
+      "\u001b]2;brew info iojs\u0007\u001b]1;brew\u0007"
+    ],
+    [
+      0.192209,
+      "iojs: stable 1.6.1 (bottled)\r\nhttps://iojs.org/\r\n"
+    ],
+    [
+      0.000009,
+      "\r\nThis formula is keg-only.\r\niojs conflicts with node (which is currently more established)\r\n\r\n"
+    ],
+    [
+      0.000043,
+      "Not installed\r\n"
+    ],
+    [
+      0.007718,
+      "From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/iojs.rb\r\n"
+    ],
+    [
+      0.002309,
+      "\u001b[1;34m==\u003e\u001b[1;39m Dependencies\u001b[0m\r\n"
+    ],
+    [
+      0.002050,
+      "Build: xz \u001b[4;31m✘\u001b[0m, pkg-config \u001b[4;31m✘\u001b[0m\r\n"
+    ],
+    [
+      0.001107,
+      "Optional: icu4c \u001b[4;31m✘\u001b[0m\r\n"
+    ],
+    [
+      0.002487,
+      "\u001b[1;34m==\u003e\u001b[1;39m Options\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "--with-debug\r\n\tBuild with debugger hooks"
+    ],
+    [
+      0.000009,
+      "\r\n--with-icu4c\r\n\tBuild with Intl (icu4c) support\r\n"
+    ],
+    [
+      0.003739,
+      "\u001b[1;34m==\u003e\u001b[1;39m Caveats\u001b[0m\r\niojs was installed without npm.\r\n\r\niojs currently requires a patched npm (i.e. not the npm installed by node).\r\n"
+    ],
+    [
+      0.009224,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000157,
+      "\u001b]2;Stefano@MacBook-Air-di-Databiz-4: ~/Projects/scalajs-calendar\u0007"
+    ],
+    [
+      0.000022,
+      "\u001b]1;..lajs-calendar\u0007"
+    ],
+    [
+      0.000098,
+      "\u001b]7;file:///Users/Stefano/Projects/scalajs-calendar\u0007"
+    ],
+    [
+      0.039260,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000047,
+      "\u001b[K\u001b[147C\u001b[38;5;242mscalajs-calendar/git/master \u001b[00m\u001b[175D"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.057789,
+      "\r\r\n"
+    ]
+  ]
+}
