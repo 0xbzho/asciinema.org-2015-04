@@ -1,0 +1,1042 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 13,
+  "duration": 56.894227,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.062742,
+      "\u001b]0;cirque@beta: ~\u0007\u001b[1;32m\u001b[1mcirque\u001b[0m@\u001b[1;34m\u001b[1mbeta\u001b[0m:\u001b[0;33m\u001b[1m~\u001b[0m$ "
+    ],
+    [
+      2.340697,
+      "o"
+    ],
+    [
+      0.201340,
+      "p"
+    ],
+    [
+      0.135941,
+      "e"
+    ],
+    [
+      0.164198,
+      "n"
+    ],
+    [
+      0.260781,
+      "s"
+    ],
+    [
+      0.136997,
+      "s"
+    ],
+    [
+      0.091585,
+      "l"
+    ],
+    [
+      0.260125,
+      " "
+    ],
+    [
+      0.565210,
+      "s"
+    ],
+    [
+      0.509361,
+      "_"
+    ],
+    [
+      0.293175,
+      "c"
+    ],
+    [
+      0.102681,
+      "l"
+    ],
+    [
+      0.204193,
+      "i"
+    ],
+    [
+      0.533861,
+      "e"
+    ],
+    [
+      0.071425,
+      "n"
+    ],
+    [
+      0.350380,
+      "t"
+    ],
+    [
+      0.246200,
+      " "
+    ],
+    [
+      0.212140,
+      "c"
+    ],
+    [
+      0.509739,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.266629,
+      "-"
+    ],
+    [
+      0.160172,
+      "c"
+    ],
+    [
+      0.101736,
+      "o"
+    ],
+    [
+      0.251904,
+      "n"
+    ],
+    [
+      0.100403,
+      "n"
+    ],
+    [
+      0.088705,
+      "e"
+    ],
+    [
+      0.213604,
+      "c"
+    ],
+    [
+      0.202396,
+      "t"
+    ],
+    [
+      0.434356,
+      " "
+    ],
+    [
+      0.443116,
+      "i"
+    ],
+    [
+      0.091381,
+      "r"
+    ],
+    [
+      0.182246,
+      "c"
+    ],
+    [
+      0.085556,
+      "."
+    ],
+    [
+      0.112927,
+      "f"
+    ],
+    [
+      0.147955,
+      "r"
+    ],
+    [
+      0.152042,
+      "e"
+    ],
+    [
+      0.118862,
+      "e"
+    ],
+    [
+      0.056418,
+      "n"
+    ],
+    [
+      0.209570,
+      "o"
+    ],
+    [
+      0.083428,
+      "d"
+    ],
+    [
+      0.132998,
+      "e"
+    ],
+    [
+      0.042347,
+      "."
+    ],
+    [
+      0.239640,
+      "n"
+    ],
+    [
+      0.083498,
+      "e"
+    ],
+    [
+      0.191475,
+      "t"
+    ],
+    [
+      0.155183,
+      " "
+    ],
+    [
+      0.623540,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.585265,
+      ":"
+    ],
+    [
+      0.483971,
+      "6"
+    ],
+    [
+      0.154261,
+      "6"
+    ],
+    [
+      0.120749,
+      "9"
+    ],
+    [
+      0.096646,
+      "7"
+    ],
+    [
+      0.553060,
+      "\r\n"
+    ],
+    [
+      0.319647,
+      "CONNECTED(00000003)\r\n"
+    ],
+    [
+      0.058251,
+      "depth=1 C = FR, O = "
+    ],
+    [
+      0.000013,
+      "GANDI SAS, CN = Gandi "
+    ],
+    [
+      0.000008,
+      "Stan"
+    ],
+    [
+      0.000007,
+      "dard"
+    ],
+    [
+      0.000006,
+      " SS"
+    ],
+    [
+      0.000005,
+      "L C"
+    ],
+    [
+      0.000005,
+      "A"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "verify error:num=20:unable to get local issuer certificate\r\n"
+    ],
+    [
+      0.000008,
+      "verify return:0\r\n"
+    ],
+    [
+      0.075434,
+      "---\r\nCertificate chain\r\n"
+    ],
+    [
+      0.000038,
+      " 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net\r\n   i:/C=FR/O=GANDI SAS/CN=Gandi Standard SSL CA\r\n 1 s:/C=FR/O=GANDI SAS/CN=Gandi Standard SSL CA\r\n   i:/C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware\r\n---\r\n"
+    ],
+    [
+      0.000013,
+      "Server certificate\r\n"
+    ],
+    [
+      0.000012,
+      "-----BEGIN CERTIFICATE-----\r\n"
+    ],
+    [
+      0.000011,
+      "MIIE5jCCA86gAwIBAgIRAJ70g1ynPi73TW3fbOaE2pUwDQYJKoZIhvcNAQEFBQAw\r\nQTELMAkGA1UEBhMCRlIxEjAQBgNVBAoTCUdBTkRJIFNBUzEeMBwGA1UEAxMVR2Fu"
+    ],
+    [
+      0.000012,
+      "\r\nZGkgU3RhbmRhcmQgU1NMIENBMB4XDTE1MDEwMzAwMDAwMFoXDTE2MDExNTIzNTk1\r\n"
+    ],
+    [
+      0.000011,
+      "OVowYjEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRhdGVkMSQwIgYDVQQL\r\nExtHYW5kaSBTdGFuZGFyZCBXaWxkY2FyZCBTU0wxFzAVBgNVBAMUDiouZnJlZW5v\r\n"
+    ],
+    [
+      0.000009,
+      "ZGUubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7skEb2vyiMg0\r\nAepY0fhGs1QcKXqtKNESO1JnqTZN4b7EP/63vKHzJ8/IovUs5XiB2+ILrEPv22q5"
+    ],
+    [
+      0.000011,
+      "\r\nzNr//3ZgyzbpnNWeZ38mVQaa6yUEIoHR8vTqJljNqi2wIRXnjTMnBIYWjiGFymrI\r\n"
+    ],
+    [
+      0.000012,
+      "MhjeTpP/zp+h7GFPx7EE9G36yIp5h1d28vWwhGB14aOtiPhvxUzuRSs2jkvEco0A\r\nr88Ht3kHtboiFSNUYIVQtF1flbbovc/hxL2xIpSEidwfk1g8eP+g+bMgW2JcwzX2"
+    ],
+    [
+      0.000017,
+      "\r\nJoH0k4r8N3KdI5oN4t4zXXaKq8GXYBB+CbRnQKIMp/d7fltIjbMr5wbXrNX2l5Vn\r\nOoSW9DsfaQIDAQABo4IBtjCCAbIwHwYDVR0jBBgwFoAUtqj/oqgv0KbNS7Fo8+dQ"
+    ],
+    [
+      0.000015,
+      "\r\nEDGneSEwHQYDVR0OBBYEFEJE/NOiXurJ03ii77Ze+juIGiEwMA4GA1UdDwEB/wQE\r\nAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD\r\n"
+    ],
+    [
+      0.000009,
+      "AjBgBgNVHSAEWTBXMEsGCysGAQQBsjEBAgIaMDwwOgYIKwYBBQUHAgEWLmh0dHA6\r\nLy93d3cuZ2FuZGkubmV0L2NvbnRyYWN0cy9mci9zc2wvY3BzL3BkZi8wCAYGZ4EM"
+    ],
+    [
+      0.000009,
+      "\r\nAQIBMDwGA1UdHwQ1MDMwMaAvoC2GK2h0dHA6Ly9jcmwuZ2FuZGkubmV0L0dhbmRp"
+    ],
+    [
+      0.000009,
+      "\r\nU3RhbmRhcmRTU0xDQS5jcmwwagYIKwYBBQUHAQEEXjBcMDcGCCsGAQUFBzAChito"
+    ],
+    [
+      0.000009,
+      "\r\ndHRwOi8vY3J0LmdhbmRpLm5ldC9HYW5kaVN0YW5kYXJkU1NMQ0EuY3J0MCEGCCsG"
+    ],
+    [
+      0.000014,
+      "\r\nAQUFBzABhhVodHRwOi8vb2NzcC5nYW5kaS5uZXQwJwYDVR0RBCAwHoIOKi5mcmVl"
+    ],
+    [
+      0.000013,
+      "\r\nbm9kZS5uZXSCDGZyZWVub2RlLm5ldDANBgkqhkiG9w0BAQUFAAOCAQEAmQdK+2u0\r\n"
+    ],
+    [
+      0.000009,
+      "YiJtu7xKmvTAdIWCbOITm/c8QtukmrMce9HSJdNmRWxpAtr4JdvY7g+hbp/7p335\r\nXhVj9Hrbg7wrP+kSL4bmLSicZEHfabHtExSB7NXjzWKIqTxQ6bVrYfnfYz3YbmJ+"
+    ],
+    [
+      0.000009,
+      "\r\nP1d7d9XCy6bIyLlLz4bnW3Mq1/vgXep/rhaW9nnkts2TQw6WBC8a2ssgrDXEN/K+"
+    ],
+    [
+      0.000011,
+      "\r\nMrxgzKsTRFal+yTcsJRO5PuQ+W/eWkA+APt15i/d07UZwcVRisPQ4mGtv8ZKS8ft\r\n"
+    ],
+    [
+      0.000007,
+      "GmhvyTQ2/rstd9P0S2NGq5RiNX3dtxBiiZp7Wn7Xwkfq3vU11BkVDh42Q3sUefYL\r\n"
+    ],
+    [
+      0.000007,
+      "1K2fg+sOwxqj5g==\r\n"
+    ],
+    [
+      0.000006,
+      "-----END CERTIFICATE-----"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "issuer=/C=FR/O=GANDI SAS/CN=Gandi Standard SSL CA"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "---"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "No client certificate CA names sent\r\n"
+    ],
+    [
+      0.000018,
+      "---"
+    ],
+    [
+      0.000014,
+      "\r\nSSL handshake has read 3599 bytes and written 635 bytes"
+    ],
+    [
+      0.000013,
+      "\r\n---\r\n"
+    ],
+    [
+      0.000005,
+      "New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "Server public key is 2048 bit"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Secure Renegotiation IS supported"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Compression: NONE"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Expansion: NONE\r\n"
+    ],
+    [
+      0.000017,
+      "SSL-Session:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "    Protocol  : TLSv1.2\r\n"
+    ],
+    [
+      0.000005,
+      "    Cipher    : DHE-RSA-AES256-GCM-SHA384"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    Session-ID: 81DB545F83D05FFDAD48E9586F8A64914B35E813D955D4160385C0F095340DCC"
+    ],
+    [
+      0.000021,
+      "\r\n    Session-ID-ctx: \r\n"
+    ],
+    [
+      0.000162,
+      "    Master-Key: CCDE80296D5A33A3CD34D2062FD6A53438961FF315388AEA02AE27E80B6A5BFDC8900FBE89FEF3A5852B627C408640C4\r\n"
+    ],
+    [
+      0.000045,
+      "    Key-Arg   : None\r\n    PSK identity: None\r\n    PSK identity hint: None"
+    ],
+    [
+      0.000041,
+      "\r\n    SRP username: None\r\n    TLS session ticket lifetime hint: 300 (seconds)"
+    ],
+    [
+      0.000030,
+      "\r\n    TLS session ticket:\r\n"
+    ],
+    [
+      0.000021,
+      "    0000 - 2d 0e 7f fb 41 f2 2f 4c-53 d8 36 5d c7 25 7a 34   -...A./LS.6].%z4\r\n"
+    ],
+    [
+      0.000016,
+      "    0010 - 4e 25 7e 2d e6 90 2f 7e-22 6d 55 4e 58 ce 2a 15   N%~-../~\"mUNX.*."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "    0020 - 19 20 6f 72 0f 58 3b 1b-53 d6 ee 93 39 86 d0 03   . or.X;.S...9..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "    0030 - f6 e6 73 36 63 8b 4f c7-dd 11 2f f9 d9 3a 4e 0f   ..s6c.O.../..:N."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "    0040 - 25 a3 f0 30 e8 4c a9 92-2d bb c8 61 1c de f1 17   %..0.L..-..a...."
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "    0050 - 74 ee c7 95 12 ca ce 5b-f6 43 58 4b 57 7a 45 05   t......[.CXKWzE."
+    ],
+    [
+      0.000627,
+      "\r\n    0060 - d3 cc 3f 6a 01 15 4c 0c-02 1b 2d 52 7d 2d 4b dd   ..?j..L...-R}-K.\r\n    0070 - 6b 56 27 86 17 5b a7 11-53 ec d3 15 73 73 6a de   kV'..[..S...ssj.\r\n    0080 - 6c 08 59 46 26 02 4d 1c-ea 26 24 d9 77 03 46 e0   l.YF\u0026.M..\u0026$.w.F.\r\n    0090 - ad 59 80 39 e0 5c 89 01-26 0e 1d aa 6b f2 63 7d   .Y.9.\\..\u0026...k.c}\r\n\r\n    Start Time: 1429019313\r\n    Timeout   : 300 (sec)\r\n    Verify return code: 20 (unable to get local issuer certificate)\r\n---\r\n"
+    ],
+    [
+      0.087998,
+      ":orwell.freenode.net NOTICE * :*** Looking up your hostname...\r\r\n"
+    ],
+    [
+      0.000023,
+      ":orwell.freenode.net NOTICE * :*** Checking Ident\r\r\n"
+    ],
+    [
+      0.712993,
+      ":orwell.freenode.net NOTICE * :*** Found your hostname\r"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      8.766344,
+      "N"
+    ],
+    [
+      0.111360,
+      ":orwell.freenode.net NOTICE * :*** No Ident response\r\r\n"
+    ],
+    [
+      0.304311,
+      "i"
+    ],
+    [
+      0.638837,
+      "\u0008 \u0008"
+    ],
+    [
+      0.157799,
+      "\u0008 \u0008"
+    ],
+    [
+      1.543101,
+      "N"
+    ],
+    [
+      0.310901,
+      "i"
+    ],
+    [
+      0.132672,
+      "c"
+    ],
+    [
+      0.113741,
+      "k"
+    ],
+    [
+      0.260155,
+      " "
+    ],
+    [
+      2.382815,
+      "s"
+    ],
+    [
+      0.014239,
+      "d"
+    ],
+    [
+      0.009139,
+      "f"
+    ],
+    [
+      0.120869,
+      "g"
+    ],
+    [
+      0.092316,
+      "d"
+    ],
+    [
+      0.031260,
+      "x"
+    ],
+    [
+      0.028393,
+      "f"
+    ],
+    [
+      0.037014,
+      "g"
+    ],
+    [
+      0.048331,
+      "c"
+    ],
+    [
+      0.197681,
+      "\r\n"
+    ],
+    [
+      5.886335,
+      "U"
+    ],
+    [
+      0.189550,
+      "s"
+    ],
+    [
+      0.173136,
+      "e"
+    ],
+    [
+      0.136732,
+      "r"
+    ],
+    [
+      0.166423,
+      " "
+    ],
+    [
+      0.981915,
+      "d"
+    ],
+    [
+      0.027935,
+      "x"
+    ],
+    [
+      0.103196,
+      "r"
+    ],
+    [
+      0.028689,
+      "f"
+    ],
+    [
+      0.084813,
+      "d"
+    ],
+    [
+      0.024095,
+      "s"
+    ],
+    [
+      0.042349,
+      "r"
+    ],
+    [
+      0.047043,
+      "z"
+    ],
+    [
+      0.009119,
+      "x"
+    ],
+    [
+      0.084816,
+      "g"
+    ],
+    [
+      0.583895,
+      " "
+    ],
+    [
+      1.931081,
+      "8"
+    ],
+    [
+      0.167001,
+      " "
+    ],
+    [
+      0.652545,
+      "*"
+    ],
+    [
+      0.895040,
+      " "
+    ],
+    [
+      0.233009,
+      ":"
+    ],
+    [
+      0.802116,
+      "r"
+    ],
+    [
+      0.122791,
+      "i"
+    ],
+    [
+      0.191374,
+      "k"
+    ],
+    [
+      0.093620,
+      "a"
+    ],
+    [
+      0.095720,
+      " "
+    ],
+    [
+      0.158095,
+      "r"
+    ],
+    [
+      0.074546,
+      "i"
+    ],
+    [
+      0.162131,
+      "k"
+    ],
+    [
+      0.076873,
+      "a"
+    ],
+    [
+      0.203518,
+      "\r\n"
+    ],
+    [
+      0.072355,
+      ":orwell.freenode.net 001 sdfgdxfgc :Welcome to the freenode Internet Relay Chat Network sdfgdxfgc\r\r\n"
+    ],
+    [
+      0.000983,
+      ":orwell.freenode.net 002 sdfgdxfgc :Your host is orwell.freenode.net[185.30.166.38/6697], running version ircd-seven-1.1.3\r"
+    ],
+    [
+      0.000080,
+      "\r\n:orwell.freenode.net 003 sdfgdxfgc :This server was created Sun Mar 15 2015 at 18:30:44 UTC\r\r\n"
+    ],
+    [
+      0.000071,
+      ":orwell.freenode.net 004 sdfgdxfgc orwell.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI\r\r\n:orwell.freenode.net 005 sdfgdxfgc CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server\r"
+    ],
+    [
+      0.000080,
+      "\r\n:orwell.freenode.net 005 sdfgdxfgc CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server\r"
+    ],
+    [
+      0.000119,
+      "\r\n:orwell.freenode.net 005 sdfgdxfgc EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server\r"
+    ],
+    [
+      0.000072,
+      "\r\n:orwell.freenode.net 251 sdfgdxfgc :There are 180 users and 94928 invisible on 25 servers\r\r\n"
+    ],
+    [
+      0.000364,
+      ":orwell.freenode.net 252 sdfgdxfgc 21 :IRC Operators online\r\r\n"
+    ],
+    [
+      0.000243,
+      ":orwell.freenode.net 253 sdfgdxfgc 12 :unknown connection(s)\r\r\n:orwell.freenode.net 254 sdfgdxfgc 57010 :channels formed\r\r\n:orwell.freenode.net 255 sdfgdxfgc :I have 3909 clients and 1 servers\r\r\n"
+    ],
+    [
+      0.000128,
+      ":orwell.freenode.net 265 sdfgdxfgc 3909 3942 :Current local users 3909, max 3942\r\r\n:orwell.freenode.net 266 sdfgdxfgc 95108 99261 :Current global users 95108, max 99261\r\r\n:orwell.freenode.net 250 sdfgdxfgc :Highest connection count: 3943 (3942 clients) (232406 connections received)\r\r\n:orwell.freenode.net 375 sdfgdxfgc :- orwell.freenode.net Message of the Day - \r\r\n"
+    ],
+    [
+      0.000075,
+      ":orwell.freenode.net 372 sdfgdxfgc :- Welcome to orwell.freenode.net in Amsterdam, NL.\r\r\n:orwell.freenode.net 372 sdfgdxfgc :- Thanks to http://www.hyperfilter.com/ for sponsoring\r\r\n"
+    ],
+    [
+      0.000129,
+      ":orwell.freenode.net 372 sdfgdxfgc :- this server!\r\r\n:orwell.freenode.net 372 sdfgdxfgc :-  \r\r\n"
+    ],
+    [
+      0.000046,
+      ":orwell.freenode.net 372 sdfgdxfgc :- ORWELL, GEORGE [1903 - 1950] Born in India, his mother\r\r\n:orwell.freenode.net 372 sdfgdxfgc :- moved him to England when he was one year old, and it\r\r\n:orwell.freenode.net 372 sdfgdxfgc :- was in England where he was educated and spent most of\r"
+    ],
+    [
+      0.000046,
+      "\r\n:orwell.freenode.net 372 sdfgdxfgc :- his life.  Orwell is perhaps best known for his novels\r\r\n"
+    ],
+    [
+      0.000031,
+      ":orwell.freenode.net 372 sdfgdxfgc :- Nineteen Eighty-Four and Animal Farm.\r\r\n:orwell.freenode.net 372 sdfgdxfgc :-  \r"
+    ],
+    [
+      0.000034,
+      "\r\n:orwell.freenode.net 372 sdfgdxfgc :-  \r\r\n"
+    ],
+    [
+      0.000025,
+      ":orwell.freenode.net 372 sdfgdxfgc :- Welcome to freenode - supporting the free and open source\r\r\n"
+    ],
+    [
+      0.000017,
+      ":orwell.freenode.net 372 sdfgdxfgc :- software communities since 1998.\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      ":orwell.freenode.net 372 sdfgdxfgc :-  \r\r\n"
+    ],
+    [
+      0.000016,
+      ":orwell.freenode.net 372 sdfgdxfgc :- By connecting to freenode you indicate that you have read and\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      ":orwell.freenode.net 372 sdfgdxfgc :- accept our policies as set out on http://www.freenode.net\r\r\n"
+    ],
+    [
+      0.000015,
+      ":orwell.freenode.net 372 sdfgdxfgc :- freenode runs an open proxy scanner. Please join #freenode for\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      ":orwell.freenode.net 372 sdfgdxfgc :- any network-related questions or queries, where a number of\r\r\n"
+    ],
+    [
+      0.000017,
+      ":orwell.freenode.net 372 sdfgdxfgc :- volunteer staff and helpful users will be happy to assist you.\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      ":orwell.freenode.net 372 sdfgdxfgc :-  \r\r\n"
+    ],
+    [
+      0.048035,
+      ":orwell.freenode.net 372 sdfgdxfgc :- You can meet us at FOSSCON (http://www.fosscon.org) where we get\r\r\n"
+    ],
+    [
+      0.000144,
+      ":orwell.freenode.net 372 sdfgdxfgc :- together with like-minded FOSS enthusiasts for talks and\r\r\n:orwell.freenode.net 372 sdfgdxfgc :- real-life collaboration.\r"
+    ],
+    [
+      0.000096,
+      "\r\n:orwell.freenode.net 372 sdfgdxfgc :-  \r\r\n:orwell.freenode.net 372 sdfgdxfgc :- We would like to thank Private Internet Access\r"
+    ],
+    [
+      0.000070,
+      "\r\n:orwell.freenode.net 372 sdfgdxfgc :- (https://www.privateinternetaccess.com/) and the other\r\r\n"
+    ],
+    [
+      0.000039,
+      ":orwell.freenode.net 372 sdfgdxfgc :- organisations that help keep freenode and our other projects\r\r\n"
+    ],
+    [
+      0.000053,
+      ":orwell.freenode.net 372 sdfgdxfgc :- running for their sustained support.\r\r\n"
+    ],
+    [
+      0.000053,
+      ":orwell.freenode.net 372 sdfgdxfgc :-  \r\r\n"
+    ],
+    [
+      0.000035,
+      ":orwell.freenode.net 372 sdfgdxfgc :- In particular we would like to thank the sponsor\r"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      ":orwell.freenode.net 372 sdfgdxfgc :- of this server, details of which can be found above.\r\r\n"
+    ],
+    [
+      0.000028,
+      ":orwell.freenode.net 372 sdfgdxfgc :-  \r"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      ":orwell.freenode.net 376 sdfgdxfgc :End of /MOTD command.\r\r\n"
+    ],
+    [
+      0.000045,
+      ":sdfgdxfgc MODE sdfgdxfgc :+Zi\r\r\n"
+    ],
+    [
+      1.777866,
+      "N"
+    ],
+    [
+      0.236344,
+      "S"
+    ],
+    [
+      0.120020,
+      " "
+    ],
+    [
+      1.204379,
+      "i"
+    ],
+    [
+      0.120907,
+      "d"
+    ],
+    [
+      0.148742,
+      "e"
+    ],
+    [
+      0.058480,
+      "n"
+    ],
+    [
+      0.175321,
+      "t"
+    ],
+    [
+      0.140983,
+      "i"
+    ],
+    [
+      0.559113,
+      "f"
+    ],
+    [
+      0.183305,
+      "y"
+    ],
+    [
+      0.113648,
+      " "
+    ],
+    [
+      0.191389,
+      "r"
+    ],
+    [
+      0.089618,
+      "i"
+    ],
+    [
+      0.176285,
+      "k"
+    ],
+    [
+      0.068411,
+      "a"
+    ],
+    [
+      0.488614,
+      " "
+    ],
+    [
+      0.543937,
+      "t"
+    ],
+    [
+      0.200326,
+      "e"
+    ],
+    [
+      0.221477,
+      "s"
+    ],
+    [
+      0.235442,
+      "t"
+    ],
+    [
+      0.479642,
+      "\r\n"
+    ],
+    [
+      0.084623,
+      ":NickServ!NickServ@services. NOTICE sdfgdxfgc :You are now identified for \u0002rika\u0002.\r\r\n"
+    ],
+    [
+      0.049722,
+      ":orwell.freenode.net 396 sdfgdxfgc trivialand/guesser/rika :is now your hidden host (set by services.)\r\r\n"
+    ],
+    [
+      2.975181,
+      "^C"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000440,
+      "\u001b]0;cirque@beta: ~\u0007\u001b[1;32m\u001b[1mcirque\u001b[0m@\u001b[1;34m\u001b[1mbeta\u001b[0m:\u001b[0;33m\u001b[1m~\u001b[0m$ "
+    ],
+    [
+      0.918456,
+      "exit"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ]
+  ]
+}
