@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 51,
+  "duration": 30.182517,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.255873,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.035244,
+      "\u001bk..sions/bins/pe\u001b\\"
+    ],
+    [
+      0.000238,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 9:18 \u001b[1m~/Projects/Reverse/radare2/r2-regressions/bins/pe\u001b[0m "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[104C\u001b[33m\u001b[32m\u001b[00m [\u001b[34minfo\u001b[00m] \u001b[33mgit\u001b[00m:r2-regressions\u001b[130D"
+    ],
+    [
+      0.000055,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.453444,
+      "r"
+    ],
+    [
+      0.175334,
+      "\u0008r2 normal.exe"
+    ],
+    [
+      0.807840,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000092,
+      "\r\r\n"
+    ],
+    [
+      0.000816,
+      "\u001bkr2\u001b\\"
+    ],
+    [
+      0.036250,
+      "Warning: Invalid import directory size: 0xffff\r\n"
+    ],
+    [
+      0.000881,
+      " -- This code was intentionally left blank, try 'e asm.arch = ws'\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[?25h"
+    ],
+    [
+      0.000003,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000003,
+      "\u001b[0K\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      1.561794,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i"
+    ],
+    [
+      0.815968,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i\r\n"
+    ],
+    [
+      0.000145,
+      "type     EXEC (Executable file)\r\nfile     normal.exe\r\nfd       6\r\nsize     0x400\r\nblksz    0x0\r\nmode     r--\r\nblock    0x100\r\nformat   pe\r\npic      false\r\ncanary   false\r\nnx       false\r\ncrypto   false\r\nva       true\r\nroot     pe\r\nclass    PE32\r\narch     x86\r\nbits     32\r\nmachine  i386\r\nos       windows\r\nsubsys   Windows CUI\r\nendian   little\r\nstrip    true\r\nstatic   false\r\nlinenum  false\r\nlsyms    false\r\nrelocs   false\r\nbinsz    1024\r\ncompiled Thu Jan  1 00:00:00 1970\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[?25h\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      4.255671,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i"
+    ],
+    [
+      0.080007,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij"
+    ],
+    [
+      0.431983,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|"
+    ],
+    [
+      0.183948,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|j\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|j"
+    ],
+    [
+      0.120030,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|js\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|js"
+    ],
+    [
+      0.135959,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|jso\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|jso"
+    ],
+    [
+      0.079951,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json"
+    ],
+    [
+      0.296014,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json_\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json_"
+    ],
+    [
+      0.248014,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json_p\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json_p"
+    ],
+    [
+      0.152000,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json_pp\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json_pp"
+    ],
+    [
+      0.184064,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m ij|json_pp\r\n"
+    ],
+    [
+      0.035019,
+      "{\r\n   \"core\" : {\r\n      \"format\" : \"pe\",\r\n      \"mode\" : \"r--\",\r\n      \"size\" : 1024,\r\n      \"type\" : \"EXEC (Executable file)\",\r\n      \"file\" : \"normal.exe\",\r\n      \"fd\" : 6,\r\n      \"block\" : 256\r\n   },\r\n   \"bin\" : {\r\n      \"linenums\" : false,\r\n      \"relocs\" : false,\r\n      \"va\" : true,\r\n      \"nx\" : false,\r\n      \"machine\" : \"i386\",\r\n      \"type\" : \"pe\",\r\n      \"pic\" : false,\r\n      \"class\" : \"PE32\",\r\n      \"endian\" : \"little\",\r\n      \"arch\" : \"x86\",\r\n      \"bits\" : 32,\r\n      \"lang\" : \"\",\r\n      \"stripped\" : true,\r\n      \"canary\" : false,\r\n      \"syms\" : false,\r\n      \"crypto\" : false,\r\n      \"static\" : false,\r\n      \"os\" : \"windows\"\r\n   }\r\n}\r\n"
+    ],
+    [
+      0.000772,
+      "\u001b[?25h"
+    ],
+    [
+      0.000006,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      3.147933,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i"
+    ],
+    [
+      0.328029,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m iI\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m iI"
+    ],
+    [
+      0.351967,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m iI\r\n"
+    ],
+    [
+      0.000098,
+      "pic      false\r\ncanary   false\r\nnx       false\r\ncrypto   false\r\nva       true\r\nroot     pe\r\nclass    PE32\r\narch     x86\r\nbits     32\r\nmachine  i386\r\nos       windows\r\nsubsys   Windows CUI\r\nendian   little\r\nstrip    true\r\nstatic   false\r\nlinenum  false\r\nlsyms    false\r\nrelocs   false\r\nbinsz    1024\r\ncompiled Thu Jan  1 00:00:00 1970\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[?25h\u001b[0K\r"
+    ],
+    [
+      0.000005,
+      "\u001b[0K\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      3.143802,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i"
+    ],
+    [
+      0.167991,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m il\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m il"
+    ],
+    [
+      0.471944,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m il\r\n"
+    ],
+    [
+      0.000034,
+      "[Linked libraries]\r\nkernel32.dll\r\nmsvcrt.dll\r\n\r\n2 libraries\r\n\r\n\u001b[?25h"
+    ],
+    [
+      0.000006,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      2.663887,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m i"
+    ],
+    [
+      0.111899,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m iq\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m iq"
+    ],
+    [
+      0.224034,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m iq\r\n"
+    ],
+    [
+      0.000051,
+      "arch x86\r\nbits 32\r\nos windows\r\nendian little\r\n\r\n\u001b[?25h"
+    ],
+    [
+      0.000008,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      7.447569,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m q\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m q"
+    ],
+    [
+      0.360057,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00401000]\u003e\u001b[0m q\r\n"
+    ],
+    [
+      0.002135,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.032341,
+      "\u001bk..sions/bins/pe\u001b\\"
+    ],
+    [
+      0.000089,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 9:19 \u001b[1m~/Projects/Reverse/radare2/r2-regressions/bins/pe\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[104C\u001b[33m\u001b[32m\u001b[00m [\u001b[34minfo\u001b[00m] \u001b[33mgit\u001b[00m:r2-regressions\u001b[130D"
+    ],
+    [
+      0.000023,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.357477,
+      "\r\r\n"
+    ]
+  ]
+}
