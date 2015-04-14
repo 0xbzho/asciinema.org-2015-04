@@ -1,0 +1,1338 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 51,
+  "duration": 27.512227,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.016890,
+      "\u001b]0;root@moneta: ~/blocktrail-sdk-nodejs-1.2.6\u0007root@moneta:~/blocktrail-sdk-nodejs-1.2.6# "
+    ],
+    [
+      4.878877,
+      "a"
+    ],
+    [
+      0.704495,
+      "p"
+    ],
+    [
+      0.476788,
+      "t"
+    ],
+    [
+      0.503163,
+      "-"
+    ],
+    [
+      0.535682,
+      "g"
+    ],
+    [
+      0.452213,
+      "e"
+    ],
+    [
+      0.315683,
+      "t"
+    ],
+    [
+      0.400096,
+      " "
+    ],
+    [
+      0.423857,
+      "u"
+    ],
+    [
+      0.547935,
+      "p"
+    ],
+    [
+      1.511881,
+      "d"
+    ],
+    [
+      0.344048,
+      "a"
+    ],
+    [
+      0.648166,
+      "t"
+    ],
+    [
+      0.247684,
+      "e"
+    ],
+    [
+      0.864731,
+      "\r\n"
+    ],
+    [
+      0.039474,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.058166,
+      "\r            \rHit http://download.mono-project.com wheezy InRelease"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r            \r0% [Connecting to mirrors.digitalocean.com (198.199.99.226)] [Connecting to sec"
+    ],
+    [
+      0.000459,
+      "\r0% [InRelease gpgv 8,033 B] [Connecting to mirrors.digitalocean.com (198.199.99"
+    ],
+    [
+      0.005237,
+      "\r8% [Connecting to mirrors.digitalocean.com (198.199.99.226)] [Connecting to sec"
+    ],
+    [
+      0.009920,
+      "\r                                                                               \rHit http://download.mono-project.com wheezy/main amd64 Packages\r\n\r8% [Connecting to mirrors.digitalocean.com (198.199.99.226)] [Connecting to sec"
+    ],
+    [
+      0.000679,
+      "\r8% [Packages 358 kB] [Connecting to mirrors.digitalocean.com (198.199.99.226)] "
+    ],
+    [
+      0.003719,
+      "\r                                                                               \rHit http://download.mono-project.com wheezy/main i386 Packages\r\n"
+    ],
+    [
+      0.000006,
+      "\r8% [Packages 358 kB] [Connecting to mirrors.digitalocean.com (198.199.99.226)] "
+    ],
+    [
+      0.003867,
+      "\r100% [Connecting to mirrors.digitalocean.com (198.199.99.226)] [Connecting to s"
+    ],
+    [
+      0.000049,
+      "\r100% [Packages 358 kB] [Connecting to mirrors.digitalocean.com (198.199.99.226)"
+    ],
+    [
+      0.008067,
+      "\r100% [Connecting to mirrors.digitalocean.com (198.199.99.226)] [Connecting to s"
+    ],
+    [
+      0.023005,
+      "\r                                                                               \rIgn http://download.mono-project.com wheezy/main Translation-en_US\r\n"
+    ],
+    [
+      0.000010,
+      "\r100% [Connecting to mirrors.digitalocean.com (198.199.99.226)] [Waiting for hea"
+    ],
+    [
+      0.003830,
+      "\r                                                                               \rIgn http://download.mono-project.com wheezy/main Translation-en\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Connecting to mirrors.digitalocean.com (198.199.99.226)] [Waiting for hea"
+    ],
+    [
+      0.045584,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r                                                                               \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001987,
+      "\r                                                \rIgn http://security.ubuntu.com trusty-security InRelease\r\n\r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.059174,
+      "\r                                                \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.017844,
+      "\r                                                                      \rGet:1 http://security.ubuntu.com trusty-security Release.gpg [933 B]\r\n\r                                                                      \r100% [Connecting to nyc2.mirrors.digitalocean.com] [Waiting for headers] [1 Rel"
+    ],
+    [
+      0.000192,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Connecting to nyc2.mirrors.digitalocean.com] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.020536,
+      "\r                                                                               \rIgn http://mirrors.digitalocean.com trusty InRelease\r\n"
+    ],
+    [
+      0.000072,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.040501,
+      "\r                                                                      \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.002232,
+      "\r                                                \rIgn http://mirrors.digitalocean.com trusty-updates InRelease\r\n\r                                                \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.007982,
+      "\r                                                                      \rGet:2 http://security.ubuntu.com trusty-security Release [63.5 kB]\r\n"
+    ],
+    [
+      0.000015,
+      "\r                                                                      \r92% [Waiting for headers] [2 Release 1,139 B/63.5 kB 2%] [Waiting for headers]"
+    ],
+    [
+      0.003942,
+      "\r                                                                              \rIgn http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000007,
+      "\r\n\r                                                                              \r94% [Waiting for headers] [2 Release 14.2 kB/63.5 kB 22%] [Waiting for headers]"
+    ],
+    [
+      0.070454,
+      "\r                                                                               \r96% [2 Release 30.1 kB/63.5 kB 47%] [Waiting for headers]"
+    ],
+    [
+      0.001836,
+      "\r                                                         \rHit http://mirrors.digitalocean.com trusty Release.gpg\r\n\r                                                         \r96% [Waiting for headers] [2 Release 30.1 kB/63.5 kB 47%] [Waiting for headers]"
+    ],
+    [
+      0.005927,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty Release.gpg\r\n"
+    ],
+    [
+      0.000013,
+      "\r96% [Waiting for headers] [2 Release 30.1 kB/63.5 kB 47%] [Waiting for headers]"
+    ],
+    [
+      0.076160,
+      "\r                                                                               \rGet:3 http://ppa.launchpad.net trusty Release.gpg [316 B]\r\n"
+    ],
+    [
+      0.000135,
+      "\r99% [Waiting for headers] [2 Release 56.2 kB/63.5 kB 89%] [Waiting for headers]"
+    ],
+    [
+      0.000118,
+      "\r                                                                               \r99% [2 Release 56.2 kB/63.5 kB 89%] [Waiting for headers]"
+    ],
+    [
+      0.001996,
+      "\r                                                         \rGet:4 http://mirrors.digitalocean.com trusty-updates Release.gpg [933 B]\r\n\r                                                         \r99% [Waiting for headers] [2 Release 56.2 kB/63.5 kB 89%] [Waiting for headers]"
+    ],
+    [
+      0.055008,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001494,
+      "\r                                                \r100% [2 Release gpgv 63.5 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.015403,
+      "\r                                                                         \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000790,
+      "\r                                                \rHit http://ppa.launchpad.net trusty Release.gpg\r\n"
+    ],
+    [
+      0.000014,
+      "\r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.010741,
+      "\r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001830,
+      "\r                                                \rHit http://mirrors.digitalocean.com trusty Release"
+    ],
+    [
+      0.000011,
+      "\r\n\r                                                \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000966,
+      "\r                                                                      \r100% [Release gpgv 58.5 kB] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.014544,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.044722,
+      "\r                                                                      \rGet:5 http://security.ubuntu.com trusty-security/main Sources [78.5 kB]\r\n\r                                                                      \r94% [Waiting for headers] [5 Sources 30.1 kB/78.5 kB 38%] [Waiting for headers]"
+    ],
+    [
+      0.001887,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty Release"
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000231,
+      "\r                                                                               \r94% [Waiting for headers] [5 Sources 30.1 kB/78.5 kB 38%]"
+    ],
+    [
+      0.021205,
+      "\r94% [5 Sources 30.1 kB/78.5 kB 38%] [Waiting for headers]"
+    ],
+    [
+      0.001383,
+      "\r                                                         \rHit https://deb.nodesource.com trusty InRelease"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "\r                                                         \r94% [Waiting for headers] [Waiting for headers] [5 Sources 30.1 kB/78.5 kB 38%]"
+    ],
+    [
+      0.000255,
+      "\r                                                                               \rGet:6 http://mirrors.digitalocean.com trusty-updates Release [63.5 kB]"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000362,
+      "\r89% [6 Release 14.2 kB/63.5 kB 22%] [Waiting for headers] [5 Sources 30.1 kB/78"
+    ],
+    [
+      0.000819,
+      "\r90% [6 Release 20.5 kB/63.5 kB 32%] [InRelease gpgv 3,899 B] [Waiting for heade"
+    ],
+    [
+      0.002970,
+      "\r95% [InRelease gpgv 3,899 B] [Waiting for headers] [5 Sources 30.1 kB/78.5 kB 3"
+    ],
+    [
+      0.009096,
+      "\r95% [Waiting for headers] [5 Sources 30.1 kB/78.5 kB 38%] [Waiting for headers]"
+    ],
+    [
+      0.001802,
+      "\r95% [6 Release gpgv 63.5 kB] [Waiting for headers] [5 Sources 30.1 kB/78.5 kB 3"
+    ],
+    [
+      0.013134,
+      "\r95% [Waiting for headers] [5 Sources 30.1 kB/78.5 kB 38%] [Waiting for headers]"
+    ],
+    [
+      0.025339,
+      "\r                                                                               \rGet:7 http://ppa.launchpad.net trusty Release [15.1 kB]\r\n"
+    ],
+    [
+      0.000015,
+      "\r98% [Waiting for headers] [5 Sources 64.8 kB/78.5 kB 83%] [7 Release 14.2 kB/15"
+    ],
+    [
+      0.029731,
+      "\r                                                                               \r98% [5 Sources 64.8 kB/78.5 kB 83%] [7 Release 14.2 kB/15.1 kB 94%]"
+    ],
+    [
+      0.002593,
+      "\r                                                                   \rHit http://mirrors.digitalocean.com trusty/main Sources\r\n"
+    ],
+    [
+      0.000019,
+      "\r                                                                   \r98% [Waiting for headers] [5 Sources 64.8 kB/78.5 kB 83%] [7 Release 14.2 kB/15"
+    ],
+    [
+      0.002378,
+      "\r98% [Sources 5,000 kB] [Waiting for headers] [5 Sources 64.8 kB/78.5 kB 83%] [7"
+    ],
+    [
+      0.007234,
+      "\r                                                                               \rHit https://deb.nodesource.com trusty/main Sources"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "\r98% [Sources 5,000 kB] [Waiting for headers] [5 Sources 64.8 kB/78.5 kB 83%] [7"
+    ],
+    [
+      0.030997,
+      "\r                                                                               \r100% [Sources 5,000 kB] [Waiting for headers] [7 Release 15.1 kB/15.1 kB 100%]"
+    ],
+    [
+      0.000606,
+      "\r                                                                              \r100% [Sources 5,000 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000992,
+      "\r                                                                   \r100% [Sources 5,000 kB] [7 Release gpgv 15.1 kB] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.001219,
+      "\r100% [5 Sources bzip2 0 B] [Sources 5,000 kB] [7 Release gpgv 15.1 kB] [Waiting"
+    ],
+    [
+      0.010237,
+      "\r100% [5 Sources bzip2 0 B] [Sources 5,000 kB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.028060,
+      "\r100% [5 Sources bzip2 0 B] [Sources 5,000 kB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.001849,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty/universe Sources\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [5 Sources bzip2 0 B] [Sources 5,000 kB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.008253,
+      "\r                                                                               \rHit https://deb.nodesource.com trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.000010,
+      "\r100% [5 Sources bzip2 0 B] [Sources 5,000 kB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.020500,
+      "\r100% [Sources 5,000 kB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.003864,
+      "\r                                                                               \rGet:8 http://security.ubuntu.com trusty-security/universe Sources [19.5 kB]\r\n\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Sources 5,000 kB] [Waiting for headers] [8 Sources 19.5 kB/19.5 kB 100%] \r100% [Sources 5,000 kB] [Release gpgv 15.1 kB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.000140,
+      "\r100% [8 Sources bzip2 0 B] [Sources 5,000 kB] [Release gpgv 15.1 kB] [Waiting f"
+    ],
+    [
+      0.010978,
+      "\r100% [Sources 5,000 kB] [Release gpgv 15.1 kB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.002248,
+      "\r100% [Sources 5,000 kB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.038540,
+      "\r                                                                               \r100% [Sources 5,000 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003687,
+      "\r                                                                   \rHit http://mirrors.digitalocean.com trusty/main amd64 Packages"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.000232,
+      "\r                                                                   \r100% [Sources 5,000 kB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.000543,
+      "\r                                                                               \rHit https://deb.nodesource.com trusty/main i386 Packages"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "\r100% [Sources 5,000 kB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.012824,
+      "\r                                                                               \rGet:9 http://security.ubuntu.com trusty-security/main amd64 Packages [258 kB]"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "\r81% [Sources 5,000 kB] [Waiting for headers] [9 Packages 32.1 kB/258 kB 12%] [W"
+    ],
+    [
+      0.042654,
+      "\r96% [Waiting for headers] [9 Packages 37.3 kB/258 kB 14%] [Waiting for headers]"
+    ],
+    [
+      0.000627,
+      "\r96% [Sources 1,277 B] [Waiting for headers] [9 Packages 37.3 kB/258 kB 14%] [Wa"
+    ],
+    [
+      0.000555,
+      "\r96% [Waiting for headers] [9 Packages 37.3 kB/258 kB 14%] [Waiting for headers]"
+    ],
+    [
+      0.000510,
+      "\r96% [Sources 27.9 MB] [Waiting for headers] [9 Packages 37.3 kB/258 kB 14%] [Wa"
+    ],
+    [
+      0.022246,
+      "\r96% [Sources 27.9 MB] [Waiting for headers] [9 Packages 37.3 kB/258 kB 14%] [Wa"
+    ],
+    [
+      0.001554,
+      "\r                                                                               \rGet:10 https://deb.nodesource.com trusty/main Translation-en_US"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "\r96% [Waiting for headers] [Sources 27.9 MB] [Waiting for headers] [9 Packages 3"
+    ],
+    [
+      0.000463,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty/universe amd64 Packages"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "\r96% [Sources 27.9 MB] [Waiting for headers] [9 Packages 37.3 kB/258 kB 14%] [Wa"
+    ],
+    [
+      0.082442,
+      "\r98% [Sources 27.9 MB] [Waiting for headers] [9 Packages 129 kB/258 kB 50%] [Wai"
+    ],
+    [
+      0.001681,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty/main i386 Packages"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\r98% [Sources 27.9 MB] [Waiting for headers] [9 Packages 129 kB/258 kB 50%] [Wai"
+    ],
+    [
+      0.082400,
+      "\r99% [Sources 27.9 MB] [Waiting for headers] [9 Packages 168 kB/258 kB 65%] [Wai"
+    ],
+    [
+      0.001708,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty/universe i386 Packages"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\r99% [Sources 27.9 MB] [Waiting for headers] [9 Packages 168 kB/258 kB 65%] [Wai"
+    ],
+    [
+      0.082383,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [9 Packages 230 kB/258 kB 89%] [Wa"
+    ],
+    [
+      0.001034,
+      "\r                                                                               \rGet:11 http://ppa.launchpad.net trusty/main amd64 Packages [9,756 B]"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000162,
+      "\r100% [Waiting for headers] [Sources 27.9 MB] [Waiting for headers] [9 Packages "
+    ],
+    [
+      0.003439,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [9 Packages 230 kB/258 kB 89%] [Wa"
+    ],
+    [
+      0.029469,
+      "\r                                                                               \r100% [Sources 27.9 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.005384,
+      "\r                                                                  \r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.036766,
+      "\r                                                                               \rGet:12 http://ppa.launchpad.net trusty/main i386 Packages [10.1 kB]"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.000326,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.007390,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.002184,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty/main Translation-en"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.026628,
+      "\r                                                                               \rGet:13 http://security.ubuntu.com trusty-security/universe amd64 Packages [92.5 kB]"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [13 Package"
+    ],
+    [
+      0.037628,
+      "\r                                                                               \rGet:14 http://ppa.launchpad.net trusty/main Translation-en [4,026 B]"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [13 Package"
+    ],
+    [
+      0.000249,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [13 Package"
+    ],
+    [
+      0.017603,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [13 Package"
+    ],
+    [
+      0.014169,
+      "\r100% [9 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.013479,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000216,
+      "\r100% [12 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.002972,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000186,
+      "\r100% [14 Translation-en bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Wai"
+    ],
+    [
+      0.001541,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000196,
+      "\r100% [13 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.023947,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "\r100% [13 Packages bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.016951,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.010200,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.002792,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty/universe Translation-en"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "\r                                                                               \rGet:15 http://security.ubuntu.com trusty-security/main i386 Packages [248 kB]"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\r97% [Sources 27.9 MB] [Waiting for headers] [15 Packages 73.5 kB/248 kB 30%] [W"
+    ],
+    [
+      0.046213,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "\r97% [Sources 27.9 MB] [Waiting for headers] [15 Packages 73.5 kB/248 kB 30%] [W"
+    ],
+    [
+      0.035146,
+      "\r98% [Sources 27.9 MB] [Waiting for headers] [15 Packages 139 kB/248 kB 56%] [Wa"
+    ],
+    [
+      0.006363,
+      "\r                                                                               \rGet:16 http://mirrors.digitalocean.com trusty-updates/main Sources [192 kB]"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "\r97% [16 Sources 101 kB/192 kB 53%] [Sources 27.9 MB] [Waiting for headers] [15 "
+    ],
+    [
+      0.005040,
+      "\r98% [Sources 27.9 MB] [Waiting for headers] [15 Packages 139 kB/248 kB 56%] [Wa"
+    ],
+    [
+      0.000373,
+      "\r98% [16 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [15 Packages"
+    ],
+    [
+      0.028436,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000242,
+      "\r98% [16 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [15 Packages"
+    ],
+    [
+      0.038734,
+      "\r                                                                               \rIgn https://deb.nodesource.com trusty/main Translation-en_US"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "\r99% [16 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [15 Packages"
+    ],
+    [
+      0.004398,
+      "\r99% [16 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [15 Packages"
+    ],
+    [
+      0.002272,
+      "\r                                                                               \rGet:17 http://mirrors.digitalocean.com trusty-updates/universe Sources [108 kB]"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "\r98% [16 Sources bzip2 0 B] [17 Sources 8,192 B/108 kB 8%] [Sources 27.9 MB] [Wa"
+    ],
+    [
+      0.004617,
+      "\r99% [16 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [15 Packages"
+    ],
+    [
+      0.040269,
+      "\r100% [16 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.007766,
+      "\r100% [Sources 27.9 MB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000433,
+      "\r100% [17 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.022389,
+      "\r                                                                               \rIgn https://deb.nodesource.com trusty/main Translation-en"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "\r100% [17 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.005916,
+      "\r100% [17 Sources bzip2 0 B] [Sources 27.9 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.030069,
+      "\r100% [17 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.000060,
+      "\r100% [17 Sources bzip2 0 B] [Waiting for headers] [Packages 2,216 B] [Waiting f"
+    ],
+    [
+      0.000363,
+      "\r100% [17 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.000108,
+      "\r100% [17 Sources bzip2 0 B] [Waiting for headers] [Packages 8,235 kB] [Waiting "
+    ],
+    [
+      0.001438,
+      "\r100% [Waiting for headers] [Packages 8,235 kB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.000345,
+      "\r100% [15 Packages bzip2 0 B] [Waiting for headers] [Packages 8,235 kB] [Waiting"
+    ],
+    [
+      0.004703,
+      "\r                                                                               \rGet:18 http://security.ubuntu.com trusty-security/universe i386 Packages [92.5 kB]"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "\r100% [15 Packages bzip2 0 B] [Waiting for headers] [Packages 8,235 kB] [Waiting"
+    ],
+    [
+      0.008879,
+      "\r                                                                               \rGet:19 http://mirrors.digitalocean.com trusty-updates/main amd64 Packages [497 kB]"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\r99% [15 Packages bzip2 0 B] [19 Packages 106 kB/497 kB 21%] [Packages 8,235 kB]"
+    ],
+    [
+      0.044202,
+      "\r100% [15 Packages bzip2 0 B] [Packages 8,235 kB] [Waiting for headers] [18 Pack"
+    ],
+    [
+      0.015922,
+      "\r100% [15 Packages bzip2 0 B] [Packages 8,235 kB] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.075766,
+      "\r                                                                               \rGet:20 http://security.ubuntu.com trusty-security/main Translation-en [131 kB]"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\r100% [15 Packages bzip2 0 B] [Packages 8,235 kB] [Waiting for headers] [20 Tran"
+    ],
+    [
+      0.024835,
+      "\r100% [15 Packages bzip2 0 B] [Packages 8,235 kB] [Waiting for headers] [20 Tran"
+    ],
+    [
+      0.007097,
+      "\r                                                                               \rGet:21 http://mirrors.digitalocean.com trusty-updates/universe amd64 Packages [263 kB]"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "\r100% [15 Packages bzip2 0 B] [21 Packages 117 kB/263 kB 44%] [Packages 8,235 kB"
+    ],
+    [
+      0.006643,
+      "\r100% [15 Packages bzip2 0 B] [Packages 8,235 kB] [Waiting for headers] [20 Tran"
+    ],
+    [
+      0.025710,
+      "\r100% [15 Packages bzip2 0 B] [Waiting for headers] [20 Translation-en 99.6 kB/1"
+    ],
+    [
+      0.000199,
+      "\r100% [15 Packages bzip2 0 B] [Packages 2,212 B] [Waiting for headers] [20 Trans"
+    ],
+    [
+      0.000288,
+      "\r100% [15 Packages bzip2 0 B] [Waiting for headers] [20 Translation-en 99.6 kB/1"
+    ],
+    [
+      0.000098,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [20 Trans"
+    ],
+    [
+      0.002806,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.026085,
+      "\r100% [Packages 31.7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.000437,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.014674,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.002664,
+      "\r                                                                               \rGet:22 http://mirrors.digitalocean.com trusty-updates/main i386 Packages [486 kB]"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "\r99% [19 Packages bzip2 0 B] [22 Packages 35.9 kB/486 kB 7%] [Packages 31.7 MB] "
+    ],
+    [
+      0.021407,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.009035,
+      "\r                                                                               \rGet:23 http://security.ubuntu.com trusty-security/universe Translation-en [51.4 kB]"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [23 Trans"
+    ],
+    [
+      0.000343,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.050180,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.006519,
+      "\r                                                                               \rGet:24 http://mirrors.digitalocean.com trusty-updates/universe i386 Packages [265 kB]"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "\r100% [19 Packages bzip2 0 B] [24 Packages 219 kB/265 kB 83%] [Packages 31.7 MB]"
+    ],
+    [
+      0.001946,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.076015,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.002038,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty-updates/main Translation-en"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.081952,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.001867,
+      "\r                                                                               \rHit http://mirrors.digitalocean.com trusty-updates/universe Translation-en"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.082211,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.078638,
+      "\r                                                                               \r100% [Packages 31.7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.002936,
+      "\r                                                                   \r100% [18 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.002947,
+      "\r                                                                               \r100% [18 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers]"
+    ],
+    [
+      0.052827,
+      "\r                                                                     \r100% [Packages 31.7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000223,
+      "\r                                                                   \r100% [21 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.031621,
+      "\r                                                                               \r100% [21 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers]"
+    ],
+    [
+      0.066715,
+      "\r                                                                     \r100% [Packages 31.7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000320,
+      "\r                                                                   \r100% [20 Translation-en bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Wa"
+    ],
+    [
+      0.017394,
+      "\r                                                                               \r100% [20 Translation-en bzip2 0 B] [Packages 31.7 MB] [Waiting for headers]"
+    ],
+    [
+      0.060310,
+      "\r                                                                           \rErr http://ppa.launchpad.net trusty/main amd64 Packages"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "  404  Not Found"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\r100% [20 Translation-en bzip2 0 B] [Packages 31.7 MB] [Waiting for headers]"
+    ],
+    [
+      0.002053,
+      "\r                                                                           \r100% [Packages 31.7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000156,
+      "\r                                                                   \r100% [22 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.021793,
+      "\r                                                                               \r100% [22 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers]"
+    ],
+    [
+      0.050761,
+      "\r                                                                     \rErr http://ppa.launchpad.net trusty/main i386 Packages"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "  404  Not Found"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\r100% [22 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers]"
+    ],
+    [
+      0.033574,
+      "\r100% [22 Packages bzip2 0 B] [Packages 31.7 MB] [Waiting for headers]"
+    ],
+    [
+      0.034054,
+      "\r                                                                     \r100% [22 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000147,
+      "\r                                                                        \r100% [22 Packages bzip2 0 B] [Packages 8,205 kB] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.007304,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty/main Translation-en_US"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\r                                                                               \r100% [22 Packages bzip2 0 B] [Packages 8,205 kB] [Waiting for headers]"
+    ],
+    [
+      0.036437,
+      "\r                                                                      \r100% [Packages 8,205 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000209,
+      "\r                                                                    \r100% [23 Translation-en bzip2 0 B] [Packages 8,205 kB] [Waiting for headers] [W"
+    ],
+    [
+      0.006133,
+      "\r                                                                               \r100% [23 Translation-en bzip2 0 B] [Packages 8,205 kB] [Waiting for headers]"
+    ],
+    [
+      0.001528,
+      "\r                                                                            \rIgn http://mirrors.digitalocean.com trusty/main Translation-en_US"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\r                                                                            \r100% [23 Translation-en bzip2 0 B] [Packages 8,205 kB] [Waiting for headers] [W"
+    ],
+    [
+      0.007809,
+      "\r                                                                               \r100% [Packages 8,205 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000165,
+      "\r                                                                    \r100% [24 Packages bzip2 0 B] [Packages 8,205 kB] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.020443,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty/main Translation-en"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\r                                                                               \r100% [24 Packages bzip2 0 B] [Packages 8,205 kB] [Waiting for headers]"
+    ],
+    [
+      0.054298,
+      "\r                                                                      \r100% [24 Packages bzip2 0 B] [Packages 8,205 kB]"
+    ],
+    [
+      0.001567,
+      "\r                                                \rIgn http://mirrors.digitalocean.com trusty/universe Translation-en_US"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\r100% [24 Packages bzip2 0 B] [Packages 8,205 kB]"
+    ],
+    [
+      0.017609,
+      "\r                                                \r100% [Packages 8,205 kB]"
+    ],
+    [
+      0.001849,
+      "\r                        \r100% [Working]"
+    ],
+    [
+      0.000184,
+      "\r              \r100% [Packages 31.7 MB]"
+    ],
+    [
+      0.500615,
+      "\r100% [Packages 31.7 MB]"
+    ],
+    [
+      0.098416,
+      "\r                       \r100% [Working]"
+    ],
+    [
+      0.000025,
+      "\r              \r100% [Translation-en 4,149 kB]"
+    ],
+    [
+      0.077276,
+      "\r                              \r100% [Working]"
+    ],
+    [
+      0.000015,
+      "\r              \r100% [Packages 208 kB]"
+    ],
+    [
+      0.004329,
+      "\r                      \r100% [Working]"
+    ],
+    [
+      0.000023,
+      "\r              \r100% [Translation-en 18.6 MB]"
+    ],
+    [
+      0.349663,
+      "\r                             \r100% [Working]"
+    ],
+    [
+      0.000172,
+      "\r              \r100% [Packages 201 kB]"
+    ],
+    [
+      0.003955,
+      "\r                      \r100% [Working]"
+    ],
+    [
+      0.000102,
+      "\r              \r100% [Translation-en 93.2 kB]"
+    ],
+    [
+      0.001840,
+      "\r                             \r100% [Working]"
+    ],
+    [
+      0.000114,
+      "\r              \r100% [Translation-en 2,054 kB]"
+    ],
+    [
+      0.038938,
+      "\r                              \r100% [Working]"
+    ],
+    [
+      0.000117,
+      "\r              \r100% [Translation-en 687 kB]"
+    ],
+    [
+      0.013086,
+      "\r                            \r100% [Working]\r              \r"
+    ],
+    [
+      0.000008,
+      "Fetched 2,950 kB in 4s (724 kB/s)\r\n"
+    ],
+    [
+      0.004678,
+      "W"
+    ],
+    [
+      0.000116,
+      ": "
+    ],
+    [
+      0.000060,
+      "Failed to fetch http://ppa.launchpad.net/directhex/monoxide/ubuntu/dists/trusty/main/binary-amd64/Packages  404  Not Found"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "W"
+    ],
+    [
+      0.000106,
+      ": "
+    ],
+    [
+      0.000034,
+      "Failed to fetch http://ppa.launchpad.net/directhex/monoxide/ubuntu/dists/trusty/main/binary-i386/Packages  404  Not Found"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "E"
+    ],
+    [
+      0.000029,
+      ": "
+    ],
+    [
+      0.000043,
+      "Some index files failed to download. They have been ignored, or old ones used instead."
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.001045,
+      "\u001b]0;root@moneta: ~/blocktrail-sdk-nodejs-1.2.6\u0007root@moneta:~/blocktrail-sdk-nodejs-1.2.6# "
+    ],
+    [
+      10.519736,
+      "exit\r\n"
+    ]
+  ]
+}
