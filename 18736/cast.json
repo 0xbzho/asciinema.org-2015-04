@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 24,
+  "duration": 0.018489,
+  "command": "luvit cubes.lua",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.017428,
+      "Uncaught exception:\r\n[string \"bundle:deps/require.lua\"]:184: [string \"/Users/timc/joy-term/cubes.lua\"]:1: unexpected symbol near '{'\r\nstack traceback:\r\n\t[C]: in function 'assert'\r\n\t[string \"bundle:deps/require.lua\"]:184: in function 'require'\r\n\t[string \"bundle:main.lua\"]:114: in function 'main'\r\n\t[string \"bundle:/init.lua\"]:34: in function \u003c[string \"bundle:/init.lua\"]:32\u003e\r\n\t[C]: in function 'xpcall'\r\n\t[string \"bundle:/init.lua\"]:32: in function \u003c[string \"bundle:/init.lua\"]:20\u003e\r\n"
+    ]
+  ]
+}
