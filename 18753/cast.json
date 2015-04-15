@@ -1,0 +1,1410 @@
+{
+  "version": 1,
+  "width": 151,
+  "height": 69,
+  "duration": 78.753076,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.509295,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[32m                 -/+:.          \u001b[0m\u001b[1;34mnpettazz\u001b[0m\u001b[1m@\u001b[0m\u001b[0m\u001b[1;34mbos-mp5fj\u001b[0m\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[0m\u001b[32m                :++++.         \u001b[0m\u001b[1;34m OS:\u001b[0m 64bit Mac OS X 10.10.2 14C1514\u001b[0m\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b[0m\u001b[32m               /+++/.          \u001b[0m\u001b[1;34m Kernel:\u001b[0m x86_64 Darwin 14.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.000190,
+      "\u001b[0m\u001b[32m       .:-::- .+/:-``.::-      \u001b[0m\u001b[1;34m Uptime:\u001b[0m 22d 20h 32m\u001b[0m\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[0m\u001b[32m    .:/++++++/::::/++++++/:`   \u001b[0m\u001b[1;34m Packages:\u001b[0m 119\u001b[0m\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[0m\u001b[33m  .:///////////////////////:`  \u001b[0m\u001b[1;34m Shell:\u001b[0m zsh 5.0.5\u001b[0m\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[0m\u001b[33m  ////////////////////////`    \u001b[0m\u001b[1;34m Resolution:\u001b[0m 1440x900\u001b[0m\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[0m\u001b[1;31m -+++++++++++++++++++++++`     \u001b[0m\u001b[1;34m DE:\u001b[0m Aqua\u001b[0m\r\n"
+    ],
+    [
+      0.000167,
+      "\u001b[0m\u001b[1;31m /++++++++++++++++++++++/      \u001b[0m\u001b[1;34m WM:\u001b[0m Quartz Compositor\u001b[0m\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[0m\u001b[31m /sssssssssssssssssssssss.     \u001b[0m\u001b[1;34m WM Theme:\u001b[0m Blue\u001b[0m\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[0m\u001b[31m :ssssssssssssssssssssssss-    \u001b[0m\u001b[1;34m Font:\u001b[0m UbuntuMono-Regular 12\u001b[0m\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[0m\u001b[35m  osssssssssssssssssssssssso/` \u001b[0m\u001b[1;34m CPU:\u001b[0m Intel Core i7-3667U CPU @ 2.00GHz\u001b[0m\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[0m\u001b[35m  `syyyyyyyyyyyyyyyyyyyyyyyy+` \u001b[0m\u001b[1;34m GPU:\u001b[0m Intel HD Graphics 4000 \u001b[0m\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[0m\u001b[34m   `ossssssssssssssssssssss/   \u001b[0m\u001b[1;34m RAM:\u001b[0m 6065MB / 8192MB\u001b[0m\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[0m\u001b[34m     :ooooooooooooooooooo+.    \u001b[0m\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[0m\u001b[34m      `:+oo+/:-..-:/+o+/-      \r\n\u001b[0m\r\n"
+    ],
+    [
+      0.020519,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000203,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager\u0007"
+    ],
+    [
+      0.000064,
+      "\u001b]1;..perty-manager\u0007"
+    ],
+    [
+      0.161526,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000157,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.913476,
+      "l"
+    ],
+    [
+      0.128132,
+      "\u0008ll"
+    ],
+    [
+      0.255970,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000155,
+      "\r\r\n"
+    ],
+    [
+      0.001867,
+      "\u001b]2;ls -G -lh\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;ll\u0007"
+    ],
+    [
+      0.083551,
+      "total 104\r\n"
+    ],
+    [
+      0.000180,
+      "drwxr-xr-x   5 npettazz  600   170B Jul 30  2014 \u001b[1m\u001b[36mbin\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x   3 npettazz  600   102B Nov  4 15:17 \u001b[1m\u001b[36mconfig\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x   5 npettazz  600   170B Oct 29 14:08 \u001b[1m\u001b[36mfabric-deploy\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x  12 npettazz  600   408B Apr 15 14:28 \u001b[1m\u001b[36mpapi-webapp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "drwxr-xr-x   6 npettazz  600   204B Apr 15 14:28 \u001b[1m\u001b[36mpm-core\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x   6 npettazz  600   204B Apr  2 18:07 \u001b[1m\u001b[36mpm-js-libs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--   1 npettazz  600   583B Aug 11  2014 pm-parent.iml\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x  20 npettazz  600   680B Apr 15 14:28 \u001b[1m\u001b[36mpm-ui\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x  13 npettazz  600   442B Apr  2 18:07 \u001b[1m\u001b[36mpm-validation\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   9 npettazz  600   306B Apr 15 14:28 \u001b[1m\u001b[36mpm-webapp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--   1 npettazz  600    39K Apr 15 14:28 pom.xml\r\n"
+    ],
+    [
+      0.000037,
+      "drwxr-xr-x   6 npettazz  600   204B Apr  2 17:57 \u001b[1m\u001b[36mportal-platform-toolkit\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--   1 npettazz  600   5.3K Jan 14 12:16 readme.md\r\n"
+    ],
+    [
+      0.000472,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000161,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;..perty-manager\u0007"
+    ],
+    [
+      0.159349,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000018,
+      "\u001b[K"
+    ],
+    [
+      0.000096,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.762421,
+      "c"
+    ],
+    [
+      0.071257,
+      "\u0008cd"
+    ],
+    [
+      0.184134,
+      " "
+    ],
+    [
+      0.711056,
+      "p"
+    ],
+    [
+      0.064889,
+      "m"
+    ],
+    [
+      1.135419,
+      "-"
+    ],
+    [
+      0.400455,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.022003,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[J\u001b[1;31mpm-core\u001b[0m/        \u001b[J\u001b[1;31mpm-js-libs\u001b[0m/     \u001b[J\u001b[1;31mpm-ui\u001b[0m/          \u001b[J\u001b[1;31mpm-validation\u001b[0m/  \u001b[J\u001b[1;31mpm-webapp\u001b[0m/    \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000008,
+      "cd pm-\u001b[K"
+    ],
+    [
+      0.865531,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.004869,
+      "core\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[J\u001b[7mpm-core/      \u001b[0m  \u001b[J\u001b[1;31mpm-js-libs\u001b[0m/     \u001b[J\u001b[1;31mpm-ui\u001b[0m/          \u001b[J\u001b[1;31mpm-validation\u001b[0m/  \u001b[J\u001b[1;31mpm-webapp\u001b[0m/    \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "cd pm-core\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.699357,
+      "\r\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[7mpm-core/      \u001b[0m  \r\u001b[7mpm-core/      \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000014,
+      "cd pm-core\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000118,
+      "\u0008\u0008\u0008\u0008\u0008js-l\u001b[0mibs\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[16C\u001b[7mpm-js-libs/   \u001b[0m  \r\u001b[1;31mpm-core\u001b[0m/        \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000012,
+      "cd pm-js-libs\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.175545,
+      "\u001b[8Dui\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000015,
+      "\r\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[32C\u001b[7mpm-ui/        \u001b[0m  \r\u001b[16C\u001b[1;31mpm-js-libs\u001b[0m/     \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000018,
+      "cd pm-ui\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.471925,
+      "\u0008\u0008\u0008js\u001b[0m-libs\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[16C\u001b[7mpm-js-libs/   \u001b[0m  \r\u001b[32C\u001b[1;31mpm-ui\u001b[0m/          \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000015,
+      "cd pm-js-libs\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      1.151248,
+      "\r\r\n\u001b[J\u001b[A\u001b[16C"
+    ],
+    [
+      0.000122,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000007,
+      "cd pm-js-libs\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      1.328162,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.009442,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-js-libs/\u001b[K\r\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[J\u001b[1;31msrc\u001b[0m/     \u001b[J\u001b[1;31mtarget\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccd pm-js-libs/\u001b[K"
+    ],
+    [
+      0.510402,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.005139,
+      "src\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[J\u001b[7msrc/   \u001b[0m  \u001b[J\u001b[1;31mtarget\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "cd pm-js-libs/src\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.531032,
+      "\r\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[7msrc/   \u001b[0m  \r\u001b[7msrc/   \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000012,
+      "cd pm-js-libs/src\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000089,
+      "\r\r\n\u001b[J\u001b[A\u001b[20C"
+    ],
+    [
+      0.000207,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000026,
+      "cd pm-js-libs/src\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      1.079485,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.007403,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-js-libs/src/main\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.416638,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.006501,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-js-libs/src/main/webapp\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.401453,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.007552,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000008,
+      "cd pm-js-libs/src/main/webapp/ui\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.584447,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.008084,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-js-libs/src/main/webapp/ui/\u001b[K\r\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[J\u001b[1;31mcan\u001b[0m/           \u001b[J\u001b[1;31mjquery-qunit\u001b[0m/  \u001b[J\u001b[1;31mjquerypp\u001b[0m/      \u001b[J\u001b[1;31mplugins\u001b[0m/     \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000007,
+      "cd pm-js-libs/src/main/webapp/ui/\u001b[K"
+    ],
+    [
+      0.863833,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.007800,
+      "can\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[J\u001b[7mcan/         \u001b[0m  \u001b[J\u001b[1;31mjquery-qunit\u001b[0m/  \u001b[J\u001b[1;31mjquerypp\u001b[0m/      \u001b[J\u001b[1;31mplugins\u001b[0m/     \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000008,
+      "cd pm-js-libs/src/main/webapp/ui/can\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.176187,
+      "\r\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[7mcan/         \u001b[0m  \r\u001b[7mcan/         \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000013,
+      "cd pm-js-libs/src/main/webapp/ui/can\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000118,
+      "\u0008\u0008\u0008\u0008jqu\u001b[0mery-qunit\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[15C\u001b[7mjquery-qunit/\u001b[0m  \r\u001b[1;31mcan\u001b[0m/           \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000041,
+      "cd pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.375631,
+      "\r\r\n\u001b[J\u001b[A\u001b[48C"
+    ],
+    [
+      0.000171,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000016,
+      "cd pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.495665,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000089,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000112,
+      "\r\r\n"
+    ],
+    [
+      0.001415,
+      "\u001b]2;cd pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.093047,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000028,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000040,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.111612,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000158,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.361626,
+      "l"
+    ],
+    [
+      0.120057,
+      "\u0008ll"
+    ],
+    [
+      0.095945,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000107,
+      "\r\r\n"
+    ],
+    [
+      0.001637,
+      "\u001b]2;ls -G -lh\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;ll\u0007"
+    ],
+    [
+      0.075624,
+      "total 96\r\n"
+    ],
+    [
+      0.000173,
+      "-rw-r--r--   1 npettazz  600    34K Jul 30  2014 History.md\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--   1 npettazz  600   2.2K Jul 30  2014 README.md\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x   9 npettazz  600   306B Jul 30  2014 \u001b[1m\u001b[36maddons\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 npettazz  600   1.9K Jul 30  2014 grunt.js\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--   1 npettazz  600   804B Jul 30  2014 package.json\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x   4 npettazz  600   136B Jul 30  2014 \u001b[1m\u001b[36mqunit\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  11 npettazz  600   374B Jul 30  2014 \u001b[1m\u001b[36mtest\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000454,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000143,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.112205,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000086,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.738076,
+      "t"
+    ],
+    [
+      0.110159,
+      "\u0008to"
+    ],
+    [
+      0.054166,
+      "u"
+    ],
+    [
+      0.050833,
+      "c"
+    ],
+    [
+      0.088070,
+      "h"
+    ],
+    [
+      0.063940,
+      " "
+    ],
+    [
+      0.128221,
+      "l"
+    ],
+    [
+      0.119987,
+      "o"
+    ],
+    [
+      0.095916,
+      "l"
+    ],
+    [
+      0.120010,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000077,
+      "\r\r\n"
+    ],
+    [
+      0.001680,
+      "\u001b]2;touch lol\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;touch\u0007"
+    ],
+    [
+      0.073073,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000041,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000043,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.108923,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[31m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.152606,
+      "r"
+    ],
+    [
+      0.079374,
+      "\u0008rm"
+    ],
+    [
+      0.055523,
+      " "
+    ],
+    [
+      0.096477,
+      "l"
+    ],
+    [
+      0.136014,
+      "o"
+    ],
+    [
+      0.095943,
+      "l"
+    ],
+    [
+      0.102674,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.000980,
+      "\u001b]2;rm lol\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;rm\u0007"
+    ],
+    [
+      0.076360,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000221,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000039,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.116538,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.439485,
+      "l"
+    ],
+    [
+      0.110676,
+      "\u0008ll"
+    ],
+    [
+      0.144842,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000105,
+      "\r\r\n"
+    ],
+    [
+      0.001706,
+      "\u001b]2;ls -G -lh\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;ll\u0007"
+    ],
+    [
+      0.077486,
+      "total 96\r\n"
+    ],
+    [
+      0.000244,
+      "-rw-r--r--   1 npettazz  600    34K Jul 30  2014 History.md\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--   1 npettazz  600   2.2K Jul 30  2014 README.md\r\n"
+    ],
+    [
+      0.000015,
+      "drwxr-xr-x   9 npettazz  600   306B Jul 30  2014 \u001b[1m\u001b[36maddons\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--   1 npettazz  600   1.9K Jul 30  2014 grunt.js\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 npettazz  600   804B Jul 30  2014 package.json\r\n"
+    ],
+    [
+      0.000024,
+      "drwxr-xr-x   4 npettazz  600   136B Jul 30  2014 \u001b[1m\u001b[36mqunit\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x  11 npettazz  600   374B Jul 30  2014 \u001b[1m\u001b[36mtest\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000617,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000168,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000037,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.123266,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.532936,
+      "n"
+    ],
+    [
+      0.063329,
+      "\u0008na"
+    ],
+    [
+      0.055220,
+      "n"
+    ],
+    [
+      0.048128,
+      "o"
+    ],
+    [
+      0.080525,
+      " "
+    ],
+    [
+      0.248065,
+      "p"
+    ],
+    [
+      0.080213,
+      "a"
+    ],
+    [
+      0.183791,
+      "c"
+    ],
+    [
+      0.439934,
+      "\u0008 \u0008"
+    ],
+    [
+      0.584613,
+      "\u0008 \u0008"
+    ],
+    [
+      0.100441,
+      "\u0008 \u0008"
+    ],
+    [
+      0.101387,
+      "\u0008"
+    ],
+    [
+      0.101061,
+      "\u0008 \u0008"
+    ],
+    [
+      0.101015,
+      "\u0008 \u0008"
+    ],
+    [
+      0.101019,
+      "\u0008\u0008n \u0008"
+    ],
+    [
+      0.101095,
+      "\u0008 \u0008"
+    ],
+    [
+      0.433030,
+      "e"
+    ],
+    [
+      0.128334,
+      "\u0008ec"
+    ],
+    [
+      0.071968,
+      "h"
+    ],
+    [
+      0.023899,
+      "o"
+    ],
+    [
+      0.071822,
+      " "
+    ],
+    [
+      2.320375,
+      "\""
+    ],
+    [
+      0.103794,
+      "\""
+    ],
+    [
+      0.375904,
+      " "
+    ],
+    [
+      0.024114,
+      "\u003e"
+    ],
+    [
+      1.023842,
+      " "
+    ],
+    [
+      0.400132,
+      "p"
+    ],
+    [
+      0.599811,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111968,
+      "\u0008"
+    ],
+    [
+      0.223604,
+      "\u003e"
+    ],
+    [
+      0.424267,
+      " "
+    ],
+    [
+      0.208258,
+      "p"
+    ],
+    [
+      0.095987,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.010474,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ echo \"\" \u003e\u003e package.json\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.581598,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000112,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000125,
+      "\r\r\n"
+    ],
+    [
+      0.001503,
+      "\u001b]2;echo \"\" \u003e\u003e package.json\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;echo\u0007"
+    ],
+    [
+      0.076846,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000151,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000047,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.107741,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000068,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.853985,
+      "g"
+    ],
+    [
+      0.000763,
+      "\u0008gu"
+    ],
+    [
+      0.102484,
+      "i"
+    ],
+    [
+      0.079976,
+      "t"
+    ],
+    [
+      0.051534,
+      " "
+    ],
+    [
+      0.132737,
+      "r"
+    ],
+    [
+      0.135715,
+      "e"
+    ],
+    [
+      0.207094,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120726,
+      "\u0008 \u0008"
+    ],
+    [
+      0.119971,
+      "\u0008"
+    ],
+    [
+      0.119778,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120257,
+      "\u0008 \u0008"
+    ],
+    [
+      0.112026,
+      "\u0008\u0008g \u0008"
+    ],
+    [
+      0.152172,
+      "\u0008gi"
+    ],
+    [
+      0.111431,
+      "t"
+    ],
+    [
+      0.087944,
+      " "
+    ],
+    [
+      0.256609,
+      "r"
+    ],
+    [
+      0.135955,
+      "e"
+    ],
+    [
+      0.184052,
+      "s"
+    ],
+    [
+      0.152032,
+      "e"
+    ],
+    [
+      0.088048,
+      "t"
+    ],
+    [
+      0.063255,
+      " "
+    ],
+    [
+      1.808425,
+      "p"
+    ],
+    [
+      0.103182,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.229538,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ git reset p\u001b[K\r\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[J\u001b[0mpackage.json  \u001b[Jpom_15.2.1  \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Cgit reset p\u001b[K"
+    ],
+    [
+      0.139299,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000110,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.001719,
+      "\u001b]2;git reset p\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.080436,
+      "fatal: ambiguous argument 'p': unknown revision or path not in the working tree.\r\nUse '--' to separate paths from revisions, like this:\r\n'git \u003ccommand\u003e [\u003crevision\u003e...] -- [\u003cfile\u003e...]'\r\n"
+    ],
+    [
+      0.000369,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000081,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.110162,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000107,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.998045,
+      "git reset p"
+    ],
+    [
+      0.328867,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.078700,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ git reset p\u001b[K\r\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[J\u001b[0mpackage.json  \u001b[Jpom_15.2.1  \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Cgit reset p\u001b[K"
+    ],
+    [
+      0.768893,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.076690,
+      "ackage.json\r\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[J\u001b[7mpackage.json\u001b[0m  \u001b[Jpom_15.2.1  \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000017,
+      "git reset package.json\u001b[K"
+    ],
+    [
+      0.123547,
+      "\r\r\n"
+    ],
+    [
+      0.000146,
+      "\u001b[7mpackage.json\u001b[0m  \r\u001b[7mpackage.json\u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000013,
+      "git reset package.json\u001b[K"
+    ],
+    [
+      0.000078,
+      "\r\r\n\u001b[J\u001b[A\u001b[24C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.000272,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000016,
+      "git reset package.json\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.439507,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000100,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000116,
+      "\r\r\n"
+    ],
+    [
+      0.001655,
+      "\u001b]2;git reset package.json\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.101117,
+      "Unstaged changes after reset:\r\nM\tpm-js-libs/src/main/webapp/ui/jquery-qunit/package.json\r\n"
+    ],
+    [
+      0.007749,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000094,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.108385,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000150,
+      "\u001b[K"
+    ],
+    [
+      0.000136,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.845106,
+      "g"
+    ],
+    [
+      0.119386,
+      "\u0008gi"
+    ],
+    [
+      0.112018,
+      "t"
+    ],
+    [
+      0.023218,
+      " "
+    ],
+    [
+      5.592794,
+      "r"
+    ],
+    [
+      0.144183,
+      "e"
+    ],
+    [
+      8.575162,
+      "\u0008 \u0008"
+    ],
+    [
+      0.119445,
+      "\u0008 \u0008"
+    ],
+    [
+      0.216498,
+      "c"
+    ],
+    [
+      0.104213,
+      "h"
+    ],
+    [
+      0.079660,
+      "e"
+    ],
+    [
+      0.112249,
+      "c"
+    ],
+    [
+      0.079993,
+      "k"
+    ],
+    [
+      0.136055,
+      "o"
+    ],
+    [
+      0.039111,
+      "u"
+    ],
+    [
+      0.136590,
+      "t"
+    ],
+    [
+      0.072074,
+      " "
+    ],
+    [
+      0.143561,
+      "-"
+    ],
+    [
+      0.120263,
+      "-"
+    ],
+    [
+      0.560398,
+      "H"
+    ],
+    [
+      3.519706,
+      "\u0008 \u0008"
+    ],
+    [
+      0.823645,
+      " "
+    ],
+    [
+      0.816408,
+      "p"
+    ],
+    [
+      0.135942,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.048193,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ git checkout -- package.json\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.391742,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000109,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000145,
+      "\r\r\n"
+    ],
+    [
+      0.001608,
+      "\u001b]2;git checkout -- package.json\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.089107,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000065,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;../jquery-qunit\u0007"
+    ],
+    [
+      0.111223,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-js-libs/src/main/webapp/ui/jquery-qunit\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000136,
+      "\u001b[K"
+    ],
+    [
+      0.000132,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.869798,
+      "\r\r\n"
+    ]
+  ]
+}
