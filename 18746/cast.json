@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 29,
+  "duration": 22.294565,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.090634,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.016030,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[31m\u001b[39m\u001b[0m\u001b[1m\u001b[34mwke\u001b[39m\u001b[0m@marceline \u001b[1m~ \u001b[0m% \u001b[K"
+    ],
+    [
+      0.000052,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.237102,
+      "z"
+    ],
+    [
+      1.512091,
+      "\u0008zp"
+    ],
+    [
+      0.431419,
+      "o"
+    ],
+    [
+      0.176345,
+      "o"
+    ],
+    [
+      0.207593,
+      "l"
+    ],
+    [
+      0.144585,
+      " "
+    ],
+    [
+      0.783603,
+      "l"
+    ],
+    [
+      0.055867,
+      "i"
+    ],
+    [
+      0.160090,
+      "s"
+    ],
+    [
+      0.151995,
+      "t"
+    ],
+    [
+      0.450641,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000056,
+      "\r\r\n"
+    ],
+    [
+      0.018397,
+      "NAME   SIZE  ALLOC   FREE  EXPANDSZ   FRAG    CAP  DEDUP  HEALTH  ALTROOT\r\n"
+    ],
+    [
+      0.000008,
+      "tank   118G  5.23G   113G         -     1%     4%  1.00x  ONLINE  -\r\n"
+    ],
+    [
+      0.001200,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.010311,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[31m\u001b[39m\u001b[0m\u001b[1m\u001b[34mwke\u001b[39m\u001b[0m@marceline \u001b[1m~ \u001b[0m% \u001b[K"
+    ],
+    [
+      0.000046,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.687914,
+      "z"
+    ],
+    [
+      0.335319,
+      "\u0008zs"
+    ],
+    [
+      0.416056,
+      "\u0008\u0008z \u0008"
+    ],
+    [
+      0.111541,
+      "\u0008zg"
+    ],
+    [
+      0.120141,
+      "s"
+    ],
+    [
+      0.192601,
+      " "
+    ],
+    [
+      0.375615,
+      "\u0008"
+    ],
+    [
+      0.135983,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128091,
+      "\u0008\u0008z \u0008"
+    ],
+    [
+      0.103882,
+      "\u0008zf"
+    ],
+    [
+      0.128292,
+      "a"
+    ],
+    [
+      0.559937,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120110,
+      "s"
+    ],
+    [
+      0.135975,
+      " "
+    ],
+    [
+      0.096024,
+      "t"
+    ],
+    [
+      0.168049,
+      "a"
+    ],
+    [
+      0.087956,
+      "t"
+    ],
+    [
+      0.119687,
+      "u"
+    ],
+    [
+      0.104065,
+      "s"
+    ],
+    [
+      0.344018,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135893,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128195,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127819,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127995,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136090,
+      "s"
+    ],
+    [
+      0.103392,
+      "t"
+    ],
+    [
+      0.120661,
+      "a"
+    ],
+    [
+      0.128066,
+      "t"
+    ],
+    [
+      0.120083,
+      "u"
+    ],
+    [
+      0.095956,
+      "s"
+    ],
+    [
+      0.426418,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.010362,
+      "unrecognized command 'status'\r\nusage: zfs command args ...\r\nwhere 'command' is one of the following:\r\n\r\n\tcreate [-p] [-o property=value] ... \u003cfilesystem\u003e\r\n\tcreate [-ps] [-b blocksize] [-o property=value] ... -V \u003csize\u003e \u003cvolume\u003e\r\n\tdestroy [-fnpRrv] \u003cfilesystem|volume\u003e\r\n\tdestroy [-dnpRrv] \u003cfilesystem|volume\u003e@\u003csnap\u003e[%\u003csnap\u003e][,...]\r\n\tdestroy \u003cfilesystem|volume\u003e#\u003cbookmark\u003e\r\n\r\n\tsnapshot|snap [-r] [-o property=value] ... \u003cfilesystem|volume\u003e@\u003csnap\u003e ...\r\n\trollback [-rRf] \u003csnapshot\u003e\r\n\tclone [-p] [-o property=value] ... \u003csnapshot\u003e \u003cfilesystem|volume\u003e\r\n\tpromote \u003cclone-filesystem\u003e\r\n\trename [-f] \u003cfilesystem|volume|snapshot\u003e \u003cfilesystem|volume|snapshot\u003e\r\n\trename [-f] -p \u003cfilesystem|volume\u003e \u003cfilesystem|volume\u003e\r\n\trename -r \u003csnapshot\u003e \u003csnapshot\u003e\r\n"
+    ],
+    [
+      0.000064,
+      "\tbookmark \u003csnapshot\u003e \u003cbookmark\u003e\r\n\r\n\tlist [-Hp] [-r|-d max] [-o property[,...]] [-s property]...\r\n\t    [-S property]... [-t type[,...]] [filesystem|volume|snapshot] ...\r\n\r\n\tset \u003cproperty=value\u003e \u003cfilesystem|volume|snapshot\u003e ...\r\n\tget [-rHp] [-d max] [-o \"all\" | field[,...]]\r\n\t    [-t type[,...]] [-s source[,...]]\r\n\t    \u003c\"all\" | property[,...]\u003e [filesystem|volume|snapshot] ...\r\n\tinherit [-rS] \u003cproperty\u003e \u003cfilesystem|volume|snapshot\u003e ...\r\n\tupgrade [-v]\r\n\tupgrade [-r] [-V version] \u003c-a | filesystem ...\u003e\r\n\tuserspace [-Hinp] [-o field[,...]] [-s field] ...\r\n\t    [-S field] ... [-t type[,...]] \u003cfilesystem|snapshot\u003e\r\n\tgroupspace [-Hinp] [-o field[,...]] [-s field] ...\r\n\t    [-S field] ... [-t type[,...]] \u003cfilesystem|snapshot\u003e\r\n\r\n\tmount\r\n\tmount [-vO] [-o opts] \u003c-a | filesystem\u003e\r\n\tunmount [-f] \u003c-a | filesystem|mountpoint\u003e\r\n\tshare \u003c-a | filesystem\u003e\r\n\tunshare \u003c-a | filesystem|mountpoint\u003e\r\n\r\n\tsend [-DnPpRrve] [-[iI] snapshot] \u003csnapshot\u003e\r\n\tsend [-e] [-i snapshot|bookmark] \u003cfilesystem|volume|snapshot\u003e\r\n\treceive [-vnFu] \u003cfilesy"
+    ],
+    [
+      0.000136,
+      "stem|volume|snapshot\u003e\r\n\treceive [-vnFu] [-d | -e] \u003cfilesystem\u003e\r\n\r\n\tallow \u003cfilesystem|volume\u003e\r\n\tallow [-ldug] \u003c\"everyone\"|user|group\u003e[,...] \u003cperm|@setname\u003e[,...]\r\n\t    \u003cfilesystem|volume\u003e\r\n\tallow [-ld] -e \u003cperm|@setname\u003e[,...] \u003cfilesystem|volume\u003e\r\n\tallow -c \u003cperm|@setname\u003e[,...] \u003cfilesystem|volume\u003e\r\n\tallow -s @setname \u003cperm|@setname\u003e[,...] \u003cfilesystem|volume\u003e\r\n\r\n\tunallow [-rldug] \u003c\"everyone\"|user|group\u003e[,...]\r\n\t    [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\tunallow [-rld] -e [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\tunallow [-r] -c [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\tunallow [-r] -s @setname [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\r\n\thold [-r] \u003ctag\u003e \u003csnapshot\u003e ...\r\n\tholds [-r] \u003csnapshot\u003e ...\r\n\trelease [-r] \u003ctag\u003e \u003csnapshot\u003e ...\r\n\tdiff [-FHt] \u003csnapshot\u003e [snapshot|filesystem]\r\n\r\nEach dataset is of the form: pool/[dataset/]*dataset[@name]\r\n\r\nFor the property list, run: zfs set|get\r\n\r\nFor the delegated permission list, run: zfs allow|unallow\r\n"
+    ],
+    [
+      0.000546,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.012401,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[31m2 \u001b[39m\u001b[0m\u001b[1m\u001b[34mwke\u001b[39m\u001b[0m@marceline \u001b[1m~ \u001b[0m% "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[74C:(\u001b[76D"
+    ],
+    [
+      0.000027,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.054025,
+      "zfs status"
+    ],
+    [
+      0.271959,
+      " "
+    ],
+    [
+      0.151685,
+      "a"
+    ],
+    [
+      0.104135,
+      "l"
+    ],
+    [
+      0.135971,
+      "l"
+    ],
+    [
+      0.218606,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000025,
+      "\r\r\n"
+    ],
+    [
+      0.007500,
+      "unrecognized command 'status'\r\nusage: zfs command args ...\r\nwhere 'command' is one of the following:\r\n\r\n\tcreate [-p] [-o property=value] ... \u003cfilesystem\u003e\r\n\tcreate [-ps] [-b blocksize] [-o property=value] ... -V \u003csize\u003e \u003cvolume\u003e\r\n\tdestroy [-fnpRrv] \u003cfilesystem|volume\u003e\r\n\tdestroy [-dnpRrv] \u003cfilesystem|volume\u003e@\u003csnap\u003e[%\u003csnap\u003e][,...]\r\n\tdestroy \u003cfilesystem|volume\u003e#\u003cbookmark\u003e\r\n\r\n\tsnapshot|snap [-r] [-o property=value] ... \u003cfilesystem|volume\u003e@\u003csnap\u003e ...\r\n\trollback [-rRf] \u003csnapshot\u003e\r\n\tclone [-p] [-o property=value] ... \u003csnapshot\u003e \u003cfilesystem|volume\u003e\r\n\tpromote \u003cclone-filesystem\u003e\r\n\trename [-f] \u003cfilesystem|volume|snapshot\u003e \u003cfilesystem|volume|snapshot\u003e\r\n\trename [-f] -p \u003cfilesystem|volume\u003e \u003cfilesystem|volume\u003e\r\n\trename -r \u003csnapshot\u003e \u003csnapshot\u003e\r\n\tbookmark \u003csnapshot\u003e \u003cbookmark\u003e\r\n"
+    ],
+    [
+      0.000076,
+      "\r\n\tlist [-Hp] [-r|-d max] [-o property[,...]] [-s property]...\r\n\t    [-S property]... [-t type[,...]] [filesystem|volume|snapshot] ...\r\n\r\n\tset \u003cproperty=value\u003e \u003cfilesystem|volume|snapshot\u003e ...\r\n\tget [-rHp] [-d max] [-o \"all\" | field[,...]]\r\n\t    [-t type[,...]] [-s source[,...]]\r\n\t    \u003c\"all\" | property[,...]\u003e [filesystem|volume|snapshot] ...\r\n\tinherit [-rS] \u003cproperty\u003e \u003cfilesystem|volume|snapshot\u003e ...\r\n\tupgrade [-v]\r\n\tupgrade [-r] [-V version] \u003c-a | filesystem ...\u003e\r\n\tuserspace [-Hinp] [-o field[,...]] [-s field] ...\r\n\t    [-S field] ... [-t type[,...]] \u003cfilesystem|snapshot\u003e\r\n\tgroupspace [-Hinp] [-o field[,...]] [-s field] ...\r\n\t    [-S field] ... [-t type[,...]] \u003cfilesystem|snapshot\u003e\r\n\r\n\tmount\r\n\tmount [-vO] [-o opts] \u003c-a | filesystem\u003e\r\n\tunmount [-f] \u003c-a | filesystem|mountpoint\u003e\r\n\tshare \u003c-a | filesystem\u003e\r\n\tunshare \u003c-a | filesystem|mountpoint\u003e\r\n\r\n\tsend [-DnPpRrve] [-[iI] snapshot] \u003csnapshot\u003e\r\n\tsend [-e] [-i snapshot|bookmark] \u003cfilesystem|volume|snapshot\u003e\r\n\treceive [-vnFu] \u003cfilesystem|volume|snapshot\u003e\r\n\treceive ["
+    ],
+    [
+      0.000087,
+      "-vnFu] [-d | -e] \u003cfilesystem\u003e\r\n\r\n\tallow \u003cfilesystem|volume\u003e\r\n\tallow [-ldug] \u003c\"everyone\"|user|group\u003e[,...] \u003cperm|@setname\u003e[,...]\r\n\t    \u003cfilesystem|volume\u003e\r\n\tallow [-ld] -e \u003cperm|@setname\u003e[,...] \u003cfilesystem|volume\u003e\r\n\tallow -c \u003cperm|@setname\u003e[,...] \u003cfilesystem|volume\u003e\r\n\tallow -s @setname \u003cperm|@setname\u003e[,...] \u003cfilesystem|volume\u003e\r\n\r\n\tunallow [-rldug] \u003c\"everyone\"|user|group\u003e[,...]\r\n\t    [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\tunallow [-rld] -e [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\tunallow [-r] -c [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\tunallow [-r] -s @setname [\u003cperm|@setname\u003e[,...]] \u003cfilesystem|volume\u003e\r\n\r\n\thold [-r] \u003ctag\u003e \u003csnapshot\u003e ...\r\n\tholds [-r] \u003csnapshot\u003e ...\r\n\trelease [-r] \u003ctag\u003e \u003csnapshot\u003e ...\r\n\tdiff [-FHt] \u003csnapshot\u003e [snapshot|filesystem]\r\n\r\nEach dataset is of the form: pool/[dataset/]*dataset[@name]\r\n\r\nFor the property list, run: zfs set|get\r\n\r\nFor the delegated permission list, run: zfs allow|unallow\r\n"
+    ],
+    [
+      0.000387,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.011017,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[31m2 \u001b[39m\u001b[0m\u001b[1m\u001b[34mwke\u001b[39m\u001b[0m@marceline \u001b[1m~ \u001b[0m% "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[74C:(\u001b[76D"
+    ],
+    [
+      0.000045,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.810369,
+      "zfs status all"
+    ],
+    [
+      0.343795,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144262,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127730,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127887,
+      "\u0008"
+    ],
+    [
+      0.156232,
+      "\u0008 \u0008"
+    ],
+    [
+      0.099843,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136155,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127843,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136170,
+      "\u0008 \u0008"
+    ],
+    [
+      0.351910,
+      "l"
+    ],
+    [
+      0.311856,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127627,
+      "\u0008 \u0008"
+    ],
+    [
+      0.216354,
+      "l"
+    ],
+    [
+      0.048189,
+      "i"
+    ],
+    [
+      0.111938,
+      "s"
+    ],
+    [
+      0.144110,
+      "t"
+    ],
+    [
+      0.442322,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000006,
+      "\r\r\n"
+    ],
+    [
+      0.008050,
+      "NAME   USED  AVAIL  REFER  MOUNTPOINT\r\n"
+    ],
+    [
+      0.000007,
+      "tank  5.23G   111G  5.23G  /Volumes/tank\r\n"
+    ],
+    [
+      0.000623,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.011497,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[31m\u001b[39m\u001b[0m\u001b[1m\u001b[34mwke\u001b[39m\u001b[0m@marceline \u001b[1m~ \u001b[0m% \u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.737377,
+      "\r\r\n"
+    ]
+  ]
+}
