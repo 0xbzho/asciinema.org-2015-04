@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "width": 151,
+  "height": 40,
+  "duration": 49.811339,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.570676,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[32m                 -/+:.          \u001b[0m\u001b[1;34mnpettazz\u001b[0m\u001b[1m@\u001b[0m\u001b[0m\u001b[1;34mbos-mp5fj\u001b[0m\r\n"
+    ],
+    [
+      0.000247,
+      "\u001b[0m\u001b[32m                :++++.         \u001b[0m\u001b[1;34m OS:\u001b[0m 64bit Mac OS X 10.10.2 14C1514\u001b[0m\r\n"
+    ],
+    [
+      0.000234,
+      "\u001b[0m\u001b[32m               /+++/.          \u001b[0m\u001b[1;34m Kernel:\u001b[0m x86_64 Darwin 14.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.000250,
+      "\u001b[0m\u001b[32m       .:-::- .+/:-``.::-      \u001b[0m\u001b[1;34m Uptime:\u001b[0m 22d 20h 34m\u001b[0m\r\n"
+    ],
+    [
+      0.000224,
+      "\u001b[0m\u001b[32m    .:/++++++/::::/++++++/:`   \u001b[0m\u001b[1;34m Packages:\u001b[0m 119\u001b[0m\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[0m\u001b[33m  .:///////////////////////:`  \u001b[0m\u001b[1;34m Shell:\u001b[0m zsh 5.0.5\u001b[0m\r\n"
+    ],
+    [
+      0.000218,
+      "\u001b[0m\u001b[33m  ////////////////////////`    \u001b[0m\u001b[1;34m Resolution:\u001b[0m 1440x900\u001b[0m\r\n"
+    ],
+    [
+      0.000232,
+      "\u001b[0m\u001b[1;31m -+++++++++++++++++++++++`     \u001b[0m\u001b[1;34m DE:\u001b[0m Aqua\u001b[0m\r\n"
+    ],
+    [
+      0.000196,
+      "\u001b[0m\u001b[1;31m /++++++++++++++++++++++/      \u001b[0m\u001b[1;34m WM:\u001b[0m Quartz Compositor\u001b[0m\r\n"
+    ],
+    [
+      0.000169,
+      "\u001b[0m\u001b[31m /sssssssssssssssssssssss.     \u001b[0m\u001b[1;34m WM Theme:\u001b[0m Blue\u001b[0m\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[0m\u001b[31m :ssssssssssssssssssssssss-    \u001b[0m\u001b[1;34m Font:\u001b[0m UbuntuMono-Regular 12\u001b[0m\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[0m\u001b[35m  osssssssssssssssssssssssso/` \u001b[0m\u001b[1;34m CPU:\u001b[0m Intel Core i7-3667U CPU @ 2.00GHz\u001b[0m\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[0m\u001b[35m  `syyyyyyyyyyyyyyyyyyyyyyyy+` \u001b[0m\u001b[1;34m GPU:\u001b[0m Intel HD Graphics 4000 \u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[0m\u001b[34m   `ossssssssssssssssssssss/   \u001b[0m\u001b[1;34m RAM:\u001b[0m 5898MB / 8192MB\u001b[0m\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[0m\u001b[34m     :ooooooooooooooooooo+.    \u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[0m\u001b[34m      `:+oo+/:-..-:/+o+/-      \r\n\u001b[0m\r\n"
+    ],
+    [
+      0.010649,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..perty-manager\u0007"
+    ],
+    [
+      0.168323,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000098,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.949437,
+      "l"
+    ],
+    [
+      0.053710,
+      "\u0008ll"
+    ],
+    [
+      0.449512,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000123,
+      "\r\r\n"
+    ],
+    [
+      0.001550,
+      "\u001b]2;ls -G -lh\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;ll\u0007"
+    ],
+    [
+      0.077668,
+      "total 104\r\n"
+    ],
+    [
+      0.000184,
+      "drwxr-xr-x   5 npettazz  600   170B Jul 30  2014 \u001b[1m\u001b[36mbin\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   3 npettazz  600   102B Nov  4 15:17 \u001b[1m\u001b[36mconfig\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "drwxr-xr-x   5 npettazz  600   170B Oct 29 14:08 \u001b[1m\u001b[36mfabric-deploy\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x  12 npettazz  600   408B Apr 15 14:28 \u001b[1m\u001b[36mpapi-webapp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   6 npettazz  600   204B Apr 15 14:28 \u001b[1m\u001b[36mpm-core\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "drwxr-xr-x   6 npettazz  600   204B Apr  2 18:07 \u001b[1m\u001b[36mpm-js-libs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--   1 npettazz  600   583B Aug 11  2014 pm-parent.iml\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x  20 npettazz  600   680B Apr 15 14:28 \u001b[1m\u001b[36mpm-ui\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "drwxr-xr-x  13 npettazz  600   442B Apr  2 18:07 \u001b[1m\u001b[36mpm-validation\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   9 npettazz  600   306B Apr 15 14:28 \u001b[1m\u001b[36mpm-webapp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--   1 npettazz  600    39K Apr 15 14:28 pom.xml\r\n"
+    ],
+    [
+      0.000015,
+      "drwxr-xr-x   6 npettazz  600   204B Apr  2 17:57 \u001b[1m\u001b[36mportal-platform-toolkit\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--   1 npettazz  600   5.3K Jan 14 12:16 readme.md\r\n"
+    ],
+    [
+      0.000549,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000191,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager\u0007"
+    ],
+    [
+      0.000082,
+      "\u001b]1;..perty-manager\u0007"
+    ],
+    [
+      0.160054,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000072,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.487296,
+      "c"
+    ],
+    [
+      0.064125,
+      "\u0008cd"
+    ],
+    [
+      0.080190,
+      " "
+    ],
+    [
+      0.168163,
+      "p"
+    ],
+    [
+      0.167890,
+      "m"
+    ],
+    [
+      0.768001,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.009961,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-\u001b[K"
+    ],
+    [
+      0.381952,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.005112,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-\u001b[K"
+    ],
+    [
+      0.000046,
+      "\r\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[J\u001b[1;31mpm-core\u001b[0m/        \u001b[J\u001b[1;31mpm-js-libs\u001b[0m/     \u001b[J\u001b[1;31mpm-ui\u001b[0m/          \u001b[J\u001b[1;31mpm-validation\u001b[0m/  \u001b[J\u001b[1;31mpm-webapp\u001b[0m/    \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "cd pm-\u001b[K"
+    ],
+    [
+      0.506693,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.005133,
+      "core\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[J\u001b[7mpm-core/      \u001b[0m  \u001b[J\u001b[1;31mpm-js-libs\u001b[0m/     \u001b[J\u001b[1;31mpm-ui\u001b[0m/          \u001b[J\u001b[1;31mpm-validation\u001b[0m/  \u001b[J\u001b[1;31mpm-webapp\u001b[0m/    \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000011,
+      "cd pm-core\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.418575,
+      "\r\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[7mpm-core/      \u001b[0m  \r\u001b[7mpm-core/      \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccd pm-core\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000160,
+      "\u0008\u0008\u0008\u0008\u0008js-l\u001b[0mibs\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[16C\u001b[7mpm-js-libs/   \u001b[0m  \r\u001b[1;31mpm-core\u001b[0m/        \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000030,
+      "cd pm-js-libs\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.183832,
+      "\u001b[8Dui\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[32C\u001b[7mpm-ui/        \u001b[0m  \r\u001b[16C\u001b[1;31mpm-js-libs\u001b[0m/     \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccd pm-ui\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.679907,
+      "\r\r\n\u001b[J\u001b[A\u001b[11C"
+    ],
+    [
+      0.000213,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000014,
+      "cd pm-ui\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      1.031502,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.006244,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-ui/\u001b[K\r\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[J\u001b[1;31mdeveloper-resources\u001b[0m/  \u001b[J\u001b[1;31mfixture-server\u001b[0m/       \u001b[J\u001b[1;31mnode_modules\u001b[0m/         \u001b[J\u001b[1;31msrc\u001b[0m/                  \u001b[J\u001b[1;31mtarget\u001b[0m/               \u001b[J\u001b[1;31mtest\u001b[0m/               \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000019,
+      "cd pm-ui/\u001b[K"
+    ],
+    [
+      1.225316,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.005528,
+      "developer-resources\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[J\u001b[7mdeveloper-resources/\u001b[0m  \u001b[J\u001b[1;31mfixture-server\u001b[0m/       \u001b[J\u001b[1;31mnode_modules\u001b[0m/         \u001b[J\u001b[1;31msrc\u001b[0m/                  \u001b[J\u001b[1;31mtarget\u001b[0m/               \u001b[J\u001b[1;31mtest\u001b[0m/               \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "cd pm-ui/developer-resources\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.154690,
+      "\r\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[7mdeveloper-resources/\u001b[0m  \r\u001b[7mdeveloper-resources/\u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000012,
+      "cd pm-ui/developer-resources\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000082,
+      "\u001b[20Dfixture-server\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[22C\u001b[7mfixture-server/     \u001b[0m  \r\u001b[1;31mdeveloper-resources\u001b[0m/  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000010,
+      "cd pm-ui/fixture-server\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.143536,
+      "\u001b[15Dnode_modules\u001b[1m/\u001b[0m \u001b[0m \u0008\u0008"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[44C\u001b[7mnode_modules/       \u001b[0m  \r\u001b[22C\u001b[1;31mfixture-server\u001b[0m/       \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "cd pm-ui/node_modules\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.151214,
+      "\u001b[13Dsrc\u001b[1m/\u001b[0m        \u001b[0m \u001b[9D"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[66C\u001b[7msrc/                \u001b[0m  \r\u001b[44C\u001b[1;31mnode_modules\u001b[0m/         \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000027,
+      "cd pm-ui/src\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.377061,
+      "\r\r\n\u001b[J\u001b[A\u001b[15C"
+    ],
+    [
+      0.000217,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000014,
+      "cd pm-ui/src\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.679104,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.004933,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-ui/src/ui\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.339660,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.008359,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-ui/src/ui/\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[J\u001b[1;31mEdgeAuth\u001b[0m/          \u001b[J\u001b[1;31mproperty_manager\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "cd pm-ui/src/ui/\u001b[K"
+    ],
+    [
+      0.158939,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.006041,
+      "EdgeAuth\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[J\u001b[7mEdgeAuth/        \u001b[0m  \u001b[J\u001b[1;31mproperty_manager\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "cd pm-ui/src/ui/EdgeAuth\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.754107,
+      "\r\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[7mEdgeAuth/        \u001b[0m  \r\u001b[7mEdgeAuth/        \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000007,
+      "cd pm-ui/src/ui/EdgeAuth\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[9Dproperty\u001b[0m_manager\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[19C\u001b[7mproperty_manager/\u001b[0m\r\u001b[1;31mEdgeAuth\u001b[0m/          \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000023,
+      "cd pm-ui/src/ui/property_manager\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.455905,
+      "\r\r\n\u001b[J\u001b[A\u001b[35C"
+    ],
+    [
+      0.000208,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000011,
+      "cd pm-ui/src/ui/property_manager\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      2.120400,
+      "\u0008\u001b[0m/c"
+    ],
+    [
+      0.095432,
+      "o"
+    ],
+    [
+      0.232151,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.007850,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ cd pm-ui/src/ui/property_manager/controllers\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      2.368020,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000075,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000088,
+      "\r\r\n"
+    ],
+    [
+      0.001380,
+      "\u001b]2;cd pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.068389,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..r/controllers\u0007"
+    ],
+    [
+      0.110572,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.291680,
+      "l"
+    ],
+    [
+      0.111860,
+      "\u0008ll"
+    ],
+    [
+      0.095826,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000078,
+      "\r\r\n"
+    ],
+    [
+      0.001980,
+      "\u001b]2;ls -G -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.091203,
+      "total 376\r\n"
+    ],
+    [
+      0.000206,
+      "drwxr-xr-x  22 npettazz  600   748B Mar  6 11:40 \u001b[1m\u001b[36mactivate\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x   6 npettazz  600   204B Apr 10 16:55 \u001b[1m\u001b[36madmin\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mbase_container\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--   1 npettazz  600   1.6K Mar  6 11:40 base_container.js\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 npettazz  600   2.4K Mar  6 11:40 base_controller.js\r\n"
+    ],
+    [
+      0.000035,
+      "drwxr-xr-x   6 npettazz  600   204B Mar 26 13:18 \u001b[1m\u001b[36mcreate_property\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mdelete_property\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 npettazz  600   5.9K Mar  6 11:40 delete_property.js\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mdowngrade_dialog\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--   1 npettazz  600   5.3K Mar  6 11:40 downgrade_dialog.js\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  38 npettazz  600   1.3K Apr 15 14:28 \u001b[1m\u001b[36medit\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mfour_oh_four\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 npettazz  600   605B Mar  6 11:40 four_oh_four.js\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x  14 npettazz  600   476B Mar  6 11:40 \u001b[1m\u001b[36mhome\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mloading_dialog\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--   1 npettazz  600   1.2K Mar  6 11:40 loading_dialog.js\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mmanage_properties\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 npettazz  600    14K Mar  6 11:40 manage_properties.js\r\n"
+    ],
+    [
+      0.000025,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mmetadata_viewer\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--   1 npettazz  600   1.9K Mar  6 11:40 metadata_viewer.js\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mmodal_dialog\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--   1 npettazz  600   8.0K Apr 10 16:55 modal_dialog.js\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mnavigation_bar\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 npettazz  600   1.4K Mar  6 11:40 navigation_bar.js\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--   1 npettazz  600   3.8K Mar  6 11:40 notifications_manager.js\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mnotify_box\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--   1 npettazz  600   4.3K Mar  6 11:40 notify_box.js\r\n"
+    ],
+    [
+      0.000047,
+      "drwxr-xr-x  34 npettazz  600   1.1K Mar 27 18:01 \u001b[1m\u001b[36moption\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--   1 npettazz  600   9.1K Mar 17 12:43 option.js\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mpage\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--   1 npettazz  600   3.8K Mar 26 13:18 page.js\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mpage_view_handler\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      "-rw-r--r--   1 npettazz  600   9.3K Apr 10 16:55 page_view_handler.js\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mproperty_landing\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--   1 npettazz  600   7.0K Mar  6 11:40 property_landing.js\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mproperty_underride_dialog\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "-rw-r--r--   1 npettazz  600   2.1K Mar  6 11:40 property_underride_dialog.js\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mpush_testghost\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--   1 npettazz  600   9.6K Mar  6 11:40 push_testghost.js\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x  10 npettazz  600   340B Mar  6 11:40 \u001b[1m\u001b[36mrules_templates\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mtour\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--   1 npettazz  600    14K Mar  6 11:40 tour.js\r\ndrwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mupgrade_property\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 npettazz  600   7.5K Mar  6 11:40 upgrade_property.js\r\ndrwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mvalidation\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 npettazz  600    19K Apr  7 15:49 validation.js\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x   3 npettazz  600   102B Mar  6 11:40 \u001b[1m\u001b[36mversion_compare\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 npettazz  600    15K Mar  6 11:40 version_compare.js\r\n"
+    ],
+    [
+      0.000626,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000165,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..r/controllers\u0007"
+    ],
+    [
+      0.117812,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000058,
+      "\u001b[K"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.035501,
+      "t"
+    ],
+    [
+      0.127591,
+      "\u0008to"
+    ],
+    [
+      0.031972,
+      "u"
+    ],
+    [
+      0.023099,
+      "c"
+    ],
+    [
+      0.137019,
+      "h"
+    ],
+    [
+      0.079277,
+      " "
+    ],
+    [
+      0.272626,
+      "l"
+    ],
+    [
+      0.095221,
+      "o"
+    ],
+    [
+      0.088807,
+      "l"
+    ],
+    [
+      0.119627,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000062,
+      "\r\r\n"
+    ],
+    [
+      0.001351,
+      "\u001b]2;touch lol\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;touch\u0007"
+    ],
+    [
+      0.072063,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000062,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;..r/controllers\u0007"
+    ],
+    [
+      0.116989,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[31m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000095,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.114041,
+      "r"
+    ],
+    [
+      0.055425,
+      "\u0008rm"
+    ],
+    [
+      0.103954,
+      " "
+    ],
+    [
+      0.104173,
+      "l"
+    ],
+    [
+      0.136027,
+      "o"
+    ],
+    [
+      0.095940,
+      "l"
+    ],
+    [
+      0.520018,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000142,
+      "\r\r\n"
+    ],
+    [
+      0.002118,
+      "\u001b]2;rm lol\u0007\u001b]1;rm\u0007"
+    ],
+    [
+      0.075780,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000051,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..r/controllers\u0007"
+    ],
+    [
+      0.111622,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.945714,
+      "e"
+    ],
+    [
+      0.136177,
+      "\u0008ec"
+    ],
+    [
+      0.119981,
+      "h"
+    ],
+    [
+      0.057005,
+      "o"
+    ],
+    [
+      0.053949,
+      " "
+    ],
+    [
+      2.417620,
+      "\""
+    ],
+    [
+      0.143466,
+      "\""
+    ],
+    [
+      0.239587,
+      " "
+    ],
+    [
+      0.152120,
+      "\u003e"
+    ],
+    [
+      0.120471,
+      "\u003e"
+    ],
+    [
+      0.207639,
+      " "
+    ],
+    [
+      0.656285,
+      "p"
+    ],
+    [
+      0.079767,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.006430,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ echo \"\" \u003e\u003e p\u001b[K\r\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[1;31mpage\u001b[0m/                         \u001b[1;31mpage_view_handler\u001b[0m/            \u001b[1;31mproperty_landing\u001b[0m/             \u001b[1;31mproperty_underride_dialog\u001b[0m/    \u001b[1;31mpush_testghost\u001b[0m/             \r\n\u001b[Jpage.js                       \u001b[Jpage_view_handler.js          \u001b[Jproperty_landing.js           \u001b[Jproperty_underride_dialog.js  \u001b[Jpush_testghost.js           \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000014,
+      "echo \"\" \u003e\u003e p\u001b[K"
+    ],
+    [
+      1.313009,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.004724,
+      "age\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[7mpage/                       \u001b[0m  \u001b[1;31mpage_view_handler\u001b[0m/            \u001b[1;31mproperty_landing\u001b[0m/             \u001b[1;31mproperty_underride_dialog\u001b[0m/    \u001b[1;31mpush_testghost\u001b[0m/             \u001b[K\r\n\u001b[Jpage.js                       \u001b[Jpage_view_handler.js          \u001b[Jproperty_landing.js           \u001b[Jproperty_underride_dialog.js  \u001b[Jpush_testghost.js           \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000006,
+      "echo \"\" \u003e\u003e page\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.499554,
+      "\r\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[7mpage/                       \u001b[0m  \r\u001b[7mpage/                       \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000015,
+      "echo \"\" \u003e\u003e page\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000044,
+      "\u0008\u001b[0m.js"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[1;31mpage\u001b[0m/                         \r\u001b[1B\u001b[7mpage.js                     \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Cecho \"\" \u003e\u003e page.js\u001b[K"
+    ],
+    [
+      0.743735,
+      "\r\r\n\u001b[J\u001b[A\u001b[20C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.000175,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000014,
+      "echo \"\" \u003e\u003e page.js\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.903280,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000160,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001353,
+      "\u001b]2;echo \"\" \u003e\u003e page.js\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;echo\u0007"
+    ],
+    [
+      0.072494,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000129,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..r/controllers\u0007"
+    ],
+    [
+      0.112396,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.806334,
+      "g"
+    ],
+    [
+      0.103657,
+      "\u0008gi"
+    ],
+    [
+      0.103549,
+      "t"
+    ],
+    [
+      0.031937,
+      " "
+    ],
+    [
+      0.088274,
+      "s"
+    ],
+    [
+      0.072193,
+      "t"
+    ],
+    [
+      0.087011,
+      "a"
+    ],
+    [
+      0.024637,
+      "t"
+    ],
+    [
+      0.072112,
+      "u"
+    ],
+    [
+      0.080044,
+      "s"
+    ],
+    [
+      0.111478,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000081,
+      "\r\r\n"
+    ],
+    [
+      0.001557,
+      "\u001b]2;git status\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.169773,
+      "On branch release/15.4\r\n"
+    ],
+    [
+      0.002001,
+      "Your branch is up-to-date with 'origin/release/15.4'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add \u003cfile\u003e...\" to update what will be committed)\r\n  (use \"git checkout -- \u003cfile\u003e...\" to discard changes in working directory)\r\n\r\n"
+    ],
+    [
+      0.000009,
+      "\t\u001b[31mmodified:   page.js\u001b[m\r\n\r\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.000937,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000107,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b]1;..r/controllers\u0007"
+    ],
+    [
+      0.112245,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000126,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.202012,
+      "g"
+    ],
+    [
+      0.103519,
+      "\u0008gi"
+    ],
+    [
+      0.088000,
+      "t"
+    ],
+    [
+      0.055709,
+      " "
+    ],
+    [
+      1.288526,
+      "c"
+    ],
+    [
+      0.102961,
+      "h"
+    ],
+    [
+      0.088757,
+      "e"
+    ],
+    [
+      0.103433,
+      "c"
+    ],
+    [
+      0.008151,
+      "k"
+    ],
+    [
+      0.152012,
+      "o"
+    ],
+    [
+      0.064982,
+      "u"
+    ],
+    [
+      0.127269,
+      "t"
+    ],
+    [
+      0.086863,
+      " "
+    ],
+    [
+      1.425479,
+      "-"
+    ],
+    [
+      0.103344,
+      "-"
+    ],
+    [
+      0.055385,
+      " "
+    ],
+    [
+      0.096310,
+      "p"
+    ],
+    [
+      0.088352,
+      "a"
+    ],
+    [
+      0.272286,
+      "\u001b[31m......\u001b[0m"
+    ],
+    [
+      0.098201,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[33m●\u001b[00m) \u001b[00m\r\n$ git checkout -- page.js\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.421742,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000108,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000235,
+      "\r\r\n"
+    ],
+    [
+      0.001533,
+      "\u001b]2;git checkout -- page.js\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.083856,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000092,
+      "\u001b]2;npettazz@bos-mp5fj: ~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]1;..r/controllers\u0007"
+    ],
+    [
+      0.115117,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[35mnpettazz\u001b[00m at \u001b[33mbos-mp5fj\u001b[00m in \u001b[32m~/Sites/Akamai/property-manager/pm-ui/src/ui/property_manager/controllers\u001b[00m (\u001b[36mrelease/15.4\u001b[00m) \u001b[00m\r\n$ \u001b[K"
+    ],
+    [
+      0.000179,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.557122,
+      "\r\r\n"
+    ]
+  ]
+}
