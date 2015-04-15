@@ -1,0 +1,610 @@
+{
+  "version": 1,
+  "width": 168,
+  "height": 39,
+  "duration": 41.085121,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.186143,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000035,
+      "\u001b]2;esbanarango@el-flecha: ~/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;..CC/GCC4/Admin\u0007"
+    ],
+    [
+      0.030278,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mAdmin \u001b[01;34mgit:(\u001b[31massets-ui\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000105,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.348725,
+      "e"
+    ],
+    [
+      0.066563,
+      "\u0008em"
+    ],
+    [
+      0.179453,
+      "b"
+    ],
+    [
+      0.056149,
+      "e"
+    ],
+    [
+      0.157706,
+      "r"
+    ],
+    [
+      0.101459,
+      " "
+    ],
+    [
+      0.145901,
+      "s"
+    ],
+    [
+      0.236302,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\r\r\n"
+    ],
+    [
+      0.000888,
+      "\u001b]2;ember s\u0007\u001b]1;ember\u0007"
+    ],
+    [
+      0.724887,
+      "version: 0.2.3\r\n"
+    ],
+    [
+      0.129249,
+      "Could not find watchman, falling back to NodeWatcher for file system events.\r\n"
+    ],
+    [
+      0.000169,
+      "Visit http://www.ember-cli.com/#watchman for more info.\r\n"
+    ],
+    [
+      1.009535,
+      "Livereload server on port 35729\r\n"
+    ],
+    [
+      0.000183,
+      "Serving on http://localhost:4200/\r\n"
+    ],
+    [
+      5.630070,
+      "\u001b[31mError occured parsing .jshintrc.\u001b[39m\r\n"
+    ],
+    [
+      0.000445,
+      "SyntaxError: Unexpected string\r\n    at Object.parse (native)\r\n    at JSHinter.getConfig (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/ember-cli-mocha/node_modules/broccoli-jshint/index.js:111:19)\r\n    at /Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/ember-cli-mocha/node_modules/broccoli-jshint/index.js:36:28\r\n    at lib$rsvp$$internal$$tryCatch (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/ember-cli/node_modules/rsvp/dist/rsvp.js:489:16)\r\n    at lib$rsvp$$internal$$invokeCallback (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/ember-cli/node_modules/rsvp/dist/rsvp.js:501:17)\r\n    at lib$rsvp$$internal$$publish (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/ember-cli/node_modules/rsvp/dist/rsvp.js:472:11)\r\n    at lib$rsvp$asap$$flush (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/ember-cli/n"
+    ],
+    [
+      0.000006,
+      "ode_modules/rsvp/dist/rsvp.js:1290:9)\r\n    at process._tickCallback (node.js:355:11)\r\n"
+    ],
+    [
+      0.920794,
+      "\r\n\u001b[31madapters/application.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nadapters/application.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nadapters/application.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31madapters/card.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nadapters/card.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31madapters/ecard.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nadapters/ecard.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31madapters/envelope.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nadapters/envelope.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31madapters/fixture.js: line 1, col 1, 'import' is only available in ES6 (use esnext option)"
+    ],
+    [
+      0.000236,
+      ".\r\nadapters/fixture.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31madapters/size.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nadapters/size.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mapp.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\napp.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\napp.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\napp.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\napp.js: line 16, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n5 errors\u001b[39m\r\n\r\n\u001b[31mhelpers/color-attr.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\nhelpers/color-attr.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/color-attr.js: line 11, col 1, 'export' is only available in ES6 (use esnext option).\r\n"
+    ],
+    [
+      0.000156,
+      "\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mhelpers/format-string-capitalize.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nhelpers/format-string-capitalize.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/format-string-capitalize.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mhelpers/format-string-lowercase.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nhelpers/format-string-lowercase.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/format-string-lowercase.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mhelpers/formatted-date.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nhelpers/formatted-date.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/formatted-date.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[3"
+    ],
+    [
+      0.000120,
+      "9m\r\n\r\n\u001b[31mhelpers/fraction-attr.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nhelpers/fraction-attr.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/fraction-attr.js: line 13, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mhelpers/gcc-subdomain.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nhelpers/gcc-subdomain.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/gcc-subdomain.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mhelpers/icon-asset.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\nhelpers/icon-asset.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/icon-asset.js: line 9, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mhelpers/ui-icon.js: line 1, col 1, 'import' is only available in ES6 (use es"
+    ],
+    [
+      0.000181,
+      "next option).\r\nhelpers/ui-icon.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\nhelpers/ui-icon.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmixins/assets-builder.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/assets-builder.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/attachable.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/attachable.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/attachable.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmixins/delete-item.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/delete-item.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/loading-bubble.js: line 1, col 1, 'import' is only available in"
+    ],
+    [
+      0.000153,
+      " ES6 (use esnext option).\r\nmixins/loading-bubble.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/loading-bubble.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmixins/loading-index.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/loading-index.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/log-transition.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/log-transition.js: line 10, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/paged-model.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/paged-model.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\nmixins/paged-model.js: line 16, col 13, ['sort'] is better written in dot notation.\r\nmixins/paged-model.js: line 17, col 13, ['direction'] is better written"
+    ],
+    [
+      0.000152,
+      " in dot notation.\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mmixins/query-params-defaults.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/query-params-defaults.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/route-deactivate.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/route-deactivate.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/route-refresh.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/route-refresh.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/save-resource-transition.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/save-resource-transition.js: line 10, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/save-resource.js: line 1, col 1, 'import' is only available in ES"
+    ],
+    [
+      0.000147,
+      "6 (use esnext option).\r\nmixins/save-resource.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmixins/sort-header-controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmixins/sort-header-controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/asset-type.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/asset-type.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/asset.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/asset.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/asset.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/asset.js: line 32, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mmodels/attachment.js: line 1, col 1, 'import' is only avail"
+    ],
+    [
+      0.000172,
+      "able in ES6 (use esnext option).\r\nmodels/attachment.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/attachment.js: line 18, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmodels/canvas-element.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/canvas-element.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/card.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/card.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/card.js: line 25, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmodels/category.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/category.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/company.js: line 1, col 1, 'import' is only available in ES6 ("
+    ],
+    [
+      0.000165,
+      "use esnext option).\r\nmodels/company.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/ecard.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/ecard.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/ecard.js: line 29, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmodels/envelope.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/envelope.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/envelope.js: line 18, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmodels/ink-color.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/ink-color.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/model-attrs/css-attrs.js: line 1, col 1, 'import' is only available in ES6 (use esnext "
+    ],
+    [
+      0.000089,
+      "option).\r\nmodels/model-attrs/css-attrs.js: line 10, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/model-attrs/product-attrs.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/model-attrs/product-attrs.js: line 17, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/product.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/product.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/product.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mmodels/size.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/size.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/source-asset.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/source-asset.js: line 3, col 1, 'import' is only a"
+    ],
+    [
+      0.000142,
+      "vailable in ES6 (use esnext option).\r\nmodels/source-asset.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/source-asset.js: line 35, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mmodels/surface-element.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/surface-element.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mmodels/surface.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nmodels/surface.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/application/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/application/controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/application/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/application/ro"
+    ],
+    [
+      0.000159,
+      "ute.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/application/route.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/asset-types/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/asset-types/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/controller.js: line 6, col 1, 'export"
+    ],
+    [
+      0.000106,
+      "' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/asset-types/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/route.js: line 9, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/index/route.js: line 11, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n8 errors\u001b[39m\r\n\r\n\u001b[31mpods/asset-types/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext op"
+    ],
+    [
+      0.000108,
+      "tion).\r\npods/asset-types/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/new/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/asset-types/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/asset-types/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/assets/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/edit/route.js: line 4, col 1, 'import' is only available in ES"
+    ],
+    [
+      0.000104,
+      "6 (use esnext option).\r\npods/assets/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/assets/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/index/controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/assets/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/index/route.js: line 10, col 1, 'export'"
+    ],
+    [
+      0.000102,
+      " is only available in ES6 (use esnext option).\r\npods/assets/index/route.js: line 22, col 15, ['sort'] is better written in dot notation.\r\npods/assets/index/route.js: line 23, col 15, ['direction'] is better written in dot notation.\r\npods/assets/index/route.js: line 27, col 13, ['asset_type_name'] is better written in dot notation.\r\n\r\n10 errors\u001b[39m\r\n\r\n\u001b[31mpods/assets/new/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/new/controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/assets/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/new/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/assets/route.js: lin"
+    ],
+    [
+      0.000104,
+      "e 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/assets/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/assets/add/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/assets/add/controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/assets/add/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/assets/add/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/assets/add/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/assets/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/assets/edit/route.js: line 3, col 1, 'export' is only available i"
+    ],
+    [
+      0.000092,
+      "n ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/assets/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/assets/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/assets/index/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/assets/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/assets/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/attachments/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use e"
+    ],
+    [
+      0.000098,
+      "snext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/attachments/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/attachments/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/index/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/index/route.js: line 6, col 1, 'import' is onl"
+    ],
+    [
+      0.000089,
+      "y available in ES6 (use esnext option).\r\npods/card/attachments/index/route.js: line 8, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n6 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/attachments/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/new/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/attachments/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/attachments/route.js: line 7, col 1, 'export' is only available in ES6 (use esn"
+    ],
+    [
+      0.000076,
+      "ext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/envelope/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/envelope/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/envelope/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/envelope/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/envelope/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/envelope/route.js: line "
+    ],
+    [
+      0.000082,
+      "3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/envelope/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/index/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/size/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/size/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/size/contr"
+    ],
+    [
+      0.000072,
+      "oller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/size/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/card/size/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/size/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/size/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/card/size/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/cards/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option)."
+    ],
+    [
+      0.000108,
+      "\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/cards/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/route.js: line 9, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/index/route.js: line 11, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n8 errors\u001b[39m\r\n\r\n\u001b[31mpods/cards/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/new/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option)"
+    ],
+    [
+      0.000071,
+      ".\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/cards/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/cards/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/categories/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/categories/index/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/categories/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/categories/new/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/categories/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/categories/route.js: line 3, col 1, 'export' is"
+    ],
+    [
+      0.000073,
+      " only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/category/add-products/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/category/add-products/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/category/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/category/edit/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/category/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/category/index/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/category/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/category/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/companies/edit/route.js: line 1, col 1, 'impor"
+    ],
+    [
+      0.000108,
+      "t' is only available in ES6 (use esnext option).\r\npods/companies/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/companies/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/companies/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext o"
+    ],
+    [
+      0.000116,
+      "ption).\r\npods/companies/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/route.js: line 9, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/index/route.js: line 11, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n8 errors\u001b[39m\r\n\r\n\u001b[31mpods/companies/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/new/route.js: line 7, col 1, 'export' is only available in ES6 "
+    ],
+    [
+      0.000106,
+      "(use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/companies/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/companies/route.js: line 8, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n5 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/assets/add/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/assets/add/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/assets/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/assets/index/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpo"
+    ],
+    [
+      0.000094,
+      "ds/company/assets/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/assets/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/assets/source-asset/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/assets/source-asset/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/cards/add/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/add/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/add/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/add/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/cards/add/route.js: line 1, col 1, 'import' is only available in ES6 (use e"
+    ],
+    [
+      0.000108,
+      "snext option).\r\npods/company/cards/add/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/add/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/add/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/cards/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/index/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/cards/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/cards/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/ecards/add/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npo"
+    ],
+    [
+      0.000093,
+      "ds/company/ecards/add/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/add/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/add/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/ecards/add/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/add/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/add/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/add/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/ecards/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/index/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39"
+    ],
+    [
+      0.000101,
+      "m\r\n\r\n\u001b[31mpods/company/ecards/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/ecards/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/envelopes/add/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/envelopes/add/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/envelopes/add/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/envelopes/add/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/envelopes/add/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/envelopes/add/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext optio"
+    ],
+    [
+      0.000087,
+      "n).\r\npods/company/envelopes/add/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/envelopes/add/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/envelopes/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/envelopes/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/envelopes/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/index/controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/comp"
+    ],
+    [
+      0.000100,
+      "any/index/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/sizes/add/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/add/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/add/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/add/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/sizes/add/route.js: line 1, col 1, '"
+    ],
+    [
+      0.000096,
+      "import' is only available in ES6 (use esnext option).\r\npods/company/sizes/add/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/add/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/sizes/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/sizes/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/route.js: line 5, col 1, 'import"
+    ],
+    [
+      0.000088,
+      "' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/route.js: line 10, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/company/sizes/index/route.js: line 21, col 15, ['sort'] is better written in dot notation.\r\npods/company/sizes/index/route.js: line 22, col 15, ['direction'] is better written in dot notation.\r\npods/company/sizes/index/route.js: line 29, col 13, ['company_id'] is better written in dot notation.\r\n\r\n10 errors\u001b[39m\r\n\r\n\u001b[31mpods/company/sizes/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/company/sizes/rout"
+    ],
+    [
+      0.000075,
+      "e.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/action-list-sub/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/action-list-sub/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/action-main/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/action-main/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/action-sub/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/action-sub/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/asset-form-image/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/asset-form-image/component.js: li"
+    ],
+    [
+      0.000085,
+      "ne 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/asset-form-text/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/asset-form-text/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/asset-form-verse/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/asset-form-verse/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/asset-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/asset-item/component.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/asset-item/component.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/asset-type-form/component.js: line 1,"
+    ],
+    [
+      0.000119,
+      " col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/asset-type-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/asset-type-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/asset-type-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/assets-builder-element-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/assets-builder-element-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/attachment-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/attachment-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/attac"
+    ],
+    [
+      0.000100,
+      "hment-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/attachment-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/base/form.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/base/form.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/base/form.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/base/item.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/base/item.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/base/item.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/base/preview.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/base/preview."
+    ],
+    [
+      0.000104,
+      "js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/basic-search/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/basic-search/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/canvas-element-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/canvas-element-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/canvas-element-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/canvas-element-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/card-assets-builder/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/card"
+    ],
+    [
+      0.000077,
+      "-assets-builder/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/card-element/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/card-element/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/card-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/card-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/card-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/card-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/card-item-choose/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/card-item-choose/comp"
+    ],
+    [
+      0.000065,
+      "onent.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/category-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/category-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/category-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/category-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/company-assets-at-a-glance/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/company-assets-at-a-glance/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/company-assets-builder/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/co"
+    ],
+    [
+      0.000067,
+      "mponents/company-assets-builder/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/company-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/company-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/company-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/company-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ecard-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ecard-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ecard-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/eca"
+    ],
+    [
+      0.000092,
+      "rd-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/envelope-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/envelope-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/envelope-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/envelope-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/envelope-preview/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/envelope-preview/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/form-field/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/form-field/"
+    ],
+    [
+      0.000089,
+      "component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/components/form-field/component.js: line 24, col 17, Use '!==' to compare with 'null'.\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ink-color-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ink-color-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ink-color-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ink-color-item/component.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ink-color-item/component.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/components/ink-color-item/component.js: line 30, col 41, ['colorDefault'] is better written in dot notation.\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/input-file/component.js: line 1, col 1, 'import' is only availa"
+    ],
+    [
+      0.000084,
+      "ble in ES6 (use esnext option).\r\npods/components/input-file/component.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/input-file/component.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/components/input-file/component.js: line 26, col 58, ['name'] is better written in dot notation.\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/input-focus/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/input-focus/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/input-fraction/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/input-fraction/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/components/input-fraction/component.js: line 26, col 27, eval can be harmful.\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/input-number/component.js: line 1,"
+    ],
+    [
+      0.000083,
+      " col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/input-number/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/input-number-pixels-to-inch/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/input-number-pixels-to-inch/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/nav-main/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/nav-main/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/object-form/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/object-form/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/preview-container/component.js"
+    ],
+    [
+      0.000077,
+      ": line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/preview-container/component.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/preview-container/component.js: line 8, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/product-assets-at-a-glance/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/product-assets-at-a-glance/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/product-assets-builder/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/product-assets-builder/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/product-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/product"
+    ],
+    [
+      0.000073,
+      "-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/radio-button/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/radio-button/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/select-box/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/select-box/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/components/select-box/component.js: line 57, col 20, Unexpected '`'.\r\npods/components/select-box/component.js: line 58, col 15, Expected '}' to match '{' from line 56 and instead saw ':'.\r\npods/components/select-box/component.js: line 58, col 17, Expected ')' and instead saw 'success'.\r\npods/components/select-box/component.js: line 59, col 11, Expected an assignment or function call and instead saw an expression.\r\npods/compo"
+    ],
+    [
+      0.000065,
+      "nents/select-box/component.js: line 59, col 15, Missing semicolon.\r\npods/components/select-box/component.js: line 59, col 15, Expected '}' to match '{' from line 54 and instead saw ':'.\r\npods/components/select-box/component.js: line 59, col 17, Expected ')' and instead saw 'feather-circle-check'.\r\npods/components/select-box/component.js: line 59, col 39, Missing semicolon.\r\npods/components/select-box/component.js: line 60, col 10, Expected '}' to match '{' from line 3 and instead saw ')'.\r\npods/components/select-box/component.js: line 60, col 11, Expected ')' and instead saw ';'.\r\npods/components/select-box/component.js: line 60, col 12, Missing semicolon.\r\npods/components/select-box/component.js: line 61, col 7, Expected '(end)' and instead saw '}'.\r\n\r\n14 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/size-builder/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/size-builder/component.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/comp"
+    ],
+    [
+      0.000073,
+      "onents/size-builder/component.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/size-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/size-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/size-preview/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/size-preview/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/sort-header/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/sort-header/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/surface-builder/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-builde"
+    ],
+    [
+      0.000062,
+      "r/component.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-builder/component.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/surface-element-controls/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-element-controls/component.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-element-controls/component.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-element-controls/component.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/surface-element-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-element-item/component.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-"
+    ],
+    [
+      0.000078,
+      "element-item/component.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/surface-item/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-item/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/surface-list/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-list/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/surface-preview/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/surface-preview/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/table-view-attr/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/table-v"
+    ],
+    [
+      0.000153,
+      "iew-attr/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/table-view-header/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/table-view-header/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/thumbnail-image/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/thumbnail-image/component.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/thumbnail-image/component.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/thumbnail-text/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/thumbnail-text/component.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/thumbnail-text/compon"
+    ],
+    [
+      0.000090,
+      "ent.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/tool-bar/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/tool-bar/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-boolean-attr/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-boolean-attr/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-button/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-button/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-button-delete/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-button-delete/component.js: line 3, "
+    ],
+    [
+      0.000105,
+      "col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-button-edit/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-button-edit/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-button-show/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-button-show/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-dropdown/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-dropdown/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-dropdown-option/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-dropdown-option/component.js: line 3"
+    ],
+    [
+      0.000100,
+      ", col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-inline-edit/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-inline-edit/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/components/ui-inline-edit/component.js: line 12, col 47, Use '!==' to compare with 'null'.\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-inline-edit-row/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-inline-edit-row/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-input-file/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-input-file/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-input-image/component.js: line 1, col 1, 'imp"
+    ],
+    [
+      0.000066,
+      "ort' is only available in ES6 (use esnext option).\r\npods/components/ui-input-image/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-modal/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-modal/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-pagination/component.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-pagination/component.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-pagination/component.js: line 9, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-pagination/component.js: line 10, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-pagination/component.js: line 12, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n5 errors\u001b"
+    ],
+    [
+      0.000066,
+      "[39m\r\n\r\n\u001b[31mpods/components/ui-poly-attr/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-poly-attr/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-radio/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-radio/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/components/ui-toggle-switch/component.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/components/ui-toggle-switch/component.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/assets/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/assets/edit/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/assets/index"
+    ],
+    [
+      0.000079,
+      "/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/assets/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/assets/index/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/assets/new/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/assets/new/controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/assets/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/assets/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/assets/new/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/assets/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/assets/route.js: line 3, "
+    ],
+    [
+      0.000069,
+      "col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/attachments/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/attachments/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n"
+    ],
+    [
+      0.000055,
+      "\r\n\u001b[31mpods/ecard/attachments/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/index/route.js: line 8, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n6 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/attachments/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecar"
+    ],
+    [
+      0.000054,
+      "d/attachments/new/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/attachments/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/attachments/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/canvas-elements/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 error"
+    ],
+    [
+      0.000053,
+      "s\u001b[39m\r\n\r\n\u001b[31mpods/ecard/canvas-elements/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/canvas-elements/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/route.js: line 6, co"
+    ],
+    [
+      0.000066,
+      "l 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/index/route.js: line 8, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n6 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/canvas-elements/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/new/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/canvas-elements/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/canvas-elements/ro"
+    ],
+    [
+      0.000090,
+      "ute.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/index/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecard/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecard/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ec"
+    ],
+    [
+      0.000065,
+      "ard/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecards/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecards/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/route.js: line 7, col 1, 'import' is only available in ES6 (u"
+    ],
+    [
+      0.000180,
+      "se esnext option).\r\npods/ecards/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/route.js: line 9, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/index/route.js: line 11, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n8 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecards/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/new/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/ecards/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ecards/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/assets/add/controller.js: line 1, col 1, 'import' is o"
+    ],
+    [
+      0.000083,
+      "nly available in ES6 (use esnext option).\r\npods/envelope/assets/add/controller.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/assets/add/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/assets/add/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/assets/add/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/assets/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/assets/edit/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/assets/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/assets/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/assets/index/route.js: line 5, col 1"
+    ],
+    [
+      0.000078,
+      ", 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/assets/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/assets/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/attachments/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/attachments/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/e"
+    ],
+    [
+      0.000084,
+      "nvelope/attachments/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/attachments/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/index/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/index/route.js: line 8, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n6 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/attachments/new/route.js: line 1, col 1, 'import' is o"
+    ],
+    [
+      0.000063,
+      "nly available in ES6 (use esnext option).\r\npods/envelope/attachments/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/new/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/attachments/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/attachments/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/edit/route.js: line 3, col 1, 'import' is only available i"
+    ],
+    [
+      0.000063,
+      "n ES6 (use esnext option).\r\npods/envelope/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/index/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/size/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/size/controller.j"
+    ],
+    [
+      0.000061,
+      "s: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/size/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/size/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelope/size/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/size/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelope/size/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelopes/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/controller.js: line 6, col 1, 'export' is only ava"
+    ],
+    [
+      0.000098,
+      "ilable in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelopes/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/route.js: line 9, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/index/route.js: line 11, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n8 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelopes/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/new/rout"
+    ],
+    [
+      0.000054,
+      "e.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/envelopes/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/envelopes/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/index/route.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/index/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ink-colors/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors"
+    ],
+    [
+      0.000060,
+      "/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ink-colors/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/index/route.js: line 10, col 1, 'export' is only availabl"
+    ],
+    [
+      0.000062,
+      "e in ES6 (use esnext option).\r\n\r\n7 errors\u001b[39m\r\n\r\n\u001b[31mpods/ink-colors/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/new/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/ink-colors/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/ink-colors/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/login/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/login/controller.js: line 2"
+    ],
+    [
+      0.000056,
+      ", col 1, 'import' is only available in ES6 (use esnext option).\r\npods/login/controller.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/login/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/login/route.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mpods/media/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/media/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/media/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/media/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/products/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/contro"
+    ],
+    [
+      0.000067,
+      "ller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/products/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/index/route.js: line 10, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n7 errors\u001b[39m\r\n\r\n\u001b[31mpods/products/route.js: line 1, col 1, 'import' is only available in ES6 (use esne"
+    ],
+    [
+      0.000085,
+      "xt option).\r\npods/products/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/products/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/size/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/size/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b["
+    ],
+    [
+      0.000069,
+      "31mpods/size/surfaces/edit/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/surfaces/edit/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/surfaces/edit/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/surfaces/edit/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/size/surfaces/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/surfaces/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/surfaces/new/route.js: line 5, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/size/surfaces/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/surfaces/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/size/surfaces/route.js: line 5, col "
+    ],
+    [
+      0.000112,
+      "1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mpods/sizes/index/controller.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/controller.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/controller.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/controller.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/sizes/index/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/route.js: line 6, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/route.js: line 7, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/inde"
+    ],
+    [
+      0.000074,
+      "x/route.js: line 8, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/route.js: line 9, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/index/route.js: line 11, col 1, 'export' is only available in ES6 (use esnext option).\r\npods/sizes/index/route.js: line 23, col 15, ['sort'] is better written in dot notation.\r\npods/sizes/index/route.js: line 24, col 15, ['direction'] is better written in dot notation.\r\n\r\n10 errors\u001b[39m\r\n\r\n\u001b[31mpods/sizes/new/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/new/route.js: line 3, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/new/route.js: line 4, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/new/route.js: line 6, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mpods/sizes/route.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/route.js: line 3, col 1, "
+    ],
+    [
+      0.000066,
+      "'import' is only available in ES6 (use esnext option).\r\npods/sizes/route.js: line 5, col 1, 'import' is only available in ES6 (use esnext option).\r\npods/sizes/route.js: line 7, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n4 errors\u001b[39m\r\n\r\n\u001b[31mrouter.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nrouter.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nrouter.js: line 146, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mserializers/card.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/card.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/card.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mserializers/category.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/category.js: line 3, col 1, 'export' is only available in ES6 (use esnext option"
+    ],
+    [
+      0.000085,
+      ").\r\n\r\n2 errors\u001b[39m\r\n\r\n\u001b[31mserializers/ecard.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/ecard.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/ecard.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mserializers/envelope.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/envelope.js: line 2, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/envelope.js: line 4, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n3 errors\u001b[39m\r\n\r\n\u001b[31mserializers/formatters/product-formatter.js: line 1, col 1, 'import' is only available in ES6 (use esnext option).\r\nserializers/formatters/product-formatter.js: line 3, col 1, 'export' is only available in ES6 (use esnext option).\r\n\r\n2 errors\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000112,
+      "\u001b[33m===== 262 JSHint Errors\r\n\u001b[39m\r\n"
+    ],
+    [
+      1.035406,
+      "\u001b[33mWarning: ignoring input sourcemap for bower_components/route-recognizer/dist/route-recognizer.js because ENOENT, no such file or directory '/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/tmp/tree_merger-tmp_dest_dir-5kxbRg6c.tmp/bower_components/route-recognizer/dist/route-recognizer.js.map'\u001b[39m\r\n"
+    ],
+    [
+      4.043489,
+      "\u001b[31mFile: /Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/tmp/tree_merger-tmp_dest_dir-Ibix03j9.tmp/app/styles/vendor/_semantic-ui.scss (13442)\u001b[39m\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[31mexpected a variable name (e.g. $x) or ')' for the parameter list for url\u001b[39m\r\n"
+    ],
+    [
+      0.000363,
+      "Error: expected a variable name (e.g. $x) or ')' for the parameter list for url\r\n    at Object.module.exports.renderSync (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/broccoli-sass/node_modules/node-sass/lib/index.js:394:22)\r\n    at SassCompiler.updateCache (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/broccoli-sass/index.js:36:17)\r\n    at /Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/broccoli-sass/node_modules/broccoli-caching-writer/index.js:96:34\r\n    at lib$rsvp$$internal$$tryCatch (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/broccoli-sass/node_modules/broccoli-caching-writer/node_modules/rsvp/dist/rsvp.js:489:16)\r\n    at lib$rsvp$$internal$$invokeCallback (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/broccoli-sass/node_modules/broccoli-caching-writer/node_modules/rsvp/dist/rsvp.js:501:17)\r\n    at lib$rsvp$$internal$$p"
+    ],
+    [
+      0.000009,
+      "ublish (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/broccoli-sass/node_modules/broccoli-caching-writer/node_modules/rsvp/dist/rsvp.js:472:11)\r\n    at lib$rsvp$asap$$flush (/Users/esbanarango/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin/node_modules/broccoli-sass/node_modules/broccoli-caching-writer/node_modules/rsvp/dist/rsvp.js:1290:9)\r\n    at process._tickCallback (node.js:355:11)\r\n"
+    ],
+    [
+      19.154884,
+      "\r\n"
+    ],
+    [
+      0.404794,
+      "\r\n"
+    ],
+    [
+      0.719724,
+      "e"
+    ],
+    [
+      0.180178,
+      "x"
+    ],
+    [
+      0.123602,
+      "i"
+    ],
+    [
+      0.168944,
+      "t"
+    ],
+    [
+      0.123569,
+      "\r\n"
+    ],
+    [
+      1.698952,
+      "^C"
+    ],
+    [
+      0.539820,
+      "^C"
+    ],
+    [
+      0.207861,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000097,
+      "\u001b]2;esbanarango@el-flecha: ~/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..CC/GCC4/Admin\u0007"
+    ],
+    [
+      0.031134,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mAdmin \u001b[01;34mgit:(\u001b[31massets-ui\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000081,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.728974,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ],
+    [
+      0.000584,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000046,
+      "\u001b]2;esbanarango@el-flecha: ~/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Admin\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..CC/GCC4/Admin\u0007"
+    ],
+    [
+      0.027823,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mAdmin \u001b[01;34mgit:(\u001b[31massets-ui\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000065,
+      "\u001b[K"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.219166,
+      "e"
+    ],
+    [
+      0.212961,
+      "\u0008ex"
+    ],
+    [
+      0.112444,
+      "i"
+    ],
+    [
+      0.191234,
+      "t"
+    ],
+    [
+      0.203005,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000014,
+      "\r\r\n"
+    ],
+    [
+      0.000627,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
