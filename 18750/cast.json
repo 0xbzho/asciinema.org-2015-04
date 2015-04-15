@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "width": 168,
+  "height": 39,
+  "duration": 13.275248,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.176767,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000025,
+      "\u001b]2;esbanarango@el-flecha: ~/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Minisites\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;..CC4/Minisites\u0007"
+    ],
+    [
+      0.024724,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mMinisites \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000105,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.668900,
+      "e"
+    ],
+    [
+      0.078047,
+      "\u0008em"
+    ],
+    [
+      0.168919,
+      "b"
+    ],
+    [
+      0.056103,
+      "e"
+    ],
+    [
+      0.562798,
+      "r"
+    ],
+    [
+      0.146001,
+      " "
+    ],
+    [
+      0.224743,
+      "s"
+    ],
+    [
+      0.292705,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000046,
+      "\r\r\n"
+    ],
+    [
+      0.000807,
+      "\u001b]2;ember s\u0007\u001b]1;ember\u0007"
+    ],
+    [
+      0.811528,
+      "\u001b[31m\r\n\u001b[31mMissing bower packages: \u001b[31m\r\n\u001b[0mPackage: \u001b[0m\u001b[36mgeoffgraham.animate.scss\u001b[31m\r\n\u001b[90m  * Specified: \u001b[31m\u001b[0m*\u001b[0m\r\n\u001b[90m  * Installed: \u001b[31m\u001b[0m(not installed)\u001b[0m\r\n\r\n\u001b[31mRun `bower install` to install missing dependencies.\u001b[31m\r\n\u001b[39m\r\n"
+    ],
+    [
+      0.006795,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000036,
+      "\u001b]2;esbanarango@el-flecha: ~/Developer/Freelance/DeepSpaceRobots/GCC/GCC4/Minisites\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;..CC4/Minisites\u0007"
+    ],
+    [
+      0.025221,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mMinisites \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000069,
+      "\u001b[K"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.333232,
+      "e"
+    ],
+    [
+      0.202568,
+      "\u0008ex"
+    ],
+    [
+      0.202337,
+      "i"
+    ],
+    [
+      0.090155,
+      "t"
+    ],
+    [
+      0.179440,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000038,
+      "\r\r\n"
+    ],
+    [
+      0.000625,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
