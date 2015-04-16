@@ -1,0 +1,762 @@
+{
+  "version": 1,
+  "width": 96,
+  "height": 29,
+  "duration": 150.741752,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.043204,
+      "mount_osxfusefs: mount point /Users/billbooth/Desktop/dev/mnt is itself on a OSXFUSE volume\r\n"
+    ],
+    [
+      1.410661,
+      "root@10.145.195.252's password: "
+    ],
+    [
+      2.217821,
+      "\r\n"
+    ],
+    [
+      0.128212,
+      "\u001b[?1034h[billbooth@SEA-ML-BOOTH:~/Desktop/dev/licenseenv/bin]$ "
+    ],
+    [
+      1.711783,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "[billbooth@SEA-ML-BOOTH:~/Desktop/dev/licenseenv/bin]$ "
+    ],
+    [
+      0.279736,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "[billbooth@SEA-ML-BOOTH:~/Desktop/dev/licenseenv/bin]$ "
+    ],
+    [
+      1.639836,
+      "./proto.py "
+    ],
+    [
+      1.399844,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      1.487913,
+      "."
+    ],
+    [
+      0.119829,
+      "/"
+    ],
+    [
+      0.631919,
+      "g"
+    ],
+    [
+      0.112106,
+      "e"
+    ],
+    [
+      0.120111,
+      "t"
+    ],
+    [
+      0.223926,
+      "\u0007_"
+    ],
+    [
+      0.751829,
+      "a"
+    ],
+    [
+      0.304351,
+      "\u0007"
+    ],
+    [
+      0.328161,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.223331,
+      "r"
+    ],
+    [
+      0.088126,
+      "e"
+    ],
+    [
+      0.232142,
+      "gkey.py "
+    ],
+    [
+      0.751986,
+      "-"
+    ],
+    [
+      0.288152,
+      "i"
+    ],
+    [
+      0.199985,
+      "\r\n"
+    ],
+    [
+      0.048296,
+      "[ interactive mode selected ]\r\n\r\nThis is a demonstration of command-line regkey generation. Note that\r\nlike the current procedure for getting regkeys, you need to include your email\r\naddress here with the -e flag. The license server will send you an email\r\nas usual.\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "License family is: BIG-IP\r\n"
+    ],
+    [
+      2.600433,
+      "SKU name: "
+    ],
+    [
+      0.535188,
+      "f"
+    ],
+    [
+      0.783793,
+      "5"
+    ],
+    [
+      0.234217,
+      "\u0007\u0008\u0008F5-"
+    ],
+    [
+      0.504248,
+      "\r\nDisplay all 1392 possibilities? (y or n) "
+    ],
+    [
+      1.293458,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "\r\u001b[KSKU name: F5-"
+    ],
+    [
+      1.599712,
+      "b"
+    ],
+    [
+      0.119815,
+      "i"
+    ],
+    [
+      0.079948,
+      "g"
+    ],
+    [
+      0.904400,
+      "-"
+    ],
+    [
+      0.319760,
+      "l"
+    ],
+    [
+      0.152245,
+      "t"
+    ],
+    [
+      0.095689,
+      "m"
+    ],
+    [
+      0.648135,
+      "-"
+    ],
+    [
+      0.447776,
+      "5"
+    ],
+    [
+      0.455965,
+      "2"
+    ],
+    [
+      0.183945,
+      "0"
+    ],
+    [
+      0.258856,
+      "\u0007\u001b[14GBIG-LTM-5200V-LIC"
+    ],
+    [
+      1.103958,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "F5-BIG-LTM-5200V-LIC     F5-BIG-LTM-5200V-LIC-DEV\r\n"
+    ],
+    [
+      0.000006,
+      "\r\u001b[KSKU name: F5-BIG-LTM-5200V-LIC"
+    ],
+    [
+      1.997220,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191985,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.240270,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.255884,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.296929,
+      "\u0007-LIC"
+    ],
+    [
+      0.768653,
+      "\r\nF5-BIG-LTM-5200V-LIC     F5-BIG-LTM-5200V-LIC-DEV\r\n\r\u001b[KSKU name: F5-BIG-LTM-5200V-LIC"
+    ],
+    [
+      0.638034,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200028,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175886,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136628,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127599,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152268,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159747,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.272510,
+      "\u0007"
+    ],
+    [
+      0.344008,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.184738,
+      "\u0007"
+    ],
+    [
+      0.441073,
+      "\r\nF5-BIG-LTM-5000S-LIC       F5-BIG-LTM-5200V-LIC       F5-BIG-LTM-5250V-LIC      \r\nF5-BIG-LTM-5000S-LIC-DEV   F5-BIG-LTM-5200V-LIC-DEV   F5-BIG-LTM-5250V-LIC-DEV  \r\nF5-BIG-LTM-5050S-LIC       F5-BIG-LTM-5250V-F-LIC    \r\nF5-BIG-LTM-5050S-LIC-DEV   F5-BIG-LTM-5250V-F-LIC-DEV\r\n"
+    ],
+    [
+      0.000006,
+      "\r\u001b[KSKU name: F5-BIG-LTM-5"
+    ],
+    [
+      2.517978,
+      "0"
+    ],
+    [
+      0.232180,
+      "0"
+    ],
+    [
+      0.319957,
+      "0"
+    ],
+    [
+      0.352888,
+      "\u0007S-LIC"
+    ],
+    [
+      1.239202,
+      "-"
+    ],
+    [
+      0.216733,
+      "DEV"
+    ],
+    [
+      1.590974,
+      "\r\n"
+    ],
+    [
+      0.255031,
+      "LIC-PKG-BIG-DNS-GTM-RL-LO:LIC-PKG-BIG-DNS-GTM-RL-LO=1|LIC-PKG-BIG-LTM-5000S-DEV:LIC-PKG-BIG-LTM-5000S-DEV=1\r\nF5-BIG-LTM-5000S-LIC-DEV\r\n"
+    ],
+    [
+      0.001942,
+      "\u003e /Users/billbooth/Desktop/dev/licenseenv/bin/get_regkey.py(128)\u003cmodule\u003e()\r\n-\u003e def pretty_addons(intmods):\r\n"
+    ],
+    [
+      0.000039,
+      "(Pdb) "
+    ],
+    [
+      1.567017,
+      "c"
+    ],
+    [
+      0.184049,
+      "\r\n"
+    ],
+    [
+      0.000242,
+      "LIC-PKG-BIG-GTM (Global Traffic Manager Module)\r\nLIC-PKG-BIG-ADD-DNS-M (DNS and GTM (Unlimited))\r\nLIC-PKG-BIG-ADD-DNSSEC (DNSSEC)\r\nLIC-PKG-BIG-ROUTEMODS (Routing Bundle)\r\nLIC-PKG-BIG-ADD-GBR-5000S-P (LTM to Better Bundle, 5000S Platform (Pr)\r\nLIC-PKG-BIG-ADD-MULTICAST (Multicast Routing)\r\n"
+    ],
+    [
+      0.000007,
+      "LIC-PKG-BIG-ADD-SSL-FWD-PROXY (SSL, Forward Proxy)\r\nLIC-PKG-BIG-ADD-AM (Acceleration Manager)\r\nLIC-PKG-BIG-LTM-5000S-DEV (LTM, Base, 5000S)\r\nLIC-PKG-BIG-ADD-FIXLL (FIX Low Latency)\r\nLIC-PKG-BIG-SBS-TRUSTIP3-6900 (IPI Subscription, 3Yr, 5000/5200/6900/70)\r\nLIC-PKG-BIG-DNS-GTM-RL-LO (GTM-DNS, Rate Limited, LO, BIG-IP)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-ADD-AFM-5000 (AFM, 5000)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-SBS-SWG-3YR-5000 (SWG Subscription, 3Yr, 5000/5200/6900)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-ADD-APPLMODE (App Mode (TMSH Only, No Root/Bash))\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-BIG-ADD-SEC-5000 (ADC, Security Bundle, 5000)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-ADD-MSM-MAX (MSM)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-ADD-PEM-5000 (PEM, 5000)\r\n"
+    ],
+    [
+      0.000008,
+      "LIC-PKG-BIG-ADD-CGN-5000 (Carrier Grade NAT, BIG-IP, 5000)\r\nLIC-PKG-BIG-ADD-DNS (DNS Services)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-SBS-PEM-URL-3-5000 (PEM URL Filtering, Subscription, 3Yr, 50)\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-BIG-ADD-GBR-50X0S (LTM to Better Bundle Upgrade, 50X0S Plat)\r\n"
+    ],
+    [
+      0.000006,
+      "LIC-PKG-BIG-ADD-DNS-1K-M (DNS UPGRADE LICENSE (1K TO MAX RPS))\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-EA-NM (EA Features)\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-BIG-ADD-SDN (SDN Services)\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-ADD-BIG-ASM-MAX (ASM, Unlimited)\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-BIG-ADD-GBT-5000S-P (LTM to Best Bundle, 5000S Platform (Prom)\r\n"
+    ],
+    [
+      0.000006,
+      "LIC-PKG-BIG-LC (Link Controller)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-ADD-GBT-50X0S (LTM to Best Bundle Upgrade, 50X0S Platfo)\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-BIG-ADD-5000S-PERF-UPG (5000S, Performance Upgrade)\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-BIG-SBS-SWG-1YR-5000 (SWG Subscription, 1Yr, 5000/5200/6900)\r\n"
+    ],
+    [
+      0.000002,
+      "LIC-PKG-BIG-SBS-TRUSTIP1-6900 (IPI Subscription, 1Yr,  5000/5200/6900/7)\r\n"
+    ],
+    [
+      0.000008,
+      "LIC-PKG-BIG-ADD-DNS-1K (DNS and GTM (1K QPS), BIG-IP)\r\nLIC-PKG-ADD-BIG-ADV-PROCS (Advanced Protocols)\r\n"
+    ],
+    [
+      0.000003,
+      "LIC-PKG-BIG-ADD-EXT-HSM (External Interface and Network HSM)\r\n"
+    ],
+    [
+      0.000109,
+      "LIC-PKG-BIG-ADD-PEM-QM-5000 (PEM, Quota Management, 5000 Series)\r\n"
+    ],
+    [
+      0.000012,
+      "LIC-PKG-BIG-SBS-PEM-URL-1-5000 (PEM URL Filtering, Subscription, 1Yr, 50)\r\n"
+    ],
+    [
+      0.000027,
+      "What addons do you want?: "
+    ],
+    [
+      3.271603,
+      "l"
+    ],
+    [
+      0.071860,
+      "i"
+    ],
+    [
+      0.120163,
+      "\u0007\u0008\u0008LIC-PKG-"
+    ],
+    [
+      1.512218,
+      "b"
+    ],
+    [
+      0.095953,
+      "i"
+    ],
+    [
+      0.127504,
+      "g"
+    ],
+    [
+      0.207821,
+      "\u0007\u0008\u0008\u0008BIG-"
+    ],
+    [
+      2.296548,
+      "l"
+    ],
+    [
+      0.759429,
+      "c"
+    ],
+    [
+      0.280249,
+      "\u0008\u0008LC"
+    ],
+    [
+      0.775899,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "added: LIC-PKG-BIG-LC\r\n"
+    ],
+    [
+      0.000113,
+      "What addons do you want?: "
+    ],
+    [
+      1.503331,
+      "l"
+    ],
+    [
+      0.063967,
+      "i"
+    ],
+    [
+      0.232406,
+      "c"
+    ],
+    [
+      0.312246,
+      "\u0007\u0008\u0008\u0008LIC-PKG-"
+    ],
+    [
+      3.016351,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "LIC-PKG-ADD-BIG-ADV-PROCS      LIC-PKG-BIG-ADD-EXT-HSM        LIC-PKG-BIG-ADD-SSL-FWD-PROXY \r\nLIC-PKG-ADD-BIG-ASM-MAX        LIC-PKG-BIG-ADD-FIXLL          LIC-PKG-BIG-DNS-GTM-RL-LO     \r\nLIC-PKG-BIG-ADD-5000S-PERF-UPG LIC-PKG-BIG-ADD-GBR-5000S-P    LIC-PKG-BIG-EA-NM             \r\nLIC-PKG-BIG-ADD-AFM-5000       LIC-PKG-BIG-ADD-GBR-50X0S      LIC-PKG-BIG-GTM               \r\nLIC-PKG-BIG-ADD-AM             LIC-PKG-BIG-ADD-GBT-5000S-P    LIC-PKG-BIG-LTM-5000S-DEV     \r\nLIC-PKG-BIG-ADD-APPLMODE       LIC-PKG-BIG-ADD-GBT-50X0S      LIC-PKG-BIG-ROUTEMODS         \r\n"
+    ],
+    [
+      0.000007,
+      "LIC-PKG-BIG-ADD-CGN-5000       LIC-PKG-BIG-ADD-MSM-MAX        LIC-PKG-BIG-SBS-PEM-URL-1-5000\r\nLIC-PKG-BIG-ADD-DNS            LIC-PKG-BIG-ADD-MULTICAST      LIC-PKG-BIG-SBS-PEM-URL-3-5000\r\n"
+    ],
+    [
+      0.000026,
+      "LIC-PKG-BIG-ADD-DNS-1K         LIC-PKG-BIG-ADD-PEM-5000       LIC-PKG-BIG-SBS-SWG-1YR-5000  \r\nLIC-PKG-BIG-ADD-DNS-1K-M       LIC-PKG-BIG-ADD-PEM-QM-5000    LIC-PKG-BIG-SBS-SWG-3YR-5000  \r\nLIC-PKG-BIG-ADD-DNS-M          LIC-PKG-BIG-ADD-SDN            LIC-PKG-BIG-SBS-TRUSTIP1-6900 \r\nLIC-PKG-BIG-ADD-DNSSEC         LIC-PKG-BIG-ADD-SEC-5000       LIC-PKG-BIG-SBS-TRUSTIP3-6900 \r\n"
+    ],
+    [
+      0.000046,
+      "\r\u001b[KWhat addons do you want?: LIC-PKG-"
+    ],
+    [
+      1.366831,
+      "a"
+    ],
+    [
+      0.255919,
+      "d"
+    ],
+    [
+      0.136348,
+      "d"
+    ],
+    [
+      0.216279,
+      "\u0007\u0008\u0008\u0008ADD-BIG-A"
+    ],
+    [
+      2.248065,
+      "d"
+    ],
+    [
+      0.215509,
+      "\u0008DV-PROCS"
+    ],
+    [
+      0.791874,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "added: LIC-PKG-ADD-BIG-ADV-PROCS\r\n"
+    ],
+    [
+      0.000082,
+      "What addons do you want?: "
+    ],
+    [
+      1.320057,
+      "l"
+    ],
+    [
+      0.063589,
+      "i"
+    ],
+    [
+      0.216089,
+      "k"
+    ],
+    [
+      0.896378,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.096053,
+      "\u0007\u0008\u0008LIC-PKG-"
+    ],
+    [
+      1.288220,
+      "b"
+    ],
+    [
+      0.095758,
+      "i"
+    ],
+    [
+      0.119965,
+      "g"
+    ],
+    [
+      0.232351,
+      "\u0007\u0008\u0008\u0008BIG-"
+    ],
+    [
+      0.544120,
+      "\r\nLIC-PKG-BIG-ADD-5000S-PERF-UPG LIC-PKG-BIG-ADD-GBR-5000S-P    LIC-PKG-BIG-EA-NM             \r\nLIC-PKG-BIG-ADD-AFM-5000       LIC-PKG-BIG-ADD-GBR-50X0S      LIC-PKG-BIG-GTM               \r\nLIC-PKG-BIG-ADD-AM             LIC-PKG-BIG-ADD-GBT-5000S-P    LIC-PKG-BIG-LTM-5000S-DEV     \r\n"
+    ],
+    [
+      0.000073,
+      "LIC-PKG-BIG-ADD-APPLMODE       LIC-PKG-BIG-ADD-GBT-50X0S      LIC-PKG-BIG-ROUTEMODS         \r\nLIC-PKG-BIG-ADD-CGN-5000       LIC-PKG-BIG-ADD-MSM-MAX        LIC-PKG-BIG-SBS-PEM-URL-1-5000\r\nLIC-PKG-BIG-ADD-DNS            LIC-PKG-BIG-ADD-MULTICAST      LIC-PKG-BIG-SBS-PEM-URL-3-5000\r\nLIC-PKG-BIG-ADD-DNS-1K         LIC-PKG-BIG-ADD-PEM-5000       LIC-PKG-BIG-SBS-SWG-1YR-5000  \r\nLIC-PKG-BIG-ADD-DNS-1K-M       LIC-PKG-BIG-ADD-PEM-QM-5000    LIC-PKG-BIG-SBS-SWG-3YR-5000  \r\nLIC-PKG-BIG-ADD-DNS-M          LIC-PKG-BIG-ADD-SDN            LIC-PKG-BIG-SBS-TRUSTIP1-6900 \r\nLIC-PKG-BIG-ADD-DNSSEC         LIC-PKG-BIG-ADD-SEC-5000       LIC-PKG-BIG-SBS-TRUSTIP3-6900 \r\nLIC-PKG-BIG-ADD-EXT-HSM        LIC-PKG-BIG-ADD-SSL-FWD-PROXY \r\nLIC-PKG-BIG-ADD-FIXLL          LIC-PKG-BIG-DNS-GTM-RL-LO     \r\n"
+    ],
+    [
+      0.000014,
+      "\r\u001b[KWhat addons do you want?: LIC-PKG-BIG-"
+    ],
+    [
+      2.591050,
+      "a"
+    ],
+    [
+      0.327638,
+      "d"
+    ],
+    [
+      0.184371,
+      "d"
+    ],
+    [
+      0.616258,
+      "\u0007\u0008\u0008\u0008ADD-"
+    ],
+    [
+      1.096119,
+      "s"
+    ],
+    [
+      0.247588,
+      "d"
+    ],
+    [
+      0.160272,
+      "n"
+    ],
+    [
+      0.112007,
+      "\u0008\u0008\u0008SDN"
+    ],
+    [
+      0.695676,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "added: LIC-PKG-BIG-ADD-SDN\r\n"
+    ],
+    [
+      0.000068,
+      "What addons do you want?: "
+    ],
+    [
+      1.440067,
+      "d"
+    ],
+    [
+      0.087784,
+      "o"
+    ],
+    [
+      0.080186,
+      "n"
+    ],
+    [
+      0.103850,
+      "e"
+    ],
+    [
+      0.503752,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "all addons selected: ['LIC-PKG-BIG-LC', 'LIC-PKG-ADD-BIG-ADV-PROCS', 'LIC-PKG-BIG-ADD-SDN']\r\n"
+    ],
+    [
+      0.000007,
+      "addons specified:  LIC-PKG-BIG-DNS-GTM-RL-LO:LIC-PKG-BIG-DNS-GTM-RL-LO=1|LIC-PKG-BIG-LTM-5000S-DEV:LIC-PKG-BIG-LTM-5000S-DEV=1|LIC-PKG-BIG-LC:LIC-PKG-BIG-LC=1|LIC-PKG-ADD-BIG-ADV-PROCS:LIC-PKG-ADD-BIG-ADV-PROCS=1|LIC-PKG-BIG-ADD-SDN:LIC-PKG-BIG-ADD-SDN=1\r\n"
+    ],
+    [
+      47.086469,
+      "Traceback (most recent call last):\r\n  File \"./get_regkey.py\", line 128, in \u003cmodule\u003e\r\n"
+    ],
+    [
+      0.000075,
+      "    def pretty_addons(intmods):\r\n"
+    ],
+    [
+      0.000008,
+      "TypeError: "
+    ],
+    [
+      0.000004,
+      "list indices must be integers, not str"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.006297,
+      "[billbooth@SEA-ML-BOOTH:~/Desktop/dev/licenseenv/bin]$ "
+    ],
+    [
+      9.554137,
+      "d"
+    ],
+    [
+      0.103892,
+      "a"
+    ],
+    [
+      0.263947,
+      "m"
+    ],
+    [
+      0.168023,
+      "m"
+    ],
+    [
+      0.103876,
+      "i"
+    ],
+    [
+      0.176245,
+      "t"
+    ],
+    [
+      0.607857,
+      "\r\n"
+    ],
+    [
+      0.004104,
+      "bash: dammit: command not found\r\n"
+    ],
+    [
+      0.000378,
+      "[billbooth@SEA-ML-BOOTH:~/Desktop/dev/licenseenv/bin]$ "
+    ],
+    [
+      16.691094,
+      "e"
+    ],
+    [
+      0.256679,
+      "x"
+    ],
+    [
+      0.159272,
+      "i"
+    ],
+    [
+      0.119424,
+      "t"
+    ],
+    [
+      0.312517,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "exit\r\n"
+    ]
+  ]
+}
