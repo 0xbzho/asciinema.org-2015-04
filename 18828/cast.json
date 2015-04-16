@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 27,
+  "duration": 6.619748,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.021239,
+      "bash-3.2$ "
+    ],
+    [
+      1.404222,
+      "l"
+    ],
+    [
+      0.111845,
+      "s"
+    ],
+    [
+      0.112221,
+      " "
+    ],
+    [
+      0.535741,
+      "-"
+    ],
+    [
+      0.215072,
+      "l"
+    ],
+    [
+      0.073192,
+      "a"
+    ],
+    [
+      0.479366,
+      "\r\n"
+    ],
+    [
+      0.004782,
+      "total 47312\r\n"
+    ],
+    [
+      0.000235,
+      "drwxr-xr-x+   56 Edwinpgm  staff      1904 Apr 16 13:11 \u001b[1m\u001b[34m.\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 root      admin       170 Apr  3 17:44 \u001b[1m\u001b[34m..\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "-r--------     1 Edwinpgm  staff         7 Oct 18 22:15 .CFUserTextEncoding\r\n-rw-r--r--@    1 Edwinpgm  staff     22532 Apr 10 18:11 .DS_Store\r\ndrwx------  2792 Edwinpgm  staff     94928 Apr 16 11:10 \u001b[1m\u001b[34m.Trash\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-x--x     3 Edwinpgm  staff       102 Jan 19 12:51 \u001b[1m\u001b[34m.adobe\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-x---@   11 Edwinpgm  staff       374 Mar 28 00:37 \u001b[1m\u001b[34m.android\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 Edwinpgm  staff       102 Apr 16 12:55 \u001b[1m\u001b[34m.asciinema\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-------     1 Edwinpgm  staff     13006 Apr 16 13:05 .bash_history\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--     1 Edwinpgm  staff       220 Apr 16 12:54 .bash_profile\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--     1 Edwinpgm  staff        54 Apr 16 12:51 .bashrc\r\n"
+    ],
+    [
+      0.000039,
+      "drwxr-xr-x     3 Edwinpgm  staff       102 Feb 25 18:11 \u001b[1m\u001b[34m.cache\u001b[39;49m\u001b[0m\r\ndrwx------     4 Edwinpgm  staff       136 Oct 30 12:57 \u001b[1m\u001b[34m.config\u001b[39;49m\u001b[0m\r\ndrwx------     3 Edwinpgm  staff       102 Dec 18 19:23 \u001b[1m\u001b[34m.cups\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "drwx------    10 Edwinpgm  staff       340 Apr 16 11:08 \u001b[1m\u001b[34m.dropbox\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--     1 Edwinpgm  staff       152 Mar 15 16:46 .gitconfig\r\n"
+    ],
+    [
+      0.000429,
+      "drwxr-xr-x     4 Edwinpgm  staff       136 Mar 28 00:19 \u001b[1m\u001b[34m.gradle\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 Edwinpgm  staff       102 Feb 25 18:11 \u001b[1m\u001b[34m.local\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 Edwinpgm  staff       102 Jul  3  2014 \u001b[1m\u001b[34m.node-gyp\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   253 Edwinpgm  staff      8602 Apr 11 13:20 \u001b[1m\u001b[34m.npm\u001b[39;49m\u001b[0m\r\n-rw-------     1 Edwinpgm  staff        33 Jun 25  2014 .pgpass\r\ndrwxr-xr-x     3 Edwinpgm  staff       102 Jun 24  2014 \u001b[1m\u001b[34m.pip\u001b[39;49m\u001b[0m\r\n-rw-------     1 Edwinpgm  staff      1525 Apr 14 19:28 .psql_history\r\n-rw-r--r--@    1 Edwinpgm  staff       120 Dec 23 15:30 .screenleap\r\ndrwx------     7 Edwinpgm  staff       238 Oct 30 12:58 \u001b[1m\u001b[34m.ssh\u001b[39;49m\u001b[0m\r\n-rw-------     1 Edwinpgm  staff      7303 Apr 16 12:56 .viminfo\r\ndrwxrwxrwx     7 Edwinpgm  staff       238 Oct 30 09:35 \u001b[30m\u001b[43m250_2610\u001b[39;49m\u001b[0m\r\ndrwx------     5 Edwinpgm  staff       170 Jun 25  2014 \u001b[1m\u001b[34mApplications\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 Edwinpgm  staff       136 Mar 28 15:17 \u001b[1m\u001b[34mA"
+    ],
+    [
+      0.000195,
+      "pps\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     8 Edwinpgm  staff       272 Dec 22 12:07 \u001b[1m\u001b[34mBiralito\u001b[39;49m\u001b[0m\r\ndrwx------@    3 Edwinpgm  staff       102 Mar 31 16:28 \u001b[1m\u001b[34mCreative Cloud Files\u001b[39;49m\u001b[0m\r\ndrwx------@    3 Edwinpgm  staff       102 Mar 31 16:27 \u001b[1m\u001b[34mCreative Cloud Files (edwinpgm@gmail.com)\u001b[39;49m\u001b[0m\r\ndrwxrwxrwx    14 Edwinpgm  staff       476 Jun 24  2014 \u001b[30m\u001b[43mCursos\u001b[39;49m\u001b[0m\r\ndrwx------+   46 Edwinpgm  staff      1564 Apr 11 17:47 \u001b[1m\u001b[34mDesktop\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     9 Edwinpgm  staff       306 Feb 16 12:08 \u001b[1m\u001b[34mDetodounpoco\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   173 Edwinpgm  staff      5882 Apr  9 12:33 \u001b[1m\u001b[34mDevCode.la\u001b[39;49m\u001b[0m\r\ndrwx------+   50 Edwinpgm  staff      1700 Apr 15 12:06 \u001b[1m\u001b[34mDocuments\u001b[39;49m\u001b[0m\r\ndrwx------+  223 Edwinpgm  staff      7582 Apr 15 00:50 \u001b[1m\u001b[34mDownloads\u001b[39;49m\u001b[0m\r\ndrwx------@   29 Edwinpgm  staff       986 Apr 16 11:09 \u001b[1m\u001b[34mDropbox\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     9 Edwinpgm  staff       306 Mar 10 00:30 \u001b[1m\u001b[34mFutboldeTV\u001b[39;49m\u001b[0m"
+    ],
+    [
+      0.001065,
+      "\r\ndrwx------@   50 Edwinpgm  staff      1700 Nov 27 09:20 \u001b[1m\u001b[34mGoogle Drive\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 Edwinpgm  staff       136 Jun 29  2014 \u001b[1m\u001b[34mInstaladores\u001b[39;49m\u001b[0m\r\ndrwx------@   61 Edwinpgm  staff      2074 Mar 27 22:56 \u001b[1m\u001b[34mLibrary\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    71 Edwinpgm  staff      2414 Mar  7 01:56 \u001b[1m\u001b[34mLibros\u001b[39;49m\u001b[0m\r\ndrwx------+   13 Edwinpgm  staff       442 Jan 23 16:55 \u001b[1m\u001b[34mMovies\u001b[39;49m\u001b[0m\r\ndrwx------+    5 Edwinpgm  staff       170 Feb  1 00:26 \u001b[1m\u001b[34mMusic\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 Edwinpgm  staff       102 Feb  7 16:05 \u001b[1m\u001b[34mNovelasdeTV\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 Edwinpgm  staff  24116947 Feb  9 00:34 NovelasdeTV.ai\r\ndrwx------+ 1404 Edwinpgm  staff     47736 Mar 27 17:30 \u001b[1m\u001b[34mPictures\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 Edwinpgm  staff       136 Mar 30 00:14 \u001b[1m\u001b[34mPreu\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x+    5 Edwinpgm  staff       170 Jun 24  2014 \u001b[1m\u001b[34mPublic\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    39 Edwinpgm  staff      1326 Apr 16 13:03 \u001b[1m\u001b[34mSites\u001b[39;49m\u001b[0m\r"
+    ],
+    [
+      0.000017,
+      "\r\n-r--------@    1 Edwinpgm  staff      1696 Nov 12 19:54 biralito.pem\r\n-rw-r--r--     1 Edwinpgm  staff        41 Apr 16 12:56 edwin.php\r\ndrwxr-xr-x     3 root      staff       102 Apr 11 13:21 \u001b[1m\u001b[34mtmp\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 Edwinpgm  staff     15355 Apr 16 13:17 typescript\r\nbash-3.2$ "
+    ],
+    [
+      3.657652,
+      "exit\r\n"
+    ]
+  ]
+}
