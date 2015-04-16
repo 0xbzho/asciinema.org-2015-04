@@ -1,0 +1,7246 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 27,
+  "duration": 146.942449,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.056710,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000011,
+      "bash-3.2$ "
+    ],
+    [
+      7.024730,
+      "c"
+    ],
+    [
+      0.047862,
+      "d"
+    ],
+    [
+      0.111975,
+      " "
+    ],
+    [
+      0.247994,
+      "S"
+    ],
+    [
+      0.120025,
+      "i"
+    ],
+    [
+      0.088049,
+      "tes/"
+    ],
+    [
+      1.655816,
+      "\r\n"
+    ],
+    [
+      0.000386,
+      "bash-3.2$ "
+    ],
+    [
+      0.583649,
+      "m"
+    ],
+    [
+      0.159731,
+      "k"
+    ],
+    [
+      0.088405,
+      "d"
+    ],
+    [
+      0.103923,
+      "i"
+    ],
+    [
+      0.079979,
+      "r"
+    ],
+    [
+      0.151973,
+      " "
+    ],
+    [
+      3.431825,
+      "d"
+    ],
+    [
+      0.111947,
+      "j"
+    ],
+    [
+      0.048130,
+      "a"
+    ],
+    [
+      0.136059,
+      "n"
+    ],
+    [
+      0.079921,
+      "g"
+    ],
+    [
+      0.120028,
+      "o"
+    ],
+    [
+      2.639802,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151994,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152013,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160061,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119935,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167359,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144671,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135959,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151976,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136073,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167909,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160504,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.943593,
+      "m"
+    ],
+    [
+      0.199809,
+      "k"
+    ],
+    [
+      0.160237,
+      "d"
+    ],
+    [
+      0.143926,
+      "i"
+    ],
+    [
+      0.071973,
+      "r"
+    ],
+    [
+      0.143998,
+      " "
+    ],
+    [
+      0.456431,
+      "d"
+    ],
+    [
+      0.103541,
+      "j"
+    ],
+    [
+      0.079972,
+      "a"
+    ],
+    [
+      0.096071,
+      "n"
+    ],
+    [
+      0.127605,
+      "g"
+    ],
+    [
+      0.136377,
+      "o"
+    ],
+    [
+      0.151989,
+      "1"
+    ],
+    [
+      0.335636,
+      "8"
+    ],
+    [
+      0.200334,
+      "\r\n"
+    ],
+    [
+      0.045878,
+      "bash-3.2$ "
+    ],
+    [
+      0.681975,
+      "c"
+    ],
+    [
+      0.056165,
+      "d"
+    ],
+    [
+      0.135969,
+      " "
+    ],
+    [
+      0.231995,
+      "d"
+    ],
+    [
+      0.135957,
+      "k"
+    ],
+    [
+      0.119515,
+      "\u0007"
+    ],
+    [
+      0.432417,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.279459,
+      "j"
+    ],
+    [
+      0.080067,
+      "ango18/"
+    ],
+    [
+      0.223937,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "bash-3.2$ "
+    ],
+    [
+      0.672244,
+      "l"
+    ],
+    [
+      0.112140,
+      "s"
+    ],
+    [
+      0.151883,
+      "\r\n"
+    ],
+    [
+      0.044016,
+      "bash-3.2$ "
+    ],
+    [
+      2.732160,
+      "d"
+    ],
+    [
+      0.471742,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.919879,
+      "v"
+    ],
+    [
+      0.152014,
+      "i"
+    ],
+    [
+      0.080160,
+      "r"
+    ],
+    [
+      0.135999,
+      "t"
+    ],
+    [
+      0.047941,
+      "u"
+    ],
+    [
+      0.143982,
+      "a"
+    ],
+    [
+      0.096086,
+      "l"
+    ],
+    [
+      0.119984,
+      "e"
+    ],
+    [
+      0.144007,
+      "n"
+    ],
+    [
+      0.151407,
+      "v"
+    ],
+    [
+      0.232580,
+      " "
+    ],
+    [
+      1.007966,
+      "e"
+    ],
+    [
+      0.111844,
+      "n"
+    ],
+    [
+      0.080148,
+      "v"
+    ],
+    [
+      0.319710,
+      "\r\n"
+    ],
+    [
+      1.819745,
+      "New python executable in env/bin/python\r\n"
+    ],
+    [
+      0.176367,
+      "Installing setuptools, pip..."
+    ],
+    [
+      4.255246,
+      "done.\r\n"
+    ],
+    [
+      0.034909,
+      "bash-3.2$ "
+    ],
+    [
+      1.089656,
+      "l"
+    ],
+    [
+      0.071969,
+      "s"
+    ],
+    [
+      0.135994,
+      "\r\n"
+    ],
+    [
+      0.003249,
+      "\u001b[1m\u001b[34menv\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000373,
+      "bash-3.2$ "
+    ],
+    [
+      1.876582,
+      "s"
+    ],
+    [
+      0.120168,
+      "o"
+    ],
+    [
+      0.151772,
+      "u"
+    ],
+    [
+      0.047937,
+      "r"
+    ],
+    [
+      0.168008,
+      "c"
+    ],
+    [
+      0.199373,
+      "e"
+    ],
+    [
+      0.024529,
+      " "
+    ],
+    [
+      0.520038,
+      "e"
+    ],
+    [
+      0.144202,
+      "n"
+    ],
+    [
+      0.135887,
+      "v/"
+    ],
+    [
+      0.631944,
+      "b"
+    ],
+    [
+      0.087927,
+      "in/"
+    ],
+    [
+      0.280104,
+      "a"
+    ],
+    [
+      0.159987,
+      "c"
+    ],
+    [
+      0.183963,
+      "\u0007"
+    ],
+    [
+      0.000010,
+      "tivate"
+    ],
+    [
+      0.335811,
+      "\r\n"
+    ],
+    [
+      0.041388,
+      "(env)bash-3.2$ "
+    ],
+    [
+      12.886278,
+      "d"
+    ],
+    [
+      0.080153,
+      "j"
+    ],
+    [
+      0.447878,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143997,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.392073,
+      "p"
+    ],
+    [
+      0.175852,
+      "i"
+    ],
+    [
+      0.160275,
+      "p"
+    ],
+    [
+      0.183859,
+      " "
+    ],
+    [
+      0.184009,
+      "i"
+    ],
+    [
+      0.135504,
+      "n"
+    ],
+    [
+      0.120483,
+      "s"
+    ],
+    [
+      0.072004,
+      "t"
+    ],
+    [
+      0.143857,
+      "a"
+    ],
+    [
+      0.136137,
+      "l"
+    ],
+    [
+      0.152052,
+      "l"
+    ],
+    [
+      0.815895,
+      " "
+    ],
+    [
+      0.151435,
+      "d"
+    ],
+    [
+      0.112167,
+      "j"
+    ],
+    [
+      0.064407,
+      "a"
+    ],
+    [
+      0.127337,
+      "n"
+    ],
+    [
+      0.080614,
+      "g"
+    ],
+    [
+      0.120026,
+      "o"
+    ],
+    [
+      0.800263,
+      "\r\n"
+    ],
+    [
+      0.401556,
+      "Downloading/unpacking django\r\n"
+    ],
+    [
+      1.572344,
+      "  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB): "
+    ],
+    [
+      0.005910,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  4.1kB"
+    ],
+    [
+      0.001718,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  8.2kB"
+    ],
+    [
+      0.182054,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  12kB "
+    ],
+    [
+      0.001050,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  16kB"
+    ],
+    [
+      0.008669,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  20kB"
+    ],
+    [
+      0.001891,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  24kB"
+    ],
+    [
+      0.006685,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  28kB"
+    ],
+    [
+      0.003052,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  32kB"
+    ],
+    [
+      0.163206,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  36kB"
+    ],
+    [
+      0.001299,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  40kB"
+    ],
+    [
+      0.008732,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  45kB"
+    ],
+    [
+      0.001551,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  49kB"
+    ],
+    [
+      0.006942,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  53kB"
+    ],
+    [
+      0.003190,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  57kB"
+    ],
+    [
+      0.006862,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   0%  61kB"
+    ],
+    [
+      0.001730,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  65kB"
+    ],
+    [
+      0.006537,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  69kB"
+    ],
+    [
+      0.071790,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  73kB"
+    ],
+    [
+      0.075601,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  77kB"
+    ],
+    [
+      0.003001,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  81kB"
+    ],
+    [
+      0.006662,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  86kB"
+    ],
+    [
+      0.003520,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  90kB"
+    ],
+    [
+      0.005269,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  94kB"
+    ],
+    [
+      0.003321,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  98kB"
+    ],
+    [
+      0.006635,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  102kB"
+    ],
+    [
+      0.002908,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  106kB"
+    ],
+    [
+      0.006927,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  110kB"
+    ],
+    [
+      0.003442,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  114kB"
+    ],
+    [
+      0.004676,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  118kB"
+    ],
+    [
+      0.005238,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   1%  122kB"
+    ],
+    [
+      0.005355,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  126kB"
+    ],
+    [
+      0.004925,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  131kB"
+    ],
+    [
+      0.050615,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  135kB"
+    ],
+    [
+      0.000341,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  139kB"
+    ],
+    [
+      0.074958,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  143kB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  147kB"
+    ],
+    [
+      0.009818,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  151kB"
+    ],
+    [
+      0.000230,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  155kB"
+    ],
+    [
+      0.010116,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  159kB"
+    ],
+    [
+      0.000206,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  163kB"
+    ],
+    [
+      0.008087,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  167kB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  172kB"
+    ],
+    [
+      0.010182,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  176kB"
+    ],
+    [
+      0.000208,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  180kB"
+    ],
+    [
+      0.009645,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   2%  184kB"
+    ],
+    [
+      0.000180,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  188kB"
+    ],
+    [
+      0.010151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  192kB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  196kB"
+    ],
+    [
+      0.008465,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  200kB"
+    ],
+    [
+      0.000183,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  204kB"
+    ],
+    [
+      0.009922,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  208kB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  212kB"
+    ],
+    [
+      0.010192,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  217kB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  221kB"
+    ],
+    [
+      0.009621,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  225kB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  229kB"
+    ],
+    [
+      0.008595,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  233kB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  237kB"
+    ],
+    [
+      0.009954,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  241kB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   3%  245kB"
+    ],
+    [
+      0.064960,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  249kB"
+    ],
+    [
+      0.000261,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  253kB"
+    ],
+    [
+      0.010098,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  258kB"
+    ],
+    [
+      0.000306,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  262kB"
+    ],
+    [
+      0.008172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  266kB"
+    ],
+    [
+      0.000267,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  270kB"
+    ],
+    [
+      0.009670,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  274kB"
+    ],
+    [
+      0.000206,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  278kB"
+    ],
+    [
+      0.009925,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  282kB"
+    ],
+    [
+      0.000150,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  286kB"
+    ],
+    [
+      0.010144,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  290kB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  294kB"
+    ],
+    [
+      0.008508,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  299kB"
+    ],
+    [
+      0.000223,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  303kB"
+    ],
+    [
+      0.009689,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   4%  307kB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  311kB"
+    ],
+    [
+      0.008356,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  315kB"
+    ],
+    [
+      0.001719,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  319kB"
+    ],
+    [
+      0.008445,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  323kB"
+    ],
+    [
+      0.001829,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  327kB"
+    ],
+    [
+      0.008084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  331kB"
+    ],
+    [
+      0.000331,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  335kB"
+    ],
+    [
+      0.008135,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  339kB"
+    ],
+    [
+      0.001976,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  344kB"
+    ],
+    [
+      0.008438,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  348kB"
+    ],
+    [
+      0.001692,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  352kB"
+    ],
+    [
+      0.006890,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  356kB"
+    ],
+    [
+      0.001666,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  360kB"
+    ],
+    [
+      0.008440,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  364kB"
+    ],
+    [
+      0.001646,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   5%  368kB"
+    ],
+    [
+      0.008415,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  372kB"
+    ],
+    [
+      0.001427,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  376kB"
+    ],
+    [
+      0.040791,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  380kB"
+    ],
+    [
+      0.003171,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  385kB"
+    ],
+    [
+      0.006709,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  389kB"
+    ],
+    [
+      0.001909,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  393kB"
+    ],
+    [
+      0.008383,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  397kB"
+    ],
+    [
+      0.001978,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  401kB"
+    ],
+    [
+      0.006629,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  405kB"
+    ],
+    [
+      0.003459,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  409kB"
+    ],
+    [
+      0.006874,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  413kB"
+    ],
+    [
+      0.003367,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  417kB"
+    ],
+    [
+      0.005044,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  421kB"
+    ],
+    [
+      0.002924,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  425kB"
+    ],
+    [
+      0.007086,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   6%  430kB"
+    ],
+    [
+      0.003339,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  434kB"
+    ],
+    [
+      0.006840,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  438kB"
+    ],
+    [
+      0.003494,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  442kB"
+    ],
+    [
+      0.005139,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  446kB"
+    ],
+    [
+      0.005169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  450kB"
+    ],
+    [
+      0.004878,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  454kB"
+    ],
+    [
+      0.003749,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  458kB"
+    ],
+    [
+      0.004904,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  462kB"
+    ],
+    [
+      0.004921,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  466kB"
+    ],
+    [
+      0.004926,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  471kB"
+    ],
+    [
+      0.005268,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  475kB"
+    ],
+    [
+      0.010055,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  479kB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  483kB"
+    ],
+    [
+      0.008796,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  487kB"
+    ],
+    [
+      0.000163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   7%  491kB"
+    ],
+    [
+      0.009606,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  495kB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  499kB"
+    ],
+    [
+      0.010211,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  503kB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  507kB"
+    ],
+    [
+      0.009834,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  512kB"
+    ],
+    [
+      0.000209,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  516kB"
+    ],
+    [
+      0.008358,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  520kB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  524kB"
+    ],
+    [
+      0.010214,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  528kB"
+    ],
+    [
+      0.000131,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  532kB"
+    ],
+    [
+      0.009941,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  536kB"
+    ],
+    [
+      0.000189,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  540kB"
+    ],
+    [
+      0.009905,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  544kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  548kB"
+    ],
+    [
+      0.007931,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   8%  552kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  557kB"
+    ],
+    [
+      0.010529,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  561kB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  565kB"
+    ],
+    [
+      0.010293,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  569kB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  573kB"
+    ],
+    [
+      0.008696,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  577kB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  581kB"
+    ],
+    [
+      0.010425,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  585kB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  589kB"
+    ],
+    [
+      0.300096,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  593kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  598kB"
+    ],
+    [
+      0.000241,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  602kB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  606kB"
+    ],
+    [
+      0.000244,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  610kB"
+    ],
+    [
+      0.000108,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):   9%  614kB"
+    ],
+    [
+      0.000226,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  618kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  622kB"
+    ],
+    [
+      0.000212,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  626kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  630kB"
+    ],
+    [
+      0.000222,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  634kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  638kB"
+    ],
+    [
+      0.000223,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  643kB"
+    ],
+    [
+      0.000131,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  647kB"
+    ],
+    [
+      0.000199,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  651kB"
+    ],
+    [
+      0.000131,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  655kB"
+    ],
+    [
+      0.000213,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  659kB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  663kB"
+    ],
+    [
+      0.000192,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  667kB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  671kB"
+    ],
+    [
+      0.000199,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  10%  675kB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  679kB"
+    ],
+    [
+      0.000202,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  684kB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  688kB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  692kB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  696kB"
+    ],
+    [
+      0.000190,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  700kB"
+    ],
+    [
+      0.000133,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  704kB"
+    ],
+    [
+      0.000202,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  708kB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  712kB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  716kB"
+    ],
+    [
+      0.000123,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  720kB"
+    ],
+    [
+      0.000192,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  724kB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  729kB"
+    ],
+    [
+      0.000192,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  733kB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  11%  737kB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  741kB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  745kB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  749kB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  753kB"
+    ],
+    [
+      0.000189,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  757kB"
+    ],
+    [
+      0.000153,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  761kB"
+    ],
+    [
+      0.000174,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  765kB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  770kB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  774kB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  778kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  782kB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  786kB"
+    ],
+    [
+      0.000163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  790kB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  794kB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  12%  798kB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  802kB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  806kB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  811kB"
+    ],
+    [
+      0.000227,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  815kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  819kB"
+    ],
+    [
+      0.000231,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  823kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  827kB"
+    ],
+    [
+      0.000231,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  831kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  835kB"
+    ],
+    [
+      0.236504,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  839kB"
+    ],
+    [
+      0.000271,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  843kB"
+    ],
+    [
+      0.009871,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  847kB"
+    ],
+    [
+      0.000315,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  851kB"
+    ],
+    [
+      0.009732,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  856kB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  13%  860kB"
+    ],
+    [
+      0.008543,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  864kB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  868kB"
+    ],
+    [
+      0.009937,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  872kB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  876kB"
+    ],
+    [
+      0.009746,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  880kB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  884kB"
+    ],
+    [
+      0.010106,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  888kB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  892kB"
+    ],
+    [
+      0.008533,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  897kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  901kB"
+    ],
+    [
+      0.010197,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  905kB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  909kB"
+    ],
+    [
+      0.009676,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  913kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  917kB"
+    ],
+    [
+      0.010099,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  14%  921kB"
+    ],
+    [
+      0.000182,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  925kB"
+    ],
+    [
+      0.208159,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  929kB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  933kB"
+    ],
+    [
+      0.009967,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  937kB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  942kB"
+    ],
+    [
+      0.072235,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  946kB"
+    ],
+    [
+      0.000279,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  950kB"
+    ],
+    [
+      0.007882,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  954kB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  958kB"
+    ],
+    [
+      0.006850,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  962kB"
+    ],
+    [
+      0.000218,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  966kB"
+    ],
+    [
+      0.008070,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  970kB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  974kB"
+    ],
+    [
+      0.008510,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  978kB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  15%  983kB"
+    ],
+    [
+      0.006505,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  987kB"
+    ],
+    [
+      0.001488,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  991kB"
+    ],
+    [
+      0.007084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  995kB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  999kB"
+    ],
+    [
+      0.008282,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.008312,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.001723,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000265,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000218,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000153,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000207,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000214,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  16%  1.0MB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.0MB"
+    ],
+    [
+      0.000199,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000187,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000197,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000150,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000190,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  17%  1.1MB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.000163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.004113,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.003227,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.006823,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.003229,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.005449,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.005194,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.004952,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.005159,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.1MB"
+    ],
+    [
+      0.005315,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.2MB"
+    ],
+    [
+      0.003512,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.2MB"
+    ],
+    [
+      0.010371,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.2MB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.2MB"
+    ],
+    [
+      0.012769,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  18%  1.2MB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.051947,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.000208,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.015224,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.000256,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.014237,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.000282,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.013277,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.000281,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.012786,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.000189,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.011351,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.000192,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.016610,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.000187,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  19%  1.2MB"
+    ],
+    [
+      0.010989,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.2MB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.2MB"
+    ],
+    [
+      0.020645,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.2MB"
+    ],
+    [
+      0.000296,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.2MB"
+    ],
+    [
+      0.009579,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.2MB"
+    ],
+    [
+      0.000264,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.009949,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.000285,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.009850,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.008413,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.009946,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.000139,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.009978,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  20%  1.3MB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.010180,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.009588,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.018040,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.013111,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.000239,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.010372,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.001624,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.013915,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.011887,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.3MB"
+    ],
+    [
+      0.000251,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  21%  1.4MB"
+    ],
+    [
+      0.015353,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.001109,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.008961,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.001544,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.016121,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.004677,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.008393,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.001624,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.008453,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.001519,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.006592,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.003392,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.007269,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.001267,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.008580,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  22%  1.4MB"
+    ],
+    [
+      0.001577,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.006931,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.003521,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.006635,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.003707,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.004699,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.003399,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.007046,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.008251,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.4MB"
+    ],
+    [
+      0.008222,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.5MB"
+    ],
+    [
+      0.007739,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.5MB"
+    ],
+    [
+      0.005336,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.5MB"
+    ],
+    [
+      0.004247,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.5MB"
+    ],
+    [
+      0.007297,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.5MB"
+    ],
+    [
+      0.008242,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  23%  1.5MB"
+    ],
+    [
+      0.006236,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.006390,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.005440,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.008651,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.006942,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.004205,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.014688,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.000140,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.014904,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.000135,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.010444,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.000219,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.010774,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.007511,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  24%  1.5MB"
+    ],
+    [
+      0.000265,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.5MB"
+    ],
+    [
+      0.010140,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.5MB"
+    ],
+    [
+      0.000114,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.5MB"
+    ],
+    [
+      0.009912,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.008457,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.009784,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.010094,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.011335,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.011928,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  25%  1.6MB"
+    ],
+    [
+      0.010654,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.000139,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.014856,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.000267,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.012923,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.000270,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.014657,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.000232,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.009673,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.014934,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.000134,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.6MB"
+    ],
+    [
+      0.015006,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.7MB"
+    ],
+    [
+      0.000304,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.7MB"
+    ],
+    [
+      0.007978,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  26%  1.7MB"
+    ],
+    [
+      0.000245,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.010696,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.000205,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.009676,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.000139,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.009245,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.001679,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.008586,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.008263,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.001447,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.008892,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.001461,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.008889,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.000220,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  27%  1.7MB"
+    ],
+    [
+      0.008076,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.7MB"
+    ],
+    [
+      0.001503,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.7MB"
+    ],
+    [
+      0.009685,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.7MB"
+    ],
+    [
+      0.002170,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.7MB"
+    ],
+    [
+      0.007172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.7MB"
+    ],
+    [
+      0.003959,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.7MB"
+    ],
+    [
+      0.007377,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.7MB"
+    ],
+    [
+      0.001264,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.013936,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.001653,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.012115,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.003012,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.010307,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.003601,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.004790,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  28%  1.8MB"
+    ],
+    [
+      0.008138,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.011697,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.003418,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.006901,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.003179,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.005171,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.004974,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.005400,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.003179,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.004650,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.005379,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.005054,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.005358,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.017743,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  29%  1.8MB"
+    ],
+    [
+      0.000350,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.8MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.010383,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.009829,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.010333,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.000134,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.008723,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.010421,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.012175,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.010386,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  30%  1.9MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.017995,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.000255,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.009413,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.019500,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.008460,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.009932,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  1.9MB"
+    ],
+    [
+      0.010178,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  2.0MB"
+    ],
+    [
+      0.000194,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  2.0MB"
+    ],
+    [
+      0.010221,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  2.0MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  31%  2.0MB"
+    ],
+    [
+      0.008423,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.011062,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.018845,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.010009,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.007996,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.010295,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.000199,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.009968,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.000210,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.008255,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  32%  2.0MB"
+    ],
+    [
+      0.002291,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.0MB"
+    ],
+    [
+      0.008389,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.0MB"
+    ],
+    [
+      0.000260,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.0MB"
+    ],
+    [
+      0.008358,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.0MB"
+    ],
+    [
+      0.001423,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.0MB"
+    ],
+    [
+      0.018296,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.001676,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.008911,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.001701,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.006687,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.001667,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.017693,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.001718,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.008042,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.003048,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  33%  2.1MB"
+    ],
+    [
+      0.007048,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.003379,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.006659,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.001740,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.006900,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.003452,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.006335,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.003577,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.005335,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.005183,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.005014,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.003347,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.007009,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.012009,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.1MB"
+    ],
+    [
+      0.004946,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  34%  2.2MB"
+    ],
+    [
+      0.004609,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.005467,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.003430,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.006650,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.003567,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.005062,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.004791,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.010233,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.000174,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.017551,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.010470,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.000167,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.010177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  35%  2.2MB"
+    ],
+    [
+      0.018082,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.000124,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.010208,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.010161,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.009939,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB"
+    ],
+    [
+      0.010087,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.2MB\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.3MB"
+    ],
+    [
+      0.008307,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.3MB"
+    ],
+    [
+      0.000298,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.3MB"
+    ],
+    [
+      0.010110,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.3MB\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.3MB"
+    ],
+    [
+      0.009993,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  36%  2.3MB"
+    ],
+    [
+      0.000174,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.016074,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.008196,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.010800,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.000237,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.010336,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.009508,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.008739,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.019174,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  37%  2.3MB"
+    ],
+    [
+      0.011806,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.3MB"
+    ],
+    [
+      0.000280,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.3MB"
+    ],
+    [
+      0.008344,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.3MB"
+    ],
+    [
+      0.001598,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.008427,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.000276,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.009837,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.000243,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.019191,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.001714,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.008896,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.000260,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.008079,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.002498,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.008414,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.001677,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  38%  2.4MB"
+    ],
+    [
+      0.008350,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.001498,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.007188,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.001298,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.008772,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.001704,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.013653,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.001685,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.006561,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.003394,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.007274,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.001671,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.4MB"
+    ],
+    [
+      0.006933,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.5MB"
+    ],
+    [
+      0.003697,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.5MB"
+    ],
+    [
+      0.007651,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  39%  2.5MB"
+    ],
+    [
+      0.003161,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.007228,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.003121,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.004909,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.003171,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.017478,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.003116,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.005394,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.005904,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.004937,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.004996,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.016921,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.003235,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.004911,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.005163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  40%  2.5MB"
+    ],
+    [
+      0.010581,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.5MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.5MB"
+    ],
+    [
+      0.010253,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.5MB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.5MB"
+    ],
+    [
+      0.007556,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.5MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.5MB"
+    ],
+    [
+      0.010626,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.009633,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.012229,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.000108,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.008474,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.000196,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.009590,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  41%  2.6MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.011857,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.000115,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.008486,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.010189,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.011649,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.009700,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.018059,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.000313,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.009878,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.000367,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  42%  2.6MB"
+    ],
+    [
+      0.010499,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000279,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.021839,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000179,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.008203,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.010028,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.010418,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000124,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.009693,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.010475,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000204,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.009579,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  43%  2.7MB"
+    ],
+    [
+      0.000256,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.008382,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.001683,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.008439,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.001891,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.008259,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.000236,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.009311,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.002239,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.007850,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.7MB"
+    ],
+    [
+      0.001930,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.8MB"
+    ],
+    [
+      0.006938,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.8MB"
+    ],
+    [
+      0.003206,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.8MB"
+    ],
+    [
+      0.008365,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.8MB"
+    ],
+    [
+      0.001943,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  44%  2.8MB"
+    ],
+    [
+      0.009017,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.001579,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.007178,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.012227,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.006785,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.003426,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.004970,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.003177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.006872,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.003117,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.021201,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.003063,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.005447,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.003169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.006689,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  45%  2.8MB"
+    ],
+    [
+      0.003732,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.8MB"
+    ],
+    [
+      0.004564,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.8MB"
+    ],
+    [
+      0.005458,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.8MB"
+    ],
+    [
+      0.004882,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.8MB"
+    ],
+    [
+      0.005971,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.005111,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.003233,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.010339,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.000205,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.012132,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.000220,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.009885,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.000234,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.008383,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  46%  2.9MB"
+    ],
+    [
+      0.009968,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.012183,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.009851,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.008704,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.019430,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.000277,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.010314,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.009795,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  2.9MB"
+    ],
+    [
+      0.008783,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  47%  3.0MB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.022423,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.000259,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.010059,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.010068,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.000209,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.008050,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.010639,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.000249,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.009840,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.000170,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.011656,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  48%  3.0MB"
+    ],
+    [
+      0.007912,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.010593,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.009932,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.000257,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.008636,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.000194,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.0MB"
+    ],
+    [
+      0.011623,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.1MB"
+    ],
+    [
+      0.000208,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.1MB"
+    ],
+    [
+      0.007857,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.1MB"
+    ],
+    [
+      0.001664,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.1MB"
+    ],
+    [
+      0.009454,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.1MB"
+    ],
+    [
+      0.001703,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.1MB"
+    ],
+    [
+      0.017225,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  49%  3.1MB"
+    ],
+    [
+      0.000387,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.008278,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.001222,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.008378,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.001642,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.007259,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.003187,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.006791,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.012342,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.008148,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.001852,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.006565,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.003196,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.007410,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.003213,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  50%  3.1MB"
+    ],
+    [
+      0.005686,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.1MB"
+    ],
+    [
+      0.003102,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.1MB"
+    ],
+    [
+      0.007236,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.1MB"
+    ],
+    [
+      0.003208,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.008470,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.003842,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.004641,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.005137,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.005493,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.003937,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.006665,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.003446,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.005360,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.004985,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.004963,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  51%  3.2MB"
+    ],
+    [
+      0.007119,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.008390,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.010967,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.000163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.018368,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.000287,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.010196,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.007696,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.010833,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.2MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.3MB"
+    ],
+    [
+      0.019787,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.3MB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  52%  3.3MB"
+    ],
+    [
+      0.008063,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.010110,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.010844,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.009673,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.008453,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000180,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.012138,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.009617,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.011618,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  53%  3.3MB"
+    ],
+    [
+      0.000135,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.3MB"
+    ],
+    [
+      0.009176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.3MB"
+    ],
+    [
+      0.000163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.3MB"
+    ],
+    [
+      0.010195,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.3MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.3MB"
+    ],
+    [
+      0.009929,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.3MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.009854,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.008612,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.000209,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.019727,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.000334,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.009646,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.000311,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  54%  3.4MB"
+    ],
+    [
+      0.007920,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.001650,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.008723,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.008501,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.010781,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.008694,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.001430,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.008576,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.001685,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.007015,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.001674,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.008670,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.001341,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.008475,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  55%  3.4MB"
+    ],
+    [
+      0.001708,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.4MB"
+    ],
+    [
+      0.006947,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.003230,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.006823,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.001482,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.009618,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.003475,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.006646,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.004643,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.006686,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.001697,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.007452,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.003462,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.006826,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.003654,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  56%  3.5MB"
+    ],
+    [
+      0.005227,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.005722,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.005385,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.003187,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.014572,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.003018,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.005388,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.005604,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.005244,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.005101,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.5MB"
+    ],
+    [
+      0.008607,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.6MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.6MB"
+    ],
+    [
+      0.015340,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.6MB"
+    ],
+    [
+      0.000346,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.6MB"
+    ],
+    [
+      0.009884,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  57%  3.6MB"
+    ],
+    [
+      0.000274,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.011250,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.000217,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.008168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.010202,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.009868,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.000134,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.010280,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.000228,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.010086,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.011668,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  58%  3.6MB"
+    ],
+    [
+      0.009922,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.6MB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.6MB"
+    ],
+    [
+      0.012072,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.6MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.6MB"
+    ],
+    [
+      0.008047,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.6MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.010830,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.009930,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.016953,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.008440,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.000222,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.010056,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  59%  3.7MB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.010725,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.000179,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.014365,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.000266,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.009450,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.000233,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.012496,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.008842,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.001651,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.008434,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.009984,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.7MB"
+    ],
+    [
+      0.000215,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  60%  3.8MB"
+    ],
+    [
+      0.008558,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.001704,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.008109,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.004810,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.006993,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.001696,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.008965,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.001982,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.009603,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.001685,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.006900,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.003416,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.006522,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.001856,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.006955,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  61%  3.8MB"
+    ],
+    [
+      0.003166,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.013309,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.003000,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.006754,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.003866,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.004608,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.003891,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.007188,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.8MB"
+    ],
+    [
+      0.003472,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.9MB"
+    ],
+    [
+      0.010585,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.9MB"
+    ],
+    [
+      0.005428,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.9MB"
+    ],
+    [
+      0.004911,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.9MB"
+    ],
+    [
+      0.004789,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.9MB"
+    ],
+    [
+      0.005312,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.9MB"
+    ],
+    [
+      0.003165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  62%  3.9MB"
+    ],
+    [
+      0.008794,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.005049,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.010345,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.010703,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.008070,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.012796,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.010565,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.009210,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.010228,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  63%  3.9MB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  3.9MB"
+    ],
+    [
+      0.010868,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  3.9MB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  3.9MB"
+    ],
+    [
+      0.010562,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.008419,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.015612,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.000289,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.010692,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.010224,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.008904,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  64%  4.0MB"
+    ],
+    [
+      0.015367,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.000348,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.009908,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.000271,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.009657,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.000295,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.008089,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.000227,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.010332,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.013107,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.0MB"
+    ],
+    [
+      0.010470,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.1MB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.1MB"
+    ],
+    [
+      0.008104,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  65%  4.1MB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.012516,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.000223,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.009890,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.001658,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.009919,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.001558,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.008770,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.000261,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.008807,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.001753,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.013000,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.001548,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.007005,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.003602,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  66%  4.1MB"
+    ],
+    [
+      0.007187,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.1MB"
+    ],
+    [
+      0.001426,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.1MB"
+    ],
+    [
+      0.009151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.1MB"
+    ],
+    [
+      0.001677,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.1MB"
+    ],
+    [
+      0.006767,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.1MB"
+    ],
+    [
+      0.006801,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.1MB"
+    ],
+    [
+      0.006637,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.1MB"
+    ],
+    [
+      0.003710,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.005012,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.003342,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.007658,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.003177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.006382,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.003445,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.005256,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  67%  4.2MB"
+    ],
+    [
+      0.006149,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.006678,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.003637,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.006912,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.003163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.006826,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.005350,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.004581,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.006265,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.005340,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.004940,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.011094,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.000179,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.011947,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  68%  4.2MB"
+    ],
+    [
+      0.008139,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.2MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.014743,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.000143,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.009996,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.011742,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.000150,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.008390,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.000174,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.009864,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.013837,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.011450,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  69%  4.3MB"
+    ],
+    [
+      0.000242,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.009397,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.000215,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.008243,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.013738,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.000179,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.010663,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.009732,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.000150,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.3MB"
+    ],
+    [
+      0.009906,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.4MB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.4MB"
+    ],
+    [
+      0.012939,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.4MB"
+    ],
+    [
+      0.000192,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  70%  4.4MB"
+    ],
+    [
+      0.009912,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.009653,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.010168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.016552,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.000325,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.008407,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.000423,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.009750,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.009751,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.000272,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.007998,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  71%  4.4MB"
+    ],
+    [
+      0.001814,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.4MB"
+    ],
+    [
+      0.008408,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.4MB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.4MB"
+    ],
+    [
+      0.011906,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.4MB"
+    ],
+    [
+      0.001703,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.4MB"
+    ],
+    [
+      0.010609,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.001468,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.009397,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.001675,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.006421,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.001663,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.011973,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.001595,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.007296,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.003090,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  72%  4.5MB"
+    ],
+    [
+      0.006667,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.003446,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.006894,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.001722,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.012276,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.003093,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.007624,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.003689,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.004907,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.005133,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.005015,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.003337,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.011849,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.003705,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.5MB"
+    ],
+    [
+      0.004657,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  73%  4.6MB"
+    ],
+    [
+      0.006676,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.005442,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.004914,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.003170,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.005224,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.010351,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.013015,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.010109,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.000198,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.011329,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.000212,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.010156,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.000265,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  74%  4.6MB"
+    ],
+    [
+      0.009575,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.000134,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.010988,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.010611,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.000240,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.010139,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.009945,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.6MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.7MB"
+    ],
+    [
+      0.012658,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.7MB"
+    ],
+    [
+      0.000316,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.7MB"
+    ],
+    [
+      0.011813,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.7MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.7MB"
+    ],
+    [
+      0.010143,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  75%  4.7MB"
+    ],
+    [
+      0.000196,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.009907,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.012595,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.010765,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.010084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.000170,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.010678,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.000170,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.008202,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.010211,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  76%  4.7MB"
+    ],
+    [
+      0.011879,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.7MB"
+    ],
+    [
+      0.000208,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.7MB"
+    ],
+    [
+      0.011093,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.7MB"
+    ],
+    [
+      0.001501,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.008409,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.000412,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.011274,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.008085,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.001385,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.009963,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.001671,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.006699,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.001686,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.008665,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.004407,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  77%  4.8MB"
+    ],
+    [
+      0.008646,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.001721,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.008839,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.003781,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.008089,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.001698,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.006923,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.003211,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.010528,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.003403,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.006836,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.001427,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.8MB"
+    ],
+    [
+      0.006692,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.9MB"
+    ],
+    [
+      0.005097,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.9MB"
+    ],
+    [
+      0.006652,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  78%  4.9MB"
+    ],
+    [
+      0.003209,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.005419,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.005169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.005680,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.003420,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.006937,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.005410,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.005422,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.005162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.007910,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.005202,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.008392,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.000257,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.012031,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.000218,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  79%  4.9MB"
+    ],
+    [
+      0.009412,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  4.9MB"
+    ],
+    [
+      0.000133,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  4.9MB"
+    ],
+    [
+      0.010426,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  4.9MB"
+    ],
+    [
+      0.000187,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  4.9MB"
+    ],
+    [
+      0.008180,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  4.9MB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  4.9MB"
+    ],
+    [
+      0.013372,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.009677,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.010056,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.015265,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.000183,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.010328,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  80%  5.0MB"
+    ],
+    [
+      0.000267,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.011481,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.009914,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.000126,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.008504,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.009935,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.012292,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.012786,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.008612,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  81%  5.0MB"
+    ],
+    [
+      0.015234,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.000239,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.010054,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.000260,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.008027,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.000183,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.010238,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.010087,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.000226,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.008161,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.003455,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.008640,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.000240,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.013054,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  82%  5.1MB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.010621,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.001676,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.008448,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.001677,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.013910,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.001629,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.012525,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.001295,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.008358,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.1MB"
+    ],
+    [
+      0.001615,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.2MB"
+    ],
+    [
+      0.007062,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.2MB"
+    ],
+    [
+      0.003365,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.2MB"
+    ],
+    [
+      0.007467,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.2MB"
+    ],
+    [
+      0.001402,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  83%  5.2MB"
+    ],
+    [
+      0.011489,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.001833,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.006637,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.003167,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.009681,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.003415,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.005215,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.003442,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.006642,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.003450,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.009882,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.003461,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.005151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.005162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.005174,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  84%  5.2MB"
+    ],
+    [
+      0.003433,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.2MB"
+    ],
+    [
+      0.005903,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.2MB"
+    ],
+    [
+      0.004971,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.2MB"
+    ],
+    [
+      0.005975,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.2MB"
+    ],
+    [
+      0.004949,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.012716,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.000133,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.008232,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.011684,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.016447,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.007875,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  85%  5.3MB"
+    ],
+    [
+      0.013543,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.010172,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.009937,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.009264,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.009946,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.012308,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.011411,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.3MB"
+    ],
+    [
+      0.008219,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  86%  5.4MB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.013911,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.000167,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.056162,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.010014,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.000256,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.008081,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.000286,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.009784,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.010249,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.000143,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.009580,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  87%  5.4MB"
+    ],
+    [
+      0.008854,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.009864,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.010165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.007773,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.002193,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.4MB"
+    ],
+    [
+      0.007975,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.5MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.5MB"
+    ],
+    [
+      0.008796,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.5MB"
+    ],
+    [
+      0.001798,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.5MB"
+    ],
+    [
+      0.008300,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.5MB"
+    ],
+    [
+      0.001687,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.5MB"
+    ],
+    [
+      0.008671,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  88%  5.5MB"
+    ],
+    [
+      0.001682,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.006510,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.001636,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.008381,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.001643,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.007005,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.003745,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.006599,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.001702,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.008654,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.001639,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.006713,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.016898,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.006803,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.003427,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  89%  5.5MB"
+    ],
+    [
+      0.005199,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.5MB"
+    ],
+    [
+      0.007370,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.5MB"
+    ],
+    [
+      0.006878,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.003279,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.007181,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.003584,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.004704,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.005368,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.004943,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.003445,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.005153,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.004954,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.005448,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.004903,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.010103,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  90%  5.6MB"
+    ],
+    [
+      0.000206,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.008197,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.000209,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.010124,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.000188,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.009915,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.000185,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.010169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.008179,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.009674,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.6MB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.7MB"
+    ],
+    [
+      0.010317,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.7MB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  91%  5.7MB"
+    ],
+    [
+      0.010197,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000174,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.008226,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.020836,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.009492,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000233,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.013857,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000211,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.008238,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000183,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.009963,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.010078,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  92%  5.7MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.7MB"
+    ],
+    [
+      0.008411,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.7MB"
+    ],
+    [
+      0.000228,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.7MB"
+    ],
+    [
+      0.010176,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.7MB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.7MB"
+    ],
+    [
+      0.009894,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.7MB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.009952,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.008210,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.000232,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.010120,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.000254,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.009833,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.000218,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  93%  5.8MB"
+    ],
+    [
+      0.008168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.001713,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.008648,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.007915,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.001890,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.008757,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.001694,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.008695,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.001419,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.006671,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.001689,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.012932,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.001641,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.006849,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  94%  5.8MB"
+    ],
+    [
+      0.003471,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.8MB"
+    ],
+    [
+      0.010134,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.003406,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.006939,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.001700,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.006691,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.003514,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.006590,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.003120,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.006034,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.005114,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.004921,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.003941,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.006647,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.003209,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  95%  5.9MB"
+    ],
+    [
+      0.005136,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.005467,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.004936,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.004876,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.004977,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.004005,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.009788,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.000142,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.010221,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  5.9MB"
+    ],
+    [
+      0.008188,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  6.0MB"
+    ],
+    [
+      0.000139,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  6.0MB"
+    ],
+    [
+      0.010008,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  6.0MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  6.0MB"
+    ],
+    [
+      0.010661,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  96%  6.0MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.009229,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.000143,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.008776,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.011163,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.000153,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.009857,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.014564,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.008420,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.009964,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.000144,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  97%  6.0MB"
+    ],
+    [
+      0.009938,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.0MB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.0MB"
+    ],
+    [
+      0.009872,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.0MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.0MB"
+    ],
+    [
+      0.008862,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.0MB"
+    ],
+    [
+      0.000197,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.009894,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.000188,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.009947,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.009945,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.008175,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.010116,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  98%  6.1MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.010232,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.008380,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.001685,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.008387,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.009906,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.008584,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.001632,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.008668,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.001685,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.006704,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.1MB"
+    ],
+    [
+      0.001455,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):  99%  6.2MB"
+    ],
+    [
+      0.002647,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB): 100%  6.2MB"
+    ],
+    [
+      0.011665,
+      "\r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB):            \r  Downloading Django-1.8-py2.py3-none-any.whl (6.2MB): 6.2MB downloaded\r\n"
+    ],
+    [
+      1.177824,
+      "Installing collected packages: django\r\n"
+    ],
+    [
+      4.007859,
+      "Successfully installed django\r\nCleaning up...\r\n"
+    ],
+    [
+      0.414957,
+      "(env)bash-3.2$ "
+    ],
+    [
+      0.894827,
+      "l"
+    ],
+    [
+      0.048043,
+      "s"
+    ],
+    [
+      0.151779,
+      "\r\n"
+    ],
+    [
+      0.003248,
+      "\u001b[1m\u001b[34menv\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000405,
+      "(env)bash-3.2$ "
+    ],
+    [
+      2.732100,
+      "d"
+    ],
+    [
+      0.119945,
+      "j"
+    ],
+    [
+      0.031815,
+      "a"
+    ],
+    [
+      0.143990,
+      "n"
+    ],
+    [
+      0.096102,
+      "g"
+    ],
+    [
+      0.112122,
+      "o"
+    ],
+    [
+      0.230175,
+      "\u0007"
+    ],
+    [
+      0.000011,
+      "-admin"
+    ],
+    [
+      0.730098,
+      "."
+    ],
+    [
+      0.200263,
+      "p"
+    ],
+    [
+      0.223721,
+      "y"
+    ],
+    [
+      0.167968,
+      " "
+    ],
+    [
+      0.279550,
+      "s"
+    ],
+    [
+      0.152478,
+      "t"
+    ],
+    [
+      0.103990,
+      "a"
+    ],
+    [
+      0.080085,
+      "r"
+    ],
+    [
+      0.135956,
+      "t"
+    ],
+    [
+      0.383530,
+      "p"
+    ],
+    [
+      0.224435,
+      "r"
+    ],
+    [
+      0.055894,
+      "o"
+    ],
+    [
+      0.375911,
+      "j"
+    ],
+    [
+      0.152142,
+      "e"
+    ],
+    [
+      0.159940,
+      "c"
+    ],
+    [
+      0.095947,
+      "t"
+    ],
+    [
+      0.263963,
+      " "
+    ],
+    [
+      1.528089,
+      "d"
+    ],
+    [
+      0.104011,
+      "j"
+    ],
+    [
+      0.048094,
+      "a"
+    ],
+    [
+      0.131532,
+      "n"
+    ],
+    [
+      0.076399,
+      "g"
+    ],
+    [
+      0.111993,
+      "o"
+    ],
+    [
+      0.111962,
+      "1"
+    ],
+    [
+      0.175964,
+      "8"
+    ],
+    [
+      0.559768,
+      "\r\n"
+    ],
+    [
+      1.804426,
+      "(env)bash-3.2$ "
+    ],
+    [
+      0.883359,
+      "l"
+    ],
+    [
+      0.088140,
+      "s"
+    ],
+    [
+      0.143940,
+      "\r\n"
+    ],
+    [
+      0.002584,
+      "\u001b[1m\u001b[34mdjango18\u001b[39;49m\u001b[0m \u001b[1m\u001b[34menv\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000273,
+      "(env)bash-3.2$ "
+    ],
+    [
+      4.213017,
+      "p"
+    ],
+    [
+      0.208194,
+      "y"
+    ],
+    [
+      0.096080,
+      "t"
+    ],
+    [
+      0.271335,
+      "\u0007hon"
+    ],
+    [
+      0.616582,
+      " "
+    ],
+    [
+      0.127955,
+      "a"
+    ],
+    [
+      0.096149,
+      "m"
+    ],
+    [
+      0.175897,
+      "n"
+    ],
+    [
+      0.079916,
+      "\u0007"
+    ],
+    [
+      0.304113,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143781,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135964,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.272178,
+      "m"
+    ],
+    [
+      0.072290,
+      "a"
+    ],
+    [
+      0.151754,
+      "n"
+    ],
+    [
+      0.104176,
+      "\u0007"
+    ],
+    [
+      0.647497,
+      "\u0007"
+    ],
+    [
+      0.176393,
+      "\u0007"
+    ],
+    [
+      0.831783,
+      "a"
+    ],
+    [
+      0.255849,
+      "\u0007"
+    ],
+    [
+      0.208107,
+      "\u0007"
+    ],
+    [
+      0.671999,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168046,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151554,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112452,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.479723,
+      "d"
+    ],
+    [
+      0.192582,
+      "j"
+    ],
+    [
+      0.087267,
+      "ango18/"
+    ],
+    [
+      0.600309,
+      "m"
+    ],
+    [
+      0.088094,
+      "a"
+    ],
+    [
+      0.160018,
+      "nage.py "
+    ],
+    [
+      1.280169,
+      "r"
+    ],
+    [
+      0.095831,
+      "u"
+    ],
+    [
+      0.144146,
+      "n"
+    ],
+    [
+      0.023884,
+      "s"
+    ],
+    [
+      0.168042,
+      "e"
+    ],
+    [
+      0.143808,
+      "r"
+    ],
+    [
+      0.055949,
+      "v"
+    ],
+    [
+      0.127982,
+      "e"
+    ],
+    [
+      0.152269,
+      "r"
+    ],
+    [
+      0.119514,
+      "\r\n"
+    ],
+    [
+      2.313639,
+      "Performing system checks...\r\n\r\n"
+    ],
+    [
+      0.043117,
+      "System check identified no issues (0 silenced).\r\n"
+    ],
+    [
+      0.074967,
+      "\u001b[31m\r\nYou have unapplied migrations; your app may not work properly until they are applied.\u001b[0m\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[31mRun 'python manage.py migrate' to apply them.\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000324,
+      "April 16, 2015 - 18:05:08\r\n"
+    ],
+    [
+      0.000022,
+      "Django version 1.8, using settings 'django18.settings'\r\nStarting development server at http://127.0.0.1:8000/\r\nQuit the server with CONTROL-C.\r\n"
+    ],
+    [
+      3.903380,
+      "^C"
+    ],
+    [
+      0.027468,
+      "(env)bash-3.2$ "
+    ],
+    [
+      2.197097,
+      "c"
+    ],
+    [
+      0.119925,
+      "l"
+    ],
+    [
+      0.128046,
+      "e"
+    ],
+    [
+      0.135866,
+      "a"
+    ],
+    [
+      0.127938,
+      "r"
+    ],
+    [
+      0.095916,
+      "\r\n"
+    ],
+    [
+      0.002733,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000461,
+      "(env)bash-3.2$ "
+    ],
+    [
+      2.140832,
+      "p"
+    ],
+    [
+      0.216171,
+      "y"
+    ],
+    [
+      0.072038,
+      "t"
+    ],
+    [
+      0.168225,
+      "\u0007hon"
+    ],
+    [
+      0.135708,
+      " "
+    ],
+    [
+      0.743929,
+      "d"
+    ],
+    [
+      1.064103,
+      "j"
+    ],
+    [
+      0.127378,
+      "ango18/"
+    ],
+    [
+      0.400481,
+      "m"
+    ],
+    [
+      0.088211,
+      "a"
+    ],
+    [
+      0.183725,
+      "nage.py "
+    ],
+    [
+      0.840042,
+      "m"
+    ],
+    [
+      0.167900,
+      "i"
+    ],
+    [
+      0.191943,
+      "g"
+    ],
+    [
+      0.023842,
+      "r"
+    ],
+    [
+      0.120041,
+      "a"
+    ],
+    [
+      0.104137,
+      "t"
+    ],
+    [
+      0.096173,
+      "e"
+    ],
+    [
+      0.463856,
+      "\r\n"
+    ],
+    [
+      0.503109,
+      "\u001b[36;1mOperations to perform:\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m  Synchronize unmigrated apps: \u001b[0mstaticfiles, messages\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[1m  Apply all migrations: \u001b[0madmin, contenttypes, auth, sessions\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[36;1mSynchronizing apps without migrations:\u001b[0m\r\n"
+    ],
+    [
+      0.000489,
+      "  Creating tables...\r\n"
+    ],
+    [
+      0.000219,
+      "    Running deferred SQL...\r\n"
+    ],
+    [
+      0.000168,
+      "  Installing custom SQL...\r\n"
+    ],
+    [
+      0.156059,
+      "\u001b[36;1mRunning migrations:\u001b[0m\r\n"
+    ],
+    [
+      0.000261,
+      "  Rendering model states..."
+    ],
+    [
+      0.142400,
+      "\u001b[32;1m DONE\u001b[0m\r\n  Applying contenttypes.0001_initial..."
+    ],
+    [
+      0.027241,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "  Applying auth.0001_initial..."
+    ],
+    [
+      0.026599,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "  Applying admin.0001_initial..."
+    ],
+    [
+      0.012994,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "  Applying contenttypes.0002_remove_content_type_name..."
+    ],
+    [
+      0.053480,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "  Applying auth.0002_alter_permission_name_max_length..."
+    ],
+    [
+      0.019348,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "  Applying auth.0003_alter_user_email_max_length..."
+    ],
+    [
+      0.018836,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "  Applying auth.0004_alter_user_username_opts..."
+    ],
+    [
+      0.022887,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "  Applying auth.0005_alter_user_last_login_null..."
+    ],
+    [
+      0.020577,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "  Applying auth.0006_require_contenttypes_0002..."
+    ],
+    [
+      0.001829,
+      "\u001b[32;1m OK\u001b[0m\r\n  Applying sessions.0001_initial..."
+    ],
+    [
+      0.009911,
+      "\u001b[32;1m OK\u001b[0m\r\n"
+    ],
+    [
+      0.069725,
+      "(env)bash-3.2$ "
+    ],
+    [
+      2.465196,
+      "l"
+    ],
+    [
+      0.120295,
+      "s"
+    ],
+    [
+      0.199967,
+      "\r\n"
+    ],
+    [
+      0.003372,
+      "\u001b[1m\u001b[34mdjango18\u001b[39;49m\u001b[0m \u001b[1m\u001b[34menv\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000410,
+      "(env)bash-3.2$ "
+    ],
+    [
+      1.004098,
+      "ls"
+    ],
+    [
+      0.176194,
+      "\u0008\u0008python django18/manage.py migrate"
+    ],
+    [
+      0.151577,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cclear\u001b[K"
+    ],
+    [
+      0.376031,
+      "\u0008\u0008\u0008\u0008\u0008python django18/manage.py runserver"
+    ],
+    [
+      0.568174,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cls\u001b[K"
+    ],
+    [
+      0.543943,
+      "\u0008\u0008python django18/manage.py runserver"
+    ],
+    [
+      0.576094,
+      "\r\n"
+    ],
+    [
+      1.100799,
+      "Performing system checks...\r\n\r\n"
+    ],
+    [
+      0.008536,
+      "System check identified no issues (0 silenced).\r\n"
+    ],
+    [
+      0.131869,
+      "April 16, 2015 - 18:05:31\r\nDjango version 1.8, using settings 'django18.settings'\r\nStarting development server at http://127.0.0.1:8000/\r\nQuit the server with CONTROL-C.\r\n"
+    ],
+    [
+      5.547265,
+      "\u001b[m[16/Apr/2015 18:05:37]\"GET / HTTP/1.1\" 200 1767\r\n\u001b[0m"
+    ],
+    [
+      0.197531,
+      "\u001b[33m[16/Apr/2015 18:05:37]\"GET /favicon.ico HTTP/1.1\" 404 1938\r\n\u001b[0m"
+    ],
+    [
+      2.814195,
+      "^D\u0008\u0008"
+    ],
+    [
+      1.023227,
+      "^D\u0008\u0008"
+    ],
+    [
+      2.615979,
+      "^C"
+    ],
+    [
+      0.031184,
+      "(env)bash-3.2$ "
+    ],
+    [
+      1.689202,
+      "exit\r\n"
+    ]
+  ]
+}
