@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 16.033481,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.051965,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.002443,
+      "\u001b]2;better\u0007"
+    ],
+    [
+      0.046908,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;36mmy-python-app/\u001b[00m "
+    ],
+    [
+      0.000041,
+      "\u001b[K\u001b[62C\u001b[01;36m\u001b[00m\u001b[62D"
+    ],
+    [
+      1.272749,
+      "b"
+    ],
+    [
+      0.019267,
+      "\u0008bu"
+    ],
+    [
+      0.115676,
+      "t"
+    ],
+    [
+      0.151203,
+      "l"
+    ],
+    [
+      0.111758,
+      "e"
+    ],
+    [
+      0.148269,
+      "r"
+    ],
+    [
+      0.320090,
+      "\r\r\n"
+    ],
+    [
+      0.010504,
+      "usage:\r\n"
+    ],
+    [
+      0.000008,
+      "  butler [COMMAND]    # Run a command defined in your butlerfile\r\n  butler              # List all known commands\r\n"
+    ],
+    [
+      0.000022,
+      "commands:\r\n"
+    ],
+    [
+      0.000069,
+      "  run: foreman start\r\n"
+    ],
+    [
+      0.000005,
+      "  test: foreman run python test.py\r\n"
+    ],
+    [
+      0.000121,
+      "  migrate: foreman run python app.py db migrate\r\n  upgrade: foreman run python app.py db upgrade\r\n  install: pip install -r requirements.txt\r\n"
+    ],
+    [
+      0.000503,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.003280,
+      "\u001b]2;better\u0007"
+    ],
+    [
+      0.049473,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;36mmy-python-app/\u001b[00m \u001b[K\u001b[62C\u001b[01;36m\u001b[00m\u001b[62D"
+    ],
+    [
+      1.288055,
+      "b"
+    ],
+    [
+      0.063648,
+      "\u0008bu"
+    ],
+    [
+      0.056344,
+      "t"
+    ],
+    [
+      0.248014,
+      "l"
+    ],
+    [
+      0.103943,
+      "e"
+    ],
+    [
+      0.048028,
+      "r"
+    ],
+    [
+      0.287642,
+      " "
+    ],
+    [
+      0.240408,
+      "i"
+    ],
+    [
+      0.047625,
+      "n"
+    ],
+    [
+      0.104396,
+      "s"
+    ],
+    [
+      0.023985,
+      "t"
+    ],
+    [
+      0.095965,
+      "a"
+    ],
+    [
+      0.088109,
+      "l"
+    ],
+    [
+      0.159930,
+      "l"
+    ],
+    [
+      0.816062,
+      "\r\r\n"
+    ],
+    [
+      0.017039,
+      "Executing install: pip install -r requirements.txt\r\n"
+    ],
+    [
+      0.208657,
+      "\u001b[33mYou are using pip version 6.0.8, however version 6.1.1 is available.\r\nYou should consider upgrading via the 'pip install --upgrade pip' command.\u001b[0m\r\n"
+    ],
+    [
+      0.003057,
+      "Requirement already satisfied (use --upgrade to upgrade): Flask==0.10.1 in /usr/local/lib/python2.7/site-packages (from -r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.000651,
+      "Requirement already satisfied (use --upgrade to upgrade): gunicorn==19.3.0 in /usr/local/lib/python2.7/site-packages (from -r requirements.txt (line 2))\r\n"
+    ],
+    [
+      0.007226,
+      "Collecting flask-stache (from -r requirements.txt (line 3))\r\n"
+    ],
+    [
+      0.131891,
+      "  Using cached Flask-Stache-0.1.1.tar.gz\r\n"
+    ],
+    [
+      0.156591,
+      "Collecting psycopg2 (from -r requirements.txt (line 4))\r\n"
+    ],
+    [
+      0.043497,
+      "  Using cached psycopg2-2.6.tar.gz\r\n"
+    ],
+    [
+      0.238311,
+      "Collecting Flask-SQLAlchemy (from -r requirements.txt (line 5))\r\n"
+    ],
+    [
+      0.025691,
+      "  Using cached Flask-SQLAlchemy-2.0.tar.gz\r\n"
+    ],
+    [
+      0.163600,
+      "Collecting Flask-Migrate (from -r requirements.txt (line 6))\r\n"
+    ],
+    [
+      0.012469,
+      "  Using cached Flask-Migrate-1.3.1.tar.gz\r\n"
+    ],
+    [
+      0.155039,
+      "Collecting Flask-WTF (from -r requirements.txt (line 7))\r\n"
+    ],
+    [
+      0.045311,
+      "  Using cached Flask_WTF-0.11-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.021724,
+      "Collecting pytest (from -r requirements.txt (line 8))\r\n"
+    ],
+    [
+      0.028906,
+      "  Using cached pytest-2.7.0.tar.gz\r\n"
+    ],
+    [
+      0.247242,
+      "Collecting colour-runner (from -r requirements.txt (line 9))\r\n"
+    ],
+    [
+      0.011031,
+      "  Using cached colour_runner-0.0.4-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.013581,
+      "Collecting lxml (from -r requirements.txt (line 10))\r\n"
+    ]
+  ]
+}
