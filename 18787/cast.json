@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 11.588291,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "ansi",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.221118,
+      "\u001b]7;file://lake/Users/tqbf/Downloads\u0007"
+    ],
+    [
+      0.027454,
+      "/usr/local/rvm/scripts/initialize:44: __rvm_cleanse_variables: function definition file not found\r\n"
+    ],
+    [
+      0.000766,
+      "/usr/local/rvm/scripts/initialize:46: command not found: rvm_error\r\n"
+    ],
+    [
+      0.093328,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[0m                                                                              \r \r\u001b]2;tqbf@lake: ~/Downloads\u0007\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]7;file://lake/Users/tqbf/Downloads\u0007"
+    ],
+    [
+      0.004781,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[01;37mtqbf\u001b[00m@lake \u001b[01;37m~/Downloads\u001b[00m                                                 [6:59:00] \r\n"
+    ],
+    [
+      0.038494,
+      "\r\u001b[0m\u001b[m\u001b[m\u001b[J\u003e \u001b[32m$\u001b[00m "
+    ],
+    [
+      0.000062,
+      "\u001b[K\u001b[74C \u001b[75D"
+    ],
+    [
+      8.384615,
+      "t"
+    ],
+    [
+      0.079756,
+      "\u001b[Dth"
+    ],
+    [
+      0.039948,
+      "i"
+    ],
+    [
+      0.095553,
+      "s"
+    ],
+    [
+      0.064592,
+      " "
+    ],
+    [
+      0.063795,
+      "i"
+    ],
+    [
+      0.071691,
+      "s"
+    ],
+    [
+      0.071919,
+      " "
+    ],
+    [
+      0.103981,
+      "a"
+    ],
+    [
+      0.064199,
+      " "
+    ],
+    [
+      0.088229,
+      "t"
+    ],
+    [
+      0.055808,
+      "e"
+    ],
+    [
+      0.120078,
+      "s"
+    ],
+    [
+      0.071989,
+      "t"
+    ],
+    [
+      0.615857,
+      "\r\r\n"
+    ],
+    [
+      0.001281,
+      "\u001b]2;this is a test\u0007\u001b]1;this\u0007"
+    ],
+    [
+      0.003819,
+      "zsh: command not found: this\r\n"
+    ],
+    [
+      0.000256,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000174,
+      "\u001b]2;tqbf@lake: ~/Downloads\u0007\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.000699,
+      "\u001b]7;file://lake/Users/tqbf/Downloads\u0007"
+    ],
+    [
+      0.001484,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[01;37mtqbf\u001b[00m@lake \u001b[01;37m~/Downloads\u001b[00m                                                 [6:59:10] \r\n"
+    ],
+    [
+      0.037608,
+      "\r\u001b[0m\u001b[m\u001b[m\u001b[J\u003e \u001b[32m$\u001b[00m \u001b[K\u001b[74C \u001b[75D"
+    ],
+    [
+      1.154978,
+      "\r\r\n"
+    ]
+  ]
+}
