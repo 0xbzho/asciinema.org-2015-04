@@ -1,0 +1,818 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 22,
+  "duration": 42.098297,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.059934,
+      "groups: cannot find name for group ID 11\r\n"
+    ],
+    [
+      0.050996,
+      "\u001b]0;root@dhcp-10-222-217-115: /mnt/example\u0007root@dhcp-10-222-217-115:/mnt/example# "
+    ],
+    [
+      0.975810,
+      "s"
+    ],
+    [
+      0.082938,
+      "u"
+    ],
+    [
+      0.113505,
+      "d"
+    ],
+    [
+      0.051526,
+      "o"
+    ],
+    [
+      0.128853,
+      " "
+    ],
+    [
+      0.075867,
+      "a"
+    ],
+    [
+      0.124069,
+      "p"
+    ],
+    [
+      0.072671,
+      "t"
+    ],
+    [
+      0.123273,
+      "-"
+    ],
+    [
+      0.111574,
+      "g"
+    ],
+    [
+      0.049094,
+      "e"
+    ],
+    [
+      0.117418,
+      "t"
+    ],
+    [
+      0.045078,
+      " "
+    ],
+    [
+      0.153523,
+      "u"
+    ],
+    [
+      0.038309,
+      "p"
+    ],
+    [
+      0.156756,
+      "d"
+    ],
+    [
+      0.078564,
+      "a"
+    ],
+    [
+      0.155921,
+      "t"
+    ],
+    [
+      0.079127,
+      "e"
+    ],
+    [
+      0.233969,
+      "\r\n"
+    ],
+    [
+      0.499397,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.353686,
+      "\r            \rIgn http://archive.ubuntu.com trusty InRelease\r\n\r            \r25% [Working]"
+    ],
+    [
+      0.097975,
+      "\r             \rHit http://archive.ubuntu.com trusty Release.gpg\r\n\r50% [Working]"
+    ],
+    [
+      0.125162,
+      "\r             \rHit http://archive.ubuntu.com trusty Release\r\n\r50% [Working]"
+    ],
+    [
+      0.000483,
+      "\r             \r50% [Release gpgv 58.5 kB]"
+    ],
+    [
+      0.016359,
+      "\r                          \r38% [Working]"
+    ],
+    [
+      0.097473,
+      "\r             \rHit http://archive.ubuntu.com trusty/main amd64 Packages\r\n\r50% [Working]"
+    ],
+    [
+      0.097600,
+      "\r             \rHit http://archive.ubuntu.com trusty/universe amd64 Packages\r\n\r             \r62% [Waiting for headers]"
+    ],
+    [
+      0.097649,
+      "\r                         \rHit http://archive.ubuntu.com trusty/main Translation-en\r\n\r75% [Waiting for headers]"
+    ],
+    [
+      0.097925,
+      "\r                         \rHit http://archive.ubuntu.com trusty/universe Translation-en\r\n\r                         \r88% [Working]\r             \r"
+    ],
+    [
+      0.009024,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.018400,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.021652,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.251624,
+      "\rReading package lists... 13%\r"
+    ],
+    [
+      0.006852,
+      "\rReading package lists... 13%\r"
+    ],
+    [
+      0.453846,
+      "\rReading package lists... 31%\r"
+    ],
+    [
+      0.710442,
+      "\rReading package lists... 55%\r"
+    ],
+    [
+      0.223219,
+      "\rReading package lists... 63%\r"
+    ],
+    [
+      0.000157,
+      "\rReading package lists... 63%\r"
+    ],
+    [
+      0.071667,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.000156,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.404830,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.971407,
+      "\rReading package lists... 99%\r\rReading package lists... 99%\r"
+    ],
+    [
+      0.880124,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.006463,
+      "\u001b]0;root@dhcp-10-222-217-115: /mnt/example\u0007root@dhcp-10-222-217-115:/mnt/example# "
+    ],
+    [
+      2.371185,
+      "s"
+    ],
+    [
+      0.117583,
+      "u"
+    ],
+    [
+      0.079462,
+      "d"
+    ],
+    [
+      0.199535,
+      " "
+    ],
+    [
+      0.353821,
+      "\u0008 \u0008"
+    ],
+    [
+      0.109488,
+      "o"
+    ],
+    [
+      0.156901,
+      " "
+    ],
+    [
+      0.350400,
+      "d"
+    ],
+    [
+      0.035664,
+      "p"
+    ],
+    [
+      0.081378,
+      "k"
+    ],
+    [
+      0.077162,
+      "g"
+    ],
+    [
+      0.079023,
+      " "
+    ],
+    [
+      0.120188,
+      "-"
+    ],
+    [
+      0.076441,
+      "i"
+    ],
+    [
+      0.124399,
+      " "
+    ],
+    [
+      0.804466,
+      "s"
+    ],
+    [
+      0.156445,
+      "atellite-imagery-tiling-0.1.\r.deb "
+    ],
+    [
+      1.731501,
+      "\r\n"
+    ],
+    [
+      0.142276,
+      "Selecting previously unselected package satellite-imagery-tiling.\r\n(Reading database ... \r"
+    ],
+    [
+      0.001270,
+      "(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r"
+    ],
+    [
+      0.000762,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.000774,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.000757,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000668,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.000326,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.000320,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001442,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.000973,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000003,
+      "(Reading database ... "
+    ],
+    [
+      0.000002,
+      "23955 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000690,
+      "Preparing to unpack satellite-imagery-tiling-0.1.deb ...\r\n"
+    ],
+    [
+      0.032547,
+      "Unpacking satellite-imagery-tiling (0.1) ...\r\n"
+    ],
+    [
+      0.115241,
+      "dpkg: dependency problems prevent configuration of satellite-imagery-tiling:\r\n satellite-imagery-tiling depends on python-setuptools; however:\r\n  Package python-setuptools is not installed.\r\n\r\ndpkg: error processing package satellite-imagery-tiling (--install):\r\n dependency problems - leaving unconfigured\r\n"
+    ],
+    [
+      0.017130,
+      "Errors were encountered while processing:\r\n satellite-imagery-tiling\r\n"
+    ],
+    [
+      0.000639,
+      "\u001b]0;root@dhcp-10-222-217-115: /mnt/example\u0007root@dhcp-10-222-217-115:/mnt/example# \u001b[K"
+    ],
+    [
+      3.146437,
+      "s"
+    ],
+    [
+      0.117496,
+      "u"
+    ],
+    [
+      0.270229,
+      "d"
+    ],
+    [
+      0.117601,
+      "o"
+    ],
+    [
+      0.117614,
+      " "
+    ],
+    [
+      0.309082,
+      "a"
+    ],
+    [
+      0.076880,
+      "p"
+    ],
+    [
+      0.157438,
+      "t"
+    ],
+    [
+      0.092027,
+      "-"
+    ],
+    [
+      0.090027,
+      "g"
+    ],
+    [
+      0.079135,
+      "e"
+    ],
+    [
+      0.115610,
+      "t"
+    ],
+    [
+      0.004799,
+      " "
+    ],
+    [
+      0.165316,
+      "i"
+    ],
+    [
+      0.039580,
+      "n"
+    ],
+    [
+      0.079291,
+      "s"
+    ],
+    [
+      0.039806,
+      "t"
+    ],
+    [
+      0.080200,
+      "a"
+    ],
+    [
+      0.078696,
+      "l"
+    ],
+    [
+      0.119100,
+      "l"
+    ],
+    [
+      0.083203,
+      " "
+    ],
+    [
+      0.072997,
+      "-"
+    ],
+    [
+      0.117603,
+      "f"
+    ],
+    [
+      0.849924,
+      "\r\n"
+    ],
+    [
+      0.148292,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.979642,
+      "\rReading package lists... 0%\r\rReading package lists... 21%\r"
+    ],
+    [
+      0.076283,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.012397,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.053406,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000103,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.315525,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.020952,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000107,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001076,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.105206,
+      "Correcting dependencies..."
+    ],
+    [
+      0.216487,
+      " Done\r\n"
+    ],
+    [
+      0.176702,
+      "The following packages were automatically installed and are no longer required:\r\n"
+    ],
+    [
+      0.020409,
+      "  cmake-data g++ g++-4.8 gir1.2-atk-1.0 gir1.2-freedesktop\r\n"
+    ],
+    [
+      0.000114,
+      "  gir1.2-gdkpixbuf-2.0 gir1.2-glib-2.0 gir1.2-gtk-2.0 gir1.2-pango-1.0\r\n"
+    ],
+    [
+      0.000041,
+      "  libarchive13 libavcodec-dev libavformat-dev libavutil-dev libcairo-gobject2\r\n"
+    ],
+    [
+      0.000032,
+      "  libcairo-script-interpreter2 libdc1394-22-dev libelfg0 libexpat1-dev\r\n"
+    ],
+    [
+      0.000026,
+      "  libgirepository-1.0-1 libglib2.0-bin libharfbuzz-dev libharfbuzz-gobject0\r\n"
+    ],
+    [
+      0.000028,
+      "  libharfbuzz-icu0 libice-dev libicu52 libilmbase-dev libjasper-dev\r\n"
+    ],
+    [
+      0.000025,
+      "  libjbig-dev libjpeg-dev libjpeg-turbo8-dev libjpeg8-dev liblzma-dev\r\n"
+    ],
+    [
+      0.000037,
+      "  liblzo2-2 libnettle4 libopencv-calib3d2.4 libopencv-contrib2.4\r\n"
+    ],
+    [
+      0.000035,
+      "  libopencv-features2d2.4 libopencv-flann2.4 libopencv-gpu2.4\r\n"
+    ],
+    [
+      0.000024,
+      "  libopencv-legacy2.4 libopencv-ml2.4 libopencv-objdetect2.4 libopencv-ocl2.4\r\n"
+    ],
+    [
+      0.000027,
+      "  libopencv-photo2.4 libopencv-stitching2.4 libopencv-superres2.4\r\n"
+    ],
+    [
+      0.000023,
+      "  libopencv-ts2.4 libopencv-video2.4 libopencv-videostab2.4 libopencv2.4-java\r\n"
+    ],
+    [
+      0.000023,
+      "  libopencv2.4-jni libopenexr-dev libpangoxft-1.0-0 libpcre3-dev libpcrecpp0\r\n"
+    ],
+    [
+      0.000025,
+      "  libpixman-1-dev libpthread-stubs0-dev libraw1394-dev libraw1394-tools\r\n"
+    ],
+    [
+      0.000026,
+      "  libsm-dev libstdc++-4.8-dev libswscale-dev libtiffxx5 libtinyxml2-0.0.0\r\n"
+    ],
+    [
+      0.000024,
+      "  libx11-dev libx11-doc libxau-dev libxcb-render0-dev libxcb-shm0-dev\r\n"
+    ],
+    [
+      0.000024,
+      "  libxcb1-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxdmcp-dev\r\n"
+    ],
+    [
+      0.000028,
+      "  libxext-dev libxfixes-dev libxft2 libxi-dev libxinerama-dev libxml2-utils\r\n"
+    ],
+    [
+      0.000026,
+      "  libxrandr-dev libxrender-dev opencv-data x11proto-composite-dev\r\n"
+    ],
+    [
+      0.000027,
+      "  x11proto-core-dev x11proto-damage-dev x11proto-fixes-dev x11proto-input-dev\r\n"
+    ],
+    [
+      0.000024,
+      "  x11proto-kb-dev x11proto-randr-dev x11proto-render-dev x11proto-xext-dev\r\n"
+    ],
+    [
+      0.000023,
+      "  x11proto-xinerama-dev xorg-sgml-doctools xtrans-dev\r\n"
+    ],
+    [
+      0.000031,
+      "Use 'apt-get autoremove' to remove them.\r\n"
+    ],
+    [
+      0.036019,
+      "The following extra packages will be installed:\r\n"
+    ],
+    [
+      0.000008,
+      "  python-setuptools\r\n"
+    ],
+    [
+      0.017299,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.000107,
+      "  python-setuptools\r\n"
+    ],
+    [
+      0.014434,
+      "0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.021487,
+      "1 not fully installed or removed.\r\n"
+    ],
+    [
+      0.009014,
+      "Need to get 0 B/230 kB of archives.\r\n"
+    ],
+    [
+      0.000079,
+      "After this operation, 830 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000055,
+      "Do you want to continue?"
+    ],
+    [
+      0.000030,
+      " [Y/n] "
+    ],
+    [
+      1.312817,
+      "y"
+    ],
+    [
+      0.887368,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\r\r"
+    ],
+    [
+      0.021443,
+      "perl: warning: Setting locale failed.\r\n"
+    ],
+    [
+      0.000009,
+      "perl: warning: Please check that your locale settings:\r\n\tLANGUAGE = (unset),\r\n\tLC_ALL = (unset),\r\n\tLANG = \"en_US.UTF-8\"\r\n"
+    ],
+    [
+      0.000004,
+      "    are supported and installed on your system.\r\nperl: warning: Falling back to the standard locale (\"C\").\r\n"
+    ],
+    [
+      0.144937,
+      "locale: "
+    ],
+    [
+      0.000007,
+      "Cannot set LC_CTYPE to default locale: No such file or directory\r\n"
+    ],
+    [
+      0.000086,
+      "locale: Cannot set LC_MESSAGES to default locale: No such file or directory\r\n"
+    ],
+    [
+      0.000004,
+      "locale: Cannot set LC_ALL to default locale: No such file or directory"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.604159,
+      "Selecting previously unselected package python-setuptools.\r\n(Reading database ... \r"
+    ],
+    [
+      0.002950,
+      "(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r"
+    ],
+    [
+      0.001016,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.001085,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.000587,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.000625,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.002034,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.001604,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000102,
+      "(Reading database ... "
+    ],
+    [
+      0.000052,
+      "23993 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.002348,
+      "Preparing to unpack .../python-setuptools_3.3-1ubuntu1_all.deb ...\r\n"
+    ],
+    [
+      0.005660,
+      "Unpacking python-setuptools (3.3-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.215777,
+      "Setting up python-setuptools (3.3-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.612965,
+      "Setting up satellite-imagery-tiling (0.1) ...\r\n"
+    ],
+    [
+      1.132795,
+      "\u001b]0;root@dhcp-10-222-217-115: /mnt/example\u0007root@dhcp-10-222-217-115:/mnt/example# "
+    ],
+    [
+      7.152320,
+      "m"
+    ],
+    [
+      0.076986,
+      "a"
+    ],
+    [
+      0.084993,
+      "k"
+    ],
+    [
+      0.228151,
+      "e"
+    ],
+    [
+      0.232785,
+      "_"
+    ],
+    [
+      0.157578,
+      "p"
+    ],
+    [
+      0.158249,
+      "artition "
+    ],
+    [
+      1.231363,
+      "-"
+    ],
+    [
+      0.155462,
+      "-"
+    ],
+    [
+      0.156107,
+      "h"
+    ],
+    [
+      0.462126,
+      "e"
+    ],
+    [
+      0.041765,
+      "l"
+    ],
+    [
+      0.042009,
+      "p"
+    ],
+    [
+      0.194658,
+      "\r\n"
+    ],
+    [
+      0.117164,
+      "usage: make_partition [-h] --imagery-tiles IMAGERY_TILES_PATH\r\n                      --imagery-tiles-info IMAGERY_TILES_INFO_PATH\r\n                      [IMAGERY_TILES_INFO_PATH ...] --imagery-batches-info\r\n                      IMAGERY_BATCHES_INFO_PATH\r\n                      [IMAGERY_BATCHES_INFO_PATH ...] --quadkey QUADKEY\r\n                      [--min-qz MIN_QZ] [--max-qz MAX_QZ]\r\n                      [--module-path MODULE_PATH] [--jobs JOBS] [--date DATE]\r\n                      [--work-order WORK_ORDER] [--clear] [--do-not-clear]\r\n\r\ncreates an partition from the specified imagery\r\n\r\noptional arguments:\r\n  -h, --help            show this help message and exit\r\n  --imagery-tiles IMAGERY_TILES_PATH\r\n                        input path to imagery tiles (default: None)\r\n  --imagery-tiles-info IMAGERY_TILES_INFO_PATH [IMAGERY_TILES_INFO_PATH ...]\r\n                        input path to imagery tiles shapefile (default: None)\r\n  --imagery-batches-info IMAGERY_BATCHES_INFO_PATH [IMAGERY_BATCHES_INFO_PATH ...]\r\n                    "
+    ],
+    [
+      0.000018,
+      "    input path to imagery batches shapefile (default:\r\n                        None)\r\n  --quadkey QUADKEY     z;x,y quad tile coordinates or Bing quadkey of the\r\n                        region of interest (default: None)\r\n  --min-qz MIN_QZ       minimum level in the output imagery pyramid (default:\r\n                        9)\r\n  --max-qz MAX_QZ       maximum level in the output imagery pyramid (default:\r\n                        16)\r\n  --module-path MODULE_PATH\r\n                        path to satellite imagery tiling binaries (default:\r\n                        None)\r\n  --jobs JOBS           number of concurrent jobs to run (default: 0)\r\n  --date DATE           date (default: 20150416)\r\n"
+    ],
+    [
+      0.000007,
+      "  --work-order WORK_ORDER\r\n                        work order (default: 0)\r\n  --clear               temporary folders/files are removed (default: True)\r\n  --do-not-clear        temporary folders/files are not removed (default:\r\n"
+    ],
+    [
+      0.000003,
+      "                        True)\r\n"
+    ],
+    [
+      0.005767,
+      "\u001b]0;root@dhcp-10-222-217-115: /mnt/example\u0007root@dhcp-10-222-217-115:/mnt/example# "
+    ],
+    [
+      2.071052,
+      "exit\r\n"
+    ]
+  ]
+}
