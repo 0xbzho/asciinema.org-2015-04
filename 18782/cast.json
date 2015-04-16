@@ -1,0 +1,1186 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 51,
+  "duration": 61.774129,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.260947,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.037191,
+      "\u001bk..se/radare2/r2\u001b\\"
+    ],
+    [
+      0.000280,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 12:51 \u001b[1m~/Projects/Reverse/radare2/r2\u001b[0m "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[134C\u001b[33m\u001b[32mU\u001b[00m [\u001b[34m2116\u001b[00m] \u001b[33mgit\u001b[00m:r2\u001b[149D"
+    ],
+    [
+      0.000080,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.510430,
+      "r"
+    ],
+    [
+      0.095349,
+      "\u0008r2 /bin/ls"
+    ],
+    [
+      0.295486,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000079,
+      "\r\r\n"
+    ],
+    [
+      0.000825,
+      "\u001bkr2\u001b\\"
+    ],
+    [
+      0.040943,
+      " -- Use zoom.byte=entropy and press 'z' in visual mode to zoom out to see the entropy of the whole file\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[?25h\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      2.030127,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000033,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.088163,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.041195,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000013,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.110729,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      0.368018,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l"
+    ],
+    [
+      0.296033,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l\r\n"
+    ],
+    [
+      0.000601,
+      "drwxr-xr-x  1  501:20    1598        ./\r\ndrwxr-xr-x  1  501:20    238         ../\r\n-rw-r--r--  1  501:20    8196        .DS_Store\r\ndrwxr-xr-x  1  501:20    544         .git/\r\n-rw-r--r--  1  501:20    904         .gitignore\r\n-rw-r--r--  1  501:20    2786        .travis.yml\r\n-rw-r--r--  1  501:20    34109872    aslr\r\n-rw-r--r--  1  501:20    592         AUTHORS.md\r\n-rwxr-xr-x  1  501:20    241         autogen.sh\r\ndrwxr-xr-x  1  501:20    646         binr/\r\ndrwxr-xr-x  1  501:20    238         build/\r\n-rw-r--r--  1  501:20    1500        config-user.mk\r\n-rw-r--r--  1  501:20    1544        config-user.mk.acr\r\n-rwxr-xr-x  1  501:20    16168       configure\r\n-rwxr-xr-x  1  501:20    4248        configure-plugins\r\n-rw-r--r--  1  501:20    3725        configure.acr\r\n-rwxr-xr-x  1  501:20    177         configure.hook\r\n-rw-r--r--  1  501:20    35147       COPYING\r\n-rw-r--r--  1  501:20    7651        COPYING.LESSER\r\n-rw-r--r--  1  501:20    39047       cscope.files\r\n-rw-r--r--  1  501:20    44032       cscope.in.out\r"
+    ],
+    [
+      0.000719,
+      "\r\n-rw-r--r--  1  501:20    66657       cscope.out\r\n-rw-r--r--  1  501:20    161040      cscope.po.out\r\n-rw-r--r--  1  501:20    5359        DEVELOPERS.md\r\ndrwxr-xr-x  1  501:20    2006        doc/\r\n-rwxr-xr-x  1  501:20    548         env.sh\r\n-rw-r--r--  1  501:20    798         global.mk\r\n-rw-r--r--  1  501:20    63          Jamroot\r\ndrwxr-xr-x  1  501:20    1394        libr/\r\n-rw-r--r--  1  501:20    8667        Makefile\r\ndrwxr-xr-x  1  501:20    408         man/\r\ndrwxr-xr-x  1  501:20    170         media/\r\ndrwxr-xr-x  1  501:20    748         mk/\r\n-rw-r--r--  1  501:20    542366308   pal.list\r\ndrwxr-xr-x  1  501:20    1598        pkgcfg/\r\n-rw-r--r--  1  501:20    1705        plugins.cfg\r\n-rw-r--r--  1  501:20    1705        plugins.def.cfg\r\n-rw-r--r--  1  501:20    1135        plugins.emscripten.cfg\r\n-rw-r--r--  1  501:20    1474        plugins.nogpl.cfg\r\n-rw-r--r--  1  501:20    1014        plugins.tiny.cfg\r\ndrwxr-xr-x  1  501:20    136         prefix/\r\n-rw-r--r--  1  501:20    1981        radare2.spec\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--  1  501:20    3496        README.md\r\ndrwxr-xr-x  1  501:20    578         shlr/\r\ndrwxr-xr-x  1  501:20    2516        sys/\r\n-rw-r--r--  1  501:20    32171878    tags\r\n-rw-r--r--  1  501:20    13850       TODO.md\r\n\u001b[?25h\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      0.790485,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.120035,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.080064,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.151976,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      0.535925,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000015,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l"
+    ],
+    [
+      0.071996,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l "
+    ],
+    [
+      0.119672,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l c\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l c"
+    ],
+    [
+      0.088277,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l co\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l co"
+    ],
+    [
+      0.080046,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l con\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l con"
+    ],
+    [
+      0.112007,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l conf\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l conf"
+    ],
+    [
+      0.591929,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l conf*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l conf*"
+    ],
+    [
+      0.224064,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l conf*\r\n"
+    ],
+    [
+      0.000278,
+      "-rw-r--r--  1  501:20    1500        config-user.mk\r\n-rw-r--r--  1  501:20    1544        config-user.mk.acr\r\n-rwxr-xr-x  1  501:20    16168       configure\r\n-rwxr-xr-x  1  501:20    4248        configure-plugins\r\n-rw-r--r--  1  501:20    3725        configure.acr\r\n-rwxr-xr-x  1  501:20    177         configure.hook\r\n\u001b[?25h"
+    ],
+    [
+      0.000020,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      2.863511,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.112067,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.063908,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.911990,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /"
+    ],
+    [
+      0.183900,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /U\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /U"
+    ],
+    [
+      0.256039,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Us\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Us"
+    ],
+    [
+      0.056019,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Use\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Use"
+    ],
+    [
+      0.103898,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /User\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /User"
+    ],
+    [
+      0.064062,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users"
+    ],
+    [
+      0.223989,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/"
+    ],
+    [
+      0.176011,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/a\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/a"
+    ],
+    [
+      0.167948,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/al\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/al"
+    ],
+    [
+      0.088030,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alv\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alv"
+    ],
+    [
+      0.103906,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alva\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alva"
+    ],
+    [
+      0.096112,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvar\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvar"
+    ],
+    [
+      0.055936,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro"
+    ],
+    [
+      0.255994,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_"
+    ],
+    [
+      0.103964,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_f\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_f"
+    ],
+    [
+      0.072006,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe"
+    ],
+    [
+      0.199983,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/"
+    ],
+    [
+      0.215956,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/P\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/P"
+    ],
+    [
+      0.120045,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PR\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PR"
+    ],
+    [
+      0.103952,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRo\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRo"
+    ],
+    [
+      0.127976,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRoj\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRoj"
+    ],
+    [
+      0.039845,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRoje\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRoje"
+    ],
+    [
+      0.344126,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRoj\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRoj"
+    ],
+    [
+      0.128045,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRo\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PRo"
+    ],
+    [
+      0.119963,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000030,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PR\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/PR"
+    ],
+    [
+      0.127989,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/P\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/P"
+    ],
+    [
+      0.111962,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Pr\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Pr"
+    ],
+    [
+      0.095949,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Pro\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Pro"
+    ],
+    [
+      0.216056,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000209,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects "
+    ],
+    [
+      0.791732,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000013,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects"
+    ],
+    [
+      0.375946,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/"
+    ],
+    [
+      0.247965,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/R\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/R"
+    ],
+    [
+      0.175983,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Re\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Re"
+    ],
+    [
+      0.168008,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Rev\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Rev"
+    ],
+    [
+      0.056674,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reve\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reve"
+    ],
+    [
+      0.135360,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000202,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse "
+    ],
+    [
+      0.823742,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse"
+    ],
+    [
+      2.951897,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/"
+    ],
+    [
+      0.239981,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/s\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/s"
+    ],
+    [
+      0.135973,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/st\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/st"
+    ],
+    [
+      0.112056,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/stu\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/stu"
+    ],
+    [
+      0.111898,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/stud\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/stud"
+    ],
+    [
+      0.111941,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study"
+    ],
+    [
+      0.552085,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/"
+    ],
+    [
+      0.351900,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\n"
+    ],
+    [
+      0.000217,
+      "/Users/alvaro_fe/Projects/Reverse/study/./\r\n/Users/alvaro_fe/Projects/Reverse/study/../  /Users/alvaro_fe/Projects/Reverse/study/dtors_example  /Users/alvaro_fe/Projects/Reverse/study/dtors_example.c  /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon\r\n/Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon.c  /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon2  /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon2.c  /Users/alvaro_fe/Projects/Reverse/study/fmt_vuln\r\n/Users/alvaro_fe/Projects/Reverse/study/fmt_vuln.c  \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[?25h"
+    ],
+    [
+      0.000020,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      0.983797,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/"
+    ],
+    [
+      0.455757,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study"
+    ],
+    [
+      0.501151,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/stud"
+    ],
+    [
+      0.084408,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/stu"
+    ],
+    [
+      0.084489,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/st"
+    ],
+    [
+      0.084489,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/s"
+    ],
+    [
+      0.084461,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/"
+    ],
+    [
+      0.084485,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse"
+    ],
+    [
+      0.084408,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Revers"
+    ],
+    [
+      0.084569,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000013,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Rever"
+    ],
+    [
+      0.084367,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reve"
+    ],
+    [
+      0.084480,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Rev"
+    ],
+    [
+      0.084445,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000038,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Re"
+    ],
+    [
+      0.084454,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/R"
+    ],
+    [
+      0.084417,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/"
+    ],
+    [
+      0.084390,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000013,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects"
+    ],
+    [
+      0.084529,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000013,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Project"
+    ],
+    [
+      0.084441,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projec"
+    ],
+    [
+      0.084451,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Proje"
+    ],
+    [
+      0.084541,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Proj"
+    ],
+    [
+      0.084430,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Pro"
+    ],
+    [
+      0.084311,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Pr"
+    ],
+    [
+      0.084459,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/P"
+    ],
+    [
+      0.084462,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/"
+    ],
+    [
+      0.084489,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe"
+    ],
+    [
+      0.084535,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000026,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_f"
+    ],
+    [
+      0.084275,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_"
+    ],
+    [
+      0.084463,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro"
+    ],
+    [
+      0.084483,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvar"
+    ],
+    [
+      0.084491,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000029,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alva"
+    ],
+    [
+      0.084432,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alv"
+    ],
+    [
+      0.084442,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000015,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/al"
+    ],
+    [
+      0.084727,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/a"
+    ],
+    [
+      0.084229,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/"
+    ],
+    [
+      0.084394,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users"
+    ],
+    [
+      0.084461,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /User"
+    ],
+    [
+      0.084461,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Use"
+    ],
+    [
+      0.084484,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Us"
+    ],
+    [
+      0.084362,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /U"
+    ],
+    [
+      0.084514,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /"
+    ],
+    [
+      0.341776,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.887992,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -/Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      0.215966,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l/Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l"
+    ],
+    [
+      0.703979,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l "
+    ],
+    [
+      0.296050,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/\r\n"
+    ],
+    [
+      0.000275,
+      "drwxr-xr-x  1  501:20    340         /Users/alvaro_fe/Projects/Reverse/study/./\r\ndrwxr-xr-x  1  501:20    612         /Users/alvaro_fe/Projects/Reverse/study/../\r\n-rwxr-xr-x  1  501:20    8480        /Users/alvaro_fe/Projects/Reverse/study/dtors_example\r\n-rw-r--r--  1  501:20    351         /Users/alvaro_fe/Projects/Reverse/study/dtors_example.c\r\n-rwxr-xr-x  1  501:20    8476        /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon\r\n-rw-r--r--  1  501:20    461         /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon.c\r\n-rwxr-xr-x  1  501:20    8520        /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon2\r\n-rw-r--r--  1  501:20    457         /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon2.c\r\n-rwxr-xr-x  1  501:20    8764        /Users/alvaro_fe/Projects/Reverse/study/fmt_vuln\r\n-rw-r--r--  1  501:20    638         /Users/alvaro_fe/Projects/Reverse/study/fmt_vuln.c\r\n\u001b[?25h"
+    ],
+    [
+      0.000016,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      0.679672,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/"
+    ],
+    [
+      1.783907,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/*"
+    ],
+    [
+      0.383916,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/*.\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/*."
+    ],
+    [
+      0.104036,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/*.c\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/*.c"
+    ],
+    [
+      0.639871,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l /Users/alvaro_fe/Projects/Reverse/study/*.c\r\n"
+    ],
+    [
+      0.000187,
+      "-rw-r--r--  1  501:20    351         /Users/alvaro_fe/Projects/Reverse/study/dtors_example.c\r\n-rw-r--r--  1  501:20    461         /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon.c\r\n-rw-r--r--  1  501:20    457         /Users/alvaro_fe/Projects/Reverse/study/fmt_uncommon2.c\r\n-rw-r--r--  1  501:20    638         /Users/alvaro_fe/Projects/Reverse/study/fmt_vuln.c\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[?25h\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      2.127773,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.104061,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.071958,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.111990,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      0.255938,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j"
+    ],
+    [
+      1.504067,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j "
+    ],
+    [
+      1.087875,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j c\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j c"
+    ],
+    [
+      0.127922,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j co\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j co"
+    ],
+    [
+      0.087980,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j con\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j con"
+    ],
+    [
+      0.144001,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf"
+    ],
+    [
+      1.072007,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf*"
+    ],
+    [
+      0.360022,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* "
+    ],
+    [
+      0.239990,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |"
+    ],
+    [
+      0.223845,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |j\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |j"
+    ],
+    [
+      0.064305,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |js\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |js"
+    ],
+    [
+      0.103711,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |jso\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |jso"
+    ],
+    [
+      0.072033,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json"
+    ],
+    [
+      0.351994,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json_\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json_"
+    ],
+    [
+      0.231501,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000007,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json_p\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json_p"
+    ],
+    [
+      0.144475,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json_pp\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json_pp"
+    ],
+    [
+      0.320040,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j conf* |json_pp\r\n"
+    ],
+    [
+      0.001083,
+      "\r\n"
+    ],
+    [
+      0.035154,
+      "[\r\n   {\r\n      \"gid\" : 20,\r\n      \"isdir\" : false,\r\n      \"perm\" : 420,\r\n      \"size\" : 1500,\r\n      \"uid\" : 501,\r\n      \"name\" : \"config-user.mk\"\r\n   },\r\n   {\r\n      \"uid\" : 501,\r\n      \"name\" : \"config-user.mk.acr\",\r\n      \"isdir\" : false,\r\n      \"gid\" : 20,\r\n      \"perm\" : 420,\r\n      \"size\" : 1544\r\n   },\r\n   {\r\n      \"size\" : 16168,\r\n      \"isdir\" : false,\r\n      \"perm\" : 493,\r\n      \"gid\" : 20,\r\n      \"name\" : \"configure\",\r\n      \"uid\" : 501\r\n   },\r\n   {\r\n      \"name\" : \"configure-plugins\",\r\n      \"uid\" : 501,\r\n      \"size\" : 4248,\r\n      \"perm\" : 493,\r\n      \"isdir\" : false,\r\n      \"gid\" : 20\r\n   },\r\n   {\r\n      \"uid\" : 501,\r\n      \"name\" : \"configure.acr\",\r\n      \"gid\" : 20,\r\n      \"isdir\" : false,\r\n      \"perm\" : 420,\r\n      \"size\" : 3725\r\n   },\r\n   {\r\n      \"size\" : 177,\r\n      \"isdir\" : false,\r\n      \"perm\" : 493,\r\n      \"gid\" : 20,\r\n      \"name\" : \"configure.hook\",\r\n      \"uid\" : 501\r\n   }\r\n]\r\n"
+    ],
+    [
+      0.001054,
+      "\u001b[?25h\u001b[0K\r"
+    ],
+    [
+      0.000006,
+      "\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      7.402310,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.087998,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.096029,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.248016,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      1.271854,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j"
+    ],
+    [
+      0.392024,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -j\r\n"
+    ],
+    [
+      0.000537,
+      "[{\"name\":\".\",\"size\":1598,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"..\",\"size\":238,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\".DS_Store\",\"size\":8196,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\".git\",\"size\":544,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\".gitignore\",\"size\":904,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\".travis.yml\",\"size\":2786,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"aslr\",\"size\":34109872,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"AUTHORS.md\",\"size\":592,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"autogen.sh\",\"size\":241,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":false},{\"name\":\"binr\",\"size\":646,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"build\",\"size\":238,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"config-user.mk\",\"size\":1500,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"config-user.mk.acr\",\"size\":1544,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"configure\",\"size\":16168,\"uid\":501,\"g"
+    ],
+    [
+      0.000042,
+      "id\":20,\"perm\":493,\"isdir\":false},{\"name\":\"configure-plugins\",\"size\":4248,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":false},{\"name\":\"configure.acr\",\"size\":3725,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"configure.hook\",\"size\":177,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":false},{\"name\":\"COPYING\",\"size\":35147,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"COPYING.LESSER\",\"size\":7651,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"cscope.files\",\"size\":39047,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"cscope.in.out\",\"size\":44032,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"cscope.out\",\"size\":66657,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"cscope.po.out\",\"size\":161040,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"DEVELOPERS.md\",\"size\":5359,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"doc\",\"size\":2006,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"env.sh\",\"size\":548,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":false},{\"name\":\"global.mk\",\"size\":798,\"uid\":"
+    ],
+    [
+      0.000686,
+      "501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"Jamroot\",\"size\":63,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"libr\",\"size\":1394,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"Makefile\",\"size\":8667,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"man\",\"size\":408,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"media\",\"size\":170,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"mk\",\"size\":748,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"pal.list\",\"size\":542366308,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"pkgcfg\",\"size\":1598,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"plugins.cfg\",\"size\":1705,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"plugins.def.cfg\",\"size\":1705,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"plugins.emscripten.cfg\",\"size\":1135,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"plugins.nogpl.cfg\",\"size\":1474,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"plugins.tiny.cfg\",\"size\":1014,\"uid\":501,\"gid\":20,\"perm\":4"
+    ],
+    [
+      0.000641,
+      "20,\"isdir\":false},{\"name\":\"prefix\",\"size\":136,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"radare2.spec\",\"size\":1981,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"README.md\",\"size\":3496,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"shlr\",\"size\":578,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"sys\",\"size\":2516,\"uid\":501,\"gid\":20,\"perm\":493,\"isdir\":true},{\"name\":\"tags\",\"size\":32171878,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false},{\"name\":\"TODO.md\",\"size\":13850,\"uid\":501,\"gid\":20,\"perm\":420,\"isdir\":false}]\r\n\u001b[?25h\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      3.702014,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.215946,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.071977,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.152040,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      1.047937,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l"
+    ],
+    [
+      0.119998,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l "
+    ],
+    [
+      0.887965,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *"
+    ],
+    [
+      0.296025,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *.\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *."
+    ],
+    [
+      0.103953,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *.s\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *.s"
+    ],
+    [
+      0.207884,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *.sh\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *.sh"
+    ],
+    [
+      0.328082,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l *.sh\r\n"
+    ],
+    [
+      0.000228,
+      "-rwxr-xr-x  1  501:20    241         autogen.sh\r\n-rwxr-xr-x  1  501:20    548         env.sh\r\n\u001b[?25h"
+    ],
+    [
+      0.000008,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      1.831641,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m q\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m q"
+    ],
+    [
+      0.432024,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m q\r\n"
+    ],
+    [
+      0.003055,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.032671,
+      "\u001bk..se/radare2/r2\u001b\\"
+    ],
+    [
+      0.000104,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 12:52 \u001b[1m~/Projects/Reverse/radare2/r2\u001b[0m "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[134C\u001b[33m\u001b[32mU\u001b[00m [\u001b[34m2116\u001b[00m] \u001b[33mgit\u001b[00m:r2\u001b[149D"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.468139,
+      "\r\r\n"
+    ]
+  ]
+}
