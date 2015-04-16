@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 40,
+  "duration": 23.032354,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008121,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "bash-3.2$ "
+    ],
+    [
+      1.751581,
+      "c"
+    ],
+    [
+      0.175988,
+      "d"
+    ],
+    [
+      0.191941,
+      " "
+    ],
+    [
+      1.039850,
+      "~"
+    ],
+    [
+      0.295990,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "bash-3.2$ "
+    ],
+    [
+      0.695944,
+      "l"
+    ],
+    [
+      0.143738,
+      "s"
+    ],
+    [
+      0.343569,
+      "\r\n"
+    ],
+    [
+      0.002311,
+      "Applications\tDocuments\tECodes\t\tLibrary\t\tMusic\t\tPublic\t\tTFS\r\nDesktop\t\tDownloads\tETrash\t\tMovies\t\tPictures\tSoftwares\tnpm-debug.log\r\n"
+    ],
+    [
+      0.000301,
+      "bash-3.2$ "
+    ],
+    [
+      0.677941,
+      "c"
+    ],
+    [
+      0.167950,
+      "d"
+    ],
+    [
+      0.111880,
+      " "
+    ],
+    [
+      0.392276,
+      "D"
+    ],
+    [
+      0.207718,
+      "o"
+    ],
+    [
+      0.376281,
+      "\u0007"
+    ],
+    [
+      1.015995,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Documents/ Downloads/ \r\n"
+    ],
+    [
+      0.000023,
+      "bash-3.2$ cd Do"
+    ],
+    [
+      1.831701,
+      "c"
+    ],
+    [
+      0.168197,
+      "d"
+    ],
+    [
+      0.119791,
+      " "
+    ],
+    [
+      0.600127,
+      "D"
+    ],
+    [
+      0.239812,
+      "o"
+    ],
+    [
+      0.120158,
+      "w"
+    ],
+    [
+      0.223672,
+      "n"
+    ],
+    [
+      0.240229,
+      "loads/"
+    ],
+    [
+      0.319805,
+      "\r\n"
+    ],
+    [
+      0.000236,
+      "bash: cd: Docd: No such file or directory\r\n"
+    ],
+    [
+      0.000048,
+      "bash-3.2$ "
+    ],
+    [
+      0.391897,
+      "l"
+    ],
+    [
+      0.080071,
+      "s"
+    ],
+    [
+      0.391833,
+      " "
+    ],
+    [
+      0.783895,
+      "-"
+    ],
+    [
+      0.208253,
+      "s"
+    ],
+    [
+      0.503702,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.392206,
+      "l"
+    ],
+    [
+      0.191714,
+      "\r\n"
+    ],
+    [
+      0.006459,
+      "total 24\r\n"
+    ],
+    [
+      0.000193,
+      "drwx------   3 z001hh4  staff   102 Apr  1 15:02 Applications\r\ndrwxrwxrwx  11 z001hh4  staff   374 Apr  8 10:49 Desktop\r\ndrwx------+ 15 z001hh4  staff   510 Apr 16 11:16 Documents\r\n"
+    ],
+    [
+      0.000018,
+      "drwx------+ 20 z001hh4  staff   680 Apr 16 16:58 Downloads\r\ndrwxr-xr-x   6 z001hh4  staff   204 Apr  8 14:44 ECodes\r\ndrwxr-xr-x   3 z001hh4  staff   102 Mar 30 17:40 ETrash\r\ndrwx------+ 53 z001hh4  staff  1802 Apr 16 16:58 Library\r\ndrwx------+  3 z001hh4  staff   102 Mar 27 12:43 Movies\r\ndrwx------+  5 z001hh4  staff   170 Mar 27 18:21 Music\r\n"
+    ],
+    [
+      0.000006,
+      "drwx------+ 10 z001hh4  staff   340 Apr 13 10:30 Pictures\r\ndrwxr-xr-x+  5 z001hh4  staff   170 Mar 27 12:43 Public\r\n"
+    ],
+    [
+      0.000002,
+      "drwxr-xr-x   9 z001hh4  staff   306 Apr  8 16:53 Softwares\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x   5 z001hh4  staff   170 Mar 31 10:05 TFS\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--   1 z001hh4  staff  8769 Apr  7 12:03 npm-debug.log\r\n"
+    ],
+    [
+      0.000383,
+      "bash-3.2$ "
+    ],
+    [
+      7.224646,
+      "e"
+    ],
+    [
+      0.216108,
+      "c"
+    ],
+    [
+      0.343884,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.288248,
+      "x"
+    ],
+    [
+      0.135868,
+      "i"
+    ],
+    [
+      0.167884,
+      "t"
+    ],
+    [
+      0.239861,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "exit\r\n"
+    ]
+  ]
+}
