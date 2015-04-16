@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 271,
+  "height": 70,
+  "duration": 2.042310,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.013277,
+      "\u001b]0;root@atomia: ~\u0007root@atomia:~# "
+    ],
+    [
+      2.028764,
+      "exit\r\n"
+    ]
+  ]
+}
