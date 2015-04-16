@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "width": 106,
+  "height": 29,
+  "duration": 109.261529,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.093588,
+      "welcome to LykOS\r\n"
+    ],
+    [
+      0.000013,
+      " Checking our tasks...\r\n"
+    ],
+    [
+      0.227498,
+      " _________________________________________\r\n/ Patch Tuesday sparks: RCE in MS         \\\r\n| HTTP.sys http://is.gd/Gv6III and Office |\r\n\\ http://is.gd/FG5aOP                     /\r\n -----------------------------------------\r\n"
+    ],
+    [
+      0.000025,
+      "   \\\r\n    \\\r\n      _____   _________\r\n     /     \\_/         |\r\n    |                 ||\r\n    |                 ||\r\n   |    ###\\  /###   | |\r\n   |     0  \\/  0    | |\r\n  /|                 | |\r\n / |        \u003c        |\\ \\\r\n| /|                 | | |"
+    ],
+    [
+      0.000006,
+      "\r\n| |     \\_______/   |  | |\r\n| |                 | / /\r\n/||                 /|||"
+    ],
+    [
+      0.000004,
+      "\r\n   ----------------|\r\n"
+    ],
+    [
+      0.000002,
+      "        | |    | |\r\n"
+    ],
+    [
+      0.000002,
+      "        ***    ***"
+    ],
+    [
+      0.000002,
+      "\r\n       /___\\  /___\\"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.151637,
+      "\u001b]0;santiago@LykOS: ~/Documents/p2015/PPH/polypasswordhasher-django\u0007santiago@LykOS:~/Documents/p2015/PPH/polypasswordhasher-django$ "
+    ],
+    [
+      2.061165,
+      "t"
+    ],
+    [
+      0.210496,
+      "o"
+    ],
+    [
+      0.127836,
+      "x"
+    ],
+    [
+      0.256798,
+      " "
+    ],
+    [
+      0.116373,
+      " "
+    ],
+    [
+      0.122933,
+      "-"
+    ],
+    [
+      0.306307,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.121632,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.193310,
+      "-"
+    ],
+    [
+      0.094752,
+      "e"
+    ],
+    [
+      0.076682,
+      " "
+    ],
+    [
+      0.528877,
+      "py2.7-dj1.6"
+    ],
+    [
+      0.709919,
+      "\r\n"
+    ],
+    [
+      0.291691,
+      "\u001b[1mGLOB sdist-make: /home/santiago/Documents/o2014/PPH/polypasswordhasher-django/setup.py\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      3.844404,
+      "\u001b[1mpy2.7-dj1.6 inst-nodeps: /home/santiago/Documents/o2014/PPH/polypasswordhasher-django/.tox/dist/django-polypasswordhasher-0.1.0.zip\u001b[0m\r\n"
+    ],
+    [
+      1.078576,
+      "\u001b[1mpy2.7-dj1.6 runtests: PYTHONHASHSEED='1594165289'\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1mpy2.7-dj1.6 runtests: commands[0] | rm -f test.db\u001b[0m\r\n"
+    ],
+    [
+      0.001368,
+      "\u001b[31mWARNING:test command found but not installed in testenv\r\n  cmd: /bin/rm\r\n  env: /home/santiago/Documents/o2014/PPH/polypasswordhasher-django/.tox/py2.7-dj1.6\r\nMaybe forgot to specify a dependency?\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.002866,
+      "\u001b[1mpy2.7-dj1.6 runtests: commands[1] | rm -rf pph_cache\u001b[0m"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.001491,
+      "\u001b[31mWARNING:test command found but not installed in testenv\r\n  cmd: /bin/rm\r\n  env: /home/santiago/Documents/o2014/PPH/polypasswordhasher-django/.tox/py2.7-dj1.6\r\nMaybe forgot to specify a dependency?\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002803,
+      "\u001b[1mpy2.7-dj1.6 runtests: commands[2] | /home/santiago/Documents/o2014/PPH/polypasswordhasher-django/.tox/py2.7-dj1.6/bin/python runtests.py createcachetable share_table\u001b[0m\r\n"
+    ],
+    [
+      1.881672,
+      "\u001b[1mpy2.7-dj1.6 runtests: commands[3] | /home/santiago/Documents/o2014/PPH/polypasswordhasher-django/.tox/py2.7-dj1.6/bin/python runtests.py initialize_pph_context\u001b[0m\r\n"
+    ],
+    [
+      0.617917,
+      "\u001b[1mpy2.7-dj1.6 runtests: commands[4] | /home/santiago/Documents/o2014/PPH/polypasswordhasher-django/.tox/py2.7-dj1.6/bin/python runtests.py\u001b[0m\r\n"
+    ],
+    [
+      0.246899,
+      "Creating test database for alias 'default'...\r\n"
+    ],
+    [
+      0.656938,
+      "."
+    ],
+    [
+      0.611148,
+      "."
+    ],
+    [
+      0.101249,
+      "."
+    ],
+    [
+      0.199608,
+      "."
+    ],
+    [
+      0.397308,
+      "."
+    ],
+    [
+      0.935192,
+      "."
+    ],
+    [
+      0.074898,
+      "."
+    ],
+    [
+      1.517484,
+      "."
+    ],
+    [
+      49.709294,
+      "."
+    ],
+    [
+      1.055874,
+      "."
+    ],
+    [
+      0.188552,
+      "."
+    ],
+    [
+      0.257534,
+      "."
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "----------------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000005,
+      "Ran 12 tests in 55.502s"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "OK"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Destroying test database for alias 'default'...\r\n"
+    ],
+    [
+      0.022579,
+      "________________________________________________ summary _________________________________________________\r\n\u001b[32m  py2.7-dj1.6: commands succeeded\u001b[0m\r\n\u001b[32m  congratulations :)\u001b[0m\r\n"
+    ],
+    [
+      0.008941,
+      "\u001b]0;santiago@LykOS: ~/Documents/p2015/PPH/polypasswordhasher-django\u0007santiago@LykOS:~/Documents/p2015/PPH/polypasswordhasher-django$ "
+    ],
+    [
+      38.334535,
+      "^C\r\n\u001b]0;santiago@LykOS: ~/Documents/p2015/PPH/polypasswordhasher-django\u0007santiago@LykOS:~/Documents/p2015/PPH/polypasswordhasher-django$ "
+    ],
+    [
+      1.820285,
+      "exit\r\n"
+    ]
+  ]
+}
