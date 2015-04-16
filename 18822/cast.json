@@ -1,0 +1,1334 @@
+{
+  "version": 1,
+  "width": 226,
+  "height": 28,
+  "duration": 51.984962,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.013991,
+      "\u001b]0;metredigm@localhost:~\u0007"
+    ],
+    [
+      0.000316,
+      "\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:~ \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      1.897948,
+      "h"
+    ],
+    [
+      0.055805,
+      "e"
+    ],
+    [
+      0.039944,
+      "l"
+    ],
+    [
+      0.135979,
+      "l"
+    ],
+    [
+      0.064029,
+      "o"
+    ],
+    [
+      0.064007,
+      " "
+    ],
+    [
+      0.168060,
+      "w"
+    ],
+    [
+      0.095943,
+      "o"
+    ],
+    [
+      0.159964,
+      "l"
+    ],
+    [
+      0.303989,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135965,
+      "r"
+    ],
+    [
+      0.063997,
+      "l"
+    ],
+    [
+      0.088010,
+      "d"
+    ],
+    [
+      0.080091,
+      "."
+    ],
+    [
+      0.264387,
+      "\r\n"
+    ],
+    [
+      0.000988,
+      "bash: hello: command not found\r\n"
+    ],
+    [
+      0.000834,
+      "\u001b]0;metredigm@localhost:~\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:~ \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.717853,
+      "t"
+    ],
+    [
+      0.047931,
+      "h"
+    ],
+    [
+      0.055908,
+      "i"
+    ],
+    [
+      0.056072,
+      "s"
+    ],
+    [
+      0.120097,
+      " "
+    ],
+    [
+      0.183969,
+      "s"
+    ],
+    [
+      0.088041,
+      " "
+    ],
+    [
+      0.280027,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135932,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.207883,
+      "i"
+    ],
+    [
+      0.039922,
+      "s"
+    ],
+    [
+      0.120009,
+      " "
+    ],
+    [
+      0.151999,
+      "m"
+    ],
+    [
+      0.047956,
+      "y"
+    ],
+    [
+      0.096151,
+      " "
+    ],
+    [
+      0.128136,
+      "r"
+    ],
+    [
+      0.295878,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.103951,
+      "t"
+    ],
+    [
+      0.047989,
+      "e"
+    ],
+    [
+      0.176007,
+      "s"
+    ],
+    [
+      0.047994,
+      "t"
+    ],
+    [
+      0.063997,
+      " "
+    ],
+    [
+      0.272014,
+      "r"
+    ],
+    [
+      0.056003,
+      "e"
+    ],
+    [
+      0.160088,
+      "c"
+    ],
+    [
+      0.088086,
+      "op"
+    ],
+    [
+      0.063810,
+      "r"
+    ],
+    [
+      0.608215,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127903,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152012,
+      "r"
+    ],
+    [
+      0.159984,
+      "d"
+    ],
+    [
+      0.063958,
+      "i"
+    ],
+    [
+      0.064005,
+      "n"
+    ],
+    [
+      0.112020,
+      "g"
+    ],
+    [
+      0.103778,
+      "."
+    ],
+    [
+      0.224579,
+      "\r\n"
+    ],
+    [
+      0.000357,
+      "bash: this: command not found\r\n"
+    ],
+    [
+      0.000849,
+      "\u001b]0;metredigm@localhost:~\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:~ \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.998412,
+      "I"
+    ],
+    [
+      0.183968,
+      " "
+    ],
+    [
+      0.072074,
+      "w"
+    ],
+    [
+      0.079966,
+      "o"
+    ],
+    [
+      0.047949,
+      "n"
+    ],
+    [
+      0.056105,
+      "d"
+    ],
+    [
+      0.119908,
+      "e"
+    ],
+    [
+      0.055931,
+      "r"
+    ],
+    [
+      0.055885,
+      " "
+    ],
+    [
+      0.128012,
+      "i"
+    ],
+    [
+      0.095994,
+      "g"
+    ],
+    [
+      0.023996,
+      "f"
+    ],
+    [
+      0.048022,
+      " "
+    ],
+    [
+      0.648097,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119905,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120026,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.096001,
+      "f"
+    ],
+    [
+      0.039980,
+      " "
+    ],
+    [
+      0.480216,
+      "I"
+    ],
+    [
+      0.167949,
+      " "
+    ],
+    [
+      0.071833,
+      "c"
+    ],
+    [
+      0.048023,
+      "a"
+    ],
+    [
+      0.047997,
+      "n"
+    ],
+    [
+      0.143989,
+      " "
+    ],
+    [
+      0.055995,
+      "t"
+    ],
+    [
+      0.055988,
+      "y"
+    ],
+    [
+      0.064008,
+      "p"
+    ],
+    [
+      0.104016,
+      "e"
+    ],
+    [
+      0.088105,
+      " "
+    ],
+    [
+      0.056021,
+      "a"
+    ],
+    [
+      0.063922,
+      " "
+    ],
+    [
+      0.128232,
+      "l"
+    ],
+    [
+      0.071927,
+      "i"
+    ],
+    [
+      0.039985,
+      "t"
+    ],
+    [
+      0.112071,
+      "t"
+    ],
+    [
+      0.111934,
+      "l"
+    ],
+    [
+      0.055910,
+      "e"
+    ],
+    [
+      0.120127,
+      " "
+    ],
+    [
+      0.055992,
+      "b"
+    ],
+    [
+      0.079998,
+      "i"
+    ],
+    [
+      0.080022,
+      "t"
+    ],
+    [
+      0.080026,
+      " "
+    ],
+    [
+      0.880143,
+      "f"
+    ],
+    [
+      0.167841,
+      "a"
+    ],
+    [
+      0.055806,
+      "s"
+    ],
+    [
+      0.071873,
+      "t"
+    ],
+    [
+      0.088333,
+      "e"
+    ],
+    [
+      0.048004,
+      "r"
+    ],
+    [
+      0.071982,
+      "."
+    ],
+    [
+      0.784509,
+      "\r\n"
+    ],
+    [
+      0.000417,
+      "bash: I: command not found\r\n"
+    ],
+    [
+      0.000835,
+      "\u001b]0;metredigm@localhost:~\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:~ \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.846253,
+      "c"
+    ],
+    [
+      0.039683,
+      "d"
+    ],
+    [
+      0.056248,
+      " "
+    ],
+    [
+      0.144014,
+      "p"
+    ],
+    [
+      0.079989,
+      "r"
+    ],
+    [
+      0.072004,
+      "o"
+    ],
+    [
+      0.056000,
+      "j"
+    ],
+    [
+      0.064007,
+      "e"
+    ],
+    [
+      0.032009,
+      "c"
+    ],
+    [
+      0.191976,
+      "t"
+    ],
+    [
+      0.055833,
+      "s"
+    ],
+    [
+      0.024096,
+      "/"
+    ],
+    [
+      0.296156,
+      "h"
+    ],
+    [
+      0.087964,
+      "u"
+    ],
+    [
+      0.031982,
+      "n"
+    ],
+    [
+      0.064059,
+      "t"
+    ],
+    [
+      0.103931,
+      "e"
+    ],
+    [
+      0.063987,
+      "r"
+    ],
+    [
+      0.056101,
+      "\r\n"
+    ],
+    [
+      0.001790,
+      "\u001b]0;metredigm@localhost:~/projects/hunter\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:hunter \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.158124,
+      "c"
+    ],
+    [
+      0.063986,
+      "d"
+    ],
+    [
+      0.079986,
+      " "
+    ],
+    [
+      0.056040,
+      "s"
+    ],
+    [
+      0.055887,
+      "o"
+    ],
+    [
+      0.048056,
+      "u"
+    ],
+    [
+      0.031829,
+      "r"
+    ],
+    [
+      0.160274,
+      "c"
+    ],
+    [
+      0.040006,
+      "e"
+    ],
+    [
+      0.048150,
+      "\r\n"
+    ],
+    [
+      0.001735,
+      "\u001b]0;metredigm@localhost:~/projects/hunter/source\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:source \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.062027,
+      "l"
+    ],
+    [
+      0.056027,
+      "s"
+    ],
+    [
+      0.056017,
+      " "
+    ],
+    [
+      0.031995,
+      "-"
+    ],
+    [
+      0.039903,
+      "l"
+    ],
+    [
+      0.048158,
+      "\r\n"
+    ],
+    [
+      0.008738,
+      "total 452\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r-- 1 metredigm metredigm  1348 Apr  2 00:15 audio.c\r\n-rw-r--r-- 1 metredigm metredigm   622 Apr  2 00:15 audio.h\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm  2733 Apr  2 00:15 camera.c\r\n-rw-r--r-- 1 metredigm metredigm   866 Apr  2 00:15 camera.h\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  6736 Apr  2 00:15 collision.c\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r-- 1 metredigm metredigm   634 Apr  2 00:15 collision.h\r\n-rw-r--r-- 1 metredigm metredigm  5203 Apr  2 00:15 collision_solver.c\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r-- 1 metredigm metredigm  1407 Apr  2 00:15 collision_solver.h\r\n-rw-r--r-- 1 metredigm metredigm   690 Apr  2 00:15 component.h\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 2 metredigm metredigm  4096 Apr  6 21:13 components\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm  3639 Apr  2 00:15 config.c\r\n-rw-r--r-- 1 metredigm metredigm  1199 Apr  2 00:15 config.h\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm  1897 Apr  2 00:15 debug.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  3525 Apr  2 00:15 debug_draw.c\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm   989 Apr  2 00:15 debug_draw.h\r\n-rw-r--r-- 1 metredigm metredigm   758 Apr  2 00:15 debug.h\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm  9090 Apr  2 00:15 editor_main.c\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r-- 1 metredigm metredigm   125 Apr  2 00:15 editor_main.h\r\n-rw-r--r-- 1 metredigm metredigm  1926 Apr  2 00:15 effect.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  1110 Apr  2 00:15 effect.h\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x 2 metredigm metredigm  4096 Apr  2 00:15 effects\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm   771 Apr  2 00:15 engine.c\r\n-rw-r--r-- 1 metredigm metredigm   304 Apr  2 00:15 engine.h\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm  6773 Apr  4 23:07 entity.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  2461 Apr  4 20:17 entity_global.c\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm   740 Apr  2 00:15 entity_global.h\r\n-rw-r--r-- 1 metredigm metredigm  2646 Apr  2 00:15 entity.h\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  2731 Apr  4 23:07 entity_map.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm   881 Apr  2 00:15 entity_map.h\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r-- 1 metredigm metredigm   259 Apr  4 23:07 events.h\r\n-rw-r--r-- 1 metredigm metredigm  2662 Apr  4 23:08 framebuffer.c\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm   486 Apr  2 00:15 framebuffer.h\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r-- 1 metredigm metredigm  2080 Apr  2 00:15 global.c\r\n-rw-r--r-- 1 metredigm metredigm  1205 Apr  2 00:15 global.h\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r-- 1 metredigm metredigm 69205 Apr  2 00:15 glxw.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm 14524 Apr  2 00:15 glxw_wgl.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  6150 Apr  4 20:18 hl_render.c\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm  1309 Apr  2 00:15 hl_render.h\r\n-rw-r--r-- 1 metredigm metredigm  7260 Apr  6 00:35 input.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  3492 Apr  6 21:15 input.h\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  1247 Apr  6 21:15 input_maps.h\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm 12540 Apr  2 00:15 linmath.h\r\n-rw-r--r-- 1 metredigm metredigm 11191 Apr  4 20:00 main.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  1223 Apr  2 00:15 main.h\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  4036 Apr  2 00:15 memory.c\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm   320 Apr  2 00:15 memory.h\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm   441 Apr  4 23:07 platform.h\r\n-rw-r--r-- 1 metredigm metredigm  5272 Apr  2 00:15 primitive.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  1525 Apr  2 00:15 primitive.h\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm  2246 Apr  4 23:08 profile.c\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm   783 Apr  2 00:15 profile.h\r\n-rw-r--r-- 1 metredigm metredigm 10879 Apr  4 20:18 shader.c\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 metredigm metredigm  1708 Apr  2 00:15 shader.h\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x 2 metredigm metredigm  4096 Apr  2 00:15 shaders\r\n-rw-r--r-- 1 metredigm metredigm  2894 Apr  6 18:56 sound.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  1209 Apr  6 18:55 sound.h\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  2458 Apr  4 20:18 sound_map.c\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm   523 Apr  2 00:15 sound_map.h\r\n-rw-r--r-- 1 metredigm metredigm  5362 Apr  2 00:15 syscontainer.c\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 metredigm metredigm  1311 Apr  2 00:15 syscontainer.h\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm  1408 Apr  4 20:18 system.c\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm   901 Apr  2 00:15 system.h\r\ndrwxr-xr-x 2 metredigm metredigm  4096 Apr  6 21:11 systems\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r-- 1 metredigm metredigm  6468 Apr  2 00:15 text.c\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm  1805 Apr  2 00:15 text.h\r\n-rw-r--r-- 1 metredigm metredigm  3049 Apr  4 20:17 texture.c\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r-- 1 metredigm metredigm  2178 Apr  2 00:15 texture_cache.c\r\n-rw-r--r-- 1 metredigm metredigm   880 Apr  2 00:15 texture_cache.h\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r-- 1 metredigm metredigm   800 Apr  2 00:15 texture.h\r\n-rw-r--r-- 1 metredigm metredigm   993 Apr  4 20:17 thread.c\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r-- 1 metredigm metredigm   424 Apr  2 00:15 thread.h\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r-- 1 metredigm metredigm   132 Apr  4 23:07 timer.c\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r-- 1 metredigm metredigm   246 Apr  2 00:15 timer.h\r\n-rw-r--r-- 1 metredigm metredigm   283 Apr  2 00:15 vertex.h\r\n-rw-r--r-- 1 metredigm metredigm  8130 Apr  4 20:28 window.c\r\n"
+    ],
+    [
+      0.000072,
+      "-rw-r--r-- 1 metredigm metredigm     0 Apr  4 20:04 window.,c\r\n-rw-r--r-- 1 metredigm metredigm  2007 Apr  2 00:15 window.h\r\n"
+    ],
+    [
+      0.000992,
+      "\u001b]0;metredigm@localhost:~/projects/hunter/source\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:source \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.381724,
+      "v"
+    ],
+    [
+      0.047920,
+      "i"
+    ],
+    [
+      0.031979,
+      "m"
+    ],
+    [
+      0.127975,
+      " "
+    ],
+    [
+      0.160041,
+      "w"
+    ],
+    [
+      0.063983,
+      "i"
+    ],
+    [
+      0.047982,
+      "n"
+    ],
+    [
+      0.040028,
+      "d"
+    ],
+    [
+      0.096013,
+      "o"
+    ],
+    [
+      0.063971,
+      "w"
+    ],
+    [
+      0.079993,
+      "."
+    ],
+    [
+      0.095988,
+      "c"
+    ],
+    [
+      0.072596,
+      "\r\n"
+    ],
+    [
+      0.029210,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000013,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000392,
+      "\u001b[1;58r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[58;1H\"window.c\""
+    ],
+    [
+      0.000329,
+      " 358L, 8130C"
+    ],
+    [
+      0.003610,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.004847,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[35m#include \u001b[m\u001b[31m\"window.h\"\u001b[m\r\n\u001b[35m#include \u001b[m\u001b[31m\"debug.h\"\u001b[m\r\n\r\n\u001b[34m//#include \u003cGLXW/glxw.h\u003e\u001b[m\r\n\r\n\u001b[32mint\u001b[m window_alloc(window** target, \u001b[32mint\u001b[m width, \u001b[32mint\u001b[m height, \u001b[32mint\u001b[m samples, \u001b[32mint\u001b[m fullscreen, \u001b[32mint\u001b[m vertical_sync, \u001b[32mint\u001b[m bordered) {\u001b[7;9H\u001b[33mif\u001b[m (target == \u001b[31mNULL\u001b[m) {\u001b[8;17Hdebug_critical(\u001b[31m\"[window_alloc] target cannot be NULL\"\u001b[m);\u001b[9;17H\u001b[33mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[10;9H}\u001b[12;9H\u001b[33mif\u001b[m (*target != \u001b[31mNULL\u001b[m) {\u001b[13;17Hdebug_warning(\u001b[31m\"[window_alloc] target points to a non NULL handle, possible memory leak\"\u001b[m);\u001b[14;9H}\u001b[16;9H*target = h_malloc(\u001b[33msizeof\u001b[m(window));\u001b[18;9Hwindow* this = *target;\u001b[19;9Hmemset(this, \u001b[31m0\u001b[m, \u001b[33msizeof\u001b[m(window));\u001b[21;9Hthis-\u003ewidth = width;\u001b[22;9Hthis-\u003eheight = height;\u001b[23;9Hthis-\u003esamples = samples;\u001b[24;9Hthis-\u003efullscreen = fullscreen;\u001b[25;9Hthis-\u003evertical_sync = vertical_sync;\u001b[26;9Hthis-\u003ebordered = bordered;\u001b[28;9Hthis-\u003esignal_close = \u001b[31m0\u001b[m;\u001b[29;9Hthis-\u003erecent_pressed = \u001b[31m0\u001b[m;\u001b[31;9Hthis-\u003ewindow_handle = \u001b[31mNULL\u001b[m;\u001b[33;9H\u001b[33mif\u001b[m (SDL_Init(SDL_INIT_EVERYTHING) != \u001b[31m0\u001b[m) {\u001b[34;17Hdebug_message(\u001b[31m\"[window_alloc] SDL failure error message : \"\u001b[m);\u001b[35;17Hdebug_message(SDL_GetError());\u001b[36;17Hdebug_critical(\u001b[31m\"[window_alloc] SDL init failure\"\u001b[m);\u001b[37;17H\u001b[33mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[38;9H}\u001b[40;9H\u001b[32munsigned\u001b[m \u001b[32mint\u001b[m flags = SDL_WINDOW_OPENGL;\u001b[42;9H\u001b[33mif\u001b[m (fullscreen) {\u001b[43;17Hflags |= SDL_WINDOW_FULLSCREEN;\u001b[44;9H}\u001b[46;9H\u001b[33mif\u001b[m (bordered == \u001b[31m0\u001b[m) {\u001b[47;17Hflags |= SDL_WINDOW_BORDERLESS;\u001b[48;9H}\u001b[50;9H\u001b[33mif\u001b[m (this-\u003ewidth == -\u001b[31m1\u001b[m || this-\u003eheight == -\u001b[31m1\u001b[m) {\u001b[51;17HSDL_DisplayMode target_dm;\u001b[52;17H\u001b[33mif\u001b[m (SDL_GetDesktopDisplayMode(\u001b[31m0\u001b[m, \u0026target_dm) != \u001b[31m0\u001b[m) {\u001b[53;25Hdebug_warning(\u001b[31m\"[window_alloc] failed to query current display mode, using 640 x 480 windowed\"\u001b[m);\u001b[54;25Hthis-\u003ewidth = \u001b[31m640\u001b[m;\u001b[55;25Hthis-\u003eheight = \u001b[31m480\u001b[m;\u001b[56;25Hthis-\u003efullscreen = \u001b[31m0\u001b[m;\u001b[57;25Hflags = (bordered == "
+    ],
+    [
+      0.000007,
+      "\u001b[31m0\u001b[m) ? \u001b[31m0\u001b[m : SDL_WINDOW_BORDERLESS;\u001b[58;209H1,1\u001b[11CTop\r\"window.c\" 358L, 8130C\u001b[186C   \u001b[11C   \u001b[1;1H"
+    ],
+    [
+      0.000004,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.000173,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008236,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[35m#include \u001b[m\u001b[31m\"window.h\"\u001b[m\r\n\u001b[35m#include \u001b[m\u001b[31m\"debug.h\"\u001b[m\r\n\r\n\u001b[34m//#include \u003cGLXW/glxw.h\u003e\u001b[m\r\n\r\n\u001b[32mint\u001b[m window_alloc(window** target, \u001b[32mint\u001b[m width, \u001b[32mint\u001b[m height, \u001b[32mint\u001b[m samples, \u001b[32mint\u001b[m fullscreen, \u001b[32mint\u001b[m vertical_sync, \u001b[32mint\u001b[m bordered) {\u001b[7;9H\u001b[38;5;130mif\u001b[m (target == \u001b[31mNULL\u001b[m) {\u001b[8;17Hdebug_critical(\u001b[31m\"[window_alloc] target cannot be NULL\"\u001b[m);\u001b[9;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[10;9H}\u001b[12;9H\u001b[38;5;130mif\u001b[m (*target != \u001b[31mNULL\u001b[m) {\u001b[13;17Hdebug_warning(\u001b[31m\"[window_alloc] target points to a non NULL handle, possible memory leak\"\u001b[m);\u001b[14;9H}\u001b[16;9H*target = h_malloc(\u001b[38;5;130msizeof\u001b[m(window));\u001b[18;9Hwindow* this = *target;\u001b[19;9Hmemset(this, \u001b[31m0\u001b[m, \u001b[38;5;130msizeof\u001b[m(window));\u001b[21;9Hthis-\u003ewidth = width;\u001b[22;9Hthis-\u003eheight = height;\u001b[23;9Hthis-\u003esamples = samples;\u001b[24;9Hthis-\u003efullscreen = fullscreen;\u001b[25;9Hthis-\u003evertical_sync = vertical_sync;\u001b[26;9Hthis-\u003ebordered = bordered;\u001b[28;9Hthis-\u003esignal_close = \u001b[31m0\u001b[m;\u001b[29;9Hthis-\u003erecent_pressed = \u001b[31m0\u001b[m;\u001b[31;9Hthis-\u003ewindow_handle = \u001b[31mNULL\u001b[m;\u001b[33;9H\u001b[38;5;130mif\u001b[m (SDL_Init(SDL_INIT_EVERYTHING) != \u001b[31m0\u001b[m) {\u001b[34;17Hdebug_message(\u001b[31m\"[window_alloc] SDL failure error message : \"\u001b[m);\u001b[35;17Hdebug_message(SDL_GetError());\u001b[36;17Hdebug_critical(\u001b[31m\"[window_alloc] SDL init failure\"\u001b[m);\u001b[37;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[38;9H}\u001b[40;9H\u001b[32munsigned\u001b[m \u001b[32mint\u001b[m flags = SDL_WINDOW_OPENGL;\u001b[42;9H\u001b[38;5;130mif\u001b[m (fullscreen) {\u001b[43;17Hflags |= SDL_WINDOW_FULLSCREEN;\u001b[44;9H}\u001b[46;9H\u001b[38;5;130mif\u001b[m (bordered == \u001b[31m0\u001b[m) {\u001b[47;17Hflags |= SDL_WINDOW_BORDERLESS;\u001b[48;9H}\u001b[50;9H\u001b[38;5;130mif\u001b[m (this-\u003ewidth == -\u001b[31m1\u001b[m || this-\u003eheight == -\u001b[31m1\u001b[m) {\u001b[51;17HSDL_DisplayMode target_dm;\u001b[52;17H\u001b[38;5;130mif\u001b[m (SDL_GetDesktopDisplayMode(\u001b[31m0\u001b[m, \u0026target_dm) != \u001b[31m0\u001b[m) {\u001b[53;25Hdebug_warning(\u001b[31m\"[window_alloc] failed to query current display mode, using 640 x 480 windowed\"\u001b[m);\u001b[54;25Hthis-\u003ewidth = \u001b[31m640\u001b[m;\u001b[55;25Hthis-\u003eheight = \u001b[31m480"
+    ],
+    [
+      0.000376,
+      "\u001b[m;\u001b[56;25Hthis-\u003efullscreen = \u001b[31m0\u001b[m;\u001b[57;25Hflags = (bordered == \u001b[31m0\u001b[m) ? \u001b[31m0\u001b[m : SDL_WINDOW_BORDERLESS;\u001b[58;209H1,1\u001b[11CTop\r\"window.c\" 358L, 8130C\u001b[186C   \u001b[11C   \u001b[1;1H\u001bP+q6b32\u001b\\"
+    ],
+    [
+      0.000005,
+      "\u001bP+q6b33\u001b\\"
+    ],
+    [
+      0.000003,
+      "\u001bP+q6b34\u001b\\"
+    ],
+    [
+      0.000013,
+      "\u001bP+q6b35\u001b\\"
+    ],
+    [
+      0.000013,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000003,
+      "\u001bP+q6b36\u001b\\"
+    ],
+    [
+      0.000015,
+      "\u001bP+q6b37\u001b\\"
+    ],
+    [
+      0.000013,
+      "\u001bP+q6b38\u001b\\"
+    ],
+    [
+      0.000010,
+      "\u001bP+q6b39\u001b\\"
+    ],
+    [
+      0.000015,
+      "\u001bP+q6b3b\u001b\\"
+    ],
+    [
+      0.000009,
+      "\u001bP+q4631\u001b\\"
+    ],
+    [
+      0.000957,
+      "\u001bP+q4632\u001b\\\u001bP+q2531\u001b\\\u001bP+q2638\u001b\\\u001bP+q6b62\u001b\\\u001bP+q6b49\u001b\\\u001bP+q6b44\u001b\\\u001bP+q6b68\u001b\\\u001bP+q4037\u001b\\\u001bP+q6b50\u001b\\\u001bP+q6b4e\u001b\\"
+    ],
+    [
+      0.000204,
+      "\u001bP+q4b31\u001b\\\u001bP+q4b33\u001b\\\u001bP+q4b34\u001b\\\u001bP+q4b35\u001b\\\u001bP+q6b42\u001b\\"
+    ],
+    [
+      0.435637,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;25Hthis-\u003efullscreen = \u001b[31m0\u001b[m;\u001b[2;25Hflags = (bordered == \u001b[31m0\u001b[m) ? \u001b[31m0\u001b[m : SDL_WINDOW_BORDERLESS;\u001b[3;17H}\u001b[5;17H\u001b[38;5;130mif\u001b[m (this-\u003ewidth == -\u001b[31m1\u001b[m) {\u001b[6;25Hthis-\u003ewidth = target_dm.w;\u001b[7;17H}\u001b[9;17H\u001b[38;5;130mif\u001b[m (this-\u003eheight == -\u001b[31m1\u001b[m) {\u001b[10;25Hthis-\u003eheight = target_dm.h;\u001b[11;17H}\u001b[12;9H}\u001b[14;9HSDL_GL_SetAttribute(SDL_GL_MULTISAMPLEBUFFERS, \u001b[31m1\u001b[m);\u001b[15;9HSDL_GL_SetAttribute(SDL_GL_MULTISAMPLESAMPLES, this-\u003esamples);\u001b[16;9HSDL_GL_SetAttribute(SDL_GL_CONTEXT_MAJOR_VERSION, \u001b[31m3\u001b[m);\u001b[17;9HSDL_GL_SetAttribute(SDL_GL_CONTEXT_MINOR_VERSION, \u001b[31m1\u001b[m);\u001b[19;9Hdebug_message(\u001b[31m\"[window_alloc] creating window: w=\u001b[m\u001b[35m%d\u001b[m\u001b[31m, h=\u001b[m\u001b[35m%d\u001b[m\u001b[31m, samples=\u001b[m\u001b[35m%d\u001b[m\u001b[31m, fullscreen=\u001b[m\u001b[35m%d\u001b[m\u001b[31m, vsync=\u001b[m\u001b[35m%d\u001b[m\u001b[31m\"\u001b[m, this-\u003ewidth, this-\u003eheight, this-\u003esamples, this-\u003efullscreen, this-\u003evertical_sync);\u001b[21;9Hthis-\u003ewindow_handle = SDL_CreateWindow(\u001b[31m\"hunter - game window\"\u001b[m, SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, this-\u003ewidth, this-\u003eheight, flags);\u001b[23;9H\u001b[38;5;130mif\u001b[m (this-\u003ewindow_handle == \u001b[31mNULL\u001b[m) {\u001b[24;17Hdebug_message(\u001b[31m\"[window_alloc] SDL error message :\"\u001b[m);\u001b[25;17Hdebug_message(SDL_GetError());\u001b[26;17Hdebug_critical(\u001b[31m\"[window_alloc] failed to create SDL window\"\u001b[m);\u001b[27;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[28;9H}\u001b[30;9Hthis-\u003ewindow_gl_context = SDL_GL_CreateContext(this-\u003ewindow_handle);\u001b[32;9H\u001b[38;5;130mif\u001b[m (glxwInit() != \u001b[31m0\u001b[m) {\u001b[33;17Hdebug_critical(\u001b[31m\"[window_alloc] GLXW function loading failed\"\u001b[m);\u001b[34;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[35;9H}\u001b[37;9HSDL_GL_SetSwapInterval(this-\u003evertical_sync);\u001b[38;9HSDL_ShowCursor(\u001b[31m0\u001b[m);\u001b[40;9HglClearColor(\u001b[31m0.0f\u001b[m, \u001b[31m0.0f\u001b[m, \u001b[31m0.0f\u001b[m, \u001b[31m0.0f\u001b[m);\u001b[41;9HglViewport(\u001b[31m0\u001b[m, \u001b[31m0\u001b[m, this-\u003ewidth, this-\u003eheight);\u001b[43;9HglEnable(GL_BLEND);\u001b[44;9HglEnable(GL_MULTISAMPLE);\u001b[46;9HglDisable(GL_DEPTH_TEST);\u001b[48;9HglBlendEquationSeparate(GL_FUNC_ADD, GL_FUNC_ADD);\u001b[49;9HglBlendFuncSeparate(GL_ONE, GL_ZERO, GL_ONE, GL_ZERO);\u001b[51;9H"
+    ],
+    [
+      0.001543,
+      "\u001b[38;5;130mreturn\u001b[m \u001b[31m1\u001b[m;\r\n}\r\n\r\n\u001b[32mvoid\u001b[m window_free(window** target) {\u001b[55;9H\u001b[38;5;130mif\u001b[m (target == \u001b[31mNULL\u001b[m) {\u001b[56;17Hdebug_critical(\u001b[31m\"[window_free] target cannot be NULL\"\u001b[m);\u001b[57;17H\u001b[38;5;130mreturn\u001b[m;\u001b[58;209H56,4-25\u001b[7C18%\r\"window.c\" 358L, 8130C\u001b[58;209H\u001b[K\u001b[58;209H56,4-25\u001b[7C18%\u001b[1;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.230017,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;17Hdebug_critical(\u001b[31m\"[window_free] target cannot be NULL\"\u001b[m);\u001b[2;17H\u001b[38;5;130mreturn\u001b[m;\u001b[3;9H}\u001b[5;9H\u001b[38;5;130mif\u001b[m (*target == \u001b[31mNULL\u001b[m) {\u001b[6;17Hdebug_critical(\u001b[31m\"[window_free] *target cannot be NULL\"\u001b[m);\u001b[7;17H\u001b[38;5;130mreturn\u001b[m;\u001b[8;9H}\u001b[10;9HSDL_DestroyWindow((*target)-\u003ewindow_handle);\u001b[11;9HSDL_GL_DeleteContext((*target)-\u003ewindow_gl_context);\u001b[12;9HSDL_Quit();\u001b[14;9Hh_free(*target);\u001b[15;9H*target = \u001b[31mNULL\u001b[m;\r\n}\r\n\r\n\u001b[32mvoid\u001b[m window_show_cursor(window* this, \u001b[32mint\u001b[m show) {\u001b[19;9H\u001b[38;5;130mif\u001b[m (!this) {\u001b[20;17Hdebug_warning(\u001b[31m\"[window_show_mouse] this cannot be NULL\"\u001b[m);\u001b[21;17H\u001b[38;5;130mreturn\u001b[m;\u001b[22;9H}\u001b[24;9HSDL_ShowCursor(show);\r\n}\r\n\r\n\u001b[32mint\u001b[m window_key_down(window* this, \u001b[32mint\u001b[m keycode) {\u001b[28;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[29;17Hdebug_warning(\u001b[31m\"[window_key_down] this cannot be NULL\"\u001b[m);\u001b[30;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[31;9H}\u001b[33;9H\u001b[38;5;130mif\u001b[m (keycode \u003c \u001b[31m0\u001b[m || keycode \u003e= \u001b[31m256\u001b[m) {\u001b[34;17Hdebug_warning(\u001b[31m\"[window_key_down] keycode out of range\"\u001b[m);\u001b[35;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[36;9H}\u001b[38;9H\u001b[38;5;130mreturn\u001b[m this-\u003ekey_states[keycode];\r\n}\r\n\r\n\u001b[32mint\u001b[m window_key_released(window* this, \u001b[32mint\u001b[m keycode) {\u001b[42;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[43;17Hdebug_warning(\u001b[31m\"[window_key_released] this cannot be NULL\"\u001b[m);\u001b[44;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[45;9H}\u001b[47;9H\u001b[38;5;130mif\u001b[m (keycode \u003c \u001b[31m0\u001b[m || keycode \u003e= \u001b[31m256\u001b[m) {\u001b[48;17Hdebug_warning(\u001b[31m\"[window_key_released] keycode out of range\"\u001b[m);\u001b[49;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[50;9H}\u001b[52;9H\u001b[32mint\u001b[m output = this-\u003ekey_released_states[keycode];\u001b[54;9H\u001b[38;5;130mif\u001b[m (output == \u001b[31m0\u001b[m) {\u001b[55;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[56;9H}\u001b[58;209H111,3-17      36%\u001b[1;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.509764,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;9H}\u001b[3;9Hthis-\u003ekey_released_states[keycode] = \u001b[31m0\u001b[m;\u001b[4;9H\u001b[38;5;130mreturn\u001b[m \u001b[31m1\u001b[m;\r\n}\r\n\r\n\u001b[32mint\u001b[m window_key_pressed(window* this, \u001b[32mint\u001b[m keycode) {\u001b[8;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[9;17Hdebug_warning(\u001b[31m\"[window_key_pressed] this cannot be NULL\"\u001b[m);\u001b[10;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[11;9H}\u001b[13;9H\u001b[38;5;130mif\u001b[m (keycode \u003c \u001b[31m0\u001b[m || keycode \u003e= \u001b[31m256\u001b[m) {\u001b[14;17Hdebug_warning(\u001b[31m\"[window_key_pressed] keycode out of range\"\u001b[m);\u001b[15;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[16;9H}\u001b[18;9H\u001b[32mint\u001b[m output = this-\u003ekey_pressed_states[keycode];\u001b[20;9H\u001b[38;5;130mif\u001b[m (output == \u001b[31m0\u001b[m) {\u001b[21;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[22;9H}\u001b[24;9Hthis-\u003ekey_pressed_states[keycode] = \u001b[31m0\u001b[m;\u001b[25;9H\u001b[38;5;130mreturn\u001b[m \u001b[31m1\u001b[m;\r\n}\r\n\r\n\u001b[32mint\u001b[m window_letter_pressed(window* this, \u001b[32mchar\u001b[m* letter) {\u001b[29;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[30;17Hdebug_warning(\u001b[31m\"[window_letter_pressed] this cannot be NULL\"\u001b[m);\u001b[31;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[32;9H}\u001b[34;9H\u001b[38;5;130mif\u001b[m (letter == \u001b[31mNULL\u001b[m) {\u001b[35;17Hdebug_warning(\u001b[31m\"[window_letter_pressed] letter cannot be NULL\"\u001b[m);\u001b[36;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[37;9H}\u001b[39;9Hdebug_warning(\u001b[31m\"[window_letter_pressed] this function has not been implemented yet\"\u001b[m); \u001b[34m// add letter mapping!\u001b[m\u001b[40;9H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\r\n}\r\n\r\n\u001b[32mint\u001b[m window_get_keycode_pressed(window* this, \u001b[32mint\u001b[m* keycode) {\u001b[44;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[45;17Hdebug_warning(\u001b[31m\"[window_get_keycode_pressed] this cannot be NULL\"\u001b[m);\u001b[46;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[47;9H}\u001b[49;9H\u001b[38;5;130mif\u001b[m (this-\u003erecent_pressed == \u001b[31m0\u001b[m) {\u001b[50;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[51;9H}\u001b[53;9H*keycode = this-\u003erecent_pressed;\u001b[54;9H\u001b[38;5;130mreturn\u001b[m \u001b[31m1\u001b[m;\r\n}\r\n\r\n\u001b[32mvoid\u001b[m window_update(window* this) {\u001b[58;209H166,2-9\u001b[7C54%\u001b[1;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.312381,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[2;1H\u001b[32mvoid\u001b[m window_update(window* this) {\u001b[3;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[4;17Hdebug_warning(\u001b[31m\"[window_update] this cannot be NULL\"\u001b[m);\u001b[5;17H\u001b[38;5;130mreturn\u001b[m;\u001b[6;9H}\u001b[8;9Hthis-\u003erecent_pressed = \u001b[31m0\u001b[m; \u001b[34m// if it was before this call, it's already too old\u001b[m\u001b[10;9HSDL_Event event;\u001b[12;9H\u001b[38;5;130mwhile\u001b[m (SDL_PollEvent(\u0026event)) {\u001b[13;17H\u001b[38;5;130mswitch\u001b[m (event.type) {\u001b[14;17H\u001b[38;5;130mcase\u001b[m SDL_KEYDOWN:\u001b[15;25H\u001b[38;5;130mif\u001b[m (event.key.keysym.sym \u003e= WINDOW_KEY_BUFFER_SIZE) {\u001b[16;33H\u001b[38;5;130mbreak\u001b[m;\u001b[17;25H}\u001b[19;25Hthis-\u003ekey_states[event.key.keysym.sym] = \u001b[31m1\u001b[m;\u001b[20;25Hthis-\u003ekey_pressed_states[event.key.keysym.sym] = \u001b[31m1\u001b[m;\u001b[21;25Hthis-\u003erecent_pressed = event.key.keysym.sym;\u001b[22;25H\u001b[38;5;130mbreak\u001b[m;\u001b[23;17H\u001b[38;5;130mcase\u001b[m SDL_KEYUP:\u001b[24;25H\u001b[38;5;130mif\u001b[m (event.key.keysym.sym \u003e= WINDOW_KEY_BUFFER_SIZE) {\u001b[25;33H\u001b[38;5;130mbreak\u001b[m;\u001b[26;25H}\u001b[28;25Hthis-\u003ekey_states[event.key.keysym.sym] = \u001b[31m0\u001b[m;\u001b[29;25Hthis-\u003ekey_pressed_states[event.key.keysym.sym] = \u001b[31m1\u001b[m;\u001b[30;25H\u001b[38;5;130mbreak\u001b[m;\u001b[31;17H\u001b[38;5;130mcase\u001b[m SDL_WINDOWEVENT:\u001b[32;25H\u001b[38;5;130mif\u001b[m (event.window.event == SDL_WINDOWEVENT_CLOSE) {\u001b[33;33Hthis-\u003esignal_close = \u001b[31m1\u001b[m;\u001b[34;25H}\u001b[35;25H\u001b[38;5;130mbreak\u001b[m;\u001b[36;17H}\u001b[37;9H}\r\n}\r\n\r\n\u001b[32mint\u001b[m window_get_width(window* this) {\u001b[41;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[42;17Hdebug_warning(\u001b[31m\"[window_get_width] this cannot be NULL\"\u001b[m);\u001b[43;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[44;9H}\u001b[46;9H\u001b[38;5;130mreturn\u001b[m this-\u003ewidth;\r\n}\r\n\r\n\u001b[32mint\u001b[m window_get_height(window* this) {\u001b[50;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[51;17Hdebug_warning(\u001b[31m\"[window_get_height] this cannot be NULL\"\u001b[m);\u001b[52;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[53;9H}\u001b[55;9H\u001b[38;5;130mreturn\u001b[m this-\u003eheight;\r\n}\u001b[58;209H221,0-1\u001b[7C73%\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.289568,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H}\r\n\r\n\u001b[32mint\u001b[m window_get_samples(window* this) {\u001b[4;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[5;17Hdebug_warning(\u001b[31m\"[window_get_samples] this cannot be NULL\"\u001b[m);\u001b[6;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[7;9H}\u001b[9;9H\u001b[38;5;130mreturn\u001b[m this-\u003esamples;\r\n}\r\n\r\n\u001b[32mint\u001b[m window_get_fullscreen(window* this) {\u001b[13;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[14;17Hdebug_warning(\u001b[31m\"[window_get_fullscreen] this cannot be NULL\"\u001b[m);\u001b[15;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[16;9H}\u001b[18;9H\u001b[38;5;130mreturn\u001b[m this-\u003efullscreen;\r\n}\r\n\r\n\u001b[32mint\u001b[m window_get_bordered(window* this) {\u001b[22;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[23;17Hdebug_warning(\u001b[31m\"[window_get_bordered] this cannot be NULL\"\u001b[m);\u001b[24;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[25;9H}\u001b[27;9H\u001b[38;5;130mreturn\u001b[m this-\u003ebordered;\r\n}\r\n\r\n\u001b[32mint\u001b[m window_get_should_close(window* this) {\u001b[31;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[32;17Hdebug_warning(\u001b[31m\"[window_get_should_close] this cannot be NULL\"\u001b[m);\u001b[33;17H\u001b[38;5;130mreturn\u001b[m \u001b[31m0\u001b[m;\u001b[34;9H}\u001b[36;9H\u001b[38;5;130mreturn\u001b[m this-\u003esignal_close;\r\n}\r\n\r\n\u001b[32mvoid\u001b[m window_clear(window* this) {\u001b[40;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[41;17Hdebug_warning(\u001b[31m\"[window_clear] this cannot be NULL\"\u001b[m);\u001b[42;17H\u001b[38;5;130mreturn\u001b[m;\u001b[43;9H}\u001b[45;9HglClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);\r\n}\r\n\r\n\u001b[32mvoid\u001b[m window_swap_buffers(window* this) {\u001b[49;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[50;17Hdebug_warning(\u001b[31m\"[window_swap_buffers] this cannot be NULL\"\u001b[m);\u001b[51;17H\u001b[38;5;130mreturn\u001b[m;\u001b[52;9H}\u001b[54;9HSDL_GL_SwapWindow(this-\u003ewindow_handle);\r\n}\r\n\r\n\u001b[32mvoid\u001b[m window_set_clear_color(window* this, \u001b[32mfloat\u001b[m r, \u001b[32mfloat\u001b[m g, \u001b[32mfloat\u001b[m b, \u001b[32mfloat\u001b[m a) {\u001b[58;209H276,1\u001b[9C91%\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.258974,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[2;1H\u001b[32mvoid\u001b[m window_set_clear_color(window* this, \u001b[32mfloat\u001b[m r, \u001b[32mfloat\u001b[m g, \u001b[32mfloat\u001b[m b, \u001b[32mfloat\u001b[m a) {\u001b[3;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[4;17Hdebug_warning(\u001b[31m\"[window_set_clear_color] this cannot be NULL\"\u001b[m);\u001b[5;17H\u001b[38;5;130mreturn\u001b[m;\u001b[6;9H}\u001b[8;9HglClearColor(r, g, b, a);\r\n}\r\n\r\n\u001b[32mvoid\u001b[m window_set_blend_mode(window* this, window_blend bm) {\u001b[12;9H\u001b[38;5;130mif\u001b[m (this == \u001b[31mNULL\u001b[m) {\u001b[13;17Hdebug_warning(\u001b[31m\"[window_set_blend_mode] this cannot be NULL\"\u001b[m);\u001b[14;17H\u001b[38;5;130mreturn\u001b[m;\u001b[15;9H}\u001b[17;9H\u001b[38;5;130mswitch\u001b[m (bm) {\u001b[18;9H\u001b[38;5;130mcase\u001b[m WINDOW_BLEND_ADD:\u001b[19;17HglBlendFuncSeparate(GL_SRC_ALPHA, GL_ONE, GL_ONE, GL_ZERO);\u001b[20;17H\u001b[38;5;130mbreak\u001b[m;\u001b[21;9H\u001b[38;5;130mcase\u001b[m WINDOW_BLEND_ALPHA:\u001b[22;17HglBlendFuncSeparate(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA, GL_ONE, GL_ZERO);\u001b[23;17H\u001b[38;5;130mbreak\u001b[m;\u001b[24;9H\u001b[38;5;130mcase\u001b[m WINDOW_BLEND_DISABLED:\u001b[25;17HglBlendFuncSeparate(GL_ONE, GL_ZERO, GL_ONE, GL_ZERO);\u001b[26;17H\u001b[38;5;130mbreak\u001b[m;\u001b[27;9H}\r\n}\r\n\u001b[94m~                                                                                                                                                                                                                                 \u001b[30;1H~                                                                                                                                                                                                                                 \u001b[31;1H~                                                                                                                                                                                                                                 \u001b[32;1H~                                                                                                                                                                                                                                 \u001b[33;1H~                                                          "
+    ],
+    [
+      0.000117,
+      "                                                                                                                                                                       \u001b[34;1H~                                                                                                                                                                                                                                 \u001b[35;1H~                                                                                                                                                                                                                                 \u001b[36;1H~                                                                                                                                                                                                                                 \u001b[37;1H~                                                                                                                                                                                                                                 \u001b[38;1H~                                                                                                                                                                                                                                 \u001b[39;1H~                                                                                                                                                                                                                                 \u001b[40;1H~                                                                                                                                                                                                                                 \u001b[41;1H~                                                                                                                                                                                                                                 "
+    ],
+    [
+      0.000045,
+      "\u001b[42;1H~                                                                                                                                                                                                                                 \u001b[43;1H~                                                                                                                                                                                                                                 \u001b[44;1H~                                                                                                                                                                                                                                 \u001b[45;1H~                                                                                                                                                                                                                                 \u001b[46;1H~                                                                                                                                                                                                                                 \u001b[47;1H~                                                                                                                                                                                                                                 \u001b[48;1H~                                                                                                                                                                                                                                 \u001b[49;1H~                                                                                                                                                                                                                                 \u001b[50;1H~                                                                                                                                                                               "
+    ],
+    [
+      0.000039,
+      "                                                  \u001b[51;1H~                                                                                                                                                                                                                                 \u001b[52;1H~                                                                                                                                                                                                                                 \u001b[53;1H~                                                                                                                                                                                                                                 \u001b[54;1H~                                                                                                                                                                                                                                 \u001b[55;1H~                                                                                                                                                                                                                                 \u001b[56;1H~                                                                                                                                                                                                                                 \u001b[57;1H~                                                                                                                                                                                                                                 \u001b[m\u001b[58;209H331,0-1\u001b[7CBot\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.225205,
+      "\u001b[?25l\u001b[1;57r\u001b[1;1H\u001b[27M\u001b[1;58r\u001b[31;1H\u001b[94m~                                                                                                                                                                                                                                 \u001b[32;1H~                                                                                                                                                                                                                                 \u001b[33;1H~                                                                                                                                                                                                                                 \u001b[34;1H~                                                                                                                                                                                                                                 \u001b[35;1H~                                                                                                                                                                                                                                 \u001b[36;1H~                                                                                                                                                                                                                                 \u001b[37;1H~                                                                                                                                                                                                                                 \u001b[38;1H~                                                                                                                                                                                                                                 \u001b[39;1H~                                                                                                                                           "
+    ],
+    [
+      0.000057,
+      "                                                                                      \u001b[40;1H~                                                                                                                                                                                                                                 \u001b[41;1H~                                                                                                                                                                                                                                 \u001b[42;1H~                                                                                                                                                                                                                                 \u001b[43;1H~                                                                                                                                                                                                                                 \u001b[44;1H~                                                                                                                                                                                                                                 \u001b[45;1H~                                                                                                                                                                                                                                 \u001b[46;1H~                                                                                                                                                                                                                                 \u001b[47;1H~                                                                                                                                                                                                                                 \u001b[48;1H~                                                                                         "
+    ],
+    [
+      0.000066,
+      "                                                                                                                                        \u001b[49;1H~                                                                                                                                                                                                                                 \u001b[50;1H~                                                                                                                                                                                                                                 \u001b[51;1H~                                                                                                                                                                                                                                 \u001b[52;1H~                                                                                                                                                                                                                                 \u001b[53;1H~                                                                                                                                                                                                                                 \u001b[54;1H~                                                                                                                                                                                                                                 \u001b[55;1H~                                                                                                                                                                                                                                 \u001b[56;1H~                                                                                                                                                                                                                                 \u001b[57;1H~                                       "
+    ],
+    [
+      0.000017,
+      "                                                                                                                                                                                          \u001b[m\u001b[58;209H\u001b[K\u001b[58;209H358,1\u001b[9CBot\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.847884,
+      "\u001b[?25l\u001b[58;1H\u001b[1m-- INSERT --\u001b[m\u001b[58;209H\u001b[K\u001b[58;209H359,1\u001b[9CBot"
+    ],
+    [
+      0.001085,
+      "\u001b[2;1H\u001b[K\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063599,
+      "\u001b[?25l\u001b[3;1H\u001b[K\u001b[58;210H60\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.536103,
+      "\u001b[?25lO\u001b[58;213H2\u001b[3;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087865,
+      "\u001b[?25lK\u001b[58;213H3\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079988,
+      "\u001b[?25lK\u001b[58;213H4\u001b[3;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079315,
+      "\u001b[?25lA\u001b[58;213H5\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047978,
+      "\u001b[?25lY\u001b[58;213H6\u001b[3;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.384862,
+      "\u001b[?25l\u001b[3;5H\u001b[K\u001b[58;213H5\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135920,
+      "\u001b[?25l\u001b[3;4H\u001b[K\u001b[58;213H4\u001b[3;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111935,
+      "\u001b[?25l\u001b[3;3H\u001b[K\u001b[58;213H3\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.976147,
+      "\u001b[58;1H\u001b[K\u001b[3;2H"
+    ],
+    [
+      0.199703,
+      "\u001b[?25l\u001b[58;209H360,2\u001b[9CBot\u001b[3;2H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[58;1H\u001b[1m-- INSERT --\u001b[m\u001b[58;209H\u001b[K\u001b[58;209H360,3\u001b[9CBot\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.263486,
+      "\u001b[?25l\u001b[3;2H\u001b[K\u001b[58;213H2\u001b[3;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151756,
+      "\u001b[?25l\u001b[3;1H\u001b[K\u001b[58;213H1\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144935,
+      "\u001b[?25l\u001b[94m~                                                                                                                                                                                                                                 \u001b[m\u001b[58;210H59\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.919985,
+      "\u001b[?25l\u001b[3;1H\u001b[K\u001b[58;210H60\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.960246,
+      "\u001b[?25lO\u001b[58;213H2\u001b[3;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047813,
+      "\u001b[?25lK\u001b[58;213H3\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.039968,
+      "\u001b[?25lA\u001b[58;213H4\u001b[3;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055981,
+      "\u001b[?25lY\u001b[58;213H5\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104034,
+      "\u001b[?25l\u001b[30m\u001b[103m \u001b[m\u001b[58;213H6\u001b[3;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128113,
+      "\u001b[?25l\u0008 I\u001b[58;213H7\u001b[3;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103895,
+      "\u001b[?25lT\u001b[58;213H8\u001b[3;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096004,
+      "\u001b[?25l\u001b[30m\u001b[103m \u001b[m\u001b[58;213H9\u001b[3;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167184,
+      "\u001b[?25l\u0008 B\u001b[58;213H10\u001b[3;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208899,
+      "\u001b[?25lR\u001b[58;214H1\u001b[3;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.071923,
+      "\u001b[?25lO\u001b[58;214H2\u001b[3;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055968,
+      "\u001b[?25lK\u001b[58;214H3\u001b[3;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088084,
+      "\u001b[?25lE\u001b[58;214H4\u001b[3;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120012,
+      "\u001b[?25l\u001b[30m\u001b[103m \u001b[m\u001b[58;214H5\u001b[3;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.264039,
+      "\u001b[?25l\u0008 M\u001b[58;214H6\u001b[3;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.303962,
+      "\u001b[?25lY\u001b[58;214H7\u001b[3;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096042,
+      "\u001b[?25l\u001b[30m\u001b[103m \u001b[m\u001b[58;214H8\u001b[3;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119992,
+      "\u001b[?25l\u0008 T\u001b[58;214H9\u001b[3;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143937,
+      "\u001b[?25lE\u001b[58;213H20\u001b[3;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047008,
+      "\u001b[?25lR\u001b[58;214H1\u001b[3;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079936,
+      "\u001b[?25lM\u001b[58;214H2\u001b[3;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135991,
+      "\u001b[?25lI\u001b[58;214H3\u001b[3;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079993,
+      "\u001b[?25lN\u001b[58;214H4\u001b[3;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081050,
+      "\u001b[?25lA\u001b[58;214H5\u001b[3;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095810,
+      "\u001b[?25lL\u001b[58;214H6\u001b[3;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.232487,
+      "\u001b[?25l\u001b[4;1H\u001b[K\u001b[58;211H1,1 \u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.303531,
+      "\u001b[?25lW\u001b[58;213H2\u001b[4;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055938,
+      "\u001b[?25lO\u001b[58;213H3\u001b[4;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080255,
+      "\u001b[?25lW\u001b[58;213H4\u001b[4;4H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.367931,
+      "\u001b[58;1H\u001b[K\u001b[4;3H"
+    ],
+    [
+      0.150980,
+      "\u001b[?25l\u001b[58;209H361,3\u001b[9CBot\u001b[4;3H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[58;209H\u001b[K\u001b[58;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103876,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208120,
+      "!\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.131617,
+      "\r\u001b[?25l\u001b[58;1H\u001b[K\u001b[58;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000973,
+      "\u001b]0;metredigm@localhost:~/projects/hunter/source\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:source \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.283406,
+      "c"
+    ],
+    [
+      0.128105,
+      "l"
+    ],
+    [
+      0.071914,
+      "e"
+    ],
+    [
+      0.128012,
+      "a"
+    ],
+    [
+      0.072014,
+      "r"
+    ],
+    [
+      0.080512,
+      "\r\n"
+    ],
+    [
+      0.001794,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.001139,
+      "\u001b]0;metredigm@localhost:~/projects/hunter/source\u0007\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:source \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      0.828632,
+      "a"
+    ],
+    [
+      0.015895,
+      "s"
+    ],
+    [
+      0.056008,
+      "c"
+    ],
+    [
+      0.119985,
+      "i"
+    ],
+    [
+      0.104005,
+      "i"
+    ],
+    [
+      0.871934,
+      "n"
+    ],
+    [
+      0.263922,
+      "e"
+    ],
+    [
+      0.088154,
+      "m"
+    ],
+    [
+      0.071998,
+      "a"
+    ],
+    [
+      0.104002,
+      " "
+    ],
+    [
+      0.079934,
+      "s"
+    ],
+    [
+      0.080121,
+      "t"
+    ],
+    [
+      0.031715,
+      "o"
+    ],
+    [
+      0.039956,
+      "p"
+    ],
+    [
+      0.208729,
+      "\r\n"
+    ],
+    [
+      0.004058,
+      "Usage:\r\n  asciinema rec [-c \u003ccommand\u003e] [-t \u003ctitle\u003e] [-w \u003csec\u003e] [-y] [\u003cfilename\u003e]\r\n  asciinema play \u003cfilename\u003e\r\n  asciinema upload \u003cfilename\u003e\r\n  asciinema auth\r\n  asciinema -h | --help\r\n  asciinema --version\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b]0;metredigm@localhost:~/projects/hunter/source\u0007"
+    ],
+    [
+      0.000576,
+      "\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:source \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0m"
+    ],
+    [
+      13.195315,
+      "\r\u001b[K\u001b[00;34mmetredigm\u001b[0m\u001b[00;37m:source \u001b[0m\u001b[00;36m$\u001b[0m\u001b[00;37m \u001b[0mexit\r\n"
+    ]
+  ]
+}
