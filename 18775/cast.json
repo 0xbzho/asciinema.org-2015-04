@@ -1,0 +1,1118 @@
+{
+  "version": 1,
+  "width": 99,
+  "height": 28,
+  "duration": 108.976591,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.025099,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      0.487301,
+      "t"
+    ],
+    [
+      0.000012,
+      "mux"
+    ],
+    [
+      0.450803,
+      "\r\n"
+    ],
+    [
+      0.014485,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[1] 0:bash*                                                                \"7.local\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[28;1H\u001b[1;28r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.936927,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:bash*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006443,
+      "\u001b[1;27rWelcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[39m for instructions on how to use fish\u001b[1;28r\u001b[H\u001b[2B"
+    ],
+    [
+      0.050073,
+      "\u001b[1;27r\u001b[H\u001b[2B\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[3;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K\u001b[1;28r\u001b[H\u001b[3;29H"
+    ],
+    [
+      0.004575,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[3;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.195821,
+      "\u001b[1;27r\u001b[H\u001b[3;29Ht\u001b[1;28r\u001b[H\u001b[3;30H"
+    ],
+    [
+      0.000370,
+      "\u001b[1;27r\u001b[H\u001b[3;29H\u001b[31m\u001b[1mt\u001b[1;28r\u001b[H\u001b[3;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.009307,
+      "\u001b[1;27r\u001b[H\u001b[3;30Hr\u001b[33mee build/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.222257,
+      "\u001b[1;27r\u001b[H\u001b[3;30H\u001b[31m\u001b[1mr\u001b(B\u001b[me\u001b[33me build/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.000559,
+      "\u001b[1;27r\u001b[H\u001b[3;29H\u001b[35mtr\u001b[39me\u001b[33me build/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.247170,
+      "\u001b[1;27r\u001b[H\u001b[3;31H\u001b[35me\u001b[39me\u001b[33m build/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.000379,
+      "\u001b[1;27r\u001b[H\u001b[3;29H\u001b[31m\u001b[1mtre\u001b(B\u001b[me\u001b[33m build/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.231836,
+      "\u001b[1;27r\u001b[H\u001b[3;32H\u001b[31m\u001b[1me\u001b(B\u001b[m \u001b[33mbuild/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.000389,
+      "\u001b[1;27r\u001b[H\u001b[3;29H\u001b[35mtree\u001b[39m \u001b[33mbuild/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.002295,
+      "\u001b[?25l\u001b[HWelcome to fish, the friendly interactive shell\u001b[K\r\nType \u001b[32mhelp\u001b[39m for instructions on how to use fish\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mtree\u001b[39m \u001b[33mbuild/bdist.macosx-10.8-x86_64/egg\u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[3;33H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.276648,
+      "\u001b[1;27r\u001b[H\u001b[3;33H\u001b[35m.\u001b(B\u001b[m\u001b[K\u001b[1;28r\u001b[H\u001b[3;34H"
+    ],
+    [
+      0.000326,
+      "\u001b[1;27r\u001b[H\u001b[3;29H\u001b[31m\u001b[1mtree.\u001b[1;28r\u001b[H\u001b[3;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.872026,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.000370,
+      "\u001b[1;27r\u001b[H\u001b[3;29H\u001b[35mtree\u001b[1;28r\u001b[H\u001b[3;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.095452,
+      "\u001b[1;27r\u001b[H\u001b[3;33H\u001b[35m \u001b[1;28r\u001b[H\u001b[3;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.000252,
+      "\u001b[1;27r\u001b[H\u001b[3;33H \u001b[1;28r\u001b[H\u001b[3;34H"
+    ],
+    [
+      0.001408,
+      "\u001b[1;27r\u001b[H\u001b[3;34Hb\u001b[33muild/bdist.macosx-10.8-x86_64/egg\u001b[1;28r\u001b[H\u001b[3;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.150757,
+      "\u001b[1;27r\u001b[H\u001b[3;34H.\u001b[K\u001b[1;28r\u001b[H\u001b[3;35H"
+    ],
+    [
+      0.000254,
+      "\u001b[1;27r\u001b[H\u001b[3;34H\u001b[36m\u001b[4m.\u001b[1;28r\u001b[H\u001b[3;35H\u001b(B\u001b[m"
+    ],
+    [
+      0.591579,
+      "\r\n"
+    ],
+    [
+      0.000794,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:fish*                                                 \"tree  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010390,
+      "\u001b[1;27r\u001b[H\u001b[3B\u001b[34m\u001b[1m.\r\n\u001b(B\u001b[m└── api.yml\u001b[7;1H0 directories, 1 file\u001b[1;28r\u001b[H\u001b[7B"
+    ],
+    [
+      0.011206,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[8;1H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[7B\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[8;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K"
+    ],
+    [
+      0.000016,
+      "\u001b[1;28r\u001b[H\u001b[8;29H"
+    ],
+    [
+      5.679642,
+      "\u001b[1;27r\u001b[H\u001b[8;29Hless api.yml\u001b[1;28r\u001b[H\u001b[8;41H"
+    ],
+    [
+      0.000437,
+      "\u001b[1;27r\u001b[H\u001b[8;29H\u001b[35mless\u001b[39m \u001b[36m\u001b[4mapi.yml\u001b[1;28r\u001b[H\u001b[8;41H\u001b(B\u001b[m"
+    ],
+    [
+      0.529613,
+      "\r\n"
+    ],
+    [
+      0.000759,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:fish*                                                 \"less  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[9;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011723,
+      "\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[9d\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.000726,
+      "\u001b[1;27r\u001b[H\u001b[8B# this is an example of the Uber API\r\n# as a demonstration of an API spec in YAML\r\nswagger: '2.0'\r\ninfo:\r\n  title: Uber API\r\n  description: Move your app forward with the Uber API\r\n  version: \"1.0.0\"\r\n# the domain of the service\r\nhost: api.uber.com\r\n# array of all schemes that your API supports\r\nschemes:\r\n  - https\r\n# will be prefixed to all paths\r\nbasePath: /v1\r\nproduces:\r\n  - application/json\r\npaths:\r\n  /products:\r\n    get:\r\n      summary: Product Types\r\n      description: |\r\n        The Products endpoint returns information about the *Uber* products\r\n        offered at a given location. The response includes the display name\r\n        and other details about each product, and lists the products in the\r\n        proper display order.\r\n      parameters:\r\n\u001b[7mapi.yml \u001b(B\u001b[m\u001b[K\u001b[1;28r\u001b[H\u001b[27;9H"
+    ],
+    [
+      0.374112,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:less*                                                 \"less  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.596381,
+      "\r\u001b[K"
+    ],
+    [
+      0.000549,
+      "\u001b[1;27r\u001b[H\u001b[27d        - name: latitude\r\n          in: query\r\n          description: Latitude component of location.\r\n          required: true\r\n          type: number\r\n          format: double\r\n        - name: longitude\r\n          in: query\r\n          description: Longitude component of location.\r\n          required: true\r\n          type: number\r\n          format: double\r\n      tags:\r\n        - Products\r\n      responses:\r\n        200:\r\n          description: An array of products\r\n          schema:\r\n            type: array\r\n            items:\r\n              $ref: '#/definitions/Product'\r\n        default:\r\n          description: Unexpected error\r\n          schema:\r\n            $ref: '#/definitions/Error'\r\n  /estimates/price:\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.671247,
+      "\r\u001b[K"
+    ],
+    [
+      0.000819,
+      "\u001b[1;27r\u001b[H\u001b[27d    get:\r\n      summary: Price Estimates\r\n      description: |\r\n        The Price Estimates endpoint returns an estimated price range\r\n        for each product offered at a given location. The price estimate is\r\n        provided as a formatted string with the full price range and the localized\r\n        currency symbol.\u003cbr\u003e\u003cbr\u003eThe response also includes low and high estimates,\r\n        and the [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) currency code for\r\n        situations requiring currency conversion. When surge is active for a particular\r\n        product, its surge_multiplier will be greater than 1, but the price estimate\r\n        already factors in this multiplier.\r\n      parameters:\r\n        - name: start_latitude\r\n          in: query\r\n          description: Latitude component of start location.\r\n          required: true\r\n          type: number\r\n          format: double\r\n        - name: start_longitude\r\n          in: query\r\n          description: Longitude component of start location"
+    ],
+    [
+      0.000020,
+      ".\r\n          re\u001b[1;28r\u001b[H\u001b[27;13H\u001b[1;27r\u001b[H\u001b[27;13Hquired: true\r\n          type: number\r\n          format: double\r\n        - name: end_latitude\r\n          in: query\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.406701,
+      "\r\u001b[K"
+    ],
+    [
+      0.000265,
+      "\u001b[1;27r\u001b[H\u001b[27d          description: Latitude component of end location.\r\n          required: true\r\n          type: number\r\n          format: double\r\n        - name: end_longitude\r\n          in: query\r\n          description: Longitude component of end location.\r\n          required: true\r\n          type: number\r\n          format: double\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.002019,
+      "\u001b[?25l\u001b[H          description: Latitude component of end location.\u001b[K\r\n          required: true\u001b[K\r\n          type: number\u001b[K\r\n          format: double\u001b[K\r\n        - name: end_longitude\u001b[K\r\n          in: query\u001b[K\r\n          description: Longitude component of end location.\u001b[K\r\n          required: true\u001b[K\r\n          type: number\u001b[K\r\n          format: double\u001b[K\r\n      tags:\u001b[K\r\n        - Estimates\u001b[K\r\n      responses:\u001b[K\r\n        200:\u001b[K\r\n          description: An array of price estimates by product\u001b[K\r\n          schema:\u001b[K\r\n            type: array\u001b[K\r\n            items:\u001b[K\r\n              $ref: '#/definitions/PriceEstimate'\u001b[K\r\n        default:\u001b[K\r\n          description: Unexpected error\u001b[K\r\n          schema:\u001b[K\r\n            $ref: '#/definitions/Error'\u001b[K\r\n  /estimates/time:\u001b[K\r\n    get:\u001b[K\r\n      summary: Time Estimates\u001b[K\r\n:\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.422230,
+      "\r\u001b[K"
+    ],
+    [
+      0.000879,
+      "\u001b[1;27r\u001b[H\u001b[27d      description: The Time Estimates endpoint returns ETAs for all products offered at a given location, with the responses expressed as integers in seconds. We recommend that this endpoint be called every minute to provide the most accurate, up-to-date ETAs.\r\n      parameters:\r\n        - name: start_latitude\r\n          in: query\r\n          description: Latitude component of start location.\r\n          required: true\r\n          type: number\r\n          format: double\r\n        - name: start_longitude\r\n          in: query\r\n          description: Longitude component of start location.\r\n          required: true\r\n          type: number\r\n          format: double\r\n        - name: customer_uuid\r\n          in: query\r\n          type: string\r\n          format: uuid\r\n          description: Unique customer identifier to be used for experience customization.\r\n        - name: product_id\r\n          in: query\r\n          type: string\r\n          description: Unique identifier representing a specific product for a "
+    ],
+    [
+      0.000024,
+      "given latitude \u001b[1;28r\u001b[H\u001b[27;95H\u001b[1;27r\u001b[H\u001b[27;95H\u0026 longitude.\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.527085,
+      "\r\u001b[K"
+    ],
+    [
+      0.000608,
+      "\u001b[1;27r\u001b[H\u001b[27d      tags:\r\n        - Estimates\r\n      responses:\r\n        200:\r\n          description: An array of products\r\n          schema:\r\n            type: array\r\n            items:\r\n              $ref: '#/definitions/Product'\r\n        default:\r\n          description: Unexpected error\r\n          schema:\r\n            $ref: '#/definitions/Error'\r\n  /me:\r\n    get:\r\n      summary: User Profile\r\n      description: The User Profile endpoint returns information about the Uber user that has authorized with the application.\r\n      tags:\r\n        - User\r\n      responses:\r\n        200:\r\n          description: Profile information for a user\r\n          schema:\r\n            $ref: '#/definitions/Profile'\r\n        default:\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.486785,
+      "\r\u001b[K"
+    ],
+    [
+      0.000753,
+      "\u001b[1;27r\u001b[H\u001b[27d          description: Unexpected error\r\n          schema:\r\n            $ref: '#/definitions/Error'\r\n  /history:\r\n    get:\r\n      summary: User Activity\r\n      description: The User Activity endpoint returns data about a user's lifetime activity with Uber. The response will include pickup locations and times, dropoff locations and times, the distance of past requests, and information about which products were requested.\u003cbr\u003e\u003cbr\u003eThe history array in the response will have a maximum length based on the limit parameter. The response value count may exceed limit, therefore subsequent API requests may be necessary.\r\n      parameters:\r\n        - name: offset\r\n          in: query\r\n          type: integer\r\n          format: int32\r\n          description: Offset the list of returned results by this amount. Default is zero.\r\n        - name: limit\r\n          in: query\r\n          type: integer\r\n          format: int32\r\n          description: Number of items to retrieve. Default is 5, maximum is 100.\r\n      t"
+    ],
+    [
+      0.000009,
+      "ags:\r\n        -\u001b[1;28r\u001b[H\u001b[27;10H\u001b[1;27r\u001b[H\u001b[27;10H User\r\n      responses:\r\n        200:\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.431745,
+      "\r\u001b[K"
+    ],
+    [
+      0.000719,
+      "\u001b[1;27r\u001b[H\u001b[27d          description: History information for the given user\r\n          schema:\r\n            $ref: '#/definitions/Activities'\r\n        default:\r\n          description: Unexpected error\r\n          schema:\r\n            $ref: '#/definitions/Error'\r\ndefinitions:\r\n  Product:\r\n    properties:\r\n      product_id:\r\n        type: string\r\n        description: Unique identifier representing a specific product for a given latitude \u0026 longitude. For example, uberX in San Francisco will have a different product_id than uberX in Los Angeles.\r\n      description:\r\n        type: string\r\n        description: Description of product.\r\n      display_name:\r\n        type: string\r\n        description: Display name of product.\r\n      capacity:\r\n        type: string\r\n        description: Capacity of product. For example, 4 people.\r\n      image:\r\n        type: string\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.343505,
+      "\r\u001b[K"
+    ],
+    [
+      0.000956,
+      "\u001b[1;27r\u001b[H\u001b[27d        description: Image URL representing the product.\r\n  PriceEstimate:\r\n    properties:\r\n      product_id:\r\n        type: string\r\n        description: Unique identifier representing a specific product for a given latitude \u0026 longitude. For example, uberX in San Francisco will have a different product_id than uberX in Los Angeles\r\n      currency_code:\r\n        type: string\r\n        description: \"[ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) currency code.\"\r\n      display_name:\r\n        type: string\r\n        description: Display name of product.\r\n      estimate:\r\n        type: string\r\n        description: Formatted string of estimate in local currency of the start location. Estimate could be a range, a single number (flat rate) or \"Metered\" for TAXI.\r\n      low_estimate:\r\n        type: number\r\n        description: Lower bound of the estimated price.\r\n      high_estimate:\r\n        type: number\r\n        description: Upper bound of the estimated price.\r\n      surge_multiplier:\r\n        type: "
+    ],
+    [
+      0.000014,
+      "number\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.198880,
+      "\r\u001b[K"
+    ],
+    [
+      0.000342,
+      "\u001b[1;27r\u001b[H\u001b[27d        description: Expected surge multiplier. Surge is active if surge_multiplier is greater than 1. Price estimate already factors in the surge multiplier.\r\n  Profile:\r\n    properties:\r\n      first_name:\r\n        type: string\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.002364,
+      "\u001b[?25l\u001b[H        description: \"[ISO 4217](http://en.wikipedia.org/wiki/ISO_4217) currency code.\"\u001b[K\r\n      display_name:\u001b[K\r\n        type: string\u001b[K\r\n        description: Display name of product.\u001b[K\r\n      estimate:\u001b[K\r\n        type: string\u001b[K\r\n        description: Formatted string of estimate in local currency of the start location. Estimate could be a range, a single number (flat rate) or \"Metered\" for TAXI.\u001b[K\r\n      low_estimate:\u001b[K\r\n        type: number\u001b[K\r\n        description: Lower bound of the estimated price.\u001b[K\r\n      high_estimate:\u001b[K\r\n        type: number\u001b[K\r\n        description: Upper bound of the estimated price.\u001b[K\r\n      surge_multiplier:\u001b[K\r\n        type: number\u001b[K\r\n        description: Expected surge multiplier. Surge is active if surge_multiplier is greater than 1. Price estimate already factors in the surge multiplier.\u001b[K\r\n  Profile:\u001b[K\r\n    properties:\u001b[K\r\n      first_name:\u001b[K\r\n        type: string\u001b[K\r\n        description: First name of the Uber user.\u001b[K\r\n      last_name:\u001b[K\r\n        type"
+    ],
+    [
+      0.000013,
+      ": string\u001b[K\r\n        description: Last name of the Uber user.\u001b[K\r\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002479,
+      "\u001b[1;27r\u001b[H\u001b[27d      email:\r\n        type: string\r\n        description: Email address of the Uber user\r\n      picture:\r\n        type: string\r\n        description: Image URL of the Uber user.\r\n      promo_code:\r\n        type: string\r\n        description: Promo code of the Uber user.\r\n  Activity:\r\n    properties:\r\n      uuid:\r\n        type: string\r\n        description: Unique identifier for the activity\r\n  Activities:\r\n    properties:\r\n:\u001b[K\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      0.226271,
+      "\r\u001b[K"
+    ],
+    [
+      0.000352,
+      "\u001b[1;27r\u001b[H\u001b[27d      offset:\r\n        type: integer\r\n        format: int32\r\n        description: Position in pagination.\r\n      limit:\r\n        type: integer\r\n        format: int32\r\n        description: Number of items to retrieve (100 max).\r\n      count:\r\n        type: integer\r\n        format: int32\r\n        description: Total number of items available.\r\n      history:\r\n        type: array\r\n        items:\r\n          $ref: '#/definitions/Activity'\r\n  Error:\r\n    properties:\r\n      code:\r\n        type: integer\r\n        format: int32\r\n      message:\r\n        type: string\r\n      fields:\r\n        type: string\r\n\n\u001b[7m(END) \u001b(B\u001b[m\u001b[K\u001b[1;28r\u001b[H\u001b[27;7H"
+    ],
+    [
+      0.416189,
+      "\r\u001b[K"
+    ],
+    [
+      0.000493,
+      "\u001b[K\u001b[1;27r\u001b[H\u001b[27d\u001b[7m(END) \u001b(B\u001b[m\u001b[K\u0007\u001b[1;28r\u001b[H\u001b[27;7H"
+    ],
+    [
+      0.655734,
+      "\r\u001b[K\u001b[?25l\u001b[HWelcome to fish, the friendly interactive shell\u001b[K\r\nType \u001b[32mhelp\u001b[39m for instructions on how to use fish\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mtree\u001b[39m \u001b[36m\u001b[4m.\u001b(B\u001b[m\u001b[K\r\n\u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n└── api.yml\u001b[K\r\n\u001b[K\r\n0 directories, 1 file\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mless\u001b[39m \u001b[36m\u001b[4mapi.yml\u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[9d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.013410,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:less*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[9;1H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[8B\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[9;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[1;28r\u001b[H\u001b[9;29H"
+    ],
+    [
+      0.100095,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[9;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.350379,
+      "\u001b[1;27r\u001b[H\u001b[9;29Hpip install Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[9;62H"
+    ],
+    [
+      0.000313,
+      "\u001b[1;27r\u001b[H\u001b[9;29H\u001b[35mpip\u001b[39m \u001b[36minstall\u001b[39m \u001b[36mFlask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[9;62H\u001b(B\u001b[m"
+    ],
+    [
+      0.000087,
+      "\u001b[1;27r\u001b[H\u001b[9;62H \u001b[33m-U\u001b[1;28r\u001b[H\u001b[9;62H\u001b(B\u001b[m"
+    ],
+    [
+      0.479804,
+      "\u001b[K\r\n"
+    ],
+    [
+      0.000790,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:fish*                                                 \"pip  /Users/rejown/Dev\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.172025,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:python*                                               \"pip  /Users/rejown/Dev\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.105658,
+      "\u001b[1;27r\u001b[H\u001b[9BRequirement already satisfied (use --upgrade to upgrade): Flask-Swagger-Codegen in ./.venv/lib/python2.7/site-packages\u001b[1;28r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000758,
+      "\u001b[1;27r\u001b[H\u001b[11BRequirement already satisfied (use --upgrade to upgrade): click in ./.venv/lib/python2.7/site-packages (from Flask-Swagger-Codegen)\u001b[1;28r\u001b[H\u001b[13B"
+    ],
+    [
+      0.000336,
+      "\u001b[1;27r\u001b[H\u001b[13BRequirement already satisfied (use --upgrade to upgrade): jinja2 in /usr/local/lib/python2.7/site-packages (from Flask-Swagger-Codegen)\u001b[1;28r\u001b[H\u001b[16d"
+    ],
+    [
+      0.000662,
+      "\u001b[1;27r\u001b[H\u001b[16dRequirement already satisfied (use --upgrade to upgrade): markupsafe in /usr/local/lib/python2.7/site-packages (from jinja2-\u003eFlask-Swagger-Codegen)\u001b[1;28r\u001b[H\u001b[18d"
+    ],
+    [
+      0.000304,
+      "\u001b[1;27r\u001b[H\u001b[18dCleaning up...\u001b[1;28r\u001b[H\u001b[19d"
+    ],
+    [
+      0.024944,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:python*                                               \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000100,
+      "\u001b[1;27r\u001b[H\u001b[19d\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[19;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K\u001b[1;28r\u001b[H\u001b[19;29H"
+    ],
+    [
+      0.368453,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[19;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      4.180432,
+      "\u001b[1;27r\u001b[H\u001b[19;29Hflask_swagger_codegen test-app -s api.yml\u001b[1;28r\u001b[H\u001b[19;70H"
+    ],
+    [
+      0.000259,
+      "\u001b[1;27r\u001b[H\u001b[19;70H \u001b[1;28r\u001b[H\u001b[19;70H"
+    ],
+    [
+      0.000343,
+      "\u001b[1;27r\u001b[H\u001b[19;29H\u001b[35mflask_swagger_codegen\u001b[39m \u001b[36mtest-app\u001b[39m \u001b[36m-s\u001b[39m \u001b[36m\u001b[4mapi.yml\u001b(B\u001b[m \u001b[1;28r\u001b[H\u001b[19;70H"
+    ],
+    [
+      2.440519,
+      "\u001b[K\r\n"
+    ],
+    [
+      0.001253,
+      "\u001b[?25l\u001b[28d\u001b[30m\u001b[42m[1] 0:fish*                                                 \"flask_swagger_codegen \" 16:16 16- 4-15\u001b(B\u001b[m\u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.302485,
+      "\u001b[1;27r\u001b[H\u001b[20d\u001b[93m\"test-app/test_app/v1/__init__.py\" generated.\u001b[1;28r\u001b[H\u001b[21d\u001b(B\u001b[m"
+    ],
+    [
+      0.001104,
+      "\u001b[1;27r\u001b[H\u001b[21d\u001b[93m\"test-app/requirements.txt\" generated.\u001b[1;28r\u001b[H\u001b[22d\u001b(B\u001b[m"
+    ],
+    [
+      0.002308,
+      "\u001b[1;27r\u001b[H\u001b[22d\u001b[93m\"test-app/test_app/__init__.py\" generated.\u001b[1;28r\u001b[H\u001b[23d\u001b(B\u001b[m"
+    ],
+    [
+      0.001130,
+      "\u001b[1;27r\u001b[H\u001b[23d\u001b[93m\"test-app/test_app/v1/api/__init__.py\" generated.\u001b[1;28r\u001b[H\u001b[24d\u001b(B\u001b[m"
+    ],
+    [
+      0.005950,
+      "\u001b[1;27r\u001b[H\u001b[24d\u001b[93m\"test-app/test_app/v1/filters.py\" generated.\u001b[1;28r\u001b[H\u001b[25d\u001b(B\u001b[m"
+    ],
+    [
+      0.006715,
+      "\u001b[1;27r\u001b[H\u001b[25d\u001b[93m\"test-app/test_app/v1/validators.py\" generated.\u001b[1;28r\u001b[H\u001b[26d\u001b(B\u001b[m"
+    ],
+    [
+      0.004218,
+      "\u001b[1;27r\u001b[H\u001b[26d\u001b[93m\"test-app/test_app/v1/routes.py\" generated.\u001b[1;28r\u001b[H\u001b[27d\u001b(B\u001b[m"
+    ],
+    [
+      0.004611,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[93m\"test-app/test_app/v1/schemas.py\" generated.\u001b(B\u001b[m\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.010050,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[93m\"test-app/test_app/v1/api/products.py\" generated.\u001b(B\u001b[m\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000385,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[93m\"test-app/test_app/v1/api/estimates.py\" generated.\u001b(B\u001b[m\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000284,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[93m\"test-app/test_app/v1/api/history.py\" generated.\u001b(B\u001b[m\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000305,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[93m\"test-app/test_app/v1/api/me.py\" generated.\u001b(B\u001b[m\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.020673,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000062,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[27;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K\u001b[1;28r\u001b[H\u001b[27;29H"
+    ],
+    [
+      4.049356,
+      "\u001b[1;27r\u001b[H\u001b[27;29Htree .\u001b[1;28r\u001b[H\u001b[27;35H"
+    ],
+    [
+      0.000305,
+      "\u001b[1;27r\u001b[H\u001b[27;29H\u001b[35mtree\u001b[39m \u001b[36m\u001b[4m.\u001b[1;28r\u001b[H\u001b[27;35H\u001b(B\u001b[m"
+    ],
+    [
+      0.397419,
+      "\u001b[1;27r\u001b[H\u001b[27d\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000807,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"tree  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009673,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[34m\u001b[1m.\u001b(B\u001b[m\r\n├── api.yml\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000043,
+      "\u001b[1;27r\u001b[H\u001b[27d└── \u001b[34m\u001b[1mtest-app\u001b(B\u001b[m\r\n    ├── requirements.txt\r\n    └── \u001b[34m\u001b[1mtest_app\u001b(B\u001b[m\r\n\u001b[1;28r\u001b[H\u001b[27d\u001b[1;27r\u001b[H\u001b[27d        ├── __init__.py\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000084,
+      "\u001b[1;27r\u001b[H\u001b[27d        └── \u001b[34m\u001b[1mv1\u001b(B\u001b[m\r\n            ├── __init__.py\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000179,
+      "\u001b[1;27r\u001b[H\u001b[27d            ├── \u001b[34m\u001b[1mapi\u001b(B\u001b[m\r\n            │   ├── __init__.py\r\n            │   ├── estimates.py\r\n            │   ├── history.py\r\n            │   ├── me.py\r\n            │   └── products.py\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000094,
+      "\u001b[1;27r\u001b[H\u001b[27d            ├── filters.py\r\n            ├── routes.py\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.002337,
+      "\u001b[?25l\u001b[H\u001b[93m\"test-app/test_app/v1/schemas.py\" generated.\u001b(B\u001b[m\u001b[K\r\n\u001b[93m\"test-app/test_app/v1/api/products.py\" generated.\u001b(B\u001b[m\u001b[K\r\n\u001b[93m\"test-app/test_app/v1/api/estimates.py\" generated.\u001b(B\u001b[m\u001b[K\r\n\u001b[93m\"test-app/test_app/v1/api/history.py\" generated.\u001b(B\u001b[m\u001b[K\r\n\u001b[93m\"test-app/test_app/v1/api/me.py\" generated.\u001b(B\u001b[m\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mtree\u001b[39m \u001b[36m\u001b[4m.\u001b(B\u001b[m\u001b[K\r\n\u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n├── api.yml\u001b[K\r\n└── \u001b[34m\u001b[1mtest-app\u001b(B\u001b[m\u001b[K\r\n    ├── requirements.txt\u001b[K\r\n    └── \u001b[34m\u001b[1mtest_app\u001b(B\u001b[m\u001b[K\r\n        ├── __init__.py\u001b[K\r\n        └── \u001b[34m\u001b[1mv1\u001b(B\u001b[m\u001b[K\r\n            ├── __init__.py\u001b[K\r\n            ├── \u001b[34m\u001b[1mapi\u001b(B\u001b[m\u001b[K\r\n            │   ├── __init__.py\u001b[K\r\n            │   ├── estimates.py\u001b[K\r\n            │   ├── history.py\u001b[K\r\n            │   ├── me.py\u001b[K\r\n            │   └── products.py\u001b[K\r\n            ├── filters.py\u001b[K\r\n            ├── routes.py\u001b[K\r\n"
+    ],
+    [
+      0.000031,
+      "            ├── schemas.py\u001b[K\r\n            └── validators.py\u001b[K\r\n\u001b[K\r\n4 directories, 13 files\u001b[K\r\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009280,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[27d\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[27;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[1;28r\u001b[H\u001b[27;29H"
+    ],
+    [
+      5.526655,
+      "\u001b[1;27r\u001b[H\u001b[27;29Hpython -m test_app.__init__\u001b[1;28r\u001b[H\u001b[27;56H"
+    ],
+    [
+      0.000393,
+      "\u001b[1;27r\u001b[H\u001b[27;29H\u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b[1;28r\u001b[H\u001b[27;56H\u001b(B\u001b[m"
+    ],
+    [
+      1.370216,
+      "\u001b[1;27r\u001b[H\u001b[27d\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000865,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"python  /Users/rejown/\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025009,
+      "\u001b[1;27r\u001b[H\u001b[27d/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named test_app\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.010934,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000131,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[27;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[K\u001b[1;28r\u001b[H\u001b[27;29H"
+    ],
+    [
+      7.845954,
+      "\u001b[1;27r\u001b[H\u001b[27;29H\u001b[31m\u001b[1mc\u001b[1;28r\u001b[H\u001b[27;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.000340,
+      "\u001b[1;27r\u001b[H\u001b[27;29H\u001b[31m\u001b[1mc\u001b[1;28r\u001b[H\u001b[27;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.001568,
+      "\u001b[1;27r\u001b[H\u001b[27;30Hd\u001b[33m ..\u001b[1;28r\u001b[H\u001b[27;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.190099,
+      "\u001b[1;27r\u001b[H\u001b[27;30H\u001b[31m\u001b[1md\u001b(B\u001b[m \u001b[33m..\u001b[1;28r\u001b[H\u001b[27;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.000174,
+      "\u001b[1;27r\u001b[H\u001b[27;29H\u001b[35mcd\u001b[39m \u001b[33m..\u001b[1;28r\u001b[H\u001b[27;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.527849,
+      "\u001b[1;27r\u001b[H\u001b[27;31H\u001b[35m \u001b[39m.\u001b[33m.\u001b[1;28r\u001b[H\u001b[27;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.000154,
+      "\u001b[1;27r\u001b[H\u001b[27;31H .\u001b[33m.\u001b[1;28r\u001b[H\u001b[27;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.351336,
+      "\u001b[1;27r\u001b[H\u001b[27;32Ht\u001b[K\u001b[1;28r\u001b[H\u001b[27;33H"
+    ],
+    [
+      0.000170,
+      "\u001b[1;27r\u001b[H\u001b[27;32H\u001b[36m\u001b[4mt\u001b[1;28r\u001b[H\u001b[27;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.000103,
+      "\u001b[1;27r\u001b[H\u001b[27;33He\u001b[33mst-app/\u001b[1;28r\u001b[H\u001b[27;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.080164,
+      "\u001b[1;27r\u001b[H\u001b[27;33H\u001b[36m\u001b[4me\u001b(B\u001b[ms\u001b[33mt-app/\u001b[1;28r\u001b[H\u001b[27;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.104150,
+      "\u001b[1;27r\u001b[H\u001b[27;34H\u001b[36m\u001b[4ms\u001b(B\u001b[mt\u001b[33m-app/\u001b[1;28r\u001b[H\u001b[27;35H\u001b(B\u001b[m"
+    ],
+    [
+      0.159844,
+      "\u001b[1;27r\u001b[H\u001b[27;35H\u001b[36m\u001b[4mt\u001b(B\u001b[m-\u001b[33mapp/\u001b[1;28r\u001b[H\u001b[27;36H\u001b(B\u001b[m"
+    ],
+    [
+      0.375990,
+      "\u001b[1;27r\u001b[H\u001b[27;36H\u001b[36m\u001b[4m-app/\u001b[1;28r\u001b[H\u001b[27;41H\u001b(B\u001b[m"
+    ],
+    [
+      0.263823,
+      "\u001b[1;27r\u001b[H\u001b[27d\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000878,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"cd  /Users/rejown/Deve\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016644,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[27d\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[27;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[1;28r\u001b[H\u001b[27;27H"
+    ],
+    [
+      3.595931,
+      "\u001b[1;27r\u001b[H\u001b[27;27Hpython -m test_app.__init__\u001b[1;28r\u001b[H\u001b[27;54H"
+    ],
+    [
+      0.000399,
+      "\u001b[1;27r\u001b[H\u001b[27;27H\u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b[1;28r\u001b[H\u001b[27;54H\u001b(B\u001b[m"
+    ],
+    [
+      1.074193,
+      "\u001b[1;27r\u001b[H\u001b[27d\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000801,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"python  /Users/rejown/\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078680,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:python*                                               \"python  /Users/rejown/\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136498,
+      "\u001b[1;27r\u001b[H\u001b[27d/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named marshmallow\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.020778,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:python*                                               \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[27d\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[27;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[1;28r\u001b[H\u001b[27;27H"
+    ],
+    [
+      0.343909,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:16 16- 4-15\u001b(B\u001b[m\u001b[27;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      4.763275,
+      "\u001b[1;27r\u001b[H\u001b[27;27H\u001b[31m\u001b[1mp\u001b[1;28r\u001b[H\u001b[27;28H\u001b(B\u001b[m"
+    ],
+    [
+      0.000357,
+      "\u001b[1;27r\u001b[H\u001b[27;28H\u001b[31m\u001b[1my\u001b[33mthon -m test_app.__init__\u001b[1;28r\u001b[H\u001b[27;28H\u001b(B\u001b[m"
+    ],
+    [
+      0.000328,
+      "\u001b[1;27r\u001b[H\u001b[27;27H\u001b[31m\u001b[1mp\u001b(B\u001b[my\u001b[33mthon -m test_app.__init__\u001b[1;28r\u001b[H\u001b[27;28H\u001b(B\u001b[m"
+    ],
+    [
+      0.103507,
+      "\u001b[1;27r\u001b[H\u001b[27;28H\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[K\u001b[1;28r\u001b[H\u001b[27;29H"
+    ],
+    [
+      0.000355,
+      "\u001b[1;27r\u001b[H\u001b[27;29Hp\u001b[33m install Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;29H\u001b(B\u001b[m"
+    ],
+    [
+      0.143571,
+      "\u001b[1;27r\u001b[H\u001b[27;29H\u001b[31m\u001b[1mp\u001b(B\u001b[m \u001b[33minstall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.000359,
+      "\u001b[1;27r\u001b[H\u001b[27;27H\u001b[35mpip\u001b[39m \u001b[33minstall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.002590,
+      "\u001b[?25l\u001b[H\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mtree\u001b[39m \u001b[36m\u001b[4m.\u001b(B\u001b[m\u001b[K\r\n\u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n├── api.yml\u001b[K\r\n└── \u001b[34m\u001b[1mtest-app\u001b(B\u001b[m\u001b[K\r\n    ├── requirements.txt\u001b[K\r\n    └── \u001b[34m\u001b[1mtest_app\u001b(B\u001b[m\u001b[K\r\n        ├── __init__.py\u001b[K\r\n        └── \u001b[34m\u001b[1mv1\u001b(B\u001b[m\u001b[K\r\n            ├── __init__.py\u001b[K\r\n            ├── \u001b[34m\u001b[1mapi\u001b(B\u001b[m\u001b[K\r\n            │   ├── __init__.py\u001b[K\r\n            │   ├── estimates.py\u001b[K\r\n            │   ├── history.py\u001b[K\r\n            │   ├── me.py\u001b[K\r\n            │   └── products.py\u001b[K\r\n            ├── filters.py\u001b[K\r\n            ├── routes.py\u001b[K\r\n            ├── schemas.py\u001b[K\r\n            └── validators.py\u001b[K\r\n\u001b[K\r\n4 directories, 13 files\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b(B\u001b[m\u001b[K\r\n/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named test_app\u001b["
+    ],
+    [
+      0.000021,
+      "K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[35mcd\u001b[39m \u001b[36m\u001b[4mtest-app/\u001b(B\u001b[m\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b(B\u001b[m\u001b[K\r\n/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named marshmallow\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[35mpip\u001b[39m \u001b[33minstall Flask-Swagger-Codegen\u001b(B\u001b[m\u001b[K\u001b[30G\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108762,
+      "\u001b[1;27r\u001b[H\u001b[27;30H\u001b[35m \u001b[39mi\u001b[33mnstall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.000280,
+      "\u001b[1;27r\u001b[H\u001b[27;30H i\u001b[33mnstall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.304123,
+      "\u001b[1;27r\u001b[H\u001b[27;32Hn\u001b[33mstall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.000268,
+      "\u001b[1;27r\u001b[H\u001b[27;31H\u001b[36mi\u001b[39mn\u001b[33mstall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.135498,
+      "\u001b[1;27r\u001b[H\u001b[27;32H\u001b[36mi\u001b(B\u001b[m\u001b[K\u001b[1;28r\u001b[H\u001b[27;33H"
+    ],
+    [
+      0.839475,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.216543,
+      "\u001b[1;27r\u001b[H\u001b[27;32H\u001b[36mi\u001b[1;28r\u001b[H\u001b[27;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.088017,
+      "\u001b[1;27r\u001b[H\u001b[27;33H\u001b[36mn\u001b[1;28r\u001b[H\u001b[27;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.120010,
+      "\u001b[1;27r\u001b[H\u001b[27;34H\u001b[36ms\u001b[1;28r\u001b[H\u001b[27;35H\u001b(B\u001b[m"
+    ],
+    [
+      0.103999,
+      "\u001b[1;27r\u001b[H\u001b[27;35H\u001b[36mt\u001b[1;28r\u001b[H\u001b[27;36H\u001b(B\u001b[m"
+    ],
+    [
+      0.088317,
+      "\u001b[1;27r\u001b[H\u001b[27;36H\u001b[36ma\u001b[1;28r\u001b[H\u001b[27;37H\u001b(B\u001b[m"
+    ],
+    [
+      0.063603,
+      "\u001b[1;27r\u001b[H\u001b[27;37H\u001b[36ml\u001b[1;28r\u001b[H\u001b[27;38H\u001b(B\u001b[m"
+    ],
+    [
+      0.271826,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135736,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152472,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151772,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159943,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135861,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.288415,
+      "\u001b[1;27r\u001b[H\u001b[27;32H\u001b[36mn\u001b[1;28r\u001b[H\u001b[27;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.000271,
+      "\u001b[1;27r\u001b[H\u001b[27;33Hs\u001b[33mtall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.128012,
+      "\u001b[1;27r\u001b[H\u001b[27;33H\u001b[36ms\u001b[39mt\u001b[33mall Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.175931,
+      "\u001b[1;27r\u001b[H\u001b[27;34H\u001b[36mt\u001b[39ma\u001b[33mll Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;35H\u001b(B\u001b[m"
+    ],
+    [
+      0.071797,
+      "\u001b[1;27r\u001b[H\u001b[27;35H\u001b[36ma\u001b[39ml\u001b[33ml Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;36H\u001b(B\u001b[m"
+    ],
+    [
+      0.088019,
+      "\u001b[1;27r\u001b[H\u001b[27;36H\u001b[36ml\u001b[39ml\u001b[33m Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;37H\u001b(B\u001b[m"
+    ],
+    [
+      0.159908,
+      "\u001b[1;27r\u001b[H\u001b[27;37H\u001b[36ml\u001b[39m \u001b[33mFlask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;38H\u001b(B\u001b[m"
+    ],
+    [
+      0.002578,
+      "\u001b[?25l\u001b[H\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mtree\u001b[39m \u001b[36m\u001b[4m.\u001b(B\u001b[m\u001b[K\r\n\u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n├── api.yml\u001b[K\r\n└── \u001b[34m\u001b[1mtest-app\u001b(B\u001b[m\u001b[K\r\n    ├── requirements.txt\u001b[K\r\n    └── \u001b[34m\u001b[1mtest_app\u001b(B\u001b[m\u001b[K\r\n        ├── __init__.py\u001b[K\r\n        └── \u001b[34m\u001b[1mv1\u001b(B\u001b[m\u001b[K\r\n            ├── __init__.py\u001b[K\r\n            ├── \u001b[34m\u001b[1mapi\u001b(B\u001b[m\u001b[K\r\n            │   ├── __init__.py\u001b[K\r\n            │   ├── estimates.py\u001b[K\r\n            │   ├── history.py\u001b[K\r\n            │   ├── me.py\u001b[K\r\n            │   └── products.py\u001b[K\r\n            ├── filters.py\u001b[K\r\n            ├── routes.py\u001b[K\r\n            ├── schemas.py\u001b[K\r\n            └── validators.py\u001b[K\r\n\u001b[K\r\n4 directories, 13 files\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b(B\u001b[m\u001b[K\r\n/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named test_app\u001b["
+    ],
+    [
+      0.000031,
+      "K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[35mcd\u001b[39m \u001b[36m\u001b[4mtest-app/\u001b(B\u001b[m\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b(B\u001b[m\u001b[K\r\n/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named marshmallow\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[35mpip\u001b[39m \u001b[36minstall\u001b[39m \u001b[33mFlask-Swagger-Codegen\u001b(B\u001b[m\u001b[K\u001b[22D\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.189494,
+      "\u001b[1;27r\u001b[H\u001b[27;38H\u001b[36m \u001b[39mF\u001b[33mlask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;39H\u001b(B\u001b[m"
+    ],
+    [
+      0.000210,
+      "\u001b[1;27r\u001b[H\u001b[27;38H F\u001b[33mlask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;39H\u001b(B\u001b[m"
+    ],
+    [
+      0.536525,
+      "\u001b[1;27r\u001b[H\u001b[27;40Hl\u001b[33mask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.000342,
+      "\u001b[1;27r\u001b[H\u001b[27;39H\u001b[36mF\u001b[39ml\u001b[33mask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.950650,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.560216,
+      "\u001b[1;27r\u001b[H\u001b[27;39Hr\u001b[1;28r\u001b[H\u001b[27;40H"
+    ],
+    [
+      0.000218,
+      "\u001b[1;27r\u001b[H\u001b[27;39H\u001b[36m\u001b[4mr\u001b[1;28r\u001b[H\u001b[27;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.001659,
+      "\u001b[1;27r\u001b[H\u001b[27;40He\u001b[33mquests --use-mirrors\u001b[1;28r\u001b[H\u001b[27;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.054156,
+      "\u001b[1;27r\u001b[H\u001b[27;40H\u001b[36m\u001b[4me\u001b(B\u001b[mq\u001b[33muests --use-mirrors\u001b[1;28r\u001b[H\u001b[27;41H\u001b(B\u001b[m"
+    ],
+    [
+      1.231777,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152112,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.599909,
+      "\u001b[1;27r\u001b[H\u001b[27;39H-\u001b[1;28r\u001b[H\u001b[27;40H"
+    ],
+    [
+      0.000330,
+      "\u001b[1;27r\u001b[H\u001b[27;40HU\u001b[33m Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\u001b[1;27r\u001b[H\u001b[27;39H\u001b[36m-\u001b[39mU\u001b[33m Flask-Swagger-Codegen\u001b[1;28r\u001b[H\u001b[27;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.143604,
+      "\u001b[1;27r\u001b[H\u001b[27;40H\u001b[36mr\u001b(B\u001b[m\u001b[K\u001b[1;28r\u001b[H\u001b[27;41H"
+    ],
+    [
+      0.000484,
+      "\u001b[1;27r\u001b[H\u001b[27;41H \u001b[33mrequirements.txt\u001b[1;28r\u001b[H\u001b[27;41H\u001b(B\u001b[m"
+    ],
+    [
+      0.135297,
+      "\u001b[1;27r\u001b[H\u001b[27;41H\u001b[36m \u001b[39mr\u001b[33mequirements.txt\u001b[1;28r\u001b[H\u001b[27;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.000254,
+      "\u001b[1;27r\u001b[H\u001b[27;41H r\u001b[33mequirements.txt\u001b[1;28r\u001b[H\u001b[27;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.735759,
+      "\u001b[1;27r\u001b[H\u001b[27;43Hequirements.txt\u001b[1;28r\u001b[H\u001b[27;58H"
+    ],
+    [
+      0.000436,
+      "\u001b[1;27r\u001b[H\u001b[27;42H\u001b[36m\u001b[4mrequirements.txt\u001b[1;28r\u001b[H\u001b[27;58H\u001b(B\u001b[m"
+    ],
+    [
+      0.319704,
+      "\u001b[1;27r\u001b[H\u001b[27d\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000874,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"pip  /Users/rejown/Dev\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.355878,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): Flask-RESTful in /usr/local/lib/python2.7/site-packages (from -r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.007986,
+      "\u001b[1;27r\u001b[H\u001b[27dDownloading/unpacking marshmallow (from -r requirements.txt (line 2))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.043223,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:python*                                               \"pip  /Users/rejown/Dev\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.795503,
+      "\u001b[1;27r\u001b[H\u001b[27d  Downloading marshmallow-1.2.4.tar.gz\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.002557,
+      "\u001b[?25l\u001b[H    └── \u001b[34m\u001b[1mtest_app\u001b(B\u001b[m\u001b[K\r\n        ├── __init__.py\u001b[K\r\n        └── \u001b[34m\u001b[1mv1\u001b(B\u001b[m\u001b[K\r\n            ├── __init__.py\u001b[K\r\n            ├── \u001b[34m\u001b[1mapi\u001b(B\u001b[m\u001b[K\r\n            │   ├── __init__.py\u001b[K\r\n            │   ├── estimates.py\u001b[K\r\n            │   ├── history.py\u001b[K\r\n            │   ├── me.py\u001b[K\r\n            │   └── products.py\u001b[K\r\n            ├── filters.py\u001b[K\r\n            ├── routes.py\u001b[K\r\n            ├── schemas.py\u001b[K\r\n            └── validators.py\u001b[K\r\n\u001b[K\r\n4 directories, 13 files\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b(B\u001b[m\u001b[K\r\n/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named test_app\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[35mcd\u001b[39m \u001b[36m\u001b[4mtest-app/\u001b(B\u001b[m\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_a"
+    ],
+    [
+      0.000021,
+      "pp.__init__\u001b(B\u001b[m\u001b[K\r\n/Users/rejown/Development/Temp/test-swagger/.venv/bin/python: No module named marshmallow\u001b[K\r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m \u001b[31m\u001b[1m$ \u001b(B\u001b[m\u001b[35mpip\u001b[39m \u001b[36minstall\u001b[39m \u001b[36m-r\u001b[39m \u001b[36m\u001b[4mrequirements.txt\u001b(B\u001b[m\u001b[K\r\nRequirement already satisfied (use --upgrade to upgrade): Flask-RESTful in /usr/local/lib/python2.7/site-packages (from -r requirements.txt (line 1))\u001b[K\r\nDownloading/unpacking marshmallow (from -r requirements.txt (line 2))\u001b[K\r\n  Downloading marshmallow-1.2.4.tar.gz\u001b[K\r\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500066,
+      "\u001b[1;27r\u001b[H\u001b[27d  Running setup.py egg_info for package marshmallow\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.155854,
+      "\u001b[1;27r\u001b[H\u001b[27d    \r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.017288,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): aniso8601\u003e=0.82 in /usr/local/lib/python2.7/site-packages (from Flask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000582,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): Flask\u003e=0.8 in /usr/local/lib/python2.7/site-packages (from Flask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.001291,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): six\u003e=1.3.0 in /usr/local/lib/python2.7/site-packages (from Flask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000457,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): pytz in /usr/local/lib/python2.7/site-packages (from Flask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000419,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): Werkzeug\u003e=0.7 in /usr/local/lib/python2.7/site-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000472,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): Jinja2\u003e=2.4 in /usr/local/lib/python2.7/site-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000692,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): itsdangerous\u003e=0.21 in /usr/local/lib/python2.7/site-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000398,
+      "\u001b[1;27r\u001b[H\u001b[27dRequirement already satisfied (use --upgrade to upgrade): markupsafe in /usr/local/lib/python2.7/site-packages (from Jinja2\u003e=2.4-\u003eFlask\u003e=0.8-\u003eFlask-RESTful-\u003e-r requirements.txt (line 1))\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000356,
+      "\u001b[1;27r\u001b[H\u001b[27dInstalling collected packages: marshmallow\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000168,
+      "\u001b[1;27r\u001b[H\u001b[27d  Running setup.py install for marshmallow\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.103637,
+      "\u001b[1;27r\u001b[H\u001b[27d    \r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.075404,
+      "\u001b[1;27r\u001b[H\u001b[27dSuccessfully installed marshmallow\r\nCleaning up...\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.042362,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:python*                                               \"fish  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000049,
+      "\u001b[1;27r\u001b[H\u001b[27d\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                                                                  \u001b[27;1H \r\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[K\u001b[1;28r\u001b[H\u001b[27;27H"
+    ],
+    [
+      0.309863,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[27;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.573435,
+      "\u001b[1;27r\u001b[H\u001b[27;27Hpython -m test_app.__init__\u001b[1;28r\u001b[H\u001b[27;54H"
+    ],
+    [
+      0.000305,
+      "\u001b[1;27r\u001b[H\u001b[27;27H\u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__init__\u001b[1;28r\u001b[H\u001b[27;54H\u001b(B\u001b[m"
+    ],
+    [
+      0.392402,
+      "\u001b[1;27r\u001b[H\u001b[27d\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000746,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"python  /Users/rejown/\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.041306,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:python*                                               \"python  /Users/rejown/\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207311,
+      "\u001b[1;27r\u001b[H\u001b[27d * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      0.003691,
+      "\u001b[1;27r\u001b[H\u001b[27d * Restarting with stat\r\n\u001b[1;28r\u001b[H\u001b[27d"
+    ],
+    [
+      3.330420,
+      "\u001b[1;27r\u001b[H\u001b[27d%\u001b[1;28r\u001b[H\u001b[27;2H"
+    ],
+    [
+      3.183845,
+      "\u001b[1;27r\u001b[H\u001b[27;2H%\u001b[1;28r\u001b[H\u001b[27;3H"
+    ],
+    [
+      2.577634,
+      "\u001b[1;50H│\u001b[2;50H│\u001b[3;50H│\u001b[4;50H│\u001b[5;50H│\u001b[6;50H│\u001b[7;50H│\u001b[8;50H│\u001b[9;50H│\u001b[10;50H│\u001b[11;50H│\u001b[12;50H│\u001b[13;50H│\u001b[14;50H│\u001b[32m\u001b[15;50H│\u001b[16;50H│\u001b[17;50H│\u001b[18;50H│\u001b[19;50H│\u001b[20;50H│\u001b[21;50H│\u001b[22;50H│\u001b[23;50H│\u001b[24;50H│\u001b[25;50H│\u001b[26;50H│\u001b[27;50H│\u001b[?25l\u001b[H\u001b(B\u001b[mRequirement already satisfied (use --upgrade to u\r\npgrade): Werkzeug\u003e=0.7 in /usr/local/lib/python2.\r\n7/site-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e\r\n-r requirements.txt (line 1))                    \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): Jinja2\u003e=2.4 in /usr/local/lib/python2.7/\r\nsite-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e-r\r\n requirements.txt (line 1))                      \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): itsdangerous\u003e=0.21 in /usr/local/lib/pyt\r\nhon2.7/site-packages (from Flask\u003e=0.8-\u003eFlask-REST\r\nful-\u003e-r requirements.txt (line 1))               \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): markupsafe in /usr/local/lib/python2.7/s\r\nit"
+    ],
+    [
+      0.000344,
+      "e-packages (from Jinja2\u003e=2.4-\u003eFlask\u003e=0.8-\u003eFlask\r\n-RESTful-\u003e-r requirements.txt (line 1))          \r\nInstalling collected packages: marshmallow       \r\n  Running setup.py install for marshmallow       \r\n                                                 \r\nSuccessfully installed marshmallow               \r\nCleaning up...                                   \r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__in\u001b(B\u001b[m\r\n\u001b[36mit__\u001b(B\u001b[m                                             \r\n * Running on http://127.0.0.1:5000/ (Press CTRL+\r\nC to quit)                                       \r\n * Restarting with stat                          \r\n%%                                               \u001b[1;51H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[30m\u001b[42m[1] 0:python*                                                              \"7.local\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[1;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.209011,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:bash*                                                                \"7.local\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[1;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.792250,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:bash*                                                 \"fish  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[1;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007296,
+      "\u001b[1;27r\u001b[H\u001b[50CWelcome to fish, the friendly interactive shell\u001b[2;51HType \u001b[32mhelp\u001b[39m for instructions on how to use fish\u001b[1;28r\u001b[H\u001b[3;51H"
+    ],
+    [
+      0.064863,
+      "\u001b[1;27r\u001b[H\u001b[3;51H\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                \u001b[3;51H \u0008\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $                      \u001b[3;1H\u001b[1;28r\u001b[H\u001b[3;79H"
+    ],
+    [
+      0.136125,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[3;79H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      4.714933,
+      "\u001b[1;27r\u001b[H\u001b[4;51Hcurl 127.0.0.1:5000/v1/products\u001b[1;28r\u001b[H\u001b[4;82H"
+    ],
+    [
+      0.000463,
+      "\u001b[1;27r\u001b[H\u001b[4;51H\u001b[35mcurl\u001b[39m \u001b[36m127.0.0.1:5000/v1/products\u001b[1;28r\u001b[H\u001b[4;82H\u001b(B\u001b[m"
+    ],
+    [
+      1.569337,
+      "\u001b[5;51H"
+    ],
+    [
+      0.000679,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:fish*                                                 \"curl  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[5;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018786,
+      "\u001b[1;27r\u001b[H\u001b[27;3H127.0.0.1 - - [16/Apr/2015 16:17:36] \"GET /v1/p\u001b[?25l\u001b[H7/site-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e\r\n-r requirements.txt (line 1))                    \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): Jinja2\u003e=2.4 in /usr/local/lib/python2.7/\r\nsite-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e-r\r\n requirements.txt (line 1))                      \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): itsdangerous\u003e=0.21 in /usr/local/lib/pyt\r\nhon2.7/site-packages (from Flask\u003e=0.8-\u003eFlask-REST\r\nful-\u003e-r requirements.txt (line 1))               \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): markupsafe in /usr/local/lib/python2.7/s\r\nite-packages (from Jinja2\u003e=2.4-\u003eFlask\u003e=0.8-\u003eFlask\r\n-RESTful-\u003e-r requirements.txt (line 1))          \r\nInstalling collected packages: marshmallow       \r\n  Running setup.py install for marshmallow       \r\n                                                 \r\nSuccessfully installed marshmallow               \r\nCleaning up...                   "
+    ],
+    [
+      0.000046,
+      "                \r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__in\u001b(B\u001b[m\r\n\u001b[36mit__\u001b(B\u001b[m                                             \r\n * Running on http://127.0.0.1:5000/ (Press CTRL+\r\nC to quit)                                       \r\n * Restarting with stat                          \r\n%%127.0.0.1 - - [16/Apr/2015 16:17:36] \"GET /v1/p\r\nroducts HTTP/1.1\" 422 -                          \r\n                                                 \u001b[1;28r\u001b[H\u001b[5;51H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[5;51H{\u001b[6;51H    \"errors\": {\u001b[7;51H        \"latitude\": [\u001b[8;51H            \"Missing data for required field.\"\u001b[9;51H        ], \u001b[10;51H        \"longitude\": [\u001b[11;51H            \"Missing data for required field.\"\u001b[12;51H        ]\u001b[13;51H    }, \u001b[14;51H    \"message\": \"Unprocessable Entity\"\u001b[15;51H}\u001b[1;28r\u001b[H\u001b[16;51H"
+    ],
+    [
+      0.010961,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[16;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000073,
+      "\u001b[1;27r\u001b[H\u001b[16;51H\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                \u001b[16;51H \u0008\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $                      \u001b[16;1H\u001b[1;28r\u001b[H\u001b[16;79H"
+    ],
+    [
+      6.655863,
+      "\u001b[1;27r\u001b[H\u001b[17;51Hcurl \"http://127.0.0.1:5000/v1/products?latitude=\u001b[18;51H12\u0026longitude=21\"\u001b[1;28r\u001b[H\u001b[18;67H"
+    ],
+    [
+      0.000347,
+      "\u001b[1;27r\u001b[H\u001b[17;51H\u001b[35mcurl\u001b[39m \u001b[33m\"http://127.0.0.1:5000/v1/products?latitude=\u001b[18;51H12\u0026longitude=21\"\u001b[1;28r\u001b[H\u001b[18;67H\u001b(B\u001b[m"
+    ],
+    [
+      0.768136,
+      "\u001b[19;51H"
+    ],
+    [
+      0.000847,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[42m[1] 0:fish*                                                 \"curl  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[19;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.012659,
+      "\u001b[1;27r\u001b[H\u001b[27d{'latitude': Decimal('12'), 'longitude': Decimal(\u001b[?25l\u001b[HRequirement already satisfied (use --upgrade to u\r\npgrade): Jinja2\u003e=2.4 in /usr/local/lib/python2.7/\r\nsite-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e-r\r\n requirements.txt (line 1))                      \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): itsdangerous\u003e=0.21 in /usr/local/lib/pyt\r\nhon2.7/site-packages (from Flask\u003e=0.8-\u003eFlask-REST\r\nful-\u003e-r requirements.txt (line 1))               \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): markupsafe in /usr/local/lib/python2.7/s\r\nite-packages (from Jinja2\u003e=2.4-\u003eFlask\u003e=0.8-\u003eFlask\r\n-RESTful-\u003e-r requirements.txt (line 1))          \r\nInstalling collected packages: marshmallow       \r\n  Running setup.py install for marshmallow       \r\n                                                 \r\nSuccessfully installed marshmallow               \r\nCleaning up...                                   \r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[3"
+    ],
+    [
+      0.000015,
+      "6mtest_app.__in\u001b(B\u001b[m\r\n\u001b[36mit__\u001b(B\u001b[m                                             \r\n * Running on http://127.0.0.1:5000/ (Press CTRL+\r\nC to quit)                                       \r\n * Restarting with stat                          \r\n%%127.0.0.1 - - [16/Apr/2015 16:17:36] \"GET /v1/p\r\nroducts HTTP/1.1\" 422 -                          \r\n{'latitude': Decimal('12'), 'longitude': Decimal(\r\n'21')}                                           \r\n                                                 \u001b[1;28r\u001b[H\u001b[19;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001067,
+      "\u001b[1;27r\u001b[H\u001b[27d127.0.0.1 - - [16/Apr/2015 16:17:43] \"GET /v1/pro\u001b[?25l\u001b[Hsite-packages (from Flask\u003e=0.8-\u003eFlask-RESTful-\u003e-r\r\n requirements.txt (line 1))                      \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): itsdangerous\u003e=0.21 in /usr/local/lib/pyt\r\nhon2.7/site-packages (from Flask\u003e=0.8-\u003eFlask-REST\r\nful-\u003e-r requirements.txt (line 1))               \r\nRequirement already satisfied (use --upgrade to u\r\npgrade): markupsafe in /usr/local/lib/python2.7/s\r\nite-packages (from Jinja2\u003e=2.4-\u003eFlask\u003e=0.8-\u003eFlask\r\n-RESTful-\u003e-r requirements.txt (line 1))          \r\nInstalling collected packages: marshmallow       \r\n  Running setup.py install for marshmallow       \r\n                                                 \r\nSuccessfully installed marshmallow               \r\nCleaning up...                                   \r\n\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/t/test-app\u001b[39m $ \u001b[35mpython\u001b[39m \u001b[36m-m\u001b[39m \u001b[36mtest_app.__in\u001b(B\u001b[m\r\n\u001b[36mit__\u001b(B\u001b[m                                             \r\n * Running on htt"
+    ],
+    [
+      0.000698,
+      "p://127.0.0.1:5000/ (Press CTRL+\r\nC to quit)                                       \r\n * Restarting with stat                          \r\n%%127.0.0.1 - - [16/Apr/2015 16:17:36] \"GET /v1/p\r\nroducts HTTP/1.1\" 422 -                          \r\n{'latitude': Decimal('12'), 'longitude': Decimal(\r\n'21')}                                           \r\n127.0.0.1 - - [16/Apr/2015 16:17:43] \"GET /v1/pro\r\nducts?latitude=12\u0026longitude=21 HTTP/1.1\" 200 -   \r\n                                                 \u001b[1;28r\u001b[H\u001b[19;51H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[19;51H[\u001b[20;51H    {\u001b[21;51H        \"capacity\": \"poooo\", \u001b[22;51H        \"description\": \"poooo\", \u001b[23;51H        \"display_name\": \"poooo\", \u001b[24;51H        \"image\": \"poooo\", \u001b[25;51H        \"product_id\": \"poooo\"\u001b[26;51H    }\u001b[27;51H]\u001b[?25l\u001b[1;51HType \u001b[32mhelp\u001b[39m for instructions on how to use fish\u001b[K\u001b[2;51H\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K\u001b[3;51H\u001b[35mcurl\u001b[39m \u001b[36m127.0.0.1:5000/v1/products\u001b(B\u001b[m\u001b[K\u001b[4;51H{\u001b[K\u001b[5;51H    \"errors\": {\u001b[K\u001b[6;51H        \"latitude\": ["
+    ],
+    [
+      0.000017,
+      "\u001b[K\u001b[7;51H            \"Missing data for required field.\"\u001b[K\u001b[8;51H        ], \u001b[K\u001b[9;51H        \"longitude\": [\u001b[K\u001b[10;51H            \"Missing data for required field.\"\u001b[K\u001b[11;51H        ]\u001b[K\u001b[12;51H    }, \u001b[K\u001b[13;51H    \"message\": \"Unprocessable Entity\"\u001b[K\u001b[14;51H}\u001b[K\u001b[15;51H\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $ \u001b[K\u001b[16;51H\u001b[35mcurl\u001b[39m \u001b[33m\"http://127.0.0.1:5000/v1/products?latitude=\u001b(B\u001b[m\u001b[16;99H\u001b[17;51H\u001b[33m12\u0026longitude=21\"\u001b(B\u001b[m\u001b[K\u001b[18;51H[\u001b[K\u001b[19;51H    {\u001b[K\u001b[20;51H        \"capacity\": \"poooo\", \u001b[K\u001b[21;51H        \"description\": \"poooo\", \u001b[K\u001b[22;51H        \"display_name\": \"poooo\", \u001b[K\u001b[23;51H        \"image\": \"poooo\", \u001b[K\u001b[24;51H        \"product_id\": \"poooo\"\u001b[K\u001b[25;51H    }\u001b[K\u001b[26;51H]\u001b[K\u001b[27;51H\u001b[K\u001b[1;28r\u001b[H\u001b[27;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010480,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[1] 0:fish*                                                 \"fish  /Users/rejown/De\" 16:17 16- 4-15\u001b(B\u001b[m\u001b[27;51H\u001b[?12l\u001b[?25h\u001b[1;27r\u001b[H\u001b[27;51H\u001b[30m\u001b[1m⏎\u001b(B\u001b[m                                                \u001b[27;51H \u0008\u001b[37m\u001b[44m(.venv)\u001b[49m\u001b[32m~/D/T/test-swagger\u001b[39m $                      "
+    ],
+    [
+      0.000008,
+      "\u001b[27;1H\u001b[1;28r\u001b[H\u001b[27;79H"
+    ],
+    [
+      3.950164,
+      "\u001b[1;28r\u001b(B\u001b[m"
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000317,
+      "[detached (from session 1)]\r\n"
+    ],
+    [
+      0.000597,
+      "bash-3.2$ "
+    ],
+    [
+      2.630316,
+      "exit\r\n"
+    ]
+  ]
+}
