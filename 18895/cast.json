@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 19,
+  "duration": 76.208994,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.066516,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000009,
+      "bash-3.2$ "
+    ],
+    [
+      3.125333,
+      "d"
+    ],
+    [
+      0.119999,
+      "o"
+    ],
+    [
+      0.087689,
+      "c"
+    ],
+    [
+      0.320256,
+      "k"
+    ],
+    [
+      0.264004,
+      "e"
+    ],
+    [
+      0.055812,
+      "r"
+    ],
+    [
+      0.192865,
+      "\u0007"
+    ],
+    [
+      0.695520,
+      "-"
+    ],
+    [
+      0.199441,
+      "m"
+    ],
+    [
+      0.080060,
+      "a"
+    ],
+    [
+      0.192854,
+      "\u0007"
+    ],
+    [
+      0.000007,
+      "chine"
+    ],
+    [
+      1.167355,
+      " "
+    ],
+    [
+      0.295811,
+      "c"
+    ],
+    [
+      0.216202,
+      "r"
+    ],
+    [
+      0.095914,
+      "e"
+    ],
+    [
+      0.191910,
+      "a"
+    ],
+    [
+      0.208062,
+      "t"
+    ],
+    [
+      0.080821,
+      "e"
+    ],
+    [
+      0.295257,
+      " "
+    ],
+    [
+      1.351817,
+      "d"
+    ],
+    [
+      0.056295,
+      "e"
+    ],
+    [
+      0.199767,
+      "v"
+    ],
+    [
+      1.168002,
+      "\r\n"
+    ],
+    [
+      0.010973,
+      "\u001b[31mERRO\u001b[0m[0000] Error creating machine: --url option is required when no driver is selected \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[33mWARN\u001b[0m[0000] You will want to check the provider to make sure the machine and associated resources were properly removed. \r\n\u001b[31mFATA\u001b[0m[0000] Error creating machine                       \r\n"
+    ],
+    [
+      0.000728,
+      "bash-3.2$ "
+    ],
+    [
+      1.516297,
+      "docker-machine create dev"
+    ],
+    [
+      0.871888,
+      " "
+    ],
+    [
+      0.296774,
+      "-"
+    ],
+    [
+      0.983092,
+      "d"
+    ],
+    [
+      0.272207,
+      " "
+    ],
+    [
+      0.224437,
+      "v"
+    ],
+    [
+      0.143699,
+      "i"
+    ],
+    [
+      0.399762,
+      "r"
+    ],
+    [
+      0.896142,
+      "t"
+    ],
+    [
+      0.168001,
+      "u"
+    ],
+    [
+      0.143739,
+      "a"
+    ],
+    [
+      0.160334,
+      "l"
+    ],
+    [
+      0.232063,
+      "b"
+    ],
+    [
+      0.143525,
+      "o"
+    ],
+    [
+      0.328515,
+      "x"
+    ],
+    [
+      0.119494,
+      "\r\n"
+    ],
+    [
+      0.025492,
+      "\u001b[34mINFO\u001b[0m[0000] Creating SSH key...                          \r\n"
+    ],
+    [
+      0.890870,
+      "\u001b[34mINFO\u001b[0m[0000] Creating VirtualBox VM...                    \r\n"
+    ],
+    [
+      5.510117,
+      "\u001b[34mINFO\u001b[0m[0006] Starting VirtualBox VM...                    \r\n"
+    ],
+    [
+      0.563432,
+      "\u001b[34mINFO\u001b[0m[0006] Waiting for VM to start...                   \r\n"
+    ],
+    [
+      48.482819,
+      "\u001b[34mINFO\u001b[0m[0055] \"dev\" has been created and is now the active machine. \r\n\u001b[34mINFO\u001b[0m[0055] To point your Docker client at it, run this in your shell: eval \"$(docker-machine env dev)\" \r\n"
+    ],
+    [
+      0.001516,
+      "bash-3.2$ "
+    ],
+    [
+      3.094317,
+      "exit\r\n"
+    ]
+  ]
+}
