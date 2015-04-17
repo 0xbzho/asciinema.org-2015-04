@@ -1,0 +1,502 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 51,
+  "duration": 30.920379,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.252610,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.019119,
+      "\u001bk~\u001b\\"
+    ],
+    [
+      0.000285,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 16:40 \u001b[1m~\u001b[0m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000071,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.352776,
+      "r"
+    ],
+    [
+      0.087572,
+      "\u0008r2 /bin/ls"
+    ],
+    [
+      0.583599,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000091,
+      "\r\r\n"
+    ],
+    [
+      0.000971,
+      "\u001bkr2\u001b\\"
+    ],
+    [
+      0.041979,
+      " -- You can debug a program from the graph view ('ag') using standard radare2 commands\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      0.452804,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000040,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.095985,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.063988,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.088004,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      0.711954,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l"
+    ],
+    [
+      0.111982,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l "
+    ],
+    [
+      0.240011,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $"
+    ],
+    [
+      0.199936,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $h\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $h"
+    ],
+    [
+      0.088006,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $ho\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $ho"
+    ],
+    [
+      0.135967,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $hom\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $hom"
+    ],
+    [
+      0.111989,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home"
+    ],
+    [
+      0.408063,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home\r\n"
+    ],
+    [
+      0.000999,
+      "drwxr-xr-x  1  501:20    2516        /Users/alvaro_fe/./\r\ndrwxr-xr-x  1    0:80    204         /Users/alvaro_fe/../\r\ndrwxr-xr-x  1  501:20    102         /Users/alvaro_fe/.asciinema/\r\n-rw-------  1  501:20    734         /Users/alvaro_fe/.bash_history\r\n-rw-r--r--  1  501:20    638         /Users/alvaro_fe/.bash_profile\r\n-rw-r--r--  1  501:20    68          /Users/alvaro_fe/.bashrc\r\ndrwxr-xr-x  1  501:20    170         /Users/alvaro_fe/.cache/\r\n-r--------  1  501:20    7           /Users/alvaro_fe/.CFUserTextEncoding\r\ndrwxr-xr-x  1  501:20    136         /Users/alvaro_fe/.config/\r\n-rw-r--r--  1  501:20    632         /Users/alvaro_fe/.dbshell\r\ndrwx------  1  501:20    306         /Users/alvaro_fe/.dropbox/\r\n-rw-r--r--  1  501:20    12292       /Users/alvaro_fe/.DS_Store\r\n-rw-------  1  501:20    1029        /Users/alvaro_fe/.gdb_history\r\n-rw-r--r--  1  501:0     111614      /Users/alvaro_fe/.gdbinit\r\n-rw-r--r--  1  501:20    0           /Users/alvaro_fe/.gdbinit.local\r\ndrwxr-xr-x  1  501:20    102         /Use"
+    ],
+    [
+      0.000787,
+      "rs/alvaro_fe/.gem/\r\n-rw-r--r--  1  501:20    700         /Users/alvaro_fe/.gitconfig\r\n-rw-r--r--  1  501:80    13          /Users/alvaro_fe/.gitignore_global\r\ndrwxr-xr-x  1  501:20    170         /Users/alvaro_fe/.heroku/\r\n-rw-r--r--  1  501:80    27          /Users/alvaro_fe/.hgignore_global\r\ndrwxr-xr-x  1  501:20    136         /Users/alvaro_fe/.idapro/\r\ndrwx------  1  501:20    272         /Users/alvaro_fe/.irssi/\r\n-rw-------  1  501:20    74          /Users/alvaro_fe/.lesshst\r\ndrwx------  1  501:20    170         /Users/alvaro_fe/.lldb/\r\n-rw-r--r--  1  501:20    68          /Users/alvaro_fe/.mkshrc\r\n-rw-------  1  501:20    0           /Users/alvaro_fe/.mongorc.js\r\n-rw-------  1  501:20    210         /Users/alvaro_fe/.netrc\r\ndrwxr-xr-x  1  501:20    408         /Users/alvaro_fe/.nvim/\r\n-rw-------  1  501:20    8804        /Users/alvaro_fe/.nviminfo\r\n-rw-r--r--  1  501:20    1602591     /Users/alvaro_fe/.nvimlog\r\nlrwxr-xr-x  1  501:20    1840        /Users/alvaro_fe/.nvimrc\r\ndrwxr-xr-x  1  501:20    510  "
+    ],
+    [
+      0.000758,
+      "       /Users/alvaro_fe/.oh-my-zsh/\r\ndrwxr-xr-x  1  501:20    102         /Users/alvaro_fe/.pki/\r\n-rw-r--r--  1  501:20    186         /Users/alvaro_fe/.profile\r\n-rw-------  1  501:20    661         /Users/alvaro_fe/.psql_history\r\n-rw-r--r--  1  501:20    71          /Users/alvaro_fe/.radare2rc\r\n-rw-------  1  501:20    1024        /Users/alvaro_fe/.rnd\r\ndrwxr-xr-x  1  501:20    1020        /Users/alvaro_fe/.rvm/\r\n-rw-------  1  501:20    135         /Users/alvaro_fe/.scapy_history\r\n-rw-------  1  501:20    22          /Users/alvaro_fe/.sh_history\r\n-rw-------  1  501:20    427         /Users/alvaro_fe/.sqlite_history\r\ndrwx------  1  501:20    272         /Users/alvaro_fe/.ssh/\r\ndrwxr-xr-x  1  501:20    204         /Users/alvaro_fe/.subversion/\r\n-rw-r--r--  1  501:20    326         /Users/alvaro_fe/.tmux.conf\r\ndrwx------  1  501:20    646         /Users/alvaro_fe/.Trash/\r\ndrwxr-xr-x  1  501:20    578         /Users/alvaro_fe/.vim/\r\n-rw-------  1  501:20    21540       /Users/alvaro_fe/.viminfo\r\nlrwxr-xr-x  1  "
+    ],
+    [
+      0.000759,
+      "501:20    1840        /Users/alvaro_fe/.vimrc\r\ndrwxr-xr-x  1  501:20    170         /Users/alvaro_fe/.wireshark/\r\n-rw-r--r--  1  501:20    37177       /Users/alvaro_fe/.zcompdump\r\n-rw-r--r--  1  501:20    35631       /Users/alvaro_fe/.zcompdump-MacBook Pro de Álvaro-5.0.5\r\n-rw-r--r--  1  501:20    118         /Users/alvaro_fe/.zlogin\r\n-rw-r--r--  1  501:20    17          /Users/alvaro_fe/.zsh-update\r\n-rw-------  1  501:20    246276      /Users/alvaro_fe/.zsh_history\r\n-rw-r--r--  1  501:20    4920        /Users/alvaro_fe/.zshrc\r\n-rw-r--r--  1  501:20    2616        /Users/alvaro_fe/.zshrc-e\r\n-rw-r--r--  1  501:20    6063        /Users/alvaro_fe/.zshrcjvoisin\r\ndrwx------  1  501:20    136         /Users/alvaro_fe/Applications/\r\ndrwxr-xr-x  1  501:20    238         /Users/alvaro_fe/bin/\r\ndrwx------  1  501:20    136         /Users/alvaro_fe/Desktop/\r\ndrwx------  1  501:20    510         /Users/alvaro_fe/Documents/\r\ndrwx------  1  501:20    578         /Users/alvaro_fe/Downloads/\r\ndrwx------  1  501:20    2686 "
+    ],
+    [
+      0.000024,
+      "       /Users/alvaro_fe/Dropbox/\r\ndrwx------  1  501:20    2244        /Users/alvaro_fe/Google Drive/\r\ndrwxr-xr-x  1  501:20    204         /Users/alvaro_fe/isos/\r\ndrwx------  1  501:20    1836        /Users/alvaro_fe/Library/\r\n-rw-r--r--  1  501:20    247300      /Users/alvaro_fe/monaco.otf\r\ndrwx------  1  501:20    102         /Users/alvaro_fe/Movies/\r\ndrwx------  1  501:20    136         /Users/alvaro_fe/Music/\r\ndrwx------  1  501:20    136         /Users/alvaro_fe/Pictures/\r\ndrwxr-xr-x  1  501:20    408         /Users/alvaro_fe/Projects/\r\ndrwxr-xr-x  1  501:20    238         /Users/alvaro_fe/pruebas/\r\ndrwxr-xr-x  1  501:20    170         /Users/alvaro_fe/Public/\r\ndrwxr-xr-x  1  501:20    170         /Users/alvaro_fe/VirtualBox VMs/\r\n\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      1.852550,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m l"
+    ],
+    [
+      0.120026,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls"
+    ],
+    [
+      0.031614,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000007,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls "
+    ],
+    [
+      0.160370,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -"
+    ],
+    [
+      0.231874,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l"
+    ],
+    [
+      0.111901,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l "
+    ],
+    [
+      0.559990,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $"
+    ],
+    [
+      0.200146,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $h\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $h"
+    ],
+    [
+      0.111965,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $ho\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $ho"
+    ],
+    [
+      0.119963,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $hom\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $hom"
+    ],
+    [
+      0.104011,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home"
+    ],
+    [
+      0.399686,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000007,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/"
+    ],
+    [
+      0.480285,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P"
+    ],
+    [
+      0.359999,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*"
+    ],
+    [
+      0.687983,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*\r\n"
+    ],
+    [
+      0.000326,
+      "drwx------  1  501:20    136         /Users/alvaro_fe/Pictures/\r\ndrwxr-xr-x  1  501:20    408         /Users/alvaro_fe/Projects/\r\ndrwxr-xr-x  1  501:20    170         /Users/alvaro_fe/Public/\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      3.279598,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000014,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*"
+    ],
+    [
+      0.327914,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P"
+    ],
+    [
+      0.127987,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/"
+    ],
+    [
+      0.120053,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $home"
+    ],
+    [
+      0.375610,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $hom/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $hom"
+    ],
+    [
+      0.136293,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $ho/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $ho"
+    ],
+    [
+      0.136000,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $h/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $h"
+    ],
+    [
+      0.368003,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $"
+    ],
+    [
+      0.399941,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $H/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $H"
+    ],
+    [
+      0.111843,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $HO/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $HO"
+    ],
+    [
+      0.200137,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $HOM/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $HOM"
+    ],
+    [
+      0.079996,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $HOME/P*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $HOME"
+    ],
+    [
+      0.488003,
+      "\u001b[0K\r\r\u001b[2K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m ls -l $HOME/P*\r\n"
+    ],
+    [
+      0.000228,
+      "drwx------  1  501:20    136         /Users/alvaro_fe/Pictures/\r\ndrwxr-xr-x  1  501:20    408         /Users/alvaro_fe/Projects/\r\ndrwxr-xr-x  1  501:20    170         /Users/alvaro_fe/Public/\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      1.319311,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000007,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \""
+    ],
+    [
+      0.224264,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"l"
+    ],
+    [
+      0.088039,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls"
+    ],
+    [
+      0.095970,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls "
+    ],
+    [
+      0.184064,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -"
+    ],
+    [
+      0.223759,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l"
+    ],
+    [
+      0.112173,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l \r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l "
+    ],
+    [
+      1.327745,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000011,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/"
+    ],
+    [
+      1.240087,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/."
+    ],
+    [
+      0.128135,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.v\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.v"
+    ],
+    [
+      0.127892,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.vi\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.vi"
+    ],
+    [
+      0.631967,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.vi*\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.vi*"
+    ],
+    [
+      1.095995,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.vi*\"\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.vi*\""
+    ],
+    [
+      0.464004,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m \"ls -l ~/.vi*\"\r\n"
+    ],
+    [
+      0.000306,
+      "drwxr-xr-x  1  501:20    578         /Users/alvaro_fe/.vim/\r\n-rw-------  1  501:20    21540       /Users/alvaro_fe/.viminfo\r\nlrwxr-xr-x  1  501:20    1840        /Users/alvaro_fe/.vimrc\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m "
+    ],
+    [
+      6.679433,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m q\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m q"
+    ],
+    [
+      0.839954,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x100001058]\u003e\u001b[0m q\r\n"
+    ],
+    [
+      0.002436,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.016443,
+      "\u001bk~\u001b\\"
+    ],
+    [
+      0.000072,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 16:41 \u001b[1m~\u001b[0m \u001b[K"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.357102,
+      "\r\r\n"
+    ]
+  ]
+}
