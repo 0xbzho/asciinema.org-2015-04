@@ -1,0 +1,886 @@
+{
+  "version": 1,
+  "width": 238,
+  "height": 60,
+  "duration": 115.664099,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.044315,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      3.139199,
+      "."
+    ],
+    [
+      0.039781,
+      "/"
+    ],
+    [
+      0.920075,
+      "g"
+    ],
+    [
+      0.048024,
+      "r"
+    ],
+    [
+      0.151935,
+      "a"
+    ],
+    [
+      0.087965,
+      "i"
+    ],
+    [
+      0.064159,
+      "l"
+    ],
+    [
+      0.039987,
+      "s"
+    ],
+    [
+      0.168288,
+      "w"
+    ],
+    [
+      1.295778,
+      " "
+    ],
+    [
+      0.119872,
+      "r"
+    ],
+    [
+      0.183843,
+      "u"
+    ],
+    [
+      0.056167,
+      "n"
+    ],
+    [
+      0.903830,
+      "-"
+    ],
+    [
+      0.135997,
+      "a"
+    ],
+    [
+      0.079838,
+      "p"
+    ],
+    [
+      0.128129,
+      "p"
+    ],
+    [
+      0.559780,
+      "\r\n"
+    ],
+    [
+      0.350283,
+      "Java HotSpot(TM) 64-Bit Server VM warning: ignoring option PermSize=32m; support was removed in 8.0\r\n"
+    ],
+    [
+      0.000009,
+      "Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0\r\n"
+    ],
+    [
+      2.214515,
+      "\u001b[1A\u001b[1D\u001b[0K\u001b[1;33m| \u001b[22;39mLoading Grails 2.3.11\u001b[m\r\n"
+    ],
+    [
+      2.018401,
+      "\u001b[1A\u001b[22D\u001b[0K\u001b[1;33m| \u001b[22;39mConfiguring classpath\u001b[m\r\n"
+    ],
+    [
+      5.063401,
+      "\u001b[1A\u001b[22D\u001b[0K\u001b[1;33m| \u001b[22;39mDownloading: joda-time/joda-time/maven-metadata.xml\u001b[m\r\n"
+    ],
+    [
+      1.102003,
+      "\u001b[1A\u001b[52D\u001b[0K\u001b[1;33m| \u001b[22;39mDownloading: joda-time/joda-time/maven-metadata.xml\u001b[m\r\n"
+    ],
+    [
+      0.301606,
+      "\u001b[1A\u001b[52D\u001b[0K\u001b[1;33m| \u001b[22;39mDownloading: joda-time/joda-time/maven-metadata.xml\u001b[m\r\n"
+    ],
+    [
+      8.297850,
+      "\u001b[1A\u001b[52D\u001b[0K\u001b[1;33m| \u001b[22;39mDownloading: joda-time/joda-time/maven-metadata.xml.\u001b[m\r\n"
+    ],
+    [
+      0.006105,
+      "\u001b[1A\u001b[53D\u001b[0K\u001b[1;33m| \u001b[22;39mEnvironment set to development\u001b[m\r\n"
+    ],
+    [
+      0.026571,
+      "\u001b[1A\u001b[31D\u001b[0K\u001b[1;33m| \u001b[22;39mEnvironment set to development.\u001b[m\r\n"
+    ],
+    [
+      0.142413,
+      "\u001b[1A\u001b[32D\u001b[0K\u001b[1;33m| \u001b[22;39mEnvironment set to development..\u001b[m\r\n"
+    ],
+    [
+      0.031142,
+      "\u001b[1A\u001b[33D\u001b[0K\u001b[1;33m| \u001b[22;39mEnvironment set to development...\u001b[m\r\n"
+    ],
+    [
+      0.046524,
+      "\u001b[1A\u001b[34D\u001b[0K\u001b[1;33m| \u001b[22;39mEnvironment set to development....\u001b[m\r\n"
+    ],
+    [
+      2.313630,
+      "\u001b[1A\u001b[35D\u001b[0K\u001b[1;33m| \u001b[22;39mEnvironment set to development.....\u001b[m\r\n"
+    ],
+    [
+      1.277214,
+      "\u001b[1A\u001b[36D\u001b[0K\u001b[1;33m| \u001b[22;39mPackaging Grails application\u001b[m\r\n"
+    ],
+    [
+      0.240533,
+      "\u001b[1A\u001b[29D\u001b[0K\u001b[1;33m| \u001b[22;39mPackaging Grails application.\u001b[m\r\n"
+    ],
+    [
+      0.001564,
+      "\u001b[1A\u001b[30D\u001b[0K\u001b[1;33m| \u001b[22;39mPackaging Grails application..\u001b[m\r\n"
+    ],
+    [
+      0.071578,
+      "\u001b[1A\u001b[31D\u001b[0K\u001b[1;33m| \u001b[22;39mPackaging Grails application...\u001b[m\r\n"
+    ],
+    [
+      0.615862,
+      "\u001b[1A\u001b[32D\u001b[0K\u001b[1;33m| \u001b[22;39mPackaging Grails application....\u001b[m\r\n"
+    ],
+    [
+      0.555820,
+      "\u001b[1A\u001b[33D\u001b[0K\u001b[1;33m| \u001b[22;39mPackaging Grails application.....\u001b[m\r\n"
+    ],
+    [
+      6.173646,
+      "\u001b[1A\u001b[34D\u001b[0K\u001b[1;33m| \u001b[22;39mRunning Grails application\u001b[m\r\n"
+    ],
+    [
+      0.168885,
+      "objc[45879]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/bin/j"
+    ],
+    [
+      0.000012,
+      "ava and /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/libinstrument.dylib. One of the two will be used. Which one is undefined.\r\n"
+    ],
+    [
+      25.037219,
+      "Configuring Spring Security Core ...\r\n"
+    ],
+    [
+      0.628843,
+      "... finished configuring Spring Security Core\r\n"
+    ],
+    [
+      0.167070,
+      "Configuring Spring Security OAuth ...\r\n"
+    ],
+    [
+      0.042451,
+      "... finished configuring Spring Security OAuth\r\n"
+    ],
+    [
+      0.130256,
+      "Configuring Spring Security REST ...\r\n"
+    ],
+    [
+      0.187890,
+      "... finished configuring Spring Security REST\r\n"
+    ],
+    [
+      5.306494,
+      "2015-04-17 09:35:57,613 [localhost-startStop-1] WARN  jwt.DefaultRSAKeyProvider  - ********************************************************************************\r\n2015-04-17 09:35:57,625 [localhost-startStop-1] WARN  jwt.DefaultRSAKeyProvider  - * WARNING: you are using the default RSA key provider, which generates a pair  *\r\n2015-04-17 09:35:57,625 [localhost-startStop-1] WARN  jwt.DefaultRSAKeyProvider  - * of public/private keys every time the application runs. This means that      *\r\n2015-04-17 09:35:57,625 [localhost-startStop-1] WARN  jwt.DefaultRSAKeyProvider  - * generated tokens won't be decrypted across executions.                       *\r\n2015-04-17 09:35:57,625 [localhost-startStop-1] WARN  jwt.DefaultRSAKeyProvider  - *                                                                              *\r\n2015-04-17 09:35:57,626 [localhost-startStop-1] WARN  jwt.DefaultRSAKeyProvider  - * Please generate your own keys using SSL and switch to a FileRSAKeyProvider.  *\r\n2015-04-17 09:35:57,626 [localhost"
+    ],
+    [
+      0.000008,
+      "-startStop-1] WARN  jwt.DefaultRSAKeyProvider  - ********************************************************************************\r\n"
+    ],
+    [
+      0.718947,
+      "2015-04-17 09:35:58,345 [localhost-startStop-1] DEBUG hierarchicalroles.RoleHierarchyImpl  - setHierarchy() - The following role hierarchy was set: \r\n"
+    ],
+    [
+      2.613994,
+      "2015-04-17 09:36:00,959 [localhost-startStop-1] DEBUG intercept.FilterSecurityInterceptor  - Validated configuration attributes\r\n"
+    ],
+    [
+      7.896935,
+      "2015-04-17 09:36:08,855 [localhost-startStop-1] WARN  intercept.AnnotationFilterInvocationDefinition  - replaced rule for '/logi"
+    ],
+    [
+      0.000014,
+      "n/**' with tokens [permitAll] with tokens [permitAll]\r\n2015-04-17 09:36:08,856 [localhost-startStop-1] WARN  intercept.AnnotationFilterInvocationDefinition  - replaced rule for '/logout/**' with tokens [permitAll] with tokens [permitAll]\r\n"
+    ],
+    [
+      2.798787,
+      "2015-04-17 09:36:11,654 [localhost-startStop-1] INFO  web.DefaultSecurityFilterChain  - Creating filter chain: Ant [pattern='/api/**'], [grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter@1b0d21f4, grails.plugin.springsecurity.rest.RestAuthenticationFilter@6a617a73, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6971cfb7, grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter@215e6572, grails.plugin.springsecurity.rest.RestTokenValidationFilter@53aef22c, org.springframework.security.web.access.ExceptionTranslationFilter@32fda8c8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5516c557]\r\n2015-04-17 09:36:11,655 [localhost-startStop-1] INFO  web.DefaultSecurityFilterChain  - Creating filter chain: Ant [pattern='/**'], [org.springframework.security.web.context.SecurityContextPersistenceFilter@7314f72, grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter@1b0d21f4, grails.plugin.spri"
+    ],
+    [
+      0.000009,
+      "ngsecurity.web.authentication.RequestHolderAuthenticationFilter@232ae22a, grails.plugin.springsecurity.rest.RestAuthenticationFilter@6a617a73, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6971cfb7, grails.plugin.springsecurity.web.filter.GrailsRememberMeAuthenticationFilter@7cceb56f, grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter@215e6572, org.springframework.security.web.access.ExceptionTranslationFilter@1f11fbdc, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5516c557]\r\n"
+    ],
+    [
+      0.310428,
+      "======================================================================\r\n"
+    ],
+    [
+      0.004930,
+      "                        Application: rest 0.1                         \r\n                        ---------------------                         \r\n  Environment: DEVELOPMENT\r\n  Database configuration: \r\n    Hibernate DDL mode: create-drop\r\n    URL: jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE\r\n    Driver: org.h2.Driver\r\n    User: sa\r\n======================================================================\r\n"
+    ],
+    [
+      1.525055,
+      "\u001b[1;33m| \u001b[22;39mServer running. Browse to http://localhost:8080/rest\u001b[m\r\n"
+    ],
+    [
+      6.518454,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "[1]+  Stopped                 ./grailsw run-app\r\n"
+    ],
+    [
+      0.000123,
+      "bash-3.2$ "
+    ],
+    [
+      3.039587,
+      "b"
+    ],
+    [
+      0.040303,
+      "g"
+    ],
+    [
+      0.167689,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "[1]+ ./grailsw run-app \u0026\r\n"
+    ],
+    [
+      0.000213,
+      "bash-3.2$ "
+    ],
+    [
+      11.899073,
+      "c"
+    ],
+    [
+      0.000005,
+      "ur"
+    ],
+    [
+      0.000002,
+      "l"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000011,
+      "i"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      0.000006,
+      "X"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000007,
+      "P"
+    ],
+    [
+      0.000007,
+      "O"
+    ],
+    [
+      0.000002,
+      "S"
+    ],
+    [
+      0.000008,
+      "T"
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000007,
+      "H"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000009,
+      "'"
+    ],
+    [
+      0.000006,
+      "C"
+    ],
+    [
+      0.000006,
+      "o"
+    ],
+    [
+      0.000006,
+      "n"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000007,
+      "n"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.000007,
+      "T"
+    ],
+    [
+      0.000007,
+      "y"
+    ],
+    [
+      0.000010,
+      "p"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000007,
+      ":"
+    ],
+    [
+      0.000011,
+      " "
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000009,
+      "p"
+    ],
+    [
+      0.000007,
+      "p"
+    ],
+    [
+      0.000008,
+      "l"
+    ],
+    [
+      0.000008,
+      "i"
+    ],
+    [
+      0.000008,
+      "c"
+    ],
+    [
+      0.000009,
+      "a"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000008,
+      "i"
+    ],
+    [
+      0.000009,
+      "o"
+    ],
+    [
+      0.000009,
+      "n"
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      0.000009,
+      "j"
+    ],
+    [
+      0.000009,
+      "s"
+    ],
+    [
+      0.000009,
+      "o"
+    ],
+    [
+      0.000010,
+      "n"
+    ],
+    [
+      0.000009,
+      "'"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      0.000009,
+      "d"
+    ],
+    [
+      0.000011,
+      " "
+    ],
+    [
+      0.000009,
+      "'"
+    ],
+    [
+      0.000010,
+      "{"
+    ],
+    [
+      0.000010,
+      "\""
+    ],
+    [
+      0.000010,
+      "u"
+    ],
+    [
+      0.000011,
+      "s"
+    ],
+    [
+      0.000010,
+      "e"
+    ],
+    [
+      0.000010,
+      "r"
+    ],
+    [
+      0.000011,
+      "n"
+    ],
+    [
+      0.000015,
+      "a"
+    ],
+    [
+      0.000008,
+      "m"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000013,
+      "\""
+    ],
+    [
+      0.000010,
+      ":"
+    ],
+    [
+      0.000011,
+      "\""
+    ],
+    [
+      0.000011,
+      "f"
+    ],
+    [
+      0.000011,
+      "o"
+    ],
+    [
+      0.000012,
+      "o"
+    ],
+    [
+      0.000011,
+      "\""
+    ],
+    [
+      0.000013,
+      ","
+    ],
+    [
+      0.000011,
+      " "
+    ],
+    [
+      0.000013,
+      "\""
+    ],
+    [
+      0.000011,
+      "p"
+    ],
+    [
+      0.000015,
+      "a"
+    ],
+    [
+      0.000011,
+      "s"
+    ],
+    [
+      0.000014,
+      "s"
+    ],
+    [
+      0.000012,
+      "w"
+    ],
+    [
+      0.000014,
+      "o"
+    ],
+    [
+      0.000012,
+      "r"
+    ],
+    [
+      0.000014,
+      "d"
+    ],
+    [
+      0.000012,
+      "\""
+    ],
+    [
+      0.000014,
+      ":"
+    ],
+    [
+      0.000012,
+      "\""
+    ],
+    [
+      0.000021,
+      "b"
+    ],
+    [
+      0.000004,
+      "a"
+    ],
+    [
+      0.000018,
+      "r"
+    ],
+    [
+      0.000012,
+      "\""
+    ],
+    [
+      0.000015,
+      "}"
+    ],
+    [
+      0.000012,
+      "'"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000012,
+      "h"
+    ],
+    [
+      0.000014,
+      "t"
+    ],
+    [
+      0.000014,
+      "t"
+    ],
+    [
+      0.000014,
+      "p"
+    ],
+    [
+      0.000017,
+      ":"
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.000015,
+      "/"
+    ],
+    [
+      0.000014,
+      "l"
+    ],
+    [
+      0.000016,
+      "o"
+    ],
+    [
+      0.000014,
+      "c"
+    ],
+    [
+      0.000015,
+      "a"
+    ],
+    [
+      0.000017,
+      "l"
+    ],
+    [
+      0.000014,
+      "h"
+    ],
+    [
+      0.000016,
+      "o"
+    ],
+    [
+      0.000016,
+      "s"
+    ],
+    [
+      0.000015,
+      "t"
+    ],
+    [
+      0.000017,
+      ":"
+    ],
+    [
+      0.000015,
+      "8"
+    ],
+    [
+      0.000016,
+      "0"
+    ],
+    [
+      0.000015,
+      "8"
+    ],
+    [
+      0.000016,
+      "0"
+    ],
+    [
+      0.000017,
+      "/"
+    ],
+    [
+      0.000015,
+      "r"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.000017,
+      "s"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      0.000017,
+      "/"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000015,
+      "p"
+    ],
+    [
+      0.000017,
+      "i"
+    ],
+    [
+      0.000017,
+      "/"
+    ],
+    [
+      0.000017,
+      "l"
+    ],
+    [
+      0.000017,
+      "o"
+    ],
+    [
+      0.000018,
+      "g"
+    ],
+    [
+      0.000018,
+      "i"
+    ],
+    [
+      0.000017,
+      "n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      1.291106,
+      "2015-04-17 09:36:36,453 [http-bio-8080-exec-4] DEBUG matcher.AntPathRequestMatcher  - Checking match of request : '/api/login'; "
+    ],
+    [
+      0.000008,
+      "against '/api/**'\r\n"
+    ],
+    [
+      0.036132,
+      "2015-04-17 09:36:36,490 [http-bio-8080-exec-4] DEBUG web.FilterChainProxy  - /api/login at position 1 of 7 in additional filter chain; firing Filter: 'MutableLogoutFilter'\r\n"
+    ],
+    [
+      0.000091,
+      "2015-04-17 09:36:36,490 [http-bio-8080-exec-4] DEBUG web.FilterChainProxy  - /api/login at position 2 of 7 in additional filter chain; firing Filter: 'RestAuthenticationFilter'\r\n"
+    ],
+    [
+      0.094113,
+      "2015-04-17 09:36:36,584 [http-bio-8080-exec-4] DEBUG rest.RestAuthenticationFilter  - Actual URI is /api/login; endpoint URL is "
+    ],
+    [
+      0.000166,
+      "/api/login\r\n2015-04-17 09:36:36,584 [http-bio-8080-exec-4] DEBUG rest.RestAuthenticationFilter  - Applying authentication filter to this request\r\n"
+    ],
+    [
+      0.183862,
+      "2015-04-17 09:36:36,768 [http-bio-8080-exec-4] DEBUG credentials.DefaultJsonPayloadCredentialsExtractor  - Extracted credentials from JSON payload. Username: foo, password: [PROTECTED]\r\n"
+    ],
+    [
+      0.134711,
+      "2015-04-17 09:36:36,903 [http-bio-8080-exec-4] DEBUG rest.RestAuthenticationFilter  - Trying to authenticate the request\r\n"
+    ],
+    [
+      0.004834,
+      "2015-04-17 09:36:36,907 [http-bio-8080-exec-4] INFO  core.SpringSecurityCoreVersion  - You are running with Spring Security Core 3.2.3.RELEASE\r\n"
+    ],
+    [
+      0.125685,
+      "2015-04-17 09:36:37,033 [http-bio-8080-exec-4] DEBUG authentication.ProviderManager  - Authentication attempt using org.springframework.security.authentication.dao.DaoAuthenticationProvider\r\n"
+    ],
+    [
+      1.621044,
+      "2015-04-17 09:36:38,654 [http-bio-8080-exec-4] WARN  userdetails.GormUserDetailsService  - User not found: foo\r\n"
+    ],
+    [
+      0.202089,
+      "2015-04-17 09:36:38,856 [http-bio-8080-exec-4] DEBUG dao.DaoAuthenticationProvider  - User 'foo' not found\r\n"
+    ],
+    [
+      0.040366,
+      "2015-04-17 09:36:38,897 [http-bio-8080-exec-4] DEBUG rest.RestAuthenticationFilter  - Authentication failed: Bad credentials\r\n"
+    ],
+    [
+      0.002114,
+      "2015-04-17 09:36:38,899 [http-bio-8080-exec-4] DEBUG bearer.BearerTokenReader  - Looking for bearer token in Authorization heade"
+    ],
+    [
+      0.000008,
+      "r, query string or Form-Encoded body parameter\r\n"
+    ],
+    [
+      0.005820,
+      "2015-04-17 09:36:38,905 [http-bio-8080-exec-4] DEBUG bearer.BearerTokenReader  - No token found\r\n"
+    ],
+    [
+      0.001279,
+      "2015-04-17 09:36:38,906 [http-bio-8080-exec-4] DEBUG bearer.BearerTokenAuthenticationFailureHandler  - Sending status code 401 and header WWW-Authenticate: Bearer\r\n"
+    ],
+    [
+      0.000010,
+      "2015-04-17 09:36:38,906 [http-bio-8080-exec-4] DEBUG rest.RestAuthenticationFilter  - Not authenticated. Rest authentication token not generated.\r\n"
+    ],
+    [
+      0.000683,
+      "HTTP/1.1 401 Unauthorized\r\r\nServer: Apache-Coyote/1.1\r\r\nWWW-Authenticate: Bearer\r\r\nContent-Length: 0\r\r\nDate: Fri, 17 Apr 2015 07:36:38 GMT\r\r\n\r\r\n"
+    ],
+    [
+      0.000900,
+      "bash-3.2$ "
+    ],
+    [
+      3.449589,
+      "exit\r\n"
+    ]
+  ]
+}
