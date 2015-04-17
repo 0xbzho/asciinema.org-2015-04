@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "width": 167,
+  "height": 32,
+  "duration": 18.073030,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.740913,
+      "[easy]:/home/easy\u003e"
+    ],
+    [
+      3.922547,
+      "l"
+    ],
+    [
+      0.086324,
+      "s"
+    ],
+    [
+      0.247604,
+      "\r\n"
+    ],
+    [
+      0.012265,
+      "\u001b[0m\u001b[01;34mbackup\u001b[0m  \u001b[01;34mc\u001b[0m  \u001b[01;34mdownload\u001b[0m  \u001b[01;34mesCcs05\u001b[0m  \u001b[01;34mgolang\u001b[0m  \u001b[01;34mpython\u001b[0m  \u001b[01;34mref709-1\u001b[0m  \u001b[01;34msysback\u001b[0m  \u001b[01;34mthrift\u001b[0m\r\n"
+    ],
+    [
+      0.001364,
+      "[easy]:/home/easy\u003e"
+    ],
+    [
+      3.092662,
+      "c"
+    ],
+    [
+      0.080938,
+      "d"
+    ],
+    [
+      0.144046,
+      " "
+    ],
+    [
+      0.102221,
+      "g"
+    ],
+    [
+      0.108756,
+      "o"
+    ],
+    [
+      0.166348,
+      "lang/"
+    ],
+    [
+      0.315047,
+      "\r\n"
+    ],
+    [
+      0.001741,
+      "[easy]:/home/easy/golang\u003e"
+    ],
+    [
+      0.198756,
+      "l"
+    ],
+    [
+      0.099606,
+      "s"
+    ],
+    [
+      0.122957,
+      "\r\n"
+    ],
+    [
+      0.011146,
+      "\u001b[0m\u001b[01;32minstall.sh\u001b[0m  \u001b[01;34mpkg\u001b[0m  \u001b[01;34msrc\u001b[0m"
+    ],
+    [
+      0.000635,
+      "\r\n"
+    ],
+    [
+      0.001846,
+      "[easy]:/home/easy/golang\u003e"
+    ],
+    [
+      1.275942,
+      "v"
+    ],
+    [
+      0.086273,
+      "i"
+    ],
+    [
+      0.090985,
+      " "
+    ],
+    [
+      0.139771,
+      "i"
+    ],
+    [
+      0.169164,
+      "nstall.sh "
+    ],
+    [
+      0.408771,
+      "\r\n"
+    ],
+    [
+      0.619134,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.003125,
+      "\u001b[1;32r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[32;1H\"install.sh\""
+    ],
+    [
+      0.005211,
+      " 5L, 227C"
+    ],
+    [
+      0.084462,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001895,
+      "\u001b[1;1H\u001b[33m  1 \u001b[mmkdir \u001b[35m-p\u001b[m \u001b[35m$HOME\u001b[m/.vim/ftdetect\r\n\u001b[33m  2 \u001b[mmkdir \u001b[35m-p\u001b[m \u001b[35m$HOME\u001b[m/.vim/syntax\r\n\u001b[33m  3 \u001b[mmkdir \u001b[35m-p\u001b[m \u001b[35m$HOME\u001b[m/.vim/autoload/go\r\n\u001b[33m  4 \u001b[mln \u001b[35m-s\u001b[m \u001b[35m$GOROOT\u001b[m/misc/vim/ftdetect/gofiletype.vim \u001b[35m$HOME\u001b[m/.vim/ftdetect/\r\n\u001b[33m  5 \u001b[mln \u001b[35m-s\u001b[m \u001b[35m$GOROOT\u001b[m/misc/vim/autoload/go/complete.vim \u001b[35m$HOME\u001b[m/.vim/autoload/go\r\n\u001b[1m\u001b[34m~                                                                                                                                                                      \u001b[7;1H~                                                                                                                                                                      \u001b[8;1H~                                                                                                                                                                      \u001b[9;1H~                                                                                                                                                                      \u001b[10;1H~                                                                                                                                                                      \u001b[11;1H~                                                                                                                                                                      \u001b[12;1H~                                                                                                                                                                      \u001b[13;1H~                                                                                                                                                                      \u001b[14;1H~                                                                                                                                                                      \u001b[15;1H~                                                                                "
+    ],
+    [
+      0.000785,
+      "                                                                                      \u001b[16;1H~                                                                                                                                                                      \u001b[17;1H~                                                                                                                                                                      \u001b[18;1H~                                                                                                                                                                      \u001b[19;1H~                                                                                                                                                                      \u001b[20;1H~                                                                                                                                                                      \u001b[21;1H~                                                                                                                                                                      \u001b[22;1H~                                                                                                                                                                      \u001b[23;1H~                                                                                                                                                                      \u001b[24;1H~                                                                                                                                                                      \u001b[25;1H~                                                                                                                                                                      \u001b[26;1H~                                                                                                                                                                      \u001b[27;1H~                                                                                                                                                                      \u001b[28;1H~                                                                                                                                                                      \u001b[29;1H~                                                                                                                                                                      \u001b[30;1H~                                                                                                                                                                      \u001b[m\u001b[31;1H\u001b[1m\u001b[7m~/golang/install.sh [文件格式=unix] [文件类型=SH] [当前位置=0001,0001][20%] [文件总行数=5]                                                                             \u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.698484,
+      "\u001b[?25l\u001b[m\u001b[32;1H\u001b[K\u001b[32;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176726,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137870,
+      "\r"
+    ],
+    [
+      0.022431,
+      "\u001b[?25l\u001b[32;1H\u001b[K\u001b[32;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l[easy]:/home/easy/golang\u003e"
+    ],
+    [
+      4.692715,
+      "exit\r\n"
+    ]
+  ]
+}
