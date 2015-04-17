@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 3.224732,
+  "command": "/bin/bash -l",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/showtime"
+  },
+  "stdout": [
+    [
+      0.318436,
+      "\u001b]0;jumpserver@asciinema: ~\u0007jumpserver@asciinema:~$ "
+    ],
+    [
+      2.312434,
+      "e"
+    ],
+    [
+      0.159941,
+      "x"
+    ],
+    [
+      0.111678,
+      "i"
+    ],
+    [
+      0.096161,
+      "t"
+    ],
+    [
+      0.224018,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "logout"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ]
+  ]
+}
