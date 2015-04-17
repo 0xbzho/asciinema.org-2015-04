@@ -1,0 +1,2542 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 68.005013,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.828601,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000027,
+      "\u001b]2;mihau@ubiquitous: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.003920,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ "
+    ],
+    [
+      0.000022,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.889112,
+      "s"
+    ],
+    [
+      0.088389,
+      "\u0008si"
+    ],
+    [
+      0.089985,
+      "e"
+    ],
+    [
+      0.169982,
+      "\u0008 \u0008"
+    ],
+    [
+      0.161033,
+      "\u0008\u0008s \u0008"
+    ],
+    [
+      0.130310,
+      "\u0008 \u0008"
+    ],
+    [
+      0.150482,
+      "e"
+    ],
+    [
+      0.040507,
+      "\u0008ec"
+    ],
+    [
+      0.110635,
+      "h"
+    ],
+    [
+      0.060377,
+      "o"
+    ],
+    [
+      0.073156,
+      " "
+    ],
+    [
+      0.178140,
+      "\""
+    ],
+    [
+      0.059688,
+      "A"
+    ],
+    [
+      0.040964,
+      "s"
+    ],
+    [
+      0.053071,
+      "d"
+    ],
+    [
+      0.074219,
+      "\""
+    ],
+    [
+      0.174354,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.001467,
+      "\u001b]2;echo \"Asd\"\u0007"
+    ],
+    [
+      0.000047,
+      "\u001b]1;echo\u0007"
+    ],
+    [
+      0.000048,
+      "Asd"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000121,
+      "\u001b]2;mihau@ubiquitous: ~\u0007"
+    ],
+    [
+      0.000079,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.005444,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ "
+    ],
+    [
+      0.000020,
+      "\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.337240,
+      "echo \"Asd\""
+    ],
+    [
+      0.127072,
+      " "
+    ],
+    [
+      0.141474,
+      "|"
+    ],
+    [
+      0.109362,
+      " "
+    ],
+    [
+      0.766176,
+      "l"
+    ],
+    [
+      0.059975,
+      "o"
+    ],
+    [
+      0.190525,
+      "c"
+    ],
+    [
+      0.727802,
+      "\u0007"
+    ],
+    [
+      0.000368,
+      "D"
+    ],
+    [
+      0.448328,
+      "\u0008 \u0008"
+    ],
+    [
+      0.233226,
+      "\u0008\u0008\u0008"
+    ],
+    [
+      0.203139,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.280895,
+      "\u001b[10C"
+    ],
+    [
+      1.203916,
+      "l"
+    ],
+    [
+      0.733552,
+      "\u0008 \u0008"
+    ],
+    [
+      0.129540,
+      "\u0008 \u0008"
+    ],
+    [
+      0.081264,
+      "l"
+    ],
+    [
+      0.181452,
+      "c"
+    ],
+    [
+      0.070064,
+      "a"
+    ],
+    [
+      0.103357,
+      "t"
+    ],
+    [
+      0.157947,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000120,
+      "\r"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.001183,
+      "\u001b]2;echo \"Asd\" | lolcat\u0007"
+    ],
+    [
+      0.000116,
+      "\u001b]1;echo\u0007"
+    ],
+    [
+      0.084716,
+      "\u001b[38;5;93mA\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\u001b[38;5;93ms\u001b[0m"
+    ],
+    [
+      0.000128,
+      "\u001b[38;5;93md\u001b[0m\r\n"
+    ],
+    [
+      0.004242,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000100,
+      "\u001b]2;mihau@ubiquitous: ~\u0007"
+    ],
+    [
+      0.000062,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.003570,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ "
+    ],
+    [
+      0.000020,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.951704,
+      "echo \"Asd\" | lolcat"
+    ],
+    [
+      0.842234,
+      "\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.201239,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.481379,
+      "\u001b[1C"
+    ],
+    [
+      0.170149,
+      "\u001b[1C"
+    ],
+    [
+      0.221706,
+      "\u001b[1C"
+    ],
+    [
+      0.140126,
+      "\u001b[1C"
+    ],
+    [
+      0.300205,
+      "\u0008\u0008\u0008\u0008\u001b[4P\u001b[9C    \u001b[13D"
+    ],
+    [
+      0.208689,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[6P\u001b[9C      \u001b[15D"
+    ],
+    [
+      0.512831,
+      "c | lolcat\u001b[9D"
+    ],
+    [
+      0.100025,
+      "\u0008ca | lolcat\u001b[9D"
+    ],
+    [
+      0.123597,
+      "t | lolcat\u001b[9D"
+    ],
+    [
+      0.057669,
+      "\u001b[1C | lolcat\u001b[9D"
+    ],
+    [
+      0.149529,
+      "/ | lolcat\u001b[9D"
+    ],
+    [
+      0.140319,
+      "d | lolcat\u001b[9D"
+    ],
+    [
+      0.050244,
+      "e | lolcat\u001b[9D"
+    ],
+    [
+      0.130275,
+      "v | lolcat\u001b[9D"
+    ],
+    [
+      0.121202,
+      "/ | lolcat\u001b[9D"
+    ],
+    [
+      1.204289,
+      "r | lolcat\u001b[9D"
+    ],
+    [
+      0.059814,
+      "a | lolcat\u001b[9D"
+    ],
+    [
+      0.113577,
+      "n | lolcat\u001b[9D"
+    ],
+    [
+      0.076915,
+      "d | lolcat\u001b[9D"
+    ],
+    [
+      0.071394,
+      "o | lolcat\u001b[9D"
+    ],
+    [
+      0.079187,
+      "m | lolcat\u001b[9D"
+    ],
+    [
+      0.130009,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000110,
+      "\r"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.001212,
+      "\u001b]2;cat /dev/random | lolcat\u0007"
+    ],
+    [
+      0.000057,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      1.434406,
+      "^C"
+    ],
+    [
+      0.005060,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000161,
+      "\u001b]2;mihau@ubiquitous: ~\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.003627,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ "
+    ],
+    [
+      0.000017,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.337384,
+      "cat /dev/random | lolcat"
+    ],
+    [
+      0.218795,
+      "\u0008\u0008\u0008\u0008\u0008\u0008      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.199098,
+      "\u001b[9D        \u001b[8D"
+    ],
+    [
+      0.305183,
+      "\u0007"
+    ],
+    [
+      0.000280,
+      "\r\r\n"
+    ],
+    [
+      0.000019,
+      "zsh: do you wish to see all 208 possibilities (70 lines)? "
+    ],
+    [
+      0.215138,
+      "y\r\u001b[J\u001b[1;31mblock\u001b[0m/               \u001b[1;33msda2\u001b[0m#                \u001b[1;33mtty6\u001b[0m%              \r\n\u001b[1;31mbsg\u001b[0m/                 \u001b[1;33msda3\u001b[0m#                \u001b[1;33mtty60\u001b[0m%             "
+    ],
+    [
+      0.000535,
+      "\r\n\u001b[1;33mbtrfs-control\u001b[0m%       \u001b[1;33msda4\u001b[0m#                \u001b[1;33mtty61\u001b[0m%             \r\n\u001b[1;31mbus\u001b[0m/                 \u001b[1;33msg0\u001b[0m%                 \u001b[1;33mtty62\u001b[0m%             \r\n\u001b[1;36mcdrom\u001b[0m@               \u001b[1;33msg1\u001b[0m%                 \u001b[1;33mtty63\u001b[0m%             \r\n\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \r\n\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              \r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \r\n\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         \r\n\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \r\n\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \r\n\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \r\n\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \r\n\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \r\n\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \r\n\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            \r\n\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \r\n\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \r\n\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            \r\n\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \r\n\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \r\n\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \r\n\u001b[J\u001b[1;31minput\u001b[0m/               \u001b[J\u001b[1;33mtty16\u001b[0m%               \u001b[J\u001b[1;33mttyS20\u001b[0m%            \u001b[J\r\n"
+    ],
+    [
+      0.000717,
+      "\u001b[1;33mkmsg\u001b[0m%                \u001b[J\u001b[1;33mtty17\u001b[0m%               \u001b[J\u001b[1;33mttyS21\u001b[0m%            \u001b[J\r\n\u001b[1;35mlog\u001b[0m=                 \u001b[J\u001b[1;33mtty18\u001b[0m%               \u001b[J\u001b[1;33mttyS22\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop0\u001b[0m#               \u001b[J\u001b[1;33mtty19\u001b[0m%               \u001b[J\u001b[1;33mttyS23\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop1\u001b[0m#               \u001b[J\u001b[1;33mtty2\u001b[0m%                \u001b[J\u001b[1;33mttyS24\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop2\u001b[0m#               \u001b[J\u001b[1;33mtty20\u001b[0m%               \u001b[J\u001b[1;33mttyS25\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop3\u001b[0m#               \u001b[J\u001b[1;33mtty21\u001b[0m%               \u001b[J\u001b[1;33mttyS26\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop4\u001b[0m#               \u001b[J\u001b[1;33mtty22\u001b[0m%               \u001b[J\u001b[1;33mttyS27\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop5\u001b[0m#               \u001b[J\u001b[1;33mtty23\u001b[0m%               \u001b[J\u001b[1;33mttyS28\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop6\u001b[0m#               \u001b[J\u001b[1;33mtty24\u001b[0m%               \u001b[J\u001b[1;33mttyS29\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop7\u001b[0m#               \u001b[J\u001b[1;33mtty25\u001b[0m%               \u001b[J\u001b[1;33mttyS3\u001b[0m%             \u001b[J\r\n\u001b[1;33mloop-control\u001b[0m%        \u001b[J\u001b[1;33mtty26\u001b[0m%               \u001b[J\u001b[1;33mttyS30\u001b[0m%            \u001b[J\r\n\u001b[1;33mlp0\u001b[0m%                 \u001b[J\u001b[1;33mtty27\u001b[0m%               \u001b[J\u001b[1;33mttyS31\u001b[0m%            \u001b[J\r\n\u001b[1;31mmapper\u001b[0m/              \u001b[J\u001b[1;33mtty28\u001b[0m%               \u001b[J\u001b[1;33mttyS4\u001b[0m%             \u001b[J\r\n\u001b[1;33mmcelog\u001b[0m%              \u001b[J\u001b[1;33mtty29\u001b[0m%               \u001b[J\u001b[1;33mttyS5\u001b[0m%             \u001b[J\r\n\u001b[1;33mmem\u001b[0m%                 \u001b[J\u001b[1;33mtty3\u001b[0m%                \u001b[J\u001b[1;33mttyS6\u001b[0m%             \u001b[J\r\n\u001b[1;31mnet\u001b[0m/                 \u001b[J\u001b[1;33mtty30\u001b[0m%               \u001b[J\u001b[1;33mttyS7\u001b[0m%             \u001b[J\r\n\u001b[1;33mnetwork_latency\u001b[0m%     \u001b[J\u001b[1;33mtty31\u001b[0m%               \u001b[J\u001b[1;33mttyS8\u001b[0m%             \u001b[J\r\n\u001b[1;33mnetwork_throughput\u001b[0m%  \u001b[J\u001b[1;33mtty32\u001b[0m%               \u001b[J\u001b[1;33mttyS9\u001b[0m%             \u001b[J\r\n\u001b[1;33mnull\u001b[0m%                \u001b[J\u001b[1;33mtty33\u001b[0m%               \u001b[J\u001b[1;33muinput\u001b[0m%            \u001b[J\r\n\u001b[1;33mparport0\u001b[0m%            \u001b[J\u001b[1;33mtty34\u001b[0m%               \u001b[J\u001b[1;33murandom\u001b[0m%           \u001b[J\r\n\u001b[1;33mport\u001b[0m%                \u001b[J\u001b[1;33mtty35\u001b[0m%               \u001b[J\u001b[1;31musb\u001b[0m/               \u001b[J\r\n\u001b[1;33mppp\u001b[0m%                 \u001b[J\u001b[1;33mtty36\u001b[0m%               \u001b[J\u001b[1;33mvboxdrv\u001b[0m%           \u001b[J\r\n\u001b[1;33mpsaux\u001b[0m%               \u001b[J\u001b[1;33mtty37\u001b[0m%               \u001b[J\u001b[1;33mvboxdrvu\u001b[0m%          \u001b[J\r\n\u001b[1;33mptmx\u001b[0m%                \u001b[J\u001b[1;33mtty38\u001b[0m%               \u001b[J\u001b[1;33mvboxnetctl\u001b[0m%        \u001b[J\r\n\u001b[1;31mpts\u001b[0m/                 \u001b[J\u001b[1;33mtty39\u001b[0m%               \u001b[J\u001b[1;31mvboxusb\u001b[0m/           \u001b[J\r\n\u001b[1;33mram0\u001b[0m#                \u001b[J\u001b[1;33mtty4\u001b[0m%                \u001b[J\u001b[1;33mvcs\u001b[0m%               \u001b[J\r\n\u001b[1;33mram1\u001b[0m#                \u001b[J\u001b[1;33mtty40\u001b[0m%               \u001b[J\u001b[1;33mvcs1\u001b[0m%              \u001b[J\r\n\u001b[1;33mram10\u001b[0m#               \u001b[J\u001b[1;33mtty41\u001b[0m%               \u001b[J\u001b[1;33mvcs2\u001b[0m%              \u001b[J\r\n\u001b[1;33mram11\u001b[0m#               \u001b[J\u001b[1;33mtty42\u001b[0m%               \u001b[J\u001b[1;33mvcs3\u001b[0m%              \u001b[J\r\n\u001b[1;33mram12\u001b[0m#               \u001b[J\u001b[1;33mtty43\u001b[0m%               \u001b[J\u001b[1;33mvcs4\u001b[0m%              \u001b[J\r\n\u001b[1;33mram13\u001b[0m#               \u001b[J\u001b[1;33mtty44\u001b[0m%               \u001b[J\u001b[1;33mvcs5\u001b[0m%              \u001b[J\r\n\u001b[1;33mram14\u001b[0m#               \u001b[J\u001b[1;33mtty45\u001b[0m%               \u001b[J\u001b[1;33mvcs6\u001b[0m%              \u001b[J\r\n\u001b[1;33mram15\u001b[0m#               \u001b[J\u001b[1;33mtty46\u001b[0m%               \u001b[J\u001b[1;33mvcs63\u001b[0m%             \u001b[J\r\n\u001b[1;33mram2\u001b[0m#                \u001b[J\u001b[1;33mtty47\u001b[0m%               \u001b[J\u001b[1;33mvcs8\u001b[0m%              \u001b[J\r\n\u001b[1;33mram3\u001b[0m#                \u001b[J\u001b[1;33mtty48\u001b[0m%               \u001b[J\u001b[1;33mvcsa\u001b[0m%              \u001b[J\r\n\u001b[1;33mram4\u001b[0m#                \u001b[J\u001b[1;33mtty49\u001b[0m%               \u001b[J\u001b[1;33mvcsa1\u001b[0m%             \u001b[J\r\n\u001b[1;33mram5\u001b[0m#                \u001b[J\u001b[1;33mtty5\u001b[0m%                \u001b[J\u001b[1;33mvcsa2\u001b[0m%             \u001b[J\r\n\u001b[1;33mram6\u001b[0m#                \u001b[J\u001b[1;33mtty50\u001b[0m%               \u001b[J\u001b[1;33mvcsa3\u001b[0m%             \u001b[J\r\n\u001b[1;33mram7\u001b[0m#                \u001b[J\u001b[1;33mtty51\u001b[0m%               \u001b[J\u001b[1;33mvcsa4\u001b[0m%             \u001b[J\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[1;33mram8\u001b[0m#                \u001b[J\u001b[1;33mtty52\u001b[0m%               \u001b[J\u001b[1;33mvcsa5\u001b[0m%             \u001b[J\r\n\u001b[1;33mram9\u001b[0m#                \u001b[J\u001b[1;33mtty53\u001b[0m%               \u001b[J\u001b[1;33mvcsa6\u001b[0m%             \u001b[J\r\n\u001b[1;33mrandom\u001b[0m%              \u001b[J\u001b[1;33mtty54\u001b[0m%               \u001b[J\u001b[1;33mvcsa63\u001b[0m%            \u001b[J\r\n\u001b[1;33mrfkill\u001b[0m%              \u001b[J\u001b[1;33mtty55\u001b[0m%               \u001b[J\u001b[1;33mvcsa8\u001b[0m%             \u001b[J\r\n\u001b[1;36mrtc\u001b[0m@                 \u001b[J\u001b[1;33mtty56\u001b[0m%               \u001b[J\u001b[1;33mvga_arbiter\u001b[0m%       \u001b[J\r\n\u001b[1;33mrtc0\u001b[0m%                \u001b[J\u001b[1;33mtty57\u001b[0m%               \u001b[J\u001b[1;33mzero\u001b[0m%              \u001b[J\r\n\u001b[1;33msda\u001b[0m#                 \u001b[J\u001b[1;33mtty58\u001b[0m%               \u001b[J                   \r\n\u001b[1;33msda1\u001b[0m#                \u001b[J\u001b[1;33mtty59\u001b[0m%               \u001b[J                   \r\n\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ cat /dev/\u001b[K"
+    ],
+    [
+      0.734435,
+      "d"
+    ],
+    [
+      0.080011,
+      "a"
+    ],
+    [
+      0.210026,
+      "\u0008 \u0008"
+    ],
+    [
+      0.140140,
+      "\u0008 \u0008"
+    ],
+    [
+      0.050500,
+      "r"
+    ],
+    [
+      0.049959,
+      "a"
+    ],
+    [
+      0.165118,
+      "\u0007"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[1;33mram0\u001b[0m#    \u001b[1;33mram11\u001b[0m#   \u001b[1;33mram14\u001b[0m#   \u001b[1;33mram3\u001b[0m#    \u001b[1;33mram6\u001b[0m#    \u001b[1;33mram9\u001b[0m#                  \r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[1;33mram1\u001b[0m#    \u001b[1;33mram12\u001b[0m#   \u001b[1;33mram15\u001b[0m#   \u001b[1;33mram4\u001b[0m#    \u001b[1;33mram7\u001b[0m#    \u001b[1;33mrandom\u001b[0m%                \r\n\u001b[J\u001b[1;33mram10\u001b[0m#   \u001b[J\u001b[1;33mram13\u001b[0m#   \u001b[J\u001b[1;33mram2\u001b[0m#    \u001b[J\u001b[1;33mram5\u001b[0m#    \u001b[J\u001b[1;33mram8\u001b[0m#    \u001b[J                     \u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/ra\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.191408,
+      "m0"
+    ],
+    [
+      0.000012,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "\u001b[7mram0#  \u001b[0m  \u001b[1;33mram11\u001b[0m#   \u001b[1;33mram14\u001b[0m#   \u001b[1;33mram3\u001b[0m#    \u001b[1;33mram6\u001b[0m#    \u001b[1;33mram9\u001b[0m#                  \u001b[K\r\n\u001b[1;33mram1\u001b[0m#    \u001b[1;33mram12\u001b[0m#   \u001b[1;33mram15\u001b[0m#   \u001b[1;33mram4\u001b[0m#    \u001b[1;33mram7\u001b[0m#    \u001b[1;33mrandom\u001b[0m%                \u001b[K\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[J\u001b[1;33mram10\u001b[0m#   \u001b[J\u001b[1;33mram13\u001b[0m#   \u001b[J\u001b[1;33mram2\u001b[0m#    \u001b[J\u001b[1;33mram5\u001b[0m#    \u001b[J\u001b[1;33mram8\u001b[0m#    \u001b[J                     \u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/ram0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.325893,
+      "\r\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[7mram0#  \u001b[0m  \r\u001b[7mram0#  \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000045,
+      "cat /dev/ram0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.000124,
+      "\u00081"
+    ],
+    [
+      0.000026,
+      "\r"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[1;33mram0\u001b[0m#    \r\u001b[1B\u001b[7mram1#  \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000042,
+      "cat /dev/ram1\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.199680,
+      "0"
+    ],
+    [
+      0.000028,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[1B\u001b[1;33mram1\u001b[0m#    \r\u001b[1B\u001b[7mram10# \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000047,
+      "cat /dev/ram10\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      1.143952,
+      "\u00081"
+    ],
+    [
+      0.000032,
+      "\r"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "\u001b[9C\u001b[7mram11# \u001b[0m  \r\u001b[2B\u001b[1;33mram10\u001b[0m#   \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000046,
+      "cat /dev/ram11\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.129142,
+      "\u00082\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[9C\u001b[1;33mram11\u001b[0m#   \r\u001b[1B\u001b[9C\u001b[7mram12# \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000014,
+      "cat /dev/ram12\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.162062,
+      "\u00083"
+    ],
+    [
+      0.000075,
+      "\r"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "\u001b[1B\u001b[9C\u001b[1;33mram12\u001b[0m#   \r\u001b[1B\u001b[9C\u001b[7mram13# \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000026,
+      "cat /dev/ram13\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.340430,
+      "\r"
+    ],
+    [
+      0.000045,
+      "\r\n\u001b[J\u001b[A\u001b[16C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.492192,
+      "\u0008\u001b[0m|"
+    ],
+    [
+      0.120004,
+      " "
+    ],
+    [
+      0.120866,
+      "l"
+    ],
+    [
+      0.100127,
+      "o"
+    ],
+    [
+      0.160296,
+      "l"
+    ],
+    [
+      0.140341,
+      "c"
+    ],
+    [
+      0.080178,
+      "a"
+    ],
+    [
+      0.120220,
+      "t"
+    ],
+    [
+      0.099844,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000107,
+      "\r\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[J"
+    ],
+    [
+      0.001022,
+      "\u001b]2;cat /dev/ram13 | lolcat\u0007"
+    ],
+    [
+      0.000022,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      0.002420,
+      "cat: "
+    ],
+    [
+      0.001116,
+      "/dev/ram13"
+    ],
+    [
+      0.000245,
+      ": Permission denied"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.082751,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;mihau@ubiquitous: ~\u0007"
+    ],
+    [
+      0.000057,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.003768,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ "
+    ],
+    [
+      0.000017,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.614807,
+      "cat /dev/ram13| lolcat"
+    ],
+    [
+      0.400955,
+      "\u001b[22D"
+    ],
+    [
+      0.179210,
+      "scat /dev/ram13| lolcat\u001b[22D"
+    ],
+    [
+      0.170498,
+      "\u0008sucat /dev/ram13| lolcat\u001b[22D"
+    ],
+    [
+      0.230298,
+      "\u0008\u0008s\u001b[P\u001b[22C \u001b[23D"
+    ],
+    [
+      0.172182,
+      "\u001b[22C"
+    ],
+    [
+      0.278269,
+      "\u0008\u0008\u0008\u0008\u0008\u0008      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.171981,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.180457,
+      "\u0008\u0008\u0008\u0008    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.150007,
+      "\u0008\u0008\u0008\u0008\u0008\u0008      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.533034,
+      "c"
+    ],
+    [
+      0.100016,
+      "\u0008ca"
+    ],
+    [
+      0.130286,
+      "t"
+    ],
+    [
+      0.073520,
+      " "
+    ],
+    [
+      0.257755,
+      "/"
+    ],
+    [
+      0.109918,
+      "d"
+    ],
+    [
+      0.050173,
+      "e"
+    ],
+    [
+      0.130349,
+      "v"
+    ],
+    [
+      0.103003,
+      "/"
+    ],
+    [
+      0.263691,
+      "\u0007"
+    ],
+    [
+      0.000304,
+      "\r\r\n"
+    ],
+    [
+      0.000015,
+      "zsh: do you wish to see all 208 possibilities (70 lines)? "
+    ],
+    [
+      0.907906,
+      "n\r\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000103,
+      "cat /dev/\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.000416,
+      "\u0008 \u0008"
+    ],
+    [
+      0.701711,
+      "/"
+    ],
+    [
+      0.481896,
+      "r"
+    ],
+    [
+      0.070089,
+      "a"
+    ],
+    [
+      0.074155,
+      "n"
+    ],
+    [
+      0.096056,
+      "d"
+    ],
+    [
+      0.063613,
+      "o"
+    ],
+    [
+      0.046942,
+      "m"
+    ],
+    [
+      0.072989,
+      "\u001b[1m \u001b[0m"
+    ],
+    [
+      0.189300,
+      "\u0007"
+    ],
+    [
+      0.000017,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.000044,
+      "\r"
+    ],
+    [
+      0.000018,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.000158,
+      "\u001b[1;31mArduino\u001b[0m/                          nginx_proxy.log                 \r\n\u001b[1;36mbin\u001b[0m@                              \u001b[1;31mPictures\u001b[0m/                       \r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[1;31mDesktop\u001b[0m/                          \u001b[1;36mPlayOnLinux\\'s\\ virtual\\ drives\u001b[0m@\r\n\u001b[1;31mDocuments\u001b[0m/                        \u001b[1;31mR\u001b[0m/                              \r\n\u001b[1;31mDownloads\u001b[0m/                        \u001b[1;31mscreencasts\u001b[0m/                    \r\n\u001b[1;31mFiles\u001b[0m/                            \u001b[1;31mVirtualBox\\ VMs\u001b[0m/                \r\n\u001b[Jnginx_error2.log                  \u001b[J\u001b[1;31mworkspace\u001b[0m/                      \u001b[J\u001b[7A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000025,
+      "cat /dev/random\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[1C"
+    ],
+    [
+      0.551444,
+      "|"
+    ],
+    [
+      0.118905,
+      " "
+    ],
+    [
+      0.181014,
+      "l"
+    ],
+    [
+      0.103264,
+      "o"
+    ],
+    [
+      0.237422,
+      "l"
+    ],
+    [
+      0.343588,
+      "c"
+    ],
+    [
+      0.057385,
+      "a"
+    ],
+    [
+      0.094130,
+      "t"
+    ],
+    [
+      0.107042,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000103,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[J"
+    ],
+    [
+      0.001295,
+      "\u001b]2;cat /dev/random | lolcat\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      2.789467,
+      "^C"
+    ],
+    [
+      0.006936,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000179,
+      "\u001b]2;mihau@ubiquitous: ~\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.003783,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "λ "
+    ],
+    [
+      0.000047,
+      "\u001b[K"
+    ],
+    [
+      0.000113,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.814044,
+      "cat /dev/random | lolcat"
+    ],
+    [
+      0.248147,
+      "\u0008\u0008\u0008\u0008\u0008\u0008      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.090270,
+      "\u001b[9D        \u001b[8D"
+    ],
+    [
+      0.180711,
+      "\u0008\u0008\u0008\u0008    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.150275,
+      "\u0008\u0008\u0008\u0008\u0008     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.281629,
+      "c"
+    ],
+    [
+      0.090189,
+      "\u0008ca"
+    ],
+    [
+      0.091018,
+      "t"
+    ],
+    [
+      0.092648,
+      " "
+    ],
+    [
+      0.067112,
+      "/"
+    ],
+    [
+      0.563472,
+      "d"
+    ],
+    [
+      0.059880,
+      "e"
+    ],
+    [
+      0.110389,
+      "v"
+    ],
+    [
+      0.129868,
+      "/"
+    ],
+    [
+      0.231313,
+      "n"
+    ],
+    [
+      0.070182,
+      "u"
+    ],
+    [
+      0.200290,
+      "l"
+    ],
+    [
+      0.171351,
+      "l"
+    ],
+    [
+      0.240580,
+      "\u0008\u0008\u0008\u0008    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.187870,
+      "\u0007"
+    ],
+    [
+      0.000289,
+      "\r\r\n"
+    ],
+    [
+      0.000012,
+      "zsh: do you wish to see all 208 possibilities (70 lines)? "
+    ],
+    [
+      0.180915,
+      "y\r\u001b[J\u001b[1;31mblock\u001b[0m/               \u001b[1;33msda2\u001b[0m#                \u001b[1;33mtty6\u001b[0m%              \r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[1;31mbsg\u001b[0m/                 \u001b[1;33msda3\u001b[0m#                \u001b[1;33mtty60\u001b[0m%             \r\n\u001b[1;33mbtrfs-control\u001b[0m%       \u001b[1;33msda4\u001b[0m#                \u001b[1;33mtty61\u001b[0m%             \r\n"
+    ],
+    [
+      0.000157,
+      "\u001b[1;31mbus\u001b[0m/                 \u001b[1;33msg0\u001b[0m%                 \u001b[1;33mtty62\u001b[0m%             \r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[1;36mcdrom\u001b[0m@               \u001b[1;33msg1\u001b[0m%                 \u001b[1;33mtty63\u001b[0m%             \r\n\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \r\n"
+    ],
+    [
+      0.000119,
+      "\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              "
+    ],
+    [
+      0.000086,
+      "\r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \r\n\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         "
+    ],
+    [
+      0.000127,
+      "\r\n\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \r\n"
+    ],
+    [
+      0.000107,
+      "\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \r\n\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \r\n\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \r\n\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \r\n\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            "
+    ],
+    [
+      0.000094,
+      "\r\n\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \r\n\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \r\n\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            "
+    ],
+    [
+      0.000208,
+      "\r\n\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \r\n\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \r\n\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \r\n\u001b[J\u001b[1;31minput\u001b[0m/               \u001b[J\u001b[1;33mtty16\u001b[0m%               \u001b[J\u001b[1;33mttyS20\u001b[0m%            \u001b[J\r\n\u001b[1;33mkmsg\u001b[0m%                \u001b[J\u001b[1;33mtty17\u001b[0m%               \u001b[J\u001b[1;33mttyS21\u001b[0m%            \u001b[J\r\n\u001b[1;35mlog\u001b[0m=                 \u001b[J\u001b[1;33mtty18\u001b[0m%               \u001b[J\u001b[1;33mttyS22\u001b[0m%            \u001b[J"
+    ],
+    [
+      0.000216,
+      "\r\n\u001b[1;33mloop0\u001b[0m#               \u001b[J\u001b[1;33mtty19\u001b[0m%               \u001b[J\u001b[1;33mttyS23\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop1\u001b[0m#               \u001b[J\u001b[1;33mtty2\u001b[0m%                \u001b[J\u001b[1;33mttyS24\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop2\u001b[0m#               \u001b[J\u001b[1;33mtty20\u001b[0m%               \u001b[J\u001b[1;33mttyS25\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop3\u001b[0m#               \u001b[J\u001b[1;33mtty21\u001b[0m%               \u001b[J\u001b[1;33mttyS26\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop4\u001b[0m#               \u001b[J\u001b[1;33mtty22\u001b[0m%               \u001b[J\u001b[1;33mttyS27\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop5\u001b[0m#               \u001b[J\u001b[1;33mtty23\u001b[0m%               \u001b[J\u001b[1;33mttyS28\u001b[0m%            \u001b[J\r\n\u001b[1;33mloop6\u001b[0m#               \u001b[J\u001b[1;33mtty24\u001b[0m%               \u001b[J\u001b[1;33mttyS29\u001b[0m%            \u001b[J\r\n"
+    ],
+    [
+      0.000292,
+      "\u001b[1;33mloop7\u001b[0m#               \u001b[J\u001b[1;33mtty25\u001b[0m%               \u001b[J\u001b[1;33mttyS3\u001b[0m%             \u001b[J\r\n\u001b[1;33mloop-control\u001b[0m%        \u001b[J\u001b[1;33mtty26\u001b[0m%               \u001b[J\u001b[1;33mttyS30\u001b[0m%            \u001b[J\r\n\u001b[1;33mlp0\u001b[0m%                 \u001b[J\u001b[1;33mtty27\u001b[0m%               \u001b[J\u001b[1;33mttyS31\u001b[0m%            \u001b[J\r\n\u001b[1;31mmapper\u001b[0m/              \u001b[J\u001b[1;33mtty28\u001b[0m%               \u001b[J\u001b[1;33mttyS4\u001b[0m%             \u001b[J\r\n\u001b[1;33mmcelog\u001b[0m%              \u001b[J\u001b[1;33mtty29\u001b[0m%               \u001b[J\u001b[1;33mttyS5\u001b[0m%             \u001b[J\r\n\u001b[1;33mmem\u001b[0m%                 \u001b[J\u001b[1;33mtty3\u001b[0m%                \u001b[J\u001b[1;33mttyS6\u001b[0m%             \u001b[J\r\n\u001b[1;31mnet\u001b[0m/                 \u001b[J\u001b[1;33mtty30\u001b[0m%               \u001b[J\u001b[1;33mttyS7\u001b[0m%             \u001b[J\r\n\u001b[1;33mnetwork_latency\u001b[0m%     \u001b[J\u001b[1;33mtty31\u001b[0m%               \u001b[J\u001b[1;33mttyS8\u001b[0m%             \u001b[J\r\n\u001b[1;33mnetwork_throughput\u001b[0m%  \u001b[J\u001b[1;33mtty32\u001b[0m%               \u001b[J\u001b[1;33mttyS9\u001b[0m%             \u001b[J\r\n\u001b[1;33mnull\u001b[0m%                \u001b[J\u001b[1;33mtty33\u001b[0m%               \u001b[J\u001b[1;33muinput\u001b[0m%            \u001b[J"
+    ],
+    [
+      0.000931,
+      "\r\n\u001b[1;33mparport0\u001b[0m%            \u001b[J\u001b[1;33mtty34\u001b[0m%               \u001b[J\u001b[1;33murandom\u001b[0m%           \u001b[J\r\n\u001b[1;33mport\u001b[0m%                \u001b[J\u001b[1;33mtty35\u001b[0m%               \u001b[J\u001b[1;31musb\u001b[0m/               \u001b[J\r\n\u001b[1;33mppp\u001b[0m%                 \u001b[J\u001b[1;33mtty36\u001b[0m%               \u001b[J\u001b[1;33mvboxdrv\u001b[0m%           \u001b[J\r\n\u001b[1;33mpsaux\u001b[0m%               \u001b[J\u001b[1;33mtty37\u001b[0m%               \u001b[J\u001b[1;33mvboxdrvu\u001b[0m%          \u001b[J\r\n\u001b[1;33mptmx\u001b[0m%                \u001b[J\u001b[1;33mtty38\u001b[0m%               \u001b[J\u001b[1;33mvboxnetctl\u001b[0m%        \u001b[J\r\n\u001b[1;31mpts\u001b[0m/                 \u001b[J\u001b[1;33mtty39\u001b[0m%               \u001b[J\u001b[1;31mvboxusb\u001b[0m/           \u001b[J\r\n\u001b[1;33mram0\u001b[0m#                \u001b[J\u001b[1;33mtty4\u001b[0m%                \u001b[J\u001b[1;33mvcs\u001b[0m%               \u001b[J\r\n\u001b[1;33mram1\u001b[0m#                \u001b[J\u001b[1;33mtty40\u001b[0m%               \u001b[J\u001b[1;33mvcs1\u001b[0m%              \u001b[J\r\n\u001b[1;33mram10\u001b[0m#               \u001b[J\u001b[1;33mtty41\u001b[0m%               \u001b[J\u001b[1;33mvcs2\u001b[0m%              \u001b[J\r\n\u001b[1;33mram11\u001b[0m#               \u001b[J\u001b[1;33mtty42\u001b[0m%               \u001b[J\u001b[1;33mvcs3\u001b[0m%              \u001b[J\r\n\u001b[1;33mram12\u001b[0m#               \u001b[J\u001b[1;33mtty43\u001b[0m%               \u001b[J\u001b[1;33mvcs4\u001b[0m%              \u001b[J\r\n\u001b[1;33mram13\u001b[0m#               \u001b[J\u001b[1;33mtty44\u001b[0m%               \u001b[J\u001b[1;33mvcs5\u001b[0m%              \u001b[J\r\n\u001b[1;33mram14\u001b[0m#               \u001b[J\u001b[1;33mtty45\u001b[0m%               \u001b[J\u001b[1;33mvcs6\u001b[0m%              \u001b[J\r\n\u001b[1;33mram15\u001b[0m#               \u001b[J\u001b[1;33mtty46\u001b[0m%               \u001b[J\u001b[1;33mvcs63\u001b[0m%             \u001b[J\r\n"
+    ],
+    [
+      0.000217,
+      "\u001b[1;33mram2\u001b[0m#                \u001b[J\u001b[1;33mtty47\u001b[0m%               \u001b[J\u001b[1;33mvcs8\u001b[0m%              \u001b[J\r\n\u001b[1;33mram3\u001b[0m#                \u001b[J\u001b[1;33mtty48\u001b[0m%               \u001b[J\u001b[1;33mvcsa\u001b[0m%              \u001b[J\r\n\u001b[1;33mram4\u001b[0m#                \u001b[J\u001b[1;33mtty49\u001b[0m%               \u001b[J\u001b[1;33mvcsa1\u001b[0m%             \u001b[J\r\n\u001b[1;33mram5\u001b[0m#                \u001b[J\u001b[1;33mtty5\u001b[0m%                \u001b[J\u001b[1;33mvcsa2\u001b[0m%             \u001b[J\r\n\u001b[1;33mram6\u001b[0m#                \u001b[J\u001b[1;33mtty50\u001b[0m%               \u001b[J\u001b[1;33mvcsa3\u001b[0m%             \u001b[J\r\n\u001b[1;33mram7\u001b[0m#                \u001b[J\u001b[1;33mtty51\u001b[0m%               \u001b[J\u001b[1;33mvcsa4\u001b[0m%             \u001b[J\r\n\u001b[1;33mram8\u001b[0m#                \u001b[J\u001b[1;33mtty52\u001b[0m%               \u001b[J\u001b[1;33mvcsa5\u001b[0m%             \u001b[J\r\n\u001b[1;33mram9\u001b[0m#                \u001b[J\u001b[1;33mtty53\u001b[0m%               \u001b[J\u001b[1;33mvcsa6\u001b[0m%             \u001b[J\r\n\u001b[1;33mrandom\u001b[0m%              \u001b[J\u001b[1;33mtty54\u001b[0m%               \u001b[J\u001b[1;33mvcsa63\u001b[0m%            \u001b[J\r\n\u001b[1;33mrfkill\u001b[0m%              \u001b[J\u001b[1;33mtty55\u001b[0m%               \u001b[J\u001b[1;33mvcsa8\u001b[0m%             \u001b[J\r\n\u001b[1;36mrtc\u001b[0m@                 \u001b[J\u001b[1;33mtty56\u001b[0m%               \u001b[J\u001b[1;33mvga_arbiter\u001b[0m%       \u001b[J\r\n\u001b[1;33mrtc0\u001b[0m%                \u001b[J\u001b[1;33mtty57\u001b[0m%               \u001b[J\u001b[1;33mzero\u001b[0m%              \u001b[J\r\n\u001b[1;33msda\u001b[0m#                 \u001b[J\u001b[1;33mtty58\u001b[0m%               \u001b[J                   \r\n\u001b[1;33msda1\u001b[0m#                \u001b[J\u001b[1;33mtty59\u001b[0m%               \u001b[J                   \r\n\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ cat /dev/\u001b[K"
+    ],
+    [
+      0.258787,
+      "block\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000264,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000734,
+      "\u001b[7mblock/             \u001b[0m  \u001b[1;33msda2\u001b[0m#                \u001b[1;33mtty6\u001b[0m%              \u001b[K\r\n\u001b[1;31mbsg\u001b[0m/                 \u001b[1;33msda3\u001b[0m#                \u001b[1;33mtty60\u001b[0m%             \u001b[K\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[1;33mbtrfs-control\u001b[0m%       \u001b[1;33msda4\u001b[0m#                \u001b[1;33mtty61\u001b[0m%             \u001b[K\r\n\u001b[1;31mbus\u001b[0m/                 \u001b[1;33msg0\u001b[0m%                 \u001b[1;33mtty62\u001b[0m%             \u001b[K\r\n\u001b[1;36mcdrom\u001b[0m@               \u001b[1;33msg1\u001b[0m%                 \u001b[1;33mtty63\u001b[0m%             \u001b[K\r\n\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \u001b[K\r\n\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              \u001b[K"
+    ],
+    [
+      0.000092,
+      "\r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \u001b[K\r\n\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         \u001b[K\r\n\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \u001b[K\r\n\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \u001b[K\r\n\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \u001b[K\r\n\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \u001b[K\r\n\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \u001b[K\r\n\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000102,
+      "\r\n\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            \u001b[K\r\n\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \u001b[K\r\n\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \u001b[K\r\n\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \u001b[K\r\n\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \u001b[K\r\n\u001b[J\u001b[1;31minput\u001b[0m/               \u001b[J\u001b[1;33mtty16\u001b[0m%               \u001b[J\u001b[1;33mttyS20\u001b[0m%            \u001b[J\u001b[J\u001b[J\u001b[J\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/block\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.471777,
+      "\r"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[7mblock/             \u001b[0m  \r\u001b[7mblock/             \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000048,
+      "cat /dev/block\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.000126,
+      "\u0008\u0008\u0008\u0008\u0008sg\u001b[1m/\u001b[0m \u001b[0m \u0008\u0008"
+    ],
+    [
+      0.000026,
+      "\r"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[1;31mblock\u001b[0m/               \r\u001b[1B\u001b[7mbsg/               \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000050,
+      "cat /dev/bsg\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.210281,
+      "\u0008\u0008\u0008tr\u001b[0mfs-control"
+    ],
+    [
+      0.000028,
+      "\r"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[1B\u001b[1;31mbsg\u001b[0m/                 \r\u001b[1B\u001b[7mbtrfs-control%     \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000049,
+      "cat /dev/btrfs-control\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.190076,
+      "\u001b[12Dus\u001b[1m/\u001b[0m         \u001b[9D"
+    ],
+    [
+      0.000029,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[2B\u001b[1;33mbtrfs-control\u001b[0m%       \r\u001b[1B\u001b[7mbus/               \u001b[0m  \r\u001b[4A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000047,
+      "cat /dev/bus\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.211912,
+      "\u0008\u0008\u0008\u0008cdr\u001b[0mom"
+    ],
+    [
+      0.000030,
+      "\r"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[3B\u001b[1;31mbus\u001b[0m/                 \r\u001b[1B\u001b[7mcdrom@             \u001b[0m  \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000024,
+      "cat /dev/cdrom\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.220571,
+      "\u0008\u0008\u0008\u0008har\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\r\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[4B\u001b[1;36mcdrom\u001b[0m@               \r\u001b[1B\u001b[7mchar/              \u001b[0m  \r\u001b[6A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000050,
+      "cat /dev/char\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      2.207573,
+      "\u0008\u0008\u0008\u0008ons\u001b[0mole"
+    ],
+    [
+      0.000047,
+      "\r\r\n\u001b[5B\u001b[1;31mchar\u001b[0m/                \r\u001b[1B\u001b[7mconsole%           \u001b[0m  \r\u001b[7A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/console\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.499931,
+      "\u0008\u0008\u0008\u0008\u0008re   \u0008\u0008\u0008"
+    ],
+    [
+      0.000033,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[6B\u001b[1;33mconsole\u001b[0m%             \r\u001b[1B\u001b[7mcore@              \u001b[0m  \r\u001b[8A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000107,
+      "cat /dev/core\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050116,
+      "\u0008\u0008\u0008pu\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000034,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[7B\u001b[1;36mcore\u001b[0m@                \r\u001b[1B\u001b[7mcpu/               \u001b[0m  \r\u001b[9A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000034,
+      "cat /dev/cpu\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050085,
+      "\u0008\u001b[0m_dma_latency"
+    ],
+    [
+      0.000029,
+      "\r"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[8B\u001b[1;31mcpu\u001b[0m/                 \r\u001b[1B\u001b[7mcpu_dma_latency%   \u001b[0m  \r\u001b[10A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000045,
+      "cat /dev/cpu_dma_latency\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050149,
+      "\u001b[15Ddisk\u001b[1m/\u001b[0m          \u001b[10D"
+    ],
+    [
+      0.000098,
+      "\r"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[9B\u001b[1;33mcpu_dma_latency\u001b[0m%     \r\u001b[1B\u001b[7mdisk/              \u001b[0m  \r\u001b[11A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000026,
+      "cat /dev/disk\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.049996,
+      "\u0008\u0008\u0008\u0008ri\u001b[1m/\u001b[0m\u001b[0m \u0008"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[10B\u001b[1;31mdisk\u001b[0m/                \r\u001b[1B\u001b[7mdri/               \u001b[0m  \r\u001b[12A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000022,
+      "cat /dev/dri\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050836,
+      "\u0008\u0008\u0008vd\u001b[0m \u0008"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000119,
+      "\u001b[11B\u001b[1;31mdri\u001b[0m/                 \r\u001b[1B\u001b[7mdvd@               \u001b[0m  \r\u001b[13A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000048,
+      "cat /dev/dvd\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.491257,
+      "\u0008\u0008\u0008ecryptfs"
+    ],
+    [
+      0.000053,
+      "\r\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[12B\u001b[1;36mdvd\u001b[0m@                 \r\u001b[1B\u001b[7mecryptfs%          \u001b[0m  \r\u001b[14A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000040,
+      "cat /dev/ecryptfs\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.612346,
+      "\u001b[8Dfb0     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000036,
+      "\r\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[13B\u001b[1;33mecryptfs\u001b[0m%            \r\u001b[1B\u001b[7mfb0%               \u001b[0m  \r\u001b[15A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000024,
+      "cat /dev/fb0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.280271,
+      "\u0008\u0008d\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000087,
+      "\r"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[14B\u001b[1;33mfb0\u001b[0m%                 \r\u001b[1B\u001b[7mfd@                \u001b[0m  \r\u001b[16A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000027,
+      "cat /dev/fd\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.500043,
+      "\u0008\u0008r\u001b[0meefall"
+    ],
+    [
+      0.000032,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[15B\u001b[1;36mfd\u001b[0m@                  \r\u001b[1B\u001b[7mfreefall%          \u001b[0m  \r\u001b[17A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000047,
+      "cat /dev/freefall\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050289,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008ull    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[16B\u001b[1;33mfreefall\u001b[0m%            \r\u001b[1B\u001b[7mfull%              \u001b[0m  \r\u001b[18A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000046,
+      "cat /dev/full\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050764,
+      "\u0008\u0008se"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[17B\u001b[1;33mfull\u001b[0m%                \r\u001b[1B\u001b[7mfuse%              \u001b[0m  \r\u001b[19A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000025,
+      "cat /dev/fuse\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050221,
+      "\u0008\u0008\u0008\u0008hidraw0"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[18B\u001b[1;33mfuse\u001b[0m%                \r\u001b[1B\u001b[7mhidraw0%           \u001b[0m  \r\u001b[20A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000049,
+      "cat /dev/hidraw0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050357,
+      "\u00081"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[19B\u001b[1;33mhidraw0\u001b[0m%             \r\u001b[1B\u001b[7mhidraw1%           \u001b[0m  \r\u001b[21A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000024,
+      "cat /dev/hidraw1\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050152,
+      "\u0008\u0008\u0008\u0008\u0008\u0008pet   \u0008\u0008\u0008"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[20B\u001b[1;33mhidraw1\u001b[0m%             \r\u001b[1B\u001b[7mhpet%              \u001b[0m  \r\u001b[22A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000023,
+      "cat /dev/hpet\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.052482,
+      "\u0008\u0008\u0008\u0008input\u001b[1m/\u001b[0m\r\r\n\u001b[21B\u001b[1;33mhpet\u001b[0m%                \r\u001b[1B\u001b[7minput/             \u001b[0m  \r\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/input\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.049145,
+      "\u0008\u0008\u0008\u0008\u0008\u0008kmsg \u001b[0m \u0008\u0008"
+    ],
+    [
+      0.000071,
+      "\r"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000742,
+      "\u001b[1;31mbsg\u001b[0m/                 \u001b[1;33msda3\u001b[0m#                \u001b[1;33mtty60\u001b[0m%             \u001b[K\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[1;33mbtrfs-control\u001b[0m%       \u001b[1;33msda4\u001b[0m#                \u001b[1;33mtty61\u001b[0m%             \u001b[K\r\n\u001b[1;31mbus\u001b[0m/                 \u001b[1;33msg0\u001b[0m%                 \u001b[1;33mtty62\u001b[0m%             \u001b[K\r\n\u001b[1;36mcdrom\u001b[0m@               \u001b[1;33msg1\u001b[0m%                 \u001b[1;33mtty63\u001b[0m%             \u001b[K\r\n\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \u001b[K\r\n"
+    ],
+    [
+      0.001529,
+      "\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              \u001b[K\r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \u001b[K\r\n\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         \u001b[K\r\n\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \u001b[K\r\n\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \u001b[K\r\n\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \u001b[K\r\n\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \u001b[K\r\n\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \u001b[K\r\n\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \u001b[K\r\n\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            \u001b[K\r\n\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \u001b[K\r\n\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \u001b[K\r\n\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \u001b[K\r\n\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \u001b[K\r\n\u001b[J\u001b[1;31minput\u001b[0m/               \u001b[J\u001b[1;33mtty16\u001b[0m%               \u001b[J\u001b[1;33mttyS20\u001b[0m%            \u001b[J\u001b[K\r\n\u001b[7mkmsg%              \u001b[0m  \u001b[J\u001b[1;33mtty17\u001b[0m%               \u001b[J\u001b[1;33mttyS21\u001b[0m%            \u001b[J\u001b[J\u001b[J\u001b[J\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/kmsg\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.049855,
+      "\u0008\u0008\u0008\u0008log \u0008\r\r\n\u001b[1;33mbtrfs-control\u001b[0m%       \u001b[1;33msda4\u001b[0m#                \u001b[1;33mtty61\u001b[0m%             \u001b[K\r\n\u001b[1;31mbus\u001b[0m/                 \u001b[1;33msg0\u001b[0m%                 \u001b[1;33mtty62\u001b[0m%             \u001b[K\r\n\u001b[1;36mcdrom\u001b[0m@               \u001b[1;33msg1\u001b[0m%                 \u001b[1;33mtty63\u001b[0m%             \u001b[K\r\n\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \u001b[K\r\n\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              \u001b[K\r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \u001b[K\r\n\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         \u001b[K\r\n\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \u001b[K\r\n\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \u001b[K\r\n\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \u001b[K\r\n\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \u001b[K\r\n\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \u001b[K\r\n\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \u001b[K\r\n\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            \u001b[K\r\n\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \u001b[K\r\n\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \u001b[K\r\n\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \u001b[K\r\n\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \u001b[K\r\n\u001b[1;31minput\u001b[0m/               \u001b[1;33mtty16\u001b[0m%               \u001b[1;33mttyS20\u001b[0m%            \u001b[K\r\n\u001b[J\u001b[1;33mkmsg\u001b[0m%                \u001b[J\u001b[1;33mtty17\u001b[0m%               \u001b[J\u001b[1;33mttyS21\u001b[0m%            \u001b[J\u001b[K\r\n\u001b[7mlog=               \u001b[0m  \u001b[J\u001b[1;33mtty18\u001b[0m%               \u001b[J\u001b[1;33mttyS22\u001b[0m%            \u001b[J\u001b[J\u001b[J\u001b[J\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/log\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.052791,
+      "\u0008op0\r\r\n\u001b[1;31mbus\u001b[0m/                 \u001b[1;33msg0\u001b[0m%                 \u001b[1;33mtty62\u001b[0m%             \u001b[K\r\n\u001b[1;36mcdrom\u001b[0m@               \u001b[1;33msg1\u001b[0m%                 \u001b[1;33mtty63\u001b[0m%             \u001b[K\r\n\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \u001b[K\r\n\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              \u001b[K\r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \u001b[K\r\n\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         \u001b[K\r\n\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \u001b[K\r\n\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \u001b[K\r\n\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \u001b[K\r\n\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \u001b[K\r\n\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \u001b[K\r\n\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \u001b[K\r\n\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            \u001b[K\r\n\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \u001b[K\r\n\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \u001b[K\r\n\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \u001b[K\r\n\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \u001b[K\r\n\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \u001b[K\r\n\u001b[1;31minput\u001b[0m/               \u001b[1;33mtty16\u001b[0m%               \u001b[1;33mttyS20\u001b[0m%            \u001b[K\r\n\u001b[1;33mkmsg\u001b[0m%                \u001b[1;33mtty17\u001b[0m%               \u001b[1;33mttyS21\u001b[0m%            \u001b[K\r\n\u001b[J\u001b[1;35mlog\u001b[0m=                 \u001b[J\u001b[1;33mtty18\u001b[0m%               \u001b[J\u001b[1;33mttyS22\u001b[0m%            \u001b[J\u001b[K\r\n\u001b[7mloop0#             \u001b[0m  \u001b[J\u001b[1;33mtty19\u001b[0m%               \u001b[J\u001b[1;33mttyS23\u001b[0m%            \u001b[J\u001b[J\u001b[J\u001b[J\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/loop0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.052630,
+      "\u00081\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000818,
+      "\u001b[1;36mcdrom\u001b[0m@               \u001b[1;33msg1\u001b[0m%                 \u001b[1;33mtty63\u001b[0m%             \u001b[K\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \u001b[K\r\n\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              \u001b[K"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \u001b[K"
+    ],
+    [
+      0.000018,
+      "\r\n\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         \u001b[K\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1;31minput\u001b[0m/               \u001b[1;33mtty16\u001b[0m%               \u001b[1;33mttyS20\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[1;33mkmsg\u001b[0m%                \u001b[1;33mtty17\u001b[0m%               \u001b[1;33mttyS21\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;35mlog\u001b[0m=                 \u001b[1;33mtty18\u001b[0m%               \u001b[1;33mttyS22\u001b[0m%      "
+    ],
+    [
+      0.000009,
+      "      \u001b[K\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[J\u001b[1;33mloop0\u001b[0m#               \u001b[J\u001b[1;33mtty19\u001b[0m%               \u001b[J\u001b[1;33mttyS23\u001b[0m%            \u001b[J\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[7mloop1#             \u001b[0m  \u001b[J\u001b[1;33mtty2\u001b[0m%                \u001b[J\u001b[1;33mttyS24\u001b[0m%            \u001b[J\u001b[J\u001b[J\u001b[J\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000032,
+      "cat /dev/loop1\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.048498,
+      "\u00082\r\r\n"
+    ],
+    [
+      0.000418,
+      "\u001b[1;31mchar\u001b[0m/                \u001b[1;36mshm\u001b[0m@                 \u001b[1;33mtty7\u001b[0m%              \u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[1;33mconsole\u001b[0m%             \u001b[1;33msnapshot\u001b[0m%            \u001b[1;33mtty8\u001b[0m%              \u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[1;36mcore\u001b[0m@                \u001b[1;31msnd\u001b[0m/                 \u001b[1;33mtty9\u001b[0m%              \u001b[K"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;31mcpu\u001b[0m/                 \u001b[1;33msr0\u001b[0m#                 \u001b[1;33mttyprintk\u001b[0m%         \u001b[K\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1;33mcpu_dma_latency\u001b[0m%     \u001b[1;36mstderr\u001b[0m@              \u001b[1;33mttyS0\u001b[0m%             \u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[1;31mdisk\u001b[0m/                \u001b[1;36mstdin\u001b[0m@               \u001b[1;33mttyS1\u001b[0m%             \u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;31mdri\u001b[0m/                 \u001b[1;36mstdout\u001b[0m@              \u001b[1;33mttyS10\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;36mdvd\u001b[0m@                 \u001b[1;33mtpm0\u001b[0m%                \u001b[1;33mttyS11\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[1;33mecryptfs\u001b[0m%            \u001b[1;33mtty\u001b[0m%                 \u001b[1;33mttyS12\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1;33mfb0\u001b[0m%                 \u001b[1;33mtty0\u001b[0m%                \u001b[1;33mttyS13\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;36mfd\u001b[0m@                  \u001b[1;33mtty1\u001b[0m%                \u001b[1;33mttyS14\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1;33mfreefall\u001b[0m%            \u001b[1;33mtty10\u001b[0m%               \u001b[1;33mttyS15\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;33mfull\u001b[0m%                \u001b[1;33mtty11\u001b[0m%               \u001b[1;33mttyS16\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;33mfuse\u001b[0m%                \u001b[1;33mtty12\u001b[0m%               \u001b[1;33mttyS17\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1;33mhidraw0\u001b[0m%             \u001b[1;33mtty13\u001b[0m%               \u001b[1;33mttyS18\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1;33mhidraw1\u001b[0m%             \u001b[1;33mtty14\u001b[0m%               \u001b[1;33mttyS19\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;33mhpet\u001b[0m%                \u001b[1;33mtty15\u001b[0m%               \u001b[1;33mttyS2\u001b[0m%             \u001b[K\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1;31minput\u001b[0m/               \u001b[1;33mtty16\u001b[0m%               \u001b[1;33mttyS20\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[1;33mkmsg\u001b[0m%                \u001b[1;33mtty17\u001b[0m%               \u001b[1;33mttyS21\u001b[0m%            \u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;35mlog\u001b[0m=                 \u001b[1;33mtty18\u001b[0m%               \u001b[1;33mttyS22\u001b[0m%            \u001b[K\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[1;33mloop0\u001b[0m#               \u001b[1;33mtty19\u001b[0m%               \u001b[1;33mttyS23\u001b[0m%            \u001b[K\r\n\u001b[J\u001b[1;33mloop1\u001b[0m#               \u001b[J\u001b[1;33mtty2\u001b[0m%                \u001b[J\u001b[1;33mttyS24\u001b[0m%            \u001b[J\u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[7mloop2#             \u001b[0m  \u001b[J\u001b[1;33mtty20\u001b[0m%               \u001b[J\u001b[1;33mttyS25\u001b[0m%            \u001b[J\u001b[J\u001b[J\u001b[J\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000021,
+      "cat /dev/loop2\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      1.247585,
+      "\u00081"
+    ],
+    [
+      0.000054,
+      "\r"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[21B\u001b[7mloop1#             \u001b[0m  \r\u001b[1B\u001b[1;33mloop2\u001b[0m#               \r\u001b[23A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000033,
+      "cat /dev/loop1\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.228347,
+      "\u00080"
+    ],
+    [
+      0.000118,
+      "\r"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "\u001b[20B\u001b[7mloop0#             \u001b[0m  \r\u001b[1B\u001b[1;33mloop1\u001b[0m#               \r\u001b[22A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000025,
+      "cat /dev/loop0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.500111,
+      "\u0008\u0008\u0008g  \u0008\u0008"
+    ],
+    [
+      0.000027,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[19B\u001b[7mlog=               \u001b[0m  \r\u001b[1B\u001b[1;33mloop0\u001b[0m#               \r\u001b[21A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000102,
+      "cat /dev/log\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050174,
+      "\u0008\u0008\u0008kmsg"
+    ],
+    [
+      0.000033,
+      "\r\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[18B\u001b[7mkmsg%              \u001b[0m  \r\u001b[1B\u001b[1;35mlog\u001b[0m=                 \r\u001b[20A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000022,
+      "cat /dev/kmsg\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.049963,
+      "\u0008\u0008\u0008\u0008input\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[17B\u001b[7minput/             \u001b[0m  \r\u001b[1B\u001b[1;33mkmsg\u001b[0m%                \r\u001b[19A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000034,
+      "cat /dev/input\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050157,
+      "\u0008\u0008\u0008\u0008\u0008\u0008hpet \u001b[0m \u0008\u0008"
+    ],
+    [
+      0.000027,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[16B\u001b[7mhpet%              \u001b[0m  \r\u001b[1B\u001b[1;31minput\u001b[0m/               \r\u001b[18A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000045,
+      "cat /dev/hpet\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050084,
+      "\u0008\u0008\u0008idraw1"
+    ],
+    [
+      0.000082,
+      "\r"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "\u001b[15B\u001b[7mhidraw1%           \u001b[0m  \r\u001b[1B\u001b[1;33mhpet\u001b[0m%                \r\u001b[17A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000078,
+      "cat /dev/hidraw1\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050042,
+      "\u00080"
+    ],
+    [
+      0.000033,
+      "\r\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[14B\u001b[7mhidraw0%           \u001b[0m  \r\u001b[1B\u001b[1;33mhidraw1\u001b[0m%             \r\u001b[16A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000023,
+      "cat /dev/hidraw0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050060,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008fuse   \u0008\u0008\u0008"
+    ],
+    [
+      0.000065,
+      "\r\r\n\u001b[13B\u001b[7mfuse%              \u001b[0m  \r\u001b[1B\u001b[1;33mhidraw0\u001b[0m%             \r\u001b[15A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/fuse\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050115,
+      "\u0008\u0008ll"
+    ],
+    [
+      0.000030,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "\u001b[12B\u001b[7mfull%              \u001b[0m  \r\u001b[1B\u001b[1;33mfuse\u001b[0m%                \r\u001b[14A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000045,
+      "cat /dev/full\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050563,
+      "\u0008\u0008\u0008reefall"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[11B\u001b[7mfreefall%          \u001b[0m  \r\u001b[1B\u001b[1;33mfull\u001b[0m%                \r\u001b[13A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000050,
+      "cat /dev/freefall\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050351,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008d\u001b[1m/\u001b[0m     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000031,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[10B\u001b[7mfd@                \u001b[0m  \r\u001b[1B\u001b[1;33mfreefall\u001b[0m%            \r\u001b[12A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000042,
+      "cat /dev/fd\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050254,
+      "\u0008\u0008b\u001b[0m0"
+    ],
+    [
+      0.000064,
+      "\r"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[9B\u001b[7mfb0%               \u001b[0m  \r\u001b[1B\u001b[1;36mfd\u001b[0m@                  \r\u001b[11A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000023,
+      "cat /dev/fb0\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.049782,
+      "\u0008\u0008\u0008ecryptfs"
+    ],
+    [
+      0.000028,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[8B\u001b[7mecryptfs%          \u001b[0m  \r\u001b[1B\u001b[1;33mfb0\u001b[0m%                 \r\u001b[10A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000042,
+      "cat /dev/ecryptfs\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050080,
+      "\u001b[8Ddvd     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[7B\u001b[7mdvd@               \u001b[0m  \r\u001b[1B\u001b[1;33mecryptfs\u001b[0m%            \r\u001b[9A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/dvd\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.051038,
+      "\u0008\u0008ri\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\r\n\u001b[6B\u001b[7mdri/               \u001b[0m  \r\u001b[1B\u001b[1;36mdvd\u001b[0m@                 \r\u001b[8A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/dri\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050667,
+      "\u0008\u0008\u0008is\u001b[0mk\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[5B\u001b[7mdisk/              \u001b[0m  \r\u001b[1B\u001b[1;31mdri\u001b[0m/                 \r\u001b[7A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000047,
+      "cat /dev/disk\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.049169,
+      "\u0008\u0008\u0008\u0008\u0008cpu_\u001b[0mdma_latency"
+    ],
+    [
+      0.000047,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "\u001b[4B\u001b[7mcpu_dma_latency%   \u001b[0m  \r\u001b[1B\u001b[1;31mdisk\u001b[0m/                \r\u001b[6A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000042,
+      "cat /dev/cpu_dma_latency\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.050037,
+      "\u001b[12D\u001b[1m/\u001b[0m           \u001b[11D"
+    ],
+    [
+      0.000035,
+      "\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[3B\u001b[7mcpu/               \u001b[0m  \r\u001b[1B\u001b[1;33mcpu_dma_latency\u001b[0m%     \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000054,
+      "cat /dev/cpu\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.951262,
+      "\r"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[J\u001b[A\u001b[15C"
+    ],
+    [
+      0.000357,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.109538,
+      "\u0007"
+    ],
+    [
+      0.000116,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000126,
+      "\u001b[1;31mArduino\u001b[0m/                          nginx_proxy.log                 \r\n\u001b[1;36mbin\u001b[0m@                              \u001b[1;31mPictures\u001b[0m/                       \r\n\u001b[1;31mDesktop\u001b[0m/                          \u001b[1;36mPlayOnLinux\\'s\\ virtual\\ drives\u001b[0m@\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[1;31mDocuments\u001b[0m/                        \u001b[1;31mR\u001b[0m/                              \r\n\u001b[1;31mDownloads\u001b[0m/                        \u001b[1;31mscreencasts\u001b[0m/                    \r\n\u001b[1;31mFiles\u001b[0m/                            \u001b[1;31mVirtualBox\\ VMs\u001b[0m/                \r\n\u001b[Jnginx_error2.log                  \u001b[J\u001b[1;31mworkspace\u001b[0m/                      \u001b[J\u001b[7A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/cpu\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[1C"
+    ],
+    [
+      0.430663,
+      "\u0008"
+    ],
+    [
+      0.151527,
+      "/"
+    ],
+    [
+      0.053216,
+      "microcode\u001b[1m \u001b[0m"
+    ],
+    [
+      0.189847,
+      "\u0007"
+    ],
+    [
+      0.000017,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.000046,
+      "\r"
+    ],
+    [
+      0.000019,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.000155,
+      "\u001b[1;31mArduino\u001b[0m/                          nginx_proxy.log                 \r\n\u001b[1;36mbin\u001b[0m@                              \u001b[1;31mPictures\u001b[0m/                       \r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[1;31mDesktop\u001b[0m/                          \u001b[1;36mPlayOnLinux\\'s\\ virtual\\ drives\u001b[0m@\r\n\u001b[1;31mDocuments\u001b[0m/                        \u001b[1;31mR\u001b[0m/                              \r\n\u001b[1;31mDownloads\u001b[0m/                        \u001b[1;31mscreencasts\u001b[0m/                    \r\n\u001b[1;31mFiles\u001b[0m/                            \u001b[1;31mVirtualBox\\ VMs\u001b[0m/                \r\n\u001b[Jnginx_error2.log                  \u001b[J\u001b[1;31mworkspace\u001b[0m/                      \u001b[J\u001b[7A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000013,
+      "cat /dev/cpu/microcode\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[1C"
+    ],
+    [
+      0.442333,
+      "Arduino\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\r\r\n"
+    ],
+    [
+      0.000237,
+      "\u001b[7mArduino/                        \u001b[0m  nginx_proxy.log                 \u001b[K\r\n\u001b[1;36mbin\u001b[0m@                              \u001b[1;31mPictures\u001b[0m/                       \u001b[K\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[1;31mDesktop\u001b[0m/                          \u001b[1;36mPlayOnLinux\\'s\\ virtual\\ drives\u001b[0m@\u001b[K\r\n\u001b[1;31mDocuments\u001b[0m/                        \u001b[1;31mR\u001b[0m/                              \u001b[K\r\n\u001b[1;31mDownloads\u001b[0m/                        \u001b[1;31mscreencasts\u001b[0m/                    \u001b[K\r\n\u001b[1;31mFiles\u001b[0m/                            \u001b[1;31mVirtualBox\\ VMs\u001b[0m/                \u001b[K\r\n\u001b[Jnginx_error2.log                  \u001b[J\u001b[1;31mworkspace\u001b[0m/                      \u001b[J\u001b[7A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000012,
+      "cat /dev/cpu/microcode Arduino\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.708377,
+      "\r"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "\u001b[7mArduino/                        \u001b[0m  \r\u001b[7mArduino/                        \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000117,
+      "cat /dev/cpu/microcode Arduino\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.000197,
+      "\u001b[8Dbin\u001b[1m/\u001b[0m   \u001b[0m \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[1;31mArduino\u001b[0m/                          \r\u001b[1B\u001b[7mbin@                            \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/cpu/microcode bin\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.591647,
+      "\u0008\u0008\u0008\u0008Des\u001b[0mktop\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\r"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[1B\u001b[1;36mbin\u001b[0m@                              \r\u001b[1B\u001b[7mDesktop/                        \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000071,
+      "cat /dev/cpu/microcode Desktop\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m"
+    ],
+    [
+      0.360725,
+      "\r"
+    ],
+    [
+      0.000044,
+      "\r\n\u001b[J\u001b[A\u001b[33C"
+    ],
+    [
+      0.000139,
+      "\u001b[8D       \u001b[0m \u001b[8D"
+    ],
+    [
+      0.180719,
+      "\u001b[10D         \u001b[9D"
+    ],
+    [
+      0.396188,
+      "microcode\u001b[1m \u001b[0m"
+    ],
+    [
+      0.340409,
+      "\u0007"
+    ],
+    [
+      0.000016,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.000043,
+      "\r"
+    ],
+    [
+      0.000019,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.000158,
+      "\u001b[1;31mArduino\u001b[0m/                          nginx_proxy.log                 \r\n\u001b[1;36mbin\u001b[0m@                              \u001b[1;31mPictures\u001b[0m/                       \r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[1;31mDesktop\u001b[0m/                          \u001b[1;36mPlayOnLinux\\'s\\ virtual\\ drives\u001b[0m@\r\n\u001b[1;31mDocuments\u001b[0m/                        \u001b[1;31mR\u001b[0m/                              \r\n\u001b[1;31mDownloads\u001b[0m/                        \u001b[1;31mscreencasts\u001b[0m/                    \r\n\u001b[1;31mFiles\u001b[0m/                            \u001b[1;31mVirtualBox\\ VMs\u001b[0m/                \r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[Jnginx_error2.log                  \u001b[J\u001b[1;31mworkspace\u001b[0m/                      \u001b[J\u001b[7A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Ccat /dev/cpu/microcode\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[1C"
+    ],
+    [
+      0.768197,
+      "\u001b[10D         \u001b[9D"
+    ],
+    [
+      0.327231,
+      "microcode\u001b[1m \u001b[0m"
+    ],
+    [
+      0.986675,
+      "\u001b[10D         \u001b[0m \u001b[10D"
+    ],
+    [
+      0.267751,
+      "microcode\u001b[1m \u001b[0m"
+    ],
+    [
+      0.575808,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.541302,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000107,
+      "\r"
+    ],
+    [
+      0.000055,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.001267,
+      "\u001b]2;cat /dev/cpu/microcode\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      0.003043,
+      "cat: /dev/cpu/microcode"
+    ],
+    [
+      0.000163,
+      ": Permission denied"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000372,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000161,
+      "\u001b]2;mihau@ubiquitous: ~\u0007"
+    ],
+    [
+      0.000143,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.006189,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.954081,
+      "cat /dev/cpu/microcode "
+    ],
+    [
+      0.241495,
+      "\u001b[23D"
+    ],
+    [
+      0.107878,
+      "scat /dev/cpu/microcode \u001b[23D"
+    ],
+    [
+      0.160549,
+      "\u0008sucat /dev/cpu/microcode \u001b[23D"
+    ],
+    [
+      0.124188,
+      "dcat /dev/cpu/microcode \u001b[23D"
+    ],
+    [
+      0.079515,
+      "ocat /dev/cpu/microcode \u001b[23D"
+    ],
+    [
+      0.096792,
+      " cat /dev/cpu/microcode \u001b[23D"
+    ],
+    [
+      0.080632,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000139,
+      "\r"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.001231,
+      "\u001b]2;sudo cat /dev/cpu/microcode\u0007"
+    ],
+    [
+      0.000053,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      0.213653,
+      "[sudo] password for mihau: "
+    ],
+    [
+      2.516096,
+      "\r\n"
+    ],
+    [
+      0.064531,
+      "cat: /dev/cpu/microcode"
+    ],
+    [
+      0.000025,
+      ": Invalid argument\r\n"
+    ],
+    [
+      0.001234,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;mihau@ubiquitous: ~\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.004005,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mmihau\u001b[00m on \u001b[31mubiquitous\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\nλ "
+    ],
+    [
+      0.000018,
+      "\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.836039,
+      "sudo cat /dev/cpu/microcode "
+    ],
+    [
+      0.780000,
+      "\u001b[10D         \u001b[9D"
+    ],
+    [
+      0.230825,
+      "\u0008\u0008\u0008\u0008    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.049883,
+      "\u0008\u0008\u0008\u0008    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.150586,
+      "\u0008\u0008\u0008\u0008\u0008     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.160459,
+      "\u0008\u0008\u0008\u0008\u0008    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.545789,
+      "\r"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ]
+  ]
+}
