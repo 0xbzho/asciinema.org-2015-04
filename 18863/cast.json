@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 24,
+  "duration": 18.497127,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.219301,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r"
+    ],
+    [
+      0.000030,
+      "\u001b]2;mickey@derails: ~/workspace/sample_app\u0007\u001b]1;..ce/sample_app\u0007"
+    ],
+    [
+      0.012520,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msample_app \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000712,
+      "\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.080816,
+      "l"
+    ],
+    [
+      0.582013,
+      "\u0008ls"
+    ],
+    [
+      0.239460,
+      " "
+    ],
+    [
+      0.216861,
+      "-"
+    ],
+    [
+      0.209685,
+      "l"
+    ],
+    [
+      0.353238,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -l\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001931,
+      "total 76\r\n"
+    ],
+    [
+      0.000024,
+      "drwxrwxr-x 8 mickey mickey 4096 Feb 22 12:55 \u001b[0m\u001b[01;34mapp\u001b[0m\r\ndrwxr-xr-x 2 mickey mickey 4096 Feb 22 12:55 \u001b[01;34mbin\u001b[0m\r\ndrwxrwxr-x 5 mickey mickey 4096 Mar  9 20:09 \u001b[01;34mconfig\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-rw-r-- 1 mickey mickey  153 Feb 22 12:55 config.ru\r\n"
+    ],
+    [
+      0.000123,
+      "drwxrwxr-x 3 mickey mickey 4096 Apr 13 17:11 \u001b[01;34mdb\u001b[0m\r\n-rw-rw-r-- 1 mickey mickey  926 Apr 13 17:08 Gemfile\r\n-rw-rw-r-- 1 mickey mickey 5849 Apr 13 17:08 Gemfile.lock"
+    ],
+    [
+      0.000027,
+      "\r\n-rw-r--r-- 1 mickey mickey 1816 Feb 22 16:54 Guardfile"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "drwxrwxr-x 4 mickey mickey 4096 Feb 22 12:55 \u001b[01;34mlib\u001b[0m\r\ndrwxrwxr-x 2 mickey mickey 4096 Feb 22 16:01 \u001b[01;34mlog\u001b[0m\r\n"
+    ],
+    [
+      0.000131,
+      "-rw-rw-r-- 1 mickey mickey   40 Mar  4 20:32 Procfile\r\ndrwxrwxr-x 2 mickey mickey 4096 Feb 22 12:55 \u001b[01;34mpublic\u001b[0m\r\n-rw-rw-r-- 1 mickey mickey  249 Feb 22 12:55 Rakefile"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-rw-r-- 1 mickey mickey  478 Feb 22 12:55 README.md"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "-rw-r--r-- 1 mickey mickey  804 Apr 17 09:29 rec.json\r\n"
+    ],
+    [
+      0.000011,
+      "drwxrwxr-x 8 mickey mickey 4096 Apr 13 17:06 \u001b[01;34mtest\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      "drwxrwxr-x 6 mickey mickey 4096 Feb 22 13:07 \u001b[01;34mtmp\u001b[0m\r\ndrwxrwxr-x 3 mickey mickey 4096 Feb 22 12:55 \u001b[01;34mvendor\u001b[0m\r\n"
+    ],
+    [
+      0.000746,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r\u001b]2;mickey@derails: ~/workspace/sample_app\u0007\u001b]1;..ce/sample_app\u0007"
+    ],
+    [
+      0.012895,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msample_app \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.868208,
+      "p"
+    ],
+    [
+      0.064774,
+      "\u0008pw"
+    ],
+    [
+      0.123201,
+      "d"
+    ],
+    [
+      0.566036,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;pwd\u0007\u001b]1;pwd\u0007/home/mickey/workspace/sample_app\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r\u001b]2;mickey@derails: ~/workspace/sample_app\u0007\u001b]1;..ce/sample_app\u0007"
+    ],
+    [
+      0.011204,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msample_app \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.291044,
+      "l"
+    ],
+    [
+      0.121811,
+      "\u0008ls"
+    ],
+    [
+      0.470466,
+      " "
+    ],
+    [
+      0.112138,
+      "-"
+    ],
+    [
+      0.047147,
+      "l"
+    ],
+    [
+      0.143511,
+      " "
+    ],
+    [
+      0.369394,
+      "~"
+    ],
+    [
+      0.209086,
+      "/"
+    ],
+    [
+      1.202188,
+      "\u0007\r\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1;31mDesktop\u001b[0m/          examples.desktop  \u001b[1;31mPublic\u001b[0m/           \u001b[1;31mTemplates\u001b[0m/                        \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1;31mDocuments\u001b[0m/        \u001b[1;31mMusic\u001b[0m/            \u001b[1;32mrvm.sh\u001b[0m*           \u001b[1;31mVideos\u001b[0m/                           "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000282,
+      "\u001b[J\u001b[1;31mDownloads\u001b[0m/        \u001b[J\u001b[1;31mPictures\u001b[0m/         \u001b[J\u001b[1;31mtemp\u001b[0m/             \u001b[J\u001b[1;31mworkspace\u001b[0m/        \u001b[J                \u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[29Cls -l ~/\u001b[K"
+    ],
+    [
+      0.156084,
+      "Desktop\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\r\n"
+    ],
+    [
+      0.000757,
+      "\u001b[7mDesktop/        \u001b[0m  examples.desktop  \u001b[1;31mPublic\u001b[0m/           \u001b[1;31mTemplates\u001b[0m/                        \u001b[K\r\n\u001b[1;31mDocuments\u001b[0m/        \u001b[1;31mMusic\u001b[0m/            \u001b[1;32mrvm.sh\u001b[0m*           \u001b[1;31mVideos\u001b[0m/                           \u001b[K\r\n\u001b[J\u001b[1;31mDownloads\u001b[0m/        \u001b[J\u001b[1;31mPictures\u001b[0m/         \u001b[J\u001b[1;31mtemp\u001b[0m/             \u001b[J\u001b[1;31mworkspace\u001b[0m/        \u001b[J                \u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[29Cls -l ~/Desktop\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      1.615295,
+      "\r\r\n\u001b[7mDesktop/        \u001b[0m  \r\u001b[7mDesktop/        \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[29Cls -l ~/Desktop\u001b[1m/\u001b[0m\u001b[K\r\r\n\u001b[J\u001b[A\u001b[45C"
+    ],
+    [
+      0.568499,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b[J\u001b]2;ls --color=tty -l ~/Desktop\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001785,
+      "total 0\r\n"
+    ],
+    [
+      0.000565,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                           \r \r\u001b]2;mickey@derails: ~/workspace/sample_app\u0007\u001b]1;..ce/sample_app\u0007"
+    ],
+    [
+      0.013268,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msample_app \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.609047,
+      "\r\r\n"
+    ]
+  ]
+}
