@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "width": 117,
+  "height": 60,
+  "duration": 4.110491,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.086811,
+      "\u001b]0;pim@dawn:~/test\u0007"
+    ],
+    [
+      0.000241,
+      "\u001b[1m\u001b[38;5;1mpim\u001b[38;5;7m@\u001b[38;5;4mdawn\u001b[38;5;7m\u001b[1m:\u001b[38;5;6m~/test\u001b[38;5;7m$\u001b[m\u001b(B "
+    ],
+    [
+      1.117516,
+      "l"
+    ],
+    [
+      0.101726,
+      "s"
+    ],
+    [
+      0.106400,
+      "\r\n"
+    ],
+    [
+      0.000846,
+      "\u001b[0m\u001b[01;35m2015-02-15-170557_1920x1080_scrot.png\u001b[0m  blah.c  \u001b[01;34mcca\u001b[0m  file.txt  UTF-8-demo.txt\r\n"
+    ],
+    [
+      0.000148,
+      "\u001b]0;pim@dawn:~/test\u0007"
+    ],
+    [
+      0.000141,
+      "\u001b[1m\u001b[38;5;1mpim\u001b[38;5;7m@\u001b[38;5;4mdawn\u001b[38;5;7m\u001b[1m:\u001b[38;5;6m~/test\u001b[38;5;7m$\u001b[m\u001b(B "
+    ],
+    [
+      2.696594,
+      "exit\r\n"
+    ]
+  ]
+}
