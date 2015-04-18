@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 117,
+  "height": 29,
+  "duration": 9.267669,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.017287,
+      "\u001b]0;root@localhost:~\u0007\u001b[?1034h[root@localhost ~]# "
+    ],
+    [
+      9.250254,
+      "exit\r\n"
+    ]
+  ]
+}
