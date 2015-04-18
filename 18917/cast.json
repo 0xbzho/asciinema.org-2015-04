@@ -1,0 +1,1194 @@
+{
+  "version": 1,
+  "width": 185,
+  "height": 48,
+  "duration": 61.418974,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      1.376369,
+      "\u001b_mgalyutin@arch-mg:~/work/gradle.reciepes/izpack-expandable-task-plugin/izpack-ex-plugin\u001b\\"
+    ],
+    [
+      0.026736,
+      "\u001b[0;38;5;231;48;5;31;1m mgalyutin \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m⋯ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgradle.reciepes \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mizpack-expandable-task-plugin \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mizpack-ex-plugin \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      1.975843,
+      "l"
+    ],
+    [
+      0.084851,
+      "s"
+    ],
+    [
+      0.096888,
+      " "
+    ],
+    [
+      0.173970,
+      "-"
+    ],
+    [
+      0.165090,
+      "l"
+    ],
+    [
+      0.096165,
+      " "
+    ],
+    [
+      1.215032,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.182919,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134126,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.142390,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.125556,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134710,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.541828,
+      "g"
+    ],
+    [
+      0.198773,
+      "r"
+    ],
+    [
+      0.078167,
+      "a"
+    ],
+    [
+      0.150010,
+      "d"
+    ],
+    [
+      0.096001,
+      "l"
+    ],
+    [
+      0.115913,
+      "e"
+    ],
+    [
+      0.097231,
+      " "
+    ],
+    [
+      0.153498,
+      "\u0007"
+    ],
+    [
+      2.774058,
+      "i"
+    ],
+    [
+      0.079172,
+      "n"
+    ],
+    [
+      0.125336,
+      "i"
+    ],
+    [
+      0.806345,
+      "t"
+    ],
+    [
+      0.473672,
+      " "
+    ],
+    [
+      1.375838,
+      "."
+    ],
+    [
+      0.125216,
+      "."
+    ],
+    [
+      0.568771,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134519,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.237536,
+      "-"
+    ],
+    [
+      0.142137,
+      "-"
+    ],
+    [
+      0.317231,
+      "t"
+    ],
+    [
+      0.087991,
+      "a"
+    ],
+    [
+      0.170522,
+      "y"
+    ],
+    [
+      0.130245,
+      " "
+    ],
+    [
+      0.406242,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.142741,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.142086,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.126598,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141445,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134764,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.412799,
+      "h"
+    ],
+    [
+      0.088294,
+      "e"
+    ],
+    [
+      0.285683,
+      "l"
+    ],
+    [
+      0.101642,
+      "p"
+    ],
+    [
+      0.200227,
+      " "
+    ],
+    [
+      0.406003,
+      "\r\n"
+    ],
+    [
+      0.557822,
+      "\u001b[0m"
+    ],
+    [
+      1.526096,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.578255,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.013133,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.114371,
+      "\u001b[7D\u001b[1mConfiguring\u001b[22m"
+    ],
+    [
+      0.204754,
+      "\u001b[1m \u003e 0/1 projects\u001b[22m"
+    ],
+    [
+      0.008167,
+      "\u001b[1m \u003e root project\u001b[22m"
+    ],
+    [
+      0.324953,
+      "\u001b[1m \u003e Resolving dependencies ':classpath'\u001b[22m"
+    ],
+    [
+      0.002459,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.004703,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000016,
+      "\u001b[12D\u001b[1m1/1 projects\u001b[22m"
+    ],
+    [
+      0.191509,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000015,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000631,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.003378,
+      "\u001b[1m \u003e :init\u001b[22m"
+    ],
+    [
+      0.037366,
+      "\u001b[21D\u001b[0K:init\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[1m\u003e Building 0% \u003e :init\u001b[22m\u001b[21D\u001b[0KThe build file 'build.gradle' already exists. Skipping build initialization.\r\n\u001b[1m\u003e Building 0% \u003e :init\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[76C\r\n\u001b[1m\u003e Building 0% \u003e :init\u001b[22m"
+    ],
+    [
+      0.003329,
+      "\u001b[8D\u001b[0K"
+    ],
+    [
+      0.000122,
+      "\u001b[13D\u001b[0K:init \r\n\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.001572,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[6C\u001b[33mSKIPPED\u001b[39m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000131,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[13C\r\n\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000254,
+      "\u001b[2D\u001b[1m50%\u001b[22m"
+    ],
+    [
+      0.000614,
+      "\u001b[1m \u003e :help\u001b[22m"
+    ],
+    [
+      0.004419,
+      "\u001b[22D\u001b[0K:help\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000162,
+      "\u001b[22D\u001b[0K\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000304,
+      "\u001b[22D\u001b[0KWelcome to Gradle 2.3.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000239,
+      "\u001b[22D\u001b[0K\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.002075,
+      "\u001b[22D\u001b[0KTo run a build, run \r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000315,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[20C\u001b[1mgradle\u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m\u001b[22D\u001b[0K\u001b[1A\u001b[26C\u001b[1m \u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000138,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[27C\u001b[1m\u003ctask\u003e ...\u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000114,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[37C\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000131,
+      "\u001b[22D\u001b[0K\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000242,
+      "\u001b[22D\u001b[0KTo see a list of available tasks, run \r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000101,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[38C\u001b[1mgradle\u001b[22m\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000169,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[44C\u001b[1m \u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000130,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[45C\u001b[1mtasks\u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000010,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[50C\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000125,
+      "\u001b[22D\u001b[0K\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000245,
+      "\u001b[22D\u001b[0KTo see a list of command-line options, run \r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000081,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[43C\u001b[1mgradle\u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000123,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[49C\u001b[1m \u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000097,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[50C\u001b[1m--help\u001b[22m\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000129,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[56C\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000111,
+      "\u001b[22D\u001b[0K\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000317,
+      "\u001b[22D\u001b[0KTo see more detail about a task, run \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000112,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[37C\u001b[1mgradle\u001b[22m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000099,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[43C\u001b[1m \u001b[22m\r\n"
+    ],
+    [
+      0.000111,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000010,
+      "\u001b[22D\u001b[0K\u001b[1A\u001b[44C\u001b[1mhelp --task \u003ctask\u003e\u001b[22m\r\n"
+    ],
+    [
+      0.004704,
+      "\u001b[1m\u003e Building 50% \u003e :help\u001b[22m\u001b[22D\u001b[0K\u001b[1A\u001b[62C\r\n\u001b[1m\u003e Building 50% \u003e :help\u001b[22m\u001b[8D\u001b[0K\u001b[3D\u001b[1m100%\u001b[22m\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0KBUILD SUCCESSFUL\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0K\u001b[1A\u001b[16C\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0KTotal time: 3.492 secs\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0K"
+    ],
+    [
+      0.005901,
+      "\u001b"
+    ],
+    [
+      0.000014,
+      "[0m"
+    ],
+    [
+      0.332322,
+      "\u001b_mgalyutin@arch-mg:~/work/gradle.reciepes/izpack-expandable-task-plugin/izpack-ex-plugin\u001b\\"
+    ],
+    [
+      0.019024,
+      "\u001b[0;38;5;231;48;5;31;1m mgalyutin \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m⋯ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgradle.reciepes \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mizpack-expandable-task-plugin \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mizpack-ex-plugin \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.711097,
+      "gradle init help "
+    ],
+    [
+      0.454726,
+      "\u0008"
+    ],
+    [
+      0.173923,
+      "\u0008"
+    ],
+    [
+      0.150698,
+      "\u0008"
+    ],
+    [
+      0.125705,
+      "\u0008"
+    ],
+    [
+      0.158130,
+      "\u0008"
+    ],
+    [
+      1.610755,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.131427,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.155871,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.112928,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.138284,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.521269,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.365038,
+      " "
+    ],
+    [
+      0.542872,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.309355,
+      "-"
+    ],
+    [
+      0.133937,
+      "-"
+    ],
+    [
+      0.806385,
+      "t"
+    ],
+    [
+      0.077311,
+      "a"
+    ],
+    [
+      0.317975,
+      "s"
+    ],
+    [
+      0.208685,
+      "k"
+    ],
+    [
+      0.135508,
+      " "
+    ],
+    [
+      1.190723,
+      "i"
+    ],
+    [
+      0.095101,
+      "n"
+    ],
+    [
+      0.085698,
+      "i"
+    ],
+    [
+      0.148493,
+      "t"
+    ],
+    [
+      0.088290,
+      " "
+    ],
+    [
+      0.326937,
+      "\r\n"
+    ],
+    [
+      0.649568,
+      "\u001b"
+    ],
+    [
+      0.002867,
+      "["
+    ],
+    [
+      0.000017,
+      "0m"
+    ],
+    [
+      1.453877,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.765922,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.013470,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.116770,
+      "\u001b[7D\u001b[1mConfiguring\u001b[22m"
+    ],
+    [
+      0.182822,
+      "\u001b[1m \u003e 0/1 projects\u001b[22m"
+    ],
+    [
+      0.025025,
+      "\u001b[1m \u003e root project\u001b[22m"
+    ],
+    [
+      0.344302,
+      "\u001b[1m \u003e Resolving dependencies ':classpath'\u001b[22m"
+    ],
+    [
+      0.002466,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.006198,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000016,
+      "\u001b[12D\u001b[1m1/1 projects\u001b[22m"
+    ],
+    [
+      0.096024,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000264,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000986,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.004215,
+      "\u001b[1m \u003e :help\u001b[22m"
+    ],
+    [
+      0.130768,
+      "\u001b[21D\u001b[0K:help\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0KDetailed task information for \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000228,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[30C\u001b[1minit\u001b[22m\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000165,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[34C\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.004445,
+      "\u001b[21D\u001b[0K\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000645,
+      "\u001b[21D\u001b[0KPath\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000102,
+      "\u001b[21D\u001b[0K\u001b[1m     :init\u001b[22m\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000109,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[10C\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000206,
+      "\u001b[21D\u001b[0K\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000159,
+      "\u001b[21D\u001b[0KType\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000318,
+      "\u001b[21D\u001b[0K\u001b[1m     InitBuild\u001b[22m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000125,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[14C (org.gradle.buildinit.tasks.InitBuild)\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.002267,
+      "\u001b[21D\u001b[0K\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0KOptions\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.264383,
+      "\u001b[21D\u001b[0K     \r\n"
+    ],
+    [
+      0.008119,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000023,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[5C\u001b[1m--type\u001b[22m\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[11C     Set type of build to create.\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K                Available values are:\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K                     \r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[21C\u001b[1mbasic\u001b[22m\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[26C\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000013,
+      "\u001b[21D\u001b[0K                     \r\n"
+    ],
+    [
+      0.000281,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[21C\u001b[1mgroovy-library\u001b[22m\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[35C\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000304,
+      "\u001b[21D\u001b[0K                     \r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000175,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[21C\u001b[1mjava-library\u001b[22m\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[33C\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000219,
+      "\u001b[21D\u001b[0K                     \r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000161,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[21C\u001b[1mpom\u001b[22m\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000010,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[24C\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000123,
+      "\u001b[21D\u001b[0K                     \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000109,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[21C\u001b[1mscala-library\u001b[22m\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K\u001b[1A\u001b[34C\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000252,
+      "\u001b[21D\u001b[0K\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.001404,
+      "\u001b[21D\u001b[0KDescription\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[21D\u001b[0K     Initializes a new Gradle build. [incubating]\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000100,
+      "\u001b[21D\u001b[0K\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.001147,
+      "\u001b[21D\u001b[0KGroup\r\n"
+    ],
+    [
+      0.011515,
+      "\u001b[1m\u003e Building 0% \u003e :help\u001b[22m"
+    ],
+    [
+      0.000038,
+      "\u001b[21D\u001b[0K     Build Setup\r\n\u001b[1m\u003e Building 0% \u003e :help\u001b[22m\u001b[8D\u001b[0K\u001b[2D\u001b[1m100%\u001b[22m\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0KBUILD SUCCESSFUL\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0K\u001b[1A\u001b[16C\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0KTotal time: 3.991 secs\r\n\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0K"
+    ],
+    [
+      0.006273,
+      "\u001b"
+    ],
+    [
+      0.000017,
+      "[0m"
+    ],
+    [
+      0.205905,
+      "\u001b_mgalyutin@arch-mg:~/work/gradle.reciepes/izpack-expandable-task-plugin/izpack-ex-plugin\u001b\\"
+    ],
+    [
+      0.014213,
+      "\u001b[0;38;5;231;48;5;31;1m mgalyutin \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m⋯ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgradle.reciepes \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mizpack-expandable-task-plugin \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mizpack-ex-plugin \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      5.073629,
+      "gradle help --task init "
+    ],
+    [
+      1.998969,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.661058,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039776,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039872,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039853,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039400,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040470,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040362,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041060,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041091,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040656,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039459,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040656,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040298,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040654,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039858,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159634,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.174289,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.462947,
+      " "
+    ],
+    [
+      0.509296,
+      "i"
+    ],
+    [
+      0.104097,
+      "n"
+    ],
+    [
+      0.099907,
+      "i"
+    ],
+    [
+      0.152254,
+      "t"
+    ],
+    [
+      0.118261,
+      " "
+    ],
+    [
+      0.559062,
+      "-"
+    ],
+    [
+      0.110103,
+      "-"
+    ],
+    [
+      0.340151,
+      "t"
+    ],
+    [
+      0.085241,
+      "a"
+    ],
+    [
+      0.230009,
+      "s"
+    ],
+    [
+      0.086765,
+      "k"
+    ],
+    [
+      0.185669,
+      " "
+    ],
+    [
+      2.162313,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157212,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134335,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134268,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.282499,
+      "y"
+    ],
+    [
+      0.611923,
+      "p"
+    ],
+    [
+      0.107033,
+      "e"
+    ],
+    [
+      0.120679,
+      " "
+    ],
+    [
+      0.813138,
+      "b"
+    ],
+    [
+      0.079981,
+      "a"
+    ],
+    [
+      0.195968,
+      "s"
+    ],
+    [
+      0.216460,
+      "i"
+    ],
+    [
+      0.132797,
+      "c"
+    ],
+    [
+      0.097043,
+      " "
+    ],
+    [
+      0.310172,
+      "\r\n"
+    ],
+    [
+      0.573046,
+      "\u001b[0m"
+    ],
+    [
+      1.589357,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.564246,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.012898,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.118848,
+      "\u001b[7D\u001b[1mConfiguring\u001b[22m"
+    ],
+    [
+      0.364954,
+      "\u001b[1m \u003e 0/1 projects\u001b[22m"
+    ],
+    [
+      0.020333,
+      "\u001b[1m \u003e root project\u001b[22m"
+    ],
+    [
+      0.395709,
+      "\u001b[1m \u003e Resolving dependencies ':classpath'\u001b[22m"
+    ],
+    [
+      0.002893,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.004808,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000306,
+      "\u001b[12D\u001b[1m1/1 projects\u001b[22m"
+    ],
+    [
+      0.184568,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000015,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000568,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.003390,
+      "\u001b[1m \u003e :init\u001b[22m"
+    ],
+    [
+      0.035859,
+      "\u001b[21D\u001b[0K:init\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Building 0% \u003e :init\u001b[22m"
+    ],
+    [
+      0.000173,
+      "\u001b[21D\u001b[0KThe build file 'build.gradle' already exists. Skipping build initialization.\r\n\u001b[1m\u003e Building 0% \u003e :init\u001b[22m"
+    ],
+    [
+      0.000149,
+      "\u001b[21D\u001b[0K\u001b[1A\u001b[76C\r\n\u001b[1m\u003e Building 0% \u003e :init\u001b[22m"
+    ],
+    [
+      0.003358,
+      "\u001b[8D\u001b[0K"
+    ],
+    [
+      0.000128,
+      "\u001b[13D\u001b[0K:init \r\n\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.001385,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[6C\u001b[33mSKIPPED\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000118,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[13C\r\n\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000252,
+      "\u001b[2D\u001b[1m100%\u001b[22m"
+    ],
+    [
+      0.001721,
+      "\u001b[15D\u001b[0K\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000986,
+      "\u001b[15D\u001b[0KBUILD SUCCESSFUL\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000116,
+      "\u001b[15D\u001b[0K\u001b[1A\u001b[16C\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000117,
+      "\u001b[15D\u001b[0K\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000313,
+      "\u001b[15D\u001b[0KTotal time: 3.787 secs\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000238,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.007420,
+      "\u001b"
+    ],
+    [
+      0.000022,
+      "["
+    ],
+    [
+      0.000016,
+      "0"
+    ],
+    [
+      0.000015,
+      "m"
+    ],
+    [
+      0.188442,
+      "\u001b_mgalyutin@arch-mg:~/work/gradle.reciepes/izpack-expandable-task-plugin/izpack-ex-plugin\u001b\\"
+    ],
+    [
+      0.012658,
+      "\u001b[0;38;5;231;48;5;31;1m mgalyutin \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m⋯ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgradle.reciepes \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mizpack-expandable-task-plugin \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mizpack-ex-plugin \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      4.055052,
+      "exit\r\n"
+    ]
+  ]
+}
