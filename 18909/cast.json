@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "width": 218,
+  "height": 54,
+  "duration": 11.498877,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.969691,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.000043,
+      "\u001b]2;ecomrobotics@automation-stack: ~/Dev/ayyo/ayyo-api-testsuite\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..api-testsuite\u0007"
+    ],
+    [
+      0.025883,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mayyo-api-testsuite \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000020,
+      "\u001b[K"
+    ],
+    [
+      0.000164,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.820939,
+      "asciinema rec"
+    ],
+    [
+      0.367061,
+      "\u001b[13Dcurl -sL https://asciinema.org/install | sh"
+    ],
+    [
+      0.624097,
+      "\u001b[43Dgit status                                 \u001b[33D"
+    ],
+    [
+      0.439919,
+      "\u001b[10Dcd /Users/ecomrobotics/Dev/ayyo/ayyo-api-testsuite \u0026\u0026 source venv/bin/activate \u0026\u0026 py.test testsuite/websocket/scaffold/test_example.py::TestExampleClass --alluredir ./ayyo_reports/TestLoginAccessToken --ayyo-workers=100 --ayyo-run-mode=cmd --tb=short -q\u001b[K"
+    ],
+    [
+      1.087875,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000056,
+      "\r\r\n"
+    ],
+    [
+      0.001081,
+      "\u001b]2;cd /Users/ecomrobotics/Dev/ayyo/ayyo-api-testsuite \u0026\u0026 source venv/bin/activat\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.538102,
+      "\u001b[1;30m2015-04-18 10:23:10.128952\u001b[0m xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1;30m2015-04-18 10:23:10.129036\u001b[0m \u001b[37;1;44m AYYO TESTSUITE -\u003e TESTS: 3, WORKERS: 100 \u001b[0m\r\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1;30m2015-04-18 10:23:10.129070\u001b[0m \u001b[34;1;40mEffective suite configuration:\u001b[0m\r\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[1;30m2015-04-18 10:23:10.129117\u001b[0m \u001b[34;1;40m\tapi_url: ws://napi.ayyo.ru \u001b[0m\r\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[1;30m2015-04-18 10:23:10.129154\u001b[0m \u001b[34;1;40m\tdb_connect_timeout: 1 \u001b[0m\r\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[1;30m2015-04-18 10:23:10.129186\u001b[0m \u001b[34;1;40m\tdb_host: 10.33.253.130 \u001b[0m\r\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1;30m2015-04-18 10:23:10.129212\u001b[0m \u001b[34;1;40m\tdb_name: ayyo \u001b[0m\r\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[1;30m2015-04-18 10:23:10.129238\u001b[0m \u001b[34;1;40m\tdb_password: secret \u001b[0m\r\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[1;30m2015-04-18 10:23:10.129265\u001b[0m \u001b[34;1;40m\tdb_port: 5432 \u001b[0m\r\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[1;30m2015-04-18 10:23:10.129295\u001b[0m \u001b[34;1;40m\tdb_user: ayyo \u001b[0m\r\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[1;30m2015-04-18 10:23:10.129323\u001b[0m \u001b[34;1;40m\treport_dir: ./ayyo_reports \u001b[0m\r\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[1;30m2015-04-18 10:23:10.129354\u001b[0m \u001b[34;1;40m\trmq_exchange: ayyo \u001b[0m\r\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[1;30m2015-04-18 10:23:10.129388\u001b[0m \u001b[34;1;40m\trmq_queue: ayyo \u001b[0m\r\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[1;30m2015-04-18 10:23:10.129420\u001b[0m \u001b[34;1;40m\trmq_url: amqp://guest:guest@localhost:5672/ \u001b[0m\r\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1;30m2015-04-18 10:23:10.129441\u001b[0m \u001b[34;1;40m\trun_mode: cmd \u001b[0m\r\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1;30m2015-04-18 10:23:10.129457\u001b[0m \u001b[34;1;40m\tworkers: 100 \u001b[0m\r\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[1;30m2015-04-18 10:23:10.129486\u001b[0m xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\r\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1;30m2015-04-18 10:23:10.129517\u001b[0m Pooling and running tests ...\r\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[1;30m2015-04-18 10:23:10.129599\u001b[0m Pool[100:99]: \u001b[36;1;40m TestExampleClass::test_one \u001b[0m\r\r\n"
+    ],
+    [
+      0.010945,
+      "\u001b[1;30m2015-04-18 10:23:10.140383\u001b[0m Pool[100:98]: \u001b[36;1;40m TestExampleClass::test_example_method_fail \u001b[0m\r\r\n"
+    ],
+    [
+      0.010658,
+      "\u001b[1;30m2015-04-18 10:23:10.151067\u001b[0m Pool[100:97]: \u001b[36;1;40m TestExampleClass::test_example_method_ok \u001b[0m\r\r\n"
+    ],
+    [
+      0.814884,
+      "\u001b[1;30m2015-04-18 10:23:10.965768\u001b[0m \u001b[1;32m✔ OK \u001b[0m ★ \u001b[1;32m TestExampleClass::test_one -\u003e Описание тестового класса :: Описание тестового метода [0.84 sec.]\u001b[0m\r\r\n"
+    ],
+    [
+      0.000445,
+      "\u001b[1;30m2015-04-18 10:23:10.966511\u001b[0m \u001b[1;32m✔ OK \u001b[0m ★ \u001b[1;32m TestExampleClass::test_example_method_ok -\u003e Описание тестового класса :: Успешный тест [0.82 sec.]\u001b[0m\r\r\n"
+    ],
+    [
+      1.008450,
+      "\u001b[1;30m2015-04-18 10:23:11.974945\u001b[0m \u001b[1;31m✘ FAIL \u001b[0m ★ \u001b[1;31m TestExampleClass::test_example_method_fail -\u003e Описание тестового класса :: Описание тестового метода [1.83 sec.]\u001b[0m\r\r\n"
+    ],
+    [
+      0.000321,
+      "\u001b[1;30m2015-04-18 10:23:11.975281\u001b[0m \u001b[37;1;41m RAW STDOUT \r\r\nF\r\n\r=================================== FAILURES ===================================\r\n\r__________________ TestExampleClass.test_example_method_fail ___________________\r\n\rtestsuite/websocket/scaffold/test_example.py:31: in test_example_method_fail\r\n\r    assert hasattr('t', 'check')\r\n\rE   assert hasattr('t', 'check')\r\n\r---------------------------- Captured stderr setup -----------------------------\r\n\r[2015-04-18 07:23:10.945050] INFO: websocket_client: Opening [Local =\u003e 192.168.199.3:50095 | Remote =\u003e 109.105.130.112:80]\r\n\r----------------------------- Captured stdout call -----------------------------\r\n\rok\r\n\r----------------------------- Captured stderr call -----------------------------\r\n\r[2015-04-18 07:23:10.945942] DEBUG: test_example_method_fail: This is too cool for stdlib\r\n\r1 failed in 1.48 seconds\r\n\u001b[0m\r\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1;30m2015-04-18 10:23:11.975340\u001b[0m \u001b[37;1;41m RAW STDERR \r\r\n None\u001b[0m\r\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[1;30m2015-04-18 10:23:11.975508\u001b[0m \u001b[32;1;40m Time elapsed: 1.81 sec. \u001b[0m\r\r\n"
+    ],
+    [
+      0.021639,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.000096,
+      "\u001b]2;ecomrobotics@automation-stack: ~/Dev/ayyo/ayyo-api-testsuite\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;..api-testsuite\u0007"
+    ],
+    [
+      0.025622,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv)\u001b[01;32m➜ \u001b[01;32m \u001b[36mayyo-api-testsuite \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000015,
+      "\u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.686919,
+      "\r\r\n"
+    ]
+  ]
+}
