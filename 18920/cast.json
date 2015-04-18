@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "width": 88,
+  "height": 21,
+  "duration": 12.273414,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.061004,
+      "\u001b]0;mirrh@beastmachine: ~/Downloads\u0007\u001b[1;37mmirrh\u001b[0;37m \u001b[1;36mDownloads\u001b[0;37m \u001b[2;37m$\u001b[0;37m "
+    ],
+    [
+      5.794148,
+      "h"
+    ],
+    [
+      0.176841,
+      "e"
+    ],
+    [
+      0.302921,
+      "l"
+    ],
+    [
+      0.161894,
+      "l"
+    ],
+    [
+      0.150648,
+      "o"
+    ],
+    [
+      2.727195,
+      "\r\n"
+    ],
+    [
+      1.375798,
+      "The program 'hello' can be found in the following packages:\r\n"
+    ],
+    [
+      0.000014,
+      " * hello\r\n"
+    ],
+    [
+      0.000023,
+      " * hello-debhelper\r\n"
+    ],
+    [
+      0.000118,
+      "Try: sudo apt-get install \u003cselected package\u003e\r\n"
+    ],
+    [
+      0.038958,
+      "\u001b]0;mirrh@beastmachine: ~/Downloads\u0007\u001b[1;37mmirrh\u001b[0;37m \u001b[1;36mDownloads\u001b[0;37m \u001b[2;37m$\u001b[0;37m "
+    ],
+    [
+      1.467070,
+      "exit\r\n"
+    ]
+  ]
+}
