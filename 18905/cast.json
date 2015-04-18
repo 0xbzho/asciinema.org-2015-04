@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 40,
+  "duration": 34.028617,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.013286,
+      "bash-4.2$ "
+    ],
+    [
+      1.149068,
+      "u"
+    ],
+    [
+      0.296058,
+      "s"
+    ],
+    [
+      0.119507,
+      "b"
+    ],
+    [
+      0.240820,
+      "d"
+    ],
+    [
+      0.108988,
+      "e"
+    ],
+    [
+      0.197291,
+      "v"
+    ],
+    [
+      0.212326,
+      " "
+    ],
+    [
+      0.105346,
+      "-"
+    ],
+    [
+      0.212067,
+      "h"
+    ],
+    [
+      0.229172,
+      "\r\n"
+    ],
+    [
+      0.029409,
+      "USBdev is a tool recognition of USB devices\r\n\r\nOptional  arguments:\r\n"
+    ],
+    [
+      0.000014,
+      "  -h, --help               display this help and exit\r\n  -v, --version            print program version and exit\r\n"
+    ],
+    [
+      0.000005,
+      "  -t, --time [sec]         waiting time before plugin\r\n"
+    ],
+    [
+      0.003474,
+      "bash-4.2$ "
+    ],
+    [
+      1.948231,
+      "u"
+    ],
+    [
+      0.416300,
+      "s"
+    ],
+    [
+      0.097287,
+      "b"
+    ],
+    [
+      0.194169,
+      "d"
+    ],
+    [
+      0.089795,
+      "e"
+    ],
+    [
+      0.240201,
+      "v"
+    ],
+    [
+      1.152301,
+      "\r\n"
+    ],
+    [
+      0.028663,
+      "Plugin USB device(s) now ..."
+    ],
+    [
+      1.362502,
+      "."
+    ],
+    [
+      1.007566,
+      "."
+    ],
+    [
+      1.011413,
+      "."
+    ],
+    [
+      0.040544,
+      "Done\r\nFound: Vendor(s)             Device(s)\r\n"
+    ],
+    [
+      0.029969,
+      "1:     Kingston Technology   DataTraveler 100\r\n"
+    ],
+    [
+      0.006228,
+      "bash-4.2$ "
+    ],
+    [
+      2.375909,
+      "u"
+    ],
+    [
+      0.739540,
+      "s"
+    ],
+    [
+      0.087865,
+      "b"
+    ],
+    [
+      0.163471,
+      "d"
+    ],
+    [
+      0.085541,
+      "e"
+    ],
+    [
+      0.217317,
+      "v"
+    ],
+    [
+      0.638063,
+      " "
+    ],
+    [
+      0.110366,
+      "-"
+    ],
+    [
+      0.251849,
+      "t"
+    ],
+    [
+      0.237646,
+      " "
+    ],
+    [
+      0.397830,
+      "1"
+    ],
+    [
+      0.092503,
+      "0"
+    ],
+    [
+      2.923701,
+      "\r\n"
+    ],
+    [
+      0.031365,
+      "Plugin USB device(s) now ..."
+    ],
+    [
+      10.371262,
+      "."
+    ],
+    [
+      0.077933,
+      "Done\r\nFound: Vendor(s)             Device(s)\r\n"
+    ],
+    [
+      0.077292,
+      "1:     Kingston Technology   DataTraveler 100\r\n2:     Logitech, Inc.        Unifying Receiver\r\n3:     Alcor Micro Corp.     Flash Drive\r\n"
+    ],
+    [
+      0.006395,
+      "bash-4.2$ "
+    ],
+    [
+      4.600719,
+      "exit\r\n"
+    ]
+  ]
+}
