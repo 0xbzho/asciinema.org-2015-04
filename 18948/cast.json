@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 51,
+  "duration": 95.888352,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.261003,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.038125,
+      "\u001bk..ions/bins/elf\u001b\\"
+    ],
+    [
+      0.000271,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 20:00 \u001b[1m~/Projects/Reverse/radare2/r2-regressions/bins/elf\u001b[0m "
+    ],
+    [
+      0.000015,
+      "\u001b[K\u001b[100C\u001b[33m\u001b[32m\u001b[00m [\u001b[34mmaster\u001b[00m] \u001b[33mgit\u001b[00m:r2-regressions\u001b[128D"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.741346,
+      "l"
+    ],
+    [
+      0.127254,
+      "\u0008ll"
+    ],
+    [
+      0.320031,
+      "db r2"
+    ],
+    [
+      0.744009,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000093,
+      "\r\r\n"
+    ],
+    [
+      0.000890,
+      "\u001bklldb\u001b\\"
+    ],
+    [
+      0.114554,
+      "(lldb) target create \"r2\"\r\n"
+    ],
+    [
+      0.267837,
+      "b"
+    ],
+    [
+      0.062830,
+      "Current executable set to 'r2' (x86_64).\r\n"
+    ],
+    [
+      0.001030,
+      "(lldb) "
+    ],
+    [
+      0.000005,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.000022,
+      "b"
+    ],
+    [
+      0.568146,
+      "r"
+    ],
+    [
+      0.032375,
+      "e"
+    ],
+    [
+      0.079865,
+      "a"
+    ],
+    [
+      0.144137,
+      "k"
+    ],
+    [
+      0.175999,
+      "p"
+    ],
+    [
+      0.168011,
+      "o"
+    ],
+    [
+      0.103930,
+      "i"
+    ],
+    [
+      0.095994,
+      "n"
+    ],
+    [
+      0.080114,
+      "t"
+    ],
+    [
+      0.071957,
+      " "
+    ],
+    [
+      0.087746,
+      "s"
+    ],
+    [
+      0.104093,
+      "e"
+    ],
+    [
+      0.072172,
+      "t"
+    ],
+    [
+      0.119834,
+      " "
+    ],
+    [
+      0.040114,
+      "-"
+    ],
+    [
+      0.160067,
+      "-"
+    ],
+    [
+      0.327912,
+      "f"
+    ],
+    [
+      0.103957,
+      "i"
+    ],
+    [
+      0.055800,
+      "l"
+    ],
+    [
+      0.112277,
+      "e"
+    ],
+    [
+      0.103760,
+      " "
+    ],
+    [
+      0.208154,
+      "e"
+    ],
+    [
+      0.128072,
+      "l"
+    ],
+    [
+      0.087974,
+      "f"
+    ],
+    [
+      0.120022,
+      "."
+    ],
+    [
+      0.183982,
+      "c"
+    ],
+    [
+      1.687569,
+      " "
+    ],
+    [
+      0.168225,
+      "-"
+    ],
+    [
+      0.168091,
+      "-"
+    ],
+    [
+      0.679976,
+      "l"
+    ],
+    [
+      0.104064,
+      "i"
+    ],
+    [
+      0.095908,
+      "n"
+    ],
+    [
+      0.112063,
+      "e"
+    ],
+    [
+      0.135832,
+      " "
+    ],
+    [
+      6.343906,
+      "1"
+    ],
+    [
+      0.375989,
+      "2"
+    ],
+    [
+      0.959902,
+      "1"
+    ],
+    [
+      0.120055,
+      "7"
+    ],
+    [
+      0.416058,
+      "\r\n"
+    ],
+    [
+      0.100535,
+      "Breakpoint 1: 2 locations.\r\n"
+    ],
+    [
+      0.000051,
+      "(ll"
+    ],
+    [
+      0.000005,
+      "db) "
+    ],
+    [
+      0.000024,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      2.339198,
+      "r"
+    ],
+    [
+      0.192092,
+      " "
+    ],
+    [
+      0.119927,
+      "b"
+    ],
+    [
+      0.096149,
+      "u"
+    ],
+    [
+      0.087884,
+      "s"
+    ],
+    [
+      0.512009,
+      "y"
+    ],
+    [
+      0.104364,
+      "\r\u001b[K"
+    ],
+    [
+      0.000008,
+      "(lldb) r busybox-mips"
+    ],
+    [
+      0.000005,
+      "-ph"
+    ],
+    [
+      0.000004,
+      "dr"
+    ],
+    [
+      0.000004,
+      "\u001b[1G"
+    ],
+    [
+      0.000004,
+      "\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000003,
+      "\u001b[27G"
+    ],
+    [
+      1.439708,
+      "\r\n"
+    ],
+    [
+      0.371390,
+      "Process 20865 launched: '/usr/bin/r2' (x86_64)\r\n"
+    ],
+    [
+      0.056601,
+      "SCANs: realpath [/usr/lib/radare2/0.9.9-git/0.9.9-git] failed with errno 62 (Too many levels of symbolic links)\r\n"
+    ],
+    [
+      0.018461,
+      "SCANs: realpath [/usr/lib/radare2/0.9.9-git/0.9.9-git] failed with errno 62 (Too many levels of symbolic links)\r\n"
+    ],
+    [
+      0.114591,
+      "1 location added to breakpoint 1\r\n"
+    ],
+    [
+      0.004072,
+      "1 location added to breakpoint 1\r\n"
+    ],
+    [
+      0.095280,
+      "warning: (x86_64) /usr/lib/radare2/0.9.9-git/parse_z80_pseudo.dylib empty dSYM file detected, dSYM was created with an executable with no debug info.\r\n"
+    ],
+    [
+      0.172664,
+      "Warning: Cannot initialize section headers\r\r\nWarning: Cannot initialize strings table\r\r\n"
+    ],
+    [
+      0.009107,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 539 at elf.c:1217, queue = 'com.apple.main-thread', stop reason = breakpoint 1.1\r\n    frame #0: 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 539 at elf.c:1217\r\n   1214\t\t\t\t\t\tstrsize = dyn_buf[j].d_un.d_val;\r\n   1215\t\t\t\t\t}\r\n   1216\t\t\t\t}\r\n-\u003e 1217\t\t\t\tif (!strtabaddr || strsize \u003e ST32_MAX || strsize == 0){\r\n   1218\t\t\t\t\tfree (dyn_buf);\r\n   1219\t\t\t\t\treturn NULL;\r\n   1220\t\t\t\t}\r\n"
+    ],
+    [
+      0.000095,
+      "(lldb) "
+    ],
+    [
+      0.000021,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.381704,
+      "p"
+    ],
+    [
+      0.087718,
+      " "
+    ],
+    [
+      0.215832,
+      "s"
+    ],
+    [
+      0.144232,
+      "t"
+    ],
+    [
+      0.279953,
+      "r"
+    ],
+    [
+      0.200025,
+      "t"
+    ],
+    [
+      0.063878,
+      "a"
+    ],
+    [
+      0.120190,
+      "b"
+    ],
+    [
+      0.159813,
+      "a"
+    ],
+    [
+      0.151994,
+      "d"
+    ],
+    [
+      0.136140,
+      "d"
+    ],
+    [
+      0.175961,
+      "r"
+    ],
+    [
+      0.256105,
+      "\r\n"
+    ],
+    [
+      0.026318,
+      "(Elf32_Addr) $0 = 4202388\r\n"
+    ],
+    [
+      0.000074,
+      "(lldb) "
+    ],
+    [
+      0.000004,
+      "\u001b[1G"
+    ],
+    [
+      0.000002,
+      "\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000002,
+      "\u001b[8G"
+    ],
+    [
+      0.749445,
+      "p"
+    ],
+    [
+      0.512059,
+      " "
+    ],
+    [
+      0.199919,
+      "s"
+    ],
+    [
+      0.471810,
+      "t"
+    ],
+    [
+      0.255818,
+      "r"
+    ],
+    [
+      0.432209,
+      "s"
+    ],
+    [
+      0.088124,
+      "i"
+    ],
+    [
+      0.216092,
+      "z"
+    ],
+    [
+      0.263901,
+      "e"
+    ],
+    [
+      0.391983,
+      "\r\n"
+    ],
+    [
+      0.004286,
+      "(size_t) $1 = 2505\r\n"
+    ],
+    [
+      0.000067,
+      "(l"
+    ],
+    [
+      0.000011,
+      "ldb) "
+    ],
+    [
+      0.000017,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000005,
+      "\u001b[8G"
+    ],
+    [
+      7.107297,
+      "n"
+    ],
+    [
+      0.240148,
+      "\r\n"
+    ],
+    [
+      0.011005,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x00000001002126b4 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 612 at elf.c:1221, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x00000001002126b4 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 612 at elf.c:1221\r\n   1218\t\t\t\t\tfree (dyn_buf);\r\n   1219\t\t\t\t\treturn NULL;\r\n   1220\t\t\t\t}\r\n-\u003e 1221\t\t\t\tstrtab = (char *)calloc(1, strsize);\r\n   1222\t\t\t\tif (!strtab){\r\n   1223\t\t\t\t\tfree (dyn_buf);\r\n   1224\t\t\t\t\treturn NULL;\r\n"
+    ],
+    [
+      0.000081,
+      "(lldb) "
+    ],
+    [
+      0.000025,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.532867,
+      "n"
+    ],
+    [
+      0.520006,
+      "\r\n"
+    ],
+    [
+      0.009671,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x00000001002126c1 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 625 at elf.c:1222, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x00000001002126c1 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 625 at elf.c:1222\r\n   1219\t\t\t\t\treturn NULL;\r\n   1220\t\t\t\t}\r\n   1221\t\t\t\tstrtab = (char *)calloc(1, strsize);\r\n-\u003e 1222\t\t\t\tif (!strtab){\r\n   1223\t\t\t\t\tfree (dyn_buf);\r\n   1224\t\t\t\t\treturn NULL;\r\n   1225\t\t\t\t}\r\n"
+    ],
+    [
+      0.000089,
+      "(lldb) "
+    ],
+    [
+      0.000012,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.542106,
+      "n"
+    ],
+    [
+      0.256058,
+      "\r\n"
+    ],
+    [
+      0.008391,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x00000001002126e8 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 664 at elf.c:1226, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x00000001002126e8 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 664 at elf.c:1226\r\n   1223\t\t\t\t\tfree (dyn_buf);\r\n   1224\t\t\t\t\treturn NULL;\r\n   1225\t\t\t\t}\r\n-\u003e 1226\t\t\t\tr = r_buf_read_at (bin-\u003eb, strtabaddr, (ut8 *)strtab, strsize);\r\n   1227\t\t\t\tif (r == 0 || r == -1){\r\n   1228\t\t\t\t\tfree (strtab);\r\n   1229\t\t\t\t\tfree (dyn_buf);\r\n"
+    ],
+    [
+      0.000073,
+      "(l"
+    ],
+    [
+      0.000004,
+      "ldb) "
+    ],
+    [
+      0.000014,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000003,
+      "\u001b[8G"
+    ],
+    [
+      1.463443,
+      "s"
+    ],
+    [
+      0.104005,
+      "\r\n"
+    ],
+    [
+      0.012290,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c527 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 23 at buf.c:418, queue = 'com.apple.main-thread', stop reason = step in\r\n    frame #0: 0x000000010116c527 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 23 at buf.c:418\r\n   415 \t//ret 0 if failed; ret copied length if successful\r\n   416 \tR_API int r_buf_read_at(RBuffer *b, ut64 addr, ut8 *buf, int len) {\r\n   417 \t\tst64 pa;\r\n-\u003e 418 \t\tif (!b || !buf || len\u003c1) return 0;\r\n   419 \t#if R_BUF_CUR != UT64_MAX\r\n   420 \t#error R_BUF_CUR must be UT64_MAX\r\n   421 \t#endif\r\n"
+    ],
+    [
+      0.000067,
+      "(lldb) "
+    ],
+    [
+      0.000010,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.659478,
+      "p"
+    ],
+    [
+      0.104087,
+      " "
+    ],
+    [
+      0.135797,
+      "l"
+    ],
+    [
+      0.136148,
+      "e"
+    ],
+    [
+      0.112041,
+      "n"
+    ],
+    [
+      0.367877,
+      "\r\n"
+    ],
+    [
+      0.004158,
+      "(int) $2 = 2505\r\n"
+    ],
+    [
+      0.000065,
+      "(lld"
+    ],
+    [
+      0.000007,
+      "b) "
+    ],
+    [
+      0.000019,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000004,
+      "\u001b[8G"
+    ],
+    [
+      2.003845,
+      "p"
+    ],
+    [
+      0.080296,
+      " "
+    ],
+    [
+      0.135617,
+      "a"
+    ],
+    [
+      0.303869,
+      "d"
+    ],
+    [
+      0.152133,
+      "d"
+    ],
+    [
+      0.128038,
+      "r"
+    ],
+    [
+      0.127999,
+      "\r\n"
+    ],
+    [
+      0.004080,
+      "(unsigned long long) $3 = 4202388\r\n"
+    ],
+    [
+      0.000066,
+      "(ll"
+    ],
+    [
+      0.000007,
+      "db) "
+    ],
+    [
+      0.000019,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000004,
+      "\u001b[8G"
+    ],
+    [
+      2.211755,
+      "p"
+    ],
+    [
+      0.079953,
+      " "
+    ],
+    [
+      0.167885,
+      "b"
+    ],
+    [
+      0.111886,
+      "i"
+    ],
+    [
+      0.496135,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[11G"
+    ],
+    [
+      0.800115,
+      "-"
+    ],
+    [
+      0.255773,
+      "\u003e"
+    ],
+    [
+      0.200130,
+      "l"
+    ],
+    [
+      0.127886,
+      "e"
+    ],
+    [
+      0.096078,
+      "n"
+    ],
+    [
+      0.087852,
+      "g"
+    ],
+    [
+      0.192204,
+      "t"
+    ],
+    [
+      0.103907,
+      "h"
+    ],
+    [
+      0.391935,
+      "\r\n"
+    ],
+    [
+      0.004799,
+      "(int) $4 = 390419\r\n"
+    ],
+    [
+      0.000071,
+      "(lld"
+    ],
+    [
+      0.000010,
+      "b) "
+    ],
+    [
+      0.000039,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.227084,
+      "n"
+    ],
+    [
+      0.360145,
+      "\r\n"
+    ],
+    [
+      0.010400,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c55c libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 76 at buf.c:422, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c55c libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 76 at buf.c:422\r\n   419 \t#if R_BUF_CUR != UT64_MAX\r\n   420 \t#error R_BUF_CUR must be UT64_MAX\r\n   421 \t#endif\r\n-\u003e 422 \t\tif (addr == R_BUF_CUR) {\r\n   423 \t\t\taddr = b-\u003ecur;\r\n   424 \t\t}\r\n   425 \t\tif (!b-\u003esparse) {\r\n"
+    ],
+    [
+      0.000067,
+      "(lld"
+    ],
+    [
+      0.000007,
+      "b) "
+    ],
+    [
+      0.000012,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000003,
+      "\u001b[8G"
+    ],
+    [
+      1.045251,
+      "n"
+    ],
+    [
+      0.528102,
+      "\r\n"
+    ],
+    [
+      0.008675,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c576 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 102 at buf.c:425, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c576 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 102 at buf.c:425\r\n   422 \t\tif (addr == R_BUF_CUR) {\r\n   423 \t\t\taddr = b-\u003ecur;\r\n   424 \t\t}\r\n-\u003e 425 \t\tif (!b-\u003esparse) {\r\n   426 \t\t\tif (addr \u003c b-\u003ebase || len\u003c1)\r\n   427 \t\t\t\treturn 0;\r\n   428 \t\t\tpa = addr - b-\u003ebase;\r\n"
+    ],
+    [
+      0.000083,
+      "(lld"
+    ],
+    [
+      0.000007,
+      "b) "
+    ],
+    [
+      0.000023,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.063022,
+      "n"
+    ],
+    [
+      0.416023,
+      "\r\n"
+    ],
+    [
+      0.009061,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c588 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 120 at buf.c:426, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c588 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 120 at buf.c:426\r\n   423 \t\t\taddr = b-\u003ecur;\r\n   424 \t\t}\r\n   425 \t\tif (!b-\u003esparse) {\r\n-\u003e 426 \t\t\tif (addr \u003c b-\u003ebase || len\u003c1)\r\n   427 \t\t\t\treturn 0;\r\n   428 \t\t\tpa = addr - b-\u003ebase;\r\n   429 \t\t\tif (pa+len \u003e b-\u003elength) {\r\n"
+    ],
+    [
+      0.000090,
+      "(lldb) "
+    ],
+    [
+      0.000026,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      3.734827,
+      "n"
+    ],
+    [
+      0.919912,
+      "\r\n"
+    ],
+    [
+      0.009976,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c5b3 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 163 at buf.c:428, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c5b3 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 163 at buf.c:428\r\n   425 \t\tif (!b-\u003esparse) {\r\n   426 \t\t\tif (addr \u003c b-\u003ebase || len\u003c1)\r\n   427 \t\t\t\treturn 0;\r\n-\u003e 428 \t\t\tpa = addr - b-\u003ebase;\r\n   429 \t\t\tif (pa+len \u003e b-\u003elength) {\r\n   430 \t\t\t\tmemset (buf, 0xff, len);\r\n   431 \t\t\t\tlen = b-\u003elength - pa;\r\n"
+    ],
+    [
+      0.000082,
+      "(lldb) "
+    ],
+    [
+      0.000005,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      3.525845,
+      "n"
+    ],
+    [
+      0.432124,
+      "\r\n"
+    ],
+    [
+      0.009576,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c5c3 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 179 at buf.c:429, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c5c3 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 179 at buf.c:429\r\n   426 \t\t\tif (addr \u003c b-\u003ebase || len\u003c1)\r\n   427 \t\t\t\treturn 0;\r\n   428 \t\t\tpa = addr - b-\u003ebase;\r\n-\u003e 429 \t\t\tif (pa+len \u003e b-\u003elength) {\r\n   430 \t\t\t\tmemset (buf, 0xff, len);\r\n   431 \t\t\t\tlen = b-\u003elength - pa;\r\n   432 \t\t\t\tif (len\u003c0)\r\n"
+    ],
+    [
+      0.000082,
+      "(ll"
+    ],
+    [
+      0.000006,
+      "db) "
+    ],
+    [
+      0.000031,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.390148,
+      "p"
+    ],
+    [
+      0.176033,
+      " "
+    ],
+    [
+      0.112014,
+      "p"
+    ],
+    [
+      0.103984,
+      "a"
+    ],
+    [
+      0.207951,
+      "\r\n"
+    ],
+    [
+      0.004076,
+      "(long long) $5 = 4202388\r\n"
+    ],
+    [
+      0.000066,
+      "(lldb"
+    ],
+    [
+      0.000006,
+      ") "
+    ],
+    [
+      0.000017,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000004,
+      "\u001b[8G"
+    ],
+    [
+      4.451632,
+      "n"
+    ],
+    [
+      1.007994,
+      "\r\n"
+    ],
+    [
+      0.010213,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c5eb libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 219 at buf.c:430, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c5eb libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 219 at buf.c:430\r\n   427 \t\t\t\treturn 0;\r\n   428 \t\t\tpa = addr - b-\u003ebase;\r\n   429 \t\t\tif (pa+len \u003e b-\u003elength) {\r\n-\u003e 430 \t\t\t\tmemset (buf, 0xff, len);\r\n   431 \t\t\t\tlen = b-\u003elength - pa;\r\n   432 \t\t\t\tif (len\u003c0)\r\n   433 \t\t\t\t\treturn 0;\r\n"
+    ],
+    [
+      0.000081,
+      "(lldb) "
+    ],
+    [
+      0.000024,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.781726,
+      "n"
+    ],
+    [
+      0.896050,
+      "\r\n"
+    ],
+    [
+      0.010223,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c5f8 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 232 at buf.c:431, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c5f8 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=2505) + 232 at buf.c:431\r\n   428 \t\t\tpa = addr - b-\u003ebase;\r\n   429 \t\t\tif (pa+len \u003e b-\u003elength) {\r\n   430 \t\t\t\tmemset (buf, 0xff, len);\r\n-\u003e 431 \t\t\t\tlen = b-\u003elength - pa;\r\n   432 \t\t\t\tif (len\u003c0)\r\n   433 \t\t\t\t\treturn 0;\r\n   434 \t\t\t}\r\n"
+    ],
+    [
+      0.000082,
+      "(lldb) "
+    ],
+    [
+      0.000025,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      2.181576,
+      "n"
+    ],
+    [
+      0.239981,
+      "\r\n"
+    ],
+    [
+      0.009056,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c609 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=-3811969) + 249 at buf.c:432, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c609 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=-3811969) + 249 at buf.c:432\r\n   429 \t\t\tif (pa+len \u003e b-\u003elength) {\r\n   430 \t\t\t\tmemset (buf, 0xff, len);\r\n   431 \t\t\t\tlen = b-\u003elength - pa;\r\n-\u003e 432 \t\t\t\tif (len\u003c0)\r\n   433 \t\t\t\t\treturn 0;\r\n   434 \t\t\t}\r\n   435 \t\t}\r\n"
+    ],
+    [
+      0.000079,
+      "(l"
+    ],
+    [
+      0.000005,
+      "ldb) "
+    ],
+    [
+      0.000013,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.230623,
+      "p"
+    ],
+    [
+      0.096216,
+      " "
+    ],
+    [
+      0.095793,
+      "l"
+    ],
+    [
+      0.144157,
+      "e"
+    ],
+    [
+      0.039869,
+      "n"
+    ],
+    [
+      0.216065,
+      "\r\n"
+    ],
+    [
+      0.004061,
+      "(int) $6 = -3811969\r\n"
+    ],
+    [
+      0.000068,
+      "(lldb"
+    ],
+    [
+      0.000010,
+      ") "
+    ],
+    [
+      0.000016,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000004,
+      "\u001b[8G"
+    ],
+    [
+      1.107833,
+      "n"
+    ],
+    [
+      0.304017,
+      "\r\n"
+    ],
+    [
+      0.009300,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c61a libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=-3811969) + 266 at buf.c:433, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c61a libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=-3811969) + 266 at buf.c:433\r\n   430 \t\t\t\tmemset (buf, 0xff, len);\r\n   431 \t\t\t\tlen = b-\u003elength - pa;\r\n   432 \t\t\t\tif (len\u003c0)\r\n-\u003e 433 \t\t\t\t\treturn 0;\r\n   434 \t\t\t}\r\n   435 \t\t}\r\n   436 \t\t// must be +pa, but maybe its missused?\r\n"
+    ],
+    [
+      0.000096,
+      "(lldb) "
+    ],
+    [
+      0.000006,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.446666,
+      "n"
+    ],
+    [
+      0.271965,
+      "\r\n"
+    ],
+    [
+      0.008819,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010116c652 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=-3811969) + 322 at buf.c:439, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010116c652 libr_util.dylib`r_buf_read_at(b=0x000000010132f930, addr=4202388, buf=0x0000000103000000, len=-3811969) + 322 at buf.c:439\r\n   436 \t\t// must be +pa, but maybe its missused?\r\n   437 \t\t//return r_buf_cpy (b, addr, buf, b-\u003ebuf+pa, len, R_FALSE);\r\n   438 \t\treturn r_buf_cpy (b, addr, buf, b-\u003ebuf, len, R_FALSE);\r\n-\u003e 439 \t}\r\n   440 \t\r\n   441 \tR_API int r_buf_fread_at (RBuffer *b, ut64 addr, ut8 *buf, const char *fmt, int n) {\r\n   442 \t\treturn r_buf_fcpy_at (b, addr, buf, fmt, n, R_FALSE);\r\n"
+    ],
+    [
+      0.000116,
+      "(lldb) "
+    ],
+    [
+      0.000006,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.694835,
+      "n"
+    ],
+    [
+      0.232244,
+      "\r\n"
+    ],
+    [
+      0.009076,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x0000000100212707 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 695 at elf.c:1226, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x0000000100212707 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 695 at elf.c:1226\r\n   1223\t\t\t\t\tfree (dyn_buf);\r\n   1224\t\t\t\t\treturn NULL;\r\n   1225\t\t\t\t}\r\n-\u003e 1226\t\t\t\tr = r_buf_read_at (bin-\u003eb, strtabaddr, (ut8 *)strtab, strsize);\r\n   1227\t\t\t\tif (r == 0 || r == -1){\r\n   1228\t\t\t\t\tfree (strtab);\r\n   1229\t\t\t\t\tfree (dyn_buf);\r\n"
+    ],
+    [
+      0.000077,
+      "(lldb) "
+    ],
+    [
+      0.000006,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.206707,
+      "n"
+    ],
+    [
+      0.312026,
+      "\r\n"
+    ],
+    [
+      0.007774,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010021270a libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 698 at elf.c:1227, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010021270a libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 698 at elf.c:1227\r\n   1224\t\t\t\t\treturn NULL;\r\n   1225\t\t\t\t}\r\n   1226\t\t\t\tr = r_buf_read_at (bin-\u003eb, strtabaddr, (ut8 *)strtab, strsize);\r\n-\u003e 1227\t\t\t\tif (r == 0 || r == -1){\r\n   1228\t\t\t\t\tfree (strtab);\r\n   1229\t\t\t\t\tfree (dyn_buf);\r\n   1230\t\t\t\t\treturn NULL;\r\n"
+    ],
+    [
+      0.000082,
+      "(lld"
+    ],
+    [
+      0.000007,
+      "b) "
+    ],
+    [
+      0.000013,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.424020,
+      "\r\n"
+    ],
+    [
+      0.008317,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x0000000100212724 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 724 at elf.c:1228, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x0000000100212724 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 724 at elf.c:1228\r\n   1225\t\t\t\t}\r\n   1226\t\t\t\tr = r_buf_read_at (bin-\u003eb, strtabaddr, (ut8 *)strtab, strsize);\r\n   1227\t\t\t\tif (r == 0 || r == -1){\r\n-\u003e 1228\t\t\t\t\tfree (strtab);\r\n   1229\t\t\t\t\tfree (dyn_buf);\r\n   1230\t\t\t\t\treturn NULL;\r\n   1231\t\t\t\t}\r\n"
+    ],
+    [
+      0.000098,
+      "(lldb) "
+    ],
+    [
+      0.000006,
+      "\u001b[1G"
+    ],
+    [
+      0.000003,
+      "\u001b[2m(lldb) \u001b[22m"
+    ],
+    [
+      0.000003,
+      "\u001b[8G"
+    ],
+    [
+      0.423484,
+      "\r\n"
+    ],
+    [
+      0.008246,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010021272d libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 733 at elf.c:1229, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x000000010021272d libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 733 at elf.c:1229\r\n   1226\t\t\t\tr = r_buf_read_at (bin-\u003eb, strtabaddr, (ut8 *)strtab, strsize);\r\n   1227\t\t\t\tif (r == 0 || r == -1){\r\n   1228\t\t\t\t\tfree (strtab);\r\n-\u003e 1229\t\t\t\t\tfree (dyn_buf);\r\n   1230\t\t\t\t\treturn NULL;\r\n   1231\t\t\t\t}\r\n   1232\t\r\n"
+    ],
+    [
+      0.000074,
+      "(lldb"
+    ],
+    [
+      0.000006,
+      ") "
+    ],
+    [
+      0.000019,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      2.183635,
+      "\r\n"
+    ],
+    [
+      0.009380,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x0000000100212736 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 742 at elf.c:1230, queue = 'com.apple.main-thread', stop reason = step over\r\n    frame #0: 0x0000000100212736 libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 742 at elf.c:1230\r\n   1227\t\t\t\tif (r == 0 || r == -1){\r\n   1228\t\t\t\t\tfree (strtab);\r\n   1229\t\t\t\t\tfree (dyn_buf);\r\n-\u003e 1230\t\t\t\t\treturn NULL;\r\n   1231\t\t\t\t}\r\n   1232\t\r\n   1233\t\t\t\tif (addr_sym_table){\r\n"
+    ],
+    [
+      0.000090,
+      "(lldb) "
+    ],
+    [
+      0.000026,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.374447,
+      "c"
+    ],
+    [
+      0.368014,
+      "\r\n"
+    ],
+    [
+      0.000314,
+      "Process 20865 resuming\r\n"
+    ],
+    [
+      0.007342,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 539 at elf.c:1217, queue = 'com.apple.main-thread', stop reason = breakpoint 1.1\r\n    frame #0: 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 539 at elf.c:1217\r\n   1214\t\t\t\t\t\tstrsize = dyn_buf[j].d_un.d_val;\r\n   1215\t\t\t\t\t}\r\n   1216\t\t\t\t}\r\n-\u003e 1217\t\t\t\tif (!strtabaddr || strsize \u003e ST32_MAX || strsize == 0){\r\n   1218\t\t\t\t\tfree (dyn_buf);\r\n   1219\t\t\t\t\treturn NULL;\r\n   1220\t\t\t\t}\r\n"
+    ],
+    [
+      0.000097,
+      "(lldb) "
+    ],
+    [
+      0.000026,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.960338,
+      "c"
+    ],
+    [
+      0.263833,
+      "\r\n"
+    ],
+    [
+      0.000479,
+      "Process 20865 resuming\r\n"
+    ],
+    [
+      0.007982,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=0) + 539 at elf.c:1217, queue = 'com.apple.main-thread', stop reason = breakpoint 1.1\r\n    frame #0: 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=0) + 539 at elf.c:1217\r\n   1214\t\t\t\t\t\tstrsize = dyn_buf[j].d_un.d_val;\r\n   1215\t\t\t\t\t}\r\n   1216\t\t\t\t}\r\n-\u003e 1217\t\t\t\tif (!strtabaddr || strsize \u003e ST32_MAX || strsize == 0){\r\n   1218\t\t\t\t\tfree (dyn_buf);\r\n   1219\t\t\t\t\treturn NULL;\r\n   1220\t\t\t\t}\r\n"
+    ],
+    [
+      0.000089,
+      "(lldb) "
+    ],
+    [
+      0.000014,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.391398,
+      "c"
+    ],
+    [
+      0.160129,
+      "\r\n"
+    ],
+    [
+      0.000458,
+      "Process 20865 resuming\r\n"
+    ],
+    [
+      0.008343,
+      "Process 20865 stopped\r\n* thread #1: tid = 0x9b6eb, 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 539 at elf.c:1217, queue = 'com.apple.main-thread', stop reason = breakpoint 1.1\r\n    frame #0: 0x000000010021266b libr_bin.dylib`get_symbols_from_phdr(bin=0x000000010132f760, type=1) + 539 at elf.c:1217\r\n   1214\t\t\t\t\t\tstrsize = dyn_buf[j].d_un.d_val;\r\n   1215\t\t\t\t\t}\r\n   1216\t\t\t\t}\r\n-\u003e 1217\t\t\t\tif (!strtabaddr || strsize \u003e ST32_MAX || strsize == 0){\r\n   1218\t\t\t\t\tfree (dyn_buf);\r\n   1219\t\t\t\t\treturn NULL;\r\n   1220\t\t\t\t}\r\n"
+    ],
+    [
+      0.000081,
+      "(lldb)"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000020,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      0.414917,
+      "c"
+    ],
+    [
+      0.200058,
+      "\r\n"
+    ],
+    [
+      0.000479,
+      "Process 20865 resuming\r\n"
+    ],
+    [
+      0.018173,
+      " -- Show offsets in graphs with 'e graph.offset = true'\r\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m "
+    ],
+    [
+      0.893475,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000057,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m q\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m q"
+    ],
+    [
+      0.143983,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000952,
+      "\r\u001b[2K\r"
+    ],
+    [
+      0.001288,
+      "Process 20865 exited with status = 0 (0x00000000) \r\n"
+    ],
+    [
+      0.000143,
+      "(ll"
+    ],
+    [
+      0.000008,
+      "db) "
+    ],
+    [
+      0.000029,
+      "\u001b[1G\u001b[2m(lldb) \u001b[22m\u001b[8G"
+    ],
+    [
+      1.093316,
+      "q"
+    ],
+    [
+      0.728089,
+      "\r\n"
+    ],
+    [
+      0.018085,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.036002,
+      "\u001bk..ions/bins/elf\u001b\\"
+    ],
+    [
+      0.000083,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 20:01 \u001b[1m~/Projects/Reverse/radare2/r2-regressions/bins/elf\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[100C\u001b[33m\u001b[32m\u001b[00m [\u001b[34mmaster\u001b[00m] \u001b[33mgit\u001b[00m:r2-regressions\u001b[128D"
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.393815,
+      "\r\r\n"
+    ]
+  ]
+}
