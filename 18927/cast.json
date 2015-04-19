@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "width": 124,
+  "height": 17,
+  "duration": 9.810578,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.032478,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      4.479894,
+      "l"
+    ],
+    [
+      0.071462,
+      "s"
+    ],
+    [
+      0.088611,
+      "\r\n"
+    ],
+    [
+      0.006307,
+      "Readme.md\tapp.json\tbuild\t\tclassic.json\tmodern\t\tresources\r\napp\t\tbootstrap.css\tbuild.xml\text\t\tmodern.json\tsass\r\napp.js\t\tbootstrap.js\tclassic\t\tindex.html\tpackages\tworkspace.json\r\n"
+    ],
+    [
+      0.000238,
+      "bash-3.2$ "
+    ],
+    [
+      2.104962,
+      "c"
+    ],
+    [
+      0.080196,
+      "d"
+    ],
+    [
+      0.080018,
+      " "
+    ],
+    [
+      0.111682,
+      "a"
+    ],
+    [
+      0.088374,
+      "p"
+    ],
+    [
+      0.143747,
+      "p"
+    ],
+    [
+      0.112373,
+      "\r\n"
+    ],
+    [
+      0.000272,
+      "bash-3.2$ "
+    ],
+    [
+      2.400110,
+      "exit\r\n"
+    ]
+  ]
+}
