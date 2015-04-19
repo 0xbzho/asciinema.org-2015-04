@@ -1,0 +1,1 @@
+{"ID":18936,"Author":{"Name":"efiop","ID":0,"FullName":"","Gravatar":"9b0dbea3317bdd34da0fe006dd3efb3c"},"Title":"crit core-dump","Description":"\u003cdiv class=\"content\"\u003e\u003cp\u003eConverting CRIU images to a valid core dump and using it with gdb.\u003c/p\u003e\n\u003c/div\u003e","Time":"2015-04-19T11:10:32Z","Tags":["Linux","zsh","screen"]}
