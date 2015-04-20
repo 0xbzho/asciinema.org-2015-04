@@ -1,0 +1,358 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 51,
+  "duration": 11.718673,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.364048,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.003332,
+      "r"
+    ],
+    [
+      0.041042,
+      "\u001bk..ions/bins/elf\u001b\\"
+    ],
+    [
+      0.000233,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 21:23 \u001b[1m~/Projects/Reverse/radare2/r2-regressions/bins/elf\u001b[0m "
+    ],
+    [
+      0.000014,
+      "\u001b[K\u001b[100C\u001b[33m\u001b[32m\u001b[00m [\u001b[34mmaster\u001b[00m] \u001b[33mgit\u001b[00m:r2-regressions\u001b[128D"
+    ],
+    [
+      0.000078,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000557,
+      "r"
+    ],
+    [
+      0.046517,
+      "\u0008r2"
+    ],
+    [
+      0.664427,
+      " busybox-mips-phdr"
+    ],
+    [
+      0.823639,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000108,
+      "\r\r\n"
+    ],
+    [
+      0.000948,
+      "\u001bkr2\u001b\\"
+    ],
+    [
+      0.041726,
+      "Warning: Cannot initialize section headers\r\nWarning: Cannot initialize strings table\r\n"
+    ],
+    [
+      0.051503,
+      " -- Heisenbug: A bug that disappears or alters its behavior when one attempts to probe or isolate it.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m "
+    ],
+    [
+      1.273577,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m i\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m i"
+    ],
+    [
+      0.320047,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m is\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m is"
+    ],
+    [
+      0.327641,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000007,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m is\r\n"
+    ],
+    [
+      0.000535,
+      "[Symbols]\r\nvaddr=0x00405ec0 paddr=0x00005ec0 ord=010 fwd=NONE sz=136 bind=GLOBAL type=FUNC name=__eqdf2\r\nvaddr=0x0046f550 paddr=0x0006f550 ord=017 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=stdout\r\nvaddr=0x0046f048 paddr=0x0006f048 ord=019 fwd=NONE sz=0 bind=GLOBAL type=NOTYPE name=_fdata\r\nvaddr=0x004774a0 paddr=0x000774a0 ord=040 fwd=NONE sz=0 bind=GLOBAL type=NOTYPE name=_gp\r\nvaddr=0x00406140 paddr=0x00006140 ord=051 fwd=NONE sz=192 bind=GLOBAL type=FUNC name=__floatsidf\r\nvaddr=0x004060a0 paddr=0x000060a0 ord=052 fwd=NONE sz=136 bind=GLOBAL type=FUNC name=__ltdf2\r\nvaddr=0x0046f554 paddr=0x0006f554 ord=067 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=optarg\r\nvaddr=0x00404620 paddr=0x00004620 ord=071 fwd=NONE sz=168 bind=GLOBAL type=FUNC name=__fixunsdfsi\r\nvaddr=0x0046f558 paddr=0x0006f558 ord=077 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=opterr\r\nvaddr=0x00405230 paddr=0x00005230 ord=086 fwd=NONE sz=100 bind=GLOBAL type=FUNC name=__extendsfdf2\r\nvaddr=0x0046f560 paddr=0x0006f560 ord=093 fwd=NONE sz=4 bind=GLOBA"
+    ],
+    [
+      0.000622,
+      "L type=OBJECT name=__environ\r\nvaddr=0x0046f560 paddr=0x0006f560 ord=116 fwd=NONE sz=4 bind=UNKNOWN type=OBJECT name=environ\r\nvaddr=0x0046f570 paddr=0x0006f570 ord=138 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=optind\r\nvaddr=0x0046f574 paddr=0x0006f574 ord=140 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=__stdin\r\nvaddr=0x0046f580 paddr=0x0006f580 ord=141 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=stdin\r\nvaddr=0x004043f0 paddr=0x000043f0 ord=146 fwd=NONE sz=0 bind=GLOBAL type=NOTYPE name=_ftext\r\nvaddr=0x0040de00 paddr=0x0000de00 ord=163 fwd=NONE sz=8 bind=GLOBAL type=FUNC name=query_module\r\nvaddr=0x0046f058 paddr=0x0006f058 ord=174 fwd=NONE sz=0 bind=GLOBAL type=OBJECT name=__RLD_MAP\r\nvaddr=0x00405b70 paddr=0x00005b70 ord=183 fwd=NONE sz=524 bind=GLOBAL type=FUNC name=__divdf3\r\nvaddr=0x0046f518 paddr=0x0006f518 ord=199 fwd=NONE sz=0 bind=GLOBAL type=NOTYPE name=__bss_start\r\nvaddr=0x00406320 paddr=0x00006320 ord=210 fwd=NONE sz=128 bind=GLOBAL type=FUNC name=__truncdfsf2\r\nvaddr=0x00405f60 paddr=0x00005f60 ord=227 "
+    ],
+    [
+      0.000633,
+      "fwd=NONE sz=136 bind=GLOBAL type=FUNC name=__nedf2\r\nvaddr=0x0046f588 paddr=0x0006f588 ord=238 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=stderr\r\nvaddr=0x0046f518 paddr=0x0006f518 ord=252 fwd=NONE sz=0 bind=GLOBAL type=NOTYPE name=_edata\r\nvaddr=0x0046f590 paddr=0x0006f590 ord=253 fwd=NONE sz=4 bind=GLOBAL type=OBJECT name=__stdout\r\nvaddr=0x0046f4b0 paddr=0x0006f4b0 ord=254 fwd=NONE sz=0 bind=GLOBAL type=OBJECT name=_GLOBAL_OFFSET_TABLE_\r\nvaddr=0x004707bc paddr=0x000707bc ord=255 fwd=NONE sz=0 bind=GLOBAL type=NOTYPE name=_end\r\nvaddr=0x0046f518 paddr=0x0006f518 ord=291 fwd=NONE sz=0 bind=GLOBAL type=NOTYPE name=_fbss\r\nvaddr=0x00406500 paddr=0x00006500 ord=304 fwd=NONE sz=572 bind=GLOBAL type=FUNC name=__pack_d\r\nvaddr=0x004057bc paddr=0x000057bc ord=305 fwd=NONE sz=144 bind=GLOBAL type=FUNC name=__subdf3\r\nvaddr=0x00406000 paddr=0x00006000 ord=306 fwd=NONE sz=136 bind=GLOBAL type=FUNC name=__gedf2\r\nvaddr=0x00457560 paddr=0x00057560 ord=307 fwd=NONE sz=24 bind=GLOBAL type=OBJECT name=__thenan_df\r\nvaddr=0x00405860 "
+    ],
+    [
+      0.000533,
+      "paddr=0x00005860 ord=308 fwd=NONE sz=756 bind=GLOBAL type=FUNC name=__muldf3\r\nvaddr=0x00405d80 paddr=0x00005d80 ord=309 fwd=NONE sz=296 bind=GLOBAL type=FUNC name=__fpcmp_parts_d\r\nvaddr=0x00405020 paddr=0x00005020 ord=311 fwd=NONE sz=292 bind=GLOBAL type=FUNC name=__pack_f\r\nvaddr=0x00404580 paddr=0x00004580 ord=312 fwd=NONE sz=64 bind=GLOBAL type=FUNC name=__lshrdi3\r\nvaddr=0x00406210 paddr=0x00006210 ord=313 fwd=NONE sz=184 bind=GLOBAL type=FUNC name=__fixdfsi\r\nvaddr=0x00405150 paddr=0x00005150 ord=314 fwd=NONE sz=200 bind=GLOBAL type=FUNC name=__unpack_f\r\nvaddr=0x004063b0 paddr=0x000063b0 ord=315 fwd=NONE sz=260 bind=GLOBAL type=FUNC name=__floatunsidf\r\nvaddr=0x00405738 paddr=0x00005738 ord=316 fwd=NONE sz=132 bind=GLOBAL type=FUNC name=__adddf3\r\nvaddr=0x004052a0 paddr=0x000052a0 ord=317 fwd=NONE sz=244 bind=GLOBAL type=FUNC name=__unpack_d\r\nvaddr=0x004064c0 paddr=0x000064c0 ord=319 fwd=NONE sz=64 bind=GLOBAL type=FUNC name=__make_fp\r\nvaddr=0x004062d0 paddr=0x000062d0 ord=320 fwd=NONE sz=76 bind=GLOBAL type="
+    ],
+    [
+      0.000638,
+      "FUNC name=__make_dp\r\nvaddr=0x004045d0 paddr=0x000045d0 ord=321 fwd=NONE sz=64 bind=GLOBAL type=FUNC name=__ashldi3\r\nvaddr=0x00400000 paddr=0x00000000 ord=001 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.longjmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=002 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.stpcpy\r\nvaddr=0x00400000 paddr=0x00000000 ord=003 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.putchar\r\nvaddr=0x00400000 paddr=0x00000000 ord=004 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strcpy\r\nvaddr=0x00400000 paddr=0x00000000 ord=005 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.chroot\r\nvaddr=0x00400000 paddr=0x00000000 ord=006 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.unsetenv\r\nvaddr=0x00400000 paddr=0x00000000 ord=007 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.log\r\nvaddr=0x00400000 paddr=0x00000000 ord=008 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sqrt\r\nvaddr=0x00400000 paddr=0x00000000 ord=009 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.waitpid\r\nvaddr=0x00400000 paddr=0x00000000 ord=011 fw"
+    ],
+    [
+      0.000576,
+      "d=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getrlimit\r\nvaddr=0x00400000 paddr=0x00000000 ord=012 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ioctl\r\nvaddr=0x00400000 paddr=0x00000000 ord=013 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getgid\r\nvaddr=0x00400000 paddr=0x00000000 ord=014 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.popen\r\nvaddr=0x00400000 paddr=0x00000000 ord=015 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sysconf\r\nvaddr=0x00400000 paddr=0x00000000 ord=016 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.printf\r\nvaddr=0x00400000 paddr=0x00000000 ord=018 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.vsprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=020 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.cfgetospeed\r\nvaddr=0x00400000 paddr=0x00000000 ord=021 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.connect\r\nvaddr=0x00400000 paddr=0x00000000 ord=022 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ungetc\r\nvaddr=0x00400000 paddr=0x00000000 ord=023 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.utimes\r\nva"
+    ],
+    [
+      0.000317,
+      "ddr=0x00400000 paddr=0x00000000 ord=024 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.shmctl\r\nvaddr=0x00400000 paddr=0x00000000 ord=025 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strerror\r\nvaddr=0x00400000 paddr=0x00000000 ord=026 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.memrchr\r\nvaddr=0x00400000 paddr=0x00000000 ord=027 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.geteuid\r\nvaddr=0x00400000 paddr=0x00000000 ord=029 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.memmove\r\nvaddr=0x00400000 paddr=0x00000000 ord=030 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.pclose\r\nvaddr=0x00400000 paddr=0x00000000 ord=031 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.snprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=032 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.syscall\r\nvaddr=0x00400000 paddr=0x00000000 ord=033 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.mknod\r\nvaddr=0x00400000 paddr=0x00000000 ord=034 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__gtdf2\r\nvaddr=0x00400000 paddr=0x00000000 ord=035 fwd=NONE sz=16 b"
+    ],
+    [
+      0.000259,
+      "ind=GLOBAL type=FUNC name=imp.times\r\nvaddr=0x00400000 paddr=0x00000000 ord=036 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getenv\r\nvaddr=0x00400000 paddr=0x00000000 ord=037 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fchmod\r\nvaddr=0x00400000 paddr=0x00000000 ord=038 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getegid\r\nvaddr=0x00400000 paddr=0x00000000 ord=039 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.bsearch\r\nvaddr=0x00400000 paddr=0x00000000 ord=041 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.usleep\r\nvaddr=0x00400000 paddr=0x00000000 ord=042 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.execve\r\nvaddr=0x00400000 paddr=0x00000000 ord=043 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.semget\r\nvaddr=0x00400000 paddr=0x00000000 ord=044 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getpagesize\r\nvaddr=0x00400000 paddr=0x00000000 ord=045 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getpid\r\nvaddr=0x00400000 paddr=0x00000000 ord=046 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.qsort\r\nvaddr=0x00400000 padd"
+    ],
+    [
+      0.000255,
+      "r=0x00000000 ord=047 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fchown\r\nvaddr=0x00400000 paddr=0x00000000 ord=048 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fscanf\r\nvaddr=0x00400000 paddr=0x00000000 ord=049 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.dirname\r\nvaddr=0x00400000 paddr=0x00000000 ord=050 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.shmat\r\nvaddr=0x00400000 paddr=0x00000000 ord=053 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.readlink\r\nvaddr=0x00400000 paddr=0x00000000 ord=054 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.puts\r\nvaddr=0x00400000 paddr=0x00000000 ord=055 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.dup2\r\nvaddr=0x00400000 paddr=0x00000000 ord=056 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.tcflush\r\nvaddr=0x00400000 paddr=0x00000000 ord=057 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.execle\r\nvaddr=0x00400000 paddr=0x00000000 ord=058 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getuid\r\nvaddr=0x00400000 paddr=0x00000000 ord=059 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=im"
+    ],
+    [
+      0.000219,
+      "p.semctl\r\nvaddr=0x00400000 paddr=0x00000000 ord=060 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.system\r\nvaddr=0x00400000 paddr=0x00000000 ord=061 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.feof\r\nvaddr=0x00400000 paddr=0x00000000 ord=062 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.malloc\r\nvaddr=0x00400000 paddr=0x00000000 ord=063 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.isatty\r\nvaddr=0x00400000 paddr=0x00000000 ord=064 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.cfgetispeed\r\nvaddr=0x00400000 paddr=0x00000000 ord=065 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.siglongjmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=066 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sleep\r\nvaddr=0x00400000 paddr=0x00000000 ord=068 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sysinfo\r\nvaddr=0x00400000 paddr=0x00000000 ord=069 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.vsnprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=070 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strtoll\r\nvaddr=0x00400000 paddr=0x00000000 ord=072 f"
+    ],
+    [
+      0.000221,
+      "wd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.recvfrom\r\nvaddr=0x00400000 paddr=0x00000000 ord=073 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.statfs\r\nvaddr=0x00400000 paddr=0x00000000 ord=074 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.pivot_root\r\nvaddr=0x00400000 paddr=0x00000000 ord=075 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strtoul\r\nvaddr=0x00400000 paddr=0x00000000 ord=076 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.gethostbyaddr\r\nvaddr=0x00400000 paddr=0x00000000 ord=078 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.rmdir\r\nvaddr=0x00400000 paddr=0x00000000 ord=079 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.socket\r\nvaddr=0x00400000 paddr=0x00000000 ord=080 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.select\r\nvaddr=0x00400000 paddr=0x00000000 ord=081 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.readdir\r\nvaddr=0x00403740 paddr=0x00003740 ord=082 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.lchown\r\nvaddr=0x00400000 paddr=0x00000000 ord=083 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setgr"
+    ],
+    [
+      0.000242,
+      "oups\r\nvaddr=0x00400000 paddr=0x00000000 ord=084 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.delete_module\r\nvaddr=0x00400000 paddr=0x00000000 ord=085 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fflush\r\nvaddr=0x00400000 paddr=0x00000000 ord=087 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ftruncate\r\nvaddr=0x00400000 paddr=0x00000000 ord=088 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.realpath\r\nvaddr=0x00400000 paddr=0x00000000 ord=089 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.putenv\r\nvaddr=0x00400000 paddr=0x00000000 ord=090 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.lseek\r\nvaddr=0x00400000 paddr=0x00000000 ord=091 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sigaddset\r\nvaddr=0x00400000 paddr=0x00000000 ord=092 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.clearenv\r\nvaddr=0x004037e0 paddr=0x000037e0 ord=094 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.chown\r\nvaddr=0x00400000 paddr=0x00000000 ord=095 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strncasecmp\r\nvaddr=0x00400000 paddr=0x00000000 ord="
+    ],
+    [
+      0.000202,
+      "096 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setpgid\r\nvaddr=0x00400000 paddr=0x00000000 ord=097 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.freeaddrinfo\r\nvaddr=0x00400000 paddr=0x00000000 ord=098 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__fgetc_unlocked\r\nvaddr=0x00400000 paddr=0x00000000 ord=099 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.chmod\r\nvaddr=0x00400000 paddr=0x00000000 ord=100 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getnameinfo\r\nvaddr=0x00400000 paddr=0x00000000 ord=101 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.alarm\r\nvaddr=0x00400000 paddr=0x00000000 ord=102 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strtol\r\nvaddr=0x00400000 paddr=0x00000000 ord=103 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__sigsetjmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=104 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.pipe\r\nvaddr=0x00400000 paddr=0x00000000 ord=105 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getpgrp\r\nvaddr=0x00400000 paddr=0x00000000 ord=106 fwd=NONE sz=16 bind=GLOBAL type=FUNC"
+    ],
+    [
+      0.000188,
+      " name=imp.strnlen\r\nvaddr=0x00400000 paddr=0x00000000 ord=107 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.uname\r\nvaddr=0x00400000 paddr=0x00000000 ord=108 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.accept\r\nvaddr=0x00400000 paddr=0x00000000 ord=109 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.cfsetispeed\r\nvaddr=0x00400000 paddr=0x00000000 ord=110 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.rename\r\nvaddr=0x00400000 paddr=0x00000000 ord=111 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strrchr\r\nvaddr=0x00400000 paddr=0x00000000 ord=112 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setrlimit\r\nvaddr=0x00400000 paddr=0x00000000 ord=113 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strtod\r\nvaddr=0x00400000 paddr=0x00000000 ord=114 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.write\r\nvaddr=0x00400000 paddr=0x00000000 ord=115 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.atof\r\nvaddr=0x00400000 paddr=0x00000000 ord=117 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fstat\r\nvaddr=0x00400000 paddr=0x00000000 ord=118"
+    ],
+    [
+      0.000224,
+      " fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=119 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.kill\r\nvaddr=0x00400000 paddr=0x00000000 ord=120 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fputs_unlocked\r\nvaddr=0x00400000 paddr=0x00000000 ord=121 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ctime\r\nvaddr=0x00400000 paddr=0x00000000 ord=122 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strcat\r\nvaddr=0x00400000 paddr=0x00000000 ord=123 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.bind\r\nvaddr=0x00400000 paddr=0x00000000 ord=124 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getmntent_r\r\nvaddr=0x00400000 paddr=0x00000000 ord=125 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.vprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=126 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.umount2\r\nvaddr=0x00400000 paddr=0x00000000 ord=127 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.mkfifo\r\nvaddr=0x00400000 paddr=0x00000000 ord=128 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.if_nam"
+    ],
+    [
+      0.000517,
+      "etoindex\r\nvaddr=0x00400000 paddr=0x00000000 ord=129 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.reboot\r\nvaddr=0x00400000 paddr=0x00000000 ord=130 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.chdir\r\nvaddr=0x00400000 paddr=0x00000000 ord=131 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.shmdt\r\nvaddr=0x00400000 paddr=0x00000000 ord=132 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setsockopt\r\nvaddr=0x00400000 paddr=0x00000000 ord=133 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fseek\r\nvaddr=0x00400000 paddr=0x00000000 ord=134 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.wait3\r\nvaddr=0x00400000 paddr=0x00000000 ord=135 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.shmget\r\nvaddr=0x00400000 paddr=0x00000000 ord=136 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.cfsetospeed\r\nvaddr=0x00400000 paddr=0x00000000 ord=137 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.cos\r\nvaddr=0x00400000 paddr=0x00000000 ord=139 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.memchr\r\nvaddr=0x00400000 paddr=0x00000000 ord=142 fwd=NONE s"
+    ],
+    [
+      0.000412,
+      "z=16 bind=GLOBAL type=FUNC name=imp.wait\r\nvaddr=0x00400000 paddr=0x00000000 ord=143 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.umask\r\nvaddr=0x00400000 paddr=0x00000000 ord=144 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.dprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=145 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.mktime\r\nvaddr=0x00400000 paddr=0x00000000 ord=147 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strcasestr\r\nvaddr=0x00403af0 paddr=0x00003af0 ord=148 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.lstat\r\nvaddr=0x00400000 paddr=0x00000000 ord=149 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ferror\r\nvaddr=0x00403b10 paddr=0x00003b10 ord=150 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strstr\r\nvaddr=0x00400000 paddr=0x00000000 ord=151 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.unlockpt\r\nvaddr=0x00400000 paddr=0x00000000 ord=152 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sin\r\nvaddr=0x00400000 paddr=0x00000000 ord=153 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.rand\r\nvaddr=0x00400000 paddr"
+    ],
+    [
+      0.000440,
+      "=0x00000000 ord=154 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ftello\r\nvaddr=0x00400000 paddr=0x00000000 ord=155 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setgid\r\nvaddr=0x00400000 paddr=0x00000000 ord=156 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.atan2\r\nvaddr=0x00400000 paddr=0x00000000 ord=157 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.signal\r\nvaddr=0x00400000 paddr=0x00000000 ord=158 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.read\r\nvaddr=0x00400000 paddr=0x00000000 ord=159 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.openlog\r\nvaddr=0x00400000 paddr=0x00000000 ord=160 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sendmsg\r\nvaddr=0x00400000 paddr=0x00000000 ord=161 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.closelog\r\nvaddr=0x00400000 paddr=0x00000000 ord=162 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strncmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=164 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sethostname\r\nvaddr=0x00400000 paddr=0x00000000 ord=165 fwd=NONE sz=16 bind=GLOBAL type=FUNC "
+    ],
+    [
+      0.000477,
+      "name=imp.__cmsg_nxthdr\r\nvaddr=0x00400000 paddr=0x00000000 ord=166 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.pow\r\nvaddr=0x00400000 paddr=0x00000000 ord=167 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strncpy\r\nvaddr=0x00400000 paddr=0x00000000 ord=168 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.unlink\r\nvaddr=0x00400000 paddr=0x00000000 ord=169 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sync\r\nvaddr=0x00400000 paddr=0x00000000 ord=170 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setenv\r\nvaddr=0x00400000 paddr=0x00000000 ord=171 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strcasecmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=172 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sendto\r\nvaddr=0x00400000 paddr=0x00000000 ord=173 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.realloc\r\nvaddr=0x00400000 paddr=0x00000000 ord=175 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strtok\r\nvaddr=0x00400000 paddr=0x00000000 ord=176 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.memcmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=1"
+    ],
+    [
+      0.000441,
+      "77 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.listen\r\nvaddr=0x00400000 paddr=0x00000000 ord=178 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fdopen\r\nvaddr=0x00400000 paddr=0x00000000 ord=179 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fork\r\nvaddr=0x00400000 paddr=0x00000000 ord=180 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sscanf\r\nvaddr=0x00400000 paddr=0x00000000 ord=181 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.execv\r\nvaddr=0x00400000 paddr=0x00000000 ord=182 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setmntent\r\nvaddr=0x00400000 paddr=0x00000000 ord=184 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.execlp\r\nvaddr=0x00400000 paddr=0x00000000 ord=185 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sigaction\r\nvaddr=0x00400000 paddr=0x00000000 ord=186 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.endmntent\r\nvaddr=0x00400000 paddr=0x00000000 ord=187 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__res_init\r\nvaddr=0x00400000 paddr=0x00000000 ord=188 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.killp"
+    ],
+    [
+      0.000520,
+      "g\r\nvaddr=0x00400000 paddr=0x00000000 ord=189 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fread\r\nvaddr=0x00400000 paddr=0x00000000 ord=190 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ttyname_r\r\nvaddr=0x00400000 paddr=0x00000000 ord=191 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__uClibc_main\r\nvaddr=0x00400000 paddr=0x00000000 ord=192 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strdup\r\nvaddr=0x00400000 paddr=0x00000000 ord=193 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.inet_aton\r\nvaddr=0x00400000 paddr=0x00000000 ord=194 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strtoull\r\nvaddr=0x00400000 paddr=0x00000000 ord=195 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.regcomp\r\nvaddr=0x00403dc0 paddr=0x00003dc0 ord=196 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.symlink\r\nvaddr=0x00400000 paddr=0x00000000 ord=197 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.gettimeofday\r\nvaddr=0x00400000 paddr=0x00000000 ord=198 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fopen\r\nvaddr=0x00400000 paddr=0x00000000 ord=20"
+    ],
+    [
+      0.000453,
+      "0 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getopt\r\nvaddr=0x00400000 paddr=0x00000000 ord=201 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.localtime\r\nvaddr=0x00400000 paddr=0x00000000 ord=202 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.memset\r\nvaddr=0x00400000 paddr=0x00000000 ord=203 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fnmatch\r\nvaddr=0x00400000 paddr=0x00000000 ord=204 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.cfmakeraw\r\nvaddr=0x00400000 paddr=0x00000000 ord=205 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.srand\r\nvaddr=0x00400000 paddr=0x00000000 ord=206 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.clearerr\r\nvaddr=0x00400000 paddr=0x00000000 ord=207 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.mallopt\r\nvaddr=0x00400000 paddr=0x00000000 ord=208 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fclose\r\nvaddr=0x00400000 paddr=0x00000000 ord=209 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.grantpt\r\nvaddr=0x00400000 paddr=0x00000000 ord=211 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.inet_n"
+    ],
+    [
+      0.000426,
+      "toa\r\nvaddr=0x00400000 paddr=0x00000000 ord=212 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getppid\r\nvaddr=0x00400000 paddr=0x00000000 ord=213 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.tcgetattr\r\nvaddr=0x00400000 paddr=0x00000000 ord=214 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getservbyport\r\nvaddr=0x00400000 paddr=0x00000000 ord=215 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.regexec\r\nvaddr=0x00400000 paddr=0x00000000 ord=216 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.time\r\nvaddr=0x00400000 paddr=0x00000000 ord=217 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.opendir\r\nvaddr=0x00400000 paddr=0x00000000 ord=218 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getgroups\r\nvaddr=0x00400000 paddr=0x00000000 ord=219 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.poll\r\nvaddr=0x00400000 paddr=0x00000000 ord=220 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.syslog\r\nvaddr=0x00400000 paddr=0x00000000 ord=221 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.exp\r\nvaddr=0x00400000 paddr=0x00000000 ord=222 fwd=NONE"
+    ],
+    [
+      0.000436,
+      " sz=16 bind=GLOBAL type=FUNC name=imp.mount\r\nvaddr=0x00403f50 paddr=0x00003f50 ord=223 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strcmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=224 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.shutdown\r\nvaddr=0x00400000 paddr=0x00000000 ord=225 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.dup\r\nvaddr=0x00400000 paddr=0x00000000 ord=226 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getcwd\r\nvaddr=0x00400000 paddr=0x00000000 ord=228 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__fixunsdfdi\r\nvaddr=0x00400000 paddr=0x00000000 ord=229 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__res_state\r\nvaddr=0x00400000 paddr=0x00000000 ord=230 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.gethostbyname\r\nvaddr=0x00400000 paddr=0x00000000 ord=231 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strsignal\r\nvaddr=0x00400000 paddr=0x00000000 ord=232 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getservbyname\r\nvaddr=0x00400000 paddr=0x00000000 ord=233 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp."
+    ],
+    [
+      0.000217,
+      "sprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=234 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ether_aton_r\r\nvaddr=0x00400000 paddr=0x00000000 ord=235 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strcspn\r\nvaddr=0x00404010 paddr=0x00004010 ord=236 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getpeername\r\nvaddr=0x00400000 paddr=0x00000000 ord=237 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.regerror\r\nvaddr=0x00400000 paddr=0x00000000 ord=239 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.umount\r\nvaddr=0x00400000 paddr=0x00000000 ord=240 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.mkstemp\r\nvaddr=0x00400000 paddr=0x00000000 ord=241 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.vfork\r\nvaddr=0x00400000 paddr=0x00000000 ord=242 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strsep\r\nvaddr=0x00400000 paddr=0x00000000 ord=243 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fsync\r\nvaddr=0x00400000 paddr=0x00000000 ord=244 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fputc\r\nvaddr=0x00400000 paddr=0x00000000 ord=245 f"
+    ],
+    [
+      0.000224,
+      "wd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.localtime_r\r\nvaddr=0x00400000 paddr=0x00000000 ord=246 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getaddrinfo\r\nvaddr=0x00400000 paddr=0x00000000 ord=247 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strftime\r\nvaddr=0x004040c0 paddr=0x000040c0 ord=248 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.stat\r\nvaddr=0x00400000 paddr=0x00000000 ord=249 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getmntent\r\nvaddr=0x00400000 paddr=0x00000000 ord=250 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fwrite\r\nvaddr=0x00400000 paddr=0x00000000 ord=251 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.access\r\nvaddr=0x00400000 paddr=0x00000000 ord=256 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strptime\r\nvaddr=0x00400000 paddr=0x00000000 ord=257 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.rewind\r\nvaddr=0x00400000 paddr=0x00000000 ord=258 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.freopen\r\nvaddr=0x00400000 paddr=0x00000000 ord=259 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.tcg"
+    ],
+    [
+      0.000260,
+      "etpgrp\r\nvaddr=0x00400000 paddr=0x00000000 ord=260 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__errno_location\r\nvaddr=0x00404150 paddr=0x00004150 ord=261 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.link\r\nvaddr=0x00400000 paddr=0x00000000 ord=262 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.semop\r\nvaddr=0x00400000 paddr=0x00000000 ord=263 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.exit\r\nvaddr=0x00400000 paddr=0x00000000 ord=264 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.stime\r\nvaddr=0x00400000 paddr=0x00000000 ord=265 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.klogctl\r\nvaddr=0x00400000 paddr=0x00000000 ord=266 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setbuf\r\nvaddr=0x00400000 paddr=0x00000000 ord=267 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.atoi\r\nvaddr=0x00400000 paddr=0x00000000 ord=268 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fileno\r\nvaddr=0x00400000 paddr=0x00000000 ord=269 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp._setjmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=270 fwd=NONE s"
+    ],
+    [
+      0.000260,
+      "z=16 bind=GLOBAL type=FUNC name=imp.fgets_unlocked\r\nvaddr=0x00400000 paddr=0x00000000 ord=271 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getline\r\nvaddr=0x00400000 paddr=0x00000000 ord=272 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp._exit\r\nvaddr=0x00400000 paddr=0x00000000 ord=273 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strverscmp\r\nvaddr=0x00400000 paddr=0x00000000 ord=274 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strspn\r\nvaddr=0x00400000 paddr=0x00000000 ord=275 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strlen\r\nvaddr=0x00400000 paddr=0x00000000 ord=276 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.open\r\nvaddr=0x00400000 paddr=0x00000000 ord=277 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.ptsname_r\r\nvaddr=0x00400000 paddr=0x00000000 ord=278 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.regfree\r\nvaddr=0x00400000 paddr=0x00000000 ord=279 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.div\r\nvaddr=0x00400000 paddr=0x00000000 ord=280 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strchr\r\nvaddr=0x0"
+    ],
+    [
+      0.000232,
+      "0400000 paddr=0x00000000 ord=281 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fputs\r\nvaddr=0x00400000 paddr=0x00000000 ord=282 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.adjtimex\r\nvaddr=0x00400000 paddr=0x00000000 ord=283 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.execvp\r\nvaddr=0x00400000 paddr=0x00000000 ord=284 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setsid\r\nvaddr=0x00400000 paddr=0x00000000 ord=285 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.closedir\r\nvaddr=0x00400000 paddr=0x00000000 ord=286 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.vasprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=287 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.recvmsg\r\nvaddr=0x00400000 paddr=0x00000000 ord=288 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strchrnul\r\nvaddr=0x00400000 paddr=0x00000000 ord=289 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.fcntl\r\nvaddr=0x00400000 paddr=0x00000000 ord=290 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.setuid\r\nvaddr=0x00400000 paddr=0x00000000 ord=292 fwd=NONE sz=16 bind=GL"
+    ],
+    [
+      0.000241,
+      "OBAL type=FUNC name=imp.tcsetattr\r\nvaddr=0x00400000 paddr=0x00000000 ord=293 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.mkdir\r\nvaddr=0x00400000 paddr=0x00000000 ord=294 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.close\r\nvaddr=0x00400000 paddr=0x00000000 ord=295 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.vfprintf\r\nvaddr=0x00400000 paddr=0x00000000 ord=296 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.strpbrk\r\nvaddr=0x00400000 paddr=0x00000000 ord=297 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.tcsetpgrp\r\nvaddr=0x00400000 paddr=0x00000000 ord=298 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sigsuspend\r\nvaddr=0x00400000 paddr=0x00000000 ord=299 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.raise\r\nvaddr=0x004043b0 paddr=0x000043b0 ord=300 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.free\r\nvaddr=0x00400000 paddr=0x00000000 ord=301 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.sigprocmask\r\nvaddr=0x00400000 paddr=0x00000000 ord=302 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__fputc_unlocked\r\nvaddr=0x0"
+    ],
+    [
+      0.000006,
+      "04043e0 paddr=0x000043e0 ord=303 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.getsockname\r\nvaddr=0x004573e8 paddr=0x000573e8 ord=310 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.__cxa_atexit\r\nvaddr=0x00400000 paddr=0x00000000 ord=318 fwd=NONE sz=16 bind=GLOBAL type=FUNC name=imp.memcpy\r\n\r\n320 symbols\r\n\r\n\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m "
+    ],
+    [
+      3.036914,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m i\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m i"
+    ],
+    [
+      0.128032,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m ii\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m ii"
+    ],
+    [
+      0.343945,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m ii\r\n"
+    ],
+    [
+      0.002202,
+      "[Imports]\r\nordinal=001 plt=0x00400000 bind=GLOBAL type=FUNC name=longjmp\r\nordinal=002 plt=0x00400000 bind=GLOBAL type=FUNC name=stpcpy\r\nordinal=003 plt=0x00400000 bind=GLOBAL type=FUNC name=putchar\r\nordinal=004 plt=0x00400000 bind=GLOBAL type=FUNC name=strcpy\r\nordinal=005 plt=0x00400000 bind=GLOBAL type=FUNC name=chroot\r\nordinal=006 plt=0x00400000 bind=GLOBAL type=FUNC name=unsetenv\r\nordinal=007 plt=0x00400000 bind=GLOBAL type=FUNC name=log\r\nordinal=008 plt=0x00400000 bind=GLOBAL type=FUNC name=sqrt\r\nordinal=009 plt=0x00400000 bind=GLOBAL type=FUNC name=waitpid\r\nordinal=011 plt=0x00400000 bind=GLOBAL type=FUNC name=getrlimit\r\nordinal=012 plt=0x00400000 bind=GLOBAL type=FUNC name=ioctl\r\nordinal=013 plt=0x00400000 bind=GLOBAL type=FUNC name=getgid\r\nordinal=014 plt=0x00400000 bind=GLOBAL type=FUNC name=popen\r\nordinal=015 plt=0x00400000 bind=GLOBAL type=FUNC name=sysconf\r\nordinal=016 plt=0x00400000 bind=GLOBAL type=FUNC name=printf\r\nordinal=018 plt=0x00400000 bind=GLOBAL type=FUNC name=vsprintf\r\nordinal=020 plt=0"
+    ],
+    [
+      0.000741,
+      "x00400000 bind=GLOBAL type=FUNC name=cfgetospeed\r\nordinal=021 plt=0x00400000 bind=GLOBAL type=FUNC name=connect\r\nordinal=022 plt=0x00400000 bind=GLOBAL type=FUNC name=ungetc\r\nordinal=023 plt=0x00400000 bind=GLOBAL type=FUNC name=utimes\r\nordinal=024 plt=0x00400000 bind=GLOBAL type=FUNC name=shmctl\r\nordinal=025 plt=0x00400000 bind=GLOBAL type=FUNC name=strerror\r\nordinal=026 plt=0x00400000 bind=GLOBAL type=FUNC name=memrchr\r\nordinal=027 plt=0x00400000 bind=GLOBAL type=FUNC name=geteuid\r\nordinal=029 plt=0x00400000 bind=GLOBAL type=FUNC name=memmove\r\nordinal=030 plt=0x00400000 bind=GLOBAL type=FUNC name=pclose\r\nordinal=031 plt=0x00400000 bind=GLOBAL type=FUNC name=snprintf\r\nordinal=032 plt=0x00400000 bind=GLOBAL type=FUNC name=syscall\r\nordinal=033 plt=0x00400000 bind=GLOBAL type=FUNC name=mknod\r\nordinal=034 plt=0x00400000 bind=GLOBAL type=FUNC name=__gtdf2\r\nordinal=035 plt=0x00400000 bind=GLOBAL type=FUNC name=times\r\nordinal=036 plt=0x00400000 bind=GLOBAL type=FUNC name=getenv\r\nordinal=037 plt=0x00400000 bind=GLOB"
+    ],
+    [
+      0.000611,
+      "AL type=FUNC name=fchmod\r\nordinal=038 plt=0x00400000 bind=GLOBAL type=FUNC name=getegid\r\nordinal=039 plt=0x00400000 bind=GLOBAL type=FUNC name=bsearch\r\nordinal=041 plt=0x00400000 bind=GLOBAL type=FUNC name=usleep\r\nordinal=042 plt=0x00400000 bind=GLOBAL type=FUNC name=execve\r\nordinal=043 plt=0x00400000 bind=GLOBAL type=FUNC name=semget\r\nordinal=044 plt=0x00400000 bind=GLOBAL type=FUNC name=getpagesize\r\nordinal=045 plt=0x00400000 bind=GLOBAL type=FUNC name=getpid\r\nordinal=046 plt=0x00400000 bind=GLOBAL type=FUNC name=qsort\r\nordinal=047 plt=0x00400000 bind=GLOBAL type=FUNC name=fchown\r\nordinal=048 plt=0x00400000 bind=GLOBAL type=FUNC name=fscanf\r\nordinal=049 plt=0x00400000 bind=GLOBAL type=FUNC name=dirname\r\nordinal=050 plt=0x00400000 bind=GLOBAL type=FUNC name=shmat\r\nordinal=053 plt=0x00400000 bind=GLOBAL type=FUNC name=readlink\r\nordinal=054 plt=0x00400000 bind=GLOBAL type=FUNC name=puts\r\nordinal=055 plt=0x00400000 bind=GLOBAL type=FUNC name=dup2\r\nordinal=056 plt=0x00400000 bind=GLOBAL type=FUNC name=tcflush\r\no"
+    ],
+    [
+      0.000604,
+      "rdinal=057 plt=0x00400000 bind=GLOBAL type=FUNC name=execle\r\nordinal=058 plt=0x00400000 bind=GLOBAL type=FUNC name=getuid\r\nordinal=059 plt=0x00400000 bind=GLOBAL type=FUNC name=semctl\r\nordinal=060 plt=0x00400000 bind=GLOBAL type=FUNC name=system\r\nordinal=061 plt=0x00400000 bind=GLOBAL type=FUNC name=feof\r\nordinal=062 plt=0x00400000 bind=GLOBAL type=FUNC name=malloc\r\nordinal=063 plt=0x00400000 bind=GLOBAL type=FUNC name=isatty\r\nordinal=064 plt=0x00400000 bind=GLOBAL type=FUNC name=cfgetispeed\r\nordinal=065 plt=0x00400000 bind=GLOBAL type=FUNC name=siglongjmp\r\nordinal=066 plt=0x00400000 bind=GLOBAL type=FUNC name=sleep\r\nordinal=068 plt=0x00400000 bind=GLOBAL type=FUNC name=sysinfo\r\nordinal=069 plt=0x00400000 bind=GLOBAL type=FUNC name=vsnprintf\r\nordinal=070 plt=0x00400000 bind=GLOBAL type=FUNC name=strtoll\r\nordinal=072 plt=0x00400000 bind=GLOBAL type=FUNC name=recvfrom\r\nordinal=073 plt=0x00400000 bind=GLOBAL type=FUNC name=statfs\r\nordinal=074 plt=0x00400000 bind=GLOBAL type=FUNC name=pivot_root\r\nordinal=075 plt="
+    ],
+    [
+      0.000613,
+      "0x00400000 bind=GLOBAL type=FUNC name=strtoul\r\nordinal=076 plt=0x00400000 bind=GLOBAL type=FUNC name=gethostbyaddr\r\nordinal=078 plt=0x00400000 bind=GLOBAL type=FUNC name=rmdir\r\nordinal=079 plt=0x00400000 bind=GLOBAL type=FUNC name=socket\r\nordinal=080 plt=0x00400000 bind=GLOBAL type=FUNC name=select\r\nordinal=081 plt=0x00400000 bind=GLOBAL type=FUNC name=readdir\r\nordinal=082 plt=0x00403740 bind=GLOBAL type=FUNC name=lchown\r\nordinal=083 plt=0x00400000 bind=GLOBAL type=FUNC name=setgroups\r\nordinal=084 plt=0x00400000 bind=GLOBAL type=FUNC name=delete_module\r\nordinal=085 plt=0x00400000 bind=GLOBAL type=FUNC name=fflush\r\nordinal=087 plt=0x00400000 bind=GLOBAL type=FUNC name=ftruncate\r\nordinal=088 plt=0x00400000 bind=GLOBAL type=FUNC name=realpath\r\nordinal=089 plt=0x00400000 bind=GLOBAL type=FUNC name=putenv\r\nordinal=090 plt=0x00400000 bind=GLOBAL type=FUNC name=lseek\r\nordinal=091 plt=0x00400000 bind=GLOBAL type=FUNC name=sigaddset\r\nordinal=092 plt=0x00400000 bind=GLOBAL type=FUNC name=clearenv\r\nordinal=094 plt=0x004"
+    ],
+    [
+      0.000554,
+      "037e0 bind=GLOBAL type=FUNC name=chown\r\nordinal=095 plt=0x00400000 bind=GLOBAL type=FUNC name=strncasecmp\r\nordinal=096 plt=0x00400000 bind=GLOBAL type=FUNC name=setpgid\r\nordinal=097 plt=0x00400000 bind=GLOBAL type=FUNC name=freeaddrinfo\r\nordinal=098 plt=0x00400000 bind=GLOBAL type=FUNC name=__fgetc_unlocked\r\nordinal=099 plt=0x00400000 bind=GLOBAL type=FUNC name=chmod\r\nordinal=100 plt=0x00400000 bind=GLOBAL type=FUNC name=getnameinfo\r\nordinal=101 plt=0x00400000 bind=GLOBAL type=FUNC name=alarm\r\nordinal=102 plt=0x00400000 bind=GLOBAL type=FUNC name=strtol\r\nordinal=103 plt=0x00400000 bind=GLOBAL type=FUNC name=__sigsetjmp\r\nordinal=104 plt=0x00400000 bind=GLOBAL type=FUNC name=pipe\r\nordinal=105 plt=0x00400000 bind=GLOBAL type=FUNC name=getpgrp\r\nordinal=106 plt=0x00400000 bind=GLOBAL type=FUNC name=strnlen\r\nordinal=107 plt=0x00400000 bind=GLOBAL type=FUNC name=uname\r\nordinal=108 plt=0x00400000 bind=GLOBAL type=FUNC name=accept\r\nordinal=109 plt=0x00400000 bind=GLOBAL type=FUNC name=cfsetispeed\r\nordinal=110 plt=0x00"
+    ],
+    [
+      0.000448,
+      "400000 bind=GLOBAL type=FUNC name=rename\r\nordinal=111 plt=0x00400000 bind=GLOBAL type=FUNC name=strrchr\r\nordinal=112 plt=0x00400000 bind=GLOBAL type=FUNC name=setrlimit\r\nordinal=113 plt=0x00400000 bind=GLOBAL type=FUNC name=strtod\r\nordinal=114 plt=0x00400000 bind=GLOBAL type=FUNC name=write\r\nordinal=115 plt=0x00400000 bind=GLOBAL type=FUNC name=atof\r\nordinal=117 plt=0x00400000 bind=GLOBAL type=FUNC name=fstat\r\nordinal=118 plt=0x00400000 bind=GLOBAL type=FUNC name=fprintf\r\nordinal=119 plt=0x00400000 bind=GLOBAL type=FUNC name=kill\r\nordinal=120 plt=0x00400000 bind=GLOBAL type=FUNC name=fputs_unlocked\r\nordinal=121 plt=0x00400000 bind=GLOBAL type=FUNC name=ctime\r\nordinal=122 plt=0x00400000 bind=GLOBAL type=FUNC name=strcat\r\nordinal=123 plt=0x00400000 bind=GLOBAL type=FUNC name=bind\r\nordinal=124 plt=0x00400000 bind=GLOBAL type=FUNC name=getmntent_r\r\nordinal=125 plt=0x00400000 bind=GLOBAL type=FUNC name=vprintf\r\nordinal=126 plt=0x00400000 bind=GLOBAL type=FUNC name=umount2\r\nordinal=127 plt=0x00400000 bind=GLOBAL ty"
+    ],
+    [
+      0.000299,
+      "pe=FUNC name=mkfifo\r\nordinal=128 plt=0x00400000 bind=GLOBAL type=FUNC name=if_nametoindex\r\nordinal=129 plt=0x00400000 bind=GLOBAL type=FUNC name=reboot\r\nordinal=130 plt=0x00400000 bind=GLOBAL type=FUNC name=chdir\r\nordinal=131 plt=0x00400000 bind=GLOBAL type=FUNC name=shmdt\r\nordinal=132 plt=0x00400000 bind=GLOBAL type=FUNC name=setsockopt\r\nordinal=133 plt=0x00400000 bind=GLOBAL type=FUNC name=fseek\r\nordinal=134 plt=0x00400000 bind=GLOBAL type=FUNC name=wait3\r\nordinal=135 plt=0x00400000 bind=GLOBAL type=FUNC name=shmget\r\nordinal=136 plt=0x00400000 bind=GLOBAL type=FUNC name=cfsetospeed\r\nordinal=137 plt=0x00400000 bind=GLOBAL type=FUNC name=cos\r\nordinal=139 plt=0x00400000 bind=GLOBAL type=FUNC name=memchr\r\nordinal=142 plt=0x00400000 bind=GLOBAL type=FUNC name=wait\r\nordinal=143 plt=0x00400000 bind=GLOBAL type=FUNC name=umask\r\nordinal=144 plt=0x00400000 bind=GLOBAL type=FUNC name=dprintf\r\nordinal=145 plt=0x00400000 bind=GLOBAL type=FUNC name=mktime\r\nordinal=147 plt=0x00400000 bind=GLOBAL type=FUNC name=strcasestr\r"
+    ],
+    [
+      0.000296,
+      "\r\nordinal=148 plt=0x00403af0 bind=GLOBAL type=FUNC name=lstat\r\nordinal=149 plt=0x00400000 bind=GLOBAL type=FUNC name=ferror\r\nordinal=150 plt=0x00403b10 bind=GLOBAL type=FUNC name=strstr\r\nordinal=151 plt=0x00400000 bind=GLOBAL type=FUNC name=unlockpt\r\nordinal=152 plt=0x00400000 bind=GLOBAL type=FUNC name=sin\r\nordinal=153 plt=0x00400000 bind=GLOBAL type=FUNC name=rand\r\nordinal=154 plt=0x00400000 bind=GLOBAL type=FUNC name=ftello\r\nordinal=155 plt=0x00400000 bind=GLOBAL type=FUNC name=setgid\r\nordinal=156 plt=0x00400000 bind=GLOBAL type=FUNC name=atan2\r\nordinal=157 plt=0x00400000 bind=GLOBAL type=FUNC name=signal\r\nordinal=158 plt=0x00400000 bind=GLOBAL type=FUNC name=read\r\nordinal=159 plt=0x00400000 bind=GLOBAL type=FUNC name=openlog\r\nordinal=160 plt=0x00400000 bind=GLOBAL type=FUNC name=sendmsg\r\nordinal=161 plt=0x00400000 bind=GLOBAL type=FUNC name=closelog\r\nordinal=162 plt=0x00400000 bind=GLOBAL type=FUNC name=strncmp\r\nordinal=164 plt=0x00400000 bind=GLOBAL type=FUNC name=sethostname\r\nordinal=165 plt=0x00400000 "
+    ],
+    [
+      0.000269,
+      "bind=GLOBAL type=FUNC name=__cmsg_nxthdr\r\nordinal=166 plt=0x00400000 bind=GLOBAL type=FUNC name=pow\r\nordinal=167 plt=0x00400000 bind=GLOBAL type=FUNC name=strncpy\r\nordinal=168 plt=0x00400000 bind=GLOBAL type=FUNC name=unlink\r\nordinal=169 plt=0x00400000 bind=GLOBAL type=FUNC name=sync\r\nordinal=170 plt=0x00400000 bind=GLOBAL type=FUNC name=setenv\r\nordinal=171 plt=0x00400000 bind=GLOBAL type=FUNC name=strcasecmp\r\nordinal=172 plt=0x00400000 bind=GLOBAL type=FUNC name=sendto\r\nordinal=173 plt=0x00400000 bind=GLOBAL type=FUNC name=realloc\r\nordinal=175 plt=0x00400000 bind=GLOBAL type=FUNC name=strtok\r\nordinal=176 plt=0x00400000 bind=GLOBAL type=FUNC name=memcmp\r\nordinal=177 plt=0x00400000 bind=GLOBAL type=FUNC name=listen\r\nordinal=178 plt=0x00400000 bind=GLOBAL type=FUNC name=fdopen\r\nordinal=179 plt=0x00400000 bind=GLOBAL type=FUNC name=fork\r\nordinal=180 plt=0x00400000 bind=GLOBAL type=FUNC name=sscanf\r\nordinal=181 plt=0x00400000 bind=GLOBAL type=FUNC name=execv\r\nordinal=182 plt=0x00400000 bind=GLOBAL type=FUNC name="
+    ],
+    [
+      0.000255,
+      "setmntent\r\nordinal=184 plt=0x00400000 bind=GLOBAL type=FUNC name=execlp\r\nordinal=185 plt=0x00400000 bind=GLOBAL type=FUNC name=sigaction\r\nordinal=186 plt=0x00400000 bind=GLOBAL type=FUNC name=endmntent\r\nordinal=187 plt=0x00400000 bind=GLOBAL type=FUNC name=__res_init\r\nordinal=188 plt=0x00400000 bind=GLOBAL type=FUNC name=killpg\r\nordinal=189 plt=0x00400000 bind=GLOBAL type=FUNC name=fread\r\nordinal=190 plt=0x00400000 bind=GLOBAL type=FUNC name=ttyname_r\r\nordinal=191 plt=0x00400000 bind=GLOBAL type=FUNC name=__uClibc_main\r\nordinal=192 plt=0x00400000 bind=GLOBAL type=FUNC name=strdup\r\nordinal=193 plt=0x00400000 bind=GLOBAL type=FUNC name=inet_aton\r\nordinal=194 plt=0x00400000 bind=GLOBAL type=FUNC name=strtoull\r\nordinal=195 plt=0x00400000 bind=GLOBAL type=FUNC name=regcomp\r\nordinal=196 plt=0x00403dc0 bind=GLOBAL type=FUNC name=symlink\r\nordinal=197 plt=0x00400000 bind=GLOBAL type=FUNC name=gettimeofday\r\nordinal=198 plt=0x00400000 bind=GLOBAL type=FUNC name=fopen\r\nordinal=200 plt=0x00400000 bind=GLOBAL type=FUNC nam"
+    ],
+    [
+      0.000532,
+      "e=getopt\r\nordinal=201 plt=0x00400000 bind=GLOBAL type=FUNC name=localtime\r\nordinal=202 plt=0x00400000 bind=GLOBAL type=FUNC name=memset\r\nordinal=203 plt=0x00400000 bind=GLOBAL type=FUNC name=fnmatch\r\nordinal=204 plt=0x00400000 bind=GLOBAL type=FUNC name=cfmakeraw\r\nordinal=205 plt=0x00400000 bind=GLOBAL type=FUNC name=srand\r\nordinal=206 plt=0x00400000 bind=GLOBAL type=FUNC name=clearerr\r\nordinal=207 plt=0x00400000 bind=GLOBAL type=FUNC name=mallopt\r\nordinal=208 plt=0x00400000 bind=GLOBAL type=FUNC name=fclose\r\nordinal=209 plt=0x00400000 bind=GLOBAL type=FUNC name=grantpt\r\nordinal=211 plt=0x00400000 bind=GLOBAL type=FUNC name=inet_ntoa\r\nordinal=212 plt=0x00400000 bind=GLOBAL type=FUNC name=getppid\r\nordinal=213 plt=0x00400000 bind=GLOBAL type=FUNC name=tcgetattr\r\nordinal=214 plt=0x00400000 bind=GLOBAL type=FUNC name=getservbyport\r\nordinal=215 plt=0x00400000 bind=GLOBAL type=FUNC name=regexec\r\nordinal=216 plt=0x00400000 bind=GLOBAL type=FUNC name=time\r\nordinal=217 plt=0x00400000 bind=GLOBAL type=FUNC name=opendir"
+    ],
+    [
+      0.000575,
+      "\r\nordinal=218 plt=0x00400000 bind=GLOBAL type=FUNC name=getgroups\r\nordinal=219 plt=0x00400000 bind=GLOBAL type=FUNC name=poll\r\nordinal=220 plt=0x00400000 bind=GLOBAL type=FUNC name=syslog\r\nordinal=221 plt=0x00400000 bind=GLOBAL type=FUNC name=exp\r\nordinal=222 plt=0x00400000 bind=GLOBAL type=FUNC name=mount\r\nordinal=223 plt=0x00403f50 bind=GLOBAL type=FUNC name=strcmp\r\nordinal=224 plt=0x00400000 bind=GLOBAL type=FUNC name=shutdown\r\nordinal=225 plt=0x00400000 bind=GLOBAL type=FUNC name=dup\r\nordinal=226 plt=0x00400000 bind=GLOBAL type=FUNC name=getcwd\r\nordinal=228 plt=0x00400000 bind=GLOBAL type=FUNC name=__fixunsdfdi\r\nordinal=229 plt=0x00400000 bind=GLOBAL type=FUNC name=__res_state\r\nordinal=230 plt=0x00400000 bind=GLOBAL type=FUNC name=gethostbyname\r\nordinal=231 plt=0x00400000 bind=GLOBAL type=FUNC name=strsignal\r\nordinal=232 plt=0x00400000 bind=GLOBAL type=FUNC name=getservbyname\r\nordinal=233 plt=0x00400000 bind=GLOBAL type=FUNC name=sprintf\r\nordinal=234 plt=0x00400000 bind=GLOBAL type=FUNC name=ether_aton_r\r"
+    ],
+    [
+      0.000632,
+      "\r\nordinal=235 plt=0x00400000 bind=GLOBAL type=FUNC name=strcspn\r\nordinal=236 plt=0x00404010 bind=GLOBAL type=FUNC name=getpeername\r\nordinal=237 plt=0x00400000 bind=GLOBAL type=FUNC name=regerror\r\nordinal=239 plt=0x00400000 bind=GLOBAL type=FUNC name=umount\r\nordinal=240 plt=0x00400000 bind=GLOBAL type=FUNC name=mkstemp\r\nordinal=241 plt=0x00400000 bind=GLOBAL type=FUNC name=vfork\r\nordinal=242 plt=0x00400000 bind=GLOBAL type=FUNC name=strsep\r\nordinal=243 plt=0x00400000 bind=GLOBAL type=FUNC name=fsync\r\nordinal=244 plt=0x00400000 bind=GLOBAL type=FUNC name=fputc\r\nordinal=245 plt=0x00400000 bind=GLOBAL type=FUNC name=localtime_r\r\nordinal=246 plt=0x00400000 bind=GLOBAL type=FUNC name=getaddrinfo\r\nordinal=247 plt=0x00400000 bind=GLOBAL type=FUNC name=strftime\r\nordinal=248 plt=0x004040c0 bind=GLOBAL type=FUNC name=stat\r\nordinal=249 plt=0x00400000 bind=GLOBAL type=FUNC name=getmntent\r\nordinal=250 plt=0x00400000 bind=GLOBAL type=FUNC name=fwrite\r\nordinal=251 plt=0x00400000 bind=GLOBAL type=FUNC name=access\r\nordinal=256"
+    ],
+    [
+      0.000545,
+      " plt=0x00400000 bind=GLOBAL type=FUNC name=strptime\r\nordinal=257 plt=0x00400000 bind=GLOBAL type=FUNC name=rewind\r\nordinal=258 plt=0x00400000 bind=GLOBAL type=FUNC name=freopen\r\nordinal=259 plt=0x00400000 bind=GLOBAL type=FUNC name=tcgetpgrp\r\nordinal=260 plt=0x00400000 bind=GLOBAL type=FUNC name=__errno_location\r\nordinal=261 plt=0x00404150 bind=GLOBAL type=FUNC name=link\r\nordinal=262 plt=0x00400000 bind=GLOBAL type=FUNC name=semop\r\nordinal=263 plt=0x00400000 bind=GLOBAL type=FUNC name=exit\r\nordinal=264 plt=0x00400000 bind=GLOBAL type=FUNC name=stime\r\nordinal=265 plt=0x00400000 bind=GLOBAL type=FUNC name=klogctl\r\nordinal=266 plt=0x00400000 bind=GLOBAL type=FUNC name=setbuf\r\nordinal=267 plt=0x00400000 bind=GLOBAL type=FUNC name=atoi\r\nordinal=268 plt=0x00400000 bind=GLOBAL type=FUNC name=fileno\r\nordinal=269 plt=0x00400000 bind=GLOBAL type=FUNC name=_setjmp\r\nordinal=270 plt=0x00400000 bind=GLOBAL type=FUNC name=fgets_unlocked\r\nordinal=271 plt=0x00400000 bind=GLOBAL type=FUNC name=getline\r\nordinal=272 plt=0x004000"
+    ],
+    [
+      0.000523,
+      "00 bind=GLOBAL type=FUNC name=_exit\r\nordinal=273 plt=0x00400000 bind=GLOBAL type=FUNC name=strverscmp\r\nordinal=274 plt=0x00400000 bind=GLOBAL type=FUNC name=strspn\r\nordinal=275 plt=0x00400000 bind=GLOBAL type=FUNC name=strlen\r\nordinal=276 plt=0x00400000 bind=GLOBAL type=FUNC name=open\r\nordinal=277 plt=0x00400000 bind=GLOBAL type=FUNC name=ptsname_r\r\nordinal=278 plt=0x00400000 bind=GLOBAL type=FUNC name=regfree\r\nordinal=279 plt=0x00400000 bind=GLOBAL type=FUNC name=div\r\nordinal=280 plt=0x00400000 bind=GLOBAL type=FUNC name=strchr\r\nordinal=281 plt=0x00400000 bind=GLOBAL type=FUNC name=fputs\r\nordinal=282 plt=0x00400000 bind=GLOBAL type=FUNC name=adjtimex\r\nordinal=283 plt=0x00400000 bind=GLOBAL type=FUNC name=execvp\r\nordinal=284 plt=0x00400000 bind=GLOBAL type=FUNC name=setsid\r\nordinal=285 plt=0x00400000 bind=GLOBAL type=FUNC name=closedir\r\nordinal=286 plt=0x00400000 bind=GLOBAL type=FUNC name=vasprintf\r\nordinal=287 plt=0x00400000 bind=GLOBAL type=FUNC name=recvmsg\r\nordinal=288 plt=0x00400000 bind=GLOBAL type=FUN"
+    ],
+    [
+      0.000497,
+      "C name=strchrnul\r\nordinal=289 plt=0x00400000 bind=GLOBAL type=FUNC name=fcntl\r\nordinal=290 plt=0x00400000 bind=GLOBAL type=FUNC name=setuid\r\nordinal=292 plt=0x00400000 bind=GLOBAL type=FUNC name=tcsetattr\r\nordinal=293 plt=0x00400000 bind=GLOBAL type=FUNC name=mkdir\r\nordinal=294 plt=0x00400000 bind=GLOBAL type=FUNC name=close\r\nordinal=295 plt=0x00400000 bind=GLOBAL type=FUNC name=vfprintf\r\nordinal=296 plt=0x00400000 bind=GLOBAL type=FUNC name=strpbrk\r\nordinal=297 plt=0x00400000 bind=GLOBAL type=FUNC name=tcsetpgrp\r\nordinal=298 plt=0x00400000 bind=GLOBAL type=FUNC name=sigsuspend\r\nordinal=299 plt=0x00400000 bind=GLOBAL type=FUNC name=raise\r\nordinal=300 plt=0x004043b0 bind=GLOBAL type=FUNC name=free\r\nordinal=301 plt=0x00400000 bind=GLOBAL type=FUNC name=sigprocmask\r\nordinal=302 plt=0x00400000 bind=GLOBAL type=FUNC name=__fputc_unlocked\r\nordinal=303 plt=0x004043e0 bind=GLOBAL type=FUNC name=getsockname\r\nordinal=310 plt=0x004573e8 bind=GLOBAL type=FUNC name=__cxa_atexit\r\nordinal=318 plt=0x00400000 bind=GLOBAL type"
+    ],
+    [
+      0.000010,
+      "=FUNC name=memcpy\r\n\r\n276 imports\r\n\r\n\u001b[0K\r\u001b[0K\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m "
+    ],
+    [
+      3.053640,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m q\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m q"
+    ],
+    [
+      0.447968,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000008,
+      "\r\u001b[2K\r\r\u001b[38;5;166m[0x00404410]\u003e\u001b[0m q\r\n"
+    ],
+    [
+      0.003250,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.035199,
+      "\u001bk..ions/bins/elf\u001b\\"
+    ],
+    [
+      0.000070,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jalvaro_fe\u001b[00m@\u001b[4m\u001b[31mmacbook\u001b[00m\u001b[24m 21:23 \u001b[1m~/Projects/Reverse/radare2/r2-regressions/bins/elf\u001b[0m "
+    ],
+    [
+      0.000011,
+      "\u001b[K\u001b[100C\u001b[33m\u001b[32m\u001b[00m [\u001b[34mmaster\u001b[00m] \u001b[33mgit\u001b[00m:r2-regressions\u001b[128D"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.665514,
+      "\r\r\n"
+    ]
+  ]
+}
