@@ -1,0 +1,1378 @@
+{
+  "version": 1,
+  "width": 142,
+  "height": 36,
+  "duration": 1176.757590,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009219,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      0.382932,
+      "c"
+    ],
+    [
+      0.071782,
+      "d"
+    ],
+    [
+      0.128004,
+      " "
+    ],
+    [
+      0.159599,
+      "D"
+    ],
+    [
+      0.160470,
+      "e"
+    ],
+    [
+      0.168016,
+      "s"
+    ],
+    [
+      0.167242,
+      "e"
+    ],
+    [
+      0.144554,
+      "nvolvimento/"
+    ],
+    [
+      0.992169,
+      "s"
+    ],
+    [
+      0.199969,
+      "p"
+    ],
+    [
+      0.111945,
+      "r"
+    ],
+    [
+      0.184275,
+      "int/"
+    ],
+    [
+      0.439776,
+      "\r\n"
+    ],
+    [
+      0.000379,
+      "bash-3.2$ "
+    ],
+    [
+      2.447624,
+      "v"
+    ],
+    [
+      0.175989,
+      "a"
+    ],
+    [
+      0.463871,
+      "g"
+    ],
+    [
+      0.160150,
+      "r"
+    ],
+    [
+      0.112020,
+      "a"
+    ],
+    [
+      0.135959,
+      "n"
+    ],
+    [
+      0.127973,
+      "t"
+    ],
+    [
+      0.096089,
+      " "
+    ],
+    [
+      0.199924,
+      "u"
+    ],
+    [
+      0.192075,
+      "p"
+    ],
+    [
+      0.815988,
+      "\r\n"
+    ],
+    [
+      1.724785,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.449214,
+      "\u001b[1m==\u003e default: Importing base box 'ubuntu/precise64'...\u001b[0m\r\n"
+    ],
+    [
+      20.587377,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000225,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      0.102349,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000344,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      6.440573,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000878,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.152110,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/precise64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      2.488198,
+      "\u001b[1m==\u003e default: Setting the name of the VM: sprint_default_1429536697942_3723\u001b[0m\r\n"
+    ],
+    [
+      0.133251,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.773603,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.053801,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000601,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.051806,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.083842,
+      "\u001b[0m    default: 80 =\u003e 6969 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.001054,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.154707,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.418452,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      0.374767,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000253,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000362,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\n"
+    ],
+    [
+      15.188257,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m"
+    ],
+    [
+      0.000465,
+      "\r\n"
+    ],
+    [
+      0.246804,
+      "\u001b[0m    default: Warning: Remote connection disconnect. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      3.977423,
+      "\u001b[0m    default: \r\n    default: Vagrant insecure key detected. Vagrant will automatically replace\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      0.585765,
+      "\u001b[0m    default: \r\n    default: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      0.119113,
+      "\u001b[0m    default: Removing insecure key from the guest if its present...\u001b[0m\r\n"
+    ],
+    [
+      0.080279,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      6.443153,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.000490,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.042513,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r\n    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    default: prevent things such as shared folders from working properly. If you see\r\n    default: shared folder errors, please make sure the guest additions within the\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\n    default: your host and reload your VM.\r\n    default: \r\n    default: Guest Additions Version: 4."
+    ],
+    [
+      0.000017,
+      "1.12\r\n    default: VirtualBox Version: 4.3\u001b[0m\r\n"
+    ],
+    [
+      0.147449,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\n"
+    ],
+    [
+      0.000990,
+      "\u001b[0m    default: /vagrant =\u003e /Users/rodrigo/Desenvolvimento/sprint\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.587301,
+      "\u001b[1m==\u003e default: Running provisioner: shell...\u001b[0m\r\n"
+    ],
+    [
+      0.335808,
+      "\u001b[0m    default: Running: inline script\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.029211,
+      "\u001b[1;31m==\u003e default: stdin: is not a tty\u001b[0m\r\n"
+    ],
+    [
+      0.668950,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise Release.gpg\u001b[0m\r\n"
+    ],
+    [
+      0.001346,
+      "\u001b[1;32m==\u003e default: Get:1 http://security.ubuntu.com precise-security Release.gpg [198 B]\u001b[0m\r\n"
+    ],
+    [
+      0.223261,
+      "\u001b[1;32m==\u003e default: Get:2 http://archive.ubuntu.com precise-updates Release.gpg [198 B]\u001b[0m\r\n"
+    ],
+    [
+      0.057096,
+      "\u001b[1;32m==\u003e default: Get:3 http://security.ubuntu.com precise-security Release [54.3 kB]\u001b[0m\r\n"
+    ],
+    [
+      0.159099,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise Release\u001b[0m\r\n"
+    ],
+    [
+      0.210763,
+      "\u001b[1;32m==\u003e default: Get:4 http://archive.ubuntu.com precise-updates Release [196 kB]\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.703052,
+      "\u001b[1;32m==\u003e default: Get:5 http://security.ubuntu.com precise-security/main Sources [127 kB]\u001b[0m\r\n"
+    ],
+    [
+      1.453354,
+      "\u001b[1;32m==\u003e default: Get:6 http://archive.ubuntu.com precise/main Sources [934 kB]\u001b[0m\r\n"
+    ],
+    [
+      0.887011,
+      "\u001b[1;32m==\u003e default: Get:7 http://security.ubuntu.com precise-security/universe Sources [35.0 kB]\u001b[0m\r\n"
+    ],
+    [
+      0.860975,
+      "\u001b[1;32m==\u003e default: Get:8 http://security.ubuntu.com precise-security/main amd64 Packages [499 kB]\u001b[0m\r\n"
+    ],
+    [
+      9.022927,
+      "\u001b[1;32m==\u003e default: Get:9 http://security.ubuntu.com precise-security/universe amd64 Packages [112 kB]\u001b[0m\r\n"
+    ],
+    [
+      0.472876,
+      "\u001b[1;32m==\u003e default: Get:10 http://archive.ubuntu.com precise/universe Sources [5,019 kB]\u001b[0m\r\n"
+    ],
+    [
+      1.914913,
+      "\u001b[1;32m==\u003e default: Get:11 http://security.ubuntu.com precise-security/main i386 Packages [535 kB]\u001b[0m\r\n"
+    ],
+    [
+      9.703879,
+      "\u001b[1;32m==\u003e default: Get:12 http://security.ubuntu.com precise-security/universe i386 Packages [120 kB]\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      2.105426,
+      "\u001b[1;32m==\u003e default: Get:13 http://security.ubuntu.com precise-security/main TranslationIndex [208 B]\u001b[0m\r\n"
+    ],
+    [
+      0.543285,
+      "\u001b[1;32m==\u003e default: Get:14 http://security.ubuntu.com precise-security/universe TranslationIndex [205 B]\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.543481,
+      "\u001b[1;32m==\u003e default: Hit http://security.ubuntu.com precise-security/main Translation-en\u001b[0m\r\n"
+    ],
+    [
+      1.339296,
+      "\u001b[1;32m==\u003e default: Get:15 http://security.ubuntu.com precise-security/universe Translation-en [67.3 kB]\u001b[0m\r\n"
+    ],
+    [
+      43.302759,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/main amd64 Packages\u001b[0m\r\n"
+    ],
+    [
+      0.203449,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/universe amd64 Packages\u001b[0m\r\n"
+    ],
+    [
+      0.211776,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/main i386 Packages\u001b[0m\r\n"
+    ],
+    [
+      0.206551,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/universe i386 Packages\u001b[0m\r\n"
+    ],
+    [
+      0.199244,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/main TranslationIndex\u001b[0m\r\n"
+    ],
+    [
+      0.202973,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/universe TranslationIndex\u001b[0m\r\n"
+    ],
+    [
+      0.214472,
+      "\u001b[1;32m==\u003e default: Get:16 http://archive.ubuntu.com precise-updates/main Sources [487 kB]\u001b[0m\r\n"
+    ],
+    [
+      2.348617,
+      "\u001b[1;32m==\u003e default: Get:17 http://archive.ubuntu.com precise-updates/universe Sources [112 kB]\u001b[0m\r\n"
+    ],
+    [
+      1.309818,
+      "\u001b[1;32m==\u003e default: Get:18 http://archive.ubuntu.com precise-updates/main amd64 Packages [888 kB]\u001b[0m\r\n"
+    ],
+    [
+      5.504348,
+      "\u001b[1;32m==\u003e default: Get:19 http://archive.ubuntu.com precise-updates/universe amd64 Packages [256 kB]\u001b[0m\r\n"
+    ],
+    [
+      2.767511,
+      "\u001b[1;32m==\u003e default: Get:20 http://archive.ubuntu.com precise-updates/main i386 Packages [929 kB]\u001b[0m\r\n"
+    ],
+    [
+      17.847576,
+      "\u001b[1;32m==\u003e default: Get:21 http://archive.ubuntu.com precise-updates/universe i386 Packages [265 kB]\u001b[0m\r\n"
+    ],
+    [
+      3.576739,
+      "\u001b[1;32m==\u003e default: Get:22 http://archive.ubuntu.com precise-updates/main TranslationIndex [10.6 kB]\u001b[0m\r\n"
+    ],
+    [
+      0.397857,
+      "\u001b[1;32m==\u003e default: Get:23 http://archive.ubuntu.com precise-updates/universe TranslationIndex [8,333 B]\u001b[0m\r\n"
+    ],
+    [
+      0.377056,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/main Translation-en\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      1.172392,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise/universe Translation-en\u001b[0m\r\n"
+    ],
+    [
+      0.202663,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise-updates/main Translation-en\u001b[0m\r\n"
+    ],
+    [
+      0.199938,
+      "\u001b[1;32m==\u003e default: Hit http://archive.ubuntu.com precise-updates/universe Translation-en\u001b[0m\r\n"
+    ],
+    [
+      0.068866,
+      "\u001b[1;32m==\u003e default: Fetched 10.7 MB in 1min 51s (95.9 kB/s)\r\n==\u003e default: Reading package lists...\u001b[0m\r\n"
+    ],
+    [
+      7.823672,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.001288,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.001069,
+      "\u001b[1;31m==\u003e default: %\u001b[0m\r\n"
+    ],
+    [
+      0.000913,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000739,
+      "\u001b[1;31m==\u003e default: T\u001b[0m\r\n"
+    ],
+    [
+      0.000622,
+      "\u001b[1;31m==\u003e default: o\u001b[0m\r\n"
+    ],
+    [
+      0.000632,
+      "\u001b[1;31m==\u003e default: t\u001b[0m\r\n"
+    ],
+    [
+      0.000658,
+      "\u001b[1;31m==\u003e default: a\u001b[0m\r\n"
+    ],
+    [
+      0.000558,
+      "\u001b[1;31m==\u003e default: l\u001b[0m\r\n"
+    ],
+    [
+      0.000544,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000550,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000553,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000538,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000565,
+      "\u001b[1;31m==\u003e default: %\u001b[0m\r\n"
+    ],
+    [
+      0.000580,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000582,
+      "\u001b[1;31m==\u003e default: Received % Xferd  Average Speed   Time    Time     Time  Current\r\n==\u003e default:                                  Dload  Upload   Total   Spent    Left  Speed\r\n==\u003e default: \r  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0\u001b[0m\r\n"
+    ],
+    [
+      0.563696,
+      "\u001b[1;31m==\u003e default:  \u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001075,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000798,
+      "\u001b[1;31m==\u003e default: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000802,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000861,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000618,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000580,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000567,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000808,
+      "\u001b[1;31m==\u003e default: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000592,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000573,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000872,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000660,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000647,
+      "\u001b[1;31m==\u003e default: 0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0\u001b[0m\r\n"
+    ],
+    [
+      0.820344,
+      "\u001b[1;31m==\u003e default: 1\u001b[0m\r\n"
+    ],
+    [
+      0.000937,
+      "\u001b[1;31m==\u003e default: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000755,
+      "\u001b[1;31m==\u003e default: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000655,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000959,
+      "\u001b[1;31m==\u003e default: 1\u001b[0m\r\n"
+    ],
+    [
+      0.000639,
+      "\u001b[1;31m==\u003e default: 8\u001b[0m\r\n"
+    ],
+    [
+      0.000670,
+      "\u001b[1;31m==\u003e default: 9\u001b[0m\r\n"
+    ],
+    [
+      0.000796,
+      "\u001b[1;31m==\u003e default: 7\u001b[0m\r\n"
+    ],
+    [
+      0.000995,
+      "\u001b[1;31m==\u003e default: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000958,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000651,
+      "\u001b[1;31m==\u003e default:  \u001b[0m\r\n"
+    ],
+    [
+      0.000784,
+      "\u001b[1;31m==\u003e default: 1\u001b[0m\r\n"
+    ],
+    [
+      0.000651,
+      "\u001b[1;31m==\u003e default: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000575,
+      "\u001b[1;31m==\u003e default: 0 18970    0     0   2744      0  0:00:06  0:00:06 --:--:-- 13521\u001b[0m\r\n"
+    ],
+    [
+      0.000672,
+      "\u001b[1;32m==\u003e default: Downloading Chef  for ubuntu...\u001b[0m\r\n"
+    ],
+    [
+      0.000590,
+      "\u001b[1;32m==\u003e default: downloading https://www.chef.io/chef/metadata?v=\u0026prerelease=false\u0026nightlies=false\u0026p=ubuntu\u0026pv=12.04\u0026m=x86_64\u001b[0m\r\n"
+    ],
+    [
+      0.000552,
+      "\u001b[1;32m==\u003e default:   to file /tmp/install.sh.1669/metadata.txt\u001b[0m\r\n"
+    ],
+    [
+      0.000565,
+      "\u001b[1;32m==\u003e default: trying wget...\u001b[0m\r\n"
+    ],
+    [
+      0.952885,
+      "\u001b[1;32m==\u003e default: url\thttps://opscode-omnibus-packages.s3.amazonaws.com/ubuntu/12.04/x86_64/chef_12.2.1-1_amd64.deb\r\n==\u003e default: md5\tb831488869cd3299cc0c86810be898bf\r\n==\u003e default: sha256\tf2030a51006e8a4176f8a23199a88280c306ebeb011b2eadaeaabeccff761c4d\u001b[0m\r\n"
+    ],
+    [
+      0.003925,
+      "\u001b[1;32m==\u003e default: downloaded metadata file looks valid...\u001b[0m\r\n"
+    ],
+    [
+      0.011328,
+      "\u001b[1;32m==\u003e default: downloading https://opscode-omnibus-packages.s3.amazonaws.com/ubuntu/12.04/x86_64/chef_12.2.1-1_amd64.deb\u001b[0m\r\n"
+    ],
+    [
+      0.000768,
+      "\u001b[1;32m==\u003e default:   to file /tmp/install.sh.1669/chef_12.2.1-1_amd64.deb\u001b[0m\r\n"
+    ],
+    [
+      0.000610,
+      "\u001b[1;32m==\u003e default: trying wget...\u001b[0m\r\n"
+    ],
+    [
+      448.016925,
+      "\u001b[1;32m==\u003e default: Comparing checksum with sha256sum...\u001b[0m\r\n"
+    ],
+    [
+      0.293884,
+      "\u001b[1;32m==\u003e default: WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.001704,
+      "\u001b[1;32m==\u003e default: You are installing an omnibus package without a version pin.  If you are installing\u001b[0m\r\n"
+    ],
+    [
+      0.000788,
+      "\u001b[1;32m==\u003e default: on production servers via an automated process this is DANGEROUS and you will\u001b[0m\r\n"
+    ],
+    [
+      0.000618,
+      "\u001b[1;32m==\u003e default: be upgraded without warning on new releases, even to new major release.\u001b[0m\r\n"
+    ],
+    [
+      0.000678,
+      "\u001b[1;32m==\u003e default: Letting the version float is only appropriate in desktop, test, development or\u001b[0m\r\n"
+    ],
+    [
+      0.000583,
+      "\u001b[1;32m==\u003e default: CI/CD environments.\u001b[0m\r\n"
+    ],
+    [
+      0.000908,
+      "\u001b[1;32m==\u003e default: WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING\u001b[0m\r\n"
+    ],
+    [
+      0.000934,
+      "\u001b[1;32m==\u003e default: Installing Chef \u001b[0m\r\n"
+    ],
+    [
+      0.000636,
+      "\u001b[1;32m==\u003e default: installing with dpkg...\u001b[0m\r\n"
+    ],
+    [
+      0.049083,
+      "\u001b[1;32m==\u003e default: Selecting previously unselected package chef.\u001b[0m\r\n"
+    ],
+    [
+      0.001259,
+      "\u001b[1;32m==\u003e default: (Reading database ... \u001b[0m\r\n"
+    ],
+    [
+      0.117090,
+      "\u001b[1;32m==\u003e default: 66225 files and directories currently installed.)\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.002623,
+      "\u001b[1;32m==\u003e default: Unpacking chef (from .../chef_12.2.1-1_amd64.deb) ...\u001b[0m\r\n"
+    ],
+    [
+      5.008887,
+      "\u001b[1;32m==\u003e default: Setting up chef (12.2.1-1) ...\u001b[0m\r\n"
+    ],
+    [
+      0.083356,
+      "\u001b[1;32m==\u003e default: Thank you for installing Chef!\u001b[0m\r\n"
+    ],
+    [
+      0.825611,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:43+00:00] INFO: Forking chef instance to converge...\u001b[0m\r\n"
+    ],
+    [
+      0.007770,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:43+00:00] INFO: *** Chef 12.2.1 ***\u001b[0m\r\n"
+    ],
+    [
+      0.000612,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:43+00:00] INFO: Chef-client pid: 1747\u001b[0m\r\n"
+    ],
+    [
+      1.284282,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Setting the run_list to [\"recipe[sprint-dev]\"] from CLI options\u001b[0m\r\n"
+    ],
+    [
+      0.003707,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Run List is [recipe[sprint-dev]]\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000756,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Run List expands to [sprint-dev]\u001b[0m\r\n"
+    ],
+    [
+      0.000723,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Starting Chef Run for vagrant-ubuntu-precise-64\u001b[0m\r\n"
+    ],
+    [
+      0.000827,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Running start handlers\u001b[0m\r\n"
+    ],
+    [
+      0.000758,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Start handlers complete.\u001b[0m\r\n"
+    ],
+    [
+      0.095059,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Processing file[/var/lib/apt/periodic/update-success-stamp] action nothing (apt::default line 30)\u001b[0m\r\n"
+    ],
+    [
+      0.000731,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Processing directory[/etc/apt/apt.conf.d] action create (apt::default line 53)\u001b[0m\r\n"
+    ],
+    [
+      0.002382,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:44+00:00] INFO: Processing cookbook_file[/etc/apt/apt.conf.d/15update-stamp] action create (apt::default line 57)\u001b[0m\r\n"
+    ],
+    [
+      0.043388,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing execute[apt-get-update] action run (apt::default line 62)\u001b[0m\r\n"
+    ],
+    [
+      0.000911,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing execute[apt-get update] action nothing (apt::default line 71)\u001b[0m\r\n"
+    ],
+    [
+      0.001211,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing execute[apt-get autoremove] action nothing (apt::default line 80)\u001b[0m\r\n"
+    ],
+    [
+      0.001368,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing execute[apt-get autoclean] action nothing (apt::default line 87)\u001b[0m\r\n"
+    ],
+    [
+      0.001045,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing execute[apt-get-update-periodic] action run (apt::default line 93)\u001b[0m\r\n"
+    ],
+    [
+      0.001046,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing directory[/var/cache/local] action create (apt::default line 105)\u001b[0m\r\n"
+    ],
+    [
+      0.001005,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local] created directory /var/cache/local\u001b[0m\r\n"
+    ],
+    [
+      0.000777,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local] owner changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000809,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local] group changed to 0\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000746,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local] mode changed to 755\u001b[0m\r\n"
+    ],
+    [
+      0.001021,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing directory[/var/cache/local/preseeding] action create (apt::default line 105)\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000801,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local/preseeding] created directory /var/cache/local/preseeding\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000969,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local/preseeding] owner changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000768,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local/preseeding] group changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000991,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: directory[/var/cache/local/preseeding] mode changed to 755\u001b[0m\r\n"
+    ],
+    [
+      0.000711,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:41:45+00:00] INFO: Processing apt_package[postgresql, apache2, php5, libapache2-mod-php5, php5-mcrypt, php5-curl, php5-imagick, php5-xmlrpc, php5-pgsql] action install (sprint-dev::default line 20)\u001b[0m\r\n"
+    ],
+    [
+      477.988234,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:49:43+00:00] INFO: apt_package[postgresql, apache2, php5, libapache2-mod-php5, php5-mcrypt, php5-curl, php5-imagick, php5-xmlrpc, php5-pgsql] installed [\"postgresql\", \"apache2\", \"php5\", \"libapache2-mod-php5\", \"php5-mcrypt\", \"php5-curl\", \"php5-imagick\", \"php5-xmlrpc\", \"php5-pgsql\"] at [\"9.1+129ubuntu1\", \"2.2.22-1ubuntu1.8\", \"5.3.10-1ubuntu3.17\", \"5.3.10-1ubuntu3.17\", \"5.3.5-0ubuntu1\", \"5.3.10-1ubuntu3.17\", \"3.1.0~rc1-1\", \"5.3.10-1ubuntu3.17\", \"5.3.10-1ubuntu3.17\"]\u001b[0m\r\n"
+    ],
+    [
+      0.000816,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:49:43+00:00] INFO: Processing service[apache2] action enable (sprint-dev::default line 33)\u001b[0m\r\n"
+    ],
+    [
+      0.107942,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:49:43+00:00] INFO: Processing service[postgresql] action enable (sprint-dev::default line 37)\u001b[0m\r\n"
+    ],
+    [
+      0.055354,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:49:43+00:00] INFO: Processing service[postgresql] action start (sprint-dev::default line 37)\u001b[0m\r\n"
+    ],
+    [
+      0.061429,
+      "\u001b[1;32m==\u003e default: [2015-04-20T13:49:43+00:00] INFO: Processing bash[acerta-timezone] action run (sprint-dev::default line 42)\u001b[0m\r\n"
+    ],
+    [
+      0.056034,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:43-03:00] INFO: bash[acerta-timezone] ran successfully\u001b[0m\r\n"
+    ],
+    [
+      0.001017,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:43-03:00] INFO: Processing template[/etc/postgresql/9.1/main/postgresql.conf] action create (sprint-dev::default line 57)\u001b[0m\r\n"
+    ],
+    [
+      0.042170,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:43-03:00] INFO: template[/etc/postgresql/9.1/main/postgresql.conf] backed up to /var/chef/backup/etc/postgresql/9.1/main/postgresql.conf.chef-20150420104943.352812\u001b[0m\r\n"
+    ],
+    [
+      0.000863,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:43-03:00] INFO: template[/etc/postgresql/9.1/main/postgresql.conf] updated file contents /etc/postgresql/9.1/main/postgresql.conf\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.002491,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:43-03:00] INFO: template[/etc/postgresql/9.1/main/postgresql.conf] sending restart action to service[postgresql] (immediate)\u001b[0m\r\n"
+    ],
+    [
+      0.000875,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:43-03:00] INFO: Processing service[postgresql] action restart (sprint-dev::default line 37)\u001b[0m\r\n"
+    ],
+    [
+      4.269223,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:47-03:00] INFO: service[postgresql] restarted\u001b[0m\r\n"
+    ],
+    [
+      0.000724,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:47-03:00] INFO: Processing template[/etc/postgresql/9.1/main/pg_hba.conf] action create (sprint-dev::default line 65)\u001b[0m\r\n"
+    ],
+    [
+      0.006188,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:47-03:00] INFO: template[/etc/postgresql/9.1/main/pg_hba.conf] backed up to /var/chef/backup/etc/postgresql/9.1/main/pg_hba.conf.chef-20150420104947.633379\u001b[0m\r\n"
+    ],
+    [
+      0.000714,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:47-03:00] INFO: template[/etc/postgresql/9.1/main/pg_hba.conf] updated file contents /etc/postgresql/9.1/main/pg_hba.conf\u001b[0m\r\n"
+    ],
+    [
+      0.002328,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:47-03:00] INFO: template[/etc/postgresql/9.1/main/pg_hba.conf] mode changed to 644\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000770,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:47-03:00] INFO: template[/etc/postgresql/9.1/main/pg_hba.conf] sending restart action to service[postgresql] (immediate)\u001b[0m\r\n"
+    ],
+    [
+      0.000652,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:47-03:00] INFO: Processing service[postgresql] action restart (sprint-dev::default line 37)\u001b[0m\r\n"
+    ],
+    [
+      4.250550,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:51-03:00] INFO: service[postgresql] restarted\u001b[0m\r\n"
+    ],
+    [
+      0.000833,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:51-03:00] INFO: Processing execute[criar-usuario-vagrant] action run (sprint-dev::default line 74)\u001b[0m\r\n"
+    ],
+    [
+      0.001111,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:51-03:00] INFO: Processing execute[Guard resource] action run (dynamically defined)\u001b[0m\r\n"
+    ],
+    [
+      3.908868,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:55-03:00] INFO: execute[criar-usuario-vagrant] ran successfully\u001b[0m\r\n"
+    ],
+    [
+      0.000956,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:55-03:00] INFO: Processing execute[create-database] action run (sprint-dev::default line 82)\u001b[0m\r\n"
+    ],
+    [
+      0.000970,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:55-03:00] INFO: Processing execute[Guard resource] action run (dynamically defined)\u001b[0m\r\n"
+    ],
+    [
+      0.433207,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: execute[create-database] ran successfully\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000916,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: Processing bash[habilita-modulos-e-sites] action nothing (sprint-dev::default line 92)\u001b[0m\r\n"
+    ],
+    [
+      0.000764,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: Processing template[/etc/apache2/envvars] action create (sprint-dev::default line 104)\u001b[0m\r\n"
+    ],
+    [
+      0.005806,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/envvars] backed up to /var/chef/backup/etc/apache2/envvars.chef-20150420104956.241602\u001b[0m\r\n"
+    ],
+    [
+      0.001032,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/envvars] updated file contents /etc/apache2/envvars\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.002484,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: Processing template[/etc/php5/apache2/php.ini] action create (sprint-dev::default line 114)\u001b[0m\r\n"
+    ],
+    [
+      0.049389,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/php5/apache2/php.ini] backed up to /var/chef/backup/etc/php5/apache2/php.ini.chef-20150420104956.293970\u001b[0m\r\n"
+    ],
+    [
+      0.001136,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/php5/apache2/php.ini] updated file contents /etc/php5/apache2/php.ini\u001b[0m\r\n"
+    ],
+    [
+      0.003293,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: Processing directory[/var/lock/apache2] action create (sprint-dev::default line 121)\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.002409,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: directory[/var/lock/apache2] owner changed to 1001\u001b[0m\r\n"
+    ],
+    [
+      0.000833,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: Processing template[/etc/apache2/sites-available/sprint] action create (sprint-dev::default line 126)\u001b[0m\r\n"
+    ],
+    [
+      0.003345,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/sites-available/sprint] created file /etc/apache2/sites-available/sprint\u001b[0m\r\n"
+    ],
+    [
+      0.001654,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/sites-available/sprint] updated file contents /etc/apache2/sites-available/sprint\u001b[0m\r\n"
+    ],
+    [
+      0.001036,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/sites-available/sprint] owner changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.000879,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/sites-available/sprint] group changed to 0\u001b[0m\r\n"
+    ],
+    [
+      0.001248,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/sites-available/sprint] mode changed to 644\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001169,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/sites-available/sprint] sending run action to bash[habilita-modulos-e-sites] (immediate)\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001311,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: Processing bash[habilita-modulos-e-sites] action run (sprint-dev::default line 92)\u001b[0m\r\n"
+    ],
+    [
+      0.118264,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: bash[habilita-modulos-e-sites] ran successfully\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000799,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: template[/etc/apache2/sites-available/sprint] sending restart action to service[apache2] (immediate)\u001b[0m\r\n"
+    ],
+    [
+      0.000584,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:56-03:00] INFO: Processing service[apache2] action restart (sprint-dev::default line 33)\u001b[0m\r\n"
+    ],
+    [
+      2.196576,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:58-03:00] INFO: service[apache2] restarted\u001b[0m\r\n"
+    ],
+    [
+      0.000558,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:58-03:00] INFO: Processing cron[acerta-relogio] action create (sprint-dev::default line 137)\u001b[0m\r\n"
+    ],
+    [
+      0.080397,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:58-03:00] INFO: cron[acerta-relogio] added crontab entry\u001b[0m\r\n"
+    ],
+    [
+      0.001372,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:58-03:00] INFO: Chef Run complete in 493.828234076 seconds\u001b[0m\r\n"
+    ],
+    [
+      0.001166,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:58-03:00] INFO: Skipping removal of unused files from the cache\u001b[0m\r\n"
+    ],
+    [
+      0.000930,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:58-03:00] INFO: Running report handlers\u001b[0m\r\n"
+    ],
+    [
+      0.000853,
+      "\u001b[1;32m==\u003e default: [2015-04-20T10:49:58-03:00] INFO: Report handlers complete\u001b[0m\r\n"
+    ],
+    [
+      0.199034,
+      "bash-3.2$ "
+    ],
+    [
+      3.340474,
+      "v"
+    ],
+    [
+      0.159398,
+      "a"
+    ],
+    [
+      0.176054,
+      "g"
+    ],
+    [
+      0.167922,
+      "r"
+    ],
+    [
+      0.104000,
+      "a"
+    ],
+    [
+      0.167966,
+      "n"
+    ],
+    [
+      0.071948,
+      "t"
+    ],
+    [
+      0.144219,
+      " "
+    ],
+    [
+      0.151856,
+      "s"
+    ],
+    [
+      0.144581,
+      "s"
+    ],
+    [
+      0.175521,
+      "h"
+    ],
+    [
+      1.255896,
+      "\r\n"
+    ],
+    [
+      5.189039,
+      "Welcome to Ubuntu 12.04.5 LTS (GNU/Linux 3.2.0-80-virtual x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n  System information as of Mon Apr 20 10:50:08 BRT 2015\r\n\r\n  System load:  0.33              Processes:           75\r\n  Usage of /:   3.5% of 39.37GB   Users logged in:     0\r\n  Memory usage: 16%               IP address for eth0: 10.0.2.15\r\n  Swap usage:   0%\r\n\r\n  Graph this data and manage this system at:\r\n    https://landscape.canonical.com/\r\n\r\n  Get cloud support with Ubuntu Advantage Cloud Guest:\r\n    http://www.ubuntu.com/business/services/cloud\r\n\r\nNew release '14.04.2 LTS' available.\r\nRun 'do-release-upgrade' to upgrade to it.\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.721572,
+      "\u001b]0;vagrant@vagrant-ubuntu-precise-64: ~\u0007vagrant@vagrant-ubuntu-precise-64:~$ "
+    ],
+    [
+      0.913980,
+      "c"
+    ],
+    [
+      0.097113,
+      "d"
+    ],
+    [
+      0.102886,
+      " "
+    ],
+    [
+      0.160155,
+      "/"
+    ],
+    [
+      0.183994,
+      "v"
+    ],
+    [
+      0.184337,
+      "a"
+    ],
+    [
+      0.215690,
+      "g"
+    ],
+    [
+      0.224057,
+      "rant/"
+    ],
+    [
+      0.856082,
+      "\r\n"
+    ],
+    [
+      0.001077,
+      "\u001b]0;vagrant@vagrant-ubuntu-precise-64: /vagrant\u0007vagrant@vagrant-ubuntu-precise-64:/vagrant$ "
+    ],
+    [
+      0.398951,
+      "l"
+    ],
+    [
+      0.079873,
+      "s"
+    ],
+    [
+      0.089037,
+      " "
+    ],
+    [
+      0.134993,
+      "-"
+    ],
+    [
+      0.152820,
+      "l"
+    ],
+    [
+      0.119277,
+      "\r\n"
+    ],
+    [
+      0.014929,
+      "total 24\r\n"
+    ],
+    [
+      0.000332,
+      "drwxr-xr-x 1 vagrant vagrant  578 Apr 19 12:02 \u001b[0m\u001b[01;34mapplication\u001b[0m\r\n"
+    ],
+    [
+      0.000253,
+      "drwxr-xr-x 1 vagrant vagrant  170 Apr 19 12:02 \u001b[01;34mbootstrap\u001b[0m\r\n"
+    ],
+    [
+      0.000247,
+      "drwxr-xr-x 1 vagrant vagrant  170 Apr 19 22:00 \u001b[01;34mchef\u001b[0m\r\n"
+    ],
+    [
+      0.000241,
+      "drwxr-xr-x 1 vagrant vagrant  102 Apr 19 12:02 \u001b[01;34mimages\u001b[0m\r\n"
+    ],
+    [
+      0.000253,
+      "-rw-r--r-- 1 vagrant vagrant 6660 Apr 19 12:02 index.php\r\n"
+    ],
+    [
+      0.000251,
+      "-rw-r--r-- 1 vagrant vagrant 2496 Apr 19 12:02 license.txt\r\n"
+    ],
+    [
+      0.000268,
+      "-rw-r--r-- 1 vagrant vagrant 1243 Apr 19 12:02 pullCodeToServer.php\r\n"
+    ],
+    [
+      0.000222,
+      "-rw-r--r-- 1 vagrant vagrant   26 Apr 19 12:02 robots.txt\r\n"
+    ],
+    [
+      0.000232,
+      "drwxr-xr-x 1 vagrant vagrant  340 Apr 19 12:02 \u001b[01;34msystem\u001b[0m\r\n"
+    ],
+    [
+      0.000244,
+      "-rw-r--r-- 1 vagrant vagrant 3176 Apr 19 15:20 Vagrantfile\r\n"
+    ],
+    [
+      0.000890,
+      "\u001b]0;vagrant@vagrant-ubuntu-precise-64: /vagrant\u0007vagrant@vagrant-ubuntu-precise-64:/vagrant$ "
+    ],
+    [
+      3.374189,
+      "e"
+    ],
+    [
+      0.175623,
+      "x"
+    ],
+    [
+      0.144005,
+      "i"
+    ],
+    [
+      0.120901,
+      "t"
+    ],
+    [
+      0.158806,
+      "\r\n"
+    ],
+    [
+      0.000338,
+      "logout\r\n"
+    ],
+    [
+      0.004287,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.000729,
+      "bash-3.2$ "
+    ],
+    [
+      1.602022,
+      "v"
+    ],
+    [
+      0.136220,
+      "a"
+    ],
+    [
+      0.128465,
+      "g"
+    ],
+    [
+      0.159444,
+      "r"
+    ],
+    [
+      0.103845,
+      "a"
+    ],
+    [
+      0.128512,
+      "n"
+    ],
+    [
+      0.112032,
+      "t"
+    ],
+    [
+      0.119347,
+      " "
+    ],
+    [
+      0.209091,
+      "h"
+    ],
+    [
+      0.119808,
+      "a"
+    ],
+    [
+      0.487216,
+      "l"
+    ],
+    [
+      0.080538,
+      "t"
+    ],
+    [
+      1.999993,
+      "\r\n"
+    ],
+    [
+      2.841978,
+      "\u001b[1m==\u003e default: Attempting graceful shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      5.452223,
+      "bash-3.2$ "
+    ],
+    [
+      2.017966,
+      "exit\r\n"
+    ]
+  ]
+}
