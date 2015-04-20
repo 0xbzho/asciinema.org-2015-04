@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 177,
+  "height": 63,
+  "duration": 46.336508,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007126,
+      "~$ "
+    ],
+    [
+      46.329232,
+      "exit\r\n"
+    ]
+  ]
+}
