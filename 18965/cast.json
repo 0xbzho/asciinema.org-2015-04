@@ -1,0 +1,1046 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 58,
+  "duration": 11.854368,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.064045,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000015,
+      "sh  /"
+    ],
+    [
+      0.000004,
+      "h"
+    ],
+    [
+      0.000092,
+      "ome/fred/D"
+    ],
+    [
+      0.000013,
+      "eskt"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000019,
+      "p"
+    ],
+    [
+      0.000004,
+      "/"
+    ],
+    [
+      0.000078,
+      "gatlin"
+    ],
+    [
+      0.000215,
+      "g-charts-highcharts-bundle-2.1.5\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b[3"
+    ],
+    [
+      0.000004,
+      "0"
+    ],
+    [
+      0.000336,
+      "m\u001b[m\u000f"
+    ],
+    [
+      0.015249,
+      "\u001b]0;fish "
+    ],
+    [
+      0.000013,
+      " /home/f"
+    ],
+    [
+      0.000004,
+      "r"
+    ],
+    [
+      0.000004,
+      "e"
+    ],
+    [
+      0.000008,
+      "d"
+    ],
+    [
+      0.000004,
+      "/"
+    ],
+    [
+      0.000092,
+      "Desktop/gat"
+    ],
+    [
+      0.000027,
+      "lin"
+    ],
+    [
+      0.000004,
+      "g"
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      0.000013,
+      "c"
+    ],
+    [
+      0.000007,
+      "h"
+    ],
+    [
+      0.000004,
+      "a"
+    ],
+    [
+      0.000016,
+      "r"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000004,
+      "s"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000004,
+      "h"
+    ],
+    [
+      0.000003,
+      "i"
+    ],
+    [
+      0.000121,
+      "ghcharts-bundl"
+    ],
+    [
+      0.000009,
+      "e-2"
+    ],
+    [
+      0.000095,
+      ".1.5\u0007\u001b[3"
+    ],
+    [
+      0.000005,
+      "0m"
+    ],
+    [
+      0.000004,
+      "\u001b"
+    ],
+    [
+      0.000004,
+      "["
+    ],
+    [
+      0.000187,
+      "m\u000f"
+    ],
+    [
+      0.000153,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                           \r \r\u001b[32m~/D/gatling-charts-highcharts-bundle-2.1.5\u001b[30m\u001b[m\u000f $ \u001b[K"
+    ],
+    [
+      4.481299,
+      "man asciinema"
+    ],
+    [
+      0.000302,
+      "\u001b[13D\u001b[38;5;26mman\u001b[30m\u001b[m\u000f \u001b[38;5;39masciinema\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.150858,
+      "\u001b[13D\u001b[38;5;26mvim\u001b[30m\u001b[m\u000f \u001b[38;5;39m/usr/bin/asciinema \u001b[30m\u001b[m\u000f\u0008 "
+    ],
+    [
+      0.407488,
+      "\u001b[23D\u001b[38;5;26mwhi\u001b[30m\u001b[m\u000fc\u001b[38;5;39mh asciinema\u001b[30m\u001b[m\u000f\u001b[K"
+    ],
+    [
+      0.000506,
+      "\u001b[12D\u001b[38;5;26mch\u001b[30m\u001b[m\u000f \u001b[38;5;39masciinema\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.383912,
+      "\u001b[15D\u001b[38;5;26mfish_\u001b[30m\u001b[m\u000fu\u001b[38;5;39mpdate_completions \u001b[30m\u001b[m\u000f\u001b[19D\u001b[38;5;26mupdate_completions\u001b[30m\u001b[m\u000f "
+    ],
+    [
+      0.703202,
+      "\u001b[24D\u001b[38;5;26myaourt asciinema\u001b[30m\u001b[m\u000f\u001b[K"
+    ],
+    [
+      0.000298,
+      "\u001b[10D \u001b[38;5;39masciinema\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.392836,
+      "\u001b[16D\u001b[38;5;26mbin/ga\u001b[30m\u001b[m\u000ft\u001b[38;5;39mling.sh -ro ~/Desktop/grinder_logs_to_gatling/output/\u001b[30m\u001b[m\u000f\u001b[54D\u001b[38;5;26mtling.sh\u001b[30m\u001b[m\u000f \u001b[38;5;39m-ro\u001b[30m\u001b[m\u000f \u001b[36m\u001b[4m~\u001b[38;5;39m/Desktop/grinder_logs_to_gatling/output/\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      1.391176,
+      "\r\n\u001b[30m\u001b[m\u000f\u001b]0;bin/gatling.sh  /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5\u0007\u001b[30m\u001b[m\u000f"
+    ],
+    [
+      0.008964,
+      "GATLING_HOME is set to /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5\r\n"
+    ],
+    [
+      0.979035,
+      "09:24:27.627 [DEBUG] i.g.c.ZincCompiler$ - Inputs = {\r\n"
+    ],
+    [
+      0.000557,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -    classpath = {\r\n"
+    ],
+    [
+      0.000006,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5\r\n"
+    ],
+    [
+      0.000117,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-parser-combinators_2.11-1.0.3.jar\r\n"
+    ],
+    [
+      0.000120,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/opencsv-2.3.jar\r\n"
+    ],
+    [
+      0.000017,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/threetenbp-1.2.jar\r\n"
+    ],
+    [
+      0.000134,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-2.1.5.jar\r\n"
+    ],
+    [
+      0.000029,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jodd-core-3.6.5.jar\r\n"
+    ],
+    [
+      0.000138,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/concurrentlinkedhashmap-lru-1.4.2.jar\r\n"
+    ],
+    [
+      0.000031,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jdbc-2.1.5.jar\r\n"
+    ],
+    [
+      0.000137,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/async-http-client-1.9.18.jar\r\n"
+    ],
+    [
+      0.000078,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-compiler-2.11.6.jar\r\n"
+    ],
+    [
+      0.000122,
+      "09:24:27.631 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/logback-core-1.1.3.jar\r\n"
+    ],
+    [
+      0.000095,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-recorder-2.1.5.jar\r\n"
+    ],
+    [
+      0.000139,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/fastring_2.11-0.2.4.jar\r\n09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/netty-3.10.1.Final.jar\r\n"
+    ],
+    [
+      0.000194,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-swing_2.11-1.0.1.jar\r\n"
+    ],
+    [
+      0.000029,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jackson-core-2.5.1.jar\r\n"
+    ],
+    [
+      0.000121,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/config-1.2.1.jar\r\n"
+    ],
+    [
+      0.000008,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jms-2.1.5.jar\r\n"
+    ],
+    [
+      0.000198,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-highcharts-2.1.5.jar\r\n"
+    ],
+    [
+      0.000043,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-reflect-2.11.6.jar\r\n"
+    ],
+    [
+      0.000127,
+      "09:24:27.632 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/akka-actor_2.11-2.3.9.jar\r\n"
+    ],
+    [
+      0.000090,
+      "09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/bcpkix-jdk15on-1.52.jar\r\n"
+    ],
+    [
+      0.000172,
+      "09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/boon-0.32.jar\r\n09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jzlib-1.1.3.jar\r\n"
+    ],
+    [
+      0.000226,
+      "09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/bcprov-jdk15on-1.52.jar\r\n"
+    ],
+    [
+      0.000118,
+      "09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/Saxon-HE-9.6.0-5.jar\r\n"
+    ],
+    [
+      0.000245,
+      "09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/slf4j-api-1.7.12.jar\r\n"
+    ],
+    [
+      0.000052,
+      "09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-http-2.1.5.jar\r\n"
+    ],
+    [
+      0.000085,
+      "09:24:27.633 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/geronimo-jms_1.1_spec-1.1.1.jar\r\n"
+    ],
+    [
+      0.000120,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jsonpath_2.11-0.6.4.jar\r\n"
+    ],
+    [
+      0.000093,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-redis-2.1.5.jar\r\n"
+    ],
+    [
+      0.000026,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/redisclient_2.11-2.14.jar\r\n"
+    ],
+    [
+      0.000117,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scopt_2.11-3.3.0.jar\r\n"
+    ],
+    [
+      0.000037,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-logging_2.11-3.1.0.jar\r\n"
+    ],
+    [
+      0.000090,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-metrics-2.1.5.jar\r\n"
+    ],
+    [
+      0.000111,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/commons-pool-1.6.jar\r\n"
+    ],
+    [
+      0.000008,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-xml_2.11-1.0.3.jar\r\n"
+    ],
+    [
+      0.000134,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-core-2.1.5.jar\r\n"
+    ],
+    [
+      0.000007,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/logback-classic-1.1.3.jar\r\n"
+    ],
+    [
+      0.000128,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jodd-lagarto-3.6.5.jar\r\n"
+    ],
+    [
+      0.000100,
+      "09:24:27.634 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-library-2.11.6.jar\r\n"
+    ],
+    [
+      0.000126,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jodd-log-3.6.5.jar\r\n"
+    ],
+    [
+      0.000009,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-app-2.1.5.jar\r\n"
+    ],
+    [
+      0.000110,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jackson-annotations-2.5.0.jar\r\n"
+    ],
+    [
+      0.000017,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/t-digest-3.0.jar\r\n"
+    ],
+    [
+      0.000134,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jackson-databind-2.5.2.jar\r\n"
+    ],
+    [
+      0.000007,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -    }\r\n"
+    ],
+    [
+      0.000134,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -    sources = {\r\n"
+    ],
+    [
+      0.000008,
+      "09:24:27.635 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/BasicSimulation.scala\r\n"
+    ],
+    [
+      0.000789,
+      "09:24:27.636 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep04.scala\r\n"
+    ],
+    [
+      0.000157,
+      "09:24:27.636 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep02.scala\r\n"
+    ],
+    [
+      0.000149,
+      "09:24:27.636 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep05.scala\r\n"
+    ],
+    [
+      0.000160,
+      "09:24:27.636 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep01.scala\r\n"
+    ],
+    [
+      0.000132,
+      "09:24:27.636 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep03.scala\r\n"
+    ],
+    [
+      0.000600,
+      "09:24:27.637 [DEBUG] i.g.c.ZincCompiler$ -    }\r\n"
+    ],
+    [
+      0.000006,
+      "09:24:27.637 [DEBUG] i.g.c.ZincCompiler$ -    output directory = /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/target/test-classes\r\n"
+    ],
+    [
+      0.000127,
+      "09:24:27.637 [DEBUG] i.g.c.ZincCompiler$ -    scalac options = {\r\n"
+    ],
+    [
+      0.000009,
+      "09:24:27.637 [DEBUG] i.g.c.ZincCompiler$ -       -encoding\r\n"
+    ],
+    [
+      0.000159,
+      "09:24:27.637 [DEBUG] i.g.c.ZincCompiler$ -       utf-8\r\n"
+    ],
+    [
+      0.000008,
+      "09:24:27.637 [DEBUG] i.g.c.ZincCompiler$ -       -target:jvm-1.7\r\n"
+    ],
+    [
+      0.000173,
+      "09:24:27.637 [DEBUG] i.g.c.ZincCompiler$ -       -deprecation\r\n"
+    ],
+    [
+      0.000027,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -       -feature\r\n"
+    ],
+    [
+      0.000078,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -       -unchecked\r\n"
+    ],
+    [
+      0.000099,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -       -language:implicitConversions\r\n"
+    ],
+    [
+      0.000041,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -       -language:postfixOps\r\n"
+    ],
+    [
+      0.000106,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -    }\r\n"
+    ],
+    [
+      0.000110,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -    javac options = {}\r\n"
+    ],
+    [
+      0.000051,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -    cache file = /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/target/zincCache\r\n"
+    ],
+    [
+      0.000070,
+      "09:24:27.638 [DEBUG] i.g.c.ZincCompiler$ -    analysis map = {\r\n"
+    ],
+    [
+      0.009752,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-highcharts-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000013,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-xml_2.11-1.0.3.jar = Analysis: \r\n"
+    ],
+    [
+      0.000124,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-swing_2.11-1.0.1.jar = Analysis: \r\n"
+    ],
+    [
+      0.000108,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jackson-annotations-2.5.0.jar = Analysis: \r\n"
+    ],
+    [
+      0.000015,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jzlib-1.1.3.jar = Analysis: \r\n"
+    ],
+    [
+      0.000131,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-compiler-2.11.6.jar = Analysis: \r\n"
+    ],
+    [
+      0.000015,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jodd-log-3.6.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000161,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/slf4j-api-1.7.12.jar = Analysis: \r\n"
+    ],
+    [
+      0.000013,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000104,
+      "09:24:27.648 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/commons-pool-1.6.jar = Analysis: \r\n"
+    ],
+    [
+      0.000179,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-core-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000014,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jackson-databind-2.5.2.jar = Analysis: \r\n"
+    ],
+    [
+      0.000164,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/async-http-client-1.9.18.jar = Analysis: \r\n"
+    ],
+    [
+      0.000059,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5 = Analysis: \r\n"
+    ],
+    [
+      0.000117,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/akka-actor_2.11-2.3.9.jar = Analysis: \r\n"
+    ],
+    [
+      0.000037,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-logging_2.11-3.1.0.jar = Analysis: \r\n"
+    ],
+    [
+      0.000141,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/concurrentlinkedhashmap-lru-1.4.2.jar = Analysis: \r\n"
+    ],
+    [
+      0.000014,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/redisclient_2.11-2.14.jar = Analysis: \r\n"
+    ],
+    [
+      0.000151,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jms-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000014,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/logback-classic-1.1.3.jar = Analysis: \r\n"
+    ],
+    [
+      0.000138,
+      "09:24:27.649 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jodd-core-3.6.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000014,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-reflect-2.11.6.jar = Analysis: \r\n"
+    ],
+    [
+      0.000182,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-recorder-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000013,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/config-1.2.1.jar = Analysis: \r\n"
+    ],
+    [
+      0.000118,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jdbc-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000318,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/opencsv-2.3.jar = Analysis: \r\n"
+    ],
+    [
+      0.000014,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/logback-core-1.1.3.jar = Analysis: \r\n09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/boon-0.32.jar = Analysis: \r\n"
+    ],
+    [
+      0.000140,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/fastring_2.11-0.2.4.jar = Analysis: \r\n"
+    ],
+    [
+      0.000042,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-library-2.11.6.jar = Analysis: \r\n"
+    ],
+    [
+      0.000158,
+      "09:24:27.650 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/bcpkix-jdk15on-1.52.jar = Analysis: \r\n"
+    ],
+    [
+      0.000115,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/Saxon-HE-9.6.0-5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000013,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jackson-core-2.5.1.jar = Analysis: \r\n"
+    ],
+    [
+      0.000097,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-metrics-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000105,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/netty-3.10.1.Final.jar = Analysis: \r\n"
+    ],
+    [
+      0.000024,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scopt_2.11-3.3.0.jar = Analysis: \r\n"
+    ],
+    [
+      0.000140,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/t-digest-3.0.jar = Analysis: \r\n"
+    ],
+    [
+      0.000038,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/scala-parser-combinators_2.11-1.0.3.jar = Analysis: \r\n"
+    ],
+    [
+      0.000095,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/bcprov-jdk15on-1.52.jar = Analysis: \r\n"
+    ],
+    [
+      0.000084,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/threetenbp-1.2.jar = Analysis: \r\n"
+    ],
+    [
+      0.000051,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-http-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000084,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/geronimo-jms_1.1_spec-1.1.1.jar = Analysis: \r\n"
+    ],
+    [
+      0.000115,
+      "09:24:27.651 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-redis-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000103,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jodd-lagarto-3.6.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000026,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/gatling-app-2.1.5.jar = Analysis: \r\n"
+    ],
+    [
+      0.000136,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -       /home/fred/Desktop/gatling-charts-highcharts-bundle-2.1.5/lib/jsonpath_2.11-0.6.4.jar = Analysis: \r\n"
+    ],
+    [
+      0.000013,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -    }\r\n"
+    ],
+    [
+      0.000145,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -    force clean = false\r\n"
+    ],
+    [
+      0.000012,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -    java only = false\r\n"
+    ],
+    [
+      0.000116,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -    compile order = Mixed\r\n"
+    ],
+    [
+      0.000077,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -    incremental compiler options = {\r\n"
+    ],
+    [
+      0.000095,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -       transitive step = 3\r\n"
+    ],
+    [
+      0.000100,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -       recompile all fraction = 0.5\r\n"
+    ],
+    [
+      0.000099,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -       debug relations = false\r\n"
+    ],
+    [
+      0.000056,
+      "09:24:27.652 [DEBUG] i.g.c.ZincCompiler$ -       debug api = false\r\n"
+    ],
+    [
+      0.000119,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -       api dump = \r\n"
+    ],
+    [
+      0.000072,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -       api diff context size = 5\r\n"
+    ],
+    [
+      0.000080,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -       transactional = false\r\n"
+    ],
+    [
+      0.000115,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -       backup directory = \r\n"
+    ],
+    [
+      0.000012,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -       recompile on macro def = true\r\n"
+    ],
+    [
+      0.000142,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -       name hashing = true\r\n"
+    ],
+    [
+      0.000176,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -    }\r\n"
+    ],
+    [
+      0.000013,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -    output relations = \r\n"
+    ],
+    [
+      0.000107,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ -    output products = \r\n"
+    ],
+    [
+      0.000115,
+      "09:24:27.653 [DEBUG] i.g.c.ZincCompiler$ - }\r\n"
+    ],
+    [
+      0.443231,
+      "09:24:28.096 [DEBUG] i.g.c.ZincCompiler$ - \r\nInitial source changes: \r\n\tremoved:Set()\r\n\tadded: Set()\r\n\tmodified: Set()\r\nRemoved products: Set()\r\nExternal API changes: API Changes: Set()\r\nModified binary dependencies: Set()\r\nInitial directly invalidated sources: Set()\r\n\r\nSources indirectly invalidated by:\r\n\tproduct: Set()\r\n\tbinary dep: Set()\r\n\texternal source: Set()\r\n"
+    ],
+    [
+      0.000573,
+      "09:24:28.097 [DEBUG] i.g.c.ZincCompiler$ - All initially invalidated sources: Set()\r\n\r\n"
+    ],
+    [
+      0.008146,
+      "Picked up _JAVA_OPTIONS: -Djava.net.preferIPv4Stack=true\r\n"
+    ],
+    [
+      0.823719,
+      "Parsing log file(s)...\r\n"
+    ],
+    [
+      0.019607,
+      "09:24:28.945 [INFO ] i.g.c.r.r.FileDataReader - Collected List(/home/fred/Desktop/grinder_logs_to_gatling/output/derp.log) from /home/fred/Desktop/grinder_logs_to_gatling/output/\r\n"
+    ],
+    [
+      0.011789,
+      "09:24:28.960 [INFO ] i.g.c.r.r.FileDataReader - First pass\r\n"
+    ],
+    [
+      0.167716,
+      "09:24:29.128 [INFO ] i.g.c.r.r.FileDataReader - First pass done: read 14000 lines\r\n"
+    ],
+    [
+      0.001384,
+      "Exception in thread \"main\" "
+    ],
+    [
+      0.000574,
+      "java.lang.reflect.InvocationTargetException\r\n"
+    ],
+    [
+      0.000123,
+      "\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n"
+    ],
+    [
+      0.000021,
+      "\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)"
+    ],
+    [
+      0.000058,
+      "\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\tat java.lang.reflect.Constructor.newInstance(Constructor.java:526)\r\n"
+    ],
+    [
+      0.000006,
+      "\tat io.gatling.core.result.reader.DataReader$.newInstance(DataReader.scala:31)"
+    ],
+    [
+      0.000046,
+      "\r\n\tat io.gatling.app.Gatling.start(Gatling.scala:77)"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\tat io.gatling.app.Gatling$.fromArgs(Gatling.scala:59)\r\n"
+    ],
+    [
+      0.000054,
+      "\tat io.gatling.app.Gatling$.main(Gatling.scala:44)\r\n\tat io.gatling.app.Gatling.main(Gatling.scala)"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "Caused by: java.util.NoSuchElementException: head of empty list\r\n\tat scala.collection.immutable.Nil$.head(List.scala:420)\r\n"
+    ],
+    [
+      0.000011,
+      "\tat scala.collection.immutable.Nil$.head(List.scala:417)"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\tat scala.collection.generic.TraversableForwarder$class.head(TraversableForwarder.scala:56)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\tat scala.collection.mutable.ListBuffer.head(ListBuffer.scala:45)"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\tat io.gatling.charts.result.reader.FileDataReader.io$gatling$charts$result$reader$FileDataReader$$firstPass(FileDataReader.scala:120)\r\n"
+    ],
+    [
+      0.000077,
+      "\tat io.gatling.charts.result.reader.FileDataReader$$anonfun$6.apply(FileDataReader.scala:123)\r\n"
+    ],
+    [
+      0.000013,
+      "\tat io.gatling.charts.result.reader.FileDataReader$$anonfun$6.apply(FileDataReader.scala:123)"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\tat io.gatling.charts.result.reader.FileDataReader.doWithInputFiles(FileDataReader.scala:65)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\tat io.gatling.charts.result.reader.FileDataReader.\u003cinit\u003e(FileDataReader.scala:123)\r\n"
+    ],
+    [
+      0.000105,
+      "\t... 9 more\r\n"
+    ],
+    [
+      0.007283,
+      "\u001b]0;fish  /h"
+    ],
+    [
+      0.000015,
+      "ome/fred/De"
+    ],
+    [
+      0.000073,
+      "sk"
+    ],
+    [
+      0.000010,
+      "t"
+    ],
+    [
+      0.000009,
+      "op"
+    ],
+    [
+      0.000009,
+      "/g"
+    ],
+    [
+      0.000009,
+      "at"
+    ],
+    [
+      0.000009,
+      "l"
+    ],
+    [
+      0.000009,
+      "in"
+    ],
+    [
+      0.000010,
+      "g"
+    ],
+    [
+      0.000061,
+      "-c"
+    ],
+    [
+      0.000009,
+      "ha"
+    ],
+    [
+      0.000009,
+      "r"
+    ],
+    [
+      0.000009,
+      "ts"
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      0.000009,
+      "hi"
+    ],
+    [
+      0.000009,
+      "gh"
+    ],
+    [
+      0.000061,
+      "c"
+    ],
+    [
+      0.000009,
+      "ha"
+    ],
+    [
+      0.000010,
+      "rt"
+    ],
+    [
+      0.000010,
+      "s"
+    ],
+    [
+      0.000010,
+      "-b"
+    ],
+    [
+      0.000077,
+      "un"
+    ],
+    [
+      0.000008,
+      "dl"
+    ],
+    [
+      0.000009,
+      "e"
+    ],
+    [
+      0.000009,
+      "-2"
+    ],
+    [
+      0.000009,
+      "."
+    ],
+    [
+      0.000010,
+      "1."
+    ],
+    [
+      0.000009,
+      "5"
+    ],
+    [
+      0.000064,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b"
+    ],
+    [
+      0.000010,
+      "["
+    ],
+    [
+      0.000009,
+      "30"
+    ],
+    [
+      0.000010,
+      "m"
+    ],
+    [
+      0.000010,
+      "\u001b["
+    ],
+    [
+      0.000009,
+      "m\u000f"
+    ],
+    [
+      0.000195,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000239,
+      "\u001b[32m~/D/gatling-charts-highcharts-bundle-2.1.5\u001b[30m\u001b[m\u000f \u001b[1m\u001b[31m$ \u001b[K"
+    ],
+    [
+      1.363482,
+      "\r\n\u001b[30m\u001b[m\u000f\r\n\u001b[30m\u001b[m\u000f"
+    ]
+  ]
+}
