@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 16.696227,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005879,
+      "bash: shopt: globstar: invalid shell option name\r\n"
+    ],
+    [
+      0.002188,
+      "stat: illegal option -- c\r\nusage: stat [-FlLnqrsx] [-f format] [-t timefmt] [file ...]\r\n"
+    ],
+    [
+      0.002681,
+      "stat: illegal option -- c\r\nusage: stat [-FlLnqrsx] [-f format] [-t timefmt] [file ...]\r\n"
+    ],
+    [
+      0.000309,
+      "bash: [: : unary operator expected\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000013,
+      "~$ "
+    ],
+    [
+      2.060913,
+      "l"
+    ],
+    [
+      0.103730,
+      "s"
+    ],
+    [
+      0.639792,
+      "\r\n"
+    ],
+    [
+      0.004170,
+      "ls: illegal option -- -\r\nusage: ls [-ABCFGHLOPRSTUWabcdefghiklmnopqrstuwx1] [file ...]\r\n"
+    ],
+    [
+      0.002468,
+      "stat: illegal option -- c\r\nusage: stat [-FlLnqrsx] [-f format] [-t timefmt] [file ...]\r\n"
+    ],
+    [
+      0.000354,
+      "bash: [: : unary operator expected\r\n"
+    ],
+    [
+      0.000058,
+      "~$ "
+    ],
+    [
+      7.561187,
+      "c"
+    ],
+    [
+      0.087639,
+      "d"
+    ],
+    [
+      0.544180,
+      " "
+    ],
+    [
+      0.640327,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      ".CFUserTextEncoding   .qt/                  Library/\r\n"
+    ],
+    [
+      0.000044,
+      ".DS_Store             .rnd                  Movies/\r\n"
+    ],
+    [
+      0.000008,
+      ".Trash/               .ssh/                 Music/\r\n"
+    ],
+    [
+      0.000022,
+      ".account              .tmux.conf            Pictures/\r\n"
+    ],
+    [
+      0.000021,
+      ".asciinema/           .vim/                 Public/\r\n"
+    ],
+    [
+      0.000018,
+      ".bash_history         .viminfo              VirtualBox VMs/\r\n"
+    ],
+    [
+      0.000017,
+      ".bashrc               .vimrc                box/\r\n"
+    ],
+    [
+      0.000017,
+      ".cache/               Applications/         code/\r\n"
+    ],
+    [
+      0.000018,
+      ".inputrc              Chess Database/       cscope_gen.sh\r\n"
+    ],
+    [
+      0.000025,
+      ".internet_chess_club/ Desktop/              dotfiles/\r\n"
+    ],
+    [
+      0.000019,
+      ".nx/                  Documents/            vack.py\r\n"
+    ],
+    [
+      0.000049,
+      ".profile              Downloads/            workspace/\r\n~$ cd "
+    ],
+    [
+      1.279182,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167882,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.162687,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157815,
+      "\u0007"
+    ],
+    [
+      0.647906,
+      "l"
+    ],
+    [
+      0.127688,
+      "s"
+    ],
+    [
+      0.271814,
+      "\r\n"
+    ],
+    [
+      0.003011,
+      "ls: illegal option -- -\r\nusage: ls [-ABCFGHLOPRSTUWabcdefghiklmnopqrstuwx1] [file ...]\r\n"
+    ],
+    [
+      0.002215,
+      "stat: illegal option -- c\r\nusage: stat [-FlLnqrsx] [-f format] [-t timefmt] [file ...]\r\n"
+    ],
+    [
+      0.000370,
+      "bash: [: : unary operator expected\r\n"
+    ],
+    [
+      0.000057,
+      "~$ "
+    ],
+    [
+      2.218706,
+      "exit\r\n"
+    ]
+  ]
+}
