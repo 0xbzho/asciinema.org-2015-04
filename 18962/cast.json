@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 20,
+  "duration": 45.501336,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.113551,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000531,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[JKristys-MacBook-Air% "
+    ],
+    [
+      0.000020,
+      "\u001b[K"
+    ],
+    [
+      11.889204,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.009067,
+      "\u0008\u001b[4ms\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.295626,
+      "\u0008\u0008\u001b[4ms\u001b[4mp\u001b[4me\u001b[24m"
+    ],
+    [
+      0.176057,
+      "\u0008\u001b[4me\u001b[4me\u001b[24m"
+    ],
+    [
+      0.176054,
+      "\u0008\u001b[4me\u001b[4md\u001b[24m"
+    ],
+    [
+      0.240017,
+      "\u0008\u001b[4md\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.047303,
+      "\u0008\u001b[4mt\u001b[4me\u001b[24m"
+    ],
+    [
+      0.192956,
+      "\u0008\u001b[4me\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.095751,
+      "\u001b[8D\u001b[24m\u001b[32ms\u001b[24m\u001b[32mp\u001b[24m\u001b[32me\u001b[24m\u001b[32me\u001b[24m\u001b[32md\u001b[24m\u001b[32mt\u001b[24m\u001b[32me\u001b[24m\u001b[32ms\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.560044,
+      "\u001b[9D\u001b[39m\u001b[4ms\u001b[39m\u001b[4mp\u001b[39m\u001b[4me\u001b[39m\u001b[4me\u001b[39m\u001b[4md\u001b[39m\u001b[4mt\u001b[39m\u001b[4me\u001b[39m\u001b[4ms\u001b[39m\u001b[4mt\u001b[4m-\u001b[24m"
+    ],
+    [
+      0.248199,
+      "\u0008\u001b[4m-\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.063782,
+      "\u0008\u001b[4mc\u001b[4ml\u001b[24m"
+    ],
+    [
+      0.167928,
+      "\u001b[12D\u001b[24m\u001b[32ms\u001b[24m\u001b[32mp\u001b[24m\u001b[32me\u001b[24m\u001b[32me\u001b[24m\u001b[32md\u001b[24m\u001b[32mt\u001b[24m\u001b[32me\u001b[24m\u001b[32ms\u001b[24m\u001b[32mt\u001b[24m\u001b[32m-\u001b[24m\u001b[32mc\u001b[24m\u001b[32ml\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.911935,
+      " "
+    ],
+    [
+      1.248250,
+      "-"
+    ],
+    [
+      0.176001,
+      "-"
+    ],
+    [
+      1.632047,
+      "s"
+    ],
+    [
+      0.072013,
+      "i"
+    ],
+    [
+      0.175996,
+      "m"
+    ],
+    [
+      0.160259,
+      "p"
+    ],
+    [
+      0.199780,
+      "l"
+    ],
+    [
+      0.119897,
+      "e"
+    ],
+    [
+      0.157188,
+      "\r\r\n"
+    ],
+    [
+      0.211269,
+      "Traceback (most recent call last):\r\n  File \"/usr/local/bin/speedtest-cli\", line 9, in \u003cmodule\u003e\r\n    load_entry_point('speedtest-cli==0.3.2', 'console_scripts', 'speedtest-cli')()\r\n"
+    ],
+    [
+      0.000025,
+      "  File \"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py\", line 357, in load_entry_point\r\n"
+    ],
+    [
+      0.000808,
+      "    return get_distribution(dist).load_entry_point(group, name)\r\n  File \"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py\", line 2394, in load_entry_point\r\n"
+    ],
+    [
+      0.001034,
+      "    return ep.load()\r\n  File \"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py\", line 2108, in load\r\n"
+    ],
+    [
+      0.000466,
+      "    entry = __import__(self.module_name, globals(),globals(), ['__name__'])\r\n"
+    ],
+    [
+      0.000008,
+      "ImportError: "
+    ],
+    [
+      0.000016,
+      "No module named speedtest_cli\r\n"
+    ],
+    [
+      0.004260,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000045,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[JKristys-MacBook-Air% "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.897319,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.072808,
+      "\u0008\u001b[24m\u001b[32ms\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.121019,
+      "\u0008\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.059562,
+      "\u0008\u0008\u0008\u001b[0m\u001b[4m\u001b[32ms\u001b[0m\u001b[4m\u001b[32mu\u001b[0m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.119896,
+      " "
+    ],
+    [
+      0.714643,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.218417,
+      "\u0008\u001b[4ms\u001b[4me\u001b[24m"
+    ],
+    [
+      0.365497,
+      "\u0008\u0008\u001b[4ms\u001b[24m\u001b[24m \u0008"
+    ],
+    [
+      0.256172,
+      "\u0008\u001b[4ms\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.104022,
+      "\u0008\u001b[4mp\u001b[4me\u001b[24m"
+    ],
+    [
+      0.167989,
+      "\u0008\u001b[4me\u001b[4me\u001b[24m"
+    ],
+    [
+      0.175998,
+      "\u0008\u001b[4me\u001b[4md\u001b[24m"
+    ],
+    [
+      0.248037,
+      "\u0008\u001b[4md\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.059320,
+      "\u0008\u001b[4mt\u001b[4me\u001b[24m"
+    ],
+    [
+      0.084660,
+      "\u0008\u001b[4me\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.118802,
+      "\u001b[8D\u001b[24m\u001b[32ms\u001b[24m\u001b[32mp\u001b[24m\u001b[32me\u001b[24m\u001b[32me\u001b[24m\u001b[32md\u001b[24m\u001b[32mt\u001b[24m\u001b[32me\u001b[24m\u001b[32ms\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.641225,
+      "\u001b[9D\u001b[39m\u001b[4ms\u001b[39m\u001b[4mp\u001b[39m\u001b[4me\u001b[39m\u001b[4me\u001b[39m\u001b[4md\u001b[39m\u001b[4mt\u001b[39m\u001b[4me\u001b[39m\u001b[4ms\u001b[39m\u001b[4mt\u001b[4m-\u001b[24m"
+    ],
+    [
+      0.143915,
+      "\u0008\u001b[4m-\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.104848,
+      "\u0008\u001b[4mc\u001b[4ml\u001b[24m"
+    ],
+    [
+      0.159021,
+      "\u001b[12D\u001b[24m\u001b[32ms\u001b[24m\u001b[32mp\u001b[24m\u001b[32me\u001b[24m\u001b[32me\u001b[24m\u001b[32md\u001b[24m\u001b[32mt\u001b[24m\u001b[32me\u001b[24m\u001b[32ms\u001b[24m\u001b[32mt\u001b[24m\u001b[32m-\u001b[24m\u001b[32mc\u001b[24m\u001b[32ml\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.335915,
+      " "
+    ],
+    [
+      1.080192,
+      "-"
+    ],
+    [
+      0.175906,
+      "-"
+    ],
+    [
+      0.144077,
+      "s"
+    ],
+    [
+      0.088023,
+      "i"
+    ],
+    [
+      0.192085,
+      "m"
+    ],
+    [
+      0.159895,
+      "p"
+    ],
+    [
+      0.192069,
+      "l"
+    ],
+    [
+      0.111983,
+      "e"
+    ],
+    [
+      0.132873,
+      "\r\r\n"
+    ],
+    [
+      0.024427,
+      "Password:"
+    ],
+    [
+      5.063291,
+      "\r\n"
+    ],
+    [
+      0.174680,
+      "Traceback (most recent call last):\r\n  File \"/usr/local/bin/speedtest-cli\", line 9, in \u003cmodule\u003e\r\n    load_entry_point('speedtest-cli==0.3.2', 'console_scripts', 'speedtest-cli')()\r\n"
+    ],
+    [
+      0.000013,
+      "  File \"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py\", line 357, in load_entry_point\r\n"
+    ],
+    [
+      0.000099,
+      "    return get_distribution(dist).load_entry_point(group, name)\r\n"
+    ],
+    [
+      0.000009,
+      "  File \"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py\", line 2394, in load_entry_point\r\n"
+    ],
+    [
+      0.000911,
+      "    return ep.load()\r\n  File \"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py\", line 2108, in load\r\n"
+    ],
+    [
+      0.000932,
+      "    entry = __import__(self.module_name, globals(),globals(), ['__name__'])\r\nImportError: No module named speedtest_cli"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.004682,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000058,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[JKristys-MacBook-Air% "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      7.758556,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      1.095318,
+      "\u0008\u001b[24m \u0008"
+    ],
+    [
+      4.583620,
+      "\r\r\n"
+    ]
+  ]
+}
