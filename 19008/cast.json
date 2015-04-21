@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 263,
+  "height": 78,
+  "duration": 4.289469,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/sh"
+  },
+  "stdout": [
+    [
+      0.005885,
+      "$ "
+    ],
+    [
+      4.283468,
+      "\r\n"
+    ]
+  ]
+}
