@@ -1,0 +1,602 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 42,
+  "duration": 33.702606,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.095512,
+      "\u001b]0;root@kawaii: /home/juden\u0007\u001b[01;31mroot@kawaii\u001b[00m:\u001b[01;34m/home/juden\u001b[00m# "
+    ],
+    [
+      2.511795,
+      "c"
+    ],
+    [
+      0.127830,
+      "l"
+    ],
+    [
+      0.200019,
+      "e"
+    ],
+    [
+      0.096375,
+      "a"
+    ],
+    [
+      0.087935,
+      "r"
+    ],
+    [
+      0.119746,
+      "\r\n"
+    ],
+    [
+      0.024441,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000871,
+      "\u001b]0;root@kawaii: /home/juden\u0007\u001b[01;31mroot@kawaii\u001b[00m:\u001b[01;34m/home/juden\u001b[00m# "
+    ],
+    [
+      2.550781,
+      "r"
+    ],
+    [
+      0.055999,
+      "2"
+    ],
+    [
+      0.655457,
+      " "
+    ],
+    [
+      0.336411,
+      "."
+    ],
+    [
+      0.183583,
+      "/"
+    ],
+    [
+      0.248552,
+      "d"
+    ],
+    [
+      0.063403,
+      "f"
+    ],
+    [
+      0.096406,
+      "o"
+    ],
+    [
+      0.119287,
+      "\u0007"
+    ],
+    [
+      0.448193,
+      "_"
+    ],
+    [
+      0.100332,
+      "401000lol.exe "
+    ],
+    [
+      1.091879,
+      "\r\n"
+    ],
+    [
+      0.048920,
+      "Warning: Invalid import directory size: 0x81\r\nError: read (resource directory)\r\n"
+    ],
+    [
+      0.182851,
+      " -- Sarah Connor?\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      2.104203,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000132,
+      "\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /\r\u001b[33m[0x00401000]\u003e\u001b[0m /"
+    ],
+    [
+      0.080281,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c\r\u001b[33m[0x00401000]\u003e\u001b[0m /c"
+    ],
+    [
+      0.143759,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c \r\u001b[33m[0x00401000]\u003e\u001b[0m /c "
+    ],
+    [
+      0.064412,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c c\r\u001b[33m[0x00401000]\u003e\u001b[0m /c c"
+    ],
+    [
+      0.079676,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c ca\r\u001b[33m[0x00401000]\u003e\u001b[0m /c ca"
+    ],
+    [
+      0.055837,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c cal\r\u001b[33m[0x00401000]\u003e\u001b[0m /c cal"
+    ],
+    [
+      0.136214,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c call\r\u001b[33m[0x00401000]\u003e\u001b[0m /c call"
+    ],
+    [
+      0.056113,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c call\r\n"
+    ],
+    [
+      2.049575,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      0.558139,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m a\r\u001b[33m[0x00401000]\u003e\u001b[0m a"
+    ],
+    [
+      0.152404,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m aa\r\u001b[33m[0x00401000]\u003e\u001b[0m aa"
+    ],
+    [
+      0.047288,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m aa\r\n"
+    ],
+    [
+      0.000751,
+      "\u001b[0K\r\u001b[0K\r0x00401000 \u003e 0x0040100d\r"
+    ],
+    [
+      0.000182,
+      "\u001b[0K\r\u001b[0K\r0x0040100d \u003e 0x00401010\r"
+    ],
+    [
+      0.031340,
+      "\u001b[0K\r\u001b[0K\r0x00401570 \u003e 0x0040167b\r"
+    ],
+    [
+      0.003159,
+      "\u001b[0K\r\u001b[0K\r0x000119a0 \u003e 0x00011a66\r"
+    ],
+    [
+      0.002686,
+      "\u001b[0K\r\u001b[0K\r0x000005b0 \u003e 0x0000062c\r"
+    ],
+    [
+      0.012848,
+      "\u001b[0K\r\u001b[0K\r0x000007a0 \u003e 0x000007ea\r"
+    ],
+    [
+      0.001068,
+      "\u001b[0K\r\u001b[0K\r0x000007f0 \u003e 0x00000809\r"
+    ],
+    [
+      0.008907,
+      "\u001b[0K\r\u001b[0K\r0x000009a1 \u003e 0x000009d2\r"
+    ],
+    [
+      0.003807,
+      "\u001b[0K\r\u001b[0K\r0x00000a50 \u003e 0x00000a8a\r"
+    ],
+    [
+      0.027311,
+      "\u001b[0K\r\u001b[0K\r0x0000aef0 \u003e 0x0000af53\r"
+    ],
+    [
+      0.010989,
+      "\u001b[0K\r\u001b[0K\r0x0000a7b0 \u003e 0x0000a86e\r"
+    ],
+    [
+      0.031447,
+      "\u001b[0K\r\u001b[0K\r0x0000aef0 \u003e 0x0000af53\r"
+    ],
+    [
+      0.110912,
+      "\u001b[0K\r\u001b[0K\r0x00011a70 \u003e 0x00011a9c\r"
+    ],
+    [
+      0.015210,
+      "\u001b[0K\r\u001b[0K\r"
+    ],
+    [
+      0.000006,
+      "0x00011f18 \u003e 0x00011f5e\r"
+    ],
+    [
+      0.004815,
+      "\u001b[0K\r\u001b[0K\r0x00011f60 \u003e 0x000120fa\r"
+    ],
+    [
+      0.000100,
+      "\u001b[0K\r\u001b[0K\r0x0023b1a0 \u003e 0x0023b1a7\r"
+    ],
+    [
+      0.000758,
+      "\u001b[0K\r\u001b[0K\r0x0023b1b0 \u003e 0x0023b1cb\r"
+    ],
+    [
+      0.000496,
+      "\u001b[0K\r\u001b[0K\r0x0023b1d0 \u003e 0x0023b1ee\r"
+    ],
+    [
+      0.000727,
+      "\u001b[0K\r\u001b[0K\r0x0023b1f0 \u003e 0x0023b21b\r"
+    ],
+    [
+      0.000813,
+      "\u001b[0K\r\u001b[0K\r0x0023b220 \u003e 0x0023b259\r"
+    ],
+    [
+      0.001829,
+      "\u001b[0K\r\u001b[0K\r0x0023b290 \u003e 0x0023b2ba\r"
+    ],
+    [
+      0.006484,
+      "\u001b[0K\r\u001b[0K\r0x000053f0 \u003e 0x0000543c\r"
+    ],
+    [
+      0.002329,
+      "\u001b[0K\r\u001b[0K\r0x00005490 \u003e 0x000055f7\r"
+    ],
+    [
+      0.000371,
+      "\u001b[0K\r\u001b[0K\r0x000055f8 \u003e 0x0000560e\r"
+    ],
+    [
+      0.000987,
+      "\u001b[0K\r\u001b[0K\r0x00005610 \u003e 0x00005663\r"
+    ],
+    [
+      0.004594,
+      "\u001b[0K\r\u001b[0K\r0x00005670 \u003e 0x00005a77\r"
+    ],
+    [
+      0.003312,
+      "\u001b[0K\r\u001b[0K\r0x00003490 \u003e 0x000034dd\r"
+    ],
+    [
+      0.000798,
+      "\u001b[0K\r\u001b[0K\r0x000034dd \u003e 0x0000350c\r"
+    ],
+    [
+      0.000321,
+      "Function too big at 0x17dd150\r\n"
+    ],
+    [
+      0.001390,
+      "\u001b[0K\r\u001b[0K\r0x00003530 \u003e 0x0000355d\r"
+    ],
+    [
+      0.002475,
+      "\u001b[0K\r\u001b[0K\r0x000035b0 \u003e 0x00003610\r"
+    ],
+    [
+      0.002145,
+      "\u001b[0K\r\u001b[0K\r0x00004530 \u003e 0x0000459c\r"
+    ],
+    [
+      0.000959,
+      "\u001b[0K\r\u001b[0K\r0x000045a0 \u003e 0x000045d9\r"
+    ],
+    [
+      0.010066,
+      "\u001b[0K\r\u001b[0K\r0x00003c90 \u003e 0x00003efa\r"
+    ],
+    [
+      0.002070,
+      "\u001b[0K\r\u001b[0K\r0x00003f00 \u003e 0x00003f70\r"
+    ],
+    [
+      0.003589,
+      "\u001b[0K\r\u001b[0K\r0x00003f70 \u003e 0x000040dc\r"
+    ],
+    [
+      0.000285,
+      "Function too big at 0x165cb50\r\n"
+    ],
+    [
+      0.011038,
+      "Function too big at 0x1bb76e1\r\n"
+    ],
+    [
+      0.002183,
+      "\u001b[0K\r\u001b[0K\r0x000120fa \u003e 0x00012128\r"
+    ],
+    [
+      0.005768,
+      "\u001b[0K\r\u001b[0K\r0x000122f8 \u003e 0x00012324\r"
+    ],
+    [
+      0.013963,
+      "\u001b[0K\r\u001b[0K\r0x00012330 \u003e 0x00012b19\r"
+    ],
+    [
+      0.009448,
+      "\u001b[0K\r\u001b[0K\r0x00012b6f \u003e 0x00013191\r"
+    ],
+    [
+      0.024386,
+      "\u001b[0K\r\u001b[0K\r0x00013540 \u003e 0x00013696\r"
+    ],
+    [
+      0.000113,
+      "\u001b[0K\r\u001b[0K\r0x00012b19 \u003e 0x00012b27\r"
+    ],
+    [
+      0.009707,
+      "\u001b[0K\r\u001b[0K\r0x00012b27 \u003e 0x00013191\r"
+    ],
+    [
+      0.001806,
+      "\u001b[0K\r\u001b[0K\r0x00401680 \u003e 0x004016fd\r"
+    ],
+    [
+      0.002145,
+      "\u001b[0K\r\u001b[0K\r0x00400ee0 \u003e 0x00400f96\r"
+    ],
+    [
+      0.000984,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000004,
+      "\u001b[0K\r0x00400fa0 \u003e 0x00400fc1\r"
+    ],
+    [
+      0.006476,
+      "\u001b[0K\r\u001b[0K\r0x00400ee0 \u003e 0x00400f96\r"
+    ],
+    [
+      0.000860,
+      "\u001b[0K\r\u001b[0K\r0x00400fa0 \u003e 0x00400fc1\r"
+    ],
+    [
+      0.022303,
+      "\u001b[0K\r\u001b[0K\r0x00401570 \u003e 0x0040167b\r"
+    ],
+    [
+      0.001572,
+      "\u001b[0K\r\u001b[0K\r0x00401680 \u003e 0x004016fd\r"
+    ],
+    [
+      0.018085,
+      "\u001b[0K\r\u001b[0K\r0x00401ad0 \u003e 0x00401b01\r"
+    ],
+    [
+      0.022110,
+      "\u001b[0K\r\u001b[0K\r0x00401570 \u003e 0x0040167b\r"
+    ],
+    [
+      0.001963,
+      "\u001b[0K\r\u001b[0K\r0x00401680 \u003e 0x004016fd\r"
+    ],
+    [
+      0.016042,
+      "\u001b[0K\r\u001b[0K\r0x00401ad0 \u003e 0x00401b01\r"
+    ],
+    [
+      0.001288,
+      "\u001b[0K\r\u001b[0K\r0x00401b10 \u003e 0x00401b41\r"
+    ],
+    [
+      0.009601,
+      "\u001b[0K\r\u001b[0K\r0x00401d00 \u003e 0x00401dc2\r"
+    ],
+    [
+      0.017141,
+      "\u001b[0K\r\u001b[0K\r0x00401ad0 \u003e 0x00401b01\r"
+    ],
+    [
+      0.001181,
+      "\u001b[0K\r\u001b[0K\r0x00401b10 \u003e 0x00401b41\r"
+    ],
+    [
+      0.009547,
+      "\u001b[0K\r\u001b[0K\r0x00401d00 \u003e 0x00401dc2\r"
+    ],
+    [
+      0.001922,
+      "\u001b[0K\r\u001b[0K\r0x00401dd0 \u003e 0x00401e55\r"
+    ],
+    [
+      0.005740,
+      "\u001b[0K\r\u001b[0K\r0x00401f70 \u003e 0x00401fa5\r"
+    ],
+    [
+      0.002063,
+      "\u001b[0K\r\u001b[0K\r0x00401fb0 \u003e 0x00402043\r"
+    ],
+    [
+      0.001956,
+      "\u001b[0K\r\u001b[0K\r0x00402050 \u003e 0x004020cc\r"
+    ],
+    [
+      0.014665,
+      "\u001b[0K\r\u001b[0K\r\u001b[0K\r\u001b[33m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      0.933195,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /\r\u001b[33m[0x00401000]\u003e\u001b[0m /"
+    ],
+    [
+      0.286594,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c\r\u001b[33m[0x00401000]\u003e\u001b[0m /c"
+    ],
+    [
+      0.112656,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c \r\u001b[33m[0x00401000]\u003e\u001b[0m /c "
+    ],
+    [
+      0.119254,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c j\r\u001b[33m[0x00401000]\u003e\u001b[0m /c j"
+    ],
+    [
+      0.448426,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c jm\r\u001b[33m[0x00401000]\u003e\u001b[0m /c jm"
+    ],
+    [
+      0.111697,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c jmp\r\u001b[33m[0x00401000]\u003e\u001b[0m /c jmp"
+    ],
+    [
+      0.080048,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c jmp\r\n"
+    ],
+    [
+      2.043464,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      0.556053,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /\r\u001b[33m[0x00401000]\u003e\u001b[0m /"
+    ],
+    [
+      0.095988,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c\r\u001b[33m[0x00401000]\u003e\u001b[0m /c"
+    ],
+    [
+      0.136266,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c \r\u001b[33m[0x00401000]\u003e\u001b[0m /c "
+    ],
+    [
+      0.088770,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000009,
+      "\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c c\r\u001b[33m[0x00401000]\u003e\u001b[0m /c c"
+    ],
+    [
+      0.055651,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c ca\r\u001b[33m[0x00401000]\u003e\u001b[0m /c ca"
+    ],
+    [
+      0.055757,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c cal\r\u001b[33m[0x00401000]\u003e\u001b[0m /c cal"
+    ],
+    [
+      0.151911,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c call\r\u001b[33m[0x00401000]\u003e\u001b[0m /c call"
+    ],
+    [
+      0.072555,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m /c call\r\n"
+    ],
+    [
+      2.059964,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      2.707657,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p\r\u001b[33m[0x00401000]\u003e\u001b[0m p"
+    ],
+    [
+      0.224408,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p \r\u001b[33m[0x00401000]\u003e\u001b[0m p "
+    ],
+    [
+      0.200056,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p 3\r\u001b[33m[0x00401000]\u003e\u001b[0m p 3"
+    ],
+    [
+      0.087440,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p 30\r\u001b[33m[0x00401000]\u003e\u001b[0m p 30"
+    ],
+    [
+      0.272384,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p 30\r\n|\u001b[32mUsage: p[=68abcdDfiImrstuxz] [arg|len]\u001b[0m\r\n| p=\u001b[33m[bep?] [blks]\u001b[0m               \u001b[32mshow entropy/printable chars/chars bars\u001b[0m\r\n| p2\u001b[33m [len]\u001b[0m                      \u001b[32m8x8 2bpp-tiles\u001b[0m\r\n| p3\u001b[33m [file]\u001b[0m                     \u001b[32mprint stereogram (3D)\u001b[0m\r\n| p6\u001b[33m[de] [len]\u001b[0m                  \u001b[32mbase64 decode/encode\u001b[0m\r\n| p8\u001b[33m[j] [len]\u001b[0m                   \u001b[32m8bit hexpair list of bytes\u001b[0m\r\n| pa\u001b[33m[ed] [hex|asm]\u001b[0m              \u001b[32mpa:assemble  pad:disasm or pae: esil from hexpairs\u001b[0m\r\n| pA\u001b[33m[n_ops]\u001b[0m                     \u001b[32mshow n_ops address and type\u001b[0m\r\n| p\u001b[33m[b|B|xb] [len] ([skip])\u001b[0m      \u001b[32mbindump N bits skipping M\u001b[0m\r\n| p\u001b[33m[bB] [len]\u001b[0m                   \u001b[32mbitstream of N bytes\u001b[0m\r\n| pc\u001b[33m[p] [len]\u001b[0m                   \u001b[32moutput C (or python) format\u001b[0m\r\n| p\u001b[33m[dD][ajbrfils] [sz] [a] [b]\u001b[0m  \u001b[32mdisassemble N opcodes/bytes for Arch/Bits (see pd?)\u001b[0m\r\n| pf\u001b[33m[?|.nam] [fmt]\u001b[0m              \u001b[32mprint formatted data (pf.name, pf.name $\u003cexpr\u003e) \u001b[0m\r\n| p\u001b[33m[iI][df] [len]\u001b[0m               \u001b[32mprint N ops/bytes (f=func) (see pi? and pdi)\u001b[0m\r\n| pm\u001b[33m [magic]\u001b[0m                    \u001b[32mprint libmagic data (pm? for more information)\u001b[0m\r\n| pr\u001b[33m[glx] [len]\u001b[0m                 \u001b[32mprint N raw bytes (in lines or hexblocks, 'g'unzip)\u001b[0m\r\n| p\u001b[33m[kK] [len]\u001b[0m                   \u001b[32mprint key in randomart (K is for mosaic)\u001b[0m\r\n| ps\u001b[33m[pwz] [len]\u001b[0m                 \u001b[32mprint pascal/wide/zero-terminated strings\u001b[0m\r\n| pt\u001b[33m[dn?] [len]\u001b[0m                 \u001b[32mprint different timestamps\u001b[0m\r\n| pu\u001b[33m[w] [len]\u001b[0m                   \u001b[32mprint N url encoded bytes (w=wide)\u001b[0m\r\n| pv\u001b[33m[jh] [mode]\u001b[0m                 \u001b[32mbar|json|histogram blocks (mode: e?search.in)\u001b[0m\r\n| p\u001b[33m[xX][owq] [len]\u001b[0m              \u001b[32mhexdump of N bytes (o=octal, w=32bit, q=64bit)\u001b[0m\r\n| pz\u001b[33m [len]\u001b[0m                      \u001b[32mprint zoom view (see pz? for help)\u001b[0m\r\n| pwd\u001b[33m\u001b[0m                           \u001b[32mdisplay current working directory\u001b[0m\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      0.926826,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p\r\u001b[33m[0x00401000]\u003e\u001b[0m p"
+    ],
+    [
+      0.272781,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p \r\u001b[33m[0x00401000]\u003e\u001b[0m p "
+    ],
+    [
+      0.295586,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m p\r\u001b[33m[0x00401000]\u003e\u001b[0m p"
+    ],
+    [
+      0.199993,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m pi\r\u001b[33m[0x00401000]\u003e\u001b[0m pi"
+    ],
+    [
+      0.032600,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m pi \r\u001b[33m[0x00401000]\u003e\u001b[0m pi "
+    ],
+    [
+      0.160786,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m pi 3\r\u001b[33m[0x00401000]\u003e\u001b[0m pi 3"
+    ],
+    [
+      0.079158,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m pi 30\r\u001b[33m[0x00401000]\u003e\u001b[0m pi 30"
+    ],
+    [
+      0.208517,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m pi 30\r\n\u001b[37madd\u001b[36m dh\u001b[0m,\u001b[36m byte\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\r\n\u001b[37mfist dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m \u001b[33m0x68\u001b[0m]\u001b[36m\u001b[0m\r\n\u001b[37mpushfd\u001b[0m\r\n\u001b[37madd byte\u001b[36m \u001b[0m[\u001b[36meax\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m al\u001b[0m\r\n\u001b[37madd\u001b[36m al\u001b[0m,\u001b[36m\u001b[36m ch\u001b[0m\r\n\u001b[37mret\u001b[36m \u001b[33m0x31f\u001b[0m\r\n\u001b[37madd dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m edi\u001b[0m\r\n\u001b[37mret\u001b[0m\r\n\u001b[37mje 0x401018\r\n\u001b[37mmov byte \u001b[0m[\u001b[36meax \u001b[0m+\u001b[36m\u001b[36m \u001b[33m0x138\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m bl\u001b[0m\r\n\u001b[37mcmp byte \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m \u001b[33m0xc\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m bl\u001b[0m\r\n\u001b[37mje 0x401135\r\n\u001b[37mpush\u001b[36m \u001b[33m0x3e\u001b[0m\r\n\u001b[37mcall 0x1525ab0\r\n\u001b[37madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m 4\u001b[0m\r\n\u001b[37mtest\u001b[36m al\u001b[0m,\u001b[36m\u001b[36m al\u001b[0m\r\n\u001b[37mje 0x401042\r\n\u001b[37mmov\u001b[36m ecx\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33m0x29a9b84\u001b[0m]\u001b[36m\u001b[0m\r\n\u001b[37mpush\u001b[36m ebx\u001b[0m\r\n\u001b[37mpush\u001b[36m \u001b[0m-\u001b[36m1\u001b[0m\r\n\u001b[37mpush\u001b[36m \u001b[33m0x162\u001b[0m\r\n\u001b[37mcall 0x1435510\r\n\u001b[37mpush\u001b[36m ebx\u001b[0m\r\n\u001b[37mpush\u001b[36m \u001b[33m0x8ed2\u001b[0m\r\n\u001b[37mcall 0x1927520\r\n\u001b[37mmov\u001b[36m ecx\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33m0x29a9b84\u001b[0m]\u001b[36m\u001b[0m\r\n\u001b[37madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m 4\u001b[0m\r\n\u001b[37mpush\u001b[36m eax\u001b[0m\r\n\u001b[37mpush\u001b[36m \u001b[33m0x134\u001b[0m\r\n\u001b[37mcall 0x1435ae0\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x00401000]\u003e\u001b[0m "
+    ],
+    [
+      3.486581,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m e\r\u001b[33m[0x00401000]\u003e\u001b[0m e"
+    ],
+    [
+      0.208250,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m ex\r\u001b[33m[0x00401000]\u003e\u001b[0m ex"
+    ],
+    [
+      0.200213,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m exi\r\u001b[33m[0x00401000]\u003e\u001b[0m exi"
+    ],
+    [
+      0.016082,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m exit\r\u001b[33m[0x00401000]\u003e\u001b[0m exit"
+    ],
+    [
+      0.102355,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x00401000]\u003e\u001b[0m exit\r\n"
+    ],
+    [
+      0.000469,
+      "\u001b]0;root@kawaii: /home/juden\u0007\u001b[01;31mroot@kawaii\u001b[00m:\u001b[01;34m/home/juden\u001b[00m# "
+    ],
+    [
+      0.648525,
+      "e"
+    ],
+    [
+      0.176170,
+      "x"
+    ],
+    [
+      0.047984,
+      "i"
+    ],
+    [
+      0.104609,
+      "t"
+    ],
+    [
+      0.111599,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
