@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 158,
+  "height": 79,
+  "duration": 7.728894,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006381,
+      "root@pmp1-acs:~# "
+    ],
+    [
+      7.721078,
+      "exit\r\n"
+    ]
+  ]
+}
