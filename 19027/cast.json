@@ -1,0 +1,1350 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 24,
+  "duration": 60.087626,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.058420,
+      "\u001b]0"
+    ],
+    [
+      0.000018,
+      ";fish  /home/fred/demo\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.015729,
+      "\u001b]0;fish  "
+    ],
+    [
+      0.000022,
+      "/home/fred/d"
+    ],
+    [
+      0.000004,
+      "e"
+    ],
+    [
+      0.000005,
+      "m"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000020,
+      "\u0007"
+    ],
+    [
+      0.000086,
+      "\u001b[30m\u001b(B\u001b"
+    ],
+    [
+      0.000017,
+      "[m"
+    ],
+    [
+      0.000175,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000012,
+      "\u001b[32m~/demo\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      4.883231,
+      "wget https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts-bundle/2.1.5/gatling-charts-highcharts-bundle-2.1.5-bundle.zip"
+    ],
+    [
+      0.001126,
+      "\u001b[A\u001b[56D\u001b[38;5;26mwget\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mhttps://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts-bundle/2.1.5/gatling-charts-highcharts-bundle-2.1.5-bundle.zip\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.610930,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;wget  /home/fred/demo\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.002379,
+      "--2015-04-21 16:23:31--  https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts-bundle/2.1.5/gatling-charts-highcharts-bundle-2.1.5-bundle.zip\r\n"
+    ],
+    [
+      0.030723,
+      "Resolving repo1.maven.org (repo1.maven.org)... "
+    ],
+    [
+      0.018226,
+      "199.27.76.209\r\nConnecting to repo1.maven.org (repo1.maven.org)|199.27.76.209|:443... "
+    ],
+    [
+      0.011026,
+      "connected.\r\n"
+    ],
+    [
+      0.029556,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.930885,
+      "200 OK\r\nLength: 57096045 (54M) [application/zip]\r\nSaving to: ‘gatling-charts-highcharts-bundle-2.1.5-bundle.zip’\r\n\r\n\rgatling-charts-highcha   0%[                             ]       0  --.-KB/s             "
+    ],
+    [
+      0.199700,
+      "\ratling-charts-highchar   1%[                             ] 912.00K  4.45MB/s             "
+    ],
+    [
+      0.200461,
+      "\rtling-charts-highchart   3%[\u003e                            ]   1.94M  4.86MB/s             "
+    ],
+    [
+      0.200182,
+      "\rling-charts-highcharts   4%[\u003e                            ]   2.68M  4.47MB/s             "
+    ],
+    [
+      0.201352,
+      "\ring-charts-highcharts-   6%[\u003e                            ]   3.38M  4.21MB/s             "
+    ],
+    [
+      0.201121,
+      "\rng-charts-highcharts-b   7%[=\u003e                           ]   3.92M  3.91MB/s             "
+    ],
+    [
+      0.200231,
+      "\rg-charts-highcharts-bu   8%[=\u003e                           ]   4.39M  3.65MB/s             "
+    ],
+    [
+      0.201915,
+      "\r-charts-highcharts-bun   8%[=\u003e                           ]   4.77M  3.39MB/s             "
+    ],
+    [
+      0.203360,
+      "\rcharts-highcharts-bund   9%[=\u003e                           ]   5.07M  3.15MB/s             "
+    ],
+    [
+      0.206912,
+      "\rharts-highcharts-bundl   9%[=\u003e                           ]   5.30M  2.92MB/s             "
+    ],
+    [
+      0.203663,
+      "\rarts-highcharts-bundle  10%[=\u003e                           ]   5.50M  2.72MB/s             "
+    ],
+    [
+      0.200088,
+      "\rrts-highcharts-bundle-  10%[==\u003e                          ]   5.71M  2.57MB/s             "
+    ],
+    [
+      0.206459,
+      "\rts-highcharts-bundle-2  11%[==\u003e                          ]   6.05M  2.50MB/s             "
+    ],
+    [
+      0.206788,
+      "\rs-highcharts-bundle-2.  11%[==\u003e                          ]   6.45M  2.45MB/s             "
+    ],
+    [
+      0.202741,
+      "\r-highcharts-bundle-2.1  12%[==\u003e                          ]   6.70M  2.36MB/s             "
+    ],
+    [
+      0.200473,
+      "\rhighcharts-bundle-2.1.  12%[==\u003e                          ]   6.99M  2.30MB/s   eta 21s   "
+    ],
+    [
+      0.201316,
+      "\righcharts-bundle-2.1.5  13%[==\u003e                          ]   7.40M  2.19MB/s   eta 21s   "
+    ],
+    [
+      0.201430,
+      "\rghcharts-bundle-2.1.5-  14%[===\u003e                         ]   7.90M  2.09MB/s   eta 21s   "
+    ],
+    [
+      0.199999,
+      "\rhcharts-bundle-2.1.5-b  15%[===\u003e                         ]   8.46M  1.97MB/s   eta 21s   "
+    ],
+    [
+      0.200790,
+      "\rcharts-bundle-2.1.5-bu  16%[===\u003e                         ]   9.06M  1.89MB/s   eta 21s   "
+    ],
+    [
+      0.200610,
+      "\rharts-bundle-2.1.5-bun  17%[====\u003e                        ]   9.47M  1.87MB/s   eta 19s   "
+    ],
+    [
+      0.204225,
+      "\rarts-bundle-2.1.5-bund  18%[====\u003e                        ]   9.86M  1.82MB/s   eta 19s   "
+    ],
+    [
+      0.200860,
+      "\rrts-bundle-2.1.5-bundl  18%[====\u003e                        ]  10.21M  1.79MB/s   eta 19s   "
+    ],
+    [
+      0.200057,
+      "\rts-bundle-2.1.5-bundle  19%[====\u003e                        ]  10.52M  1.79MB/s   eta 19s   "
+    ],
+    [
+      0.200766,
+      "\rs-bundle-2.1.5-bundle.  19%[====\u003e                        ]  10.84M  1.79MB/s   eta 19s   "
+    ],
+    [
+      0.201206,
+      "\r-bundle-2.1.5-bundle.z  20%[====\u003e                        ]  11.25M  1.89MB/s   eta 19s   "
+    ],
+    [
+      0.210830,
+      "\rbundle-2.1.5-bundle.zi  21%[=====\u003e                       ]  11.54M  1.90MB/s   eta 19s   "
+    ],
+    [
+      0.210261,
+      "\rundle-2.1.5-bundle.zip  21%[=====\u003e                       ]  11.70M  1.85MB/s   eta 19s   "
+    ],
+    [
+      0.205586,
+      "\rgatling-charts-highcha  21%[=====\u003e                       ]  11.91M  1.79MB/s   eta 19s   "
+    ],
+    [
+      0.203063,
+      "\ratling-charts-highchar  22%[=====\u003e                       ]  12.13M  1.77MB/s   eta 19s   "
+    ],
+    [
+      0.203674,
+      "\rtling-charts-highchart  22%[=====\u003e                       ]  12.40M  1.77MB/s   eta 21s   "
+    ],
+    [
+      0.205742,
+      "\rling-charts-highcharts  23%[=====\u003e                       ]  12.73M  1.75MB/s   eta 21s   "
+    ],
+    [
+      0.204947,
+      "\ring-charts-highcharts-  24%[=====\u003e                       ]  13.11M  1.75MB/s   eta 21s   "
+    ],
+    [
+      0.200982,
+      "\rng-charts-highcharts-b  24%[======\u003e                      ]  13.52M  1.72MB/s   eta 21s   "
+    ],
+    [
+      0.200951,
+      "\rg-charts-highcharts-bu  25%[======\u003e                      ]  13.88M  1.60MB/s   eta 21s   "
+    ],
+    [
+      0.205381,
+      "\r-charts-highcharts-bun  26%[======\u003e                      ]  14.48M  1.65MB/s   eta 20s   "
+    ],
+    [
+      0.199916,
+      "\rcharts-highcharts-bund  27%[=======\u003e                     ]  15.10M  1.72MB/s   eta 20s   "
+    ],
+    [
+      0.200270,
+      "\rharts-highcharts-bundl  28%[=======\u003e                     ]  15.76M  1.83MB/s   eta 20s   "
+    ],
+    [
+      0.204318,
+      "\rarts-highcharts-bundle  29%[=======\u003e                     ]  16.26M  1.87MB/s   eta 20s   "
+    ],
+    [
+      0.200338,
+      "\rrts-highcharts-bundle-  30%[=======\u003e                     ]  16.68M  1.90MB/s   eta 20s   "
+    ],
+    [
+      0.204669,
+      "\rts-highcharts-bundle-2  31%[========\u003e                    ]  16.95M  1.86MB/s   eta 18s   "
+    ],
+    [
+      0.202339,
+      "\rs-highcharts-bundle-2.  31%[========\u003e                    ]  17.16M  1.81MB/s   eta 18s   "
+    ],
+    [
+      0.200335,
+      "\r-highcharts-bundle-2.1  31%[========\u003e                    ]  17.38M  1.82MB/s   eta 18s   "
+    ],
+    [
+      0.205241,
+      "\rhighcharts-bundle-2.1.  32%[========\u003e                    ]  17.62M  1.82MB/s   eta 18s   "
+    ],
+    [
+      0.200748,
+      "\righcharts-bundle-2.1.5  32%[========\u003e                    ]  17.85M  1.87MB/s   eta 18s   "
+    ],
+    [
+      0.200577,
+      "\rghcharts-bundle-2.1.5-  33%[========\u003e                    ]  18.16M  1.87MB/s   eta 18s   "
+    ],
+    [
+      0.200662,
+      "\rhcharts-bundle-2.1.5-b  33%[========\u003e                    ]  18.44M  1.86MB/s   eta 18s   "
+    ],
+    [
+      0.201923,
+      "\rcharts-bundle-2.1.5-bu  34%[=========\u003e                   ]  18.80M  1.88MB/s   eta 18s   "
+    ],
+    [
+      0.200253,
+      "\rharts-bundle-2.1.5-bun  35%[=========\u003e                   ]  19.12M  1.85MB/s   eta 18s   "
+    ],
+    [
+      0.202583,
+      "\rarts-bundle-2.1.5-bund  35%[=========\u003e                   ]  19.41M  1.83MB/s   eta 18s   "
+    ],
+    [
+      0.203403,
+      "\rrts-bundle-2.1.5-bundl  36%[=========\u003e                   ]  19.72M  1.75MB/s   eta 18s   "
+    ],
+    [
+      0.200017,
+      "\rts-bundle-2.1.5-bundle  36%[=========\u003e                   ]  20.05M  1.70MB/s   eta 18s   "
+    ],
+    [
+      0.200908,
+      "\rs-bundle-2.1.5-bundle.  37%[=========\u003e                   ]  20.35M  1.61MB/s   eta 18s   "
+    ],
+    [
+      0.201508,
+      "\r-bundle-2.1.5-bundle.z  37%[=========\u003e                   ]  20.62M  1.47MB/s   eta 18s   "
+    ],
+    [
+      0.203383,
+      "\rbundle-2.1.5-bundle.zi  38%[==========\u003e                  ]  20.91M  1.42MB/s   eta 18s   "
+    ],
+    [
+      0.205212,
+      "\rundle-2.1.5-bundle.zip  38%[==========\u003e                  ]  21.17M  1.38MB/s   eta 18s   "
+    ],
+    [
+      0.206848,
+      "\rgatling-charts-highcha  39%[==========\u003e                  ]  21.41M  1.39MB/s   eta 18s   "
+    ],
+    [
+      0.201099,
+      "\ratling-charts-highchar  39%[==========\u003e                  ]  21.63M  1.40MB/s   eta 18s   "
+    ],
+    [
+      0.201149,
+      "\rtling-charts-highchart  40%[==========\u003e                  ]  21.99M  1.43MB/s   eta 18s   "
+    ],
+    [
+      0.223784,
+      "\rling-charts-highcharts  41%[==========\u003e                  ]  22.34M  1.47MB/s   eta 18s   "
+    ],
+    [
+      0.200433,
+      "\ring-charts-highcharts-  41%[===========\u003e                 ]  22.54M  1.44MB/s   eta 17s   "
+    ],
+    [
+      0.203232,
+      "\rng-charts-highcharts-b  41%[===========\u003e                 ]  22.86M  1.45MB/s   eta 17s   "
+    ],
+    [
+      0.207319,
+      "\rg-charts-highcharts-bu  42%[===========\u003e                 ]  23.12M  1.42MB/s   eta 17s   "
+    ],
+    [
+      0.201743,
+      "\r-charts-highcharts-bun  42%[===========\u003e                 ]  23.34M  1.38MB/s   eta 17s   "
+    ],
+    [
+      0.200158,
+      "\rcharts-highcharts-bund  43%[===========\u003e                 ]  23.55M  1.35MB/s   eta 17s   "
+    ],
+    [
+      0.203136,
+      "\rharts-highcharts-bundl  43%[===========\u003e                 ]  23.76M  1.33MB/s   eta 17s   "
+    ],
+    [
+      0.205203,
+      "\rarts-highcharts-bundle  44%[===========\u003e                 ]  24.04M  1.32MB/s   eta 17s   "
+    ],
+    [
+      0.211394,
+      "\rrts-highcharts-bundle-  44%[===========\u003e                 ]  24.25M  1.28MB/s   eta 17s   "
+    ],
+    [
+      0.200380,
+      "\rts-highcharts-bundle-2  44%[============\u003e                ]  24.44M  1.25MB/s   eta 17s   "
+    ],
+    [
+      0.200454,
+      "\rs-highcharts-bundle-2.  45%[============\u003e                ]  24.77M  1.26MB/s   eta 17s   "
+    ],
+    [
+      0.201696,
+      "\r"
+    ],
+    [
+      0.000015,
+      "-highcharts-bundle-2.1  46%[============\u003e                ]  25.05M  1.26MB/s   eta 17s   "
+    ],
+    [
+      0.200170,
+      "\rhighcharts-bundle-2.1.  46%[============\u003e                ]  25.39M  1.29MB/s   eta 17s   "
+    ],
+    [
+      0.201729,
+      "\righcharts-bundle-2.1.5  47%[============\u003e                ]  25.82M  1.37MB/s   eta 17s   "
+    ],
+    [
+      0.200079,
+      "\rghcharts-bundle-2.1.5-  48%[============\u003e                ]  26.20M  1.39MB/s   eta 17s   "
+    ],
+    [
+      0.201095,
+      "\rhcharts-bundle-2.1.5-b  48%[=============\u003e               ]  26.62M  1.41MB/s   eta 17s   "
+    ],
+    [
+      0.200548,
+      "\rcharts-bundle-2.1.5-bu  49%[=============\u003e               ]  27.08M  1.49MB/s   eta 15s   "
+    ],
+    [
+      0.207222,
+      "\rharts-bundle-2.1.5-bun  50%[=============\u003e               ]  27.65M  1.58MB/s   eta 15s   "
+    ],
+    [
+      0.201242,
+      "\rarts-bundle-2.1.5-bund  51%[==============\u003e              ]  28.31M  1.68MB/s   eta 15s   "
+    ],
+    [
+      0.204488,
+      "\rrts-bundle-2.1.5-bundl  53%[==============\u003e              ]  28.88M  1.81MB/s   eta 15s   "
+    ],
+    [
+      0.201518,
+      "\rts-bundle-2.1.5-bundle  53%[==============\u003e              ]  29.19M  1.83MB/s   eta 15s   "
+    ],
+    [
+      0.202955,
+      "\rs-bundle-2.1.5-bundle.  54%[==============\u003e              ]  29.51M  1.85MB/s   eta 14s   "
+    ],
+    [
+      0.206155,
+      "\r-bundle-2.1.5-bundle.z  54%[==============\u003e              ]  29.74M  1.86MB/s   eta 14s   "
+    ],
+    [
+      0.206291,
+      "\rbundle-2.1.5-bundle.zi  54%[==============\u003e              ]  29.93M  1.83MB/s   eta 14s   "
+    ],
+    [
+      0.203235,
+      "\rundle-2.1.5-bundle.zip  55%[===============\u003e             ]  30.13M  1.83MB/s   eta 14s   "
+    ],
+    [
+      0.209244,
+      "\rgatling-charts-highcha  55%[===============\u003e             ]  30.32M  1.82MB/s   eta 14s   "
+    ],
+    [
+      0.200506,
+      "\ratling-charts-highchar  55%[===============\u003e             ]  30.48M  1.76MB/s   eta 14s   "
+    ],
+    [
+      0.199950,
+      "\rtling-charts-highchart  56%[===============\u003e             ]  30.64M  1.73MB/s   eta 14s   "
+    ],
+    [
+      0.209311,
+      "\rling-charts-highcharts  56%[===============\u003e             ]  30.77M  1.63MB/s   eta 14s   "
+    ],
+    [
+      0.202227,
+      "\r"
+    ],
+    [
+      0.000239,
+      "ing-charts-highcharts-  56%[===============\u003e             ]  30.91M  1.55MB/s   eta 14s   "
+    ],
+    [
+      0.203485,
+      "\rng-charts-highcharts-b  57%[===============\u003e             ]  31.04M  1.48MB/s   eta 14s   "
+    ],
+    [
+      0.200429,
+      "\rg-charts-highcharts-bu  57%[===============\u003e             ]  31.20M  1.40MB/s   eta 14s   "
+    ],
+    [
+      0.201433,
+      "\r-charts-highcharts-bun  57%[===============\u003e             ]  31.39M  1.25MB/s   eta 14s   "
+    ],
+    [
+      0.210652,
+      "\rcharts-highcharts-bund  57%[===============\u003e             ]  31.55M  1.16MB/s   eta 14s   "
+    ],
+    [
+      0.200213,
+      "\rharts-highcharts-bundl  58%[===============\u003e             ]  31.71M  1.03MB/s   eta 14s   "
+    ],
+    [
+      0.200472,
+      "\rarts-highcharts-bundle  58%[===============\u003e             ]  31.85M   958KB/s   eta 14s   "
+    ],
+    [
+      0.200766,
+      "\rrts-highcharts-bundle-  58%[================\u003e            ]  31.96M   885KB/s   eta 14s   "
+    ],
+    [
+      0.202152,
+      "\rts-highcharts-bundle-2  58%[================\u003e            ]  32.10M   807KB/s   eta 14s   "
+    ],
+    [
+      0.200273,
+      "\rs-highcharts-bundle-2.  59%[================\u003e            ]  32.26M   798KB/s   eta 14s   "
+    ],
+    [
+      0.202449,
+      "\r-highcharts-bundle-2.1  59%[================\u003e            ]  32.55M   828KB/s   eta 14s   "
+    ],
+    [
+      0.202724,
+      "\rhighcharts-bundle-2.1.  60%[================\u003e            ]  32.82M   847KB/s   eta 14s   "
+    ],
+    [
+      0.203581,
+      "\righcharts-bundle-2.1.5  60%[================\u003e            ]  33.18M   903KB/s   eta 13s   "
+    ],
+    [
+      0.201580,
+      "\rghcharts-bundle-2.1.5-  61%[================\u003e            ]  33.44M   925KB/s   eta 13s   "
+    ],
+    [
+      0.200580,
+      "\rhcharts-bundle-2.1.5-b  61%[================\u003e            ]  33.60M   940KB/s   eta 13s   "
+    ],
+    [
+      0.203925,
+      "\rcharts-bundle-2.1.5-bu  62%[================\u003e            ]  33.79M   954KB/s   eta 13s   "
+    ],
+    [
+      0.203905,
+      "\r"
+    ],
+    [
+      0.000155,
+      "harts-bundle-2.1.5-bun  62%[=================\u003e           ]  34.05M   998KB/s   eta 13s   "
+    ],
+    [
+      0.201339,
+      "\rarts-bundle-2.1.5-bund  62%[=================\u003e           ]  34.29M  1.01MB/s   eta 13s   "
+    ],
+    [
+      0.210875,
+      "\rrts-bundle-2.1.5-bundl  63%[=================\u003e           ]  34.54M  1.03MB/s   eta 13s   "
+    ],
+    [
+      0.202959,
+      "\rts-bundle-2.1.5-bundle  63%[=================\u003e           ]  34.77M  1.04MB/s   eta 13s   "
+    ],
+    [
+      0.202792,
+      "\rs-bundle-2.1.5-bundle.  64%[=================\u003e           ]  34.96M  1.06MB/s   eta 13s   "
+    ],
+    [
+      0.207033,
+      "\r-bundle-2.1.5-bundle.z  64%[=================\u003e           ]  35.16M  1.07MB/s   eta 13s   "
+    ],
+    [
+      0.241837,
+      "\rbundle-2.1.5-bundle.zi  64%[=================\u003e           ]  35.32M  1.09MB/s   eta 12s   "
+    ],
+    [
+      0.204885,
+      "\rundle-2.1.5-bundle.zip  65%[=================\u003e           ]  35.48M  1.09MB/s   eta 12s   "
+    ],
+    [
+      0.212052,
+      "\rgatling-charts-highcha  65%[==================\u003e          ]  35.70M  1.10MB/s   eta 12s   "
+    ],
+    [
+      0.203917,
+      "\ratling-charts-highchar  65%[==================\u003e          ]  35.87M  1.07MB/s   eta 12s   "
+    ],
+    [
+      0.201515,
+      "\rtling-charts-highchart  66%[==================\u003e          ]  35.98M  1.02MB/s   eta 12s   "
+    ],
+    [
+      0.204864,
+      "\rling-charts-highcharts  66%[==================\u003e          ]  36.15M  1003KB/s   eta 12s   "
+    ],
+    [
+      0.203090,
+      "\ring-charts-highcharts-  66%[==================\u003e          ]  36.38M   984KB/s   eta 12s   "
+    ],
+    [
+      0.201229,
+      "\r"
+    ],
+    [
+      0.000160,
+      "ng-charts-highcharts-b  67%[==================\u003e          ]  36.70M  1021KB/s   eta 12s   "
+    ],
+    [
+      0.205130,
+      "\rg-charts-highcharts-bu  68%[==================\u003e          ]  37.05M  1.05MB/s   eta 12s   "
+    ],
+    [
+      0.200168,
+      "\r-charts-highcharts-bun  68%[==================\u003e          ]  37.46M  1.11MB/s   eta 12s   "
+    ],
+    [
+      0.201862,
+      "\rcharts-highcharts-bund  69%[===================\u003e         ]  37.94M  1.17MB/s   eta 11s   "
+    ],
+    [
+      0.200380,
+      "\rharts-highcharts-bundl  70%[===================\u003e         ]  38.58M  1.29MB/s   eta 11s   "
+    ],
+    [
+      0.203078,
+      "\rarts-highcharts-bundle  71%[===================\u003e         ]  39.11M  1.38MB/s   eta 11s   "
+    ],
+    [
+      0.200426,
+      "\rrts-highcharts-bundle-  72%[====================\u003e        ]  39.60M  1.50MB/s   eta 11s   "
+    ],
+    [
+      0.202325,
+      "\rts-highcharts-bundle-2  73%[====================\u003e        ]  40.25M  1.63MB/s   eta 11s   "
+    ],
+    [
+      0.201477,
+      "\rs-highcharts-bundle-2.  74%[====================\u003e        ]  40.81M  1.74MB/s   eta 8s    "
+    ],
+    [
+      0.201469,
+      "\r-highcharts-bundle-2.1  75%[=====================\u003e       ]  41.37M  1.92MB/s   eta 8s    "
+    ],
+    [
+      0.223523,
+      "\rhighcharts-bundle-2.1.  77%[=====================\u003e       ]  41.99M  2.03MB/s   eta 8s    "
+    ],
+    [
+      0.201491,
+      "\righcharts-bundle-2.1.5  78%[=====================\u003e       ]  42.48M  2.17MB/s   eta 8s    "
+    ],
+    [
+      0.200557,
+      "\rghcharts-bundle-2.1.5-  78%[=====================\u003e       ]  42.91M  2.26MB/s   eta 8s    "
+    ],
+    [
+      0.201074,
+      "\rhcharts-bundle-2.1.5-b  79%[======================\u003e      ]  43.23M  2.29MB/s   eta 7s    "
+    ],
+    [
+      0.204003,
+      "\rcharts-bundle-2.1.5-bu  80%[======================\u003e      ]  43.63M  2.38MB/s   eta 7s    "
+    ],
+    [
+      0.204478,
+      "\rharts-bundle-2.1.5-bun  80%[======================\u003e      ]  43.85M  2.34MB/s   eta 7s    "
+    ],
+    [
+      0.200167,
+      "\rarts-bundle-2.1.5-bund  80%[======================\u003e      ]  44.01M  2.27MB/s   eta 7s    "
+    ],
+    [
+      0.202324,
+      "\rrts-bundle-2.1.5-bundl  81%[======================\u003e      ]  44.25M  2.22MB/s   eta 7s    "
+    ],
+    [
+      0.209396,
+      "\rts-bundle-2.1.5-bundle  81%[======================\u003e      ]  44.45M  2.14MB/s   eta 6s    "
+    ],
+    [
+      0.200382,
+      "\rs-bundle-2.1.5-bundle.  82%[======================\u003e      ]  44.81M  2.08MB/s   eta 6s    "
+    ],
+    [
+      0.201281,
+      "\r-bundle-2.1.5-bundle.z  83%[=======================\u003e     ]  45.33M  2.06MB/s   eta 6s    "
+    ],
+    [
+      0.201020,
+      "\rbundle-2.1.5-bundle.zi  84%[=======================\u003e     ]  45.84M  2.05MB/s   eta 6s    "
+    ],
+    [
+      0.201611,
+      "\rundle-2.1.5-bundle.zip  85%[=======================\u003e     ]  46.52M  2.08MB/s   eta 6s    "
+    ],
+    [
+      0.200612,
+      "\rgatling-charts-highcha  86%[========================\u003e    ]  47.29M  2.15MB/s   eta 4s    "
+    ],
+    [
+      0.200549,
+      "\ratling-charts-highchar  88%[========================\u003e    ]  48.09M  2.21MB/s   eta 4s    "
+    ],
+    [
+      0.201436,
+      "\rtling-charts-highchart  89%[========================\u003e    ]  48.70M  2.22MB/s   eta 4s    "
+    ],
+    [
+      0.200179,
+      "\rling-charts-highcharts  90%[=========================\u003e   ]  49.18M  2.22MB/s   eta 4s    "
+    ],
+    [
+      0.203727,
+      "\ring-charts-highcharts-  91%[=========================\u003e   ]  49.57M  2.19MB/s   eta 4s    "
+    ],
+    [
+      0.200718,
+      "\rng-charts-highcharts-b  91%[=========================\u003e   ]  49.83M  2.17MB/s   eta 3s    "
+    ],
+    [
+      0.203568,
+      "\rg-charts-highcharts-bu  91%[=========================\u003e   ]  50.09M  2.12MB/s   eta 3s    "
+    ],
+    [
+      0.206917,
+      "\r-charts-highcharts-bun  92%[=========================\u003e   ]  50.38M  2.08MB/s   eta 3s    "
+    ],
+    [
+      0.200627,
+      "\rcharts-highcharts-bund  93%[==========================\u003e  ]  50.76M  2.18MB/s   eta 3s    "
+    ],
+    [
+      0.210817,
+      "\rharts-highcharts-bundl  93%[==========================\u003e  ]  51.10M  2.20MB/s   eta 3s    "
+    ],
+    [
+      0.212937,
+      "\rarts-highcharts-bundle  94%[==========================\u003e  ]  51.37M  2.25MB/s   eta 2s    "
+    ],
+    [
+      0.231890,
+      "\rrts-highcharts-bundle-  94%[==========================\u003e  ]  51.55M  2.19MB/s   eta 2s    "
+    ],
+    [
+      0.200804,
+      "\rts-highcharts-bundle-2  94%[==========================\u003e  ]  51.67M  2.09MB/s   eta 2s    "
+    ],
+    [
+      0.200588,
+      "\rs-highcharts-bundle-2.  95%[==========================\u003e  ]  51.78M  1.93MB/s   eta 2s    "
+    ],
+    [
+      0.208451,
+      "\r-highcharts-bundle-2.1  95%[==========================\u003e  ]  51.92M  1.80MB/s   eta 2s    "
+    ],
+    [
+      0.209109,
+      "\rhighcharts-bundle-2.1.  95%[==========================\u003e  ]  52.04M  1.65MB/s   eta 1s    "
+    ],
+    [
+      0.205167,
+      "\righcharts-bundle-2.1.5  95%[==========================\u003e  ]  52.15M  1.47MB/s   eta 1s    "
+    ],
+    [
+      0.205516,
+      "\rghcharts-bundle-2.1.5-  96%[==========================\u003e  ]  52.27M  1.20MB/s   eta 1s    "
+    ],
+    [
+      0.209502,
+      "\rhcharts-bundle-2.1.5-b  96%[==========================\u003e  ]  52.40M  1.10MB/s   eta 1s    "
+    ],
+    [
+      0.202036,
+      "\rcharts-bundle-2.1.5-bu  96%[==========================\u003e  ]  52.49M  1015KB/s   eta 1s    "
+    ],
+    [
+      0.224994,
+      "\rharts-bundle-2.1.5-bun  96%[===========================\u003e ]  52.58M   910KB/s   eta 1s    "
+    ],
+    [
+      0.217311,
+      "\rarts-bundle-2.1.5-bund  96%[===========================\u003e ]  52.70M   856KB/s   eta 1s    "
+    ],
+    [
+      0.210410,
+      "\rrts-bundle-2.1.5-bundl  96%[===========================\u003e ]  52.80M   819KB/s   eta 1s    "
+    ],
+    [
+      0.203643,
+      "\rts-bundle-2.1.5-bundle  97%[===========================\u003e ]  52.92M   720KB/s   eta 1s    "
+    ],
+    [
+      0.206551,
+      "\rs-bundle-2.1.5-bundle.  97%[===========================\u003e ]  53.05M   648KB/s   eta 1s    "
+    ],
+    [
+      0.200561,
+      "\r-bundle-2.1.5-bundle.z  97%[===========================\u003e ]  53.17M   617KB/s   eta 1s    "
+    ],
+    [
+      0.211702,
+      "\rbundle-2.1.5-bundle.zi  97%[===========================\u003e ]  53.30M   593KB/s   eta 1s    "
+    ],
+    [
+      0.207409,
+      "\rundle-2.1.5-bundle.zip  98%[===========================\u003e ]  53.44M   578KB/s   eta 1s    "
+    ],
+    [
+      0.204000,
+      "\rgatling-charts-highcha  98%[===========================\u003e ]  53.61M   600KB/s   eta 1s    "
+    ],
+    [
+      0.207041,
+      "\ratling-charts-highchar  98%[===========================\u003e ]  53.79M   620KB/s   eta 1s    "
+    ],
+    [
+      0.204064,
+      "\rtling-charts-highchart  99%[===========================\u003e ]  53.98M   640KB/s   eta 0s    "
+    ],
+    [
+      0.201196,
+      "\rling-charts-highcharts  99%[===========================\u003e ]  54.16M   655KB/s   eta 0s    "
+    ],
+    [
+      0.158729,
+      "\rgatling-charts-highcha 100%[============================\u003e]  54.45M   719KB/s   in 35s    \r\n\r\n"
+    ],
+    [
+      0.000067,
+      "2015-04-21 16:24:07 (1.55 MB/s) - ‘gatling-charts-highcharts-bundle-2.1.5-bundle.zip’ saved [57096045/57096045]\r\n\r\n"
+    ],
+    [
+      0.007145,
+      "\u001b]0;fish  /"
+    ],
+    [
+      0.000007,
+      "home/f"
+    ],
+    [
+      0.000004,
+      "r"
+    ],
+    [
+      0.000122,
+      "ed"
+    ],
+    [
+      0.000006,
+      "/d"
+    ],
+    [
+      0.000005,
+      "e"
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000089,
+      "o\u0007\u001b["
+    ],
+    [
+      0.000006,
+      "30"
+    ],
+    [
+      0.000005,
+      "m"
+    ],
+    [
+      0.000070,
+      "\u001b("
+    ],
+    [
+      0.000007,
+      "B\u001b"
+    ],
+    [
+      0.000004,
+      "["
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000297,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                         \r \r\u001b[32m~/demo\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      2.414934,
+      "u\u0008\u001b[31m\u001b[1mu\u001b(B\u001b[m"
+    ],
+    [
+      0.000924,
+      "\u001b[38;5;240mnzip gatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[55D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087411,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[m\u001b[38;5;240mzip gatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.160494,
+      "\u001b[31m\u001b[1mz\u001b(B\u001b[m\u001b[38;5;240mip gatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103987,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mp gatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071802,
+      "\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240m gatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[51D\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26munzip\u001b[38;5;240m gatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[51D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.320169,
+      "\u001b[38;5;26m \u001b[38;5;240mgatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[50D\u001b[30m\u001b(B\u001b[m\u0008 \u001b[38;5;240mgatling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[50D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119938,
+      "g\u001b[38;5;240matling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[49D\u001b[30m\u001b(B\u001b[m\u0008\u001b[38;5;39m\u001b[4mg\u001b[38;5;240m\u001b[24matling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[49D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096280,
+      "\u001b[38;5;39m\u001b[4ma\u001b[38;5;240m\u001b[24mtling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[48D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.199593,
+      "\u001b[38;5;39m\u001b[4mt\u001b[38;5;240m\u001b[24mling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[47D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.324449,
+      "\u001b[38;5;39m\u001b[4mling-charts-highcharts-bundle-2.1.5-bundle.zip \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000423,
+      "\u001b[50D\u001b[38;5;39mgatling-charts-highcharts-bundle-2.1.5-bundle.zip\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.476180,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;unzip  /home/fred/demo\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.006585,
+      "Archive:  gatling-charts-highcharts-bundle-2.1.5-bundle.zip\r\n   creating: gatling-charts-highcharts-bundle-2.1.5/\r\n   creating: gatling-charts-highcharts-bundle-2.1.5/bin/\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/gatling.bat  \r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/gatling.sh  \r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/recorder.bat  \r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/recorder.sh  \r\n   creating: gatling-charts-highcharts-bundle-2.1.5/conf/\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/application.conf  \r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/gatling.conf  \r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/logback.xml  \r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/recorder.conf  \r\n   creating: gatling-charts-highcharts-bundle-2.1.5/lib/\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/akka-actor_2.11-2.3.9.jar  "
+    ],
+    [
+      0.032421,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/async-http-client-1.9.18.jar  "
+    ],
+    [
+      0.005118,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/bcpkix-jdk15on-1.52.jar  "
+    ],
+    [
+      0.004782,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/bcprov-jdk15on-1.52.jar  "
+    ],
+    [
+      0.022602,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/boon-0.32.jar  "
+    ],
+    [
+      0.008613,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/commons-pool-1.6.jar  "
+    ],
+    [
+      0.000910,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/concurrentlinkedhashmap-lru-1.4.2.jar  "
+    ],
+    [
+      0.001014,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/config-1.2.1.jar  "
+    ],
+    [
+      0.002372,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/fastring_2.11-0.2.4.jar  "
+    ],
+    [
+      0.000381,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-app-2.1.5.jar  "
+    ],
+    [
+      0.000379,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-2.1.5.jar  "
+    ],
+    [
+      0.004372,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-highcharts-2.1.5.jar  "
+    ],
+    [
+      0.001788,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-core-2.1.5.jar  "
+    ],
+    [
+      0.016557,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-http-2.1.5.jar  "
+    ],
+    [
+      0.010193,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jdbc-2.1.5.jar  "
+    ],
+    [
+      0.000364,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jms-2.1.5.jar  "
+    ],
+    [
+      0.001428,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-metrics-2.1.5.jar  "
+    ],
+    [
+      0.000801,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-recorder-2.1.5.jar  "
+    ],
+    [
+      0.007093,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-redis-2.1.5.jar  "
+    ],
+    [
+      0.000279,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/geronimo-jms_1.1_spec-1.1.1.jar  "
+    ],
+    [
+      0.000419,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jackson-annotations-2.5.0.jar  "
+    ],
+    [
+      0.000499,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jackson-core-2.5.1.jar  "
+    ],
+    [
+      0.001732,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jackson-databind-2.5.2.jar  "
+    ],
+    [
+      0.009808,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jodd-core-3.6.5.jar  "
+    ],
+    [
+      0.003126,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jodd-lagarto-3.6.5.jar  "
+    ],
+    [
+      0.001423,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jodd-log-3.6.5.jar  "
+    ],
+    [
+      0.000234,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jsonpath_2.11-0.6.4.jar  "
+    ],
+    [
+      0.001683,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jzlib-1.1.3.jar  "
+    ],
+    [
+      0.000746,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/logback-classic-1.1.3.jar  "
+    ],
+    [
+      0.002087,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/logback-core-1.1.3.jar  "
+    ],
+    [
+      0.004058,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/netty-3.10.1.Final.jar  "
+    ],
+    [
+      0.010572,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/opencsv-2.3.jar  "
+    ],
+    [
+      0.000233,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/redisclient_2.11-2.14.jar  "
+    ],
+    [
+      0.006098,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/Saxon-HE-9.6.0-5.jar  "
+    ],
+    [
+      0.032232,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-compiler-2.11.6.jar  "
+    ],
+    [
+      0.110620,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-library-2.11.6.jar  "
+    ],
+    [
+      0.043755,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-logging_2.11-3.1.0.jar  "
+    ],
+    [
+      0.000499,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-parser-combinators_2.11-1.0.3.jar  "
+    ],
+    [
+      0.003770,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-reflect-2.11.6.jar  "
+    ],
+    [
+      0.034520,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-swing_2.11-1.0.1.jar  "
+    ],
+    [
+      0.006262,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-xml_2.11-1.0.3.jar  "
+    ],
+    [
+      0.004970,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scopt_2.11-3.3.0.jar  "
+    ],
+    [
+      0.001160,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/slf4j-api-1.7.12.jar  "
+    ],
+    [
+      0.000382,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/t-digest-3.0.jar  "
+    ],
+    [
+      0.000428,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/threetenbp-1.2.jar  "
+    ],
+    [
+      0.004538,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/\r\n"
+    ],
+    [
+      0.000287,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/compiler-interface-0.13.5-sources.jar  "
+    ],
+    [
+      0.000185,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/config-1.2.1.jar  "
+    ],
+    [
+      0.001750,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/gatling-compiler-2.1.5.jar  "
+    ],
+    [
+      0.000520,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/incremental-compiler-0.13.5.jar  "
+    ],
+    [
+      0.017984,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/logback-classic-1.1.3.jar  "
+    ],
+    [
+      0.002224,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/logback-core-1.1.3.jar  "
+    ],
+    [
+      0.003761,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/sbt-interface-0.13.5.jar  "
+    ],
+    [
+      0.000431,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/scala-library.jar  "
+    ],
+    [
+      0.057547,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/scala-reflect.jar  "
+    ],
+    [
+      0.026060,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/scopt_2.10-3.3.0.jar  "
+    ],
+    [
+      0.001228,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/slf4j-api-1.7.12.jar  "
+    ],
+    [
+      0.000486,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/zinc-0.3.5.3.jar  "
+    ],
+    [
+      0.003212,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/LICENSE  "
+    ],
+    [
+      0.000162,
+      "\r\n   creating: gatling-charts-highcharts-bundle-2.1.5/results/\r\n"
+    ],
+    [
+      0.000072,
+      " extracting: gatling-charts-highcharts-bundle-2.1.5/results/.keep  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/\r\n"
+    ],
+    [
+      0.000006,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/bodies/\r\n"
+    ],
+    [
+      0.000155,
+      " extracting: gatling-charts-highcharts-bundle-2.1.5/user-files/bodies/.keep  \r\n   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/data/\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/data/search.csv  \r\n"
+    ],
+    [
+      0.000014,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/\r\n"
+    ],
+    [
+      0.000028,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/\r\n"
+    ],
+    [
+      0.000193,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep01.scala  "
+    ],
+    [
+      0.000206,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep02.scala  "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep03.scala  "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep04.scala  "
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep05.scala  "
+    ],
+    [
+      0.000133,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/BasicSimulation.scala  "
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.005163,
+      "\u001b]0;fish  /home/fred/demo\u0007\u001b[30m\u001b(B\u001b[m\u001b[38;5;245m⏎\u001b[0m                                                                                         \r \r\u001b[32m~/demo\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      2.976767,
+      "g\u0008\u001b[31m\u001b[1mg\u001b(B\u001b[m"
+    ],
+    [
+      0.000971,
+      "\u001b[38;5;240mit push\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127438,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[K\u0008\u0008\u001b[38;5;26mga\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.025124,
+      "\u001b[38;5;240mtling-charts-highcharts-bundle-2.1.5/\u001b[37D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103021,
+      "\u001b[38;5;26mt\u001b[38;5;240mling-charts-highcharts-bundle-2.1.5/\u001b[36D\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u001b[31m\u001b[1mgat\u001b(B\u001b[m\u001b[38;5;240mling-charts-highcharts-bundle-2.1.5/\u001b[36D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.439017,
+      "\u001b[31m\u001b[1mling-charts-highcharts-bundle-2.1.5/\u001b(B\u001b[m"
+    ],
+    [
+      0.000510,
+      "\u001b[39D\u001b[38;5;26mgatling-charts-highcharts-bundle-2.1.5/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.888189,
+      "\u0008\u0008\u001b[K"
+    ],
+    [
+      0.000532,
+      "\u001b[37D\u001b[31m\u001b[1mgatling-charts-highcharts-bundle-2.1.\u001b(B\u001b[m"
+    ],
+    [
+      0.126810,
+      "\u0008\u0008\u001b[K"
+    ],
+    [
+      0.128707,
+      "\u0008\u0008\u001b[K"
+    ],
+    [
+      0.119514,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.129002,
+      "\u001b[11D\u001b[K"
+    ],
+    [
+      0.127468,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.135314,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      8.204890,
+      "\r\n\u001b[30m\u001b(B\u001b[m\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
