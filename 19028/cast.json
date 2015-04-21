@@ -1,0 +1,602 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 24,
+  "duration": 30.909742,
+  "command": "/usr/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.022317,
+      "\u001b]0;fred@fred-vm:~/demo\u0007"
+    ],
+    [
+      0.000277,
+      "[fred@fred-vm demo]$ "
+    ],
+    [
+      0.469550,
+      "t"
+    ],
+    [
+      0.079594,
+      "r"
+    ],
+    [
+      0.080412,
+      "e"
+    ],
+    [
+      0.167756,
+      "e"
+    ],
+    [
+      0.248511,
+      "\r\n"
+    ],
+    [
+      0.004606,
+      "\u001b[01;34m.\u001b[00m\r\n├── \u001b[01;32mconvert_grinder_to_gatling.py\u001b[00m\r\n├── \u001b[01;31mgatling-charts-highcharts-bundle-2.1.5-bundle.zip\u001b[00m\r\n├── \u001b[01;34minput\u001b[00m\r\n│   ├── fred-vm-2-data.log\r\n│   └── fred-vm-2.log\r\n└── \u001b[01;34moutput\u001b[00m\r\n\r\n2 directories, 4 files\r\n"
+    ],
+    [
+      0.000514,
+      "\u001b]0;fred@fred-vm:~/demo\u0007[fred@fred-vm demo]$ "
+    ],
+    [
+      1.561774,
+      "u"
+    ],
+    [
+      0.080472,
+      "n"
+    ],
+    [
+      0.215642,
+      "z"
+    ],
+    [
+      0.152909,
+      "i"
+    ],
+    [
+      0.095409,
+      "p"
+    ],
+    [
+      0.263912,
+      " "
+    ],
+    [
+      0.112338,
+      "g"
+    ],
+    [
+      0.175595,
+      "a"
+    ],
+    [
+      0.500157,
+      "tling-charts-highcharts-bundle-2.1.5-bundle.zip "
+    ],
+    [
+      2.011646,
+      "\r\n"
+    ],
+    [
+      0.002083,
+      "Archive:  gatling-charts-highcharts-bundle-2.1.5-bundle.zip\r\n"
+    ],
+    [
+      0.000205,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/\r\n"
+    ],
+    [
+      0.000116,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/bin/\r\n"
+    ],
+    [
+      0.000117,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/gatling.bat  "
+    ],
+    [
+      0.000145,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/gatling.sh  "
+    ],
+    [
+      0.000486,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/recorder.bat  "
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/bin/recorder.sh  "
+    ],
+    [
+      0.000267,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/conf/\r\n"
+    ],
+    [
+      0.000164,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/application.conf  \r\n"
+    ],
+    [
+      0.000010,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/gatling.conf  "
+    ],
+    [
+      0.000499,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/logback.xml  "
+    ],
+    [
+      0.000188,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/conf/recorder.conf  "
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/lib/\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/akka-actor_2.11-2.3.9.jar  "
+    ],
+    [
+      0.041305,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/async-http-client-1.9.18.jar  "
+    ],
+    [
+      0.005064,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/bcpkix-jdk15on-1.52.jar  "
+    ],
+    [
+      0.004439,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/bcprov-jdk15on-1.52.jar  "
+    ],
+    [
+      0.022721,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/boon-0.32.jar  "
+    ],
+    [
+      0.008587,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/commons-pool-1.6.jar  "
+    ],
+    [
+      0.001042,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/concurrentlinkedhashmap-lru-1.4.2.jar  "
+    ],
+    [
+      0.000990,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/config-1.2.1.jar  "
+    ],
+    [
+      0.002327,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/fastring_2.11-0.2.4.jar  "
+    ],
+    [
+      0.000902,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-app-2.1.5.jar  "
+    ],
+    [
+      0.000576,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-2.1.5.jar  "
+    ],
+    [
+      0.004272,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-charts-highcharts-2.1.5.jar  "
+    ],
+    [
+      0.001766,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-core-2.1.5.jar  "
+    ],
+    [
+      0.016330,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-http-2.1.5.jar  "
+    ],
+    [
+      0.010646,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jdbc-2.1.5.jar  "
+    ],
+    [
+      0.000466,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-jms-2.1.5.jar  "
+    ],
+    [
+      0.001228,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-metrics-2.1.5.jar  "
+    ],
+    [
+      0.000645,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-recorder-2.1.5.jar  "
+    ],
+    [
+      0.008364,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/gatling-redis-2.1.5.jar  "
+    ],
+    [
+      0.000204,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/geronimo-jms_1.1_spec-1.1.1.jar  "
+    ],
+    [
+      0.000507,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jackson-annotations-2.5.0.jar  "
+    ],
+    [
+      0.000387,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jackson-core-2.5.1.jar  "
+    ],
+    [
+      0.001961,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jackson-databind-2.5.2.jar  "
+    ],
+    [
+      0.008468,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jodd-core-3.6.5.jar  "
+    ],
+    [
+      0.003569,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jodd-lagarto-3.6.5.jar  "
+    ],
+    [
+      0.001926,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jodd-log-3.6.5.jar  "
+    ],
+    [
+      0.000356,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jsonpath_2.11-0.6.4.jar  "
+    ],
+    [
+      0.001604,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/jzlib-1.1.3.jar  "
+    ],
+    [
+      0.000650,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/logback-classic-1.1.3.jar  "
+    ],
+    [
+      0.002256,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/logback-core-1.1.3.jar  "
+    ],
+    [
+      0.003395,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/netty-3.10.1.Final.jar  "
+    ],
+    [
+      0.010697,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/opencsv-2.3.jar  "
+    ],
+    [
+      0.000355,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/redisclient_2.11-2.14.jar  "
+    ],
+    [
+      0.006027,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/Saxon-HE-9.6.0-5.jar  "
+    ],
+    [
+      0.033218,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-compiler-2.11.6.jar  "
+    ],
+    [
+      0.109110,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-library-2.11.6.jar  "
+    ],
+    [
+      0.045288,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-logging_2.11-3.1.0.jar  "
+    ],
+    [
+      0.000557,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-parser-combinators_2.11-1.0.3.jar  "
+    ],
+    [
+      0.003147,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-reflect-2.11.6.jar  "
+    ],
+    [
+      0.035771,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-swing_2.11-1.0.1.jar  "
+    ],
+    [
+      0.006256,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scala-xml_2.11-1.0.3.jar  "
+    ],
+    [
+      0.004784,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/scopt_2.11-3.3.0.jar  "
+    ],
+    [
+      0.001075,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/slf4j-api-1.7.12.jar  "
+    ],
+    [
+      0.000350,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/t-digest-3.0.jar  "
+    ],
+    [
+      0.000632,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/threetenbp-1.2.jar  "
+    ],
+    [
+      0.004252,
+      "\r\n   creating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/\r\n"
+    ],
+    [
+      0.000032,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/compiler-interface-0.13.5-sources.jar  "
+    ],
+    [
+      0.000580,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/config-1.2.1.jar  "
+    ],
+    [
+      0.001892,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/gatling-compiler-2.1.5.jar  "
+    ],
+    [
+      0.000541,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/incremental-compiler-0.13.5.jar  "
+    ],
+    [
+      0.017997,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/logback-classic-1.1.3.jar  "
+    ],
+    [
+      0.002270,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/logback-core-1.1.3.jar  "
+    ],
+    [
+      0.003700,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/sbt-interface-0.13.5.jar  "
+    ],
+    [
+      0.000460,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/scala-library.jar  "
+    ],
+    [
+      0.056740,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/scala-reflect.jar  "
+    ],
+    [
+      0.026020,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/scopt_2.10-3.3.0.jar  "
+    ],
+    [
+      0.001140,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/slf4j-api-1.7.12.jar  "
+    ],
+    [
+      0.000437,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/lib/zinc/zinc-0.3.5.3.jar  "
+    ],
+    [
+      0.003086,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/LICENSE  "
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/results/\r\n"
+    ],
+    [
+      0.000178,
+      " extracting: gatling-charts-highcharts-bundle-2.1.5/results/.keep  \r\n   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/\r\n   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/bodies/\r\n extracting: gatling-charts-highcharts-bundle-2.1.5/user-files/bodies/.keep  \r\n   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/data/\r\n"
+    ],
+    [
+      0.000017,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/data/search.csv  "
+    ],
+    [
+      0.000165,
+      "\r\n   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/\r\n"
+    ],
+    [
+      0.000042,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/\r\n"
+    ],
+    [
+      0.000109,
+      "   creating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep01.scala  "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep02.scala  "
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep03.scala  "
+    ],
+    [
+      0.000098,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep04.scala  "
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep05.scala  "
+    ],
+    [
+      0.000119,
+      "\r\n  inflating: gatling-charts-highcharts-bundle-2.1.5/user-files/simulations/computerdatabase/BasicSimulation.scala  \r\n"
+    ],
+    [
+      0.000940,
+      "\u001b]0;fred@fred-vm:~/demo\u0007[fred@fred-vm demo]$ "
+    ],
+    [
+      3.375677,
+      "./convert_grinder_to_gatling.py -l input/fred-vm-2.log -d input/fred- \rvm-2-data.log -o output/simulation.log"
+    ],
+    [
+      2.643355,
+      "\r\n"
+    ],
+    [
+      0.615437,
+      "\u001b]0;fred@fred-vm:~/demo\u0007[fred@fred-vm demo]$ "
+    ],
+    [
+      3.771418,
+      "gatling-charts-highcharts-bundle-2.1.5/bin/gatling.sh -ro $(pwd)/outp \rut"
+    ],
+    [
+      0.412880,
+      "\r\n"
+    ],
+    [
+      0.010048,
+      "GATLING_HOME is set to /home/fred/demo/gatling-charts-highcharts-bundle-2.1.5\r\n"
+    ],
+    [
+      5.000000,
+      "Picked up _JAVA_OPTIONS: -Djava.net.preferIPv4Stack=true\r\n"
+    ],
+    [
+      0.813122,
+      "Parsing log file(s)...\r\n"
+    ],
+    [
+      0.812788,
+      "Parsing log file(s) done"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.018448,
+      "Generating reports...\r\n"
+    ],
+    [
+      0.726074,
+      "\r\n================================================================================\r\n---- Global Information --------------------------------------------------------\r\n\u003e request count                                      13999 (OK=13999  KO=0     )\r\n\u003e min response time                                      1 (OK=1      KO=-     )\r\n\u003e max response time                                    638 (OK=638    KO=-     )\r\n\u003e mean response time                                    23 (OK=23     KO=-     )\r\n\u003e std deviation                                         59 (OK=59     KO=-     )\r\n\u003e response time 50th percentile                          7 (OK=7      KO=-     )\r\n\u003e response time 75th percentile                         11 (OK=11     KO=-     )\r\n\u003e mean requests/sec                                 56.436 (OK=56.436 KO=-     )\r\n---- Response Time Distribution ------------------------------------------------\r\n\u003e t \u003c 800 ms                                         13999 (100%)\r\n\u003e 800 ms \u003c t \u003c 1200 ms                                   0 (  0%)\r\n\u003e t \u003e 1200 ms                                            0 (  0%)\r\n\u003e failed                                                 0 (  0%)\r\n================================================================================\r\n\r\n"
+    ],
+    [
+      0.000313,
+      "Reports generated in 1s.\r\nPlease open the following file: /home/fred/demo/output/index.html"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.004324,
+      "\u001b]0;fred@fred-vm:~/demo\u0007"
+    ],
+    [
+      0.000007,
+      "[fred@fred-vm demo]$ "
+    ],
+    [
+      1.722077,
+      "c"
+    ],
+    [
+      0.063763,
+      "d"
+    ],
+    [
+      0.056581,
+      " "
+    ],
+    [
+      0.199118,
+      "o"
+    ],
+    [
+      0.087932,
+      "u"
+    ],
+    [
+      0.079866,
+      "t"
+    ],
+    [
+      0.280187,
+      "\u0007"
+    ],
+    [
+      0.685922,
+      "put/"
+    ],
+    [
+      0.377940,
+      "\r\n\u001b]0;fred@fred-vm:~/demo/output\u0007[fred@fred-vm output]$ "
+    ],
+    [
+      0.448078,
+      "l"
+    ],
+    [
+      0.104782,
+      "s"
+    ],
+    [
+      0.055649,
+      "\r\n"
+    ],
+    [
+      0.001631,
+      "index.html         req_12-c20ad.html  req_3-eccbc.html  req_7-8f14e.html  \u001b[0m\u001b[01;34mstyle\u001b[0m\r\n\u001b[01;34mjs\u001b[0m                 req_13-c51ce.html  req_4-a87ff.html  req_8-c9f0f.html\r\nreq_10-d3d94.html  req_1-c4ca4.html   req_5-e4da3.html  req_9-45c48.html\r\nreq_11-6512b.html  req_2-c81e7.html   req_6-16790.html  simulation.log\r\n"
+    ],
+    [
+      0.000413,
+      "\u001b]0;fred@fred-vm:~/demo/output\u0007[fred@fred-vm output]$ "
+    ],
+    [
+      1.757750,
+      "exit\r\n"
+    ]
+  ]
+}
