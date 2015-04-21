@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "width": 178,
+  "height": 58,
+  "duration": 6.449440,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.010992,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      1.748902,
+      "l"
+    ],
+    [
+      0.127952,
+      "s"
+    ],
+    [
+      0.247724,
+      "\r\n"
+    ],
+    [
+      0.040464,
+      "\u001b[1m\u001b[31m381_PROJ_6\u001b[39;49m\u001b[0m             cruise_out_correct.txt errors_out_correct.txt view0_in.txt           view1_out.txt          view2_out_correct.txt\r\nMakefile               demo1_in.txt           status_in.txt          view0_out.txt          view1_out_correct.txt  views_in.txt\r\ncruise_in.txt          errors_in.txt          status_out.txt         view0_out_correct.txt  view2_in.txt           views_out.txt\r\n"
+    ],
+    [
+      0.000495,
+      "cruise_out.txt         errors_out.txt         status_out_correct.txt view1_in.txt           view2_out.txt          views_out_correct.txt\r\n"
+    ],
+    [
+      0.000010,
+      "bash-3.2$ "
+    ],
+    [
+      1.847207,
+      "e"
+    ],
+    [
+      0.160004,
+      "x"
+    ],
+    [
+      0.176073,
+      "i"
+    ],
+    [
+      0.191903,
+      "t"
+    ],
+    [
+      1.895673,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "exit\r\n"
+    ]
+  ]
+}
