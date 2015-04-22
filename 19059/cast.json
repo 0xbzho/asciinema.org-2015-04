@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "width": 237,
+  "height": 58,
+  "duration": 5.179817,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.294368,
+      "\u001b]0;ncl@ubuntu: ~\u0007ncl@ubuntu:~$ "
+    ],
+    [
+      0.169088,
+      "cat decrypt.asm | sed -e 's/\\(.*\u003e\\ 0x\\)\\([0-9a-f]*\\)\\([\\ \\.0-9a-f]*\\(.*\\)\\)/\\nloc.\\2:\\n\\4/g;s/\\(j[a-z]*\\ \\)\\(\\0x\\)\\([0-9]*\\)/\\1loc.\\3/g;s/^[\\|=\\ \u003c,]*0x[0-9a-f]*[\\ ]*[0-9a-f]*[\\ ]*//g;s/|[\\ ]*//g;s/\\/.*//g;s/\\.\\ *//g' | grep \r -Ev 'JMP XREF from'"
+    ],
+    [
+      2.625299,
+      "\r\n"
+    ],
+    [
+      0.010373,
+      "\r\n; arg int arg_3        @ ebp+0xc\r\n"
+    ],
+    [
+      0.000022,
+      "; arg int arg_5        @ ebp+0x14\r\n; var int local_1      @ ebp-0x4\r\n; CALL XREF from 0x0805095f (sym_ZN9CServerIP10InitializeEv)\r\n; CALL XREF from 0x0805097a (sym_ZN9CServerIP10InitializeEv)\r\n;-- sym_ZN8CUtility7DeCryptEPciPKci:\r\n"
+    ],
+    [
+      0.000706,
+      "push ebp\r\nmov ebp, esp\r\nsub esp, 0x10\r\nmov dword [ebp-local_1], 0\r\njmp loc805f276                 \r\nmov eax, dword [ebp-local_1]\r\nand eax, 1\r\ntest al, al\r\nje loc805f25e                  \r\nmov eax, dword [ebp-local_1]\r\nmov edx, eax\r\nadd edx, dword [ebp + 8]\r\nmov eax, dword [ebp-local_1]\r\nadd eax, dword [ebp + 0x10]\r\nmov al, byte [eax]\r\ninc eax\r\nmov byte [edx], al\r\njmp loc805f271                 \r\n\r\nloc0805f25e:\r\nmov eax, dword [ebp-local_1]\r\nmov edx, eax\r\n"
+    ],
+    [
+      0.000333,
+      "add edx, dword [ebp + 8]\r\nmov eax, dword [ebp-local_1]\r\nadd eax, dword [ebp + 0x10]\r\nmov al, byte [eax]\r\ndec eax\r\nmov byte [edx], al\r\n\r\n"
+    ],
+    [
+      0.002668,
+      "loc0805f271:\r\nlea eax, [ebp-local_1]\r\ninc dword [eax]\r\n\r\nloc0805f276:\r\nmov eax, dword [ebp-local_1]\r\ncmp eax, dword [ebp + 0x14]     ; [0x14:4]=1\r\njge loc805f292                 \r\nmov eax, dword [ebp-local_1]\r\ncmp eax, dword [ebp + 0xc]      ; [0xc:4]=0\r\njge loc805f292                 \r\nmov eax, dword [ebp-local_1]\r\nadd eax, dword [ebp + 0x10]\r\nmov al, byte [eax]\r\ntest al, al\r\njne loc805f23f                 \r\n\r\nloc0805f292:\r\nleave\r\nret\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b]0;ncl@ubuntu: ~\u0007ncl@ubuntu:~$ "
+    ],
+    [
+      2.076392,
+      "exit\r\n"
+    ]
+  ]
+}
