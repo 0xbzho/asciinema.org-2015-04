@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 15.966154,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007974,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      2.454706,
+      "m"
+    ],
+    [
+      0.070071,
+      "t"
+    ],
+    [
+      0.064751,
+      "r"
+    ],
+    [
+      0.095376,
+      " "
+    ],
+    [
+      1.364015,
+      "f"
+    ],
+    [
+      0.189817,
+      "r"
+    ],
+    [
+      0.085307,
+      "."
+    ],
+    [
+      0.596674,
+      "b"
+    ],
+    [
+      0.094759,
+      "p"
+    ],
+    [
+      0.089994,
+      "h"
+    ],
+    [
+      0.116318,
+      "."
+    ],
+    [
+      0.110079,
+      "r"
+    ],
+    [
+      0.114491,
+      "o"
+    ],
+    [
+      0.130091,
+      "c"
+    ],
+    [
+      0.071193,
+      "k"
+    ],
+    [
+      0.180014,
+      "s"
+    ],
+    [
+      0.361103,
+      "\r\n"
+    ],
+    [
+      0.002324,
+      "\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[1;34H\u001b(B\u001b[0;1m\u001b[39;49m\u001b[37m\u001b[40m\u001b[1K My traceroute  [v0.86]\r\n\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40mprime (::)\u001b[2;66HWed Apr 22 09:27:53 2015\r\nKeys:  \u001b(B\u001b[0;1m\u001b[39;49m\u001b[37m\u001b[40mH\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40melp   \u001b(B\u001b[0;1m\u001b[39;49m\u001b[37m\u001b[40mD\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40misplay mode   \u001b(B\u001b[0;1m\u001b[39;49m\u001b[37m\u001b[40mR\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40mestart statistics   \u001b(B\u001b[0;1m\u001b[39;49m\u001b[37m\u001b[40mO\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40mrder of fields   \u001b(B\u001b[0;1m\u001b[39;49m\u001b[37m\u001b[40mq\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40muit\u001b[4;47H\u001b(B\u001b[0;1m\u001b[39;49m\u001b[37m\u001b[40m   Packets\u001b[15X\u001b[4;72HPings\r\n Host\u001b[5;47H Loss%   Snt   Last   Avg  Best  Wrst StDev\u001b[H\n\n\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "No nameservers defined.\n"
+    ],
+    [
+      0.000498,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      1.059391,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      0.175951,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      0.164712,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      0.166342,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      1.927018,
+      "\r\u001b[3g        \u001bH        \u001bH        \u001bH        \u001bH        \u001bH        \u001bH        \u001bH        \u001bH        \u001bH        \u001bH        \u001bH\r\u001bc\u001b[!p\u001b[?3;4l\u001b[4l\u001b\u003e\r"
+    ],
+    [
+      0.523471,
+      "\r\n"
+    ],
+    [
+      0.349987,
+      "\r\n"
+    ],
+    [
+      0.126901,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# \r\n\u001b]0;root@prime: ~\u0007root@prime:~# \r\n\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      0.229317,
+      "\r\n\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      1.053196,
+      "p"
+    ],
+    [
+      0.210142,
+      "i"
+    ],
+    [
+      0.150913,
+      "n"
+    ],
+    [
+      0.059810,
+      "g"
+    ],
+    [
+      0.214754,
+      " "
+    ],
+    [
+      0.446221,
+      "g"
+    ],
+    [
+      0.055786,
+      "o"
+    ],
+    [
+      0.150118,
+      "o"
+    ],
+    [
+      0.035076,
+      "g"
+    ],
+    [
+      0.180033,
+      "l"
+    ],
+    [
+      0.055719,
+      "e"
+    ],
+    [
+      0.140109,
+      "."
+    ],
+    [
+      0.069997,
+      "c"
+    ],
+    [
+      0.120136,
+      "o"
+    ],
+    [
+      0.161060,
+      "m"
+    ],
+    [
+      0.219965,
+      "\r\n"
+    ],
+    [
+      0.048834,
+      "PING google.com (216.58.210.78) 56(84) bytes of data.\r\n"
+    ],
+    [
+      0.068324,
+      "64 bytes from lhr14s24-in-f14.1e100.net (216.58.210.78): icmp_seq=1 ttl=58 time=30.7 ms\r\n"
+    ],
+    [
+      0.769860,
+      "^C"
+    ],
+    [
+      0.000347,
+      "\r\n--- google.com ping statistics ---\r\n1 packets transmitted, 1 received, 0% packet loss, time 0ms\r\nrtt min/avg/max/mdev = 30.791/30.791/30.791/0.000 ms\r\n"
+    ],
+    [
+      0.000287,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      0.832538,
+      "exit\r\n"
+    ]
+  ]
+}
