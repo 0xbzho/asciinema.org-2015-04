@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 153,
+  "height": 44,
+  "duration": 5.013170,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005377,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      5.007353,
+      "exit\r\n"
+    ]
+  ]
+}
