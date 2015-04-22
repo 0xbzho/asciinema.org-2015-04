@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 23,
+  "duration": 20.480186,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.082662,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.000012,
+      "\u001b]2;dporter@L2282: /etc/apache2\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;/etc/apache2\u0007"
+    ],
+    [
+      0.016223,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mapache2 \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000085,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.929683,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mapache2 \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      1.520222,
+      "x"
+    ],
+    [
+      0.079492,
+      "\u0008xi"
+    ],
+    [
+      0.039836,
+      " "
+    ],
+    [
+      1.088132,
+      "S"
+    ],
+    [
+      0.688300,
+      "e"
+    ],
+    [
+      0.055780,
+      "r"
+    ],
+    [
+      0.319932,
+      "v"
+    ],
+    [
+      0.176268,
+      "e"
+    ],
+    [
+      0.048027,
+      "r"
+    ],
+    [
+      0.647686,
+      "P"
+    ],
+    [
+      0.600310,
+      "\u0008 \u0008"
+    ],
+    [
+      0.295581,
+      "R"
+    ],
+    [
+      0.360274,
+      "o"
+    ],
+    [
+      0.103832,
+      "o"
+    ],
+    [
+      0.111983,
+      "t"
+    ],
+    [
+      0.336017,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000077,
+      "\r\r\n"
+    ],
+    [
+      0.000891,
+      "\u001b]2;xi ServerRoot\u0007\u001b]1;xi\u0007"
+    ],
+    [
+      0.046829,
+      "0 : ./extra/httpd-dav.conf:9:# \"uploads\" under the \u001b[94mServerRoot\u001b[0...\r\n"
+    ],
+    [
+      0.000007,
+      "1 : ./httpd.conf:16:# with \"/\", the value of \u001b[94mServerRoot\u001b[0m is p...\r\n2 : ./httpd.conf:17:# with \u001b[94mServerRoot\u001b[0m set to '/www' will be ...\r\n"
+    ],
+    [
+      0.000018,
+      "3 : ./httpd.conf:22:# \u001b[94mServerRoot\u001b[0m: The top of the directory t...\r\n"
+    ],
+    [
+      0.000017,
+      "4 : ./httpd.conf:26:# \u001b[94mServerRoot\u001b[0m at a non-local disk, be sur...\r\n"
+    ],
+    [
+      0.000021,
+      "5 : ./httpd.conf:27:# at a local disk.  If you wish to share the same...\r\n"
+    ],
+    [
+      0.000015,
+      "6 : ./httpd.conf:30:\u001b[94mServerRoot\u001b[0m \"/usr\"\r\n"
+    ],
+    [
+      0.000008,
+      "7 : ./original/extra/httpd-dav.conf:9:# \"uploads\" under the \u001b[94mServ...\r\n"
+    ],
+    [
+      0.000013,
+      "8 : ./original/httpd.conf:16:# with \"/\", the value of \u001b[94mServerRoot...\r\n"
+    ],
+    [
+      0.000015,
+      "9 : ./original/httpd.conf:17:# with \u001b[94mServerRoot\u001b[0m set to '/www'...\r\n"
+    ],
+    [
+      0.000015,
+      "10 : ./original/httpd.conf:22:# \u001b[94mServerRoot\u001b[0m: The top of the di...\r\n"
+    ],
+    [
+      0.000016,
+      "11 : ./original/httpd.conf:26:# \u001b[94mServerRoot\u001b[0m at a non-local dis...\r\n"
+    ],
+    [
+      0.000021,
+      "12 : ./original/httpd.conf:27:# at a local disk.  If you wish to share...\r\n"
+    ],
+    [
+      0.000025,
+      "13 : ./original/httpd.conf:30:\u001b[94mServerRoot\u001b[0m \"/usr\"...\r\n"
+    ],
+    [
+      2.288365,
+      "6"
+    ],
+    [
+      1.495521,
+      "\r\n"
+    ],
+    [
+      0.114471,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000963,
+      "\u001b[1;23r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[23;1H\"/private/etc/apache2/httpd.conf\""
+    ],
+    [
+      0.000183,
+      " [readonly] 501L, 18121C"
+    ],
+    [
+      0.022598,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.002878,
+      "\u001b[1;1H\u001b[93m 11 \u001b[m\u001b[96m# consult the online docs. You have been warned.  \u001b[m\r\n\u001b[93m 12 \u001b[m\u001b[96m#\u001b[m\r\n\u001b[93m 13 \u001b[m\u001b[96m# Configuration and logfile names: If the filenames you specify for many\u001b[m\r\n\u001b[93m 14 \u001b[m\u001b[96m# of the server's control files begin with \"/\" (or \"drive:/\" for Win32), the\u001b[m\r\n\u001b[93m 15 \u001b[m\u001b[96m# server will use that explicit path.  If the filenames do *not* begin\u001b[m\r\n\u001b[93m 16 \u001b[m\u001b[96m# with \"/\", the value of ServerRoot is prepended -- so 'log/access_log'\u001b[m\r\n\u001b[93m 17 \u001b[m\u001b[96m# with ServerRoot set to '/www' will be interpreted by the\u001b[m\r\n\u001b[93m 18 \u001b[m\u001b[96m# server as '/www/log/access_log', where as '/log/access_log' will be\u001b[m\r\n\u001b[93m 19 \u001b[m\u001b[96m# interpreted as '/log/access_log'.\u001b[m\r\n\u001b[93m 20 \r\n 21 \u001b[m\u001b[96m#\u001b[m\r\n\u001b[93m 22 \u001b[m\u001b[96m# ServerRoot: The top of the directory tree under which the server's\u001b[m\r\n\u001b[93m 23 \u001b[m\u001b[96m# configuration, error, and log files are kept.\u001b[m\r\n\u001b[93m 24 \u001b[m\u001b[96m#\u001b[m\r\n\u001b[93m 25 \u001b[m\u001b[96m# Do not add a slash at the end of the directory path.  If you point\u001b[m\r\n\u001b[93m 26 \u001b[m\u001b[96m"
+    ],
+    [
+      0.000008,
+      "# ServerRoot at a non-local disk, be sure to point the LockFile directive\u001b[m\r\n\u001b[93m 27 \u001b[m\u001b[96m# at a local disk.  If you wish to share the same ServerRoot for multiple\u001b[m\r\n\u001b[93m 28 \u001b[m\u001b[96m# httpd daemons, you will need to change at least LockFile and PidFile.\u001b[m\r\n\u001b[93m 29 \u001b[m\u001b[96m#\u001b[m\r\n\u001b[93m 30 \u001b[m\u001b[1m\u001b[96mServerRoot\u001b[m \u001b[95m\"/usr\"\u001b[m\r\n\u001b[93m 31 \u001b[m\r\n\u001b[1m\u001b[7mhttpd.conf [RO]                                                    30,1            2%\u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.514536,
+      "\u001b[?25l\u001b[m\u001b[23;75HV\u001b[20;5H"
+    ],
+    [
+      0.000080,
+      "\u001b[23;75H1\u001b[20;5H\u001b[1C\u001b[1m\u001b[96m\u001b[48;5;242merverRoot\u001b[m\u001b[48;5;242m \u001b[m\u001b[95m\u001b[48;5;242m\"/usr\"\u001b[m\u001b[48;5;242m "
+    ],
+    [
+      0.000007,
+      "\u001b[m\r\n\r\n\r\n\u001b[1m-- VISUAL LINE --\u001b[m\u001b[23;18H\u001b[K"
+    ],
+    [
+      0.000016,
+      "\u001b[23;75H1\u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.959916,
+      "\u001b[?25l\u001b[23;75H^[\u001b[20;5H"
+    ],
+    [
+      0.100931,
+      "\u001b[23;75H1 \u001b[20;5H\u001b[23;76H^[\u001b[20;5H"
+    ],
+    [
+      0.000113,
+      "\u001b[23;75H   \u001b[20;5H\u001b[1C\u001b[1m\u001b[96merverRoot\u001b[m \u001b[95m\"/usr\"\u001b[m\u001b[20;22H\u001b[K\u001b[23;1H\u001b[K\u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.755090,
+      "\u001b[?25l\u001b[23;75H:\u001b[20;5H"
+    ],
+    [
+      0.000007,
+      "\u001b[23;75H\u001b[K\u001b[23;1H:"
+    ],
+    [
+      0.000017,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127833,
+      "q"
+    ],
+    [
+      0.727885,
+      "!"
+    ],
+    [
+      0.424089,
+      "\r"
+    ],
+    [
+      0.011777,
+      "\u001b[?25l"
+    ],
+    [
+      0.000007,
+      "\u001b[23;1H\u001b[K\u001b[23;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.007255,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.000054,
+      "\u001b]2;dporter@L2282: /etc/apache2\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;/etc/apache2\u0007"
+    ],
+    [
+      0.011042,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mapache2 \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000015,
+      "\u001b[K"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.330167,
+      "\r\r\n"
+    ]
+  ]
+}
