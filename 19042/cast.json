@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 35.664863,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.069861,
+      "\u001b]0;saiberz@samsung: ~/Downloads\u0007saiberz@samsung:~/Downloads$ "
+    ],
+    [
+      2.673391,
+      "p"
+    ],
+    [
+      0.179596,
+      "y"
+    ],
+    [
+      0.184752,
+      "t"
+    ],
+    [
+      0.134482,
+      "\u0007hon"
+    ],
+    [
+      0.624455,
+      " "
+    ],
+    [
+      0.754043,
+      "D"
+    ],
+    [
+      0.439266,
+      "o"
+    ],
+    [
+      0.344568,
+      "t"
+    ],
+    [
+      0.221197,
+      "aYY.py "
+    ],
+    [
+      0.677942,
+      "\r\n"
+    ],
+    [
+      1.036871,
+      "1 200 200 Ancient Rhythms Loading Screen\r\n"
+    ],
+    [
+      0.854585,
+      "2 200 200 Recipe: Polymorph Common Items\r\n"
+    ],
+    [
+      0.519567,
+      "3 200 200 Recipe: Augment Common Items\r\n"
+    ],
+    [
+      0.696996,
+      "4 200 200 Recipe: Materialize Item\r\n"
+    ],
+    [
+      0.432058,
+      "5 200 200 Wrist Shackles of the Black Death\r\n"
+    ],
+    [
+      0.759893,
+      "6 200 200 Inscribed Kill Assists\r\n"
+    ],
+    [
+      0.600759,
+      "7 200 200 Shoulder of Eternal Reign\r\n"
+    ],
+    [
+      0.880335,
+      "8 200 200 Phasma Phasmatis Head\r\n"
+    ],
+    [
+      0.885464,
+      "9 200 200 Halberd of the Equine Emissary \r\n"
+    ],
+    [
+      5.308933,
+      "'NoneType' object has no attribute '__getitem__'\r\n"
+    ],
+    [
+      5.291403,
+      "'NoneType' object has no attribute '__getitem__'\r\n"
+    ],
+    [
+      0.802210,
+      "10 200 200 Heavenly Guardian Bracers\r\n"
+    ],
+    [
+      0.871800,
+      "11 200 200 Belt of the Arsenal Magus"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.798966,
+      "12 200 200 Arms of the Silent Champion\r\n"
+    ],
+    [
+      0.890858,
+      "13 200 200 Helmet of the Silent Champion\r\n"
+    ],
+    [
+      0.843202,
+      "14 200 200 Starrider of the Crescent Steel Helmet\r\n"
+    ],
+    [
+      0.995706,
+      "15 200 200 Phasma Phasmatis Belt\r\n"
+    ],
+    [
+      0.868570,
+      "16 200 200 Hair of the Arsenal Magus\r\n"
+    ],
+    [
+      4.902433,
+      "^C"
+    ],
+    [
+      0.008611,
+      "Traceback (most recent call last):\r\n  File \"DotaYY.py\", line 46, in \u003cmodule\u003e\r\n    sleep(5)\r\nKeyboardInterrupt\r\n"
+    ],
+    [
+      0.005586,
+      "\u001b]0;saiberz@samsung: ~/Downloads\u0007saiberz@samsung:~/Downloads$ "
+    ],
+    [
+      1.106229,
+      "exit\r\n"
+    ]
+  ]
+}
