@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "width": 153,
+  "height": 44,
+  "duration": 24.359488,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.018311,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      1.610723,
+      "h"
+    ],
+    [
+      0.100878,
+      "t"
+    ],
+    [
+      0.054970,
+      "o"
+    ],
+    [
+      0.185508,
+      "p"
+    ],
+    [
+      0.166013,
+      "\r\n"
+    ],
+    [
+      0.002494,
+      "\u001b[?1049h\u001b[1;44r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000086,
+      "\u001b[?25l"
+    ],
+    [
+      0.000103,
+      "\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.301004,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|||\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m\u001b[57X\u001b[2;69H4.9%\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m7605\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m346\u001b(B\u001b[0m\u001b[36m thr; \u001b(B\u001b[0;1m\u001b[32m1\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|||\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m\u001b[57X\u001b[3;69H4.7%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m0.25 \u001b[39m\u001b(B\u001b[m0.24 \u001b(B\u001b[0;1m0.23 \u001b[4;3H\u001b(B\u001b[0m\u001b[36m3  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|||\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m\u001b[57X\u001b[4;69H4.9%\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m8 days, 16:12:58\u001b[5;3H\u001b(B\u001b[0m\u001b[36m4  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|||\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m\u001b[57X\u001b[5;69H5.1%\u001b[39m]\u001b[6;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||||||||||||||||||||||||\u001b[34m||||||\u001b[33m||||||||||||||||||||||\u001b(B\u001b[0;1m\u001b[30m 2983/7842MB\u001b[39m]\u001b[7;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m||||||||||||\u001b(B\u001b[0;1m\u001b[30m\u001b[43X\u001b[7;62H1447/8060MB\u001b[39m]\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[10d\u001b[30m\u001b[46m20762 root       20   0 30136  7876  2956 R 41.9  0.1  0:00.19 htop\u001b[K\u001b[11;2H\u001b[39;49m\u001b(B\u001b[m2025 \u001b(B\u001b[0;1m\u001b[30mbtsync    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 773M  164M  3\u001b[39m\u001b(B\u001b[m840 S  4.7  2.1 \u001b(B\u001b[0;1m\u001b[31m 1h\u001b[39m\u001b(B\u001b[m02:52 /usr/lib/btsync/btsync-daemon --nodaemon --log sync.log --config /etc/btsync/debconf-defau\u001b[12;1H20310 \u001b(B\u001b[0;1m\u001b[30mntp       \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m33\u001b[39m\u001b(B\u001b[m564 \u001b[36m 3\u001b[39m\u001b(B\u001b[m548 \u001b[36m 3\u001b[39m\u001b(B\u001b[m368 S  4.7  0.0 15:16.02 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 121:129\u001b[13;5H1 root\u001b[18G20   0 \u001b[36m30\u001b[39m\u001b(B\u001b[m704 \u001b[36m 3\u001b[39m\u001b(B\u001b[m928 \u001b[36m 2\u001b[39m\u001b(B\u001b[m084 S  0.0  0.0  0:07.23 /sbin/init\u001b[14;3H302 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   688   688 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[15;3H305 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m432 \u001b[36m 1\u001b[39m\u001b(B\u001b[m432 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[16;3H308 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m616 \u001b[36m 2\u001b[39m\u001b(B\u001b[m612 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[17;3H312 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   604   604 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[18;3H314 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m388 \u001b[36m 1\u001b[39m\u001b(B\u001b[m388 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[19;3H316 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m704 \u001b[36m 2\u001b[39m\u001b(B\u001b[m700 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[20;3H318 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m984 \u001b[36m 2\u001b[39m\u001b(B\u001b[m700 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[21;3H320 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   772   772 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[22;3H322 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m404 \u001b[36m 1\u001b[39m\u001b(B\u001b[m404 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[23;3H341 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   720   720 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[24;3H343 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   664   664 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[25;3H344 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m392 \u001b[36m 1\u001b[39m\u001b(B\u001b[m392 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[26;3H345 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m392 \u001b[36m 1\u001b[39m\u001b(B\u001b[m392 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[27;3H352 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   612   612 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[28;3H354 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m516 \u001b[36m 1\u001b[39m\u001b(B\u001b[m516 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[29;3H358 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   684   604 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[30;3H360 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m572 \u001b[36m 1\u001b[39m\u001b(B\u001b[m416 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[31;3H361 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m976 \u001b[36m 2\u001b[39m\u001b(B\u001b[m696 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[32;3H367 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   716   716 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[33;3H369 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[3"
+    ],
+    [
+      0.000017,
+      "6m 1\u001b[39m\u001b(B\u001b[m380 \u001b[36m 1\u001b[39m\u001b(B\u001b[m380 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[34;3H371 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m704 \u001b[36m 2\u001b[39m\u001b(B\u001b[m688 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[35;3H373 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   684   684 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[36;3H374 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m980 \u001b[36m 2\u001b[39m\u001b(B\u001b[m700 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[37;3H375 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m888 \u001b[36m 2\u001b[39m\u001b(B\u001b[m608 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[38;3H376 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m484 \u001b[36m 1\u001b[39m\u001b(B\u001b[m484 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[39;3H380 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   688   688 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[40;3H381 root\u001b[18G20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m696 \u001b[36m 2\u001b[39m\u001b(B\u001b[m692 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[41;3H382 root\u001b[18G20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   692   612 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[42;3H384 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m404 \u001b[36m 1\u001b[39m\u001b(B\u001b[m404 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[43;3H385 root\u001b[18G20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m568 \u001b[36m 1\u001b[39m\u001b(B\u001b[m416 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\r\u001b[44dF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.610129,
+      "\u001b[2;7H\u001b[32m||||||||||\u001b[31m|||||||||||||||||||||||||||||||||||\u001b[2;68H\u001b(B\u001b[0;1m\u001b[30m66.7\u001b[3;7H     \u001b[3;69H0.0\u001b[4;7H\u001b(B\u001b[0m\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m  \u001b[4;71H5\u001b[4;99H\u001b[36m3:00\u001b[5;7H\u001b[30m     \u001b[5;69H0.0\u001b[6;65H7\r\u001b[10d\u001b[39m\u001b(B\u001b[m20762 root       20   0 \u001b[36m30\u001b[39m\u001b(B\u001b[m136 \u001b[36m 7\u001b[39m\u001b(B\u001b[m876 \u001b[36m 2\u001b[39m\u001b(B\u001b[m956 \u001b[32mR \u001b[39m\u001b(B\u001b[m41.9  0.1  0:00.19 htop\u001b[K\r\u001b[11d\u001b[30m\u001b[46m 2025 btsync     20   0  773M  164M  3840 S  4.7  2.1  1h02:52 /usr/lib/btsync/btsync-daemon --nodaemon --log sync.log --config /etc/btsync/debconf-defau\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.210675,
+      "\u001b[11d 2025 \u001b(B\u001b[0;1m\u001b[30mbtsync    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 773M  164M  3\u001b[39m\u001b(B\u001b[m840 S  4.7  2.1 \u001b(B\u001b[0;1m\u001b[31m 1h\u001b[39m\u001b(B\u001b[m02:52 /usr/lib/btsync/btsync-daemon --nodaemon --log sync.log --config /etc/btsync/debconf-defau\u001b[12;1H\u001b[30m\u001b[46m20310 ntp        20   0 33564  3548  3368 S  4.7  0.0 15:16.02 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 121:129\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.160028,
+      "\u001b[12d20310 \u001b(B\u001b[0;1m\u001b[30mntp       \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m33\u001b[39m\u001b(B\u001b[m564 \u001b[36m 3\u001b[39m\u001b(B\u001b[m548 \u001b[36m 3\u001b[39m\u001b(B\u001b[m368 S  4.7  0.0 15:16.02 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 121:129\u001b[K\r\u001b[13d\u001b[30m\u001b[46m    1 root       20   0 30704  3928  2084 S  0.0  0.0  0:07.23 /sbin/init\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.499470,
+      "\u001b[13d    1 root       20   0 \u001b[36m30\u001b[39m\u001b(B\u001b[m704 \u001b[36m 3\u001b[39m\u001b(B\u001b[m928 \u001b[36m 2\u001b[39m\u001b(B\u001b[m084 S  0.0  0.0  0:07.23 /sbin/init\u001b[K\r\u001b[14d\u001b[30m\u001b[46m  302 root       20   0  4444   688   688 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.032946,
+      "\u001b[14d  302 root       20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   688   688 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\r\u001b[15d\u001b[30m\u001b[46m  305 root       20   0 15096  1432  1432 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.033332,
+      "\u001b[15d  305 root       20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m432 \u001b[36m 1\u001b[39m\u001b(B\u001b[m432 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\r\u001b[16d\u001b[30m\u001b[46m  308 root       20   0 18004  2616  2612 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.032699,
+      "\u001b[16d  308 root       20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m616 \u001b[36m 2\u001b[39m\u001b(B\u001b[m612 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[K\r\u001b[17d\u001b[30m\u001b[46m  312 root       20   0  4444   604   604 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.033075,
+      "\u001b[17d  312 root       20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   604   604 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\r\u001b[18d\u001b[30m\u001b[46m  314 root       20   0 15096  1388  1388 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.033318,
+      "\u001b[18d  314 root       20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m388 \u001b[36m 1\u001b[39m\u001b(B\u001b[m388 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\r\u001b[19d\u001b[30m\u001b[46m  316 root       20   0 18004  2704  2700 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.033248,
+      "\u001b[19d  316 root       20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m704 \u001b[36m 2\u001b[39m\u001b(B\u001b[m700 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[K\r\u001b[20d\u001b[30m\u001b[46m  318 root       20   0 18004  2984  2700 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.032955,
+      "\u001b[20d  318 root       20   0 \u001b[36m18\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m984 \u001b[36m 2\u001b[39m\u001b(B\u001b[m700 S  0.0  0.0  0:00.00 /bin/bash /usr/bin/observium_agent\u001b[K\r\u001b[21d\u001b[30m\u001b[46m  320 root       20   0  4444   772   772 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.033113,
+      "\u001b[21d  320 root       20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   772   772 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\r\u001b[22d\u001b[30m\u001b[46m  322 root       20   0 15096  1404  1404 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.032861,
+      "\u001b[22d  322 root       20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m404 \u001b[36m 1\u001b[39m\u001b(B\u001b[m404 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\r\u001b[23d\u001b[30m\u001b[46m  341 root       20   0  4444   720   720 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.033157,
+      "\u001b[23d  341 root       20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   720   720 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\r\u001b[24d\u001b[30m\u001b[46m  343 root       20   0  4444   664   664 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.032814,
+      "\u001b[24d  343 root       20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m444   664   664 S  0.0  0.0  0:00.00 /bin/sh ./powerdns\u001b[K\r\u001b[25d\u001b[30m\u001b[46m  344 root       20   0 15096  1392  1392 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.033086,
+      "\u001b[25d  344 root       20   0 \u001b[36m15\u001b[39m\u001b(B\u001b[m096 \u001b[36m 1\u001b[39m\u001b(B\u001b[m392 \u001b[36m 1\u001b[39m\u001b(B\u001b[m392 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\r\u001b[26d\u001b[30m\u001b[46m  345 root       20   0 15096  1392  1392 S  0.0  0.0  0:00.00 /usr/bin/pdns_control show *\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.162912,
+      "\u001b[?1000l\u001b[44;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000214,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      1.366755,
+      "n"
+    ],
+    [
+      0.084942,
+      "l"
+    ],
+    [
+      0.160192,
+      "o"
+    ],
+    [
+      0.100975,
+      "a"
+    ],
+    [
+      0.035090,
+      "d"
+    ],
+    [
+      0.095017,
+      "\r\n"
+    ],
+    [
+      0.014261,
+      "\u001b[?1049h\u001b[1;44r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[H\u001b[2J"
+    ],
+    [
+      0.100141,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.403859,
+      "\u001b[H\u001b[2JDevice bond0 (1/7):\r\u001b[2d=========================================================================================================================================================\u001b[3;1HIncoming:\u001b[19;105HCurr: 0.00 Bit/s\u001b[20;105HAvg: 0.00 Bit/s\u001b[21;105HMin: 0.00 Bit/s\u001b[22;105HMax: 0.00 Bit/s\u001b[23;105HTtl: 0.00 Byte\r\u001b[24dOutgoing:\u001b[40;105HCurr: 0.00 Bit/s\u001b[41;105HAvg: 0.00 Bit/s\u001b[42;105HMin: 0.00 Bit/s\u001b[43;105HMax: 0.00 Bit/s\u001b[44;105HTtl: 0.00 Byte"
+    ],
+    [
+      0.506949,
+      "\u001b[H\u001b[2JDevice bonding_masters (2/7): does not exist\r\u001b[2d=========================================================================================================================================================\u001b[4;1H"
+    ],
+    [
+      0.504571,
+      "\u001b[H\u001b[2JDevice eth1 (3/7):\r\u001b[2d=========================================================================================================================================================\u001b[3;1HIncoming:\u001b[19;105HCurr: 0.00 Bit/s\u001b[20;105HAvg: 0.00 Bit/s\u001b[21;105HMin: 0.00 Bit/s\u001b[22;105HMax: 0.00 Bit/s\u001b[23;105HTtl: 0.00 Byte\r\u001b[24dOutgoing:\u001b[40;105HCurr: 0.00 Bit/s\u001b[41;105HAvg: 0.00 Bit/s\u001b[42;105HMin: 0.00 Bit/s\u001b[43;105HMax: 0.00 Bit/s\u001b[44;105HTtl: 0.00 Byte"
+    ],
+    [
+      0.503740,
+      "\u001b[H\u001b[2JDevice eth3 (5/7):\r\u001b[2d=========================================================================================================================================================\u001b[3;1HIncoming:\u001b[19;105HCurr: 0.00 Bit/s\u001b[20;105HAvg: 0.00 Bit/s\u001b[21;105HMin: 0.00 Bit/s\u001b[22;105HMax: 0.00 Bit/s\u001b[23;105HTtl: 0.00 Byte\r\u001b[24dOutgoing:\u001b[40;105HCurr: 0.00 Bit/s\u001b[41;105HAvg: 0.00 Bit/s\u001b[42;105HMin: 0.00 Bit/s\u001b[43;105HMax: 0.00 Bit/s\u001b[44;105HTtl: 0.00 Byte"
+    ],
+    [
+      0.504759,
+      "\u001b[H\u001b[2JDevice eth2 [172.16.0.3] (4/7):\r\u001b[2d=========================================================================================================================================================\u001b[3;1HIncoming:\u001b[19;105HCurr: 1.94 MBit/s\u001b[20;102H|  Avg: 2.17 MBit/s\u001b[21;102H#  Min: 1.93 MBit/s\u001b[22;102H#  Max: 2.94 MBit/s\u001b[23;102H#  Ttl: 224.26 GByte\r\u001b[24dOutgoing:\u001b[40;105HCurr: 85.01 kBit/s\u001b[41;105HAvg: 76.23 kBit/s\u001b[42;105HMin: 63.48 kBit/s\u001b[43;105HMax: 100.10 kBit/s\u001b[44;105HTtl: 71.37 GByte"
+    ],
+    [
+      0.503966,
+      "\u001b[H\u001b[2JDevice eth1 (3/7):\r\u001b[2d=========================================================================================================================================================\u001b[3;1HIncoming:\u001b[19;105HCurr: 0.00 Bit/s\u001b[20;105HAvg: 0.00 Bit/s\u001b[21;105HMin: 0.00 Bit/s\u001b[22;105HMax: 0.00 Bit/s\u001b[23;105HTtl: 0.00 Byte\r\u001b[24dOutgoing:\u001b[40;105HCurr: 0.00 Bit/s\u001b[41;105HAvg: 0.00 Bit/s\u001b[42;105HMin: 0.00 Bit/s\u001b[43;105HMax: 0.00 Bit/s\u001b[44;105HTtl: 0.00 Byte"
+    ],
+    [
+      0.503915,
+      "\u001b[H\u001b[2JDevice eth2 [172.16.0.3] (4/7):\r\u001b[2d=========================================================================================================================================================\u001b[3;1HIncoming:\u001b[19;105HCurr: 2.14 MBit/s\u001b[20;100H|##  Avg: 2.16 MBit/s\u001b[21;100H###  Min: 1.93 MBit/s\u001b[22;100H###  Max: 2.94 MBit/s\u001b[23;100H###  Ttl: 224.26 GByte\r\u001b[24dOutgoing:\u001b[40;105HCurr: 85.05 kBit/s\u001b[41;105HAvg: 78.75 kBit/s\u001b[42;105HMin: 63.48 kBit/s\u001b[43;105HMax: 100.10 kBit/s\u001b[44;105HTtl: 71.37 GByte"
+    ],
+    [
+      0.506696,
+      "\u001b[H\u001b[2JDevice eth2 [172.16.0.3] (4/7):\r\u001b[2d=========================================================================================================================================================\u001b[3;1HIncoming:\u001b[19;105HCurr: 1.97 MBit/s\u001b[20;99H|##|  Avg: 2.22 MBit/s\u001b[21;99H####  Min: 1.93 MBit/s\u001b[22;99H####  Max: 2.94 MBit/s\u001b[23;99H####  Ttl: 224.26 GByte\r\u001b[24dOutgoing:\u001b[40;105HCurr: 76.81 kBit/s\u001b[41;105HAvg: 81.27 kBit/s\u001b[42;105HMin: 63.48 kBit/s\u001b[43;105HMax: 100.10 kBit/s\u001b[44;105HTtl: 71.37 GByte"
+    ],
+    [
+      0.378433,
+      "\u001b[H\u001b[2J\u001b[44;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000186,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      0.886287,
+      "c"
+    ],
+    [
+      0.119872,
+      "l"
+    ],
+    [
+      0.120064,
+      "e"
+    ],
+    [
+      0.081034,
+      "a"
+    ],
+    [
+      0.150070,
+      "r"
+    ],
+    [
+      0.100414,
+      "\r\n"
+    ],
+    [
+      0.002352,
+      "\u001b[3;J\u001b[H\u001b[2J"
+    ],
+    [
+      0.000152,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      1.391049,
+      "f"
+    ],
+    [
+      0.490965,
+      "s"
+    ],
+    [
+      0.213759,
+      "\u0007"
+    ],
+    [
+      0.528238,
+      "t"
+    ],
+    [
+      0.185441,
+      "r"
+    ],
+    [
+      0.110880,
+      "im "
+    ],
+    [
+      0.976651,
+      "-"
+    ],
+    [
+      0.140051,
+      "v"
+    ],
+    [
+      0.221053,
+      " "
+    ],
+    [
+      0.095008,
+      "/"
+    ],
+    [
+      0.205084,
+      "\r\n"
+    ],
+    [
+      4.073625,
+      "/: 11.6 GiB (12447637504 bytes) trimmed\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b]0;root@prime: ~\u0007root@prime:~# "
+    ],
+    [
+      2.512572,
+      "exit\r\n"
+    ]
+  ]
+}
