@@ -1,0 +1,1066 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 74.560460,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-termite",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.044079,
+      "\u001b]0;alan@gandalf\u0007\u001b[0;36malan\u001b[0m@\u001b[0;35mgandalf \u001b[0;33mez \u001b[0;35m\u001b[0m$ "
+    ],
+    [
+      4.923695,
+      "v"
+    ],
+    [
+      0.215995,
+      "i"
+    ],
+    [
+      0.104107,
+      "m"
+    ],
+    [
+      0.143866,
+      " "
+    ],
+    [
+      0.640142,
+      "E"
+    ],
+    [
+      0.216162,
+      "Z"
+    ],
+    [
+      0.351833,
+      "-"
+    ],
+    [
+      0.168142,
+      "d"
+    ],
+    [
+      0.095763,
+      "a"
+    ],
+    [
+      0.112082,
+      "t"
+    ],
+    [
+      0.119971,
+      "a"
+    ],
+    [
+      0.240694,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "-04-17-15-01-41_2."
+    ],
+    [
+      1.839467,
+      "c"
+    ],
+    [
+      0.479804,
+      "s"
+    ],
+    [
+      0.224038,
+      "v"
+    ],
+    [
+      1.304343,
+      "\r\n"
+    ],
+    [
+      0.216510,
+      "\u001b[?1000h\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H\u001b[1;24r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[94m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"EZ-data-04-17-15-01-41_2.csv\""
+    ],
+    [
+      0.009346,
+      " 1312L, 5255822C"
+    ],
+    [
+      0.023551,
+      "\u001b[?1000l"
+    ],
+    [
+      0.010197,
+      "\u001b[?1000h"
+    ],
+    [
+      0.001024,
+      "\u001b[?1000l"
+    ],
+    [
+      0.010186,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000575,
+      "\r\u001b[?12l\u001b[?25h\u001b[?1000l"
+    ],
+    [
+      0.013776,
+      "\u001b[?1000h\u001b[\u003ec"
+    ],
+    [
+      0.006332,
+      "\u001b[?25l\u001b[1;1H\u001b[93m1    \u001b[m\u001b[94mJob Type,Client,Service Type,Job ID,Order Date,Rep Due,Date Dispatched,Inspp\u001b[2;1H\u001b[93m     \u001b[m\u001b[94mected\u001b[101m \u001b[m\u001b[94mDate,Enterered Date,Date Submitted,FieldRepID,FieldRep,Job Name,Job DD\u001b[3;1H\u001b[93m     \u001b[m\u001b[94mescription,Property Note,County,QC Rep,Work Order #,Address,Zipcode,Map Addd\u001b[4;1H\u001b[93m     \u001b[m\u001b[94mress,City,State,FormData\u001b[1m\u001b[93m\u001b[40m^M\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m   1 \u001b[m\u001b[94m\"FS-OccVer2\",\"My Client\",\"\",\"926588\",\"4/15/2015 8:34:30 AM\",\"4/29/2015 12:00\u001b[6;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m0:00 \u001b[101mA\u001b[m\u001b[94mM\",\"4/15/2015 11:38:02 AM\",\"4/17/2015 1:24:49 AM\",\"\",\"4/17/2015 1:24::\u001b[7;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m49 AM\",\"40725\",\"EZTestEZTest\",\"926588\",\"926588\",\"\",\"San Bernardino\",\"0\",\"922\u001b[8;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m6588\",\"18440 Banyan Ave\r\n\u001b[92m\u001b[40m   2 \u001b[m\u001b[94m\",\"92377\",\"\",\"Rialto\",\"CA\",\"\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"string\"\"\u003e188\u001b[10;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m440 B\u001b[101ma\u001b[m\u001b[94mnyan Ave\r\n\u001b[92m\u001b[40m   3 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaii\u001b[12;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94ml\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone typp\u001b[13;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94me=\"\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/__\u001b[14;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94massignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"ss\u001b[15;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003eRialto\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:49 AM\u003c//\u001b[16;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_completeDate\u003e\u003c_dispatchedDate type=\"\"string\"\"\u003e4/15/2015 11:38:02 AM\u003c/_dispp\u001b[17;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94matchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c_fctGG\u001b[18;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mroupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWork OO\u001b[19;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mrder #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"strii\u001b[20;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mng\"\"\u003e926588\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eAddd\u001b[21;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mress\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"stringg\u001b[22;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\"\u003e18440 Banyan Ave"
+    ],
+    [
+      0.004533,
+      "\u001b[?1000l"
+    ],
+    [
+      0.008863,
+      "^[[\u003e1;3803;0c"
+    ],
+    [
+      0.001778,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000379,
+      "\u001b[?1000l\u001b[?1006h\u001b[?1002h\u001b[?1006l\u001b[?1002l\u001b[?1006h\u001b[?1002h\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.000009,
+      "\u001b[?1006l\u001b[?1002l"
+    ],
+    [
+      0.010756,
+      "\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.425735,
+      "\r\n\u001b[1m\u001b[97m\u001b[106m NORMAL \u001b[m\u001b[94m\u001b[96m\u001b[103m▶\u001b[m\u001b[94m\u001b[93m\u001b[40m▶\u001b[m\u001b[94m\u001b[92m\u001b[40m EZ-data-04-17-15-01-41_2.csv                     \u001b[m\u001b[94m\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[97m\u001b[106m   0% :\u001b[m\u001b[94m\u001b[1m\u001b[97m\u001b[106m   1\u001b[m\u001b[94m\u001b[97m\u001b[106m:  1  "
+    ],
+    [
+      0.000913,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv (/tmp/ez) - VIM\u0007"
+    ],
+    [
+      0.000168,
+      "\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.000586,
+      "\u001b[1;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      13.997022,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;1H\u001b[K\u001b[24;1H/\\v"
+    ],
+    [
+      0.000767,
+      "\u001b[1;7H\u001b[7m\u001b[91mo\u001b[27m\u001b[m\u001b[94m\u001b[72Cpp\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78CDD\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cdd\u001b[4;1H\u001b[93m "
+    ],
+    [
+      0.001048,
+      "\u001b[m\u001b[94m\u001b[23;2H\u001b[1m\u001b[97m\u001b[106mCOMMAND \u001b[m\u001b[94m\u001b[96m\u001b[103m▶\u001b[m\u001b[94m\u001b[93m\u001b[40m▶\u001b[m\u001b[94m\u001b[92m\u001b[40m EZ-data-04-17-15-01-41_2.csv\u001b[m\u001b[94m\u001b[37C\u001b[97m\u001b[106m2"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[m\u001b[94m/\\v"
+    ],
+    [
+      0.000009,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.612102,
+      "9\u001b[?25l"
+    ],
+    [
+      0.003848,
+      "\u001b[1;1H\u001b[92m\u001b[40m   1 \u001b[m\u001b[94mJo\u001b[72Cpp\u001b[2;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\u001b[74CDD\u001b[3;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\u001b[74Cdd\u001b[4;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\r\n\u001b[93m2    \u001b[m\u001b[94m\u001b[29C\u001b[7m\u001b[91m9\u001b[27m\u001b[m\u001b[94m\u001b[44C00\u001b[6;1H\u001b[93m     \u001b[m\u001b[94m\u001b[74C::\u001b[7;1H\u001b[93m     \u001b[m\u001b[94m\u001b[74C22\u001b[8;1H\u001b[93m     \u001b[m\u001b[94m\u001b[9;4H\u001b[92m\u001b[40m1\u001b[m\u001b[94m\u001b[75C88\u001b[10;1H\u001b[92m\u001b[40m \r\n   2\u001b[m\u001b[94m\u001b[75Cii\u001b[12;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78Cpp\u001b[13;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78C__\u001b[14;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78Css\u001b[15;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78C//\u001b[16;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78Cpp\u001b[17;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78CGG\u001b[18;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78COO\u001b[19;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78Cii\u001b[20;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78Cdd\u001b[21;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78Cgg\u001b[22;1H\u001b[92m\u001b[40m "
+    ],
+    [
+      0.001045,
+      "\u001b[m\u001b[94m\u001b[23;74H\u001b[1m\u001b[97m\u001b[106m2\u001b[m\u001b[94m\u001b[97m\u001b[106m: 30\r\n\u001b[m\u001b[94m/\\v9"
+    ],
+    [
+      0.000006,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163140,
+      "2\u001b[?25l"
+    ],
+    [
+      0.004590,
+      "\u001b[5;36H\u001b[7m\u001b[91m2\u001b[27m\u001b[m\u001b[94m\u001b[43C00\u001b[6;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C::\u001b[7;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C22\u001b[8;1H\u001b[93m "
+    ],
+    [
+      0.001154,
+      "\u001b[24;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.249203,
+      "\u001b[m\u001b[94m6\u001b[?25l"
+    ],
+    [
+      0.003864,
+      "\u001b[5;37H\u001b[7m\u001b[91m6\u001b[27m\u001b[m\u001b[94m\u001b[42C00\u001b[6;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C::\u001b[7;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C22\u001b[8;1H\u001b[93m "
+    ],
+    [
+      0.001107,
+      "\u001b[24;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.185691,
+      "\u001b[m\u001b[94m6\u001b[?25l"
+    ],
+    [
+      0.017372,
+      "\u001b[27m\u001b[23m\u001b[m\u001b[94m\u001b[H\u001b[2J\u001b[1;1H\u001b[93m54   \u001b[m\u001b[94m\"FS-OccVer2\",\"My Client\",\"\",\"\u001b[7m\u001b[91m9266\u001b[27m\u001b[m\u001b[94m01\",\"4/15/2015 8:34:36 AM\",\"4/29/2015 12:00\u001b[2;1H\u001b[93m     \u001b[m\u001b[94m0:00 \u001b[101mA\u001b[m\u001b[94mM\",\"4/15/2015 11:47:22 AM\",\"4/17/2015 1:24:49 AM\",\"\",\"4/17/2015 1:24::\u001b[3;1H\u001b[93m     \u001b[m\u001b[94m49 AM\",\"40725\",\"EZTestEZTest\",\"926601\",\"926601\",\"\",\"Madera\",\"0\",\"926601\",\"11\u001b[4;1H\u001b[93m     \u001b[m\u001b[94m4160 Rd 36\r\n\u001b[92m\u001b[40m   1 \u001b[m\u001b[94m\",\"93636\",\"\",\"Madera\",\"CA\",\"\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"string\"\"\u003e144\u001b[6;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m160 R\u001b[101md\u001b[m\u001b[94m 36\r\n\u001b[92m\u001b[40m   2 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaii\u001b[8;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94ml\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone typp\u001b[9;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94me=\"\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/__\u001b[10;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94massignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"ss\u001b[11;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003eMadera\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:49 AM\u003c//\u001b[12;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_completeDate\u003e\u003c_dispatchedDate type=\"\"string\"\"\u003e4/15/2015 11:47:22 AM\u003c/_dispp\u001b[13;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94matchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c_fctGG\u001b[14;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mroupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWork OO\u001b[15;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mrder #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"strii\u001b[16;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mng\"\"\u003e926601\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eAddd\u001b[17;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mress\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"stringg\u001b[18;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\"\u003e14160 Rd 36\r\n\u001b[92m\u001b[40m   3 \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Fieldd\u001b[20;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\u003e\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e93636\u003c/RR\u001b[21;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"objec"
+    ],
+    [
+      0.000629,
+      "t\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGrouu\u001b[22;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eMadera\u003c/Result\u001b[19;1H\u001b[1m\u001b[93m@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               "
+    ],
+    [
+      0.000935,
+      "\u001b[m\u001b[94m\u001b[23;1H\u001b[1m\u001b[97m\u001b[106m COMMAND \u001b[m\u001b[94m\u001b[96m\u001b[103m▶\u001b[m\u001b[94m\u001b[93m\u001b[40m▶\u001b[m\u001b[94m\u001b[92m\u001b[40m EZ-data-04-17-15-01-41_2.csv                    \u001b[m\u001b[94m\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[97m\u001b[106m   4% :\u001b[m\u001b[94m\u001b[1m\u001b[97m\u001b[106m  54\u001b[m\u001b[94m\u001b[97m\u001b[106m: 30  \u001b[m\u001b[94m\u001b[24;1H/\\v9266"
+    ],
+    [
+      0.000006,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149068,
+      "0\u001b[?25l\u001b[1;39H\u001b[7m\u001b[91m0\u001b[27m\u001b[m\u001b[94m\u001b[40C00\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C::\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C11\u001b[4;1H\u001b[93m \u001b[24;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.172154,
+      "\u001b[m\u001b[94m0\u001b[?25l"
+    ],
+    [
+      0.026828,
+      "\u001b[27m\u001b[23m\u001b[m\u001b[94m\u001b[H\u001b[2J\u001b[1;1H\u001b[93m66   \u001b[m\u001b[94m\"FS-OccVer2\",\"My Client\",\"\",\"\u001b[7m\u001b[91m926600\u001b[27m\u001b[m\u001b[94m\",\"4/15/2015 8:34:36 AM\",\"4/29/2015 12:00\u001b[2;1H\u001b[93m     \u001b[m\u001b[94m0:00 \u001b[101mA\u001b[m\u001b[94mM\",\"4/15/2015 11:47:22 AM\",\"4/17/2015 1:24:49 AM\",\"\",\"4/17/2015 1:24::\u001b[3;1H\u001b[93m     \u001b[m\u001b[94m49 AM\",\"40725\",\"EZTestEZTest\",\"926600\",\"926600\",\"\",\"El Dorado\",\"0\",\"926600\"\"\u001b[4;1H\u001b[93m     \u001b[m\u001b[94m,\"1281 Burnt Shanty Creek Rd\r\n\u001b[92m\u001b[40m   1 \u001b[m\u001b[94m\",\"95667\",\"\",\"Placerville\",\"CA\",\"\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"stringg\u001b[6;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\"\u003e12\u001b[101m8\u001b[m\u001b[94m1 Burnt Shanty Creek Rd\r\n\u001b[92m\u001b[40m   2 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaii\u001b[8;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94ml\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone typp\u001b[9;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94me=\"\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/__\u001b[10;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94massignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"ss\u001b[11;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003ePlacerville\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:499\u001b[12;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m AM\u003c/_completeDate\u003e\u003c_dispatchedDate type=\"\"string\"\"\u003e4/15/2015 11:47:22 AM\u003c//\u001b[13;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_dispatchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c\u003c\u001b[14;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_fctGroupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWW\u001b[15;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mork Order #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"\u001b[16;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"string\"\"\u003e926600\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u001b[17;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\u003eAddress\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"ss\u001b[18;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003e1281 Burnt Shanty Creek Rd\r\n\u001b[92m\u001b[40m   3 \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Fieldd\u001b[20;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\u003e\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95667\u003c/RR"
+    ],
+    [
+      0.000719,
+      "\u001b[21;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGrouu\u001b[22;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePlacerville\u003c/R\u001b[19;1H\u001b[1m\u001b[93m@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               "
+    ],
+    [
+      0.000932,
+      "\u001b[m\u001b[94m\u001b[23;1H\u001b[1m\u001b[97m\u001b[106m COMMAND \u001b[m\u001b[94m\u001b[96m\u001b[103m▶\u001b[m\u001b[94m\u001b[93m\u001b[40m▶\u001b[m\u001b[94m\u001b[92m\u001b[40m EZ-data-04-17-15-01-41_2.csv                    \u001b[m\u001b[94m\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[97m\u001b[106m   5% :\u001b[m\u001b[94m\u001b[1m\u001b[97m\u001b[106m  66\u001b[m\u001b[94m\u001b[97m\u001b[106m: 30  \u001b[m\u001b[94m\u001b[24;1H/\\v926600"
+    ],
+    [
+      0.000005,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.368024,
+      "\r\u001b[?25l"
+    ],
+    [
+      0.001286,
+      "\u001b[1;35H\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\u001b[39C00\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C::\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[35C\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\",\"\u001b[7m\u001b[33m926600\u001b[22C926600\u001b[m\u001b[94m\"\"\u001b[4;1H\u001b[93m \u001b[m\u001b[94m\u001b[16;16H\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\u001b[58C\"\"\u001b[17;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[78Css\u001b[18;1H\u001b[92m\u001b[40m "
+    ],
+    [
+      0.001191,
+      "\u001b[m\u001b[94m\u001b[23;2H\u001b[1m\u001b[97m\u001b[106mNORMALD\u0008  \u001b[m\u001b[94m\u0008\u001b[96m\u001b[103m▶\u001b[m\u001b[94m\u001b[93m\u001b[40m▶\u001b[m\u001b[94m\u001b[92m\u001b[40m EZ-data-04-17-15-01-41_2.csv "
+    ],
+    [
+      0.008009,
+      "\u001b[1;35H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[45C00\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C::\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\"\"\u001b[4;1H\u001b[93m \u001b[1;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.486187,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hk\u001b[1;35H\u001b[24;70H \u001b[1;35H"
+    ],
+    [
+      0.015925,
+      "\u001b[27m\u001b[23m\u001b[m\u001b[94m\u001b[H\u001b[2J\u001b[1;1H\u001b[93m65   \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Fieldd\u001b[2;1H\u001b[93m     \u001b[m\u001b[94m\u003e\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95648\u003c/RR\u001b[3;1H\u001b[93m     \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGrouu\u001b[4;1H\u001b[93m     \u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eLincoln\u003c/Resull\u001b[5;1H\u001b[93m     \u001b[m\u001b[94mt\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eState\u003c/Field\u003e\u003cGroup tt\u001b[6;1H\u001b[93m     \u001b[m\u001b[94mype=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eCA\u003c/Result\u003e\u003c/itemm\u001b[7;1H\u001b[93m     \u001b[m\u001b[94m\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Id\u003c/Field\u003e\u003cGroup typp\u001b[8;1H\u001b[93m     \u001b[m\u001b[94me=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty Id\u003c/Resultt\u001b[9;1H\u001b[93m     \u001b[m\u001b[94m\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Name\u003c/Field\u003e\u003c\u003c\u001b[10;1H\u001b[93m     \u001b[m\u001b[94mGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty NN\u001b[11;1H\u001b[93m     \u001b[m\u001b[94mame\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eFAS Contactt\u001b[12;1H\u001b[93m     \u001b[m\u001b[94m\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eFF\u001b[13;1H\u001b[93m     \u001b[m\u001b[94mAS Contact\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eEmaii\u001b[14;1H\u001b[93m     \u001b[m\u001b[94ml\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e\u003e\u001b[15;1H\u001b[93m     \u001b[m\u001b[94mEmail\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003ePhone\u003c/Fii\u001b[16;1H\u001b[93m     \u001b[m\u001b[94meld\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePhonee\u001b[17;1H\u001b[93m     \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eClient\u003c/Field\u003e\u003e\u001b[18;1H\u001b[93m     \u001b[m\u001b[94m\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eClient\u003c/RR\u001b[19;1H\u001b[93m     \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eVendor\u003c/Field\u003e\u003cGrr\u001b[20;1H\u001b[93m     \u001b[m\u001b[94moup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eVendor\u003c/Re"
+    ],
+    [
+      0.000583,
+      "suu\u001b[21;1H\u001b[93m     \u001b[m\u001b[94mlt\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eVendor Contact\u003c/Fiell\u001b[22;1H\u001b[93m     \u001b[m\u001b[94md\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eVendor"
+    ],
+    [
+      0.000990,
+      "\r\n\u001b[1m\u001b[97m\u001b[106m NORMAL \u001b[m\u001b[94m\u001b[96m\u001b[103m▶\u001b[m\u001b[94m\u001b[93m\u001b[40m▶\u001b[m\u001b[94m\u001b[92m\u001b[40m EZ-data-04-17-15-01-41_2.csv                     \u001b[m\u001b[94m\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[97m\u001b[106m   4% :\u001b[m\u001b[94m\u001b[1m\u001b[97m\u001b[106m  65\u001b[m\u001b[94m\u001b[97m\u001b[106m: 30  "
+    ],
+    [
+      0.024149,
+      "\u001b[1;35H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[45Cdd\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78CRR\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cuu\u001b[4;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cll\u001b[5;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Ctt\u001b[6;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cmm\u001b[7;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cpp\u001b[8;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Ctt\u001b[9;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\u003c\u003c\u001b[10;1H\u001b[93m \u001b[m\u001b[94m\u001b[78CNN\u001b[11;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Ctt\u001b[12;1H\u001b[93m \u001b[m\u001b[94m\u001b[78CFF\u001b[13;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cii\u001b[14;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\u003e\u003e\u001b[15;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cii\u001b[16;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cee\u001b[17;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\u003e\u003e\u001b[18;1H\u001b[93m \u001b[m\u001b[94m\u001b[78CRR\u001b[19;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Crr\u001b[20;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cuu\u001b[21;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cll\u001b[22;1H\u001b[93m \u001b[1;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.562765,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hd\u001b[1;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.489488,
+      "\u001b[?25l\u001b[24;70H \u001b[1;35H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;70Hdg\u001b[1;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150868,
+      "\u001b[?25l\u001b[24;71H \u001b[1;35H\u001b[24;71Hgg\u001b[1;35H"
+    ],
+    [
+      0.007458,
+      "\u001b[24;1H65 fewer lines\u001b[24;70H\u001b[K\u001b[1;6H"
+    ],
+    [
+      0.019188,
+      "\r\u001b[93m1 \u001b[m\u001b[94m\u001b[3C\"FS-OccVer2\",\"My Client\",\"\",\"\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\",\"4/15/2015 8:34:36 AM\",\"4/29/2015 12:00\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[4C0:00 \u001b[101mA\u001b[m\u001b[94mM\",\"4/15/2015 11:47:22 AM\",\"4/17/2015 1:24:49 AM\",\"\",\"4/17/2015 1:24::\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[4C49 AM\",\"40725\",\"EZTestEZTest\",\"\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\",\"\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\",\"\",\"El Dorado\",\"0\",\"\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\"\"\u001b[4;1H\u001b[93m \u001b[m\u001b[94m\u001b[4C,\"1281 Burnt Shanty Creek Rd\u001b[4;34H\u001b[K\u001b[5;1H\u001b[92m\u001b[40m   1 \u001b[m\u001b[94m\",\"95667\",\"\",\"Placerville\",\"CA\",\"\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"stringg\u001b[6;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\"\u003e12\u001b[101m8\u001b[m\u001b[94m1 Burnt Shanty Creek Rd\u001b[6;35H\u001b[K\u001b[7;1H\u001b[92m\u001b[40m   2 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaii\u001b[8;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94ml\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone typp\u001b[9;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94me=\"\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/__\u001b[10;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94massignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"ss\u001b[11;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003ePlacerville\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:499\u001b[12;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m AM\u003c/_completeDate\u003e\u003c_dispatchedDate type=\"\"string\"\"\u003e4/15/2015 11:47:22 AM\u003c//\u001b[13;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_dispatchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c\u003c\u001b[14;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_fctGroupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWW\u001b[15;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mork Order #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"\u001b[16;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"string\"\"\u003e\u001b[7m\u001b[33m926600\u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u001b[17;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\u003eAddress\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"ss\u001b[18;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003e1281 Burnt Shanty Creek Rd\u001b[18;40H\u001b[K\u001b[19;1H\u001b[92m\u001b[40m   3 \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Fieldd\u001b[20;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\u003e\u003cGro"
+    ],
+    [
+      0.000220,
+      "\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95667\u003c/RR\u001b[21;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGrouu\u001b[22;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePlacerville\u003c/R\u001b[19;1H\u001b[1m\u001b[93m@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               "
+    ],
+    [
+      0.008715,
+      "\u001b[m\u001b[94m\u001b[23;11H\u001b[96m\u001b[40m EZ-data-04-17-15-01-41_2.csv[+]                  \u001b[m\u001b[94m\u001b[6C\u001b[97m\u001b[106m0\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m 1\u001b[m\u001b[94m\u001b[97m\u001b[106m:  1"
+    ],
+    [
+      0.006262,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv + (/tmp/ez) - VIM\u0007\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.018607,
+      "\u001b[1;6H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[74C00\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C::\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\"\"\u001b[4;1H\u001b[93m \u001b[m\u001b[94m\u001b[19;1H\u001b[92m\u001b[40m   3 \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Fieldd\u001b[20;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\u003e\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95667\u003c/RR\u001b[21;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGrouu\u001b[22;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePlacerville\u003c/R\u001b[19;1H\u001b[1m\u001b[93m@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               \u001b[1;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.261418,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hl\u001b[1;6H\u001b[24;70H \u001b[1;7H\u001b[23;78H\u001b[97m\u001b[106m2\u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.996648,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H*\u001b[1;7H\u001b[24;1H/\\\u003cFS\\\u003e\u001b[24;8H\u001b[K\u001b[24;1H\u001b[1;1H\u001b[K\u001b[2;1H\u001b[K\u001b[3;1H\u001b[K\u001b[4;1H\u001b[K\u001b[5;1H\u001b[K\u001b[6;1H\u001b[K\u001b[7;1H\u001b[K\u001b[8;1H\u001b[K\u001b[9;1H\u001b[K\u001b[10;1H\u001b[K\u001b[11;1H\u001b[K\u001b[12;1H\u001b[K\u001b[13;1H\u001b[K\u001b[14;1H\u001b[K\u001b[15;1H\u001b[K\u001b[16;1H\u001b[K\u001b[17;1H\u001b[K\u001b[18;1H\u001b[K\u001b[19;1H\u001b[K\u001b[20;1H\u001b[K\u001b[21;1H\u001b[K\u001b[22;1H\u001b[K\u001b[18;26H"
+    ],
+    [
+      0.022987,
+      "\u001b[1;1H\u001b[93m4    \u001b[m\u001b[94m\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eIf \"\"Other\"\", please dd\u001b[2;1H\u001b[93m     \u001b[m\u001b[94mescribe:\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eVacancy Info\u003c/Group\u003e\u003cResult type=\"\"ss\u001b[3;1H\u001b[93m     \u001b[m\u001b[94mtring\"\"\u003eIf \"\"Other\"\", please describe:\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\"\u001b[4;1H\u001b[93m     \u001b[m\u001b[94m\u003e\u003cField type=\"\"string\"\"\u003eNote\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eINSC\u003c/Group\u003e\u003cRess\u001b[5;1H\u001b[93m     \u001b[m\u001b[94mult type=\"\"string\"\"\u003ejust for test\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cFiee\u001b[6;1H\u001b[93m     \u001b[m\u001b[94mld type=\"\"string\"\"\u003eDo you certify this inspection?\u003c/Field\u003e\u003cGroup type=\"\"strr\u001b[7;1H\u001b[93m     \u001b[m\u001b[94ming\"\"\u003eField Rep Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eYes\u003c/Result\u003e\u003c/item\u003e\u003citee\u001b[8;1H\u001b[93m     \u001b[m\u001b[94mm type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eInspector Name\u003c/Field\u003e\u003cGroup type==\u001b[9;1H\u001b[93m     \u001b[m\u001b[94m\"\"string\"\"\u003eField Rep Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eInspector Name\u003c/Ree\u001b[10;1H\u001b[93m     \u001b[m\u001b[94msult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eInspector Phone\u003c/FF\u001b[11;1H\u001b[93m     \u001b[m\u001b[94mield\u003e\u003cGroup type=\"\"string\"\"\u003eField Rep Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eII\u001b[12;1H\u001b[93m     \u001b[m\u001b[94mnspector Phone\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003e\u003e\u001b[13;1H\u001b[93m     \u001b[m\u001b[94mInspector Email\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eField Rep Info\u003c/Group\u003e\u003cResultt\u001b[14;1H\u001b[93m     \u001b[m\u001b[94m type=\"\"string\"\"\u003eInspector Email\u003c/Result\u003e\u003c/item\u003e\u003c/_fctGroupInfo\u003e\u003c_issueDatee\u001b[15;1H\u001b[93m     \u001b[m\u001b[94m type=\"\"string\"\"\u003e4/15/2015 8:34:36 AM\u003c/_issueDate\u003e\u003c_jobName type=\"\"string\"\"\"\u001b[16;1H\u001b[93m     \u001b[m\u001b[94m\u003e926600\u003c/_jobName\u003e\u003c_note type=\"\"string\"\"\u003e\u003c/_note\u003e\u003c_ownerCoId type=\"\"string\"\"\u001b[17;1H\u001b[93m     \u001b[m\u001b[94m\"\u003eMy Client\u003c/_ownerCoId\u003e\u003c_polnum type=\"\"string\"\"\u003e926600\u003c/_polnum\u003e\u003c_productCC\u001b[18;1H\u001b[93m     \u001b[m\u001b[94mode type=\"\"string\"\"\u003e\u001b[7m\u001b[33mFS\u001b[m\u001b[94m-OccVer2\u003c/_productCode\u003e\u003c_productName type=\"\"string\"\"\u003e\u003e\u001b[19;1H\u001b[93m     \u001b[m\u001b[94mOccupancy Verification Service Request 2\u003c/_productName\u003e\u003c_serviceType type=\"\"\u001b[20;1H\u001b[93m     \u001b[m\u001b[94m\"string\"\"\u003e\u003c/_serviceType\u003e\u003c_state type=\"\"string\"\"\u003eCA\u003c/_state\u003e\u003c_systemId typee"
+    ],
+    [
+      0.000347,
+      "\u001b[21;1H\u001b[93m     \u001b[m\u001b[94m=\"\"number\"\"\u003e106247779\u003c/_systemId\u003e\u003c_vendorFee type=\"\"number\"\"\u003e7.0000\u003c/_vendoo\u001b[22;1H\u001b[93m     \u001b[m\u001b[94mrFee\u003e\u003c_zip type=\"\"string\"\"\u003e95667\u003c/_zip\u003e\u003c/root\u003e\"\u001b[1m\u001b[93m\u001b[40m^M"
+    ],
+    [
+      0.001138,
+      "\u001b[m\u001b[94m\u001b[23;59H\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[97m\u001b[106m   0% :\u001b[m\u001b[94m\u001b[1m\u001b[97m\u001b[106m   4\u001b[m\u001b[94m\u001b[97m\u001b[106m:14421"
+    ],
+    [
+      0.023732,
+      "\u001b[18;26H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[54C\u003e\u003e\u001b[19;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\"\"\u001b[20;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cee\u001b[21;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Coo\u001b[22;1H\u001b[93m \u001b[18;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.638519,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H*\u001b[18;26H\u001b[24;70H\u001b[K\u001b[24;1H\u001b[1;7H"
+    ],
+    [
+      0.025354,
+      "\r\u001b[93m5\u001b[m\u001b[94m\u001b[4C\"\u001b[7m\u001b[33mFS\u001b[m\u001b[94m-OccVer2\",\"My Client\",\"\",\"926603\",\"4/15/2015 8:34:36 AM\",\"4/29/2015 12:00\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[4C0:00 \u001b[101mA\u001b[m\u001b[94mM\",\"4/15/2015 11:47:22 AM\",\"4/17/2015 1:24:49 AM\",\"\",\"4/17/2015 1:24::\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[4C49 AM\",\"40725\",\"EZTestEZTest\",\"926603\",\"926603\",\"\",\"Santa Clara\",\"0\",\"926600\u001b[4;1H\u001b[93m \u001b[m\u001b[94m\u001b[4C3\",\"1484 Stardust Ct\u001b[4;26H\u001b[K\u001b[5;1H\u001b[92m\u001b[40m   1 \u001b[m\u001b[94m\",\"95050\",\"\",\"Santa Clara\",\"CA\",\"\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"stringg\u001b[6;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\"\u003e14\u001b[101m8\u001b[m\u001b[94m4 Stardust Ct\u001b[6;25H\u001b[K\u001b[7;1H\u001b[92m\u001b[40m   2 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaii\u001b[8;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94ml\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone typp\u001b[9;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94me=\"\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/__\u001b[10;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94massignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"ss\u001b[11;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003eSanta Clara\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:499\u001b[12;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m AM\u003c/_completeDate\u003e\u003c_dispatchedDate\u001b[8Cstring\"\"\u003e4/15/2015 11:47:22 AM\u003c//\u001b[13;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_dispatchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c\u003c\u001b[14;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m_fctGroupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWW\u001b[15;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mork Order #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"\u001b[16;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"string\"\"\u003e926603\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cFiel\u001b[15C\"\"\u001b[17;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\"\u003eAddress\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"ss\u001b[18;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mtring\"\"\u003e1484 Stardust Ct\u001b[18;30H\u001b[K\u001b[19;1H\u001b[92m\u001b[40m   3 \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Fieldd\u001b[20;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94m\u003e\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95050\u003c/RR\u001b[21;1H\u001b[92m\u001b[40m     "
+    ],
+    [
+      0.000710,
+      "\u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGrouu\u001b[22;1H\u001b[92m\u001b[40m     \u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eSanta Clara\u003c/R\u001b[19;1H\u001b[1m\u001b[93m@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               "
+    ],
+    [
+      0.001067,
+      "\u001b[m\u001b[94m\u001b[23;59H\u001b[96m\u001b[40m  \u001b[m\u001b[94m\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[1C\u001b[97m\u001b[106m  0% :\u001b[m\u001b[94m\u001b[1C\u001b[1m\u001b[97m\u001b[106m  5\u001b[m\u001b[94m\u001b[97m\u001b[106m:  2"
+    ],
+    [
+      0.006754,
+      "\u001b[1;7H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[73C00\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C::\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C00\u001b[4;1H\u001b[93m \u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.488409,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hd\u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.372657,
+      "\u001b[?25l\u001b[24;70H \u001b[1;7H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;70HdG\u001b[1;7H"
+    ],
+    [
+      0.007402,
+      "\u001b[24;1H1243 fewer lines\u001b[24;70H\u001b[K"
+    ],
+    [
+      0.001420,
+      "\u001b[1;5H"
+    ],
+    [
+      0.023958,
+      "\r\u001b[93m4\u001b[m\u001b[94m\u001b[3C\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Field\u003e\u003e\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[3C\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95667\u003c/Ress\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[3Cult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGroup tt\u001b[4;1H\u001b[93m \u001b[m\u001b[94m\u001b[3Cype=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePlacerville\u003c/Resull\u001b[5;1H\u001b[93m    \u001b[m\u001b[94mt\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eState\u003c/Field\u003e\u003cGroup tyy\u001b[6;1H\u001b[93m    \u001b[m\u001b[94mpe=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eCA\u003c/Result\u003e\u003c/item\u003e\u003c\u003c\u001b[7;1H\u001b[93m    \u001b[m\u001b[94mitem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Id\u003c/Field\u003e\u003cGroup type=\"\"\u001b[8;1H\u001b[93m    \u001b[m\u001b[94m\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty Id\u003c/Result\u003e\u003c/ii\u001b[9;1H\u001b[93m    \u001b[m\u001b[94mtem\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Name\u003c/Field\u003e\u003cGroupp\u001b[10;1H\u001b[93m    \u001b[m\u001b[94m type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty Name\u003c/RR\u001b[11;1H\u001b[93m    \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eFAS Contact\u003c/Fieldd\u001b[12;1H\u001b[93m    \u001b[m\u001b[94m\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eFAS Contaa\u001b[13;1H\u001b[93m    \u001b[m\u001b[94mct\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eEmail\u003c/Field\u003e\u003e\u001b[14;1H\u001b[93m    \u001b[m\u001b[94m\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eEmail\u003c/Ress\u001b[15;1H\u001b[93m    \u001b[m\u001b[94mult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003ePhone\u003c/Field\u003e\u003cGroup  \u001b[16;1H\u001b[93m    \u001b[m\u001b[94mtype=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePhone\u003c/Result\u003e\u003c/ii\u001b[17;1H\u001b[93m    \u001b[m\u001b[94mtem\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eClient\u003c/Field\u003e\u003cGroup type=\"\"\u001b[18;1H\u001b[93m    \u001b[m\u001b[94m\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eClient\u003c/Result\u003e\u003c/item\u003e\u003c\u003c\u001b[19;1H\u001b[93m    \u001b[m\u001b[94mitem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eVendor\u003c/Field\u003e\u003cGroup type=\"\"strii\u001b[20;1H\u001b[93m    \u001b[m\u001b[94mng\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eVendor\u003c/Result\u003e\u003c/item\u003e\u003citem  \u001b[21;1H"
+    ],
+    [
+      0.000456,
+      "\u001b[93m    \u001b[m\u001b[94mtype=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eVendor Contact\u003c/Field\u003e\u003cGroup type=\"\"ss\u001b[22;1H\u001b[93m    \u001b[m\u001b[94mtring\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eVendor Contact\u003c/Result\u003e\u003c/"
+    ],
+    [
+      0.000882,
+      "\u001b[23;65H\u001b[97m\u001b[106m10\u001b[m\u001b[94m\u001b[7C\u001b[1m\u001b[97m\u001b[106m4\u001b[m\u001b[94m\u001b[97m\u001b[106m:  1"
+    ],
+    [
+      0.022902,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[75C\u003e\u003e\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Css\u001b[3;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Ctt\u001b[4;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cll\u001b[5;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cyy\u001b[6;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\u003c\u003c\u001b[7;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\"\"\u001b[8;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cii\u001b[9;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cpp\u001b[10;1H\u001b[93m \u001b[m\u001b[94m\u001b[78CRR\u001b[11;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cdd\u001b[12;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Caa\u001b[13;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\u003e\u003e\u001b[14;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Css\u001b[15;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C  \u001b[16;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cii\u001b[17;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\"\"\u001b[18;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C\u003c\u003c\u001b[19;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Cii\u001b[20;1H\u001b[93m \u001b[m\u001b[94m\u001b[78C  \u001b[21;1H\u001b[93m \u001b[m\u001b[94m\u001b[78Css\u001b[22;1H\u001b[93m \u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.626441,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hg\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144892,
+      "\u001b[?25l\u001b[24;70H \u001b[1;5H\u001b[24;70Hgg\u001b[1;5H\u001b[24;70H  \u001b[1;5H\u001b[1;22r\u001b[1;1H\u001b[18L\u001b[1;24r\u001b[1;1H\u001b[93m1   \u001b[m\u001b[94m\"\u001b[7m\u001b[33mFS\u001b[m\u001b[94m-OccVer2\",\"My Client\",\"\",\"926600\",\"4/15/2015 8:34:36 AM\",\"4/29/2015 12:000\u001b[2;1H\u001b[93m    \u001b[m\u001b[94m:00 \u001b[101mA\u001b[m\u001b[94mM\",\"4/15/2015 11:47:22 AM\",\"4/17/2015 1:24:49 AM\",\"\",\"4/17/2015 1:24:499\u001b[3;1H\u001b[93m    \u001b[m\u001b[94m AM\",\"40725\",\"EZTestEZTest\",\"926600\",\"926600\",\"\",\"El Dorado\",\"0\",\"926600\",\"11\u001b[4;1H\u001b[93m    \u001b[m\u001b[94m281 Burnt Shanty Creek Rd\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m\",\"95667\",\"\",\"Placerville\",\"CA\",\"\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"string\"\"\u001b[6;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\"\u003e12\u001b[101m8\u001b[m\u001b[94m1 Burnt Shanty Creek Rd\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaill\u001b[8;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone type==\u001b[9;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\"\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/_asss\u001b[10;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"strinn\u001b[11;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mg\"\"\u003ePlacerville\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:49 AM\u003c//\u001b[12;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m_completeDate\u003e\u003c_dispatchedDate type=\"\"string\"\"\u003e4/15/2015 11:47:22 AM\u003c/_dispaa\u001b[13;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mtchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c_fctGroo\u001b[14;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWork Ordee\u001b[15;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mr #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\"\u001b[16;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u003e926600\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eAddress\u003c\u003c\u001b[17;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e1288\u001b[18;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m1 Burnt Shanty Creek Rd\r\n\u001b[1m\u001b[93m@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               \u001b[m\u001b[94m\u001b[24;1H\u001b[K\u001b[23;65H\u001b[97m\u001b[106m 25\u001b[m\u001b[94m\u001b[6C\u001b[1m\u001b[97m\u001b[106m1\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.687055,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hd\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089288,
+      "\u001b[?25l\u001b[24;70H \u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;70Hdt\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.215655,
+      "\u001b[?25l\u001b[24;72H\u003c\u001b[1;5H\u0007\u001b[24;70H   \u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.342949,
+      "\u001b[?25l\u001b[24;70Hd\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162708,
+      "\u001b[?25l\u001b[24;70H \u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;70Hdd\u001b[1;5H\u001b[24;70H  "
+    ],
+    [
+      0.009042,
+      "\u001b[1;5H"
+    ],
+    [
+      0.023795,
+      "\",\"95667\",\"\",\"Placerville\",\"CA\",\"\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"string\"\"\u001b[2;1H\u001b[93m \u001b[m\u001b[94m\u001b[3C\"\u003e12\u001b[101m8\u001b[m\u001b[94m1 Burnt Shanty Creek Rd\u001b[2;33H\u001b[K\u001b[3;1H\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaill\u001b[4;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone type==\u001b[5;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[2C\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/_asss\u001b[6;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3CignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"strinn\u001b[7;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1Cg\"\"\u003ePlacerville\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:49 AM\u003c//\u001b[8;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C_completeDate\u003e\u003c_dispatchedDate type=\"\"string\"\"\u003e4/15/2015 11:47:22 AM\u003c/_dispaa\u001b[9;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3CtchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c_fctGroo\u001b[10;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3CupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWork Ordee\u001b[11;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3Cr #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\"\u001b[12;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u003e926600\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eAddress\u003c\u003c\u001b[13;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e1288\u001b[14;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C1 Burnt Shanty Creek Rd\u001b[14;28H\u001b[K\u001b[15;3H\u001b[92m\u001b[40m2\u001b[m\u001b[94m\u001b[1C\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Field\u003e\u003e\u001b[16;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95667\u003c/Ress\u001b[17;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3Cult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGroup tt\u001b[18;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3Cype=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePlacerville\u003c/Resull\u001b[19;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mt\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eState\u003c/Field\u003e\u003cGroup tyy\u001b[20;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mpe=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eCA\u003c/Result\u003e"
+    ],
+    [
+      0.000339,
+      "\u003c/item\u003e\u003c\u003c\u001b[21;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mitem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Id\u003c/Field\u003e\u003cGroup type=\"\"\u001b[22;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty Id\u003c/Result\u003e\u003c/i\u001b[15;1H\u001b[1m\u001b[93m@                                                                               \u001b[16;1H@                                                                               \u001b[17;1H@                                                                               \u001b[18;1H@                                                                               \u001b[19;1H@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               "
+    ],
+    [
+      0.000933,
+      "\u001b[m\u001b[94m\u001b[23;66H\u001b[97m\u001b[106m33\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.691200,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hd\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089140,
+      "\u001b[?25l\u001b[24;70H \u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;70Hdt\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.247660,
+      "\u001b[?25l\u001b[24;72H\u003c\u001b[1;5H\u001b[24;70H   "
+    ],
+    [
+      0.007615,
+      "\u001b[1;5H\u001b[1;22r\u001b[22;1H\r\n\u001b[1;24r\u001b[1;1H\u001b[93m1\u001b[m\u001b[94m\u001b[3C\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"string\"\"\u003e1281 Burnt Shanty Creek Rd\u001b[22;1H\u001b[1m\u001b[93m@                                                                               "
+    ],
+    [
+      0.000753,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.782216,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70HG\u001b[1;5H\u001b[24;70H \u001b[1;5H"
+    ],
+    [
+      0.017262,
+      "\u001b[1;22r\u001b[1;1H\u001b[13M\u001b[1;24r\u001b[1;1H\u001b[93m3   \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Field\u003e\u003e\u001b[2;1H\u001b[93m    \u001b[m\u001b[94m\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95667\u003c/Ress\u001b[3;1H\u001b[93m    \u001b[m\u001b[94mult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGroup tt\u001b[4;1H\u001b[93m    \u001b[m\u001b[94mype=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePlacerville\u003c/Resull\u001b[5;1H\u001b[93m    \u001b[m\u001b[94mt\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eState\u003c/Field\u003e\u003cGroup tyy\u001b[6;1H\u001b[93m    \u001b[m\u001b[94mpe=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eCA\u003c/Result\u003e\u003c/item\u003e\u003c\u003c\u001b[7;1H\u001b[93m    \u001b[m\u001b[94mitem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Id\u003c/Field\u003e\u003cGroup type=\"\"\u001b[8;1H\u001b[93m    \u001b[m\u001b[94m\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty Id\u003c/Result\u003e\u003c/ii\u001b[9;1H\u001b[93m    \u001b[m\u001b[94mtem\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Name\u003c/Field\u003e\u003cGroupp\u001b[10;1H\u001b[93m    \u001b[m\u001b[94m type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty Name\u003c/RR\u001b[11;1H\u001b[93m    \u001b[m\u001b[94mesult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eFAS Contact\u003c/Fieldd\u001b[12;1H\u001b[93m    \u001b[m\u001b[94m\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eFAS Contaa\u001b[13;1H\u001b[93m    \u001b[m\u001b[94mct\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eEmail\u003c/Field\u003e\u003e\u001b[14;1H\u001b[93m    \u001b[m\u001b[94m\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eEmail\u003c/Ress\u001b[15;1H\u001b[93m    \u001b[m\u001b[94mult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003ePhone\u003c/Field\u003e\u003cGroup  \u001b[16;1H\u001b[93m    \u001b[m\u001b[94mtype=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePhone\u003c/Result\u003e\u003c/ii\u001b[17;1H\u001b[93m    \u001b[m\u001b[94mtem\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eClient\u003c/Field\u003e\u003cGroup type=\"\"\u001b[18;1H\u001b[93m    \u001b[m\u001b[94m\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eClient\u003c/Result\u003e\u003c/item\u003e\u003c\u003c\u001b[19;1H\u001b[93m    \u001b[m\u001b[94mitem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eVendor\u003c/Field\u003e\u003cGroup type=\"\"strii\u001b[20;1H\u001b[93m    \u001b[m\u001b[94mng\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eVendor\u003c/Result\u003e\u003c/item\u003e\u003cite"
+    ],
+    [
+      0.000202,
+      "m  \u001b[21;1H\u001b[93m    \u001b[m\u001b[94mtype=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eVendor Contact\u003c/Field\u003e\u003cGroup type=\"\"ss\u001b[22;1H\u001b[93m    \u001b[m\u001b[94mtring\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eVendor Contact\u003c/Result\u003e\u003c/"
+    ],
+    [
+      0.000987,
+      "\u001b[23;65H\u001b[97m\u001b[106m100\u001b[m\u001b[94m\u001b[6C\u001b[1m\u001b[97m\u001b[106m3\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.335506,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H$\u001b[1;5H\u001b[24;70H "
+    ],
+    [
+      0.007602,
+      "\u001b[1;1H\u001b[K\u001b[2;1H\u001b[K\u001b[3;1H\u001b[K\u001b[4;1H\u001b[K\u001b[5;1H\u001b[K\u001b[6;1H\u001b[K\u001b[7;1H\u001b[K\u001b[8;1H\u001b[K\u001b[9;1H\u001b[K\u001b[10;1H\u001b[K\u001b[11;1H\u001b[K\u001b[12;1H\u001b[K\u001b[13;1H\u001b[K\u001b[14;1H\u001b[K\u001b[15;1H\u001b[K\u001b[16;1H\u001b[K\u001b[17;1H\u001b[K\u001b[18;1H\u001b[K\u001b[19;1H\u001b[K\u001b[20;1H\u001b[K\u001b[21;1H\u001b[K\u001b[22;1H\u001b[K\u001b[22;8H"
+    ],
+    [
+      0.019059,
+      "\u001b[1;1H\u001b[93m3   \u001b[m\u001b[94mject\"\"\u003e\u003cField type=\"\"string\"\"\u003eIf \"\"Other\"\", please describe:\u003c/Field\u003e\u003cGroup tt\u001b[2;1H\u001b[93m    \u001b[m\u001b[94mype=\"\"string\"\"\u003eVacancy Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eIf \"\"Other\"\", plee\u001b[3;1H\u001b[93m    \u001b[m\u001b[94mase describe:\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eNoo\u001b[4;1H\u001b[93m    \u001b[m\u001b[94mte\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eINSC\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ejust foo\u001b[5;1H\u001b[93m    \u001b[m\u001b[94mr test\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eDo you cee\u001b[6;1H\u001b[93m    \u001b[m\u001b[94mrtify this inspection?\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eField Rep Info\u003c/Group\u003e\u003c\u003c\u001b[7;1H\u001b[93m    \u001b[m\u001b[94mResult type=\"\"string\"\"\u003eYes\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type==\u001b[8;1H\u001b[93m    \u001b[m\u001b[94m\"\"string\"\"\u003eInspector Name\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eField Rep Info\u003c/Grouu\u001b[9;1H\u001b[93m    \u001b[m\u001b[94mp\u003e\u003cResult type=\"\"string\"\"\u003eInspector Name\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u001b[10;1H\u001b[93m    \u001b[m\u001b[94m\"\u003e\u003cField type=\"\"string\"\"\u003eInspector Phone\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eFieldd\u001b[11;1H\u001b[93m    \u001b[m\u001b[94m Rep Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eInspector Phone\u003c/Result\u003e\u003c/item\u003e\u003citee\u001b[12;1H\u001b[93m    \u001b[m\u001b[94mm type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eInspector Email\u003c/Field\u003e\u003cGroup type==\u001b[13;1H\u001b[93m    \u001b[m\u001b[94m\"\"string\"\"\u003eField Rep Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eInspector Email\u003c/Ree\u001b[14;1H\u001b[93m    \u001b[m\u001b[94msult\u003e\u003c/item\u003e\u003c/_fctGroupInfo\u003e\u003c_issueDate type=\"\"string\"\"\u003e4/15/2015 8:34:36 AMM\u001b[15;1H\u001b[93m    \u001b[m\u001b[94m\u003c/_issueDate\u003e\u003c_jobName type=\"\"string\"\"\u003e926600\u003c/_jobName\u003e\u003c_note type=\"\"stringg\u001b[16;1H\u001b[93m    \u001b[m\u001b[94m\"\"\u003e\u003c/_note\u003e\u003c_ownerCoId type=\"\"string\"\"\u003eMy Client\u003c/_ownerCoId\u003e\u003c_polnum type=\"\"\u001b[17;1H\u001b[93m    \u001b[m\u001b[94m\"string\"\"\u003e926600\u003c/_polnum\u003e\u003c_productCode type=\"\"string\"\"\u003e\u001b[7m\u001b[33mFS\u001b[m\u001b[94m-OccVer2\u003c/_productt\u001b[18;1H\u001b[93m    \u001b[m\u001b[94mCode\u003e\u003c_productName type=\"\"string\"\"\u003eOccupancy Verification Service Request 2\u003c\u003c\u001b[19;1H\u001b[93m    \u001b[m\u001b[94m/_productName\u003e\u003c_serviceType type=\"\"string\"\"\u003e\u003c/_serviceType\u003e\u003c_state type=\"\"stt\u001b[20;1H\u001b[93m    \u001b[m\u001b[94mring\"\"\u003eCA\u003c/_state\u003e\u003c_systemId type=\"\"number\"\"\u003e106247779\u003c/_systemId\u003e\u003c_vendorFee"
+    ],
+    [
+      0.000007,
+      "\u001b[21;1H\u001b[93m    \u001b[m\u001b[94me type=\"\"number\"\"\u003e7.0000\u003c/_vendorFee\u003e\u003c_zip type=\"\"string\"\"\u003e95667\u003c/_zip\u003e\u003c/rooo\u001b[22;1H\u001b[93m    \u001b[m\u001b[94mt\u003e\"\u001b[1m\u001b[93m\u001b[40m^M"
+    ],
+    [
+      0.000957,
+      "\u001b[m\u001b[94m\u001b[23;59H\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[97m\u001b[106m 100% :\u001b[m\u001b[94m\u001b[1m\u001b[97m\u001b[106m   3\u001b[m\u001b[94m\u001b[97m\u001b[106m:14748"
+    ],
+    [
+      0.000810,
+      "\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.914585,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hx\u001b[22;8H\u001b[24;70H \u001b[22;8H\u001b[24;70Hdl\u001b[22;8H"
+    ],
+    [
+      0.006204,
+      "\u001b[24;70H  \u001b[22;7H"
+    ],
+    [
+      0.024460,
+      "\u001b[22;8H\u001b[K"
+    ],
+    [
+      0.001164,
+      "\u001b[23;78H\u001b[97m\u001b[106m7\u001b[22;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135862,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hx"
+    ],
+    [
+      0.000008,
+      "\u001b[22;7H\u001b[24;70H \u001b[22;7H\u001b[24;70Hdl\u001b[22;7H"
+    ],
+    [
+      0.000371,
+      "\u001b[24;70H  "
+    ],
+    [
+      0.002117,
+      "\u001b[22;6H"
+    ],
+    [
+      0.029053,
+      "\u001b[22;7H\u001b[K"
+    ],
+    [
+      0.001047,
+      "\u001b[23;78H\u001b[97m\u001b[106m6\u001b[22;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.663585,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hg\u001b[22;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.161274,
+      "\u001b[?25l\u001b[24;70H \u001b[22;6H\u001b[24;70Hgg\u001b[22;6H\u001b[24;70H  \u001b[1;5H"
+    ],
+    [
+      0.034351,
+      "\r\u001b[93m1\u001b[m\u001b[94m\u001b[3C\u003croot type=\"\"object\"\"\u003e\u003c_addr type=\"\"string\"\"\u003e1281 Burnt Shanty Creek Rd\u001b[1;76H\u001b[K\u001b[2;1H\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m\u003c/_addr\u003e\u003c_assignEmail type=\"\"string\"\"\u003etricia@ezinspections.com\u003c/_assignEmaill\u001b[3;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u003e\u003c_a\u001b[101ms\u001b[m\u001b[94msignName type=\"\"string\"\"\u003eEZTest EZTest\u003c/_assignName\u003e\u003c_assignPhone type==\u001b[4;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\"\"string\"\"\u003e123-123-1233\u003c/_assignPhone\u003e\u003c_assignTo type=\"\"number\"\"\u003e40725\u003c/_asss\u001b[5;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mignTo\u003e\u003c_attachmentsInfo type=\"\"null\"\"\u003e\u003c/_attachmentsInfo\u003e\u003c_city type=\"\"strinn\u001b[6;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mg\"\"\u003ePlacerville\u003c/_city\u003e\u003c_completeDate type=\"\"string\"\"\u003e4/17/2015 1:24:49 AM\u003c//\u001b[7;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m_completeDate\u003e\u003c_dispatchedDate type=\"\"string\"\"\u003e4/15/2015 11:47:22 AM\u003c/_dispaa\u001b[8;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mtchedDate\u003e\u003c_dueDate type=\"\"string\"\"\u003e4/18/2015 12:00:00 AM\u003c/_dueDate\u003e\u003c_fctGroo\u001b[9;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mupInfo type=\"\"array\"\"\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eWork Ordee\u001b[10;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mr #\u003c/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\"\u001b[11;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u003e926600\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eAddress\u003c\u003c\u001b[12;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m/Field\u003e\u003cGroup type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e1288\u001b[13;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m1 Burnt Shanty Creek Rd\u001b[13;28H\u001b[K\u001b[14;1H\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u003c/Result\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eZipcode\u003c/Field\u003e\u003e\u001b[15;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u003cGro\u001b[101mu\u001b[m\u001b[94mp type=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003e95667\u003c/Ress\u001b[16;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mult\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eCity\u003c/Field\u003e\u003cGroup tt\u001b[17;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mype=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003ePlacerville\u003c/Resull\u001b[18;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mt\u003e\u003c/item\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eState\u003c/Field\u003e\u003cGroup tyy\u001b[19;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mpe=\"\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eCA\u003c/Result\u003e\u003c/item\u003e\u003c\u003c\u001b[20;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mitem type=\"\"object\"\"\u003e\u003cField type="
+    ],
+    [
+      0.000346,
+      "\"\"string\"\"\u003eProperty Id\u003c/Field\u003e\u003cGroup type=\"\"\u001b[21;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\"string\"\"\u003eHeader Info\u003c/Group\u003e\u003cResult type=\"\"string\"\"\u003eProperty Id\u003c/Result\u003e\u003c/ii\u001b[22;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94mtem\u003e\u003citem type=\"\"object\"\"\u003e\u003cField type=\"\"string\"\"\u003eProperty Name\u003c/Field\u003e\u003cGroup\u001b[14;1H\u001b[1m\u001b[93m@                                                                               \u001b[15;1H@                                                                               \u001b[16;1H@                                                                               \u001b[17;1H@                                                                               \u001b[18;1H@                                                                               \u001b[19;1H@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               "
+    ],
+    [
+      0.001151,
+      "\u001b[m\u001b[94m\u001b[23;59H\u001b[96m\u001b[40m  \u001b[m\u001b[94m\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[93m\u001b[40m◀\u001b[m\u001b[94m\u001b[96m\u001b[103m◀\u001b[m\u001b[94m\u001b[97m\u001b[106m  33% :\u001b[m\u001b[94m\u001b[1C\u001b[1m\u001b[97m\u001b[106m  1\u001b[m\u001b[94m\u001b[97m\u001b[106m:  1"
+    ],
+    [
+      0.000870,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.977890,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H:\u001b[1;5H\u001b[24;70H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096293,
+      "s\u0008"
+    ],
+    [
+      0.103719,
+      " \u0008se\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063781,
+      "t\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136084,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296148,
+      "f\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.215862,
+      "t\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120035,
+      "=\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.408030,
+      "x\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.071827,
+      "m\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.064138,
+      "l\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.217020,
+      "\r"
+    ],
+    [
+      0.004501,
+      "\u001b[?25l"
+    ],
+    [
+      0.000297,
+      "\u001b[1;5H"
+    ],
+    [
+      0.011183,
+      "\u001b[34m\u003croot \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003c_addr \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[2;5H\u003c/_addr\u003e\u003c_assignEmail \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[24C\u003c/_assignEmaill\u001b[m\u001b[94m\u001b[3;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34m\u003e\u003c_a\u001b[m\u001b[94m\u001b[34m\u001b[101ms\u001b[m\u001b[94m\u001b[34msignName \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[13C\u003c/_assignName\u003e\u003c_assignPhone \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m==\u001b[4;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[12C\u003c/_assignPhone\u003e\u003c_assignTo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mnumber\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m40725\u001b[34m\u003c/_asss\u001b[m\u001b[94m\u001b[5;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34mignTo\u003e\u003c_attachmentsInfo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mnull\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003c/_attachmentsInfo\u003e\u003c_city \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstrinn\u001b[m\u001b[94m\u001b[6;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34mg\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[11C\u003c/_city\u003e\u003c_completeDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[20C\u003c//\u001b[m\u001b[94m\u001b[7;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34m_completeDate\u003e\u003c_dispatchedDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[21C\u003c/_dispaa\u001b[m\u001b[94m\u001b[8;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34mtchedDate\u003e\u003c_dueDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[21C\u003c/_dueDate\u003e\u003c_fctGroo\u001b[m\u001b[94m\u001b[9;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34mupInfo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34marray\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\u001b[8Cee\u001b[10;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[6C\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[11C\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring"
+    ],
+    [
+      0.033294,
+      "\u001b[m\u001b[94m\u001b[36m\"\"\"\u001b[m\u001b[94m\u001b[11;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34m\u003e\u001b[m\u001b[94m926600\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[7C\u003c\u003c\u001b[m\u001b[94m\u001b[12;1H\u001b[92m\u001b[40m \u001b[m\u001b[94m\u001b[3C\u001b[34m/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[11C\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m1288\u001b[13;1H\u001b[92m\u001b[40m \r\n  2 \u001b[m\u001b[94m\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mZipcode\u001b[34m\u003c/Field\u003e\u003e\u001b[m\u001b[94m\u001b[15;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34m\u003cGro\u001b[m\u001b[94m\u001b[34m\u001b[101mu\u001b[m\u001b[94m\u001b[34mp \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m95667\u001b[34m\u003c/Ress\u001b[m\u001b[94m\u001b[16;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mult\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCity\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtt\u001b[m\u001b[94m\u001b[17;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[33mype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPlacerville\u001b[34m\u003c/Resull\u001b[m\u001b[94m\u001b[18;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mt\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mState\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtyy\u001b[m\u001b[94m\u001b[19;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[33mpe\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info"
+    ],
+    [
+      0.003551,
+      "\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCA\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003c\u003c\u001b[m\u001b[94m\u001b[20;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mitem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[21;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[36m\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Result\u003e\u003c/ii\u001b[m\u001b[94m\u001b[22;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mtem\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Name\u001b[34m\u003c/Field\u003e\u003cGroup\u001b[m\u001b[94m\u001b[14;1H\u001b[1m\u001b[93m@                                                                               \u001b[15;1H@                                                                               \u001b[16;1H@                                                                               \u001b[17;1H@                                                                               \u001b[18;1H@                                                                               \u001b[19;1H@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                                                                               "
+    ],
+    [
+      0.000914,
+      "\u001b[m\u001b[94m\u001b[23;56H\u001b[30m\u001b[40m◀\u001b[m\u001b[94m\u001b[92m\u001b[40m xml "
+    ],
+    [
+      0.000667,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.250000,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;1H\u001b[K\u001b[24;1H:.,$!xmllint --format --recover -\r\u001b[?12l\u001b[?25h\u001b[?1006l\u001b[?1002l"
+    ],
+    [
+      0.010113,
+      "\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.000245,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv + (/tmp/ez) - VIM\u0007\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.000136,
+      "\u001b[?25l3 lines filtered\u001b[24;17H\u001b[K"
+    ],
+    [
+      0.000843,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000017,
+      "\u001b[?25l\u001b[24;70H'a"
+    ],
+    [
+      0.000009,
+      "\u001b[1;5H"
+    ],
+    [
+      0.000011,
+      "\u001b[24;70H  "
+    ],
+    [
+      0.000016,
+      "\u001b[1;5H"
+    ],
+    [
+      0.001516,
+      "-:1: parser error : attributes construct error\u001b[1;51H\u001b[K\u001b[2;6H\u001b[34mroot \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003c_addr \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\u001b[m\u001b[94m\u001b[1C\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m1281 Burnt Shanty Creek Rd\u001b[2;76H\u001b[K\u001b[3;3H\u001b[92m\u001b[40m2\u001b[m\u001b[94m\u001b[1C             ^\u001b[3;19H\u001b[K\u001b[4;3H\u001b[92m\u001b[40m3\u001b[m\u001b[94m\u001b[1C-:1: parser error : Couldn't find end of Start Tag root line 1\u001b[4;67H\u001b[K\u001b[5;3H\u001b[92m\u001b[40m4\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003croot \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003c_addr \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\u001b[m\u001b[94m\u001b[1C\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m1281 Burnt Shanty Creek Rd\u001b[5;76H\u001b[K\u001b[6;3H\u001b[92m\u001b[40m5\u001b[m\u001b[94m\u001b[1C             ^\u001b[6;19H\u001b[K\u001b[7;3H\u001b[92m\u001b[40m6\u001b[m\u001b[94m\u001b[1C-:1: parser error : Extra content at the end of the document\u001b[7;65H\u001b[K\u001b[8;3H\u001b[92m\u001b[40m7\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003croot \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003c_addr \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[1C\u001b[36m\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m1281 Burnt Shanty Creek Rd\u001b[8;76H\u001b[K\u001b[9;3H\u001b[92m\u001b[40m8\u001b[m\u001b[94m\u001b[1C             ^\u001b[9;19H\u001b[K\u001b[10;3H\u001b[92m\u001b[40m9\u001b[m\u001b[94m\u001b[1C\u001b[92m\u003c?\u001b[m\u001b[94m\u001b[33mxml version\u001b[m\u001b[94m=\u001b[36m\"1.0\"\u001b[m\u001b[94m\u001b[92m?\u003e\u001b[m\u001b[94m\u001b[10;26H\u001b[K\u001b[11;2H\u001b[92m\u001b[40m10\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003croot \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m/\u003e\u001b[m\u001b[94m\u001b[11;20H\u001b[K\u001b[12;1H\u001b[1m\u001b[93m~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~ \r\n~ \r\n~ \r\n~ \r\n~ \r\n~ \r\n~ \r\n~ \r\n~ "
+    ],
+    [
+      0.001678,
+      "\u001b[m\u001b[94m\u001b[23;66H\u001b[97m\u001b[106m 9"
+    ],
+    [
+      0.000755,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.753575,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70Hu\u001b[1;5H\u001b[24;1H8 fewer lines; before #7  2 seconds ago\u001b[24;70H\u001b[K\u001b[1;5H"
+    ],
+    [
+      0.002856,
+      "\u001b[34m\u003croot \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003c_addr \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m1281 Burnt Shanty Creek Rd\u001b[2;6H\u001b[34m/_addr\u003e\u003c_assignEmail \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[1C\u001b[36m\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mtricia@ezinspections.com\u001b[34m\u003c/_assignEmaill\u001b[m\u001b[94m\u001b[3;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[34m\u003e\u003c_a\u001b[m\u001b[94m\u001b[34m\u001b[101ms\u001b[m\u001b[94m\u001b[34msignName \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEZTest EZTest\u001b[34m\u003c/_assignName\u003e\u003c_assignPhone \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m==\u001b[4;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m123-123-1233\u001b[34m\u003c/_assignPhone\u003e\u003c_assignTo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mnumber\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m40725\u001b[34m\u003c/_asss\u001b[m\u001b[94m\u001b[5;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[34mignTo\u003e\u003c_attachmentsInfo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mnull\u001b[m\u001b[94m\u001b[1C\u001b[36m\"\u001b[m\u001b[94m\u001b[34m\u003e\u003c/_attachmentsInfo\u003e\u003c_city \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstrinn\u001b[m\u001b[94m\u001b[6;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[34mg\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPlacerville\u001b[34m\u003c/_city\u003e\u003c_completeDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m4/17/2015 1:24:49 AM\u001b[34m\u003c//\u001b[m\u001b[94m\u001b[7;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[34m_completeDate\u003e\u003c_dispatchedDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m4/15/2015 11:47:22 AM\u001b[34m\u003c/_dispaa\u001b[m\u001b[94m\u001b[8;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[34mtchedDate\u003e\u003c_dueDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003e\u001b[m\u001b[94m4/18/2015 12:00:00 AM\u001b[34m\u003c/_dueDate\u003e\u003c_fctGroo\u001b[m\u001b[94m\u001b[9;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[34mupInfo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34marray\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m"
+    ],
+    [
+      0.036719,
+      "\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mWork Ordee\u001b[10;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1Cr #\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\"\u001b[m\u001b[94m\u001b[11;1H\u001b[92m\u001b[40m   \u001b[m\u001b[94m\u001b[1C\u001b[34m\u003e\u001b[m\u001b[94m926600\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mAddress\u001b[34m\u003c\u003c\u001b[m\u001b[94m\u001b[12;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34m/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m1288\u001b[13;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m1 Burnt Shanty Creek Rd\u001b[13;28H\u001b[K\u001b[14;1H\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mZipcode\u001b[34m\u003c/Field\u003e\u003e\u001b[m\u001b[94m\u001b[15;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34m\u003cGro\u001b[m\u001b[94m\u001b[34m\u001b[101mu\u001b[m\u001b[94m\u001b[34mp \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m95667\u001b[34m\u003c/Ress\u001b[m\u001b[94m\u001b[16;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mult\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCity\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtt\u001b[m\u001b[94m\u001b[17;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[33mype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPlacerville\u001b[34m\u003c/Resull\u001b[m\u001b[94m\u001b[18;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m"
+    ],
+    [
+      0.005272,
+      "\u001b[34mt\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mState\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtyy\u001b[m\u001b[94m\u001b[19;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[33mpe\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCA\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003c\u003c\u001b[m\u001b[94m\u001b[20;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mitem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[21;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[36m\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Result\u003e\u003c/ii\u001b[m\u001b[94m\u001b[22;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mtem\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mobject\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34mstring\u001b[m\u001b[94m\u001b[36m\"\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Name\u001b[34m\u003c/Field\u003e\u003cGroup\u001b[m\u001b[94m\u001b[14;1H\u001b[1m\u001b[93m@                                                                               \u001b[15;1H@                                                                               \u001b[16;1H@                                                                               \u001b[17;1H@                                                                               \u001b[18;1H@                                                                               \u001b[19;1H@                                                                               \u001b[20;1H@                                                                               \u001b[21;1H@                                                                               \u001b[22;1H@                            "
+    ],
+    [
+      0.000006,
+      "                                                   "
+    ],
+    [
+      0.000992,
+      "\u001b[m\u001b[94m\u001b[23;66H\u001b[97m\u001b[106m33\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.119927,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H:\u001b[1;5H\u001b[24;1H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191902,
+      "%\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.231961,
+      "s\u0008"
+    ],
+    [
+      0.120002,
+      " \u0008s-\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.456034,
+      "\"\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143994,
+      "\"\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.287966,
+      "-\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.320018,
+      "\"\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.384187,
+      "0-\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.455810,
+      "\u001b[?25l\u001b[24;10H\u001b[K\u001b[24;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175999,
+      "\u001b[?25l\u001b[24;9H\u001b[K\u001b[24;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.071973,
+      "-\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296056,
+      "g\u0008"
+    ],
+    [
+      0.964985,
+      " \u0008g\r\u001b[?25l752 substitutions on 3 lines\u001b[1;5H"
+    ],
+    [
+      0.032466,
+      "\r\u001b[93m3\u001b[m\u001b[94m\u001b[4C\u001b[34m/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mZipcode\u001b[34m\u003c/Field\u003e\u003cGroo\u001b[m\u001b[94m\u001b[2;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34mup \u001b[m\u001b[94m\u001b[33mt\u001b[m\u001b[94m\u001b[33m\u001b[101my\u001b[m\u001b[94m\u001b[33mpe\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m95667\u001b[34m\u003c/Result\u003e\u003c/itt\u001b[m\u001b[94m\u001b[3;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34mem\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCity\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\"\u001b[m\u001b[94m\u001b[4;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPlacerville\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtt\u001b[m\u001b[94m\u001b[5;1H\u001b[93m    \u001b[m\u001b[94m\u001b[33mype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mState\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader II\u001b[6;1H\u001b[93m    \u001b[m\u001b[94mnfo\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCA\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cFiell\u001b[m\u001b[94m\u001b[7;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34md \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003c\u003c\u001b[m\u001b[94m\u001b[8;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34mResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[2C\u001b[34mField \u001b[m\u001b[94m\u001b[33mtt\u001b[m\u001b[94m\u001b[9;1H\u001b[93m    \u001b[m\u001b[94m\u001b[33mype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Name\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cRR\u001b[m\u001b[94m\u001b[10;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34mesult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m"
+    ],
+    [
+      0.008338,
+      "\u001b[34m\u003e\u001b[m\u001b[94mProperty Name\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003e\u003cField  \u001b[m\u001b[94m\u001b[11;1H\u001b[93m    \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mFAS Contact\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cRee\u001b[m\u001b[94m\u001b[12;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34msult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mFAS Contact\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtypp\u001b[m\u001b[94m\u001b[13;1H\u001b[93m    \u001b[m\u001b[94m\u001b[33me\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEmail\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtypee\u001b[m\u001b[94m\u001b[14;1H\u001b[93m    \u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEmail\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPhonn\u001b[15;1H\u001b[93m    \u001b[m\u001b[94me\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPhonee\u001b[16;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mClient\u001b[34m\u003c/Field\u003e\u003cGrouu\u001b[m\u001b[94m\u001b[17;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34mp \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mClient\u001b[34m\u003c/Result\u003e\u003c/itt\u001b[m\u001b[94m\u001b[18;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34mem\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"strinn\u001b[m\u001b[94m\u001b[19;1H\u001b[93m    \u001b[m\u001b[94m\u001b[36mg\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m"
+    ],
+    [
+      0.002242,
+      "\u001b[33mtypee\u001b[m\u001b[94m\u001b[20;1H\u001b[93m    \u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor Contact\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHee\u001b[21;1H\u001b[93m    \u001b[m\u001b[94mader Info\u001b[34m\u003c/Group\u003e\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor Contact\u001b[34m\u003c/Result\u003e\u003c/item\u003e\u003citem \u001b[m\u001b[94m\u001b[33mtt\u001b[m\u001b[94m\u001b[22;1H\u001b[93m    \u001b[m\u001b[94m\u001b[33mype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor Email\u001b[34m\u003c/Field\u003e\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mH"
+    ],
+    [
+      0.000955,
+      "\u001b[23;65H\u001b[97m\u001b[106m100\u001b[m\u001b[94m\u001b[6C\u001b[1m\u001b[97m\u001b[106m3\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.576876,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;1H\u001b[K\u001b[24;1H:.,$!xmllint --format --recover -\r\u001b[?12l\u001b[?25h\u001b[?1006l\u001b[?1002l"
+    ],
+    [
+      0.010110,
+      "\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.000269,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv + (/tmp/ez) - VIM\u0007\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.000269,
+      "\u001b[?25l3 lines filtered\u001b[24;17H\u001b[K"
+    ],
+    [
+      0.001338,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;70H'a"
+    ],
+    [
+      0.000004,
+      "\u001b[1;5H\u001b[24;70H  "
+    ],
+    [
+      0.000483,
+      "\u001b[3;7H"
+    ],
+    [
+      0.002642,
+      "\u001b[1;1H\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u001b[92m\u003c?\u001b[m\u001b[94m\u001b[33mxml version\u001b[m\u001b[94m=\u001b[36m\"1.0\"\u001b[m\u001b[94m\u001b[92m?\u003e\u001b[m\u001b[94m\u001b[1;26H\u001b[K\u001b[2;1H\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m\u001b[34m\u003croot \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\u001b[2;25H\u001b[K\u001b[3;1H\u001b[93m3\u001b[m\u001b[94m\u001b[3C  \u001b[34m\u003c_addr\u001b[m\u001b[94m\u001b[7C\u001b[36mstring\u001b[m\u001b[94m\u001b[2C1281 Burnt Shanty Creek Rd\u001b[3;54H\u001b[K\u001b[4;1H\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m\u001b[34m\u003c/_addr\u003e\u001b[m\u001b[94m\u001b[4;13H\u001b[K\u001b[5;1H\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m  \u001b[34m\u003c_assignEmail \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mtricia@ezinspections.com\u001b[34m\u003c/_assignEmail\u003e\u001b[m\u001b[94m\u001b[5;74H\u001b[K\u001b[6;1H\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m  \u001b[34m\u003c_assignName \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEZTest EZTest\u001b[34m\u003c/_assignName\u003e\u001b[m\u001b[94m\u001b[6;61H\u001b[K\u001b[7;1H\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m  \u001b[34m\u003c_assignPhone \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m123-123-1233\u001b[34m\u003c/_assignPhone\u003e\u001b[m\u001b[94m\u001b[7;62H\u001b[K\u001b[8;1H\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m  \u001b[34m\u003c_assignTo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"number\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m40725\u001b[2C\u001b[34m_assignTo\u003e\u001b[m\u001b[94m\u001b[8;49H\u001b[K\u001b[9;1H\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m  \u001b[34m\u003c_attachmentsInfo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"null\"\u001b[m\u001b[94m\u001b[34m/\u003e\u001b[m\u001b[94m\u001b[9;38H\u001b[K\u001b[10;1H\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m  \u001b[34m\u003c_city \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPlacerville\u001b[34m\u003c/_city\u001b[m\u001b[94m\u001b[10;47H\u001b[K\u001b[11;1H\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m  \u001b[34m\u003c_completeDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m4/17/2015 1:24:49 AM\u001b[34m\u003c/_completeDate\u003e\u001b[m\u001b[94m\u001b[11;72H\u001b[K\u001b[12;1H\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m  \u001b[34m\u003c_dispatchedDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m4/15/2015 11:47:22 AM\u001b[34m\u003c/_dispatchedDate\u003e\u001b[m\u001b[94m\u001b[12;77H\u001b[K\u001b[13;1H\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m  \u001b[34m\u003c_dueDate \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m4/18/2015 12:00:00 AM\u001b[34m\u003c/_dueDate\u003e\u001b[m\u001b[94m\u001b[13;63H\u001b[K\u001b[14;1H\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m  \u001b[34m\u003c_fctGroupInfo \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"array\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\u001b[14;35H\u001b[K\u001b[15;1H\u001b[92m\u001b[40m 12 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e"
+    ],
+    [
+      0.000999,
+      "\u001b[m\u001b[94m\u001b[15;29H\u001b[K\u001b[16;1H\u001b[92m\u001b[40m 13 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mWork Order #\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\u001b[16;52H\u001b[K\u001b[17;1H\u001b[92m\u001b[40m 14 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\u001b[17;51H\u001b[K\u001b[18;1H\u001b[92m\u001b[40m 15 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m926600\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\u001b[18;48H\u001b[K\u001b[19;1H\u001b[92m\u001b[40m 16 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\u001b[19;16H\u001b[K\u001b[20;1H\u001b[92m\u001b[40m 17 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003e\u001b[m\u001b[94m\u001b[20;29H\u001b[K\u001b[21;1H\u001b[92m\u001b[40m 18 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mAddress\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\u001b[21;47H\u001b[K\u001b[22;1H\u001b[92m\u001b[40m 19 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\u001b[m\u001b[94m\u001b[1C\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\u001b[22;51H\u001b[K"
+    ],
+    [
+      0.000906,
+      "\u001b[23;65H\u001b[97m\u001b[106m  \u001b[11C3"
+    ],
+    [
+      0.000739,
+      "\u001b[3;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      4.040854,
+      "\u001b[?1006l\u001b[?1002l"
+    ],
+    [
+      0.010140,
+      "\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.000182,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv + (/tmp/ez) - VIM\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.001449,
+      "\u001b[?1006l\u001b[?1002l"
+    ],
+    [
+      0.010469,
+      "\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.000827,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv + (/tmp/ez) - VIM\u0007\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.003139,
+      "\u001b[?25l"
+    ],
+    [
+      0.004370,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.682396,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[3;7H\u001b[24;70H  \u001b[11;11H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m22  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m1281 Burnt Shanty Creek Rd\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mZipcode\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m95667\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCity\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\u001b[24;1H\u001b[K\u001b[23;67H\u001b[97m\u001b[106m4\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m22\u001b[m\u001b[94m\u001b[97m\u001b[106m:  7\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.398667,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;11H"
+    ],
+    [
+      0.001522,
+      "\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m33  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPlacerville\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mState\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCA\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Id\u001b[34m\u003c/Result\u003e"
+    ],
+    [
+      0.001279,
+      "\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m7\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m33\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.239136,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;11H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m44  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Name\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Name\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mFAS Contact\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mFAS Contact\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m9\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m44\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197834,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;9H"
+    ],
+    [
+      0.001322,
+      "\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m55  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEmail\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEmail\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPhone\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPhone\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e"
+    ],
+    [
+      0.001112,
+      "\u001b[m\u001b[94m\u001b[23;66H\u001b[97m\u001b[106m12\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m55\u001b[m\u001b[94m\u001b[97m\u001b[106m:  5"
+    ],
+    [
+      0.000005,
+      "\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183523,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;9H\u001b[24;70H  \u001b[11;9H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m66  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mClient\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mClient\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor Contact\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m4\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m66\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.216605,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;9H\u001b[24;70H  \u001b[11;11H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m77  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor Contact\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor Email\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVendor Email\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVender Fax\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m6\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m77\u001b[m\u001b[94m\u001b[97m\u001b[106m:  7\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206568,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;11H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m88  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVender Fax\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mService Area\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mService Area\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mService\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mService\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m9\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m88\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175099,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;11H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m99  \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mDate First Inspected\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mDate First Inspected\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mDate First Time Vacant\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mHeader Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mDate First Time Vacant\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\u001b[23;66H\u001b[97m\u001b[106m21\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m99\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.193559,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;9H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m110 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCheck if this is a Bad Address\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mBad Address Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mYes\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIf a Bad Address, cause of bad address:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mBad Address Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Need Unit Number|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m4\u001b[m\u001b[94m\u001b[4C\u001b[1m\u001b[97m\u001b[106m110\u001b[m\u001b[94m\u001b[97m\u001b[106m:  5\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207188,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;9H\u001b[24;70H  \u001b[11;9H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m121 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mAdditional actions taken - checked with:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mBad Address Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Post Office Website|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCorrected Property Address\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mBad Address Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mCorrected Property Address\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mAre you able to Access the Property?\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m6\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m21\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.216578,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;9H\u001b[24;70H  \u001b[11;11H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m132 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mYes\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIf No, Access Denied By\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mGated Community\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mNeighborhood Is\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m9\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m32\u001b[m\u001b[94m\u001b[97m\u001b[106m:  7\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223360,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;11H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m143 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Stable|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mType of Property\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Single Family|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIf a Mobile Home, is it in a park?\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mYes\u001b[34m\u003c/Result\u003e"
+    ],
+    [
+      0.000019,
+      "\u001b[m\u001b[94m\u001b[23;66H\u001b[97m\u001b[106m31\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m43\u001b[m\u001b[94m\u001b[97m\u001b[106m:"
+    ],
+    [
+      0.000016,
+      "\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183246,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;11H"
+    ],
+    [
+      0.000786,
+      "\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m154 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mName of Mobile Home Park\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mName of Mobile Home Park\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPark Phone Number\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mPark Phone Number\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e"
+    ],
+    [
+      0.001186,
+      "\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m3\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m54\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.196436,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[11;9H"
+    ],
+    [
+      0.001183,
+      "\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m165 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVIN #/ HUD #\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mVIN #/ HUD #\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIs the Mobile Home on a foundation?\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mYes\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e"
+    ],
+    [
+      0.000789,
+      "\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m6\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m65\u001b[m\u001b[94m\u001b[97m\u001b[106m:  5\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.193230,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;9H\u001b[24;70H  \u001b[11;9H\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m176 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mWhat is the size of the mobile home?\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Single-Wide|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty shows damage from:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Neglect|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEyeball estimate to repair damages reported\u001b[34m\u003c/Fiel\u001b[m\u001b[94m\u001b[22;1H\u001b[1m\u001b[93m@                                                                               \u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m8\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m76\u001b[m\u001b[94m\u001b[97m\u001b[106m:\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.180328,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;9H\u001b[24;70H  \u001b[11;11H"
+    ],
+    [
+      0.003626,
+      "\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;2H\u001b[92m\u001b[40m10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m187 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEyeball estimate to repair damages reported\u001b[34m\u003c/Fiell\u001b[m\u001b[94m\u001b[12;1H\u001b[93m    \u001b[m\u001b[94m\u001b[34md\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mEyeball estimate to repair damages reported\u001b[34m\u003c/Ress\u001b[m\u001b[94m\u001b[15;1H\u001b[92m\u001b[40m    \u001b[m\u001b[94m\u001b[34mult\u003e\u001b[m\u001b[94m\u001b[101m \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIf \"Other\", Please describe:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIf \"Other\", Please describe:\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e"
+    ],
+    [
+      0.001374,
+      "\u001b[m\u001b[94m\u001b[23;66H\u001b[97m\u001b[106m41\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m87\u001b[m\u001b[94m\u001b[97m\u001b[106m:  7"
+    ],
+    [
+      0.000010,
+      "\u001b[11;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.212553,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[11;11H\u001b[24;70H  \u001b[12;9H"
+    ],
+    [
+      0.001278,
+      "\u001b[1;22r\u001b[1;1H\u001b[10M\u001b[1;24r\u001b[1;1H\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m\u001b[75C\u001b[34mll\u001b[m\u001b[94m\u001b[2;1H\u001b[92m\u001b[40m    \r\n  8\r\n  7\u001b[m\u001b[94m\u001b[76C\u001b[34mss\u001b[m\u001b[94m\u001b[5;1H\u001b[92m\u001b[40m \r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m196 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mType of Construction:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Frame|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIf \"Other\", please describe:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIf \"Other\", please describe:\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e"
+    ],
+    [
+      0.001249,
+      "\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m3\u001b[m\u001b[94m\u001b[5C\u001b[1m\u001b[97m\u001b[106m96\u001b[m\u001b[94m\u001b[97m\u001b[106m:  5\u001b[12;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181092,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70H^D\u001b[12;9H\u001b[24;70H  \u001b[11;9H"
+    ],
+    [
+      0.002614,
+      "\u001b[1;22r\u001b[1;1H\u001b[11M\u001b[1;24r\u001b[1;1H\u001b[92m\u001b[40m 10 \r\n  9\r\n  8\r\n  7\r\n  6\r\n\r\n  4\r\n  3\r\n  2\r\n  1\u001b[m\u001b[94m\r\n\u001b[93m206 \u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mGarage:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Attached|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mExterior Property Condition:\u001b[34m\u003c/Field\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m      \u001b[34m\u003cGroup \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mProperty Info\u001b[34m\u003c/Group\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m      \u001b[34m\u003cResult \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m|Good|\u001b[34m\u003c/Result\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m    \u001b[34m\u003c/item\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m    \u001b[34m\u003citem \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"object\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m      \u001b[34m\u003cField \u001b[m\u001b[94m\u001b[33mtype\u001b[m\u001b[94m=\u001b[36m\"string\"\u001b[m\u001b[94m\u001b[34m\u003e\u001b[m\u001b[94mIs Property for Sale?\u001b[34m\u003c/Field\u003e"
+    ],
+    [
+      0.001070,
+      "\u001b[m\u001b[94m\u001b[23;67H\u001b[97m\u001b[106m5\u001b[m\u001b[94m\u001b[4C\u001b[1m\u001b[97m\u001b[106m206\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.016989,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[24;70HZ\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178119,
+      "\u001b[?25l\u001b[24;71HZ\u001b[11;9H\u001b[?1006l\u001b[?1002l\u001b[24;1H\"EZ-data-04-17-15-01-41_2.csv\"\u001b[24;70H\u001b[K\u001b[24;32H454L, 17618C written"
+    ],
+    [
+      0.010373,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv + (/tmp/ez) - VIM\u0007\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.000612,
+      "\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015979,
+      "\u001b]2;EZ-data-04-17-15-01-41_2.csv + (/tmp/ez) - VIM\u0007\u001b]1;EZ-data-04-17-15-01-41_2.csv\u0007"
+    ],
+    [
+      0.036467,
+      "\u001b]2;alan@gandalf\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;alan@gandalf\u0007\r\r\n\u001b[39;49m\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000002,
+      "\u001b[?1049l"
+    ],
+    [
+      0.006061,
+      "\u001b]0;alan@gandalf\u0007\u001b[0;36malan\u001b[0m@\u001b[0;35mgandalf \u001b[0;33mez \u001b[0;35m\u001b[0m$ "
+    ],
+    [
+      1.057008,
+      "exit\r\n"
+    ]
+  ]
+}
