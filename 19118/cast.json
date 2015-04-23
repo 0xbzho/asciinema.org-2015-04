@@ -1,0 +1,1874 @@
+{
+  "version": 1,
+  "width": 88,
+  "height": 23,
+  "duration": 87.159963,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.199290,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000039,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.017770,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D"
+    ],
+    [
+      0.000050,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.240705,
+      "c"
+    ],
+    [
+      0.094573,
+      "\u0008ca"
+    ],
+    [
+      0.119625,
+      "t"
+    ],
+    [
+      0.064747,
+      " "
+    ],
+    [
+      0.119985,
+      "D"
+    ],
+    [
+      0.135695,
+      "o"
+    ],
+    [
+      0.048125,
+      "c"
+    ],
+    [
+      0.144016,
+      "k"
+    ],
+    [
+      0.031789,
+      "e"
+    ],
+    [
+      0.055857,
+      "r"
+    ],
+    [
+      0.123822,
+      "file\u001b[1m \u001b[0m"
+    ],
+    [
+      0.284591,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000020,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000085,
+      "\r\r\n"
+    ],
+    [
+      0.000860,
+      "\u001b]2;cat Dockerfile\u0007\u001b]1;cat\u0007"
+    ],
+    [
+      0.002358,
+      "# Taken from: https://docs.docker.com/examples/apt-cacher-ng/\r\nFROM        debian:latest \r\nMAINTAINER  SvenDowideit@docker.com\r\n\r\nVOLUME  /var/cache/apt-cacher-ng\r\nRUN     apt-get update \u0026\u0026 apt-get install -y apt-cacher-ng\r\n\r\nEXPOSE  3142\r\nCMD     chmod 777 /var/cache/apt-cacher-ng \u0026\u0026 \\\r\n        /etc/init.d/apt-cacher-ng start \u0026\u0026 \\\r\n        tail -f /var/log/apt-cacher-ng/*\r\n"
+    ],
+    [
+      0.000311,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000056,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.017035,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D\u001b[?1h\u001b="
+    ],
+    [
+      0.835242,
+      "d"
+    ],
+    [
+      0.127945,
+      "\u0008do"
+    ],
+    [
+      0.079830,
+      "c"
+    ],
+    [
+      0.136173,
+      "k"
+    ],
+    [
+      0.048022,
+      "e"
+    ],
+    [
+      0.079922,
+      "r"
+    ],
+    [
+      0.079934,
+      " "
+    ],
+    [
+      0.160158,
+      "b"
+    ],
+    [
+      0.072093,
+      "u"
+    ],
+    [
+      0.047811,
+      "i"
+    ],
+    [
+      0.160211,
+      "l"
+    ],
+    [
+      0.439854,
+      "d"
+    ],
+    [
+      0.095889,
+      " "
+    ],
+    [
+      0.104136,
+      "-"
+    ],
+    [
+      0.103702,
+      "t"
+    ],
+    [
+      0.119808,
+      " "
+    ],
+    [
+      0.168418,
+      "d"
+    ],
+    [
+      0.120101,
+      "o"
+    ],
+    [
+      0.320103,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167771,
+      "\u0008 \u0008"
+    ],
+    [
+      0.232032,
+      "c"
+    ],
+    [
+      0.063788,
+      "a"
+    ],
+    [
+      0.096288,
+      "c"
+    ],
+    [
+      0.087937,
+      "h"
+    ],
+    [
+      0.119993,
+      "e"
+    ],
+    [
+      0.063773,
+      "r"
+    ],
+    [
+      0.120015,
+      ":"
+    ],
+    [
+      0.456191,
+      "l"
+    ],
+    [
+      0.047939,
+      "a"
+    ],
+    [
+      0.111791,
+      "t"
+    ],
+    [
+      0.080381,
+      "e"
+    ],
+    [
+      0.159947,
+      "s"
+    ],
+    [
+      0.055702,
+      "t"
+    ],
+    [
+      0.064150,
+      " "
+    ],
+    [
+      0.112112,
+      "."
+    ],
+    [
+      0.103775,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000040,
+      "\r\r\n"
+    ],
+    [
+      0.001387,
+      "\u001b]2;docker build -t cacher:latest .\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.149220,
+      "Sending build context to Docker daemon 9.216 kB\r\r\r\nSending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.044341,
+      "Step 0 : FROM debian:latest\r\n"
+    ],
+    [
+      0.000008,
+      " ---\u003e c90d655b99b2\r\n"
+    ],
+    [
+      0.000189,
+      "Step 1 : MAINTAINER SvenDowideit@docker.com\r\n"
+    ],
+    [
+      0.122374,
+      " ---\u003e Running in d0cf158b251d\r\n"
+    ],
+    [
+      0.112525,
+      " ---\u003e f884b7230b2d\r\n"
+    ],
+    [
+      0.005072,
+      "Removing intermediate container d0cf158b251d\r\n"
+    ],
+    [
+      0.000005,
+      "Step 2 : VOLUME /var/cache/apt-cacher-ng\r\n"
+    ],
+    [
+      0.103180,
+      " ---\u003e Running in 00cff8fccd45\r\n"
+    ],
+    [
+      0.080367,
+      " ---\u003e 5c5947c5cdb7\r\n"
+    ],
+    [
+      0.004364,
+      "Removing intermediate container 00cff8fccd45\r\n"
+    ],
+    [
+      0.000007,
+      "Step 3 : RUN apt-get update \u0026\u0026 apt-get install -y apt-cacher-ng\r\n"
+    ],
+    [
+      0.105223,
+      " ---\u003e Running in e58210777542\r\n"
+    ],
+    [
+      2.000000,
+      "Get:1 http://http.debian.net wheezy Release.gpg [1655 B]\r\n"
+    ],
+    [
+      0.219383,
+      "Get:2 http://http.debian.net wheezy-updates Release.gpg [836 B]\r\n"
+    ],
+    [
+      0.220372,
+      "Get:3 http://http.debian.net wheezy Release [168 kB]\r\n"
+    ],
+    [
+      1.042880,
+      "Get:4 http://security.debian.org wheezy/updates Release.gpg [836 B]\r\n"
+    ],
+    [
+      0.208803,
+      "Get:5 http://security.debian.org wheezy/updates Release [102 kB]\r\n"
+    ],
+    [
+      0.650583,
+      "Get:6 http://http.debian.net wheezy-updates Release [124 kB]\r\n"
+    ],
+    [
+      0.150485,
+      "Get:7 http://security.debian.org wheezy/updates/main amd64 Packages [382 kB]\r\n"
+    ],
+    [
+      0.578694,
+      "Get:8 http://http.debian.net wheezy/main amd64 Packages [7625 kB]\r\n"
+    ],
+    [
+      2.000000,
+      "Get:9 http://http.debian.net wheezy-updates/main amd64 Packages [4369 B]\r\n"
+    ],
+    [
+      0.324307,
+      "Fetched 8409 kB in 32s (259 kB/s)\r\nReading package lists..."
+    ],
+    [
+      0.593406,
+      "\r\n"
+    ],
+    [
+      0.006237,
+      "Reading package lists..."
+    ],
+    [
+      0.588920,
+      "\r\n"
+    ],
+    [
+      0.007560,
+      "Building dependency tree..."
+    ],
+    [
+      0.076690,
+      "\r\nReading state information...\r\n"
+    ],
+    [
+      0.071420,
+      "The following extra packages will be installed:\r\n  adduser ed libclass-isa-perl libgdbm3 libswitch-perl libwrap0 perl\r\n  perl-modules tcpd\r\n"
+    ],
+    [
+      0.000930,
+      "Suggested packages:\r\n  doc-base libfuse2 perl-doc libterm-readline-gnu-perl\r\n  libterm-readline-perl-perl make libpod-plainer-perl\r\n"
+    ],
+    [
+      0.001478,
+      "The following NEW packages will be installed:\r\n  adduser apt-cacher-ng ed libclass-isa-perl libgdbm3 libswitch-perl libwrap0\r\n  perl perl-modules tcpd\r\n"
+    ],
+    [
+      1.320359,
+      "0 upgraded, 10 newly installed, 0 to remove and 11 not upgraded.\r\nNeed to get 8759 kB of archives.\r\nAfter this operation, 34.1 MB of additional disk space will be used.\r\nGet:1 http://http.debian.net/debian/ wheezy/main libgdbm3 amd64 1.8.3-11 [46.9 kB]\r\n"
+    ],
+    [
+      0.584555,
+      "Get:2 http://http.debian.net/debian/ wheezy/main libwrap0 amd64 7.6.q-24 [62.4 kB]\r\n"
+    ],
+    [
+      1.535837,
+      "Get:3 http://http.debian.net/debian/ wheezy/main adduser all 3.113+nmu3 [264 kB]\r\n"
+    ],
+    [
+      2.000000,
+      "Get:4 http://http.debian.net/debian/ wheezy/main apt-cacher-ng amd64 0.7.11-2 [417 kB]\r\n"
+    ],
+    [
+      1.489954,
+      "Get:5 http://http.debian.net/debian/ wheezy/main libclass-isa-perl all 0.36-3 [12.3 kB]\r\n"
+    ],
+    [
+      0.249650,
+      "Get:6 http://http.debian.net/debian/ wheezy/main perl-modules all 5.14.2-21+deb7u2 [3442 kB]\r\n"
+    ],
+    [
+      2.000000,
+      "Get:7 http://http.debian.net/debian/ wheezy/main perl amd64 5.14.2-21+deb7u2 [4407 kB]\r\n"
+    ],
+    [
+      2.000000,
+      "Get:8 http://http.debian.net/debian/ wheezy/main libswitch-perl all 2.16-2 [21.0 kB]\r\n"
+    ],
+    [
+      0.258947,
+      "Get:9 http://http.debian.net/debian/ wheezy/main ed amd64 1.6-2 [57.6 kB]\r\n"
+    ],
+    [
+      0.310800,
+      "Get:10 http://http.debian.net/debian/ wheezy/main tcpd amd64 7.6.q-24 [28.2 kB]\r\n"
+    ],
+    [
+      0.110388,
+      "\u001b[91mdebconf: delaying package configuration, since apt-utils is not installed\r\n\u001b[0m"
+    ],
+    [
+      0.005641,
+      "Fetched 8759 kB in 32s (271 kB/s)\r\n"
+    ],
+    [
+      0.012208,
+      "Selecting previously unselected package libgdbm3:amd64.\r\n(Reading database ... "
+    ],
+    [
+      0.003266,
+      "6714 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000005,
+      "Unpacking libgdbm3:amd64 (from .../libgdbm3_1.8.3-11_amd64.deb) ...\r\n"
+    ],
+    [
+      0.021449,
+      "Selecting previously unselected package libwrap0:amd64.\r\n"
+    ],
+    [
+      0.000262,
+      "Unpacking libwrap0:amd64 (from .../libwrap0_7.6.q-24_amd64.deb) ...\r\n"
+    ],
+    [
+      0.022805,
+      "Selecting previously unselected package adduser.\r\n"
+    ],
+    [
+      0.000154,
+      "Unpacking adduser (from .../adduser_3.113+nmu3_all.deb) ...\r\n"
+    ],
+    [
+      0.039738,
+      "Selecting previously unselected package apt-cacher-ng.\r\n"
+    ],
+    [
+      0.000163,
+      "Unpacking apt-cacher-ng (from .../apt-cacher-ng_0.7.11-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.055707,
+      "Selecting previously unselected package libclass-isa-perl.\r\n"
+    ],
+    [
+      0.000228,
+      "Unpacking libclass-isa-perl (from .../libclass-isa-perl_0.36-3_all.deb) ...\r\n"
+    ],
+    [
+      0.018941,
+      "Selecting previously unselected package perl-modules.\r\n"
+    ],
+    [
+      0.000658,
+      "Unpacking perl-modules (from .../perl-modules_5.14.2-21+deb7u2_all.deb) ...\r\n"
+    ],
+    [
+      0.147139,
+      "Selecting previously unselected package perl.\r\n"
+    ],
+    [
+      0.000984,
+      "Unpacking perl (from .../perl_5.14.2-21+deb7u2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.146367,
+      "Selecting previously unselected package libswitch-perl.\r\n"
+    ],
+    [
+      0.000144,
+      "Unpacking libswitch-perl (from .../libswitch-perl_2.16-2_all.deb) ...\r\n"
+    ],
+    [
+      0.017352,
+      "Selecting previously unselected package ed.\r\n"
+    ],
+    [
+      0.000208,
+      "Unpacking ed (from .../archives/ed_1.6-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.018552,
+      "Selecting previously unselected package tcpd.\r\n"
+    ],
+    [
+      0.000203,
+      "Unpacking tcpd (from .../tcpd_7.6.q-24_amd64.deb) ...\r\n"
+    ],
+    [
+      0.019152,
+      "Setting up libgdbm3:amd64 (1.8.3-11) ...\r\n"
+    ],
+    [
+      0.010861,
+      "Setting up libwrap0:amd64 (7.6.q-24) ...\r\n"
+    ],
+    [
+      0.010132,
+      "Setting up adduser (3.113+nmu3) ...\r\n"
+    ],
+    [
+      0.067336,
+      "\u001b[91mdebconf: unable to initialize frontend: Dialog\r\ndebconf: (TERM is not set, so the dialog frontend is not usable.)\r\ndebconf: falling back to frontend: Readline\r\n\u001b[0m"
+    ],
+    [
+      0.006313,
+      "\u001b[91mdebconf: unable to initialize frontend: Readline\r\ndebconf: (This frontend requires a controlling tty.)\r\ndebconf: falling back to frontend: Teletype\r\n\u001b[0m"
+    ],
+    [
+      0.028637,
+      "Setting up apt-cacher-ng (0.7.11-2) ...\r\n"
+    ],
+    [
+      0.070814,
+      "\u001b[91mdebconf: unable to initialize frontend: Dialog\r\ndebconf: (TERM is not set, so the dialog frontend is not usable.)\r\ndebconf: falling back to frontend: Readline\r\n\u001b[0m"
+    ],
+    [
+      0.006135,
+      "\u001b[91mdebconf: unable to initialize frontend: Readline\r\ndebconf: (This frontend requires a controlling tty.)\r\ndebconf: falling back to frontend: Teletype\r\n\u001b[0m"
+    ],
+    [
+      0.157542,
+      "\u001b[91minvoke-rc.d: policy-rc.d denied execution of start.\r\n\u001b[0m"
+    ],
+    [
+      0.012803,
+      "Setting up libclass-isa-perl (0.36-3) ...\r\n"
+    ],
+    [
+      0.004998,
+      "Setting up ed (1.6-2) ...\r\n"
+    ],
+    [
+      0.007598,
+      "Setting up tcpd (7.6.q-24) ...\r\n"
+    ],
+    [
+      0.004814,
+      "Setting up perl-modules (5.14.2-21+deb7u2) ...\r\n"
+    ],
+    [
+      0.004302,
+      "Setting up perl (5.14.2-21+deb7u2) ...\r\n"
+    ],
+    [
+      0.004976,
+      "update-alternatives: using /usr/bin/prename to provide /usr/bin/rename (rename) in auto mode\r\n"
+    ],
+    [
+      0.005447,
+      "Setting up libswitch-perl (2.16-2) ...\r\n"
+    ],
+    [
+      0.477497,
+      " ---\u003e bdd457915d33\r\n"
+    ],
+    [
+      0.048606,
+      "Removing intermediate container e58210777542\r\n"
+    ],
+    [
+      0.000006,
+      "Step 4 : EXPOSE 3142\r\n"
+    ],
+    [
+      0.104062,
+      " ---\u003e Running in 53bd21d83b44\r\n"
+    ],
+    [
+      0.098743,
+      " ---\u003e a7bdf079f476\r\n"
+    ],
+    [
+      0.006809,
+      "Removing intermediate container 53bd21d83b44\r\n"
+    ],
+    [
+      0.000010,
+      "Step 5 : CMD chmod 777 /var/cache/apt-cacher-ng \u0026\u0026         /etc/init.d/apt-cacher-ng start \u0026\u0026         tail -f /var/log/apt-cacher-ng/*\r\n"
+    ],
+    [
+      0.102157,
+      " ---\u003e Running in 14a2ca998190\r\n"
+    ],
+    [
+      0.101217,
+      " ---\u003e d006dd206a63\r\n"
+    ],
+    [
+      0.006388,
+      "Removing intermediate container 14a2ca998190\r\n"
+    ],
+    [
+      0.000006,
+      "Successfully built d006dd206a63\r\n"
+    ],
+    [
+      0.002032,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000061,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.014757,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D"
+    ],
+    [
+      0.000002,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.730848,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[11C"
+    ],
+    [
+      0.135340,
+      "docker build \u001b[4m-\u001b[24mt cacher:latest .\u001b[1B\u001b[43D-_\u001b[A\u001b[23C"
+    ],
+    [
+      0.959911,
+      "\u0008\u0008\u0008\u0008\u0008\u0008run \u001b[4m-\u001b[4md\u001b[24m\u001b[24m -p 3142:3142 --name cacher cacher:latest\u001b[1B\u001b[65Dd_\u001b[A\u001b[20C"
+    ],
+    [
+      1.808006,
+      "\u001b[24m-\u001b[24md\u001b[1B\r\u001b[K\u001b[A\u001b[37C"
+    ],
+    [
+      0.000032,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000040,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000719,
+      "\u001b]2;docker run -d -p 3142:3142 --name cacher cacher:latest\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.278605,
+      "d03acd1c4a4d63082629af27b63711df42d5fbe442157b69a6d7e307d3e1bc69\r\n"
+    ],
+    [
+      0.254525,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000069,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.016185,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.097965,
+      "d"
+    ],
+    [
+      0.063850,
+      "\u0008do"
+    ],
+    [
+      0.144321,
+      "c"
+    ],
+    [
+      0.087877,
+      "k"
+    ],
+    [
+      0.072015,
+      "e"
+    ],
+    [
+      0.080093,
+      "r"
+    ],
+    [
+      0.015486,
+      " "
+    ],
+    [
+      0.120488,
+      "l"
+    ],
+    [
+      0.143992,
+      "o"
+    ],
+    [
+      0.071735,
+      "g"
+    ],
+    [
+      0.063995,
+      "s"
+    ],
+    [
+      0.095894,
+      " "
+    ],
+    [
+      0.136316,
+      "c"
+    ],
+    [
+      0.055994,
+      "a"
+    ],
+    [
+      0.136105,
+      "c"
+    ],
+    [
+      0.127874,
+      "h"
+    ],
+    [
+      0.079971,
+      "e"
+    ],
+    [
+      0.055819,
+      "r"
+    ],
+    [
+      0.136290,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000033,
+      "\r\r\n"
+    ],
+    [
+      0.000672,
+      "\u001b]2;docker logs cacher\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.173455,
+      "Starting apt-cacher-ng: apt-cacher-ng.\r\n"
+    ],
+    [
+      0.000010,
+      "==\u003e /var/log/apt-cacher-ng/apt-cacher.err \u003c==\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "==\u003e /var/log/apt-cacher-ng/apt-cacher.log \u003c==\r\n"
+    ],
+    [
+      0.001069,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000065,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.015142,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.745802,
+      "d"
+    ],
+    [
+      0.071601,
+      "\u0008do"
+    ],
+    [
+      0.135794,
+      "c"
+    ],
+    [
+      0.120020,
+      "k"
+    ],
+    [
+      0.087980,
+      "e"
+    ],
+    [
+      0.071976,
+      "r"
+    ],
+    [
+      0.639973,
+      " "
+    ],
+    [
+      0.856262,
+      "r"
+    ],
+    [
+      0.079995,
+      "u"
+    ],
+    [
+      0.224246,
+      "n"
+    ],
+    [
+      0.471787,
+      " "
+    ],
+    [
+      1.152085,
+      "-"
+    ],
+    [
+      0.215696,
+      "-"
+    ],
+    [
+      0.248179,
+      "l"
+    ],
+    [
+      0.063779,
+      "i"
+    ],
+    [
+      0.208029,
+      "n"
+    ],
+    [
+      0.080026,
+      "k"
+    ],
+    [
+      0.096148,
+      " "
+    ],
+    [
+      0.055769,
+      "c"
+    ],
+    [
+      0.072252,
+      "a"
+    ],
+    [
+      0.127973,
+      "c"
+    ],
+    [
+      0.103998,
+      "h"
+    ],
+    [
+      0.143830,
+      "e"
+    ],
+    [
+      0.064199,
+      "r"
+    ],
+    [
+      0.127817,
+      ":"
+    ],
+    [
+      0.200232,
+      "c"
+    ],
+    [
+      0.079722,
+      "a"
+    ],
+    [
+      0.104284,
+      "c"
+    ],
+    [
+      0.095841,
+      "h"
+    ],
+    [
+      0.335888,
+      "e"
+    ],
+    [
+      0.088378,
+      "r"
+    ],
+    [
+      0.263858,
+      " "
+    ],
+    [
+      0.199683,
+      "-"
+    ],
+    [
+      0.784259,
+      "e"
+    ],
+    [
+      0.103680,
+      " "
+    ],
+    [
+      0.144326,
+      "h"
+    ],
+    [
+      0.064088,
+      "t"
+    ],
+    [
+      0.135772,
+      "t"
+    ],
+    [
+      0.040106,
+      "p"
+    ],
+    [
+      1.544117,
+      "_"
+    ],
+    [
+      0.207880,
+      "p"
+    ],
+    [
+      0.112310,
+      "r"
+    ],
+    [
+      0.079807,
+      "o"
+    ],
+    [
+      0.135724,
+      "x"
+    ],
+    [
+      0.992194,
+      "y"
+    ],
+    [
+      0.336449,
+      "="
+    ],
+    [
+      1.119316,
+      "h"
+    ],
+    [
+      0.104394,
+      "t"
+    ],
+    [
+      0.135554,
+      "t"
+    ],
+    [
+      0.136446,
+      "p"
+    ],
+    [
+      0.271660,
+      ":"
+    ],
+    [
+      0.271853,
+      "/"
+    ],
+    [
+      0.144301,
+      "/"
+    ],
+    [
+      0.423877,
+      "c"
+    ],
+    [
+      0.056168,
+      "a"
+    ],
+    [
+      0.095981,
+      "c"
+    ],
+    [
+      0.112055,
+      "h"
+    ],
+    [
+      0.127777,
+      "e"
+    ],
+    [
+      0.096291,
+      "r"
+    ],
+    [
+      0.095918,
+      ":"
+    ],
+    [
+      0.327966,
+      "3\u001b[K"
+    ],
+    [
+      0.103877,
+      "1 \r\u001b[K"
+    ],
+    [
+      0.144032,
+      "4"
+    ],
+    [
+      0.111923,
+      "\r42"
+    ],
+    [
+      0.976210,
+      " "
+    ],
+    [
+      0.583734,
+      "u"
+    ],
+    [
+      0.087955,
+      "b"
+    ],
+    [
+      0.104043,
+      "u"
+    ],
+    [
+      0.184231,
+      "n"
+    ],
+    [
+      0.263711,
+      "t"
+    ],
+    [
+      0.120059,
+      "u"
+    ],
+    [
+      0.145266,
+      "\u0007"
+    ],
+    [
+      0.774771,
+      ":"
+    ],
+    [
+      0.344136,
+      "l"
+    ],
+    [
+      0.120034,
+      "a"
+    ],
+    [
+      0.095750,
+      "t"
+    ],
+    [
+      0.056428,
+      "e"
+    ],
+    [
+      0.175576,
+      "s"
+    ],
+    [
+      0.088039,
+      "t"
+    ],
+    [
+      1.111913,
+      " "
+    ],
+    [
+      0.655964,
+      "a"
+    ],
+    [
+      0.104105,
+      "p"
+    ],
+    [
+      0.136070,
+      "t"
+    ],
+    [
+      0.136171,
+      "-"
+    ],
+    [
+      0.055759,
+      "g"
+    ],
+    [
+      0.144203,
+      "e"
+    ],
+    [
+      0.063753,
+      "t"
+    ],
+    [
+      0.056294,
+      " "
+    ],
+    [
+      0.087985,
+      "i"
+    ],
+    [
+      0.095762,
+      "n"
+    ],
+    [
+      0.071967,
+      "s"
+    ],
+    [
+      0.096336,
+      "t"
+    ],
+    [
+      0.087903,
+      "a"
+    ],
+    [
+      0.055766,
+      "l"
+    ],
+    [
+      0.151983,
+      "l"
+    ],
+    [
+      0.135975,
+      " "
+    ],
+    [
+      0.216296,
+      "-"
+    ],
+    [
+      0.127992,
+      "y"
+    ],
+    [
+      0.119671,
+      " "
+    ],
+    [
+      0.136219,
+      "p"
+    ],
+    [
+      0.368103,
+      "y"
+    ],
+    [
+      0.160069,
+      "t"
+    ],
+    [
+      0.087660,
+      "h"
+    ],
+    [
+      0.103817,
+      "o"
+    ],
+    [
+      0.064528,
+      "n"
+    ],
+    [
+      0.144044,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\r\r\n"
+    ],
+    [
+      0.000930,
+      "\u001b]2;docker run --link cacher:cacher -e http_proxy=http://cacher:3142 ubuntu:lates\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.631838,
+      "Reading package lists..."
+    ],
+    [
+      0.242659,
+      "\r\n"
+    ],
+    [
+      0.146379,
+      "Building dependency tree..."
+    ],
+    [
+      0.017307,
+      "\r\nReading state information...\r\n"
+    ],
+    [
+      0.009323,
+      "The following extra packages will be installed:\r\n  libpython-stdlib libpython2.7-minimal libpython2.7-stdlib python-minimal\r\n  python2.7 python2.7-minimal\r\n"
+    ],
+    [
+      0.000009,
+      "Suggested packages:\r\n  python-doc python-tk python2.7-doc binutils binfmt-support\r\nThe following NEW packages will be installed:\r\n  libpython-stdlib libpython2.7-minimal libpython2.7-stdlib python\r\n  python-minimal python2.7 python2.7-minimal\r\n"
+    ],
+    [
+      0.664295,
+      "0 upgraded, 7 newly installed, 0 to remove and 0 not upgraded.\r\nNeed to get 3734 kB of archives.\r\nAfter this operation, 16.0 MB of additional disk space will be used.\r\nGet:1 http://archive.ubuntu.com/ubuntu/ trusty/main libpython2.7-minimal amd64 2.7.6-8 [307 kB]\r\n"
+    ],
+    [
+      1.814017,
+      "Get:2 http://archive.ubuntu.com/ubuntu/ trusty/main python2.7-minimal amd64 2.7.6-8 [1190 kB]\r\n"
+    ],
+    [
+      2.000000,
+      "Get:3 http://archive.ubuntu.com/ubuntu/ trusty/main libpython2.7-stdlib amd64 2.7.6-8 [1872 kB]\r\n"
+    ],
+    [
+      2.000000,
+      "Get:4 http://archive.ubuntu.com/ubuntu/ trusty/main libpython-stdlib amd64 2.7.5-5ubuntu3 [7012 B]\r\n"
+    ],
+    [
+      0.139500,
+      "Get:5 http://archive.ubuntu.com/ubuntu/ trusty/main python2.7 amd64 2.7.6-8 [197 kB]\r\n"
+    ],
+    [
+      0.728836,
+      "Get:6 http://archive.ubuntu.com/ubuntu/ trusty/main python-minimal amd64 2.7.5-5ubuntu3 [27.5 kB]\r\n"
+    ],
+    [
+      0.180995,
+      "Get:7 http://archive.ubuntu.com/ubuntu/ trusty/main python amd64 2.7.5-5ubuntu3 [134 kB]\r\n"
+    ],
+    [
+      0.626381,
+      "debconf: unable to initialize frontend: Dialog\r\ndebconf: (TERM is not set, so the dialog frontend is not usable.)\r\ndebconf: falling back to frontend: Readline\r\n"
+    ],
+    [
+      0.004903,
+      "debconf: unable to initialize frontend: Readline\r\ndebconf: (This frontend requires a controlling tty.)\r\ndebconf: falling back to frontend: Teletype\r\n"
+    ],
+    [
+      0.006530,
+      "dpkg-preconfigure: unable to re-open stdin: \r\n"
+    ],
+    [
+      0.002207,
+      "Fetched 3734 kB in 15s (244 kB/s)\r\n"
+    ],
+    [
+      0.160129,
+      "Selecting previously unselected package libpython2.7-minimal:amd64.\r\n"
+    ],
+    [
+      0.005882,
+      "(Reading database ... 11527 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000190,
+      "Preparing to unpack .../libpython2.7-minimal_2.7.6-8_amd64.deb ...\r\n"
+    ],
+    [
+      0.002473,
+      "Unpacking libpython2.7-minimal:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.053579,
+      "Selecting previously unselected package python2.7-minimal.\r\n"
+    ],
+    [
+      0.001139,
+      "Preparing to unpack .../python2.7-minimal_2.7.6-8_amd64.deb ...\r\n"
+    ],
+    [
+      0.005271,
+      "Unpacking python2.7-minimal (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.126175,
+      "Selecting previously unselected package libpython2.7-stdlib:amd64.\r\n"
+    ],
+    [
+      0.000007,
+      "Preparing to unpack .../libpython2.7-stdlib_2.7.6-8_amd64.deb ...\r\n"
+    ],
+    [
+      0.001640,
+      "Unpacking libpython2.7-stdlib:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.176312,
+      "Selecting previously unselected package libpython-stdlib:amd64.\r\n"
+    ],
+    [
+      0.000898,
+      "Preparing to unpack .../libpython-stdlib_2.7.5-5ubuntu3_amd64.deb ...\r\n"
+    ],
+    [
+      0.001521,
+      "Unpacking libpython-stdlib:amd64 (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.014992,
+      "Selecting previously unselected package python2.7.\r\n"
+    ],
+    [
+      0.001412,
+      "Preparing to unpack .../python2.7_2.7.6-8_amd64.deb ...\r\n"
+    ],
+    [
+      0.001493,
+      "Unpacking python2.7 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.025913,
+      "Selecting previously unselected package python-minimal.\r\n"
+    ],
+    [
+      0.001133,
+      "Preparing to unpack .../python-minimal_2.7.5-5ubuntu3_amd64.deb ...\r\n"
+    ],
+    [
+      0.001324,
+      "Unpacking python-minimal (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.018635,
+      "Selecting previously unselected package python.\r\n"
+    ],
+    [
+      0.001267,
+      "Preparing to unpack .../python_2.7.5-5ubuntu3_amd64.deb ...\r\n"
+    ],
+    [
+      0.006042,
+      "Unpacking python (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.022875,
+      "Processing triggers for mime-support (3.54ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.173205,
+      "Setting up libpython2.7-minimal:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.007340,
+      "Setting up python2.7-minimal (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.220804,
+      "Linking and byte-compiling packages for runtime python2.7...\r\n"
+    ],
+    [
+      0.139208,
+      "Setting up libpython2.7-stdlib:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.010217,
+      "Setting up libpython-stdlib:amd64 (2.7.5-5ubuntu3) ...\r\nSetting up python2.7 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.639656,
+      "Setting up python-minimal (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.021732,
+      "Setting up python (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.459520,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000057,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.014856,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.701378,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[11C"
+    ],
+    [
+      0.071531,
+      "\u0007\u001b[1B\r\u001b[K\u001b[A\u001b[26C"
+    ],
+    [
+      0.208272,
+      "l"
+    ],
+    [
+      0.167786,
+      "\u0008lo"
+    ],
+    [
+      0.095918,
+      "g"
+    ],
+    [
+      0.071900,
+      "s"
+    ],
+    [
+      0.687784,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152020,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128117,
+      "\u0008\u0008l \u0008"
+    ],
+    [
+      0.136304,
+      "\u0008 \u0008"
+    ],
+    [
+      0.263639,
+      "\u001b[1B\rbck-i-search: _\u001b[K\u001b[A\u001b[11C"
+    ],
+    [
+      0.464315,
+      "docker run --link cacher:cacher -e http_proxy=http://cacher:3142 ubuntu:latest apt-get instal\u001b[4ml\u001b[24m -y python\r\r\nbck-i-search: l_\u001b[K\u001b[A\u001b[15C"
+    ],
+    [
+      0.167770,
+      "\u001b[A\u001b[2C\u001b[4ml\u001b[4mo\u001b[24mgs cacher\u001b[K\u001b[43C\u001b[38;5;242m\u001b[00m\u001b[1B\rbck-i-search: lo_\u001b[K\u001b[1B\r\u001b[K\u001b[A\u001b[A\u001b[33C"
+    ],
+    [
+      0.064178,
+      "\u001b[1C\u001b[4mo\u001b[4mg\u001b[24m\u001b[1B\u001b[20Dg_\u001b[A\u001b[15C"
+    ],
+    [
+      0.095772,
+      "\u001b[2C\u001b[4mg\u001b[4ms\u001b[24m\u001b[1B\u001b[20Ds_\u001b[A\u001b[14C"
+    ],
+    [
+      0.504261,
+      "\u001b[24ml\u001b[24mo\u001b[24mg\u001b[24ms\u001b[1B\r\u001b[K\u001b[A\u001b[33C"
+    ],
+    [
+      0.000096,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000693,
+      "\u001b]2;docker logs cacher\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.160237,
+      "Starting apt-cacher-ng: apt-cacher-ng.\r\n"
+    ],
+    [
+      0.000010,
+      "==\u003e /var/log/apt-cacher-ng/apt-cacher.err \u003c==\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "==\u003e /var/log/apt-cacher-ng/apt-cacher.log \u003c==\r\n"
+    ],
+    [
+      0.000031,
+      "1429793623|I|307449|172.17.0.123|uburep/pool/main/p/python2.7/libpython2.7-minimal_2.7.6-8_amd64.deb\r\n"
+    ],
+    [
+      0.001547,
+      "1429793623|O|307483|172.17.0.123|uburep/pool/main/p/python2.7/libpython2.7-minimal_2.7.6-8_amd64.deb\r\n"
+    ],
+    [
+      0.000012,
+      "1429793630|I|1190396|172.17.0.123|uburep/pool/main/p/python2.7/python2.7-minimal_2.7.6-8_amd64.deb\r\n1429793630|O|1190427|172.17.0.123|uburep/pool/main/p/python2.7/python2.7-minimal_2.7.6-8_amd64.deb\r\n1429793630|I|1871814|172.17.0.123|uburep/pool/main/p/python2.7/libpython2.7-stdlib_2.7.6-8_amd64.deb\r\n"
+    ],
+    [
+      0.000039,
+      "1429793630|O|1871847|172.17.0.123|uburep/pool/main/p/python2.7/libpython2.7-stdlib_2.7.6-8_amd64.deb\r\n"
+    ],
+    [
+      0.000010,
+      "1429793631|I|7317|172.17.0.123|uburep/pool/main/p/python-defaults/libpython-stdlib_2.7.5-5ubuntu3_amd64.deb\r\n"
+    ],
+    [
+      0.000007,
+      "1429793631|O|7362|172.17.0.123|uburep/pool/main/p/python-defaults/libpython-stdlib_2.7.5-5ubuntu3_amd64.deb\r\n"
+    ],
+    [
+      0.000037,
+      "1429793631|I|197102|172.17.0.123|uburep/pool/main/p/python2.7/python2.7_2.7.6-8_amd64.deb\r\n"
+    ],
+    [
+      0.000032,
+      "1429793631|O|197126|172.17.0.123|uburep/pool/main/p/python2.7/python2.7_2.7.6-8_amd64.deb\r\n"
+    ],
+    [
+      0.000013,
+      "1429793632|I|27806|172.17.0.123|uburep/pool/main/p/python-defaults/python-minimal_2.7.5-5ubuntu3_amd64.deb\r\n1429793632|O|27849|172.17.0.123|uburep/pool/main/p/python-defaults/python-minimal_2.7.5-5ubuntu3_amd64.deb\r\n"
+    ],
+    [
+      0.000011,
+      "1429793632|I|134006|172.17.0.123|uburep/pool/main/p/python-defaults/python_2.7.5-5ubuntu3_amd64.deb\r\n"
+    ],
+    [
+      0.000065,
+      "1429793632|O|134040|172.17.0.123|uburep/pool/main/p/python-defaults/python_2.7.5-5ubuntu3_amd64.deb\r\n"
+    ],
+    [
+      0.001317,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.015846,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D\u001b[?1h\u001b="
+    ],
+    [
+      1.572459,
+      "docker logs cacher"
+    ],
+    [
+      0.159646,
+      "\u001b[11Drun --link cacher:cacher -e http_proxy=http://cacher:3142 ubuntu:latest apt-get install -y python\u001b[K"
+    ],
+    [
+      0.879830,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000764,
+      "\u001b]2;docker run --link cacher:cacher -e http_proxy=http://cacher:3142 ubuntu:lates\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.620210,
+      "Reading package lists..."
+    ],
+    [
+      0.240929,
+      "\r\n"
+    ],
+    [
+      0.140122,
+      "Building dependency tree..."
+    ],
+    [
+      0.019739,
+      "\r\nReading state information...\r\n"
+    ],
+    [
+      0.010213,
+      "The following extra packages will be installed:\r\n  libpython-stdlib libpython2.7-minimal libpython2.7-stdlib python-minimal\r\n  python2.7 python2.7-minimal\r\n"
+    ],
+    [
+      0.000160,
+      "Suggested packages:\r\n  python-doc python-tk python2.7-doc binutils binfmt-support\r\n"
+    ],
+    [
+      0.000006,
+      "The following NEW packages will be installed:\r\n  libpython-stdlib libpython2.7-minimal libpython2.7-stdlib python\r\n  python-minimal python2.7 python2.7-minimal\r\n"
+    ],
+    [
+      0.290192,
+      "0 upgraded, 7 newly installed, 0 to remove and 0 not upgraded.\r\nNeed to get 3734 kB of archives.\r\nAfter this operation, 16.0 MB of additional disk space will be used.\r\nGet:1 http://archive.ubuntu.com/ubuntu/ trusty/main libpython2.7-minimal amd64 2.7.6-8 [307 kB]\r\n"
+    ],
+    [
+      0.010134,
+      "Get:2 http://archive.ubuntu.com/ubuntu/ trusty/main python2.7-minimal amd64 2.7.6-8 [1190 kB]\r\n"
+    ],
+    [
+      0.010657,
+      "Get:3 http://archive.ubuntu.com/ubuntu/ trusty/main libpython2.7-stdlib amd64 2.7.6-8 [1872 kB]\r\n"
+    ],
+    [
+      0.027379,
+      "Get:4 http://archive.ubuntu.com/ubuntu/ trusty/main libpython-stdlib amd64 2.7.5-5ubuntu3 [7012 B]\r\n"
+    ],
+    [
+      0.005466,
+      "Get:5 http://archive.ubuntu.com/ubuntu/ trusty/main python2.7 amd64 2.7.6-8 [197 kB]\r\n"
+    ],
+    [
+      0.000958,
+      "Get:6 http://archive.ubuntu.com/ubuntu/ trusty/main python-minimal amd64 2.7.5-5ubuntu3 [27.5 kB]\r\n"
+    ],
+    [
+      0.000829,
+      "Get:7 http://archive.ubuntu.com/ubuntu/ trusty/main python amd64 2.7.5-5ubuntu3 [134 kB]\r\n"
+    ],
+    [
+      0.257268,
+      "debconf: unable to initialize frontend: Dialog\r\ndebconf: (TERM is not set, so the dialog frontend is not usable.)\r\ndebconf: falling back to frontend: Readline\r\n"
+    ],
+    [
+      0.004368,
+      "debconf: unable to initialize frontend: Readline\r\ndebconf: (This frontend requires a controlling tty.)\r\ndebconf: falling back to frontend: Teletype\r\n"
+    ],
+    [
+      0.011944,
+      "dpkg-preconfigure: unable to re-open stdin: \r\n"
+    ],
+    [
+      0.000008,
+      "Fetched 3734 kB in 0s (57.6 MB/s)\r\n"
+    ],
+    [
+      0.160521,
+      "Selecting previously unselected package libpython2.7-minimal:amd64.\r\n"
+    ],
+    [
+      0.005466,
+      "(Reading database ... 11527 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000009,
+      "Preparing to unpack .../libpython2.7-minimal_2.7.6-8_amd64.deb ...\r\n"
+    ],
+    [
+      0.004881,
+      "Unpacking libpython2.7-minimal:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.049883,
+      "Selecting previously unselected package python2.7-minimal.\r\n"
+    ],
+    [
+      0.000644,
+      "Preparing to unpack .../python2.7-minimal_2.7.6-8_amd64.deb ...\r\n"
+    ],
+    [
+      0.005730,
+      "Unpacking python2.7-minimal (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.132968,
+      "Selecting previously unselected package libpython2.7-stdlib:amd64.\r\n"
+    ],
+    [
+      0.000009,
+      "Preparing to unpack .../libpython2.7-stdlib_2.7.6-8_amd64.deb ...\r\nUnpacking libpython2.7-stdlib:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.180717,
+      "Selecting previously unselected package libpython-stdlib:amd64.\r\n"
+    ],
+    [
+      0.000097,
+      "Preparing to unpack .../libpython-stdlib_2.7.5-5ubuntu3_amd64.deb ...\r\n"
+    ],
+    [
+      0.000005,
+      "Unpacking libpython-stdlib:amd64 (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.016998,
+      "Selecting previously unselected package python2.7.\r\n"
+    ],
+    [
+      0.000327,
+      "Preparing to unpack .../python2.7_2.7.6-8_amd64.deb ...\r\n"
+    ],
+    [
+      0.001625,
+      "Unpacking python2.7 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.030166,
+      "Selecting previously unselected package python-minimal.\r\n"
+    ],
+    [
+      0.001138,
+      "Preparing to unpack .../python-minimal_2.7.5-5ubuntu3_amd64.deb ...\r\n"
+    ],
+    [
+      0.001870,
+      "Unpacking python-minimal (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.020696,
+      "Selecting previously unselected package python.\r\n"
+    ],
+    [
+      0.000899,
+      "Preparing to unpack .../python_2.7.5-5ubuntu3_amd64.deb ...\r\n"
+    ],
+    [
+      0.007612,
+      "Unpacking python (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.020924,
+      "Processing triggers for mime-support (3.54ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.161074,
+      "Setting up libpython2.7-minimal:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.010689,
+      "Setting up python2.7-minimal (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.215827,
+      "Linking and byte-compiling packages for runtime python2.7...\r\n"
+    ],
+    [
+      0.128089,
+      "Setting up libpython2.7-stdlib:amd64 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.005431,
+      "Setting up libpython-stdlib:amd64 (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.003762,
+      "Setting up python2.7 (2.7.6-8) ...\r\n"
+    ],
+    [
+      0.623569,
+      "Setting up python-minimal (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.024457,
+      "Setting up python (2.7.5-5ubuntu3) ...\r\n"
+    ],
+    [
+      0.425339,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                       \r \r"
+    ],
+    [
+      0.000051,
+      "\u001b]2;xterm@storm: ~/Projects/docker/cacher\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..docker/cacher\u0007"
+    ],
+    [
+      0.015214,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;071m\u001b[01m~/Projects/docker/cacher❯\u001b[22m\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[61C\u001b[38;5;242m\u001b[00m\u001b[61D"
+    ],
+    [
+      0.000002,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.308072,
+      "\r\r\n"
+    ]
+  ]
+}
