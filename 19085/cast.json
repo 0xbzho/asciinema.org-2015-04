@@ -1,0 +1,1882 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 158.950999,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007434,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      5.676089,
+      "e"
+    ],
+    [
+      0.096063,
+      "m"
+    ],
+    [
+      0.215857,
+      "b"
+    ],
+    [
+      0.144262,
+      "e"
+    ],
+    [
+      0.112108,
+      "r"
+    ],
+    [
+      1.679725,
+      " "
+    ],
+    [
+      0.232054,
+      "n"
+    ],
+    [
+      0.119961,
+      "e"
+    ],
+    [
+      0.128179,
+      "w"
+    ],
+    [
+      0.127834,
+      " "
+    ],
+    [
+      6.326543,
+      "c"
+    ],
+    [
+      0.047991,
+      "h"
+    ],
+    [
+      0.176143,
+      "i"
+    ],
+    [
+      0.191996,
+      "l"
+    ],
+    [
+      0.247964,
+      "a"
+    ],
+    [
+      0.120014,
+      "n"
+    ],
+    [
+      0.224141,
+      "g"
+    ],
+    [
+      0.063852,
+      "o"
+    ],
+    [
+      1.464104,
+      "-"
+    ],
+    [
+      0.207863,
+      "a"
+    ],
+    [
+      0.168040,
+      "p"
+    ],
+    [
+      0.143987,
+      "p"
+    ],
+    [
+      1.407898,
+      "\r\n"
+    ],
+    [
+      0.738580,
+      "version: 0.2.0-beta.1\r\n"
+    ],
+    [
+      0.258295,
+      "Could not find watchman, falling back to NodeWatcher for file system events\r\n"
+    ],
+    [
+      0.842933,
+      "installing\r\n"
+    ],
+    [
+      0.018060,
+      "  \u001b[32mcreate\u001b[39m .bowerrc\r\n"
+    ],
+    [
+      0.000666,
+      "  \u001b[32mcreate\u001b[39m .editorconfig\r\n"
+    ],
+    [
+      0.000250,
+      "  \u001b[32mcreate\u001b[39m .ember-cli\r\n"
+    ],
+    [
+      0.000148,
+      "  \u001b[32mcreate\u001b[39m .jshintrc\r\n"
+    ],
+    [
+      0.000098,
+      "  \u001b[32mcreate\u001b[39m .travis.yml\r\n"
+    ],
+    [
+      0.000079,
+      "  \u001b[32mcreate\u001b[39m Brocfile.js\r\n"
+    ],
+    [
+      0.000081,
+      "  \u001b[32mcreate\u001b[39m README.md\r\n"
+    ],
+    [
+      0.000536,
+      "  \u001b[32mcreate\u001b[39m app/app.js\r\n"
+    ],
+    [
+      0.000082,
+      "  \u001b[32mcreate\u001b[39m app/components/.gitkeep\r\n"
+    ],
+    [
+      0.000100,
+      "  \u001b[32mcreate\u001b[39m app/controllers/.gitkeep\r\n"
+    ],
+    [
+      0.000096,
+      "  \u001b[32mcreate\u001b[39m app/helpers/.gitkeep\r\n"
+    ],
+    [
+      0.000083,
+      "  \u001b[32mcreate\u001b[39m app/index.html\r\n"
+    ],
+    [
+      0.000081,
+      "  \u001b[32mcreate\u001b[39m app/models/.gitkeep\r\n"
+    ],
+    [
+      0.000073,
+      "  \u001b[32mcreate\u001b[39m app/router.js\r\n"
+    ],
+    [
+      0.000113,
+      "  \u001b[32mcreate\u001b[39m app/routes/.gitkeep\r\n"
+    ],
+    [
+      0.000077,
+      "  \u001b[32mcreate\u001b[39m app/styles/app.css\r\n"
+    ],
+    [
+      0.000102,
+      "  \u001b[32mcreate\u001b[39m app/templates/application.hbs\r\n"
+    ],
+    [
+      0.000076,
+      "  \u001b[32mcreate\u001b[39m app/templates/components/.gitkeep\r\n"
+    ],
+    [
+      0.000086,
+      "  \u001b[32mcreate\u001b[39m app/views/.gitkeep\r\n"
+    ],
+    [
+      0.000850,
+      "  \u001b[32mcreate\u001b[39m bower.json\r\n"
+    ],
+    [
+      0.000087,
+      "  \u001b[32mcreate\u001b[39m config/environment.js\r\n"
+    ],
+    [
+      0.000069,
+      "  \u001b[32mcreate\u001b[39m .gitignore\r\n"
+    ],
+    [
+      0.000079,
+      "  \u001b[32mcreate\u001b[39m package.json\r\n"
+    ],
+    [
+      0.000434,
+      "  \u001b[32mcreate\u001b[39m public/crossdomain.xml\r\n"
+    ],
+    [
+      0.000102,
+      "  \u001b[32mcreate\u001b[39m public/robots.txt\r\n"
+    ],
+    [
+      0.000096,
+      "  \u001b[32mcreate\u001b[39m testem.json\r\n"
+    ],
+    [
+      0.000263,
+      "  \u001b[32mcreate\u001b[39m tests/.jshintrc\r\n"
+    ],
+    [
+      0.000074,
+      "  \u001b[32mcreate\u001b[39m tests/helpers/resolver.js\r\n"
+    ],
+    [
+      0.000076,
+      "  \u001b[32mcreate\u001b[39m tests/helpers/start-app.js\r\n"
+    ],
+    [
+      0.000107,
+      "  \u001b[32mcreate\u001b[39m tests/index.html\r\n"
+    ],
+    [
+      0.000083,
+      "  \u001b[32mcreate\u001b[39m tests/test-helper.js\r\n"
+    ],
+    [
+      0.000171,
+      "  \u001b[32mcreate\u001b[39m tests/unit/.gitkeep\r\n"
+    ],
+    [
+      0.000090,
+      "  \u001b[32mcreate\u001b[39m vendor/.gitkeep\r\n"
+    ],
+    [
+      0.037326,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.501954,
+      "\u001b[2K"
+    ],
+    [
+      0.000185,
+      "\u001b[1G"
+    ],
+    [
+      0.000067,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.502816,
+      "\u001b[2K"
+    ],
+    [
+      0.000118,
+      "\u001b[1G"
+    ],
+    [
+      0.000065,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.503299,
+      "\u001b[2K"
+    ],
+    [
+      0.000092,
+      "\u001b[1G"
+    ],
+    [
+      0.000074,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501210,
+      "\u001b[2K"
+    ],
+    [
+      0.000021,
+      "\u001b[1G"
+    ],
+    [
+      0.000086,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.501500,
+      "\u001b[2K"
+    ],
+    [
+      0.000025,
+      "\u001b[1G"
+    ],
+    [
+      0.000039,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499920,
+      "\u001b[2K"
+    ],
+    [
+      0.000037,
+      "\u001b[1G"
+    ],
+    [
+      0.000030,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500388,
+      "\u001b[2K"
+    ],
+    [
+      0.000024,
+      "\u001b[1G"
+    ],
+    [
+      0.000027,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499085,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G"
+    ],
+    [
+      0.000013,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.507597,
+      "\u001b[2K"
+    ],
+    [
+      0.000039,
+      "\u001b[1G"
+    ],
+    [
+      0.000015,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.525825,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000032,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.503137,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.502722,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G"
+    ],
+    [
+      0.000021,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499800,
+      "\u001b[2K"
+    ],
+    [
+      0.000013,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499977,
+      "\u001b[2K"
+    ],
+    [
+      0.000028,
+      "\u001b[1G"
+    ],
+    [
+      0.000398,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501309,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.504155,
+      "\u001b[2K"
+    ],
+    [
+      0.000015,
+      "\u001b[1G"
+    ],
+    [
+      0.000023,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.520369,
+      "\u001b[2K"
+    ],
+    [
+      0.000048,
+      "\u001b[1G"
+    ],
+    [
+      0.000025,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499612,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499567,
+      "\u001b[2K"
+    ],
+    [
+      0.000401,
+      "\u001b[1G"
+    ],
+    [
+      0.000048,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499736,
+      "\u001b[2K"
+    ],
+    [
+      0.000072,
+      "\u001b[1G"
+    ],
+    [
+      0.000034,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.506972,
+      "\u001b[2K"
+    ],
+    [
+      0.000143,
+      "\u001b[1G"
+    ],
+    [
+      0.000029,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499523,
+      "\u001b[2K"
+    ],
+    [
+      0.000025,
+      "\u001b[1G"
+    ],
+    [
+      0.000062,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500297,
+      "\u001b[2K"
+    ],
+    [
+      0.000029,
+      "\u001b[1G"
+    ],
+    [
+      0.000027,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.505159,
+      "\u001b[2K"
+    ],
+    [
+      0.000031,
+      "\u001b[1G"
+    ],
+    [
+      0.000032,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.502536,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.515695,
+      "\u001b[2K"
+    ],
+    [
+      0.000080,
+      "\u001b[1G"
+    ],
+    [
+      0.000141,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501250,
+      "\u001b[2K\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501784,
+      "\u001b[2K"
+    ],
+    [
+      0.000186,
+      "\u001b[1G"
+    ],
+    [
+      0.000055,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.503483,
+      "\u001b[2K"
+    ],
+    [
+      0.000296,
+      "\u001b[1G"
+    ],
+    [
+      0.000715,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.502689,
+      "\u001b[2K"
+    ],
+    [
+      0.000103,
+      "\u001b[1G"
+    ],
+    [
+      0.000070,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.511781,
+      "\u001b[2K"
+    ],
+    [
+      0.000014,
+      "\u001b[1G"
+    ],
+    [
+      0.000112,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.503661,
+      "\u001b[2K"
+    ],
+    [
+      0.000066,
+      "\u001b[1G"
+    ],
+    [
+      0.000031,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499581,
+      "\u001b[2K"
+    ],
+    [
+      0.000063,
+      "\u001b[1G"
+    ],
+    [
+      0.000022,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500274,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000044,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501029,
+      "\u001b[2K"
+    ],
+    [
+      0.000044,
+      "\u001b[1G"
+    ],
+    [
+      0.000037,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500673,
+      "\u001b[2K"
+    ],
+    [
+      0.000015,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500680,
+      "\u001b[2K"
+    ],
+    [
+      0.000146,
+      "\u001b[1G"
+    ],
+    [
+      0.001209,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.503828,
+      "\u001b[2K"
+    ],
+    [
+      0.000099,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.498925,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000021,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499606,
+      "\u001b[2K"
+    ],
+    [
+      0.000174,
+      "\u001b[1G"
+    ],
+    [
+      0.000069,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.501220,
+      "\u001b[2K"
+    ],
+    [
+      0.000724,
+      "\u001b[1G"
+    ],
+    [
+      0.000176,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500694,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499980,
+      "\u001b[2K"
+    ],
+    [
+      0.000014,
+      "\u001b[1G"
+    ],
+    [
+      0.000014,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499941,
+      "\u001b[2K"
+    ],
+    [
+      0.000657,
+      "\u001b[1G"
+    ],
+    [
+      0.000441,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500763,
+      "\u001b[2K"
+    ],
+    [
+      0.000120,
+      "\u001b[1G"
+    ],
+    [
+      0.000071,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499888,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000007,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499856,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000031,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499935,
+      "\u001b[2K"
+    ],
+    [
+      0.000022,
+      "\u001b[1G"
+    ],
+    [
+      0.000006,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.505798,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499428,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000006,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500210,
+      "\u001b[2K"
+    ],
+    [
+      0.000037,
+      "\u001b[1G"
+    ],
+    [
+      0.000037,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500195,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000023,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499653,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000006,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499473,
+      "\u001b[2K"
+    ],
+    [
+      0.000026,
+      "\u001b[1G"
+    ],
+    [
+      0.000025,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499920,
+      "\u001b[2K"
+    ],
+    [
+      0.000021,
+      "\u001b[1G"
+    ],
+    [
+      0.000027,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499985,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499987,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500322,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499807,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G"
+    ],
+    [
+      0.000020,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499807,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000064,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499877,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000031,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500174,
+      "\u001b[2K"
+    ],
+    [
+      0.000012,
+      "\u001b[1G"
+    ],
+    [
+      0.000031,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499875,
+      "\u001b[2K"
+    ],
+    [
+      0.000035,
+      "\u001b[1G"
+    ],
+    [
+      0.000028,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499690,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500024,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499945,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499950,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500099,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499904,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000004,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500044,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000027,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499877,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000006,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.504279,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000016,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499860,
+      "\u001b[2K"
+    ],
+    [
+      0.000015,
+      "\u001b[1G"
+    ],
+    [
+      0.000460,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499302,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000021,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500005,
+      "\u001b[2K"
+    ],
+    [
+      0.000024,
+      "\u001b[1G"
+    ],
+    [
+      0.000018,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500137,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499787,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499975,
+      "\u001b[2K"
+    ],
+    [
+      0.000035,
+      "\u001b[1G"
+    ],
+    [
+      0.000083,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499762,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000005,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499890,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500059,
+      "\u001b[2K"
+    ],
+    [
+      0.000012,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499963,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G"
+    ],
+    [
+      0.000019,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499901,
+      "\u001b[2K"
+    ],
+    [
+      0.000036,
+      "\u001b[1G"
+    ],
+    [
+      0.000014,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499945,
+      "\u001b[2K"
+    ],
+    [
+      0.000037,
+      "\u001b[1G"
+    ],
+    [
+      0.000039,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.499992,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499921,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000006,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.503062,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G"
+    ],
+    [
+      0.000019,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499864,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500153,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499917,
+      "\u001b[2K"
+    ],
+    [
+      0.000009,
+      "\u001b[1G"
+    ],
+    [
+      0.000024,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500465,
+      "\u001b[2K"
+    ],
+    [
+      0.000029,
+      "\u001b[1G"
+    ],
+    [
+      0.000040,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499316,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000060,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500721,
+      "\u001b[2K"
+    ],
+    [
+      0.000036,
+      "\u001b[1G"
+    ],
+    [
+      0.000043,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.502799,
+      "\u001b[2K"
+    ],
+    [
+      0.000051,
+      "\u001b[1G"
+    ],
+    [
+      0.000032,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499271,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500089,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000030,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.503114,
+      "\u001b[2K"
+    ],
+    [
+      0.000033,
+      "\u001b[1G"
+    ],
+    [
+      0.000018,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501018,
+      "\u001b[2K"
+    ],
+    [
+      0.000071,
+      "\u001b[1G"
+    ],
+    [
+      0.000090,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500521,
+      "\u001b[2K"
+    ],
+    [
+      0.000072,
+      "\u001b[1G"
+    ],
+    [
+      0.000036,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499701,
+      "\u001b[2K"
+    ],
+    [
+      0.000272,
+      "\u001b[1G"
+    ],
+    [
+      0.000072,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500831,
+      "\u001b[2K"
+    ],
+    [
+      0.000014,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500079,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000041,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501911,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000054,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.510225,
+      "\u001b[2K"
+    ],
+    [
+      0.000046,
+      "\u001b[1G"
+    ],
+    [
+      0.000024,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500673,
+      "\u001b[2K"
+    ],
+    [
+      0.000094,
+      "\u001b[1G"
+    ],
+    [
+      0.000047,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501569,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000021,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.499920,
+      "\u001b[2K"
+    ],
+    [
+      0.000046,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500333,
+      "\u001b[2K"
+    ],
+    [
+      0.000053,
+      "\u001b[1G"
+    ],
+    [
+      0.000007,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.500433,
+      "\u001b[2K"
+    ],
+    [
+      0.000026,
+      "\u001b[1G"
+    ],
+    [
+      0.000027,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.501265,
+      "\u001b[2K"
+    ],
+    [
+      0.000013,
+      "\u001b[1G"
+    ],
+    [
+      0.000036,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500277,
+      "\u001b[2K"
+    ],
+    [
+      0.000013,
+      "\u001b[1G"
+    ],
+    [
+      0.000033,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.517412,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000018,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m"
+    ],
+    [
+      0.502938,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000020,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.572584,
+      "\u001b[2K"
+    ],
+    [
+      0.000027,
+      "\u001b[1G"
+    ],
+    [
+      0.000038,
+      "\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.502405,
+      "\u001b[2K"
+    ],
+    [
+      0.000012,
+      "\u001b[1G\u001b[32mInstalling packages for tooling via npm\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.371107,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000884,
+      "\u001b[32mInstalled packages for tooling via npm.\u001b[39m\r\n"
+    ],
+    [
+      0.000503,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.985934,
+      "\u001b[2K"
+    ],
+    [
+      0.000014,
+      "\u001b[1G\u001b[32mInstalling browser packages via Bower\u001b[39m"
+    ],
+    [
+      0.499778,
+      "\u001b[2K"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      0.000020,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500714,
+      "\u001b[2K"
+    ],
+    [
+      0.000029,
+      "\u001b[1G"
+    ],
+    [
+      0.000021,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500311,
+      "\u001b[2K"
+    ],
+    [
+      0.000014,
+      "\u001b[1G"
+    ],
+    [
+      0.000044,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500400,
+      "\u001b[2K"
+    ],
+    [
+      0.000014,
+      "\u001b[1G"
+    ],
+    [
+      0.000047,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m"
+    ],
+    [
+      0.501170,
+      "\u001b[2K"
+    ],
+    [
+      0.000012,
+      "\u001b[1G\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500293,
+      "\u001b[2K"
+    ],
+    [
+      0.000025,
+      "\u001b[1G"
+    ],
+    [
+      0.000026,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.512950,
+      "\u001b[2K"
+    ],
+    [
+      0.000011,
+      "\u001b[1G"
+    ],
+    [
+      0.000039,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.500217,
+      "\u001b[2K"
+    ],
+    [
+      0.000049,
+      "\u001b[1G"
+    ],
+    [
+      0.000022,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m"
+    ],
+    [
+      0.500968,
+      "\u001b[2K"
+    ],
+    [
+      0.000027,
+      "\u001b[1G"
+    ],
+    [
+      0.000041,
+      "\u001b[32mInstalling browser packages via Bower\u001b[39m\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.198737,
+      "\u001b[2K"
+    ],
+    [
+      0.000014,
+      "\u001b[1G"
+    ],
+    [
+      0.000229,
+      "\u001b[32mInstalled browser packages via Bower.\u001b[39m\r\n"
+    ],
+    [
+      0.120457,
+      "\u001b[32mSuccessfully initialized git.\u001b[39m\r\n"
+    ],
+    [
+      0.027197,
+      "bash-3.2$ "
+    ],
+    [
+      30.140358,
+      "c"
+    ],
+    [
+      0.031837,
+      "d"
+    ],
+    [
+      0.215992,
+      " "
+    ],
+    [
+      0.327952,
+      "c"
+    ],
+    [
+      0.184083,
+      "h"
+    ],
+    [
+      0.488227,
+      "ilango-app/"
+    ],
+    [
+      0.839611,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      "bash-3.2$ "
+    ],
+    [
+      2.343801,
+      "e"
+    ],
+    [
+      0.103922,
+      "m"
+    ],
+    [
+      0.191989,
+      "b"
+    ],
+    [
+      0.135903,
+      "e"
+    ],
+    [
+      0.088100,
+      "r"
+    ],
+    [
+      0.167774,
+      " "
+    ],
+    [
+      0.192145,
+      "s"
+    ],
+    [
+      0.223797,
+      "e"
+    ],
+    [
+      0.200244,
+      "r"
+    ],
+    [
+      0.256138,
+      "v"
+    ],
+    [
+      0.199860,
+      "e"
+    ],
+    [
+      0.088068,
+      "r"
+    ],
+    [
+      0.431778,
+      "\r\n"
+    ],
+    [
+      0.464047,
+      "version: 0.2.0-beta.1\r\n"
+    ],
+    [
+      0.432185,
+      "Could not find watchman, falling back to NodeWatcher for file system events\r\n"
+    ],
+    [
+      1.320227,
+      "Livereload server on port 35729\r\n"
+    ],
+    [
+      0.002065,
+      "Serving on http://0.0.0.0:4200/\r\n"
+    ],
+    [
+      0.020154,
+      "\u001b[31mObject function glob(pattern, options, cb) {\r\n  if (typeof options === \"function\") cb = options, options = {}\r\n  if (!options) options = {}\r\n\r\n  if (typeof options === \"number\") {\r\n    deprecated()\r\n    return\r\n  }\r\n\r\n  var g = new Glob(pattern, options, cb)\r\n  return g.sync ? g.found : g\r\n} has no method 'hasMagic'\u001b[39m\r\n"
+    ],
+    [
+      0.000736,
+      "TypeError: Object function glob(pattern, options, cb) {\r\n  if (typeof options === \"function\") cb = options, options = {}\r\n  if (!options) options = {}\r\n\r\n  if (typeof options === \"number\") {\r\n    deprecated()\r\n    return\r\n  }\r\n\r\n  var g = new Glob(pattern, options, cb)\r\n  return g.sync ? g.found : g\r\n} has no method 'hasMagic'\r\n    at rimraf (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli-caching-writer/node_modules/rimraf/rimraf.js:57:13)\r\n    at lib$rsvp$node$$tryApply (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli-caching-writer/node_modules/rsvp/dist/rsvp.js:1467:11)\r\n    at lib$rsvp$node$$handleValueInput (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli-caching-writer/node_modules/rsvp/dist/rsvp.js:1567:20)\r\n    at fn (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli-caching-writer/node_modules/rsvp/dist/rsvp.js:1555:18)\r\n    at "
+    ],
+    [
+      0.000018,
+      "/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli-caching-writer/index.js:100:14\r\n    at lib$rsvp$$internal$$tryCatch (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:489:16)\r\n    at lib$rsvp$$internal$$invokeCallback (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:501:17)\r\n    at lib$rsvp$$internal$$publish (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:472:11)\r\n    at Object.lib$rsvp$asap$$flush [as _onImmediate] (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:1290:9)\r\n    at processImmediate [as _immediateCallback] (timers.js:354:15)\r\n"
+    ],
+    [
+      25.733441,
+      "^D\u0008\u0008"
+    ],
+    [
+      2.719620,
+      "e"
+    ],
+    [
+      0.159899,
+      "x"
+    ],
+    [
+      0.224052,
+      "i"
+    ],
+    [
+      0.135934,
+      "t"
+    ],
+    [
+      0.143913,
+      "\r\n"
+    ],
+    [
+      2.632129,
+      "^C"
+    ],
+    [
+      0.004270,
+      "\u001b[31mCleanup error.\u001b[39m\r\n"
+    ],
+    [
+      0.000241,
+      "\u001b[31mObject function glob(pattern, options, cb) {\r\n  if (typeof options === \"function\") cb = options, options = {}\r\n  if (!options) options = {}\r\n\r\n  if (typeof options === \"number\") {\r\n    deprecated()\r\n    return\r\n  }\r\n\r\n  var g = new Glob(pattern, options, cb)\r\n  return g.sync ? g.found : g\r\n} has no method 'hasMagic'\u001b[39m\r\n"
+    ],
+    [
+      0.000498,
+      "TypeError: Object function glob(pattern, options, cb) {\r\n  if (typeof options === \"function\") cb = options, options = {}\r\n  if (!options) options = {}\r\n\r\n  if (typeof options === \"number\") {\r\n    deprecated()\r\n    return\r\n  }\r\n\r\n  var g = new Glob(pattern, options, cb)\r\n  return g.sync ? g.found : g\r\n} has no method 'hasMagic'\r\n    at Function.rimrafSync [as sync] (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli-caching-writer/node_modules/rimraf/rimraf.js:262:13)\r\n    at ConfigLoader.CachingWriter.cleanup (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli-caching-writer/index.js:114:10)\r\n    at cleanupTree (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/broccoli/lib/builder.js:128:19)\r\n    at /Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/index.js:11:14\r\n    at lib$rsvp$$internal$$tryCatch (/Users/juankiz/Documents/projects/chilango-a"
+    ],
+    [
+      0.000017,
+      "pp/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:489:16)\r\n    at lib$rsvp$$internal$$invokeCallback (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:501:17)\r\n    at lib$rsvp$$internal$$publish (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:472:11)\r\n    at Object.lib$rsvp$asap$$flush [as _onImmediate] (/Users/juankiz/Documents/projects/chilango-app/node_modules/ember-cli/node_modules/promise-map-series/node_modules/rsvp/dist/rsvp.js:1290:9)\r\n    at processImmediate [as _immediateCallback] (timers.js:354:15)\r\n"
+    ],
+    [
+      0.010421,
+      "bash-3.2$ "
+    ],
+    [
+      2.248510,
+      "e"
+    ],
+    [
+      0.192107,
+      "x"
+    ],
+    [
+      0.167828,
+      "i"
+    ],
+    [
+      0.128015,
+      "t"
+    ],
+    [
+      0.119831,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "exit\r\n"
+    ]
+  ]
+}
