@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 32.057449,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.019331,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      7.305530,
+      "l"
+    ],
+    [
+      0.087371,
+      "s"
+    ],
+    [
+      0.535893,
+      "\r\n"
+    ],
+    [
+      0.007450,
+      "\u001b[36mApplications\u001b[39;49m\u001b[0m               \u001b[36mLibrary\u001b[39;49m\u001b[0m\r\n\u001b[36mDesktop\u001b[39;49m\u001b[0m                    \u001b[36mMovies\u001b[39;49m\u001b[0m\r\n\u001b[36mDeveloper\u001b[39;49m\u001b[0m                  \u001b[36mMusic\u001b[39;49m\u001b[0m\r\n\u001b[36mDocuments\u001b[39;49m\u001b[0m                  \u001b[36mPictures\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[36mDownloads\u001b[39;49m\u001b[0m                  \u001b[36mPublic\u001b[39;49m\u001b[0m\r\n\u001b[36mDropbox\u001b[39;49m\u001b[0m                    \u001b[36mSites\u001b[39;49m\u001b[0m\r\n\u001b[36mGoogle Drive\u001b[39;49m\u001b[0m               \u001b[36mVirtualBox VMs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36mKextsBackupAfterPatch\u001b[39;49m\u001b[0m      \u001b[36mec2toefel.duckdns.org.tblk\u001b[39;49m\u001b[0m\r\n\u001b[36mKextsBackupBeforePatch\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000513,
+      "bash-3.2$ "
+    ],
+    [
+      2.320148,
+      "c"
+    ],
+    [
+      0.231734,
+      "d"
+    ],
+    [
+      0.192177,
+      " "
+    ],
+    [
+      0.440009,
+      "D"
+    ],
+    [
+      0.207904,
+      "e"
+    ],
+    [
+      0.175966,
+      "v"
+    ],
+    [
+      0.184001,
+      "e"
+    ],
+    [
+      0.151986,
+      "l"
+    ],
+    [
+      0.216163,
+      "o"
+    ],
+    [
+      0.247910,
+      "p"
+    ],
+    [
+      0.191886,
+      "e"
+    ],
+    [
+      0.048011,
+      "r"
+    ],
+    [
+      1.679763,
+      "\r\n"
+    ],
+    [
+      0.000853,
+      "bash-3.2$ "
+    ],
+    [
+      8.543970,
+      "l"
+    ],
+    [
+      0.072644,
+      "s"
+    ],
+    [
+      0.159323,
+      "\r\n"
+    ],
+    [
+      0.008629,
+      "\u001b[36mAnySync\u001b[39;49m\u001b[0m\r\nAssignment 1 Walkthrough.pdf\r\n"
+    ],
+    [
+      0.000013,
+      "Assignment 1.pdf\r\nAssignment 2.pdf\r\nCollector.zip\r\nLecture 1.pdf\r\nLecture 2.pdf\r\nLecture 3.pdf\r\nLecture 4.pdf\r\n"
+    ],
+    [
+      0.000007,
+      "Making GlassFish v3 Available Using Apache2 and mod_jk | Javalobby.webloc\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[36mNode.js in Action\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "Running GlassFish V3 with Apache httpd | Java.net.webloc\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mSwift Tour.playground\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mangular-seed\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[36mapache-activemq-5.8.0\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mapache-solr-3.6.1\u001b[39;49m\u001b[0m\r\n\u001b[36marquillian-quickstart\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "dtd2xsd.pl\r\n"
+    ],
+    [
+      0.000005,
+      "dtd2xsl_mod.pl\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36meclipse\u001b[39;49m\u001b[0m\r\n\u001b[36mems\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mhello\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[36mhsqldb-2.2.9\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mintellij\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mmaven_test\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mnode_js\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mperl_test\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mpython\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mrails_projects\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mtmp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36mxcode\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000401,
+      "bash-3.2$ "
+    ],
+    [
+      3.078873,
+      "c"
+    ],
+    [
+      0.207979,
+      "d"
+    ],
+    [
+      0.175913,
+      " "
+    ],
+    [
+      0.232007,
+      "t"
+    ],
+    [
+      0.119977,
+      "e"
+    ],
+    [
+      0.159926,
+      "m"
+    ],
+    [
+      0.487909,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167942,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.280322,
+      "m"
+    ],
+    [
+      0.263939,
+      "p"
+    ],
+    [
+      0.879721,
+      "\r\n"
+    ],
+    [
+      0.000356,
+      "bash-3.2$ "
+    ],
+    [
+      0.527758,
+      "l"
+    ],
+    [
+      0.135989,
+      "s"
+    ],
+    [
+      0.127819,
+      "\r\n"
+    ],
+    [
+      0.006761,
+      "JIRA_Excel_Report.rtf \u001b[36mgit-sample.git\u001b[39;49m\u001b[0m        \u001b[36msample-git2\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[36mgit-sample\u001b[39;49m\u001b[0m            \u001b[36msample-git\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000488,
+      "bash-3.2$ "
+    ],
+    [
+      0.832854,
+      "e"
+    ],
+    [
+      0.264022,
+      "x"
+    ],
+    [
+      0.528002,
+      "i"
+    ],
+    [
+      0.136113,
+      "t"
+    ],
+    [
+      0.408296,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "exit\r\n"
+    ]
+  ]
+}
