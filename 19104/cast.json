@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 47,
+  "duration": 10.903462,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.014859,
+      "\u001b]0;root@base:/usr/local/src\u0007\u001b[?1034h[root@base src]# "
+    ],
+    [
+      3.569890,
+      "\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.163190,
+      "\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.129030,
+      "\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.153688,
+      "\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.109286,
+      "\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.120913,
+      "\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.128092,
+      "\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.464005,
+      "i"
+    ],
+    [
+      0.063900,
+      "f"
+    ],
+    [
+      0.140068,
+      "c"
+    ],
+    [
+      0.057832,
+      "o"
+    ],
+    [
+      0.067288,
+      "n"
+    ],
+    [
+      0.055836,
+      "f"
+    ],
+    [
+      0.066879,
+      "i"
+    ],
+    [
+      0.029215,
+      "g"
+    ],
+    [
+      0.199307,
+      "\r\n"
+    ],
+    [
+      0.000824,
+      "eth0      Link encap:Ethernet  HWaddr 08:00:27:8D:51:54  \r\n          inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0\r\n"
+    ],
+    [
+      0.000691,
+      "          inet6 addr: fe80::a00:27ff:fe8d:5154/64 Scope:Link\r\n          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1\r\n          RX packets:256268 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:117395 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:1000 \r\n          RX bytes:224161033 (213.7 MiB)  TX bytes:7704381 (7.3 MiB)\r\n\r\neth1      Link encap:Ethernet  HWaddr 08:00:27:81:04:22  \r\n          inet addr:172.20.0.10  Bcast:172.20.0.255  Mask:255.255.255.0\r\n          inet6 addr: fe80::a00:27ff:fe81:422/64 Scope:Link\r\n          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1\r\n          RX packets:48532 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:126024 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:1000 \r\n          RX bytes:4729319 (4.5 MiB)  TX bytes:152908226 (145.8 MiB)\r\n\r\nlo        Link encap:Local Loopback  \r\n          inet addr:127.0.0.1  Mask:255.0.0.0\r\n          inet6 addr: ::1/128 Scope:Host\r\n          UP LOOPBACK RUNNING  MTU:16436  Metric:1\r\n          RX packets:0 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:0 \r\n          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)\r\n\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.807156,
+      "e"
+    ],
+    [
+      0.167987,
+      "x"
+    ],
+    [
+      0.336027,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151876,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.137143,
+      "\u0007"
+    ],
+    [
+      1.631985,
+      "p"
+    ],
+    [
+      0.087006,
+      "s"
+    ],
+    [
+      0.192951,
+      " "
+    ],
+    [
+      0.168022,
+      "-"
+    ],
+    [
+      0.080003,
+      "e"
+    ],
+    [
+      0.120043,
+      "f"
+    ],
+    [
+      0.120453,
+      "\r\n"
+    ],
+    [
+      0.000715,
+      "UID        PID  PPID  C STIME TTY          TIME CMD\r\n"
+    ],
+    [
+      0.001306,
+      "root         1     0  0 Apr22 ?        00:00:00 /sbin/init\r\nroot         2     0  0 Apr22 ?        00:00:00 [kthreadd]\r\nroot         3     2  0 Apr22 ?        00:00:00 [migration/0]\r\nroot         4     2  0 Apr22 ?        00:00:01 [ksoftirqd/0]\r\nroot         5     2  0 Apr22 ?        00:00:00 [migration/0]\r\nroot         6     2  0 Apr22 ?        00:00:00 [watchdog/0]\r\nroot         7     2  0 Apr22 ?        00:01:13 [events/0]\r\nroot         8     2  0 Apr22 ?        00:00:00 [cgroup]\r\nroot         9     2  0 Apr22 ?        00:00:00 [khelper]\r\nroot        10     2  0 Apr22 ?        00:00:00 [netns]\r\nroot        11     2  0 Apr22 ?        00:00:00 [async/mgr]\r\nroot        12     2  0 Apr22 ?        00:00:00 [pm]\r\nroot        13     2  0 Apr22 ?        00:00:01 [sync_supers]\r\nroot        14     2  0 Apr22 ?        00:00:01 [bdi-default]\r\n"
+    ],
+    [
+      0.001028,
+      "root        15     2  0 Apr22 ?        00:00:00 [kintegrityd/0]\r\nroot        16     2  0 Apr22 ?        00:00:01 [kblockd/0]\r\nroot        17     2  0 Apr22 ?        00:00:00 [kacpid]\r\nroot        18     2  0 Apr22 ?        00:00:00 [kacpi_notify]\r\nroot        19     2  0 Apr22 ?        00:00:00 [kacpi_hotplug]\r\nroot        20     2  0 Apr22 ?        00:00:00 [ata_aux]\r\nroot        21     2  0 Apr22 ?        00:00:00 [ata_sff/0]\r\nroot        22     2  0 Apr22 ?        00:00:00 [ksuspend_usbd]\r\nroot        23     2  0 Apr22 ?        00:00:00 [khubd]\r\nroot        24     2  0 Apr22 ?        00:00:00 [kseriod]\r\nroot        25     2  0 Apr22 ?        00:00:00 [md/0]\r\nroot        26     2  0 Apr22 ?        00:00:00 [md_misc/0]\r\nroot        27     2  0 Apr22 ?        00:00:00 [linkwatch]\r\nroot        28     2  0 Apr22 ?        00:00:00 [khungtaskd]\r\n"
+    ],
+    [
+      0.000388,
+      "root        29     2  0 Apr22 ?        00:00:00 [kswapd0]\r\nroot        30     2  0 Apr22 ?        00:00:00 [ksmd]\r\nroot        31     2  0 Apr22 ?        00:00:00 [khugepaged]\r\nroot        32     2  0 Apr22 ?        00:00:00 [aio/0]\r\nroot        33     2  0 Apr22 ?        00:00:00 [crypto/0]\r\nroot        38     2  0 Apr22 ?        00:00:00 [kthrotld/0]\r\nroot        40     2  0 Apr22 ?        00:00:00 [kpsmoused]\r\n"
+    ],
+    [
+      0.001169,
+      "root        41     2  0 Apr22 ?        00:00:00 [usbhid_resumer]\r\nroot        71     2  0 Apr22 ?        00:00:00 [kstriped]\r\nroot       122     2  0 Apr22 ?        00:00:00 [scsi_eh_0]\r\nroot       123     2  0 Apr22 ?        00:00:00 [scsi_eh_1]\r\nroot       141     2  0 Apr22 ?        00:00:00 [scsi_eh_2]\r\nroot       209     2  0 Apr22 ?        00:00:00 [kdmflush]\r\nroot       211     2  0 Apr22 ?        00:00:00 [kdmflush]\r\nroot       228     2  0 Apr22 ?        00:00:00 [jbd2/dm-0-8]\r\nroot       229     2  0 Apr22 ?        00:00:00 [ext4-dio-unwrit]\r\nroot       299     1  0 Apr22 ?        00:00:00 /sbin/udevd -d\r\nroot       338     2  0 Apr22 ?        00:00:00 [iprt/0]\r\nroot       509   299  0 Apr22 ?        00:00:00 /sbin/udevd -d\r\nroot       538     2  0 Apr22 ?        00:00:00 [jbd2/sda1-8]\r\nroot       539     2  0 Apr22 ?        00:00:00 [ext4-dio-unwrit]\r\nroot       593     2  0 Apr22 ?        00:00:00 [kauditd]\r\nroot       731     2  0 Apr22 ?        00:00:02 [flush-253:0]\r\nroot       764     1  0 Apr22 ?        00:00:00 /sbin/dhclient -1 -q -lf /var/lib/dhclient/dhclient-e\r\nroot       853     1  0 Apr22 ?        00:00:00 auditd\r\nroot       871     1  0 Apr22 ?        00:00:00 /sbin/portreserve\r\nroot       878     1  0 Apr22 ?        00:00:00 /sbin/rsyslogd -i /var/run/syslogd.pid -c 5\r\nroot       961     1  0 Apr22 ?        00:00:46 /usr/sbin/VBoxService\r\nroot       979     1  0 Apr22 ?        00:00:00 /usr/sbin/sshd\r\nroot      1055     1  0 Apr22 ?        00:00:00 /usr/libexec/postfix/master\r\n"
+    ],
+    [
+      0.001007,
+      "postfix   1062  1055  0 Apr22 ?        00:00:00 qmgr -l -t fifo -u\r\nroot      1065     1  0 Apr22 ?        00:00:00 crond\r\nroot      1078     1  0 Apr22 tty1     00:00:00 /sbin/mingetty /dev/tty1\r\nroot      1080     1  0 Apr22 tty2     00:00:00 /sbin/mingetty /dev/tty2\r\nroot      1082     1  0 Apr22 tty3     00:00:00 /sbin/mingetty /dev/tty3\r\nroot      1084     1  0 Apr22 tty4     00:00:00 /sbin/mingetty /dev/tty4\r\nroot      1086     1  0 Apr22 tty5     00:00:00 /sbin/mingetty /dev/tty5\r\nroot      1088     1  0 Apr22 tty6     00:00:00 /sbin/mingetty /dev/tty6\r\nroot      4314     1  0 11:02 ?        00:01:46 /usr/bin/java -Xmx500m -XX:+UseParNewGC -XX:+UseConcM\r\nroot      4450   979  0 16:59 ?        00:00:00 sshd: root@pts/0 \r\nroot      4452  4450  0 16:59 pts/0    00:00:00 -bash\r\n"
+    ],
+    [
+      0.000816,
+      "postfix   4476  1055  0 17:54 ?        00:00:00 pickup -l -t fifo -u\r\ntd-agent  4532     1  0 17:57 ?        00:00:00 /opt/td-agent/embedded/bin/ruby /usr/sbin/td-agent --\r\ntd-agent  4535  4532  0 17:57 ?        00:00:01 /opt/td-agent/embedded/bin/ruby /usr/sbin/td-agent --\r\nroot      4572  4452  0 18:32 pts/0    00:00:00 asciinema rec\r\nroot      4576  4572  0 18:32 pts/1    00:00:00 /bin/bash\r\nroot      4588  4576  0 18:32 pts/1    00:00:00 ps -ef\r\n\u001b]0;root@base:/usr/local/src\u0007[root@base src]# "
+    ],
+    [
+      0.874031,
+      "e"
+    ],
+    [
+      0.168029,
+      "x"
+    ],
+    [
+      0.112012,
+      "i"
+    ],
+    [
+      0.087987,
+      "t"
+    ],
+    [
+      0.119482,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
