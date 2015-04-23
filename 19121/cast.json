@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 24,
+  "duration": 15.789307,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.898332,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.000058,
+      "\u001b]2;fvdb@coruscant: ~/Projects/abuse-handler\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;..abuse-handler\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]2;fvdb@coruscant: ~/Projects/abuse-handler\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;..abuse-handler\u0007"
+    ],
+    [
+      0.082059,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[47m\u001b[30m \u001b[47m\u001b[30m  \u001b[47m\u001b[33m  \u001b[47m\u001b[31m   \u001b[47m\u001b[31m  \u001b[47m\u001b[31m   \u001b[47m\u001b[30m   \u001b[47m\u001b[30m  \u001b[47m\u001b[30m  \u001b[47m\u001b[31m   \u001b[47m\u001b[30m\u001b[47m\u001b[31m   \u001b[41m\u001b[37m \u001b[41m\u001b[30m\u001b[41m\u001b[30m--   --  (update-deployment-script)  \u001b[41m\u001b[30m v1.1  \u001b[49m\u001b[31m\u001b[49m\u001b[39m\r\n~/Projects/abuse-handler • "
+    ],
+    [
+      0.000034,
+      "\u001b[K\u001b[52C\u001b[00m16:11 \u001b[01;37m fvdb@coruscant\u001b[00m\u001b[73D"
+    ],
+    [
+      0.000147,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.764009,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.127133,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.064962,
+      "\u0008\u0008\u001b[24m\u001b[32ms\u001b[24m\u001b[32ms\u001b[32mh\u001b[39m"
+    ],
+    [
+      0.160029,
+      " "
+    ],
+    [
+      0.104832,
+      "\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.167708,
+      "\u0008\u001b[4ma\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.175757,
+      "\u0008\u001b[4mp\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.351815,
+      "\u0008\u0008\u0008\u001b[4m\u001b[33ma\u001b[4m\u001b[33mp\u001b[4m\u001b[33mp\u001b[4m\u001b[33mm\u001b[24m\u001b[39m"
+    ],
+    [
+      0.208203,
+      "\u0008\u0008\u0008\u0008\u001b[24m\u001b[39ma\u001b[24m\u001b[39mp\u001b[24m\u001b[39mp\u001b[24m\u001b[39mmg"
+    ],
+    [
+      0.223730,
+      "m"
+    ],
+    [
+      0.096266,
+      "t"
+    ],
+    [
+      0.447953,
+      "@"
+    ],
+    [
+      0.349291,
+      "1"
+    ],
+    [
+      0.000166,
+      "0"
+    ],
+    [
+      0.000153,
+      "."
+    ],
+    [
+      0.000148,
+      "1"
+    ],
+    [
+      0.000155,
+      "0"
+    ],
+    [
+      0.000139,
+      "."
+    ],
+    [
+      0.000143,
+      "2"
+    ],
+    [
+      0.000149,
+      "."
+    ],
+    [
+      0.000143,
+      "3"
+    ],
+    [
+      0.003960,
+      "7"
+    ],
+    [
+      0.609185,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000089,
+      "\r\r\n"
+    ],
+    [
+      0.001043,
+      "\u001b]2;ssh appmgmt@10.10.2.37\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;appmgmt@10.10.2.37\u0007"
+    ],
+    [
+      0.000102,
+      "\u001b]2;ssh appmgmt@10.10.2.37\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;appmgmt@10.10.2.37\u0007"
+    ],
+    [
+      0.262047,
+      "Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.0-49-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n_____________\r\n     .--.    | This system is managed by Chef.\r\n    |o_o |   | \r\n    |:_/ |   | Sysadmin     : HOSD \u003chosd@leaseweb.com\u003e\r\n   //   \\ \\  |\r\n  (|     | ) | Hostname     : app-abusedesk-be.ams1.nl.ocomproduction.local \r\n /'\\_   _/`\\ | Roles        : base, ocloud-app\r\n \\___)=(___/ | Chef Server  : chef.ams1.nl.leaseweb.net\r\n_____________| Environment  : production\r\n\r\nUnauthorized use may be subject to LEASEWEB disciplinary \r\nproceedings and/or criminal and civil penalties under state, \r\nfederal or other applicable domestic and foreign laws.\r\n\r\nLast login: Thu Apr 23 14:08:10 2015 from 10.4.13.7\r\r\n"
+    ],
+    [
+      0.120693,
+      "Script started, file is /home/appmgmt/sessions/appmgmt_production_2015-04-23-14:11\r\n"
+    ],
+    [
+      0.070516,
+      "\u001b]0;appmgmt@app-abusedesk-be: ~\u0007appmgmt@app-abusedesk-be:~$ "
+    ],
+    [
+      0.883770,
+      "exit"
+    ],
+    [
+      0.267296,
+      "\u0008\u0008\u0008\u0008sudo service php5-fpm restart"
+    ],
+    [
+      2.117455,
+      "\r\n"
+    ],
+    [
+      0.004686,
+      "[sudo] password for appmgmt: "
+    ],
+    [
+      3.169942,
+      "\r\n"
+    ],
+    [
+      0.001482,
+      "\u001b]0;appmgmt@app-abusedesk-be: ~\u0007appmgmt@app-abusedesk-be:~$ "
+    ],
+    [
+      1.337787,
+      "e"
+    ],
+    [
+      0.216048,
+      "x"
+    ],
+    [
+      0.109299,
+      "i"
+    ],
+    [
+      0.120150,
+      "t"
+    ],
+    [
+      0.152129,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "exit\r\n"
+    ],
+    [
+      0.001871,
+      "Script done, file is /home/appmgmt/sessions/appmgmt_production_2015-04-23-14:11\r\n"
+    ],
+    [
+      0.000251,
+      "Connection to 10.10.2.37 closed.\r\r\n"
+    ],
+    [
+      0.000957,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.000108,
+      "\u001b]2;fvdb@coruscant: ~/Projects/abuse-handler\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;..abuse-handler\u0007"
+    ],
+    [
+      0.000073,
+      "\u001b]2;fvdb@coruscant: ~/Projects/abuse-handler\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..abuse-handler\u0007"
+    ],
+    [
+      0.081465,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[47m\u001b[30m \u001b[47m\u001b[30m  \u001b[47m\u001b[33m  \u001b[47m\u001b[31m   \u001b[47m\u001b[31m  \u001b[47m\u001b[31m   \u001b[47m\u001b[30m   \u001b[47m\u001b[30m  \u001b[47m\u001b[30m  \u001b[47m\u001b[31m   \u001b[47m\u001b[30m\u001b[47m\u001b[31m   \u001b[41m\u001b[37m \u001b[41m\u001b[30m\u001b[41m\u001b[30m--   --  (update-deployment-script)  \u001b[41m\u001b[30m v1.1  \u001b[49m\u001b[31m\u001b[49m\u001b[39m\r\n~/Projects/abuse-handler • "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[52C\u001b[00m16:11 \u001b[01;37m fvdb@coruscant\u001b[00m\u001b[73D"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.451913,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.207080,
+      "\u0008\u001b[24m\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.088329,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.119397,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.126218,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000806,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;exit\u0007"
+    ],
+    [
+      0.000109,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
