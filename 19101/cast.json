@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "width": 197,
+  "height": 49,
+  "duration": 3.921343,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.182653,
+      "\u001b]0;root@RHEL6:/home/ananth\u0007\u001b[?1034h[root@RHEL6 ananth]# "
+    ],
+    [
+      0.025006,
+      "\r\n"
+    ],
+    [
+      0.001949,
+      "\u001b]0;root@RHEL6:/home/ananth\u0007[root@RHEL6 ananth]# "
+    ],
+    [
+      3.711616,
+      "exit\r\n"
+    ]
+  ]
+}
