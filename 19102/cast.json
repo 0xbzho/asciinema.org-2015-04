@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "width": 197,
+  "height": 49,
+  "duration": 6.593847,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.154603,
+      "\u001b]0;root@RHEL6:/home/ananth\u0007\u001b[?1034h[root@RHEL6 ananth]# "
+    ],
+    [
+      2.261031,
+      "d"
+    ],
+    [
+      0.030983,
+      "f"
+    ],
+    [
+      0.091010,
+      "d"
+    ],
+    [
+      0.113983,
+      "f"
+    ],
+    [
+      0.103004,
+      "d"
+    ],
+    [
+      0.135330,
+      "\r\n"
+    ],
+    [
+      0.002021,
+      "bash: dfdfd: command not found\r\n\u001b]0;root@RHEL6:/home/ananth\u0007"
+    ],
+    [
+      0.000048,
+      "[root@RHEL6 ananth]# "
+    ],
+    [
+      0.767742,
+      "d"
+    ],
+    [
+      0.111996,
+      "f"
+    ],
+    [
+      0.243966,
+      "\r\n"
+    ],
+    [
+      0.005269,
+      "Filesystem     1K-blocks     Used Available Use% Mounted on\r\n/dev/sda3      284056176 55117072 214509872  21% /\r\ntmpfs           41230840       72  41230768   1% /dev/shm\r\n/dev/sda1         198337   140099     47998  75% /boot\r\n\u001b]0;root@RHEL6:/home/ananth\u0007[root@RHEL6 ananth]# "
+    ],
+    [
+      2.572714,
+      "exit\r\n"
+    ]
+  ]
+}
