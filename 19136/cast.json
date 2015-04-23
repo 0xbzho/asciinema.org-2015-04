@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 6.668886,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.067925,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000011,
+      "\u001b]2;root@kali: /home/sledge\u0007\u001b]1;/home/sledge\u0007"
+    ],
+    [
+      0.006623,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msledge \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      6.592969,
+      "\r\r\n"
+    ]
+  ]
+}
