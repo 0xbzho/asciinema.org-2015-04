@@ -1,0 +1,2094 @@
+{
+  "version": 1,
+  "width": 99,
+  "height": 48,
+  "duration": 81.567504,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.037329,
+      "\u001b]0;vagrant@TFB-all: ~/FrameworkBenchmarks\u0007vagrant@TFB-all:~/FrameworkBenchmarks$ "
+    ],
+    [
+      1.105239,
+      "r"
+    ],
+    [
+      0.087704,
+      "m"
+    ],
+    [
+      0.103984,
+      " "
+    ],
+    [
+      0.183716,
+      "-"
+    ],
+    [
+      0.072640,
+      "r"
+    ],
+    [
+      0.175790,
+      "f"
+    ],
+    [
+      0.055672,
+      " "
+    ],
+    [
+      0.119939,
+      "r"
+    ],
+    [
+      0.056083,
+      "e"
+    ],
+    [
+      0.128283,
+      "s"
+    ],
+    [
+      0.202114,
+      "ults/"
+    ],
+    [
+      0.885581,
+      "\r\n"
+    ],
+    [
+      0.028003,
+      "\u001b]0;vagrant@TFB-all: ~/FrameworkBenchmarks\u0007vagrant@TFB-all:~/FrameworkBenchmarks$ "
+    ],
+    [
+      2.859986,
+      "rm -rf results/"
+    ],
+    [
+      0.679730,
+      "\u0007"
+    ],
+    [
+      0.792549,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.251276,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032538,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034330,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034809,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032933,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033456,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034401,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033093,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033238,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034895,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033453,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034564,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033982,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033868,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035114,
+      "\u0007"
+    ],
+    [
+      0.042953,
+      "\u0007"
+    ],
+    [
+      0.034864,
+      "\u0007"
+    ],
+    [
+      0.031584,
+      "\u0007"
+    ],
+    [
+      0.027793,
+      "\u0007"
+    ],
+    [
+      0.040235,
+      "\u0007"
+    ],
+    [
+      0.032230,
+      "\u0007"
+    ],
+    [
+      0.029731,
+      "\u0007"
+    ],
+    [
+      0.038163,
+      "\u0007"
+    ],
+    [
+      1.484233,
+      "t"
+    ],
+    [
+      0.072153,
+      "o"
+    ],
+    [
+      0.119360,
+      "o"
+    ],
+    [
+      0.416189,
+      "l"
+    ],
+    [
+      0.227158,
+      "set/"
+    ],
+    [
+      0.964660,
+      "r"
+    ],
+    [
+      0.096182,
+      "u"
+    ],
+    [
+      0.031711,
+      "n"
+    ],
+    [
+      0.110042,
+      "\u0007-"
+    ],
+    [
+      0.530737,
+      "t"
+    ],
+    [
+      0.048345,
+      "e"
+    ],
+    [
+      0.194117,
+      "sts.py "
+    ],
+    [
+      0.573918,
+      "-"
+    ],
+    [
+      0.119167,
+      "-"
+    ],
+    [
+      0.207956,
+      "i"
+    ],
+    [
+      0.032762,
+      "n"
+    ],
+    [
+      0.071368,
+      "s"
+    ],
+    [
+      0.056154,
+      "t"
+    ],
+    [
+      0.079608,
+      "a"
+    ],
+    [
+      0.072401,
+      "l"
+    ],
+    [
+      0.127839,
+      "l"
+    ],
+    [
+      0.056168,
+      " "
+    ],
+    [
+      0.072204,
+      "s"
+    ],
+    [
+      0.111916,
+      "e"
+    ],
+    [
+      0.055676,
+      "r"
+    ],
+    [
+      0.176516,
+      "v"
+    ],
+    [
+      0.111262,
+      "e"
+    ],
+    [
+      0.056081,
+      "r"
+    ],
+    [
+      0.063646,
+      " "
+    ],
+    [
+      0.144614,
+      "-"
+    ],
+    [
+      0.127521,
+      "-"
+    ],
+    [
+      0.217069,
+      "m"
+    ],
+    [
+      0.079943,
+      "o"
+    ],
+    [
+      0.031497,
+      "d"
+    ],
+    [
+      0.160309,
+      "e"
+    ],
+    [
+      0.183660,
+      " "
+    ],
+    [
+      0.152083,
+      "v"
+    ],
+    [
+      0.119929,
+      "e"
+    ],
+    [
+      0.047858,
+      "r"
+    ],
+    [
+      0.176827,
+      "i"
+    ],
+    [
+      0.079656,
+      "f"
+    ],
+    [
+      0.151941,
+      "y"
+    ],
+    [
+      0.103558,
+      " "
+    ],
+    [
+      0.160298,
+      "-"
+    ],
+    [
+      0.135545,
+      "-"
+    ],
+    [
+      0.272030,
+      "s"
+    ],
+    [
+      0.360455,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.063779,
+      "t"
+    ],
+    [
+      0.048303,
+      "e"
+    ],
+    [
+      0.135712,
+      "s"
+    ],
+    [
+      0.064241,
+      "t"
+    ],
+    [
+      0.135874,
+      " "
+    ],
+    [
+      0.720355,
+      "h \r"
+    ],
+    [
+      0.031585,
+      "i"
+    ],
+    [
+      0.144070,
+      "s"
+    ],
+    [
+      0.167897,
+      "t"
+    ],
+    [
+      0.184059,
+      "o"
+    ],
+    [
+      0.063779,
+      "r"
+    ],
+    [
+      0.679833,
+      "i"
+    ],
+    [
+      0.112787,
+      "c"
+    ],
+    [
+      0.087496,
+      "a"
+    ],
+    [
+      0.072054,
+      "l"
+    ],
+    [
+      0.255549,
+      "-"
+    ],
+    [
+      0.376781,
+      "w"
+    ],
+    [
+      0.063650,
+      "e"
+    ],
+    [
+      0.119109,
+      "b"
+    ],
+    [
+      0.312854,
+      "w"
+    ],
+    [
+      0.159915,
+      "a"
+    ],
+    [
+      0.120511,
+      "r"
+    ],
+    [
+      0.071739,
+      "e"
+    ],
+    [
+      0.111629,
+      " "
+    ],
+    [
+      1.184083,
+      "-"
+    ],
+    [
+      0.119768,
+      "-"
+    ],
+    [
+      0.160482,
+      "s"
+    ],
+    [
+      0.103977,
+      "l"
+    ],
+    [
+      0.127575,
+      "e"
+    ],
+    [
+      0.120308,
+      "e"
+    ],
+    [
+      0.088248,
+      "p"
+    ],
+    [
+      0.176217,
+      " "
+    ],
+    [
+      0.103683,
+      "1"
+    ],
+    [
+      0.191793,
+      "0"
+    ],
+    [
+      1.160581,
+      "\r\n"
+    ],
+    [
+      0.170305,
+      "FWROOT is /home/vagrant/FrameworkBenchmarks\r\n"
+    ],
+    [
+      0.007611,
+      "WARNING:root:results.json for test ec2 not found.\r\n"
+    ],
+    [
+      0.151264,
+      "WARNING:root:Framework historical does not define a default test in benchmark_config.json\r\n"
+    ],
+    [
+      0.021299,
+      "\r\nINSTALL: Installing server software (strategy=unified)\r\n\r\n"
+    ],
+    [
+      0.006675,
+      "INSTALL: . $FWROOT/toolset/setup/linux/bash_functions.sh \u0026\u0026 . $FWROOT/toolset/setup/linux/prerequisites.sh (cwd=$FWROOT/installs)\r\n"
+    ],
+    [
+      0.005457,
+      "++ export DEBIAN_FRONTEND=noninteractive\r\n++ DEBIAN_FRONTEND=noninteractive\r\n"
+    ],
+    [
+      0.001262,
+      "+++ fw_exists fwbm_prereqs_installed\r\n"
+    ],
+    [
+      0.000686,
+      "+++ '[' -f fwbm_prereqs_installed ']'\r\n+++ echo 0\r\n"
+    ],
+    [
+      0.000819,
+      "++ RETCODE=0\r\n++ '[' '!' 0 == 0 ']'\r\n++ echo 'Prerequisites installed!'\r\nPrerequisites installed!\r\n++ return 0\r\n"
+    ],
+    [
+      0.010515,
+      "INSTALL: sudo chown -R testrunner:testrunner /home/vagrant/FrameworkBenchmarks/installs (cwd=$FWROOT/installs)\r\n"
+    ],
+    [
+      4.548904,
+      "WARNING:root:Framework historical does not define a default test in benchmark_config.json\r\n"
+    ],
+    [
+      0.083995,
+      "INFO:root:Running installation for directory /home/vagrant/FrameworkBenchmarks/frameworks/Python/historical (cwd=/home/vagrant/FrameworkBenchmarks/frameworks/Python/historical)\r\n"
+    ],
+    [
+      0.016647,
+      "INFO:root:To run installation manually, copy/paste this:\r\n        export FWROOT=/home/vagrant/FrameworkBenchmarks \u0026\u0026 \\\r\n        export TROOT=/home/vagrant/FrameworkBenchmarks/frameworks/Python/historical \u0026\u0026 \\\r\n"
+    ],
+    [
+      0.000397,
+      "        export IROOT=/home/vagrant/FrameworkBenchmarks/installs \u0026\u0026 \\\r\n        cd $IROOT \u0026\u0026 \\\r\n        sudo -u testrunner -E -H bash -c \"source $FWROOT/toolset/setup/linux/bash_functions.sh \u0026\u0026 source /home/vagrant/FrameworkBenchmarks/frameworks/Python/historical/install.sh\"\r\n"
+    ],
+    [
+      0.009735,
+      "INSTALL: sudo -u testrunner -E -H bash -c \"source $FWROOT/toolset/setup/linux/bash_functions.sh \u0026\u0026 source /home/vagrant/FrameworkBenchmarks/frameworks/Python/historical/install.sh\" (cwd=$FWROOT//installs)"
+    ],
+    [
+      0.000400,
+      "\r\n"
+    ],
+    [
+      0.017788,
+      "Searching for python2\r\n"
+    ],
+    [
+      0.001451,
+      "Installing language: python2 in $FWROOT/installs\r\n"
+    ],
+    [
+      0.000010,
+      "++ . /home/vagrant/FrameworkBenchmarks/toolset/setup/linux/languages/python2.sh"
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.001766,
+      "++++ fw_exists /home/vagrant/FrameworkBenchmarks/installs/py2.installed\r\n"
+    ],
+    [
+      0.000012,
+      "++++ '[' -f /home/vagrant/FrameworkBenchmarks/installs/py2.installed ']'\r\n"
+    ],
+    [
+      0.000874,
+      "++++ echo 0\r\n"
+    ],
+    [
+      0.000460,
+      "+++ RETCODE=0"
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "+++ '[' '!' 0 == 0 ']'"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "+++ return 0"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "++ set +x"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "python2 is installed!"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.002074,
+      "Searching for apache\r\n"
+    ],
+    [
+      0.002904,
+      "Installing webserver: apache in $FWROOT/installs\r\n"
+    ],
+    [
+      0.000044,
+      "++ . /home/vagrant/FrameworkBenchmarks/toolset/setup/linux/webservers/apache.sh\r\n"
+    ],
+    [
+      0.001003,
+      "+++ sudo apt-get install -y apache2\r\n"
+    ],
+    [
+      0.017117,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.010309,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.013428,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.022436,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.083889,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000071,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001063,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.044262,
+      "apache2 is already the newest version.\r\n"
+    ],
+    [
+      0.060285,
+      "0 upgraded, 0 newly installed, 0 to remove and 75 not upgraded.\r\n"
+    ],
+    [
+      0.002018,
+      "+++ sudo /etc/init.d/apache2 stop\r\n"
+    ],
+    [
+      0.006710,
+      " * Stopping web server apache2\r\n"
+    ],
+    [
+      0.003077,
+      " * \r\n"
+    ],
+    [
+      0.001990,
+      "++ set +x\r\napache is installed!\r\n"
+    ],
+    [
+      0.688356,
+      "--2015-04-24 01:07:50--  http://downloads.sourceforge.net/webware/Webware-1.1.1.tar.gz\r\n"
+    ],
+    [
+      0.000215,
+      "Resolving downloads.sourceforge.net (downloads.sourceforge.net)... "
+    ],
+    [
+      0.001623,
+      "216.34.181.59, 216.34.181.59\r\n"
+    ],
+    [
+      0.000010,
+      "Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|216.34.181.59|:80... "
+    ],
+    [
+      0.047104,
+      "connected.\r\n"
+    ],
+    [
+      0.000360,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.064029,
+      "301 Moved Permanently\r\n"
+    ],
+    [
+      0.000335,
+      "Location: http://downloads.sourceforge.net/project/webware/Webware/1.1.1/Webware-1.1.1.tar.gz [following]"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.001528,
+      "--2015-04-24 01:07:50--  http://downloads.sourceforge.net/project/webware/Webware/1.1.1/Webware-1.1.1.tar.gz\r\nConnecting to downloads.sourceforge.net (downloads.sourceforge.net)|216.34.181.59|:80... "
+    ],
+    [
+      0.047960,
+      "connected.\r\n"
+    ],
+    [
+      0.000925,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.061537,
+      "302 Found\r\n"
+    ],
+    [
+      0.000430,
+      "Location: http://hivelocity.dl.sourceforge.net/project/webware/Webware/1.1.1/Webware-1.1.1.tar.gz [following]\r\n"
+    ],
+    [
+      0.001268,
+      "--2015-04-24 01:07:50--  http://hivelocity.dl.sourceforge.net/project/webware/Webware/1.1.1/Webware-1.1.1.tar.gz\r\nResolving hivelocity.dl.sourceforge.net (hivelocity.dl.sourceforge.net)... "
+    ],
+    [
+      0.041007,
+      "74.50.101.106"
+    ],
+    [
+      0.000015,
+      ", 74.50.101.106\r\n"
+    ],
+    [
+      0.000189,
+      "Connecting to hivelocity.dl.sourceforge.net (hivelocity.dl.sourceforge.net)|74.50.101.106|:80... "
+    ],
+    [
+      0.046246,
+      "connected.\r\n"
+    ],
+    [
+      0.000337,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.165891,
+      "200 OK\r\n"
+    ],
+    [
+      0.000398,
+      "Length: "
+    ],
+    [
+      0.000200,
+      "1003379"
+    ],
+    [
+      0.000658,
+      " (980K) [application/x-gzip]\r\n"
+    ],
+    [
+      0.000636,
+      "Saving to: ‘Webware-1.1.1.tar.gz’\r\n\r\n"
+    ],
+    [
+      0.000388,
+      "\r 0% [                                                          ] 0           --.-K/s              "
+    ],
+    [
+      0.201124,
+      "\r21% [===========\u003e                                              ] 211,152     1.00MB/s             "
+    ],
+    [
+      0.204303,
+      "\r73% [=========================================\u003e                ] 733,880     1.73MB/s             "
+    ],
+    [
+      0.067862,
+      "\r100%[=========================================================\u003e] 1,003,379   2.03MB/s   in 0.5s   \r\n\r\n"
+    ],
+    [
+      0.003946,
+      "2015-04-24 01:07:51 (2.03 MB/s) - ‘Webware-1.1.1.tar.gz’ saved [1003379/1003379]\r\n\r\n"
+    ],
+    [
+      2.072583,
+      "INSTALL: sudo apt-get -yq autoremove (cwd=$FWROOT/installs)\r\n"
+    ],
+    [
+      0.020760,
+      "Reading package lists..."
+    ],
+    [
+      0.010018,
+      "\r\n"
+    ],
+    [
+      0.010313,
+      "Building dependency tree..."
+    ],
+    [
+      0.119930,
+      "\r\nReading state information..."
+    ],
+    [
+      0.000354,
+      "\r\n"
+    ],
+    [
+      0.108227,
+      "0 upgraded, 0 newly installed, 0 to remove and 75 not upgraded.\r\n"
+    ],
+    [
+      0.001656,
+      "\r\nINSTALL: Finished installing server software\r\n\r\n"
+    ],
+    [
+      0.143423,
+      "WARNING:root:Framework historical does not define a default test in benchmark_config.json"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.022475,
+      "================================================================================\r\n  Preparing Server, Database, and Client ...\r\n================================================================================"
+    ],
+    [
+      0.000029,
+      "\r\n\r\n"
+    ],
+    [
+      0.009039,
+      "bash: cpu0/cpufreq/scaling_governor: No such file or directory\r\n"
+    ],
+    [
+      0.000342,
+      "bash: cpu1/cpufreq/scaling_governor: No such file or directory\r\n"
+    ],
+    [
+      0.256513,
+      "Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.0-45-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n System information disabled due to load higher than 2.0\r\n\r\nWelcome to the FrameworkBenchmarks project!\r\n\r\n  To get started, perhaps try this:\r\n    $ cd FrameworkBenchmarks\r\n    $ toolset/run-tests.py --install server --test go\r\n    $ cat results/ec2/latest/logs/go/out.txt\r\n\r\n  You can get lots of help:\r\n    $ toolset/run-tests.py --help\r\n\r\n  This Vagrant environment is already setup and ready to go, so you\r\n  can safely ignore any flags about users, hosts, or identity files \r\n\r\n"
+    ],
+    [
+      0.007347,
+      "net.ipv4.tcp_max_syn_backlog = 65535\r\n"
+    ],
+    [
+      0.004374,
+      "net.core.somaxconn = 65535\r\n"
+    ],
+    [
+      0.004051,
+      "kernel.sched_autogroup_enabled = 0\r\n"
+    ],
+    [
+      0.009575,
+      "net.ipv4.tcp_tw_reuse = 1\r\n"
+    ],
+    [
+      0.006150,
+      "net.ipv4.tcp_tw_recycle = 1\r\n"
+    ],
+    [
+      0.004176,
+      "kernel.shmmax = 2147483648\r\n"
+    ],
+    [
+      0.004389,
+      "kernel.shmall = 2097152\r\n"
+    ],
+    [
+      0.004542,
+      "kernel.sem = 250 32000 256 512\r\n"
+    ],
+    [
+      0.251499,
+      "Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.0-45-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n  System information as of Fri Apr 24 01:07:54 UTC 2015\r\n\r\n  System load:  1.2               Processes:           105\r\n  Usage of /:   7.9% of 39.34GB   Users logged in:     1\r\n  Memory usage: 19%               IP address for eth0: 10.0.2.15\r\n  Swap usage:   0%                IP address for eth1: 172.16.0.16\r\n\r\n  Graph this data and manage this system at:\r\n    https://landscape.canonical.com/\r\n\r\nWelcome to the FrameworkBenchmarks project!\r\n\r\n  To get started, perhaps try this:\r\n    $ cd FrameworkBenchmarks\r\n    $ toolset/run-tests.py --install server --test go\r\n    $ cat results/ec2/latest/logs/go/out.txt\r\n\r\n  You can get lots of help:\r\n    $ toolset/run-tests.py --help\r\n\r\n  This Vagrant environment is already setup and ready to go, so you\r\n  can safely ignore any flags about users, hosts, or identity files \r\n\r\n"
+    ],
+    [
+      0.008086,
+      "net.ipv4.tcp_max_syn_backlog = 65535\r\n"
+    ],
+    [
+      0.003987,
+      "net.core.somaxconn = 65535\r\n"
+    ],
+    [
+      0.010418,
+      "net.ipv4.tcp_tw_reuse = 1\r\n"
+    ],
+    [
+      0.004029,
+      "net.ipv4.tcp_tw_recycle = 1\r\n"
+    ],
+    [
+      0.004279,
+      "kernel.shmmax = 2147483648\r\n"
+    ],
+    [
+      0.004155,
+      "kernel.shmall = 2097152\r\n"
+    ],
+    [
+      0.001743,
+      "================================================================================\r\n  Running Tests...\r\n================================================================================\r\n\r\nverify:   0% |                                                               | Rough ETA:  --:--:--\r--------------------------------------------------------------------------------\r\n  Running Test: historical-webware\r\n--------------------------------------------------------------------------------\r\n\r\n"
+    ],
+    [
+      0.027957,
+      "INFO:root:Running setup module start (cwd=/home/vagrant/FrameworkBenchmarks/frameworks/Python/historical)\r\n"
+    ],
+    [
+      0.000523,
+      "INFO:root:To run historical-webware manually, copy/paste this:\r\n      export FWROOT=/home/vagrant/FrameworkBenchmarks      \u0026\u0026 \\\r\n      export TROOT=/home/vagrant/FrameworkBenchmarks/frameworks/Python/historical       \u0026\u0026 \\\r\n      export IROOT=/home/vagrant/FrameworkBenchmarks/installs       \u0026\u0026 \\\r\n      export DBHOST=127.0.0.1      \u0026\u0026 \\\r\n      export LOGDIR=/home/vagrant/FrameworkBenchmarks/results/ec2/latest/logs/historical-webware      \u0026\u0026 \\\r\n      export MAX_THREADS=2 \u0026\u0026 \\\r\n      cd /home/vagrant/FrameworkBenchmarks/frameworks/Python/historical \u0026\u0026 \\\r\n      sudo -u testrunner -E -H stdbuf -o0 -e0 bash -ex webware/setup.sh\r\n"
+    ],
+    [
+      0.017912,
+      "Setup historical-webware: + export PY2_ROOT=/home/vagrant/FrameworkBenchmarks/installs/py2\r\nSetup historical-webware: + PY2_ROOT=/home/vagrant/FrameworkBenchmarks/installs/py2\r\n"
+    ],
+    [
+      0.000015,
+      "Setup historical-webware: + export PY2=/home/vagrant/FrameworkBenchmarks/installs/py2/bin/python\r\n"
+    ],
+    [
+      0.000331,
+      "Setup historical-webware: + PY2=/home/vagrant/FrameworkBenchmarks/installs/py2/bin/python\r\n"
+    ],
+    [
+      0.000438,
+      "Setup historical-webware: + cd /home/vagrant/FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1\r\nSetup historical-webware: + /home/vagrant/FrameworkBenchmarks/installs/py2/bin/python install.py --no-password-prompt\r\n"
+    ],
+    [
+      0.201177,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.000805,
+      "Setup historical-webware: Webware for Python 1.1.1"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      "Setup historical-webware: Installer"
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000318,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000436,
+      "Setup historical-webware:     Cur Date: Fri Apr 24 01:07:55 2015"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000266,
+      "Setup historical-webware:       Python: 2.7.9 (default, Apr 24 2015, 00:50:55) \r\n"
+    ],
+    [
+      0.000526,
+      "Setup historical-webware:               [GCC 4.8.2]\r\n"
+    ],
+    [
+      0.000022,
+      "Setup historical-webware:       Op Sys: posix"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "Setup historical-webware:     Platform: linux2"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      "Setup historical-webware:      Cur Dir: /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1\r\n"
+    ],
+    [
+      0.032138,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000490,
+      "Setup historical-webware: Scanning for components..."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.008060,
+      "Setup historical-webware: CGIWrapper yes     COMKit.... yes     DocSupport no \r\n"
+    ],
+    [
+      0.015541,
+      "Setup historical-webware: Docs...... no      KidKit.... yes     MiddleKit. yes\r\n"
+    ],
+    [
+      0.000496,
+      "Setup historical-webware: MiscUtils. yes     PSP....... yes     TaskKit... yes\r\n"
+    ],
+    [
+      0.000451,
+      "Setup historical-webware: UserKit... yes     WebKit.... yes     WebUtils.. yes"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000417,
+      "Setup historical-webware: app....... no      bin....... no     \r\n"
+    ],
+    [
+      0.000396,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.000321,
+      "Setup historical-webware: Processing html doc files...\r\n"
+    ],
+    [
+      0.083497,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.000978,
+      "Setup historical-webware: Processing phtml doc files...\r\n"
+    ],
+    [
+      0.000230,
+      "Setup historical-webware: The templates will be removed afterwards."
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.302273,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000368,
+      "Setup historical-webware: Creating html source, summaries and doc files...\r\n"
+    ],
+    [
+      0.987018,
+      "Setup historical-webware: CGIWrapper ok      COMKit.... ok      KidKit.... ok\r\n"
+    ],
+    [
+      2.515560,
+      "Setup historical-webware: MiddleKit. ok      MiscUtils. ok      PSP....... ok"
+    ],
+    [
+      0.000308,
+      "\r\n"
+    ],
+    [
+      3.105682,
+      "Setup historical-webware: TaskKit... ok      UserKit... ok      WebKit.... ok"
+    ],
+    [
+      0.000345,
+      "\r\n"
+    ],
+    [
+      0.402293,
+      "Setup historical-webware: WebUtils.. ok     \r\n"
+    ],
+    [
+      0.001266,
+      "Setup historical-webware: Creating ComponentIndex.html...\r\n"
+    ],
+    [
+      0.001768,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000633,
+      "Setup historical-webware: Creating index.html for all components..."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.050415,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.000251,
+      "Setup historical-webware: Making all Docs directories browsable via WebKit...\r\n"
+    ],
+    [
+      0.032173,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.000572,
+      "Setup historical-webware: Creating backups of original config files...\r\n"
+    ],
+    [
+      0.735501,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.000334,
+      "Setup historical-webware: Copying start script... Debian\r\n"
+    ],
+    [
+      0.000309,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000317,
+      "Setup historical-webware: Byte compiling all modules...\r\n"
+    ],
+    [
+      3.573485,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.001402,
+      "Setup historical-webware: Setting permissions on CGI scripts...\r\n"
+    ],
+    [
+      0.015718,
+      "Setup historical-webware: Setting permission on start script..."
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000457,
+      "Setup historical-webware: Setting the WebKit password..."
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000292,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.000281,
+      "Setup historical-webware: A password will be automatically generated.\r\n"
+    ],
+    [
+      0.001740,
+      "Setup historical-webware: You can check the password after installation at:"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000394,
+      "Setup historical-webware: WebKit/Configs/Application.config\r\n"
+    ],
+    [
+      0.000266,
+      "Setup historical-webware: Password replaced successfully.\r\n"
+    ],
+    [
+      0.000349,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.001039,
+      "Setup historical-webware: Installation looks successful.\r\n"
+    ],
+    [
+      0.000252,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000238,
+      "Setup historical-webware: Welcome to Webware!\r\n"
+    ],
+    [
+      0.000185,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000397,
+      "Setup historical-webware: You can already try out the WebKit application server. Start it with\r\n"
+    ],
+    [
+      0.000248,
+      "Setup historical-webware: \"WebKit/AppServer\" and point your browser to \"http://localhost:8080\"."
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.000388,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      "Setup historical-webware: Browsable documentation is available in the Docs folders."
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.000301,
+      "Setup historical-webware: You can use \"Docs/index.html\" as the main entry point."
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.001288,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000091,
+      "\r\nSetup historical-webware: Installation is finished.\r\n"
+    ],
+    [
+      0.014808,
+      "Setup historical-webware: + cd /home/vagrant/FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "Setup historical-webware: + /home/vagrant/FrameworkBenchmarks/installs/py2/bin/python Launch.py"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.151788,
+      "Setup historical-webware: Starting WebKit.ThreadedAppServer..."
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000370,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.619153,
+      "Setup historical-webware: WebKit AppServer 1.1.1"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "Setup historical-webware: Part of Webware for Python."
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "Setup historical-webware: Copyright 1999-2010 by Chuck Esterbrook. All Rights Reserved."
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "Setup historical-webware: WebKit and Webware are open source."
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "Setup historical-webware: Please visit: http://www.webwareforpython.org"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000652,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.000579,
+      "Setup historical-webware: Process id is 18931\r\nSetup historical-webware: Date/time is Fri Apr 24 01:08:07 2015\r\n"
+    ],
+    [
+      0.001557,
+      "Setup historical-webware: Python is 2.7.9 (default, Apr 24 2015, 00:50:55) \r\nSetup historical-webware: [GCC 4.8.2]\r\nSetup historical-webware: \r\nSetup historical-webware: AdapterPort            = 8086\r\nSetup historical-webware: AddressFiles           = %s.address\r\n"
+    ],
+    [
+      0.003368,
+      "Setup historical-webware: AutoReload             = True\r\nSetup historical-webware: AutoReloadPollInterval = 1\r\nSetup historical-webware: CheckInterval          = 100\r\nSetup historical-webware: EnableAdapter          = True\r\nSetup historical-webware: EnableHTTP             = True\r\nSetup historical-webware: EnableMonitor          = False\r\nSetup historical-webware: EnableSCGI             = False\r\nSetup historical-webware: HTTPPort               = 8080\r\nSetup historical-webware: Host                   = localhost\r\nSetup historical-webware: MaxRequestTime         = 300\r\nSetup historical-webware: MaxServerThreads       = 20\r\nSetup historical-webware: MinServerThreads       = 5\r\n"
+    ],
+    [
+      0.000980,
+      "Setup historical-webware: MonitorPort            = 8085\r\nSetup historical-webware: PidFile                = appserver.pid\r\nSetup historical-webware: PlugInDirs             = ['/FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1']\r\nSetup historical-webware: PlugIns                = []\r\nSetup historical-webware: PrintConfigAtStartUp   = True\r\nSetup historical-webware: RequestBufferSize      = 8192\r\nSetup historical-webware: RequestQueueSize       = 0\r\nSetup historical-webware: ResponseBufferSize     = 8192\r\nSetup historical-webware: SCGIPort               = 8084\r\nSetup historical-webware: SilentURIs             = None\r\nSetup historical-webware: StartServerThreads     = 10\r\nSetup historical-webware: UseDaemonThreads       = True\r\nSetup historical-webware: UseFAMModules          = pyinotify gamin _fam\r\nSetup historical-webware: UseImportSpy           = True\r\nSetup historical-webware: Verbose                = True\r\nSetup historical-webware: WebKitPath             = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/WebKit\r\nSetup historical-webware: WebwarePath            = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1\r\nSetup historical-webware: serverSidePath         = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app\r\nSetup historical-webware: \r\nSetup historical-webware: Initializing Application...\r\nSetup historical-webware: Current directory: /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app\r\n"
+    ],
+    [
+      0.000191,
+      "Setup historical-webware: ActivityLogColumns              = ['request.remoteAddress', 'request.method', 'request.uri', 'response.size', 'servlet.name', 'request.timeStamp', 'transaction.duration', 'transaction.errorOccurred']\r\n"
+    ],
+    [
+      0.001394,
+      "Setup historical-webware: ActivityLogFilename             = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app/Logs/Activity.csv"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000499,
+      "Setup historical-webware: AlwaysSaveSessions              = True\r\n"
+    ],
+    [
+      0.000220,
+      "Setup historical-webware: CacheDir                        = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app/Cache\r\n"
+    ],
+    [
+      0.000416,
+      "Setup historical-webware: Contexts                        = {'default': 'Context'}\r\n"
+    ],
+    [
+      0.000160,
+      "Setup historical-webware: Debug                           = {'Sessions': False}\r\n"
+    ],
+    [
+      0.000303,
+      "Setup historical-webware: DirectoryFile                   = ['index', 'Index', 'main', 'Main']\r\n"
+    ],
+    [
+      0.000161,
+      "Setup historical-webware: EmailErrorReportAsAttachment    = False\r\n"
+    ],
+    [
+      0.000354,
+      "Setup historical-webware: EmailErrors                     = False"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000336,
+      "Setup historical-webware: EnterDebuggerOnException        = False"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000640,
+      "Setup historical-webware: ErrorEmailHeaders               = {'To': ['webware@mydomain'], 'Reply-To': 'webware@mydomain', 'Content-Type': 'text/html', 'From': 'webware@mydomain', 'Subject': 'Error'}\r\n"
+    ],
+    [
+      0.000170,
+      "Setup historical-webware: ErrorEmailServer                = localhost\r\n"
+    ],
+    [
+      0.000303,
+      "Setup historical-webware: ErrorLogFilename                = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app/Logs/Errors.csv"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000279,
+      "Setup historical-webware: ErrorMessagesDir                = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app/ErrorMsgs"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.000245,
+      "Setup historical-webware: ErrorPage                       = None"
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "Setup historical-webware: ExtensionCascadeOrder           = ['.py', '.psp', '.kid', '.html']"
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.000279,
+      "Setup historical-webware: ExtensionsToIgnore              = set(['.tmpl~', '.pyc', '.py_bak', '.bak', '.pyo', '.html~', '.kid~', '.psp~', '.tmpl', '.py~'])\r\n"
+    ],
+    [
+      0.000192,
+      "Setup historical-webware: ExtensionsToServe               = []\r\n"
+    ],
+    [
+      0.000175,
+      "Setup historical-webware: ExtraPathInfo                   = True\r\n"
+    ],
+    [
+      0.000198,
+      "Setup historical-webware: FancyTracebackContext           = 5\r\n"
+    ],
+    [
+      0.000308,
+      "Setup historical-webware: FilesToHide                     = set(['*.pyo', '.*', '__init__.*', '*.bak', '*~', '*.pyc', '*.py_bak', '*.tmpl', '*.config'])\r\n"
+    ],
+    [
+      0.000219,
+      "Setup historical-webware: FilesToServe                    = []\r\n"
+    ],
+    [
+      0.000390,
+      "Setup historical-webware: IgnoreInvalidSession            = True\r\n"
+    ],
+    [
+      0.000206,
+      "Setup historical-webware: IncludeEditLink                 = True\r\n"
+    ],
+    [
+      0.000145,
+      "Setup historical-webware: IncludeFancyTraceback           = False\r\n"
+    ],
+    [
+      0.000134,
+      "Setup historical-webware: LogActivity                     = True"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000336,
+      "Setup historical-webware: LogErrors                       = True"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000249,
+      "Setup historical-webware: MaxValueLengthInExceptionReport = 500"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000260,
+      "Setup historical-webware: PrintConfigAtStartUp            = True"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000439,
+      "Setup historical-webware: RPCExceptionReturn              = traceback\r\n"
+    ],
+    [
+      0.000134,
+      "Setup historical-webware: ReportRPCExceptionsInWebKit     = True"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000393,
+      "Setup historical-webware: SaveErrorMessages               = True\r\n"
+    ],
+    [
+      0.000167,
+      "Setup historical-webware: SecureSessionCookie             = True\r\n"
+    ],
+    [
+      0.000160,
+      "Setup historical-webware: SessionCookiePath               = None\r\n"
+    ],
+    [
+      0.000167,
+      "Setup historical-webware: SessionModule                   = Session\r\n"
+    ],
+    [
+      0.000352,
+      "Setup historical-webware: SessionName                     = _SID_\r\n"
+    ],
+    [
+      0.000074,
+      "Setup historical-webware: SessionPrefix                   = "
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000309,
+      "Setup historical-webware: SessionStore                    = Dynamic\r\n"
+    ],
+    [
+      0.000203,
+      "Setup historical-webware: SessionStoreDir                 = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app/Sessions\r\n"
+    ],
+    [
+      0.000116,
+      "Setup historical-webware: SessionTimeout                  = 60"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "Setup historical-webware: ShowDebugInfoOnErrors           = True"
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.000335,
+      "Setup historical-webware: UnknownFileTypes                = {'MaxCacheContentSize': 131072, 'Technique': 'serveContent', 'ReadBufferSize': 32768, 'CacheContent': False, 'ReuseServlets': True}\r\nSetup historical-webware: UseAutomaticPathSessions        = False"
+    ],
+    [
+      0.000552,
+      "\r\nSetup historical-webware: UseCascadingExtensions          = True\r\nSetup historical-webware: UseCookieSessions               = True"
+    ],
+    [
+      0.000688,
+      "\r\nSetup historical-webware: UserErrorMessage                = The site is having technical difficulties with this page. An error has been logged, and the problem will be fixed as soon as possible. Sorry!\r\nSetup historical-webware: WebKitPath                      = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/WebKit"
+    ],
+    [
+      0.000457,
+      "\r\nSetup historical-webware: WebwarePath                     = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1\r\nSetup historical-webware: serverSidePath                  = /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app\r\n"
+    ],
+    [
+      0.000194,
+      "Setup historical-webware: \r\n"
+    ],
+    [
+      0.100822,
+      "Setup historical-webware: Loading context: default at Context"
+    ],
+    [
+      0.000264,
+      "\r\n"
+    ],
+    [
+      0.000347,
+      "Setup historical-webware: Session sweeper has started."
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.032174,
+      "Setup historical-webware: Plug-ins list: /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/CGIWrapper, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/COMKit, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/KidKit, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/MiddleKit, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/MiscUtils, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/PSP, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/TaskKit, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/UserKit, /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/WebUtils"
+    ],
+    [
+      0.000435,
+      "\r\n"
+    ],
+    [
+      0.000446,
+      "Setup historical-webware: Loading plug-in: CGIWrapper at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/CGIWrapper"
+    ],
+    [
+      0.000563,
+      "\r\n"
+    ],
+    [
+      0.000446,
+      "Setup historical-webware: Loading plug-in: COMKit at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/COMKit"
+    ],
+    [
+      0.000388,
+      "\r\n"
+    ],
+    [
+      0.016292,
+      "Setup historical-webware:     Plug-in /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/COMKit cannot be loaded because:"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000316,
+      "Setup historical-webware:     The pythoncom module (pywin32 library) is required to use COMKit."
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000527,
+      "Setup historical-webware: Loading plug-in: KidKit at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/KidKit"
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.016478,
+      "Setup historical-webware:     Plug-in /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/KidKit cannot be loaded because:"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000532,
+      "Setup historical-webware:     The kid package is required to use KidKit.\r\n"
+    ],
+    [
+      0.000287,
+      "Setup historical-webware: Loading plug-in: MiddleKit at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/MiddleKit"
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.007828,
+      "Setup historical-webware: Loading plug-in: MiscUtils at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/MiscUtils\r\n"
+    ],
+    [
+      0.001496,
+      "Setup historical-webware: Loading plug-in: PSP at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/PSP"
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.101195,
+      "Setup historical-webware: Loading plug-in: TaskKit at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/TaskKit\r\n"
+    ],
+    [
+      0.000183,
+      "Setup historical-webware: Loading plug-in: UserKit at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/UserKit\r\n"
+    ],
+    [
+      0.000087,
+      "Setup historical-webware: Loading plug-in: WebUtils at /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/WebUtils"
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "Setup historical-webware: "
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.132989,
+      "Setup historical-webware: ImportSpy activated."
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.050459,
+      "Setup historical-webware: FAM not available, fall back to polling."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000266,
+      "Setup historical-webware: AutoReload Monitor started, polling every 1 seconds."
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "Setup historical-webware: Creating 10 threads.........."
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000264,
+      "Setup historical-webware: Listening for Adapter on 127.0.0.1:8086"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "Setup historical-webware: Warning: /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app/adapter.address already exists"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.032176,
+      "Setup historical-webware: Listening for HTTP on 127.0.0.1:8080\r\n"
+    ],
+    [
+      0.000435,
+      "Setup historical-webware: Warning: /FrameworkBenchmarks/frameworks/Python/historical/webware/Webware-1.1.1/app/http.address already exists"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000672,
+      "Setup historical-webware: Ready (1.13 seconds after launch).\r\n"
+    ],
+    [
+      0.000792,
+      "Setup historical-webware: Bound port detected on 8080\r\n"
+    ],
+    [
+      0.000553,
+      "INFO:root:Executed webware/setup.sh, returning 0\r\n"
+    ],
+    [
+      0.000275,
+      "INFO:root:Sleeping 10 seconds to ensure framework is ready\r\n"
+    ],
+    [
+      0.000276,
+      "Server historical-webware: \r\n"
+    ],
+    [
+      10.007507,
+      "INFO:root:Verifying framework URLs\r\n"
+    ],
+    [
+      0.000268,
+      "Accessing URL http://127.0.0.1:8080/json2:\r\n"
+    ],
+    [
+      0.049451,
+      "Server historical-webware:     4  2015-04-24 01:08:18  /json2"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.033789,
+      "Server historical-webware:     4              61 msec  /json2"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000437,
+      "Server historical-webware: "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.020674,
+      "  Response (trimmed to 40 bytes): \"{\"message\": \"Hello, World!\"}\"\r\n"
+    ],
+    [
+      0.000489,
+      "   \u001b[33mWARN\u001b[0m for http://127.0.0.1:8080/json2\r\n\r\n"
+    ],
+    [
+      0.000048,
+      "     Required response header missing."
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "     See http://frameworkbenchmarks.readthedocs.org/en/latest/Project-Information/Framework-Tests/#specific-test-requirements"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "Accessing URL http://127.0.0.1:8080/plaintext:"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.010178,
+      "Server historical-webware:     5  2015-04-24 01:08:18  /json2"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "Server historical-webware:     5               4 msec  /json2"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "Server historical-webware: "
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.015825,
+      "Server historical-webware:     6  2015-04-24 01:08:18  /plaintext"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.003672,
+      "Server historical-webware:     6               7 msec  /plaintext"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "Server historical-webware: "
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.022707,
+      "  Response (trimmed to 40 bytes): \"Hello, World!\"\r\n"
+    ],
+    [
+      0.000396,
+      "   \u001b[33mWARN\u001b[0m for http://127.0.0.1:8080/plaintext\r\n\r\n     Required response header missing.\r\n     See http://frameworkbenchmarks.readthedocs.org/en/latest/Project-Information/Framework-Tests/#specific-test-requirements\r\n\r\n"
+    ],
+    [
+      0.008911,
+      "Server historical-webware:     7  2015-04-24 01:08:18  /plaintext"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000328,
+      "Server historical-webware:     7               3 msec  /plaintext"
+    ],
+    [
+      0.000310,
+      "\r\n"
+    ],
+    [
+      0.000407,
+      "Server historical-webware: "
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.011949,
+      "historical-webware: webware/setup.sh and framework processes have terminated"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.005335,
+      "Server historical-webware: Framework processes have terminated\r\n"
+    ],
+    [
+      20.032807,
+      "verify: 100% |###############################################################| Rough Time: 00:00:43\r\n"
+    ],
+    [
+      0.147952,
+      "WARNING:root:Framework historical does not define a default test in benchmark_config.json\r\n"
+    ],
+    [
+      0.023157,
+      "\u001b[36m================================================================================\r\n\u001b[36m  Verification Summary\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[36m\r\n\u001b[36m| Test: historical-webware"
+    ],
+    [
+      0.000339,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "\u001b[36m|       plaintext   : \u001b[33mWARN"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000249,
+      "\u001b[36m|       json        : \u001b[33mWARN\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[36m================================================================================\r\n"
+    ],
+    [
+      0.000270,
+      "\u001b[0m"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "Time to complete: 53 seconds\r\n"
+    ],
+    [
+      0.000012,
+      "Results are saved in results/ec2/20150424010744"
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.003708,
+      "\u001b[0m"
+    ],
+    [
+      0.002230,
+      "\u001b]0;vagrant@TFB-all: ~/FrameworkBenchmarks\u0007vagrant@TFB-all:~/FrameworkBenchmarks$ "
+    ],
+    [
+      1.674477,
+      "e"
+    ],
+    [
+      0.159370,
+      "x"
+    ],
+    [
+      0.128510,
+      "i"
+    ],
+    [
+      0.072377,
+      "t"
+    ],
+    [
+      0.128686,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
