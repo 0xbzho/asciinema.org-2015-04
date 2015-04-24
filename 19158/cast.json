@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 95.724353,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.063690,
+      "\u001b]0;\u0007\u001b[?1034h\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.685045,
+      "c"
+    ],
+    [
+      0.067977,
+      "a"
+    ],
+    [
+      0.111990,
+      "t"
+    ],
+    [
+      0.269983,
+      " "
+    ],
+    [
+      0.228001,
+      "c"
+    ],
+    [
+      0.075018,
+      "o"
+    ],
+    [
+      0.118000,
+      "m"
+    ],
+    [
+      0.133984,
+      "m"
+    ],
+    [
+      0.140015,
+      "ands.meta "
+    ],
+    [
+      0.735001,
+      "\r\n"
+    ],
+    [
+      0.001057,
+      "echo $HISTCONTROL\r\nps -p $$ -o args\r\nexport HISTCONTROL=ignoreboth\r\ngrep -v ^# /etc/syslog.conf\r\nwho -uH\r\nnetstat -Aan | grep LISTEN\r\nnetstat -plantu\r\ndf -tg $(lsvgfs rootvg)\r\n"
+    ],
+    [
+      0.001056,
+      "\u001b]0;\u0007"
+    ],
+    [
+      0.003858,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.755009,
+      "p"
+    ],
+    [
+      0.064058,
+      "w"
+    ],
+    [
+      0.099920,
+      "d"
+    ],
+    [
+      0.238071,
+      "\r\n/home/daixtr\r\n\u001b]0;\u0007"
+    ],
+    [
+      0.003944,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      2.656024,
+      "\r\n\u001b]0;\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.292012,
+      "c"
+    ],
+    [
+      0.066999,
+      "a"
+    ],
+    [
+      0.116970,
+      "t"
+    ],
+    [
+      0.112003,
+      " "
+    ],
+    [
+      0.269003,
+      "b"
+    ],
+    [
+      0.046019,
+      "i"
+    ],
+    [
+      0.072017,
+      "n"
+    ],
+    [
+      0.125035,
+      "/"
+    ],
+    [
+      0.313976,
+      "m"
+    ],
+    [
+      0.070007,
+      "e"
+    ],
+    [
+      0.095004,
+      "t"
+    ],
+    [
+      0.100017,
+      "a.sh "
+    ],
+    [
+      0.574998,
+      "\r\n"
+    ],
+    [
+      0.001005,
+      "#!/bin/sh\r\n#\r\n\r\nF=/home/daixtr/commands.meta\r\ncount=0\r\nwhile read x;do\r\n    echo -n $x | tmux loadb -b x$count -\r\n    count=$((count+1))\r\ndone \u003c $F\r\n"
+    ],
+    [
+      0.001923,
+      "\u001b]0;\u0007"
+    ],
+    [
+      0.003988,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      13.257016,
+      "c"
+    ],
+    [
+      0.076063,
+      "a"
+    ],
+    [
+      0.104947,
+      "t"
+    ],
+    [
+      0.173002,
+      " "
+    ],
+    [
+      0.282984,
+      "b"
+    ],
+    [
+      0.048043,
+      "i"
+    ],
+    [
+      0.087578,
+      "n"
+    ],
+    [
+      0.186412,
+      "/"
+    ],
+    [
+      0.479965,
+      ":"
+    ],
+    [
+      0.212991,
+      ":"
+    ],
+    [
+      0.511163,
+      "\r\n"
+    ],
+    [
+      0.000978,
+      "#!/bin/sh\r\n#\r\nif [ $# -gt 0 ];then\r\n    sessname=$1\r\nfi\r\n\r\nif [ ! -z $sessname ];then\r\n    tmux new -s $sessname -d\r\n    . /home/daixtr/bin/meta.sh\r\n    tmux attach\r\nelse\r\n    count=$(tmux ls 2\u003e/dev/null | wc -l)\r\n    if [ $count -gt 1 ];then\r\n        tmux ls\r\n        read -p 'session? ' session\r\n        tmux attach -t $session\r\n    elif [ $count -eq 1 ];then\r\n        tmux attach\r\n    else\r\n        #echo \"There are no sessions.\"\r\n        tmux new\r\n    fi \r\nfi\r\n"
+    ],
+    [
+      0.000957,
+      "\u001b]0;\u0007"
+    ],
+    [
+      0.003901,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      15.616015,
+      "t"
+    ],
+    [
+      0.061994,
+      "m"
+    ],
+    [
+      0.125033,
+      "u"
+    ],
+    [
+      0.195955,
+      "x"
+    ],
+    [
+      0.151995,
+      " "
+    ],
+    [
+      1.408058,
+      "n"
+    ],
+    [
+      0.093987,
+      "e"
+    ],
+    [
+      0.045962,
+      "w"
+    ],
+    [
+      0.976979,
+      " "
+    ],
+    [
+      0.103029,
+      "-"
+    ],
+    [
+      0.252005,
+      "s"
+    ],
+    [
+      0.095017,
+      " "
+    ],
+    [
+      1.167021,
+      "m"
+    ],
+    [
+      0.067982,
+      "a"
+    ],
+    [
+      0.071002,
+      "i"
+    ],
+    [
+      0.080022,
+      "n"
+    ],
+    [
+      0.308949,
+      " "
+    ],
+    [
+      0.109989,
+      "-"
+    ],
+    [
+      0.290082,
+      "d"
+    ],
+    [
+      1.426980,
+      "\r\n"
+    ],
+    [
+      0.028164,
+      "\u001b]0;\u0007"
+    ],
+    [
+      0.002953,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      3.981043,
+      "m"
+    ],
+    [
+      0.156060,
+      "e"
+    ],
+    [
+      0.445920,
+      "t"
+    ],
+    [
+      0.294000,
+      "a"
+    ],
+    [
+      0.641081,
+      "."
+    ],
+    [
+      0.190916,
+      "sh "
+    ],
+    [
+      0.885556,
+      "\r\n"
+    ],
+    [
+      0.021347,
+      "\u001b]0;\u0007"
+    ],
+    [
+      0.003979,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.283986,
+      "t"
+    ],
+    [
+      0.061939,
+      "m"
+    ],
+    [
+      0.114984,
+      "u"
+    ],
+    [
+      0.213020,
+      "x"
+    ],
+    [
+      0.113000,
+      " "
+    ],
+    [
+      0.184032,
+      "a"
+    ],
+    [
+      0.074019,
+      "t"
+    ],
+    [
+      0.148007,
+      "t"
+    ],
+    [
+      0.147009,
+      "a"
+    ],
+    [
+      0.119933,
+      "c"
+    ],
+    [
+      0.093987,
+      "h"
+    ],
+    [
+      0.502099,
+      "\r\n"
+    ],
+    [
+      0.007978,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[2;1H\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\u001b(B\u001b[m\u001b[K\r\n\u001b[31m└\u001b[32m \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                       \u001b[30m\u001b[46m\u001b[1m0:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                        \u001b[36m \u001b(B\u001b[m\u001b[1;1H\u001b[1;30r\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.626024,
+      "\u001b[?25l\u001b[2;1H\u001b[30m\u001b[43m(0)  x7: 23 bytes: df -tg $(lsvgfs rootvg)                                                                             \u001b(B\u001b[m\u001b[K\r\n(1)  x6: 15 bytes: netstat -plantu                                                                                     \u001b[K\r\n(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \u001b[K\r\n(3)  x4: 7 bytes: who -uH                                                                                              \u001b[K\r\n(4)  x3: 27 bytes: grep -v ^# /etc/syslog.conf                                                                         \u001b[K\r\n(5)  x2: 29 bytes: export HISTCONTROL=ignoreboth                                                                       \u001b[K\r\n(6)  x1: 16 bytes: ps -p $$ -o args                                                                                    \u001b[K\r\n(7)  x0: 17 bytes: echo $HISTCONTROL                                                                                   \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K"
+    ],
+    [
+      0.204992,
+      "\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                      \u001b[30m\u001b[46m\u001b[1m0:[tmux]*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                       \u001b[36m \u001b(B\u001b[m\u001b[30;120H"
+    ],
+    [
+      0.758930,
+      "\u001b[2;30r\u001b[H\u001b[2B\u001b[30m\u001b[43m(1)  x6: 15 bytes: netstat -plantu                                                                                     \u001b[2;1H\u001b[39m\u001b[49m(0)  x7: 23 bytes: df -tg $(lsvgfs rootvg)                                                                             \u001b[1;30r\u001b[H\u001b[2;120H"
+    ],
+    [
+      0.271077,
+      "\u001b[2;30r\u001b[H\u001b[3B\u001b[30m\u001b[43m(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \u001b[3;1H\u001b[39m\u001b[49m(1)  x6: 15 bytes: netstat -plantu                                                                                     \u001b[1;30r\u001b[H\u001b[3;120H"
+    ],
+    [
+      0.322962,
+      "\u001b[2;30r\u001b[H\u001b[4B\u001b[30m\u001b[43m(3)  x4: 7 bytes: who -uH                                                                                              \u001b[4;1H\u001b[39m\u001b[49m(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \u001b[1;30r\u001b[H\u001b[4;120H"
+    ],
+    [
+      0.261989,
+      "\u001b[2;30r\u001b[H\u001b[5B\u001b[30m\u001b[43m(4)  x3: 27 bytes: grep -v ^# /etc/syslog.conf                                                                         \u001b[5;1H\u001b[39m\u001b[49m(3)  x4: 7 bytes: who -uH                                                                                              \u001b[1;30r\u001b[H\u001b[5;120H"
+    ],
+    [
+      0.235975,
+      "\u001b[2;30r\u001b[H\u001b[6B\u001b[30m\u001b[43m(5)  x2: 29 bytes: export HISTCONTROL=ignoreboth                                                                       \u001b[6;1H\u001b[39m\u001b[49m(4)  x3: 27 bytes: grep -v ^# /etc/syslog.conf                                                                         \u001b[1;30r\u001b[H\u001b[6;120H"
+    ],
+    [
+      0.229055,
+      "\u001b[2;30r\u001b[H\u001b[7B\u001b[30m\u001b[43m(6)  x1: 16 bytes: ps -p $$ -o args                                                                                    \u001b[7;1H\u001b[39m\u001b[49m(5)  x2: 29 bytes: export HISTCONTROL=ignoreboth                                                                       \u001b[1;30r\u001b[H\u001b[7;120H"
+    ],
+    [
+      0.277001,
+      "\u001b[2;30r\u001b[H\u001b[6B\u001b[30m\u001b[43m(5)  x2: 29 bytes: export HISTCONTROL=ignoreboth                                                                       \r\n\u001b[39m\u001b[49m(6)  x1: 16 bytes: ps -p $$ -o args                                                                                    \u001b[1;30r\u001b[H\u001b[8;120H"
+    ],
+    [
+      0.165008,
+      "\u001b[2;30r\u001b[H\u001b[5B\u001b[30m\u001b[43m(4)  x3: 27 bytes: grep -v ^# /etc/syslog.conf                                                                         \r\n\u001b[39m\u001b[49m(5)  x2: 29 bytes: export HISTCONTROL=ignoreboth                                                                       \u001b[1;30r\u001b[H\u001b[7;120H"
+    ],
+    [
+      0.141945,
+      "\u001b[2;30r\u001b[H\u001b[4B\u001b[30m\u001b[43m(3)  x4: 7 bytes: who -uH                                                                                              \r\n\u001b[39m\u001b[49m(4)  x3: 27 bytes: grep -v ^# /etc/syslog.conf                                                                         \u001b[1;30r\u001b[H\u001b[6;120H"
+    ],
+    [
+      0.149000,
+      "\u001b[2;30r\u001b[H\u001b[3B\u001b[30m\u001b[43m(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \r\n\u001b[39m\u001b[49m(3)  x4: 7 bytes: who -uH                                                                                              \u001b[1;30r\u001b[H\u001b[5;120H"
+    ],
+    [
+      0.168074,
+      "\u001b[2;30r\u001b[H\u001b[2B\u001b[30m\u001b[43m(1)  x6: 15 bytes: netstat -plantu                                                                                     \r\n\u001b[39m\u001b[49m(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \u001b[1;30r\u001b[H\u001b[4;120H"
+    ],
+    [
+      1.439009,
+      "\u001b[2;1H\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\u001b(B\u001b[m\u001b[K\r\n\u001b[31m└\u001b[32m \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.086948,
+      "\u001b[?25l\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                       \u001b[30m\u001b[46m\u001b[1m0:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                        \u001b[36m \u001b(B\u001b[m\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.753950,
+      "\u001b[?25l\u001b[2;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                   \u001b[37m0:bash-\u001b[34m \u001b[30m\u001b[46m\u001b[1m1:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                    \u001b[36m \u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066054,
+      "\u001b[2;30r\u001b[H\r\n\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\r\n└\u001b[32m \u001b[1;30r\u001b[H\u001b[3;3H\u001b(B\u001b[m"
+    ],
+    [
+      2.029196,
+      "\u001b[37m\u001b[40m\u001b[16;1H─────────────────────────────────────────────────────────────\u001b[31m───────────────────────────────────────────────────────────\u001b[?25l\u001b[2;1H\u001b(B\u001b[m\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\u001b(B\u001b[m\u001b[K\r\n\u001b[31m└\u001b[32m \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                   \u001b[37m0:bash-\u001b[34m \u001b[30m\u001b[46m\u001b[1m1:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                    \u001b[36m \u001b(B\u001b[m\u001b[17;1H\u001b[?12l\u001b[?25h\u001b[3d\u001b[K\u001b[2;15r\u001b[H\u001b[2B\u001b[31m└\u001b[32m \u001b[1;30r\u001b[H\u001b[17d\u001b(B\u001b[m"
+    ],
+    [
+      0.110933,
+      "\u001b[17;30r\u001b[H\u001b[17d\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\r\n└\u001b[32m \u001b[1;30r\u001b[H\u001b[18;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.862952,
+      "\u001b[?25l\u001b[17;1H\u001b[30m\u001b[43m(0)  x7: 23 bytes: df -tg $(lsvgfs rootvg)                                                                             \u001b(B\u001b[m\u001b[K\r\n(1)  x6: 15 bytes: netstat -plantu                                                                                     \u001b[K\r\n(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \u001b[K\r\n(3)  x4: 7 bytes: who -uH                                                                                              \u001b[K\r\n(4)  x3: 27 bytes: grep -v ^# /etc/syslog.conf                                                                         \u001b[K\r\n(5)  x2: 29 bytes: export HISTCONTROL=ignoreboth                                                                       \u001b[K\r\n(6)  x1: 16 bytes: ps -p $$ -o args                                                                                    \u001b[K\r\n(7)  x0: 17 bytes: echo $HISTCONTROL                                                                                   \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K\r\n                                                                                                                       \u001b[K"
+    ],
+    [
+      0.437078,
+      "\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                  \u001b[37m0:bash-\u001b[34m \u001b[30m\u001b[46m\u001b[1m1:[tmux]*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                   \u001b[36m \u001b(B\u001b[m\u001b[30;120H"
+    ],
+    [
+      0.142046,
+      "\u001b[17;30r\u001b[H\u001b[18d\u001b[30m\u001b[43m(1)  x6: 15 bytes: netstat -plantu                                                                                     \u001b[17;1H\u001b[39m\u001b[49m(0)  x7: 23 bytes: df -tg $(lsvgfs rootvg)                                                                             \u001b[1;30r\u001b[H\u001b[17;120H"
+    ],
+    [
+      0.187921,
+      "\u001b[17;30r\u001b[H\u001b[19d\u001b[30m\u001b[43m(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \u001b[18;1H\u001b[39m\u001b[49m(1)  x6: 15 bytes: netstat -plantu                                                                                     \u001b[1;30r\u001b[H\u001b[18;120H"
+    ],
+    [
+      0.181001,
+      "\u001b[17;30r\u001b[H\u001b[20d\u001b[30m\u001b[43m(3)  x4: 7 bytes: who -uH                                                                                              \u001b[19;1H\u001b[39m\u001b[49m(2)  x5: 26 bytes: netstat -Aan | grep LISTEN                                                                          \u001b[1;30r\u001b[H\u001b[19;120H"
+    ],
+    [
+      0.181986,
+      "\u001b[17;30r\u001b[H\u001b[21d\u001b[30m\u001b[43m(4)  x3: 27 bytes: grep -v ^# /etc/syslog.conf                                                                         \u001b[20;1H\u001b[39m\u001b[49m(3)  x4: 7 bytes: who -uH                                                                                              \u001b[1;30r\u001b[H\u001b[20;120H"
+    ],
+    [
+      0.485960,
+      "\u001b[17;1H\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\u001b(B\u001b[m\u001b[K\r\n\u001b[31m└\u001b[32m \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[18;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.323041,
+      "\u001b[?25l\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                   \u001b[37m0:bash-\u001b[34m \u001b[30m\u001b[46m\u001b[1m1:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                    \u001b[36m \u001b(B\u001b[m\u001b[18;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.574078,
+      "\u001b[17;30r\u001b[H\u001b[18;3H\u001b[32me\u001b[1;30r\u001b[H\u001b[18;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.093946,
+      "\u001b[17;30r\u001b[H\u001b[18;4H\u001b[32mx\u001b[1;30r\u001b[H\u001b[18;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.244005,
+      "\u001b[17;30r\u001b[H\u001b[18;5H\u001b[32mi\u001b[1;30r\u001b[H\u001b[18;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.094042,
+      "\u001b[17;30r\u001b[H\u001b[18;6H\u001b[32mt\u001b[1;30r\u001b[H\u001b[18;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.199642,
+      "\u001b[17;30r\u001b[H\u001b[19d\u001b[32mlogout\u001b[1;30r\u001b[H\u001b[20d\u001b(B\u001b[m\u001b[?25l\u001b[2d\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\u001b(B\u001b[m\u001b[K\r\n\u001b[31m└\u001b[32m \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                   \u001b[37m0:bash-\u001b[34m \u001b[30m\u001b[46m\u001b[1m1:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                    \u001b[36m \u001b(B\u001b[m\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001352,
+      "\r\u001b[K\u001b[2;30r\u001b[H\u001b[2B\u001b[31m└\u001b[32m \u001b[1;30r\u001b[H\u001b[3;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.287925,
+      "\u001b[2;30r\u001b[H\u001b[3;3H\u001b[32me\u001b[1;30r\u001b[H\u001b[3;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.039006,
+      "\u001b[2;30r\u001b[H\u001b[3;4H\u001b[32mx\u001b[1;30r\u001b[H\u001b[3;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.228000,
+      "\u001b[2;30r\u001b[H\u001b[3;5H\u001b[32mi\u001b[1;30r\u001b[H\u001b[3;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.101995,
+      "\u001b[2;30r\u001b[H\u001b[3;6H\u001b[32mt\u001b[1;30r\u001b[H\u001b[3;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.223304,
+      "\u001b[2;30r\u001b[H\u001b[3B\u001b[32mlogout\u001b[1;30r\u001b[H\u001b[4B\u001b(B\u001b[m\u001b[?25l\u001b[2d\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\u001b(B\u001b[m\u001b[K\r\n\u001b[31m└\u001b[32m \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                       \u001b[30m\u001b[46m\u001b[1m0:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                        \u001b[36m \u001b(B\u001b[m\u001b[3;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.553200,
+      "\u001b[2;30r\u001b[H\u001b[3;3H\u001b[32me\u001b[1;30r\u001b[H\u001b[3;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.039484,
+      "\u001b[2;30r\u001b[H\u001b[3;4H\u001b[32mx\u001b[1;30r\u001b[H\u001b[3;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.227961,
+      "\u001b[2;30r\u001b[H\u001b[3;5H\u001b[32mi\u001b[1;30r\u001b[H\u001b[3;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.070926,
+      "\u001b[2;30r\u001b[H\u001b[3;6H\u001b[32mt\u001b[1;30r\u001b[H\u001b[3;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.288344,
+      "\u001b[2;30r\u001b[H\u001b[3B\u001b[32mlogout\u001b[1;30r\u001b[H\u001b[4B\u001b(B\u001b[m"
+    ],
+    [
+      0.001263,
+      "\u001b[1;30r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l[exited]\r\n\u001b]0;\u0007"
+    ],
+    [
+      0.007388,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      2.183024,
+      "t"
+    ],
+    [
+      0.062024,
+      "m"
+    ],
+    [
+      0.083898,
+      "u"
+    ],
+    [
+      0.189087,
+      "x"
+    ],
+    [
+      0.080998,
+      " "
+    ],
+    [
+      0.053002,
+      "l"
+    ],
+    [
+      0.220003,
+      "s"
+    ],
+    [
+      0.246011,
+      "\r\n"
+    ],
+    [
+      0.003012,
+      "failed to connect to server: Connection refused\r\n\u001b]0;\u0007"
+    ],
+    [
+      0.003968,
+      "\u001b[0;31m┌─[\u001b[1;31m1\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.160965,
+      "c"
+    ],
+    [
+      0.071974,
+      "l"
+    ],
+    [
+      0.116056,
+      "e"
+    ],
+    [
+      0.026939,
+      "a"
+    ],
+    [
+      0.129034,
+      "r"
+    ],
+    [
+      0.252996,
+      "\r\n"
+    ],
+    [
+      0.001041,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000931,
+      "\u001b]0;\u0007\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      0.337026,
+      "c"
+    ],
+    [
+      0.085077,
+      "a"
+    ],
+    [
+      0.132933,
+      "t"
+    ],
+    [
+      0.088964,
+      " "
+    ],
+    [
+      0.154010,
+      "b"
+    ],
+    [
+      0.075057,
+      "i"
+    ],
+    [
+      0.067946,
+      "n"
+    ],
+    [
+      0.116989,
+      "/"
+    ],
+    [
+      0.615064,
+      ":"
+    ],
+    [
+      0.172003,
+      ":"
+    ],
+    [
+      0.256003,
+      "\r\n"
+    ],
+    [
+      0.001158,
+      "#!/bin/sh\r\n#\r\nif [ $# -gt 0 ];then\r\n    sessname=$1\r\nfi\r\n\r\nif [ ! -z $sessname ];then\r\n    tmux new -s $sessname -d\r\n    . /home/daixtr/bin/meta.sh\r\n    tmux attach\r\nelse\r\n    count=$(tmux ls 2\u003e/dev/null | wc -l)\r\n    if [ $count -gt 1 ];then\r\n        tmux ls\r\n        read -p 'session? ' session\r\n        tmux attach -t $session\r\n    elif [ $count -eq 1 ];then\r\n        tmux attach\r\n    else\r\n        #echo \"There are no sessions.\"\r\n        tmux new\r\n    fi \r\nfi\r\n\u001b]0;\u0007"
+    ],
+    [
+      0.004838,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      1.821084,
+      ":"
+    ],
+    [
+      0.323930,
+      ":"
+    ],
+    [
+      0.534960,
+      "\r\n"
+    ],
+    [
+      0.024238,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[2;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[H\u001b[36m\u001b[40m \u001b[34m                                                       \u001b[30m\u001b[46m\u001b[1m0:bash*\u001b(B\u001b[m\u001b[34m\u001b[40m                                                        \u001b[36m \u001b(B\u001b[m\u001b[1;1H\u001b[1;30r\r\n\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.129804,
+      "\u001b[2;30r\u001b[H\r\n\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\r\n└\u001b[32m \u001b[1;30r\u001b[H\u001b[3;3H\u001b(B\u001b[m"
+    ],
+    [
+      4.327981,
+      "\u001b[2;30r\u001b[H\u001b[3B\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\r\n└\u001b[32m \u001b[1;30r\u001b[H\u001b[5;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.277030,
+      "\u001b[2;30r\u001b[H\u001b[5B\u001b[31m┌─[\u001b[1m0\u001b(B\u001b[m\u001b[31m]─[daixtr\u001b[34m\u001b[1m@\u001b(B\u001b[m\u001b[31m:\u001b[34m\u001b[1m~\u001b(B\u001b[m\u001b[31m]\r\n└\u001b[32m \u001b[1;30r\u001b[H\u001b[7;3H\u001b(B\u001b[m"
+    ],
+    [
+      1.596994,
+      "\u001b[2;30r\u001b[H\u001b[7;3H\u001b[32me\u001b[1;30r\u001b[H\u001b[7;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.085956,
+      "\u001b[2;30r\u001b[H\u001b[7;4H\u001b[32mx\u001b[1;30r\u001b[H\u001b[7;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.267997,
+      "\u001b[2;30r\u001b[H\u001b[7;5H\u001b[32mi\u001b[1;30r\u001b[H\u001b[7;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.119033,
+      "\u001b[2;30r\u001b[H\u001b[7;6H\u001b[32mt\u001b[1;30r\u001b[H\u001b[7;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.374036,
+      "\u001b[2;30r\u001b[H\u001b[7B\u001b[32mlogout\u001b[1;30r\u001b[H\u001b[8B\u001b(B\u001b[m\u001b[1;30r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l[exited]\r\n\u001b]0;\u0007"
+    ],
+    [
+      0.005923,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[daixtr\u001b[1;34m@\u001b[0;31m\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]\r\r\n\u001b[0;31m└\u001b[0m\u001b[0;32m "
+    ],
+    [
+      3.054996,
+      "e"
+    ],
+    [
+      0.064029,
+      "x"
+    ],
+    [
+      0.252001,
+      "i"
+    ],
+    [
+      0.118002,
+      "t"
+    ],
+    [
+      0.476431,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
