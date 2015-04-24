@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 28,
+  "duration": 12.388805,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005826,
+      "\u001b[?1034h[centos6:~]$ "
+    ],
+    [
+      2.686084,
+      "l"
+    ],
+    [
+      0.056096,
+      "s"
+    ],
+    [
+      0.111822,
+      "\r\n"
+    ],
+    [
+      0.002952,
+      "ascii.sh\tDocuments    more3.csv\tmore8.csv  Pictures\t    Videos\r\nclusterConfDir\tDownloads    more4.csv\tmore.csv   pivotal-samples\r\ndata\t\tgpAdminLogs  more6.csv\tMusic\t   Public\r\nDesktop\t\tmore2.csv    more7.csv\tnew1.csv   Templates\r\n[centos6:~]$ "
+    ],
+    [
+      1.854265,
+      "m"
+    ],
+    [
+      0.066948,
+      "o"
+    ],
+    [
+      0.034023,
+      "r"
+    ],
+    [
+      0.112033,
+      "e"
+    ],
+    [
+      0.078877,
+      " "
+    ],
+    [
+      0.191146,
+      "m"
+    ],
+    [
+      0.079001,
+      "o"
+    ],
+    [
+      0.066969,
+      "r"
+    ],
+    [
+      0.056946,
+      "e"
+    ],
+    [
+      1.597039,
+      "3"
+    ],
+    [
+      0.124051,
+      "."
+    ],
+    [
+      0.292971,
+      "c"
+    ],
+    [
+      0.123795,
+      "s"
+    ],
+    [
+      0.078144,
+      "v"
+    ],
+    [
+      0.078845,
+      "\r\n"
+    ],
+    [
+      0.003972,
+      "8282288817,16635083876,1058507,Hanging Cabinet 24\"X12\"X35\",49902661,80,Shipped,2010\r\n-10-06 14:47:26,2010-10-10 15:37:47,,,13,Home Improvement,FreeReplacement,17.80281,\r\n1,258.95,0.05000,None,0.00000,2540 Bay 25th Street,,,HARDWICK,MN,56134,USA,(761)702\r\n-7483,Adrianne Fahey,Adrianne.Fahey@rapradar.com,OS45606-460220-04-02661,http://myr\r\netailsite.emc.com/product_detail/Home_Improvement/?tps=rprpspriis\u0026sessionid=OS45606\r\n-460220-04-02661\u0026ref=oaazejjm\u0026sku=1058507\r\n8259414766,16533356956,1670899,Fauré: Requiem, Op. 48; Pelléas et Mélisande, Suite,\r\n Op. 80; Pavane, Op. 50,38020925,46,Prep,2010-10-06 13:17:21,2010-10-12 13:10:16,,,\r\n56,Music,FreeReplacement,0.20760,1,3.46,0.05000,BOGO-PDX,0.50000,6174 TANQUAY,,,GOO\r\nDING,ID,83330,USA,(609)123-6909,Angelique Solares,Angelique.Solares@gorillaserver.n\r\net,OS71555-047480-06-20925,http://myretailsite.emc.com/product_detail/Music/?tps=ri\r\nukkurrsq\u0026sessionid=OS71555-047480-06-20925\u0026ref=pyzezaes\u0026sku=1670899\r\n8192396507,16228273363,1106989,Model WD-810 CGA580 X CGA320 Brass Cylinder Adapter,\r\n31659330,24,Shipped,2010-10-02 11:39:47,2010-10-04 08:11:56,,,13,Home Improvement,F\r\nreeReplacement,0.93445,1,16.99,0.09500,HOLIDAY,0.15000,6211 Verona Place,,ATTN: Aft\r\non Plasencia,ELDORADO,OH,45321,USA,(318)525-2505,Afton Plasencia,Afton.Plasencia@wa\r\ntchthisletme.com,OS52296-210734-06-59330,http://myretailsite.emc.com/product_detail\r\n/Home_Improvement/?tps=lqpupvlqui\u0026sessionid=OS52296-210734-06-59330\u0026ref=pmjsappz\u0026sk\r\nu=1106989\r\n6644014601,13233926986,1192144,Steelhead STL11 Staple 18ga 1/4\" x 3/4\" Galvanized 5\r\n000 count,41688415,45,Shipped,2010-10-01 10:17:27,2010-10-04 17:51:47,2010-10-25 14\r\n:41:29,,13,Home Improvement,COD,0.73450,1,14.69,0.11000,HOLIDAY,0.15000,3896 CHIMNE\r\nY FLATS,Apt 13,,NORTH AMITY,ME,04471,USA,(180)828-0817,Joetta Lodge,Joetta.Lodge@hu\r\ng2.biz,OS71390-468033-06-88415,http://myretailsite.emc.com/product_detail/Home_Impr\r\novement/?tps=urvssqqkli\u0026sessionid=OS71390-468033-06-88415\u0026ref=omjyyoms\u0026sku=1192144\r\n8192396507,16228273360,1683406,Live at The Fillmore Auditorium 10/16/66: Early \u0026 La\r\n"
+    ],
+    [
+      0.001096,
+      "te Shows: Grace's Debut,31659330,24,Shipped,2010-10-02 11:39:47,2010-10-05 22:51:54\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.445149,
+      "\r,,,56,Music,FreeReplacement,0.47190,1,8.58,0.12500,BOGO-PDX,0.50000,6211 Verona Pla\r\nce,,ATTN: Afton Plasencia,ELDORADO,OH,45321,USA,(318)525-2505,Afton Plasencia,Afton\r\n.Plasencia@watchthisletme.com,OS52296-210734-06-59330,http://myretailsite.emc.com/p\r\nroduct_detail/Music/?tps=lqpupvlqui\u0026sessionid=OS52296-210734-06-59330\u0026ref=pmjsappz\u0026\r\nsku=1683406\r\n8192396507,16228273361,1704596,Death of a Minor TV Celebrity,31659330,24,Shipped,20\r\n10-10-02 11:39:47,2010-10-04 01:32:48,,,56,Music,FreeReplacement,0.65890,1,11.98,0.\r\n05000,BOGO-PDX,0.50000,6211 Verona Place,,ATTN: Afton Plasencia,ELDORADO,OH,45321,U\r\nSA,(318)525-2505,Afton Plasencia,Afton.Plasencia@watchthisletme.com,OS52296-210734-\r\n06-59330,http://myretailsite.emc.com/product_detail/Music/?tps=lqpupvlqui\u0026sessionid\r\n=OS52296-210734-06-59330\u0026ref=pmjsappz\u0026sku=1704596\r\n6616674831,13188574397,1843682,Sweet Dreams: Anthology,34843210,25,Shipper_Notified\r\n,2010-10-01 11:06:47,2010-10-06 03:01:34,,,56,Music,CreditCard,1.53650,1,21.95,0.09\r\n500,None,0.00000,4173 Bergen Street,Apt 7,,ELIZABETHTOWN,IN,47232,USA,(665)166-2049\r\n,Auther Morillo,Auther.Morillo@speedlings.com,OS30620-622927-05-43210,http://myreta\r\nilsite.emc.com/product_detail/Music/?tps=vlqrivvmvv\u0026sessionid=OS30620-622927-05-432\r\n10\u0026ref=poyopemz\u0026sku=1843682\r\n6801517905,13434529249,1088127,Hunley Gantry 12\" Articulated Kitchen Faucet with Pr\r\ne-Rinse Spray Finish: Venetian Bronze,19074647,64,Shipper_Notified,2010-10-01 07:21\r\n:57,2010-10-06 07:03:44,,,13,Home Improvement,FreeReplacement,90.75000,1,1650,0.050\r\n00,None,0.00000,250 18TH,,,PIQUA,OH,45356,USA,(357)946-1601,Kristin Peloquin,Kristi\r\nn.Peloquin@ufc.br,OS74694-597285-07-74647,http://myretailsite.emc.com/product_detai\r\nl/Home_Improvement/?tps=vpsskuvpsm\u0026sessionid=OS74694-597285-07-74647\u0026ref=mazxojox\u0026s\r\nku=1088127\r\n6801517905,13434529253,1358019,Lenox Winter Greetings Trivet,19074647,64,Shipped,20\r\n10-10-01 07:21:57,2010-10-05 20:35:06,,,20,Kitchen,FreeReplacement,0.71225,1,12.95,\r\n0.00000,BOGO-PDX,0.50000,250 18TH,,,PIQUA,OH,45356,USA,(357)946-1601,Kristin Peloqu\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.224941,
+      "\rin,Kristin.Peloquin@ufc.br,OS74694-597285-07-74647,http://myretailsite.emc.com/prod\r\nuct_detail/Kitchen/?tps=vpsskuvpsm\u0026sessionid=OS74694-597285-07-74647\u0026ref=mazxojox\u0026s\r\nku=1358019\r\n8244743046,16635145520,1492822,Economy Pool Cover Pump 500 GPH,30223981,47,Shipper_\r\nNotified,2010-10-06 03:43:29,2010-10-11 12:31:04,,,53,Lawn \u0026 Patio,COD,3.31960,1,82\r\n.99,0.05000,HOLIDAY,0.15000,5978 SHANNON,,,LOCKPORT,LA,70374,USA,(013)170-5290,Garn\r\nett Bacchus,Garnett.Bacchus@actiweb.es,OS99835-564923-07-23981,http://myretailsite.\r\nemc.com/product_detail/Lawn_\u0026_Patio/?tps=viumkkrqpu\u0026sessionid=OS99835-564923-07-239\r\n81\u0026ref=pzeepaym\u0026sku=1492822\r\n6787274955,13575033777,1651666,Come With Us,3725715,62,Shipped,2010-10-01 06:07:41,\r\n2010-10-04 06:51:04,,,56,Music,GiftCertificate,0.95920,1,23.98,0.05000,BOGO-PDX,0.5\r\n0000,2100 Lyme Avenue,,,NORTH SALEM,NY,10560,USA,(641)620-7260,Jarrett Dare,Jarrett\r\n.Dare@newnudecity.com,OS31744-594876-04-25715,http://myretailsite.emc.com/product_d\r\netail/Music/?tps=uvmiqvplkp\u0026sessionid=OS31744-594876-04-25715\u0026ref=pxesxms\u0026sku=16516\r\n66\r\n8192396507,16228273362,879962,Naruto Uncut Boxed Set, Volume 1 (2005),31659330,24,S\r\nhipped,2010-10-02 11:39:47,2010-10-06 06:17:04,,,52,DVD,FreeReplacement,0.16500,1,3\r\n,0.00000,HOLIDAY,0.15000,6211 Verona Place,,ATTN: Afton Plasencia,ELDORADO,OH,45321\r\n,USA,(318)525-2505,Afton Plasencia,Afton.Plasencia@watchthisletme.com,OS52296-21073\r\n4-06-59330,http://myretailsite.emc.com/product_detail/DVD/?tps=lqpupvlqui\u0026sessionid\r\n=OS52296-210734-06-59330\u0026ref=pmjsappz\u0026sku=879962\r\n8244743046,16635145521,1103985,Carrand (CRD40125) 1 Pack Microfiber Suede Polish Cl\r\noth 16\" x 16\",30223981,47,Prep,2010-10-06 03:43:29,2010-10-09 11:37:04,,,13,Home Im\r\nprovement,COD,0.08560,1,2.14,0.05000,BOGO-PDX,0.50000,5978 SHANNON,,,LOCKPORT,LA,70\r\n374,USA,(013)170-5290,Garnett Bacchus,Garnett.Bacchus@actiweb.es,OS99835-564923-07-\r\n23981,http://myretailsite.emc.com/product_detail/Home_Improvement/?tps=viumkkrqpu\u0026s\r\nessionid=OS99835-564923-07-23981\u0026ref=pzeepaym\u0026sku=1103985\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.501078,
+      "\r8301232229,16656776041,1398711,Kathy Ireland Home by Martin Hudson Street 60-1/2-In\r\nch Full-Sized Tall Entertainment TV Console; 36-Inch Height,21686552,41,Shipped,201\r\n0-10-06 10:33:40,2010-10-11 00:02:16,,,20,Kitchen,GiftCertificate,27.96000,1,699,0.\r\n00000,BOGO-PDX,0.50000,617 1st Court,,,HIAWASSEE,GA,30546,USA,(557)559-7962,Marci D\r\nenis,Marci.Denis@nimbuzzia.com,OS89018-028278-06-86552,http://myretailsite.emc.com/\r\nproduct_detail/Kitchen/?tps=kmrisuslu\u0026sessionid=OS89018-028278-06-86552\u0026ref=emjyjss\r\ne\u0026sku=1398711\r\n8301232229,16656776044,1634828,Giants Of The Blues Tenor Sax/Giants Of The Funk Ten\r\nor Sax,21686552,41,Shipped,2010-10-06 10:33:40,2010-10-09 05:41:12,,,56,Music,GiftC\r\nertificate,0.69120,1,17.28,0.00000,BOGO-PDX,0.50000,617 1st Court,,,HIAWASSEE,GA,30\r\n546,USA,(557)559-7962,Marci Denis,Marci.Denis@nimbuzzia.com,OS89018-028278-06-86552\r\n,http://myretailsite.emc.com/product_detail/Music/?tps=kmrisuslu\u0026sessionid=OS89018-\r\n028278-06-86552\u0026ref=emjyjsse\u0026sku=1634828\r\n8301232229,16656776042,1032514,iWorship Resource System H,21686552,41,Shipped,2010-\r\n10-06 10:33:40,2010-10-09 11:44:31,,,52,DVD,GiftCertificate,0.36000,1,9,0.05000,HOL\r\nIDAY,0.15000,617 1st Court,,,HIAWASSEE,GA,30546,USA,(557)559-7962,Marci Denis,Marci\r\n.Denis@nimbuzzia.com,OS89018-028278-06-86552,http://myretailsite.emc.com/product_de\r\ntail/DVD/?tps=kmrisuslu\u0026sessionid=OS89018-028278-06-86552\u0026ref=emjyjsse\u0026sku=1032514\r\n8301232229,16656776043,1666736,Jig It in Style,21686552,41,Shipped,2010-10-06 10:33\r\n:40,2010-10-10 03:54:29,,,56,Music,GiftCertificate,0.27920,1,6.98,0.05000,BOGO-PDX,\r\n0.50000,617 1st Court,,,HIAWASSEE,GA,30546,USA,(557)559-7962,Marci Denis,Marci.Deni\r\ns@nimbuzzia.com,OS89018-028278-06-86552,http://myretailsite.emc.com/product_detail/\r\nMusic/?tps=kmrisuslu\u0026sessionid=OS89018-028278-06-86552\u0026ref=emjyjsse\u0026sku=1666736\r\n8160521050,16334702943,1125514,Elements of Design ES3798PXBS Restoration 8\" Center \r\nKitchen Faucet with Brass Sprayer, Satin Nickel,54299676,42,Shipped,2010-10-02 16:0\r\n6:26,2010-10-05 10:26:59,,,13,Home Improvement,FreeReplacement,21.44820,1,357.47,0.\r\n05000,BOGO-PDX,0.50000,8601 GLENRIDGE,,ATTN: Alesha Fazio,MALONE,FL,32445,USA,(162)\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.033001,
+      "\r313-2046,Alesha Fazio,Alesha.Fazio@89890.com,OS77839-356778-04-99676,http://myretai\r\nlsite.emc.com/product_detail/Home_Improvement/?tps=pipmimvkri\u0026sessionid=OS77839-356\r\n778-04-99676\u0026ref=soeaajxj\u0026sku=1125514\r\n8161010807,16462656442,1440447,Blue Wave In-Ground Pool Alarm with Remote Receiver,\r\n11409497,52,Shipped,2010-10-02 12:16:14,2010-10-05 21:22:40,,,53,Lawn \u0026 Patio,Credi\r\nt,14.69160,1,209.88,0.09500,HOLIDAY,0.15000,8305 WHALEBACK MOUNTAIN,,,HOUSTON,MS,38\r\n851,USA,(794)598-4686,Evangelina Jayne,Evangelina.Jayne@dkpopnews.net,OS67596-56256\r\n2-05-09497,http://myretailsite.emc.com/product_detail/Lawn_\u0026_Patio/?tps=rvqllprk\u0026se\r\nssionid=OS67596-562562-05-09497\u0026ref=mmozaoax\u0026sku=1440447\r\n8184484988,16478462932,867443,Kathy Smith's Latin Rhythm Workout,24272975,35,Shippe\r\nd,2010-10-07 03:55:31,2010-10-10 15:36:49,,,52,DVD,FreeReplacement,0.15600,1,2.6,0.\r\n09500,None,0.00000,6065 BEANS BIGHT,Apt 19,ATTN: Shelley Craighead,DES MOINES,IA,50\r\n320,USA,(754)439-2708,Shelley Craighead,Shelley.Craighead@bigmuscle.com,OS41777-694\r\n994-05-72975,http://myretailsite.emc.com/product_detail/DVD/?tps=qqmpkpvvsr\u0026session\r\nid=OS41777-694994-05-72975\u0026ref=eoexeaxs\u0026sku=867443\r\n8161010807,16462656443,864403,Lethal Weapon/Lethal Weapon 2/Lethal Weapon 3,1140949\r\n7,52,Shipped,2010-10-02 12:16:14,2010-10-07 06:11:57,2010-10-19 01:34:50,,52,DVD,Cr\r\nedit,0.13930,1,1.99,0.00000,BOGO-PDX,0.50000,8305 WHALEBACK MOUNTAIN,,,HOUSTON,MS,3\r\n8851,USA,(794)598-4686,Evangelina Jayne,Evangelina.Jayne@dkpopnews.net,OS67596-5625\r\n62-05-09497,http://myretailsite.emc.com/product_detail/DVD/?tps=rvqllprk\u0026sessionid=\r\nOS67596-562562-05-09497\u0026ref=mmozaoax\u0026sku=864403\r\n8184484988,16478462930,1350115,Perlick Freestanding 15 Inch Beer Dispenser With Sol\r\nid Stainless Door Hinge Left,24272975,35,Shipped,2010-10-07 03:55:31,2010-10-11 02:\r\n01:37,,,20,Kitchen,FreeReplacement,197.94000,1,3299,0.09500,None,0.00000,6065 BEANS\r\n BIGHT,Apt 19,ATTN: Shelley Craighead,DES MOINES,IA,50320,USA,(754)439-2708,Shelley\r\n Craighead,Shelley.Craighead@bigmuscle.com,OS41777-694994-05-72975,http://myretails\r\nite.emc.com/product_detail/Kitchen/?tps=qqmpkpvvsr\u0026sessionid=OS41777-694994-05-7297\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.034019,
+      "\r5\u0026ref=eoexeaxs\u0026sku=1350115\r\n8184484988,16478462931,1362645,Soft Silky Satin Solid Pearl White 4 Pieces Deep Poc\r\nket Sheet Set for King Size Bed,24272975,35,Shipped,2010-10-07 03:55:31,2010-10-07 \r\n21:55:45,,,20,Kitchen,FreeReplacement,1.49940,1,24.99,0.05000,HOLIDAY,0.15000,6065 \r\nBEANS BIGHT,Apt 19,ATTN: Shelley Craighead,DES MOINES,IA,50320,USA,(754)439-2708,Sh\r\nelley Craighead,Shelley.Craighead@bigmuscle.com,OS41777-694994-05-72975,http://myre\r\ntailsite.emc.com/product_detail/Kitchen/?tps=qqmpkpvvsr\u0026sessionid=OS41777-694994-05\r\n-72975\u0026ref=eoexeaxs\u0026sku=1362645\r\n8184484988,16478462929,853433,Assault On Precinct 13,24272975,35,Shipped,2010-10-07\r\n 03:55:31,2010-10-11 09:18:31,,,52,DVD,FreeReplacement,0.60000,1,10,0.05000,None,0.\r\n00000,6065 BEANS BIGHT,Apt 19,ATTN: Shelley Craighead,DES MOINES,IA,50320,USA,(754)\r\n439-2708,Shelley Craighead,Shelley.Craighead@bigmuscle.com,OS41777-694994-05-72975,\r\nhttp://myretailsite.emc.com/product_detail/DVD/?tps=qqmpkpvvsr\u0026sessionid=OS41777-69\r\n4994-05-72975\u0026ref=eoexeaxs\u0026sku=853433\r\n8184484988,16478462934,1991059,Trifecta Management Swivel - Upholstered Arms Finish\r\n: Walnut, Fabric: Royalty - Merlot,24272975,35,Shipped,2010-10-07 03:55:31,2010-10-\r\n10 17:17:39,,,33,Office Product,FreeReplacement,72.66000,1,1211,0.00000,BOGO-PDX,0.\r\n50000,6065 BEANS BIGHT,Apt 19,ATTN: Shelley Craighead,DES MOINES,IA,50320,USA,(754)\r\n439-2708,Shelley Craighead,Shelley.Craighead@bigmuscle.com,OS41777-694994-05-72975,\r\nhttp://myretailsite.emc.com/product_detail/Office_Product/?tps=qqmpkpvvsr\u0026sessionid\r\n=OS41777-694994-05-72975\u0026ref=eoexeaxs\u0026sku=1991059\r\n8182055287,16351295836,548854,We Need to Talk About Kevin,45841981,51,Shipped,2010-\r\n10-02 18:23:46,2010-10-05 13:21:42,,,26,Book,CreditCard,2.21700,1,36.95,0.05000,BOG\r\nO-PDX,0.50000,5186 CHURCH,,ATTN: Bryant Lacour,EAST MONTPELIER,VT,05651,USA,(350)58\r\n7-2305,Bryant Lacour,Bryant.Lacour@accessup.org,OS12076-982560-06-41981,http://myre\r\ntailsite.emc.com/product_detail/Book/?tps=pmpvkqumrs\u0026sessionid=OS12076-982560-06-41\r\n981\u0026ref=osyomaym\u0026sku=548854\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.033825,
+      "\r6616674831,13188574399,1651856,In Memory of Celtic Frost,34843210,25,Shipped,2010-1\r\n0-01 11:06:47,2010-10-05 07:40:22,,,56,Music,CreditCard,0.10290,1,1.47,0.05000,None\r\n,0.00000,4173 Bergen Street,Apt 7,,ELIZABETHTOWN,IN,47232,USA,(665)166-2049,Auther \r\nMorillo,Auther.Morillo@speedlings.com,OS30620-622927-05-43210,http://myretailsite.e\r\nmc.com/product_detail/Music/?tps=vlqrivvmvv\u0026sessionid=OS30620-622927-05-43210\u0026ref=p\r\noyopemz\u0026sku=1651856\r\n8282165327,16462444751,1849468,Teenagers,48688156,36,Shipper_Notified,2010-10-06 01\r\n:50:17,2010-10-10 04:14:11,,,56,Music,CreditCard,0.69383,1,8.41,0.00000,BOGO-PDX,0.\r\n50000,7514 SENECA,,ATTN: Lynette Griner,FREMONT,CA,94538,USA,(554)463-9520,Lynette \r\nGriner,Lynette.Griner@hifivision.com,OS22116-188600-06-88156,http://myretailsite.em\r\nc.com/product_detail/Music/?tps=qpuppkvuku\u0026sessionid=OS22116-188600-06-88156\u0026ref=oy\r\njyymsj\u0026sku=1849468\r\n8184484988,16478462933,1423469,Lafuma Siesta Sun Chaise Lounge` Recliner - Forest C\r\nolor,24272975,35,Shipped,2010-10-07 03:55:31,2010-10-10 23:33:41,,,53,Lawn \u0026 Patio,\r\nFreeReplacement,11.70000,1,195,0.05000,HOLIDAY,0.15000,6065 BEANS BIGHT,Apt 19,ATTN\r\n: Shelley Craighead,DES MOINES,IA,50320,USA,(754)439-2708,Shelley Craighead,Shelley\r\n.Craighead@bigmuscle.com,OS41777-694994-05-72975,http://myretailsite.emc.com/produc\r\nt_detail/Lawn_\u0026_Patio/?tps=qqmpkpvvsr\u0026sessionid=OS41777-694994-05-72975\u0026ref=eoexeax\r\ns\u0026sku=1423469\r\n8182055287,16351295837,1313341,Jolee's Boutique Dimensional Stickers - Birthday Dri\r\nnks,45841981,51,Shipped,2010-10-02 18:23:46,2010-10-05 06:54:39,,,20,Kitchen,Credit\r\nCard,0.14280,1,2.38,0.00000,HOLIDAY,0.15000,5186 CHURCH,,ATTN: Bryant Lacour,EAST M\r\nONTPELIER,VT,05651,USA,(350)587-2305,Bryant Lacour,Bryant.Lacour@accessup.org,OS120\r\n76-982560-06-41981,http://myretailsite.emc.com/product_detail/Kitchen/?tps=pmpvkqum\r\nrs\u0026sessionid=OS12076-982560-06-41981\u0026ref=osyomaym\u0026sku=1313341\r\n8209790379,16529081964,648660,Hitachi Interactive Whiteboard FX-TRIO-77,15141103,44\r\n,Shipped,2010-10-02 13:32:32,2010-10-04 19:44:33,,,15,CE,Credit,140.16750,1,1699,0.\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.034211,
+      "\r05000,HOLIDAY,0.15000,250 QUAIL HILL,,,HURON,CA,93234,USA,(738)408-3097,Haleigh Van\r\nsickle,Haleigh.Vansickle@rentimm.info,OS47168-781951-07-41103,http://myretailsite.e\r\nmc.com/product_detail/CE/?tps=srvkuppsvr\u0026sessionid=OS47168-781951-07-41103\u0026ref=msmo\r\nmmzp\u0026sku=648660\r\n8455842996,16865080377,1131214,Black \u0026 Decker HPB18 18-Volt Slide-Pack Battery,2165\r\n1480,45,Shipped,2010-10-03 23:30:46,2010-10-08 05:42:38,,,13,Home Improvement,Credi\r\ntCard,1.62500,1,26,0.00000,BOGO-PDX,0.50000,5973 GRAYSON,,,BROCKTON,MA,02402,USA,(3\r\n38)173-9687,Codie Hirsch,Codie.Hirsch@telusmobility.com,OS99785-305342-06-51480,htt\r\np://myretailsite.emc.com/product_detail/Home_Improvement/?tps=mksullqvmi\u0026sessionid=\r\nOS99785-305342-06-51480\u0026ref=emjsmoyz\u0026sku=1131214\r\n8221212884,16487003130,1220599,12X16 inch Van Gogh Canvas Art Repro Red Poppies and\r\n Daisies,15538403,44,Shipped,2010-10-07 05:28:17,2010-10-12 15:28:02,,,20,Kitchen,F\r\nreeReplacement,1.67790,1,23.97,0.05000,BOGO-PDX,0.50000,9182 PETERSON,,,OCEAN SPRIN\r\nGS,MS,39564,USA,(555)176-9427,Rochelle Coakley,Rochelle.Coakley@alfaris.net,OS69673\r\n-598193-07-38403,http://myretailsite.emc.com/product_detail/Kitchen/?tps=vvpspipklu\r\n\u0026sessionid=OS69673-598193-07-38403\u0026ref=msspyozp\u0026sku=1220599\r\n8221212884,16487003129,1468586,KEESHOND Circle Swirly Metal Wind Spinner,15538403,4\r\n4,Shipper_Notified,2010-10-07 05:28:17,2010-10-08 19:21:45,,,53,Lawn \u0026 Patio,FreeRe\r\nplacement,1.74650,1,24.95,0.00000,BOGO-PDX,0.50000,9182 PETERSON,,,OCEAN SPRINGS,MS\r\n,39564,USA,(555)176-9427,Rochelle Coakley,Rochelle.Coakley@alfaris.net,OS69673-5981\r\n93-07-38403,http://myretailsite.emc.com/product_detail/Lawn_\u0026_Patio/?tps=vvpspipklu\r\n\u0026sessionid=OS69673-598193-07-38403\u0026ref=msspyozp\u0026sku=1468586\r\n8247402966,16393702708,1127829,Newborn DC012 Precision Seal Non-Drip Caulking Gun,2\r\n5027160,82,Shipped,2010-10-06 16:01:11,2010-10-09 15:05:57,,,13,Home Improvement,Gi\r\nftCertificate,0.06549,1,1.55,0.09500,BOGO-PDX,0.50000,9371 Sidney Place,,ATTN: Arli\r\nne Richert,POLK,MO,65727,USA,(824)516-7599,Arline Richert,Arline.Richert@file-exten\r\nsions.org,OS59755-980352-06-27160,http://myretailsite.emc.com/product_detail/Home_I\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.032896,
+      "\rmprovement/?tps=lmskulquvq\u0026sessionid=OS59755-980352-06-27160\u0026ref=eszexmjz\u0026sku=11278\r\n29\r\n8159475203,16251530482,1833573,The Romantic Violin,7216475,56,Shipped,2010-10-02 12\r\n:56:41,2010-10-05 12:37:56,,,56,Music,FreeReplacement,0.15900,1,2.65,0.00000,None,0\r\n.00000,9969 Russell Street,,ATTN: Clovis Rood,MOUNT HOLLY SPRI,PA,17065,USA,(513)57\r\n0-2368,Clovis Rood,Clovis.Rood@trumpia.com,OS31992-450704-07-16475,http://myretails\r\nite.emc.com/product_detail/Music/?tps=plsmiimrks\u0026sessionid=OS31992-450704-07-16475\u0026\r\nref=xemjoxs\u0026sku=1833573\r\n8247402966,16393702706,808111,How the Earth Was Made: Complete Season 2 [Blu-ray],2\r\n5027160,82,Shipped,2010-10-06 16:01:11,2010-10-08 09:50:28,,,52,DVD,GiftCertificate\r\n,1.56283,1,36.99,0.05000,None,0.00000,9371 Sidney Place,,ATTN: Arline Richert,POLK,\r\nMO,65727,USA,(824)516-7599,Arline Richert,Arline.Richert@file-extensions.org,OS5975\r\n5-980352-06-27160,http://myretailsite.emc.com/product_detail/DVD/?tps=lmskulquvq\u0026se\r\nssionid=OS59755-980352-06-27160\u0026ref=eszexmjz\u0026sku=808111\r\n6616674831,13188574398,1996549,Synthetic Black Leather Limited Edition Travel Profe\r\nssional Portfolio Cover Carrying Case For Samsung P1000 Galaxy Tablet Powerd by And\r\nroid 7-Inch Touchscreen + Includes a eBigValue (TM) Determination Hand Strap,348432\r\n10,25,Shipped,2010-10-01 11:06:47,2010-10-05 00:09:15,,,33,Office Product,CreditCar\r\nd,1.22430,1,17.49,0.05000,BOGO-PDX,0.50000,4173 Bergen Street,Apt 7,,ELIZABETHTOWN,\r\nIN,47232,USA,(665)166-2049,Auther Morillo,Auther.Morillo@speedlings.com,OS30620-622\r\n927-05-43210,http://myretailsite.emc.com/product_detail/Office_Product/?tps=vlqrivv\r\nmvv\u0026sessionid=OS30620-622927-05-43210\u0026ref=poyopemz\u0026sku=1996549\r\n8247402966,16393702707,1845406,Cow Girl Bookmark,25027160,82,Shipper_Notified,2010-\r\n10-06 16:01:11,2010-10-10 22:11:55,,,33,Office Product,GiftCertificate,0.08408,1,1.\r\n99,0.00000,BOGO-PDX,0.50000,9371 Sidney Place,,ATTN: Arline Richert,POLK,MO,65727,U\r\nSA,(824)516-7599,Arline Richert,Arline.Richert@file-extensions.org,OS59755-980352-0\r\n6-27160,http://myretailsite.emc.com/product_detail/Office_Product/?tps=lmskulquvq\u0026s\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.035014,
+      "\ressionid=OS59755-980352-06-27160\u0026ref=eszexmjz\u0026sku=1845406\r\n8242345972,16594176151,1376025,New Trademark Bud Light 60 Inch 3 Shade Billiard Poo\r\nl Table Lamp Hanging Chains Chrome Support,28277896,48,Shipper_Notified,2010-10-07 \r\n06:02:55,2010-10-08 13:11:37,,,20,Kitchen,Credit,8.09900,1,161.98,0.15500,None,0.00\r\n000,5812 6th Avenue,,,RINCON,NM,87940,USA,(398)624-3624,Napoleon Dabbs,Napoleon.Dab\r\nbs@wiigen.fr,OS02761-315317-06-77896,http://myretailsite.emc.com/product_detail/Kit\r\nchen/?tps=ruivrvmmvi\u0026sessionid=OS02761-315317-06-77896\u0026ref=eyexxyaj\u0026sku=1376025\r\n8299054876,16529229795,1294589,Foremost DKH10222-FMCD Sheridan Desk, Walnut,2269542\r\n,56,Shipped,2010-10-06 05:40:51,2010-10-09 03:28:32,,,20,Kitchen,Credit,10.43000,1,\r\n149,0.05000,None,0.00000,3448 HAGAN,,,WHITEHOUSE STATI,NJ,08889,USA,(535)745-9827,J\r\navon Arana,Javon.Arana@mozillazine.org,OS11665-082443-04-69542,http://myretailsite.\r\nemc.com/product_detail/Kitchen/?tps=rimrrliuum\u0026sessionid=OS11665-082443-04-69542\u0026re\r\nf=eejasoe\u0026sku=1294589\r\n8242345972,16594176150,983143,BOSCH 85262C 13/16-Inch Diameter 5/8-Inch Cut Carbide\r\n Tipped Double Flute Straight Router Bit 1/4-Inch Shank,28277896,48,Shipped,2010-10\r\n-07 06:02:55,2010-10-09 23:46:21,,,13,Home Improvement,Credit,0.74900,1,14.98,0.050\r\n00,BOGO-PDX,0.50000,5812 6th Avenue,,,RINCON,NM,87940,USA,(398)624-3624,Napoleon Da\r\nbbs,Napoleon.Dabbs@wiigen.fr,OS02761-315317-06-77896,http://myretailsite.emc.com/pr\r\noduct_detail/Home_Improvement/?tps=ruivrvmmvi\u0026sessionid=OS02761-315317-06-77896\u0026ref\r\n=eyexxyaj\u0026sku=983143\r\n5867702755,11878040154,1063522,KLEIN TOOLS 96615BLKM Klein Tools Black Long Sleeve \r\nT-Shirt (SIZE MEDIUM),5536170,43,Shipped,2010-10-05 08:26:12,2010-10-07 23:49:07,,,\r\n13,Home Improvement,Credit,1.04400,1,17.4,0.05000,BOGO-PDX,0.50000,2928 EMILE,,,WAU\r\nKON,IA,52172,USA,(107)821-8754,Andrae Roman,Andrae.Roman@delivery.net,OS59544-74222\r\n1-06-36170,http://myretailsite.emc.com/product_detail/Home_Improvement/?tps=upsqvrq\r\nlmq\u0026sessionid=OS59544-742221-06-36170\u0026ref=sspjmxz\u0026sku=1063522\r\n5867702755,11878040155,1831670,Rosso Relativo,5536170,43,Shipped,2010-10-05 08:26:1\r\n\u001b[7m--More--(0%)\u001b[27m"
+    ],
+    [
+      0.410001,
+      "\r\u001b[K[centos6:~]$ "
+    ],
+    [
+      0.472015,
+      "\r\n[centos6:~]$ "
+    ],
+    [
+      2.429583,
+      "exit\r\n"
+    ]
+  ]
+}
