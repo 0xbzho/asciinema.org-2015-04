@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "width": 239,
+  "height": 61,
+  "duration": 9.610289,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.064574,
+      "\u001b[01;32malex93ushakov@acer\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.731710,
+      "b"
+    ],
+    [
+      0.263903,
+      "l"
+    ],
+    [
+      0.543937,
+      "a"
+    ],
+    [
+      0.299384,
+      " "
+    ],
+    [
+      1.116286,
+      "b"
+    ],
+    [
+      0.188278,
+      "l"
+    ],
+    [
+      0.464159,
+      "a"
+    ],
+    [
+      0.451097,
+      " "
+    ],
+    [
+      0.339339,
+      "b"
+    ],
+    [
+      0.188112,
+      "l"
+    ],
+    [
+      0.148323,
+      "a"
+    ],
+    [
+      1.362437,
+      "\r\n"
+    ],
+    [
+      0.896385,
+      "No command 'bla' found, did you mean:\r\n Command 'bls' from package 'bacula-sd' (main)\r\n"
+    ],
+    [
+      0.000012,
+      " Command 'boa' from package 'boa' (universe)\r\n Command 'bld' from package 'bld' (universe)\r\n Command 'tla' from package 'tla' (universe)\r\n Command 'bwa' from package 'bwa' (universe)\r\n Command 'blam' from package 'blam' (universe)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "bla: command not found\r\n"
+    ],
+    [
+      0.030198,
+      "\u001b[01;32malex93ushakov@acer\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.521855,
+      "exit\r\n"
+    ]
+  ]
+}
