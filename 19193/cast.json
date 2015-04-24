@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 99,
+  "height": 50,
+  "duration": 0.295895,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.090756,
+      "\u001b]0;itszn@ubuntu: ~/MBE/p2\u0007itszn@ubuntu:~/MBE/p2$ "
+    ],
+    [
+      0.205100,
+      "exit\r\n"
+    ]
+  ]
+}
