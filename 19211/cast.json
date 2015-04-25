@@ -1,0 +1,6766 @@
+{
+  "version": 1,
+  "width": 129,
+  "height": 33,
+  "duration": 482.495697,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.789774,
+      "[Oh My Zsh] Would you like to check for updates?\r\nType Y to update oh-my-zsh: "
+    ],
+    [
+      3.987636,
+      "N"
+    ],
+    [
+      0.408885,
+      "\r\n"
+    ],
+    [
+      0.853197,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000103,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001575,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000212,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000326,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001353,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      10.759192,
+      "g"
+    ],
+    [
+      0.000361,
+      "\u0008gc"
+    ],
+    [
+      0.000347,
+      "l"
+    ],
+    [
+      0.000192,
+      "o"
+    ],
+    [
+      0.000184,
+      "u"
+    ],
+    [
+      0.000172,
+      "d"
+    ],
+    [
+      0.000784,
+      " "
+    ],
+    [
+      0.000155,
+      "a"
+    ],
+    [
+      0.000101,
+      "l"
+    ],
+    [
+      0.000101,
+      "p"
+    ],
+    [
+      0.000100,
+      "h"
+    ],
+    [
+      0.000105,
+      "a"
+    ],
+    [
+      0.000374,
+      " "
+    ],
+    [
+      0.000104,
+      "c"
+    ],
+    [
+      0.000108,
+      "o"
+    ],
+    [
+      0.000108,
+      "n"
+    ],
+    [
+      0.000097,
+      "t"
+    ],
+    [
+      0.000110,
+      "a"
+    ],
+    [
+      0.000100,
+      "i"
+    ],
+    [
+      0.000104,
+      "n"
+    ],
+    [
+      0.000108,
+      "e"
+    ],
+    [
+      0.000106,
+      "r"
+    ],
+    [
+      0.000424,
+      " "
+    ],
+    [
+      0.000113,
+      "c"
+    ],
+    [
+      0.000101,
+      "l"
+    ],
+    [
+      0.000077,
+      "u"
+    ],
+    [
+      0.000094,
+      "s"
+    ],
+    [
+      0.000099,
+      "t"
+    ],
+    [
+      0.000100,
+      "e"
+    ],
+    [
+      0.000105,
+      "r"
+    ],
+    [
+      0.000095,
+      "s"
+    ],
+    [
+      0.000385,
+      " "
+    ],
+    [
+      0.000093,
+      "c"
+    ],
+    [
+      0.000113,
+      "r"
+    ],
+    [
+      0.000092,
+      "e"
+    ],
+    [
+      0.000109,
+      "a"
+    ],
+    [
+      0.000099,
+      "t"
+    ],
+    [
+      0.000106,
+      "e"
+    ],
+    [
+      0.000366,
+      " "
+    ],
+    [
+      0.000093,
+      "s"
+    ],
+    [
+      0.000110,
+      "l"
+    ],
+    [
+      0.000099,
+      "u"
+    ],
+    [
+      0.000104,
+      "g"
+    ],
+    [
+      0.000361,
+      " "
+    ],
+    [
+      0.000096,
+      "-"
+    ],
+    [
+      0.000157,
+      "-"
+    ],
+    [
+      0.000118,
+      "p"
+    ],
+    [
+      0.000088,
+      "r"
+    ],
+    [
+      0.000126,
+      "o"
+    ],
+    [
+      0.000206,
+      "je"
+    ],
+    [
+      0.000097,
+      "c"
+    ],
+    [
+      0.000102,
+      "t"
+    ],
+    [
+      0.000375,
+      " "
+    ],
+    [
+      0.000096,
+      "s"
+    ],
+    [
+      0.000109,
+      "l"
+    ],
+    [
+      0.000100,
+      "u"
+    ],
+    [
+      0.000101,
+      "g"
+    ],
+    [
+      0.000107,
+      "-"
+    ],
+    [
+      0.000099,
+      "k"
+    ],
+    [
+      0.000105,
+      "8"
+    ],
+    [
+      0.000100,
+      "s"
+    ],
+    [
+      0.000126,
+      "-"
+    ],
+    [
+      0.000077,
+      "d"
+    ],
+    [
+      0.000112,
+      "e"
+    ],
+    [
+      0.000102,
+      "m"
+    ],
+    [
+      0.000104,
+      "o"
+    ],
+    [
+      0.000355,
+      " "
+    ],
+    [
+      0.000094,
+      "-"
+    ],
+    [
+      0.000107,
+      "-"
+    ],
+    [
+      0.000110,
+      "z"
+    ],
+    [
+      0.000098,
+      "o"
+    ],
+    [
+      0.000107,
+      "n"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000359,
+      " "
+    ],
+    [
+      0.000087,
+      "u"
+    ],
+    [
+      0.000119,
+      "s"
+    ],
+    [
+      0.000095,
+      "-"
+    ],
+    [
+      0.000097,
+      "c"
+    ],
+    [
+      0.000098,
+      "e"
+    ],
+    [
+      0.000093,
+      "n"
+    ],
+    [
+      0.000098,
+      "t"
+    ],
+    [
+      0.000099,
+      "r"
+    ],
+    [
+      0.000101,
+      "a"
+    ],
+    [
+      0.000102,
+      "l"
+    ],
+    [
+      0.000102,
+      "1"
+    ],
+    [
+      0.000098,
+      "-"
+    ],
+    [
+      0.000100,
+      "f"
+    ],
+    [
+      0.000376,
+      " "
+    ],
+    [
+      0.000093,
+      "-"
+    ],
+    [
+      0.000098,
+      "-"
+    ],
+    [
+      0.000100,
+      "m"
+    ],
+    [
+      0.000113,
+      "a"
+    ],
+    [
+      0.000100,
+      "c"
+    ],
+    [
+      0.000119,
+      "h"
+    ],
+    [
+      0.000092,
+      "i"
+    ],
+    [
+      0.000108,
+      "n"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000097,
+      "-"
+    ],
+    [
+      0.000097,
+      "t"
+    ],
+    [
+      0.000113,
+      "y"
+    ],
+    [
+      0.000104,
+      "p \r\u001b[K"
+    ],
+    [
+      0.000109,
+      "e"
+    ],
+    [
+      0.000372,
+      "\re "
+    ],
+    [
+      0.000108,
+      "g"
+    ],
+    [
+      0.000119,
+      "1"
+    ],
+    [
+      0.000107,
+      "-"
+    ],
+    [
+      0.000123,
+      "s"
+    ],
+    [
+      0.000076,
+      "m"
+    ],
+    [
+      0.000133,
+      "a"
+    ],
+    [
+      0.000160,
+      "l"
+    ],
+    [
+      0.000019,
+      "l"
+    ],
+    [
+      0.000420,
+      " "
+    ],
+    [
+      0.000099,
+      "-"
+    ],
+    [
+      0.000106,
+      "-"
+    ],
+    [
+      0.000107,
+      "n"
+    ],
+    [
+      0.000106,
+      "u"
+    ],
+    [
+      0.000097,
+      "m"
+    ],
+    [
+      0.000108,
+      "-"
+    ],
+    [
+      0.000094,
+      "n"
+    ],
+    [
+      0.000105,
+      "o"
+    ],
+    [
+      0.000107,
+      "d"
+    ],
+    [
+      0.000094,
+      "e"
+    ],
+    [
+      0.000109,
+      "s"
+    ],
+    [
+      0.000417,
+      " "
+    ],
+    [
+      0.000111,
+      "1"
+    ],
+    [
+      0.000370,
+      " "
+    ],
+    [
+      0.000066,
+      "-"
+    ],
+    [
+      0.000080,
+      "-"
+    ],
+    [
+      0.000155,
+      "n"
+    ],
+    [
+      0.000103,
+      "o"
+    ],
+    [
+      0.000104,
+      "-"
+    ],
+    [
+      0.000114,
+      "e"
+    ],
+    [
+      0.000109,
+      "n"
+    ],
+    [
+      0.000111,
+      "a"
+    ],
+    [
+      0.000104,
+      "b"
+    ],
+    [
+      0.000107,
+      "l"
+    ],
+    [
+      0.000108,
+      "e"
+    ],
+    [
+      0.000103,
+      "-"
+    ],
+    [
+      0.000113,
+      "c"
+    ],
+    [
+      0.000104,
+      "l"
+    ],
+    [
+      0.000098,
+      "o"
+    ],
+    [
+      0.000111,
+      "u"
+    ],
+    [
+      0.000105,
+      "d"
+    ],
+    [
+      0.000108,
+      "-"
+    ],
+    [
+      0.000108,
+      "l"
+    ],
+    [
+      0.000104,
+      "o"
+    ],
+    [
+      0.000103,
+      "g"
+    ],
+    [
+      0.000110,
+      "g"
+    ],
+    [
+      0.000101,
+      "i"
+    ],
+    [
+      0.000108,
+      "n"
+    ],
+    [
+      0.000102,
+      "g"
+    ],
+    [
+      1.773754,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001392,
+      "\u001b[A\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000014,
+      "gcloud alpha container clusters create slug --project slug-k8s-demo --zone us-central1-f --machine-type g1-small --num-nodes 1 --no-enable-cloud-logging\u001b[K"
+    ],
+    [
+      0.000127,
+      "\r\r\n"
+    ],
+    [
+      0.001602,
+      "\u001b]2;gcloud alpha container clusters create slug --project slug-k8s-demo --zone   \u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;gcloud\u0007"
+    ],
+    [
+      2.395022,
+      "Waiting for cluster creation..."
+    ],
+    [
+      1.001269,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000014,
+      "/"
+    ],
+    [
+      1.001118,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001327,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000035,
+      "\\"
+    ],
+    [
+      1.000089,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000020,
+      "|"
+    ],
+    [
+      1.000772,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000040,
+      "/"
+    ],
+    [
+      1.001176,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000187,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001227,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001077,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001156,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000178,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.000281,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000012,
+      "|"
+    ],
+    [
+      1.001046,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000014,
+      "/"
+    ],
+    [
+      1.000134,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001213,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000021,
+      "\\"
+    ],
+    [
+      1.001270,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001065,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000243,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000738,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001140,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001091,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000447,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000992,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.001220,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000933,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.001170,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000734,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000030,
+      "\\"
+    ],
+    [
+      1.001246,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001142,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001015,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      1.001036,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000012,
+      "\\"
+    ],
+    [
+      1.000817,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000020,
+      "|"
+    ],
+    [
+      1.000230,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000020,
+      "/"
+    ],
+    [
+      1.000259,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000020,
+      "-"
+    ],
+    [
+      1.001146,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000646,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000017,
+      "|"
+    ],
+    [
+      1.000382,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.001199,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000187,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000037,
+      "\\"
+    ],
+    [
+      1.000826,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000040,
+      "|"
+    ],
+    [
+      1.001099,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000966,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000303,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000650,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001072,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001218,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001149,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001126,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000971,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      1.001201,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000056,
+      "-"
+    ],
+    [
+      1.000194,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000049,
+      "\\"
+    ],
+    [
+      1.001153,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000412,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001169,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000954,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000812,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000013,
+      "|"
+    ],
+    [
+      1.001278,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000995,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001261,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001118,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000043,
+      "|"
+    ],
+    [
+      1.000245,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001422,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000051,
+      "-"
+    ],
+    [
+      1.001178,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.002737,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000898,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000044,
+      "/"
+    ],
+    [
+      1.001187,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000047,
+      "-"
+    ],
+    [
+      1.000978,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001270,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001146,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000040,
+      "/"
+    ],
+    [
+      1.001141,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001341,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000217,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001142,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001220,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001067,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001199,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001193,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000488,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000791,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000812,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000010,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000016,
+      "/"
+    ],
+    [
+      1.000439,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000042,
+      "-"
+    ],
+    [
+      1.001052,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001140,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000016,
+      "|"
+    ],
+    [
+      1.001197,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000205,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001121,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001218,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000213,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000056,
+      "/"
+    ],
+    [
+      1.001099,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000941,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001254,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001102,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001078,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000953,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000790,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000037,
+      "|"
+    ],
+    [
+      1.001238,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001183,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001011,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.000923,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      1.000529,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000272,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      1.000089,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000010,
+      "\\"
+    ],
+    [
+      1.001248,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000361,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001138,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000565,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000051,
+      "\\"
+    ],
+    [
+      1.001100,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001149,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000408,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      1.000346,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000109,
+      "\\"
+    ],
+    [
+      1.001402,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001161,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001202,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001245,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001185,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001084,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000904,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001311,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001202,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001149,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001066,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001297,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000053,
+      "\\"
+    ],
+    [
+      1.001041,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001179,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000267,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001131,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001171,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001263,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000041,
+      "/"
+    ],
+    [
+      1.001212,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000196,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000036,
+      "\\"
+    ],
+    [
+      1.000323,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001176,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000036,
+      "/"
+    ],
+    [
+      1.001058,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000040,
+      "-"
+    ],
+    [
+      1.001180,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000030,
+      "\\"
+    ],
+    [
+      1.000358,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "|"
+    ],
+    [
+      1.001238,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001142,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001216,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000627,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000053,
+      "|"
+    ],
+    [
+      1.001102,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001133,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001285,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001192,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001083,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001249,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001105,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001214,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001178,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000036,
+      "/"
+    ],
+    [
+      1.001143,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001162,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001046,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000026,
+      "|"
+    ],
+    [
+      1.000481,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000012,
+      "/"
+    ],
+    [
+      1.001302,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000043,
+      "-"
+    ],
+    [
+      1.001202,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000101,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000013,
+      "|"
+    ],
+    [
+      1.000987,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001152,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001137,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001036,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "|"
+    ],
+    [
+      1.000844,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000030,
+      "/"
+    ],
+    [
+      1.000650,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      1.000984,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000309,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001269,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001195,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001152,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001101,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000037,
+      "|"
+    ],
+    [
+      1.001060,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.001255,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001071,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000980,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "|"
+    ],
+    [
+      1.001194,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001108,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001184,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001175,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000471,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000985,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001117,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001083,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001150,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001199,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.001106,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001122,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001195,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000041,
+      "/"
+    ],
+    [
+      1.001082,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000866,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000099,
+      "\\"
+    ],
+    [
+      1.001301,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000427,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000037,
+      "/"
+    ],
+    [
+      1.001220,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000173,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001081,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000032,
+      "|"
+    ],
+    [
+      1.001062,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001183,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000926,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.000476,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000041,
+      "|"
+    ],
+    [
+      1.001132,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000153,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000024,
+      "-"
+    ],
+    [
+      1.001160,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.001118,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.001124,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.000540,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000040,
+      "-"
+    ],
+    [
+      1.000848,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000019,
+      "\\"
+    ],
+    [
+      1.001324,
+      "\rWaiting for cluster creation...|"
+    ],
+    [
+      1.000274,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      1.001170,
+      "\rWaiting for cluster creation...-"
+    ],
+    [
+      1.000065,
+      "\rWaiting for cluster creation...\\"
+    ],
+    [
+      1.000438,
+      "\rWaiting for cluster creation..."
+    ],
+    [
+      0.000020,
+      "|"
+    ],
+    [
+      1.001208,
+      "\rWaiting for cluster creation.../"
+    ],
+    [
+      0.327277,
+      "\rWaiting for cluster creation...done.\r\n"
+    ],
+    [
+      0.606407,
+      "Create cluster succeeded!\r\n\r\n"
+    ],
+    [
+      0.001055,
+      "Using gcloud compute copy-files to fetch ssl certs from cluster master...\r\n"
+    ],
+    [
+      3.645084,
+      "Warning: Permanently added '104.154.80.225' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      10.676318,
+      "\rkubecfg.key                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.516887,
+      "\rkubecfg.key                                                                                    100% 1704     1.7KB/s   00:01    \r\n"
+    ],
+    [
+      7.916579,
+      "Warning: Permanently added '104.154.80.225' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      3.387166,
+      "\rkubecfg.crt                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.374228,
+      "\rkubecfg.crt                                                                                    100% 4429     4.3KB/s   00:00    "
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      1.447780,
+      "Warning: Permanently added '104.154.80.225' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      3.476964,
+      "\rca.crt                                                                                           0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.601520,
+      "\rca.crt                                                                                         100% 1229     1.2KB/s   00:01    \r\n"
+    ],
+    [
+      0.282164,
+      "kubeconfig entry generated for slug. To use standalone kubectl with\r\nthis cluster, run\r\n\r\n$ export KUBECONFIG=/Users/adieu/.config/gcloud/kubernetes/kubeconfig\r\n$ kubectl config use-context gke_slug-k8s-demo_us-central1-f_slug\r\n\r\n"
+    ],
+    [
+      0.003559,
+      "clusterApiVersion: 0.15.0\r\n"
+    ],
+    [
+      0.000598,
+      "containerIpv4Cidr: 10.192.0.0/14\r\n"
+    ],
+    [
+      0.000624,
+      "creationTimestamp: '2015-04-25T17:27:39+00:00'\r\n"
+    ],
+    [
+      0.000559,
+      "enableCloudLogging: false\r\n"
+    ],
+    [
+      0.000608,
+      "endpoint: 104.154.80.225\r\n"
+    ],
+    [
+      0.000415,
+      "masterAuth:\r\n"
+    ],
+    [
+      0.000549,
+      "  password: npsEDZmCKY8NQDoO\r\n"
+    ],
+    [
+      0.000684,
+      "  user: admin\r\n"
+    ],
+    [
+      0.000495,
+      "name: slug\r\n"
+    ],
+    [
+      0.000512,
+      "network: default\r\n"
+    ],
+    [
+      0.000402,
+      "nodeConfig:\r\n"
+    ],
+    [
+      0.000570,
+      "  machineType: g1-small\r\n"
+    ],
+    [
+      0.000501,
+      "  serviceAccounts:\r\n"
+    ],
+    [
+      0.000824,
+      "  - email: default\r\n"
+    ],
+    [
+      0.000643,
+      "    scopes:\r\n"
+    ],
+    [
+      0.000611,
+      "    - https://www.googleapis.com/auth/compute\r\n"
+    ],
+    [
+      0.000666,
+      "    - https://www.googleapis.com/auth/devstorage.read_only\r\n"
+    ],
+    [
+      0.000875,
+      "  sourceImage: https://www.googleapis.com/compute/v1/projects/google-containers/global/images/container-vm-v20150317\r\n"
+    ],
+    [
+      0.000644,
+      "nodeRoutingPrefixSize: 24\r\n"
+    ],
+    [
+      0.000788,
+      "numNodes: 1\r\n"
+    ],
+    [
+      0.000799,
+      "selfLink: https://www.googleapis.com/container/v1beta1/projects/1008867229398/zones/us-central1-f/clusters/slug\r\n"
+    ],
+    [
+      0.000596,
+      "servicesIpv4Cidr: 10.195.240.0/20\r\n"
+    ],
+    [
+      0.000518,
+      "status: running\r\n"
+    ],
+    [
+      0.000533,
+      "zone: us-central1-f\r\n"
+    ],
+    [
+      0.058069,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000100,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001317,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000144,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000028,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001309,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      8.126802,
+      "e"
+    ],
+    [
+      0.000100,
+      "\u0008ex"
+    ],
+    [
+      0.000131,
+      "p"
+    ],
+    [
+      0.000068,
+      "o"
+    ],
+    [
+      0.000105,
+      "r"
+    ],
+    [
+      0.000083,
+      "t"
+    ],
+    [
+      0.000412,
+      " "
+    ],
+    [
+      0.000091,
+      "K"
+    ],
+    [
+      0.000105,
+      "U"
+    ],
+    [
+      0.000099,
+      "B"
+    ],
+    [
+      0.000085,
+      "E"
+    ],
+    [
+      0.000095,
+      "C"
+    ],
+    [
+      0.000112,
+      "O"
+    ],
+    [
+      0.000085,
+      "N"
+    ],
+    [
+      0.000102,
+      "F"
+    ],
+    [
+      0.000108,
+      "I"
+    ],
+    [
+      0.000092,
+      "G"
+    ],
+    [
+      0.000377,
+      "="
+    ],
+    [
+      0.000094,
+      "/"
+    ],
+    [
+      0.000105,
+      "U"
+    ],
+    [
+      0.000089,
+      "s"
+    ],
+    [
+      0.000110,
+      "e"
+    ],
+    [
+      0.000101,
+      "r"
+    ],
+    [
+      0.000093,
+      "s"
+    ],
+    [
+      0.000101,
+      "/"
+    ],
+    [
+      0.000088,
+      "a"
+    ],
+    [
+      0.000098,
+      "d"
+    ],
+    [
+      0.000100,
+      "i"
+    ],
+    [
+      0.000107,
+      "e"
+    ],
+    [
+      0.000098,
+      "u"
+    ],
+    [
+      0.000091,
+      "/"
+    ],
+    [
+      0.000105,
+      "."
+    ],
+    [
+      0.000101,
+      "c"
+    ],
+    [
+      0.000104,
+      "o"
+    ],
+    [
+      0.000095,
+      "n"
+    ],
+    [
+      0.000103,
+      "f"
+    ],
+    [
+      0.000100,
+      "i"
+    ],
+    [
+      0.000107,
+      "g"
+    ],
+    [
+      0.000099,
+      "/"
+    ],
+    [
+      0.000105,
+      "g"
+    ],
+    [
+      0.000098,
+      "c"
+    ],
+    [
+      0.000100,
+      "l"
+    ],
+    [
+      0.000100,
+      "o"
+    ],
+    [
+      0.000107,
+      "u"
+    ],
+    [
+      0.000098,
+      "d"
+    ],
+    [
+      0.000100,
+      "/"
+    ],
+    [
+      0.000103,
+      "k"
+    ],
+    [
+      0.000092,
+      "u"
+    ],
+    [
+      0.000096,
+      "b"
+    ],
+    [
+      0.000110,
+      "e"
+    ],
+    [
+      0.000101,
+      "r"
+    ],
+    [
+      0.000105,
+      "n"
+    ],
+    [
+      0.000091,
+      "e"
+    ],
+    [
+      0.000090,
+      "t"
+    ],
+    [
+      0.000134,
+      "e"
+    ],
+    [
+      0.000076,
+      "s"
+    ],
+    [
+      0.000100,
+      "/"
+    ],
+    [
+      0.000100,
+      "k"
+    ],
+    [
+      0.000102,
+      "u"
+    ],
+    [
+      0.000090,
+      "b"
+    ],
+    [
+      0.000107,
+      "e"
+    ],
+    [
+      0.000097,
+      "c"
+    ],
+    [
+      0.000095,
+      "o"
+    ],
+    [
+      0.000099,
+      "n"
+    ],
+    [
+      0.000087,
+      "f"
+    ],
+    [
+      0.000116,
+      "i"
+    ],
+    [
+      0.000091,
+      "g"
+    ],
+    [
+      1.406856,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000027,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001455,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "export KUBECONFIG=/Users/adieu/.config/gcloud/kubernetes/kubeconfig\u001b[K"
+    ],
+    [
+      0.000074,
+      "\r\r\n"
+    ],
+    [
+      0.000932,
+      "\u001b]2;export KUBECONFIG=/Users/adieu/.config/gcloud/kubernetes/kubeconfig\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;export\u0007"
+    ],
+    [
+      0.000091,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000069,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001316,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000156,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000028,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001564,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      5.003863,
+      "k"
+    ],
+    [
+      0.000149,
+      "\u0008ku"
+    ],
+    [
+      0.000185,
+      "b"
+    ],
+    [
+      0.000180,
+      "e"
+    ],
+    [
+      0.000145,
+      "c"
+    ],
+    [
+      0.000131,
+      "t"
+    ],
+    [
+      0.000162,
+      "l"
+    ],
+    [
+      0.000670,
+      " "
+    ],
+    [
+      0.000118,
+      "c"
+    ],
+    [
+      0.000117,
+      "o"
+    ],
+    [
+      0.000092,
+      "n"
+    ],
+    [
+      0.000118,
+      "f"
+    ],
+    [
+      0.000094,
+      "i"
+    ],
+    [
+      0.000092,
+      "g"
+    ],
+    [
+      0.000331,
+      " "
+    ],
+    [
+      0.000088,
+      "u"
+    ],
+    [
+      0.000110,
+      "s"
+    ],
+    [
+      0.000102,
+      "e"
+    ],
+    [
+      0.000093,
+      "-"
+    ],
+    [
+      0.000103,
+      "c"
+    ],
+    [
+      0.000089,
+      "o"
+    ],
+    [
+      0.000086,
+      "n"
+    ],
+    [
+      0.000099,
+      "t"
+    ],
+    [
+      0.000104,
+      "e"
+    ],
+    [
+      0.000097,
+      "x"
+    ],
+    [
+      0.000107,
+      "t"
+    ],
+    [
+      0.000369,
+      " "
+    ],
+    [
+      0.000099,
+      "g"
+    ],
+    [
+      0.000097,
+      "k"
+    ],
+    [
+      0.000109,
+      "e"
+    ],
+    [
+      0.000103,
+      "_"
+    ],
+    [
+      0.000105,
+      "s"
+    ],
+    [
+      0.000091,
+      "l"
+    ],
+    [
+      0.000102,
+      "u"
+    ],
+    [
+      0.000095,
+      "g"
+    ],
+    [
+      0.000095,
+      "-"
+    ],
+    [
+      0.000093,
+      "k"
+    ],
+    [
+      0.000104,
+      "8"
+    ],
+    [
+      0.000105,
+      "s"
+    ],
+    [
+      0.000106,
+      "-"
+    ],
+    [
+      0.000108,
+      "d"
+    ],
+    [
+      0.000084,
+      "e"
+    ],
+    [
+      0.000112,
+      "m"
+    ],
+    [
+      0.000104,
+      "o"
+    ],
+    [
+      0.000095,
+      "_"
+    ],
+    [
+      0.000100,
+      "u"
+    ],
+    [
+      0.000100,
+      "s"
+    ],
+    [
+      0.000093,
+      "-"
+    ],
+    [
+      0.000105,
+      "c"
+    ],
+    [
+      0.000098,
+      "e"
+    ],
+    [
+      0.000099,
+      "n"
+    ],
+    [
+      0.000093,
+      "t"
+    ],
+    [
+      0.000086,
+      "r"
+    ],
+    [
+      0.000098,
+      "a"
+    ],
+    [
+      0.000111,
+      "l"
+    ],
+    [
+      0.000098,
+      "1"
+    ],
+    [
+      0.000101,
+      "-"
+    ],
+    [
+      0.000094,
+      "f"
+    ],
+    [
+      0.000105,
+      "_"
+    ],
+    [
+      0.000083,
+      "s"
+    ],
+    [
+      0.000101,
+      "l"
+    ],
+    [
+      0.000102,
+      "u"
+    ],
+    [
+      0.000099,
+      "g"
+    ],
+    [
+      0.845114,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000049,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002048,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] kubectl config use-context gke_slug-k8s-demo_us-central1-f_slug\u001b[K"
+    ],
+    [
+      0.000125,
+      "\r\r\n"
+    ],
+    [
+      0.001314,
+      "\u001b]2;kubectl config use-context gke_slug-k8s-demo_us-central1-f_slug\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      0.813069,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000078,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001182,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      0.000153,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000021,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001306,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      0.541820,
+      "k"
+    ],
+    [
+      0.235599,
+      "\u0008ku"
+    ],
+    [
+      0.146318,
+      "b"
+    ],
+    [
+      0.236333,
+      "e"
+    ],
+    [
+      0.303709,
+      "c"
+    ],
+    [
+      0.236518,
+      "t"
+    ],
+    [
+      0.157009,
+      "l"
+    ],
+    [
+      0.123492,
+      " "
+    ],
+    [
+      0.225921,
+      "g"
+    ],
+    [
+      0.054724,
+      "e"
+    ],
+    [
+      0.202955,
+      "t"
+    ],
+    [
+      0.202427,
+      " "
+    ],
+    [
+      0.214543,
+      "p"
+    ],
+    [
+      0.213691,
+      "o"
+    ],
+    [
+      0.089955,
+      "d"
+    ],
+    [
+      0.090231,
+      "s"
+    ],
+    [
+      0.292360,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000028,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002094,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000025,
+      "kubectl get pods\u001b[K"
+    ],
+    [
+      0.000097,
+      "\r\r\n"
+    ],
+    [
+      0.001298,
+      "\u001b]2;kubectl get pods\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      2.774601,
+      "POD                        "
+    ],
+    [
+      0.000013,
+      "   IP           CONTAINER(S)     IMAGE(S)                                         HOST                                        LABELS        "
+    ],
+    [
+      0.000005,
+      "                                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "      STATUS"
+    ],
+    [
+      0.000004,
+      "    CREATED"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "etcd-server-k8s-slug-master   "
+    ],
+    [
+      0.000005,
+      "             etcd-container"
+    ],
+    [
+      0.000004,
+      "   gcr.io/google_containers/etcd:2.0.9"
+    ],
+    [
+      0.000004,
+      "              k8s-slug-master.c.slug-k8s-demo.internal/"
+    ],
+    [
+      0.000004,
+      "   \u003cnone\u003e"
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "              "
+    ],
+    [
+      0.000005,
+      "Running   57 seconds"
+    ],
+    [
+      0.000020,
+      "\r\nkube-dns-uc7r0"
+    ],
+    [
+      0.000007,
+      "                10.192.1.2   etcd             quay.io/coreos/etcd:v2.0.3                "
+    ],
+    [
+      0.000007,
+      "       k8s-slug-node-1.c.slug-k8s-demo.internal/   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns"
+    ],
+    [
+      0.000004,
+      "   Running   "
+    ],
+    [
+      0.000004,
+      "54 seconds\r\n"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000005,
+      "                      "
+    ],
+    [
+      0.000005,
+      "     kube2sky"
+    ],
+    [
+      0.000005,
+      "         gcr.io/google_containers/kube2sky:1.1"
+    ],
+    [
+      0.000004,
+      "            "
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "            "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "            "
+    ],
+    [
+      0.000004,
+      "          "
+    ],
+    [
+      0.000004,
+      "\r\n        "
+    ],
+    [
+      0.000004,
+      "                      "
+    ],
+    [
+      0.000004,
+      "             "
+    ],
+    [
+      0.000004,
+      "skydns        "
+    ],
+    [
+      0.000005,
+      "   gcr.io/google_containers/skydns:2015-03-11-001"
+    ],
+    [
+      0.000005,
+      "           "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "            "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000059,
+      "                                                      \r\nnginx-k8s-slug-master                      nginx            gcr.io/google-containers/nginx:v1        "
+    ],
+    [
+      0.000009,
+      "        k8s-slug-master.c.slug-k8s-demo.internal/   \u003cnone\u003e                        "
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000006,
+      "              "
+    ],
+    [
+      0.000004,
+      "Running   57 seconds"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001262,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000164,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001397,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000183,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001291,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      11.022927,
+      "k"
+    ],
+    [
+      0.000088,
+      "\u0008ku"
+    ],
+    [
+      0.000112,
+      "b"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000108,
+      "c"
+    ],
+    [
+      0.000100,
+      "t"
+    ],
+    [
+      0.000098,
+      "l"
+    ],
+    [
+      0.000427,
+      " "
+    ],
+    [
+      0.000096,
+      "c"
+    ],
+    [
+      0.000108,
+      "r"
+    ],
+    [
+      0.000103,
+      "e"
+    ],
+    [
+      0.000096,
+      "a"
+    ],
+    [
+      0.000104,
+      "t"
+    ],
+    [
+      0.000102,
+      "e"
+    ],
+    [
+      0.000343,
+      " "
+    ],
+    [
+      0.000095,
+      "-"
+    ],
+    [
+      0.000103,
+      "f"
+    ],
+    [
+      0.000354,
+      " "
+    ],
+    [
+      0.000093,
+      "r"
+    ],
+    [
+      0.000107,
+      "e"
+    ],
+    [
+      0.000094,
+      "d"
+    ],
+    [
+      0.000098,
+      "i"
+    ],
+    [
+      0.000103,
+      "s"
+    ],
+    [
+      0.000093,
+      "-"
+    ],
+    [
+      0.000099,
+      "m"
+    ],
+    [
+      0.000096,
+      "a"
+    ],
+    [
+      0.000095,
+      "s"
+    ],
+    [
+      0.000097,
+      "t"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000106,
+      "r"
+    ],
+    [
+      0.000102,
+      "-"
+    ],
+    [
+      0.000095,
+      "c"
+    ],
+    [
+      0.000094,
+      "o"
+    ],
+    [
+      0.000095,
+      "n"
+    ],
+    [
+      0.000089,
+      "t"
+    ],
+    [
+      0.000105,
+      "r"
+    ],
+    [
+      0.000095,
+      "o"
+    ],
+    [
+      0.000101,
+      "l"
+    ],
+    [
+      0.000093,
+      "l"
+    ],
+    [
+      0.000101,
+      "e"
+    ],
+    [
+      0.000101,
+      "r"
+    ],
+    [
+      0.000115,
+      "."
+    ],
+    [
+      0.000181,
+      "js"
+    ],
+    [
+      0.000089,
+      "o"
+    ],
+    [
+      0.000109,
+      "n"
+    ],
+    [
+      0.000090,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000021,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001264,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl create -f redis-master-controller.json\u001b[K"
+    ],
+    [
+      0.000099,
+      "\r\r\n"
+    ],
+    [
+      0.000835,
+      "\u001b]2;kubectl create -f redis-master-controller.json\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      2.238668,
+      "replicationControllers/redis-master-controller\r\n"
+    ],
+    [
+      0.001552,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000126,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001464,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000161,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000028,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001639,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      6.355889,
+      "k"
+    ],
+    [
+      0.000143,
+      "\u0008ku"
+    ],
+    [
+      0.000272,
+      "b"
+    ],
+    [
+      0.000191,
+      "e"
+    ],
+    [
+      0.000165,
+      "c"
+    ],
+    [
+      0.000187,
+      "t"
+    ],
+    [
+      0.000178,
+      "l"
+    ],
+    [
+      0.000564,
+      " "
+    ],
+    [
+      0.000104,
+      "g"
+    ],
+    [
+      0.000099,
+      "e"
+    ],
+    [
+      0.000100,
+      "t"
+    ],
+    [
+      0.000450,
+      " "
+    ],
+    [
+      0.000087,
+      "r"
+    ],
+    [
+      0.000118,
+      "c"
+    ],
+    [
+      0.000074,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000031,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001167,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl get rc\u001b[K"
+    ],
+    [
+      0.000082,
+      "\r\r\n"
+    ],
+    [
+      0.000784,
+      "\u001b]2;kubectl get rc\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      2.016044,
+      "CONTROLLER                "
+    ],
+    [
+      0.000019,
+      "CONTAINER(S)   IMAGE(S)                                         SELECTOR            REPLICAS\r\nkube-dns"
+    ],
+    [
+      0.000014,
+      "                  etcd        "
+    ],
+    [
+      0.000008,
+      "   quay.io/coreos/etcd:v2.0.3"
+    ],
+    [
+      0.000007,
+      "                "
+    ],
+    [
+      0.000007,
+      "       k8s-app=kube-dns"
+    ],
+    [
+      0.000037,
+      "    1\r\n"
+    ],
+    [
+      0.000013,
+      "                          kube2sky       gcr.io/google_containers/kube2sky:1.1        "
+    ],
+    [
+      0.000008,
+      "            "
+    ],
+    [
+      0.000014,
+      "            "
+    ],
+    [
+      0.000005,
+      "\r\n        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "  skydns"
+    ],
+    [
+      0.000004,
+      "         "
+    ],
+    [
+      0.000004,
+      "gcr.io/google_containers/skydns:2015-03-11-001   "
+    ],
+    [
+      0.000004,
+      "                    "
+    ],
+    [
+      0.000005,
+      "\r\nredis-master-controller"
+    ],
+    [
+      0.000004,
+      "   redis-master"
+    ],
+    [
+      0.000008,
+      "   gcr.io/google_containers/redis"
+    ],
+    [
+      0.000006,
+      "                   name=redis-master   "
+    ],
+    [
+      0.000004,
+      "1\r\n"
+    ],
+    [
+      0.001318,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000098,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001260,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000145,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000027,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001338,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      6.368532,
+      "k"
+    ],
+    [
+      0.000094,
+      "\u0008ku"
+    ],
+    [
+      0.000110,
+      "b"
+    ],
+    [
+      0.000135,
+      "e"
+    ],
+    [
+      0.000088,
+      "c"
+    ],
+    [
+      0.000107,
+      "t"
+    ],
+    [
+      0.000105,
+      "l"
+    ],
+    [
+      0.000398,
+      " "
+    ],
+    [
+      0.000093,
+      "g"
+    ],
+    [
+      0.000106,
+      "e"
+    ],
+    [
+      0.000098,
+      "t"
+    ],
+    [
+      0.000350,
+      " "
+    ],
+    [
+      0.000092,
+      "p"
+    ],
+    [
+      0.000099,
+      "o"
+    ],
+    [
+      0.000095,
+      "d"
+    ],
+    [
+      0.000095,
+      "s"
+    ],
+    [
+      0.000078,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000036,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001221,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl get pods\u001b[K"
+    ],
+    [
+      0.000076,
+      "\r\r\n"
+    ],
+    [
+      0.001253,
+      "\u001b]2;kubectl get pods\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      2.297166,
+      "POD                             IP           CONTAINER(S)     IMAGE(S)                                "
+    ],
+    [
+      0.000014,
+      "         HOST                                        LABELS                                                              STATUS    CREATED\r\netcd-server-k8s-slug-master             "
+    ],
+    [
+      0.000018,
+      "     etcd-container   gcr.io/google_containers/etcd:2.0.9              k8s-slug-master.c.slug-k8s-demo.internal/   \u003cnone\u003e                "
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000005,
+      "                      "
+    ],
+    [
+      0.000004,
+      "Running   "
+    ],
+    [
+      0.000004,
+      "About a minute\r\n"
+    ],
+    [
+      0.000004,
+      "kube-dns-uc7r0        "
+    ],
+    [
+      0.000005,
+      "          "
+    ],
+    [
+      0.000004,
+      "10.192.1.2   "
+    ],
+    [
+      0.000004,
+      "etcd        "
+    ],
+    [
+      0.000004,
+      "     quay.io/coreos/etcd:v2.0.3"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "       k8s-slug-node-1.c.slug-k8s-demo.internal/   "
+    ],
+    [
+      0.000004,
+      "k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns   "
+    ],
+    [
+      0.000004,
+      "Running   "
+    ],
+    [
+      0.000004,
+      "About a minute\r\n"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000023,
+      "             kube2sky"
+    ],
+    [
+      0.000006,
+      "        "
+    ],
+    [
+      0.000004,
+      " "
+    ],
+    [
+      0.000004,
+      "gcr.io/google_containers/kube2sky:1.1        "
+    ],
+    [
+      0.000005,
+      "                    "
+    ],
+    [
+      0.000009,
+      "                        "
+    ],
+    [
+      0.000005,
+      "            "
+    ],
+    [
+      0.000011,
+      "                                                "
+    ],
+    [
+      0.000005,
+      "                    "
+    ],
+    [
+      0.000004,
+      "  \r\n"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "             "
+    ],
+    [
+      0.000005,
+      "skydns           "
+    ],
+    [
+      0.000004,
+      "gcr.io/google_containers/skydns:2015-03-11-001           "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                    "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "              "
+    ],
+    [
+      0.000004,
+      "\r\nnginx-k8s-slug-master"
+    ],
+    [
+      0.000004,
+      "           "
+    ],
+    [
+      0.000004,
+      "             "
+    ],
+    [
+      0.000004,
+      "nginx        "
+    ],
+    [
+      0.000005,
+      "    gcr.io/google-containers/nginx:v1"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "k8s-slug-master.c.slug-k8s-demo.internal/   \u003cnone\u003e"
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "      Running"
+    ],
+    [
+      0.000004,
+      "   About a minute"
+    ],
+    [
+      0.000005,
+      "\r\nredis-master-controller-k1xqh   "
+    ],
+    [
+      0.000005,
+      "             redis-master"
+    ],
+    [
+      0.000005,
+      "     gcr.io/google_containers/redis"
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000087,
+      "   k8s-slug-node-1.c.slug-k8s-demo.internal/   "
+    ],
+    [
+      0.000008,
+      "app=redis,name=redis-master                                         Pending   16 seconds\r\n"
+    ],
+    [
+      0.001225,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000089,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001296,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000119,
+      "\u001b[K"
+    ],
+    [
+      0.000130,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001488,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      7.940811,
+      "k"
+    ],
+    [
+      0.000102,
+      "\u0008ku"
+    ],
+    [
+      0.000220,
+      "b"
+    ],
+    [
+      0.000085,
+      "e"
+    ],
+    [
+      0.000158,
+      "c"
+    ],
+    [
+      0.000147,
+      "t"
+    ],
+    [
+      0.000154,
+      "l"
+    ],
+    [
+      0.000715,
+      " "
+    ],
+    [
+      0.000111,
+      "c"
+    ],
+    [
+      0.000123,
+      "r"
+    ],
+    [
+      0.000073,
+      "e"
+    ],
+    [
+      0.000092,
+      "a"
+    ],
+    [
+      0.000080,
+      "t"
+    ],
+    [
+      0.000096,
+      "e"
+    ],
+    [
+      0.000341,
+      " "
+    ],
+    [
+      0.000061,
+      "-"
+    ],
+    [
+      0.000081,
+      "f"
+    ],
+    [
+      0.000321,
+      " "
+    ],
+    [
+      0.000061,
+      "r"
+    ],
+    [
+      0.000080,
+      "e"
+    ],
+    [
+      0.000108,
+      "d"
+    ],
+    [
+      0.000081,
+      "i"
+    ],
+    [
+      0.000079,
+      "s"
+    ],
+    [
+      0.000079,
+      "-"
+    ],
+    [
+      0.000088,
+      "m"
+    ],
+    [
+      0.000087,
+      "a"
+    ],
+    [
+      0.000102,
+      "s"
+    ],
+    [
+      0.000085,
+      "t"
+    ],
+    [
+      0.000079,
+      "e"
+    ],
+    [
+      0.000103,
+      "r"
+    ],
+    [
+      0.000089,
+      "-"
+    ],
+    [
+      0.000123,
+      "s"
+    ],
+    [
+      0.000072,
+      "e"
+    ],
+    [
+      0.000095,
+      "r"
+    ],
+    [
+      0.000105,
+      "v"
+    ],
+    [
+      0.000096,
+      "i"
+    ],
+    [
+      0.000109,
+      "c"
+    ],
+    [
+      0.000105,
+      "e"
+    ],
+    [
+      0.000110,
+      "."
+    ],
+    [
+      0.000205,
+      "js"
+    ],
+    [
+      0.000108,
+      "o"
+    ],
+    [
+      0.000104,
+      "n"
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000040,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001392,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] kubectl create -f redis-master-service.json\u001b[K"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.000781,
+      "\u001b]2;kubectl create -f redis-master-service.json\u0007"
+    ],
+    [
+      0.000118,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      1.266605,
+      "services/redis-master\r\n"
+    ],
+    [
+      0.001764,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000152,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000114,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001924,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000161,
+      "\u001b[K"
+    ],
+    [
+      0.000173,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000027,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001587,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      3.352981,
+      "k"
+    ],
+    [
+      0.000074,
+      "\u0008ku"
+    ],
+    [
+      0.000137,
+      "b"
+    ],
+    [
+      0.000064,
+      "e"
+    ],
+    [
+      0.000121,
+      "c"
+    ],
+    [
+      0.000110,
+      "t"
+    ],
+    [
+      0.000088,
+      "l"
+    ],
+    [
+      0.000499,
+      " "
+    ],
+    [
+      0.000092,
+      "g"
+    ],
+    [
+      0.000106,
+      "e"
+    ],
+    [
+      0.000110,
+      "t"
+    ],
+    [
+      0.000348,
+      " "
+    ],
+    [
+      0.000093,
+      "s"
+    ],
+    [
+      0.000089,
+      "e"
+    ],
+    [
+      0.000110,
+      "r"
+    ],
+    [
+      0.000100,
+      "v"
+    ],
+    [
+      0.000092,
+      "i"
+    ],
+    [
+      0.000108,
+      "c"
+    ],
+    [
+      0.000101,
+      "e"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000006,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001234,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl get service\u001b[K"
+    ],
+    [
+      0.000067,
+      "\r\r\n"
+    ],
+    [
+      0.001246,
+      "\u001b]2;kubectl get service\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      1.341893,
+      "NAME            LABELS"
+    ],
+    [
+      0.000012,
+      "                                                              SELECTOR            IP               PORT\r\nkube-dns"
+    ],
+    [
+      0.000005,
+      "        k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns   "
+    ],
+    [
+      0.000005,
+      "k8s-app=kube-dns    10.195.240.10"
+    ],
+    [
+      0.000074,
+      "    53\r\nkubernetes      component=apiserver,provider=kubernetes                             \u003cnone\u003e              10.195.240.2     443\r\nkubernetes-ro   component=apiserver,provider=kubernetes                             \u003cnone\u003e              10.195.240.1     80\r\nredis-master    name=redis-master                "
+    ],
+    [
+      0.000006,
+      "                                   "
+    ],
+    [
+      0.000004,
+      "name=redis-master   "
+    ],
+    [
+      0.000026,
+      "10.195.250.233   6379"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001337,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000115,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001647,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000018,
+      "\u001b[K"
+    ],
+    [
+      0.000336,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000033,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001372,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      6.356535,
+      "k"
+    ],
+    [
+      0.000117,
+      "\u0008ku"
+    ],
+    [
+      0.000220,
+      "b"
+    ],
+    [
+      0.000187,
+      "e"
+    ],
+    [
+      0.000194,
+      "c"
+    ],
+    [
+      0.000162,
+      "t"
+    ],
+    [
+      0.000179,
+      "l"
+    ],
+    [
+      0.000657,
+      " "
+    ],
+    [
+      0.000161,
+      "c"
+    ],
+    [
+      0.000181,
+      "r"
+    ],
+    [
+      0.000094,
+      "e"
+    ],
+    [
+      0.000118,
+      "a"
+    ],
+    [
+      0.000094,
+      "t"
+    ],
+    [
+      0.000101,
+      "e"
+    ],
+    [
+      0.000343,
+      " "
+    ],
+    [
+      0.000091,
+      "-"
+    ],
+    [
+      0.000155,
+      "f"
+    ],
+    [
+      0.000362,
+      " "
+    ],
+    [
+      0.000076,
+      "r"
+    ],
+    [
+      0.000106,
+      "e"
+    ],
+    [
+      0.000108,
+      "d"
+    ],
+    [
+      0.000103,
+      "i"
+    ],
+    [
+      0.000103,
+      "s"
+    ],
+    [
+      0.000272,
+      "-s"
+    ],
+    [
+      0.000112,
+      "l"
+    ],
+    [
+      0.000133,
+      "av"
+    ],
+    [
+      0.000461,
+      "e-con"
+    ],
+    [
+      0.000154,
+      "tr"
+    ],
+    [
+      0.000140,
+      "o"
+    ],
+    [
+      0.000543,
+      "ller"
+    ],
+    [
+      0.000193,
+      ".js"
+    ],
+    [
+      0.000031,
+      "on"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000293,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003433,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] kubectl create -f redis-slave-controller.json\u001b[K\r\r\n"
+    ],
+    [
+      0.001507,
+      "\u001b]2;kubectl create -f redis-slave-controller.json\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      2.109606,
+      "replicationControllers/redis-slave-controller\r\n"
+    ],
+    [
+      0.001374,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000095,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001287,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000142,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000028,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001421,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      3.756744,
+      "k"
+    ],
+    [
+      0.000094,
+      "\u0008ku"
+    ],
+    [
+      0.000118,
+      "b"
+    ],
+    [
+      0.000136,
+      "e"
+    ],
+    [
+      0.000090,
+      "c"
+    ],
+    [
+      0.000104,
+      "t"
+    ],
+    [
+      0.000097,
+      "l"
+    ],
+    [
+      0.000415,
+      " "
+    ],
+    [
+      0.000098,
+      "c"
+    ],
+    [
+      0.000104,
+      "r"
+    ],
+    [
+      0.000099,
+      "e"
+    ],
+    [
+      0.000097,
+      "a"
+    ],
+    [
+      0.000094,
+      "t"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000360,
+      " "
+    ],
+    [
+      0.000091,
+      "-"
+    ],
+    [
+      0.000094,
+      "f"
+    ],
+    [
+      0.000361,
+      " "
+    ],
+    [
+      0.000093,
+      "r"
+    ],
+    [
+      0.000109,
+      "e"
+    ],
+    [
+      0.000093,
+      "d"
+    ],
+    [
+      0.000106,
+      "i"
+    ],
+    [
+      0.000097,
+      "s"
+    ],
+    [
+      0.000102,
+      "-"
+    ],
+    [
+      0.000094,
+      "s"
+    ],
+    [
+      0.000103,
+      "l"
+    ],
+    [
+      0.000106,
+      "a"
+    ],
+    [
+      0.000088,
+      "v"
+    ],
+    [
+      0.000105,
+      "e"
+    ],
+    [
+      0.000109,
+      "-"
+    ],
+    [
+      0.000127,
+      "s"
+    ],
+    [
+      0.000069,
+      "e"
+    ],
+    [
+      0.000111,
+      "r"
+    ],
+    [
+      0.000089,
+      "v"
+    ],
+    [
+      0.000108,
+      "i"
+    ],
+    [
+      0.000101,
+      "c"
+    ],
+    [
+      0.000102,
+      "e"
+    ],
+    [
+      0.000101,
+      "."
+    ],
+    [
+      0.000192,
+      "js"
+    ],
+    [
+      0.000092,
+      "o"
+    ],
+    [
+      0.000111,
+      "n"
+    ],
+    [
+      0.000080,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000031,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001285,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "kubectl create -f redis-slave-service.json\u001b[K"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.001206,
+      "\u001b]2;kubectl create -f redis-slave-service.json\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      1.454025,
+      "services/redis-slave\r\n"
+    ],
+    [
+      0.001689,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000122,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000047,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001825,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      0.000220,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000026,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001363,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      3.057051,
+      "k"
+    ],
+    [
+      0.000152,
+      "\u0008ku"
+    ],
+    [
+      0.000224,
+      "b"
+    ],
+    [
+      0.000132,
+      "e"
+    ],
+    [
+      0.000169,
+      "c"
+    ],
+    [
+      0.000179,
+      "t"
+    ],
+    [
+      0.000162,
+      "l"
+    ],
+    [
+      0.000575,
+      " "
+    ],
+    [
+      0.000106,
+      "c"
+    ],
+    [
+      0.000108,
+      "r"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000109,
+      "a"
+    ],
+    [
+      0.000098,
+      "t"
+    ],
+    [
+      0.000097,
+      "e"
+    ],
+    [
+      0.000364,
+      " "
+    ],
+    [
+      0.000093,
+      "-"
+    ],
+    [
+      0.000101,
+      "f"
+    ],
+    [
+      0.000348,
+      " "
+    ],
+    [
+      0.000096,
+      "f"
+    ],
+    [
+      0.000099,
+      "r"
+    ],
+    [
+      0.000112,
+      "o"
+    ],
+    [
+      0.000100,
+      "n"
+    ],
+    [
+      0.000097,
+      "t"
+    ],
+    [
+      0.000096,
+      "e"
+    ],
+    [
+      0.000109,
+      "n"
+    ],
+    [
+      0.000094,
+      "d"
+    ],
+    [
+      0.000106,
+      "-"
+    ],
+    [
+      0.000090,
+      "c"
+    ],
+    [
+      0.000111,
+      "o"
+    ],
+    [
+      0.000093,
+      "n"
+    ],
+    [
+      0.000094,
+      "t"
+    ],
+    [
+      0.000087,
+      "r"
+    ],
+    [
+      0.000096,
+      "o"
+    ],
+    [
+      0.000099,
+      "l"
+    ],
+    [
+      0.000102,
+      "l"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000100,
+      "r"
+    ],
+    [
+      0.000105,
+      "."
+    ],
+    [
+      0.000188,
+      "js"
+    ],
+    [
+      0.000099,
+      "o"
+    ],
+    [
+      0.000084,
+      "n"
+    ],
+    [
+      0.000079,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000040,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001219,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl create -f frontend-controller.json\u001b[K"
+    ],
+    [
+      0.000064,
+      "\r\r\n"
+    ],
+    [
+      0.001222,
+      "\u001b]2;kubectl create -f frontend-controller.json\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      1.546746,
+      "replicationControllers/frontend-controller\r\n"
+    ],
+    [
+      0.001252,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000122,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000059,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001540,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000183,
+      "\u001b[K"
+    ],
+    [
+      0.000228,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001680,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      3.109213,
+      "k"
+    ],
+    [
+      0.000181,
+      "\u0008ku"
+    ],
+    [
+      0.000412,
+      "b"
+    ],
+    [
+      0.000118,
+      "e"
+    ],
+    [
+      0.000158,
+      "c"
+    ],
+    [
+      0.000174,
+      "t"
+    ],
+    [
+      0.000179,
+      "l"
+    ],
+    [
+      0.001020,
+      " "
+    ],
+    [
+      0.000118,
+      "c"
+    ],
+    [
+      0.000186,
+      "r"
+    ],
+    [
+      0.000079,
+      "e"
+    ],
+    [
+      0.000106,
+      "a"
+    ],
+    [
+      0.000131,
+      "t"
+    ],
+    [
+      0.000074,
+      "e"
+    ],
+    [
+      0.000544,
+      " "
+    ],
+    [
+      0.000119,
+      "-"
+    ],
+    [
+      0.000101,
+      "f"
+    ],
+    [
+      0.000340,
+      " "
+    ],
+    [
+      0.000089,
+      "f"
+    ],
+    [
+      0.000106,
+      "r"
+    ],
+    [
+      0.000094,
+      "o"
+    ],
+    [
+      0.000096,
+      "n"
+    ],
+    [
+      0.000106,
+      "t"
+    ],
+    [
+      0.000115,
+      "e"
+    ],
+    [
+      0.000092,
+      "n"
+    ],
+    [
+      0.000093,
+      "d"
+    ],
+    [
+      0.000100,
+      "-"
+    ],
+    [
+      0.000099,
+      "s"
+    ],
+    [
+      0.000086,
+      "e"
+    ],
+    [
+      0.000102,
+      "r"
+    ],
+    [
+      0.000097,
+      "v"
+    ],
+    [
+      0.000112,
+      "i"
+    ],
+    [
+      0.000083,
+      "c"
+    ],
+    [
+      0.000104,
+      "e"
+    ],
+    [
+      0.000091,
+      "."
+    ],
+    [
+      0.000168,
+      "js"
+    ],
+    [
+      0.000093,
+      "o"
+    ],
+    [
+      0.000103,
+      "n"
+    ],
+    [
+      0.000077,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000033,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001325,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl create -f frontend-service.json\u001b[K"
+    ],
+    [
+      0.000079,
+      "\r\r\n"
+    ],
+    [
+      0.001435,
+      "\u001b]2;kubectl create -f frontend-service.json\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      20.841879,
+      "services/frontend\r\n"
+    ],
+    [
+      0.001435,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000068,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001575,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      0.000174,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000039,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001341,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      4.444702,
+      "k"
+    ],
+    [
+      0.000010,
+      "\u0008ku"
+    ],
+    [
+      0.000089,
+      "b"
+    ],
+    [
+      0.000301,
+      "ect"
+    ],
+    [
+      0.000057,
+      "l"
+    ],
+    [
+      0.007548,
+      " get pods\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001863,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000019,
+      "kubectl get pods\u001b[K"
+    ],
+    [
+      0.000095,
+      "\r\r\n"
+    ],
+    [
+      0.001092,
+      "\u001b]2;kubectl get pods\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      1.666634,
+      "POD                        "
+    ],
+    [
+      0.000019,
+      "     IP           CONTAINER(S)     IMAGE(S)                                                  HOST                                        LABELS                                                              STATUS    CREATED\r\netcd-server-k8s-slug-master                  etcd-container   "
+    ],
+    [
+      0.000007,
+      "gcr.io/google_containers/etcd:2.0.9                       k8s-slug-master.c.slug-k8s-demo.internal/"
+    ],
+    [
+      0.000005,
+      "   \u003cnone\u003e        "
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000004,
+      "      Running"
+    ],
+    [
+      0.000004,
+      "   2 minutes"
+    ],
+    [
+      0.000005,
+      "\r\nfrontend-controller-61eg2"
+    ],
+    [
+      0.000004,
+      "               "
+    ],
+    [
+      0.000005,
+      "     php-redis        "
+    ],
+    [
+      0.000005,
+      "gcr.io/google_containers/example-guestbook-php-redis:v2   "
+    ],
+    [
+      0.000006,
+      "k8s-slug-node-1.c.slug-k8s-demo.internal/   app=frontend,name=frontend,uses=redis-slave-or-redis-master        "
+    ],
+    [
+      0.000018,
+      " Pending   29 seconds\r\nfrontend-controller-af8am               "
+    ],
+    [
+      0.000006,
+      "     php-redis        gcr.io/google_containers/example-guestbook-php-redis:v2   "
+    ],
+    [
+      0.000005,
+      "k8s-slug-node-1.c.slug-k8s-demo.internal/   "
+    ],
+    [
+      0.000004,
+      "app=frontend,name=frontend,uses=redis-slave-or-redis-master        "
+    ],
+    [
+      0.000005,
+      " Pending"
+    ],
+    [
+      0.000192,
+      "   29 seconds\r\nfrontend-controller-z2vcz                    php-redis        gcr.io/google_containers/example-guestbook-php-redis:v2   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=frontend,name=frontend,uses=redis-slave-or-redis-master         Pending   29 seconds\r\nkube-dns-uc7r0                  10.192.1.2   etcd             quay.io/coreos/etcd:v2.0.3                                k8s-slug-node-1.c.slug-k8s-demo.internal/   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns   Running   2 minutes\r\n"
+    ],
+    [
+      0.000014,
+      "                                             kube2sky         gcr.io/google_containers/kube2sky:1.1                                                                                                                                               \r\n                                             skydns           gcr.io/google_containers/skydns:2015-03-11-001                                                                                                                                      \r\nnginx-k8s-slug-master                        nginx            "
+    ],
+    [
+      0.000006,
+      "gcr.io/google-containers/nginx:v1                         "
+    ],
+    [
+      0.000005,
+      "k8s-slug-master.c.slug-k8s-demo.internal/   \u003cnone\u003e"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "              "
+    ],
+    [
+      0.000005,
+      "Running   "
+    ],
+    [
+      0.000005,
+      "2 minutes\r\n"
+    ],
+    [
+      0.000004,
+      "redis-master-controller-k1xqh   "
+    ],
+    [
+      0.000004,
+      "10.192.1.3   "
+    ],
+    [
+      0.000003,
+      "redis-master     "
+    ],
+    [
+      0.000004,
+      "gcr.io/google_containers/redis        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "    k8s-slug-node-1.c.slug-k8s-demo.internal/"
+    ],
+    [
+      0.000005,
+      "   app=redis,name=redis-master"
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      " Running"
+    ],
+    [
+      0.000003,
+      "   "
+    ],
+    [
+      0.000004,
+      "About a minute\r\n"
+    ],
+    [
+      0.000068,
+      "redis-slave-controller-0zzb4    "
+    ],
+    [
+      0.000016,
+      "10.192.1.5   redis-slave      gcr.io/google_containers/redis-slave:v2                   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=redis,name=redis-slave,uses=redis-master                        Running   38 seconds\r\nredis-slave-controller-h1c58    10.192.1.4   redis-slave      gcr.io/google_containers/redis-slave:v2                   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=redis,name=redis-slave,uses=redis-master                        Running   "
+    ],
+    [
+      0.000009,
+      "38 seconds\r\n"
+    ],
+    [
+      0.001282,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000083,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001527,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000119,
+      "\u001b[K"
+    ],
+    [
+      0.000177,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001629,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      16.239236,
+      "k\u0008kubectl "
+    ],
+    [
+      0.000010,
+      "get"
+    ],
+    [
+      0.000601,
+      " "
+    ],
+    [
+      0.000176,
+      "s"
+    ],
+    [
+      0.000214,
+      "e"
+    ],
+    [
+      0.000150,
+      "r"
+    ],
+    [
+      0.000129,
+      "v"
+    ],
+    [
+      0.000109,
+      "i"
+    ],
+    [
+      0.000110,
+      "c"
+    ],
+    [
+      0.000073,
+      "e"
+    ],
+    [
+      0.000089,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000064,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001455,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "kubectl get service\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\r\n"
+    ],
+    [
+      0.000798,
+      "\u001b]2;kubectl get service\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      7.723706,
+      "NAME        "
+    ],
+    [
+      0.000011,
+      "    LABELS                                                              SELECTOR            IP               PORT"
+    ],
+    [
+      0.000007,
+      "\r\nfrontend        name=frontend"
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000005,
+      "                        "
+    ],
+    [
+      0.000004,
+      "       name=frontend"
+    ],
+    [
+      0.000004,
+      "       10.195.252.87"
+    ],
+    [
+      0.000004,
+      "    8000"
+    ],
+    [
+      0.000004,
+      "\r\nkube-dns"
+    ],
+    [
+      0.000004,
+      "        k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns"
+    ],
+    [
+      0.000004,
+      "   k8s-app=kube-dns"
+    ],
+    [
+      0.000004,
+      "    10.195.240.10"
+    ],
+    [
+      0.000004,
+      "    53"
+    ],
+    [
+      0.000004,
+      "\r\nkubernetes"
+    ],
+    [
+      0.000005,
+      "      component=apiserver,provider=kubernetes"
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000004,
+      "     \u003cnone\u003e"
+    ],
+    [
+      0.000004,
+      "              "
+    ],
+    [
+      0.000005,
+      "10.195.240.2     443"
+    ],
+    [
+      0.000020,
+      "\r\nkubernetes-ro"
+    ],
+    [
+      0.000011,
+      "   component=apiserver,provider=kubernetes                             \u003cnone\u003e              10.195.240.1     "
+    ],
+    [
+      0.000006,
+      "80\r\nredis-master    name=redis-master"
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000005,
+      "                   "
+    ],
+    [
+      0.000004,
+      "name=redis-master   "
+    ],
+    [
+      0.000004,
+      "10.195.250.233   "
+    ],
+    [
+      0.000004,
+      "6379\r\n"
+    ],
+    [
+      0.000005,
+      "redis-slave     "
+    ],
+    [
+      0.000004,
+      "name=redis-slave        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "            "
+    ],
+    [
+      0.000004,
+      "name=redis-slave    "
+    ],
+    [
+      0.000004,
+      "10.195.253.67    "
+    ],
+    [
+      0.000005,
+      "6379\r\n"
+    ],
+    [
+      0.001302,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000066,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001232,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000128,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000021,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001345,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      18.525101,
+      "k"
+    ],
+    [
+      0.000169,
+      "\u0008ku"
+    ],
+    [
+      0.000178,
+      "b"
+    ],
+    [
+      0.000169,
+      "e"
+    ],
+    [
+      0.000168,
+      "c"
+    ],
+    [
+      0.000168,
+      "t"
+    ],
+    [
+      0.000124,
+      "l"
+    ],
+    [
+      0.000575,
+      " "
+    ],
+    [
+      0.000103,
+      "g"
+    ],
+    [
+      0.000092,
+      "e"
+    ],
+    [
+      0.000109,
+      "t"
+    ],
+    [
+      0.000329,
+      " "
+    ],
+    [
+      0.000094,
+      "p"
+    ],
+    [
+      0.000098,
+      "o"
+    ],
+    [
+      0.000096,
+      "d"
+    ],
+    [
+      0.000109,
+      "s"
+    ],
+    [
+      0.000069,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000036,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001269,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl get pods\u001b[K"
+    ],
+    [
+      0.000075,
+      "\r\r\n"
+    ],
+    [
+      0.000801,
+      "\u001b]2;kubectl get pods\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;kubectl\u0007"
+    ],
+    [
+      1.917287,
+      "POD                             IP           CONTAINER(S)     IMAGE(S)                                        "
+    ],
+    [
+      0.000014,
+      "          HOST                                        LABELS                                                              STATUS    CREATED\r\netcd-server-k8s-slug-master"
+    ],
+    [
+      0.000010,
+      "                  etcd-container   gcr.io/google_containers/etcd:2.0.9        "
+    ],
+    [
+      0.000006,
+      "               k8s-slug-master.c.slug-k8s-demo.internal/"
+    ],
+    [
+      0.000004,
+      "   \u003cnone\u003e"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "              Running"
+    ],
+    [
+      0.000004,
+      "   3 minutes"
+    ],
+    [
+      0.000013,
+      "\r\nfrontend-controller-61eg2                    php-redis"
+    ],
+    [
+      0.000004,
+      "        gcr.io/google_containers/example-guestbook-php-redis:v2   "
+    ],
+    [
+      0.000005,
+      "k8s-slug-node-1.c.slug-k8s-demo.internal/   app=frontend,name=frontend,uses=redis-slave-or-redis-master"
+    ],
+    [
+      0.000004,
+      "         Pending"
+    ],
+    [
+      0.000004,
+      "   About a minute"
+    ],
+    [
+      0.000005,
+      "\r\nfrontend-controller-af8am"
+    ],
+    [
+      0.000005,
+      "               "
+    ],
+    [
+      0.000004,
+      "     php-redis"
+    ],
+    [
+      0.000027,
+      "        gcr.io/google_containers/example-guestbook-php-redis:v2   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=frontend,name=frontend,uses=redis-slave-or-redis-master         Pending   About a minute\r\n"
+    ],
+    [
+      0.000006,
+      "frontend-controller-z2vcz                    php-redis"
+    ],
+    [
+      0.000005,
+      "        gcr.io/google_containers/example-guestbook-php-redis:v2   "
+    ],
+    [
+      0.000004,
+      "k8s-slug-node-1.c.slug-k8s-demo.internal/   "
+    ],
+    [
+      0.000004,
+      "app=frontend,name=frontend,uses=redis-slave-or-redis-master        "
+    ],
+    [
+      0.000004,
+      " Pending"
+    ],
+    [
+      0.000005,
+      "   About a minute"
+    ],
+    [
+      0.000004,
+      "\r\nkube-dns-uc7r0"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "  10.192.1.2"
+    ],
+    [
+      0.000004,
+      "   etcd"
+    ],
+    [
+      0.000004,
+      "             "
+    ],
+    [
+      0.000004,
+      "quay.io/coreos/etcd:v2.0.3        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "        k8s-slug-node-1.c.slug-k8s-demo.internal/"
+    ],
+    [
+      0.000004,
+      "   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns"
+    ],
+    [
+      0.000004,
+      "   Running"
+    ],
+    [
+      0.000128,
+      "   3 minutes"
+    ],
+    [
+      0.000023,
+      "\r\n                                             kube2sky         gcr.io/google_containers/kube2sky:1.1                                                                                                                                               \r\n                                             skydns           gcr.io/google_containers/skydns:2015-03-11-001                                                                                                                                      \r\nnginx-k8s-slug-master                        nginx            gcr.io/google-containers/nginx:v1                         k8s-slug-master.c.slug-k8s-demo.internal/   \u003cnone\u003e        "
+    ],
+    [
+      0.000008,
+      "                                                      Running   "
+    ],
+    [
+      0.000005,
+      "3 minutes\r\n"
+    ],
+    [
+      0.000005,
+      "redis-master-controller-k1xqh   10.192.1.3"
+    ],
+    [
+      0.000004,
+      "   redis-master"
+    ],
+    [
+      0.000005,
+      "     gcr.io/google_containers/redis        "
+    ],
+    [
+      0.000005,
+      "                    "
+    ],
+    [
+      0.000005,
+      "k8s-slug-node-1.c.slug-k8s-demo.internal/   app=redis,name=redis-master"
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      "         "
+    ],
+    [
+      0.000005,
+      "Running   2 minutes"
+    ],
+    [
+      0.000079,
+      "\r\nredis-slave-controller-0zzb4"
+    ],
+    [
+      0.000018,
+      "    10.192.1.5   redis-slave      gcr.io/google_containers/redis-slave:v2                   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=redis,name=redis-slave,uses=redis-master                        Running   About a minute\r\nredis-slave-controller-h1c58    10.192.1.4   redis-slave      gcr.io/google_containers/redis-slave:v2                   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=redis,name=redis-slave,uses=redis-master                        Running   About a minute\r\n"
+    ],
+    [
+      0.001202,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000056,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001558,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000150,
+      "\u001b[K"
+    ],
+    [
+      0.000216,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000028,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001349,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      5.925137,
+      "g"
+    ],
+    [
+      0.000119,
+      "\u0008gc"
+    ],
+    [
+      0.000162,
+      "l"
+    ],
+    [
+      0.000206,
+      "o"
+    ],
+    [
+      0.000117,
+      "u"
+    ],
+    [
+      0.000114,
+      "d"
+    ],
+    [
+      0.000506,
+      " "
+    ],
+    [
+      0.000117,
+      "c"
+    ],
+    [
+      0.000107,
+      "o"
+    ],
+    [
+      0.000114,
+      "m"
+    ],
+    [
+      0.000078,
+      "p"
+    ],
+    [
+      0.000144,
+      "u"
+    ],
+    [
+      0.000115,
+      "t"
+    ],
+    [
+      0.000076,
+      "e"
+    ],
+    [
+      0.000367,
+      " "
+    ],
+    [
+      0.000126,
+      "s"
+    ],
+    [
+      0.000107,
+      "s"
+    ],
+    [
+      0.000108,
+      "h"
+    ],
+    [
+      0.000348,
+      " "
+    ],
+    [
+      0.000148,
+      "-"
+    ],
+    [
+      0.000046,
+      "-"
+    ],
+    [
+      0.000105,
+      "p"
+    ],
+    [
+      0.000100,
+      "r"
+    ],
+    [
+      0.000116,
+      "o"
+    ],
+    [
+      0.000168,
+      "je"
+    ],
+    [
+      0.000087,
+      "c"
+    ],
+    [
+      0.000099,
+      "t"
+    ],
+    [
+      0.000351,
+      " "
+    ],
+    [
+      0.000094,
+      "s"
+    ],
+    [
+      0.000104,
+      "l"
+    ],
+    [
+      0.000108,
+      "u"
+    ],
+    [
+      0.000091,
+      "g"
+    ],
+    [
+      0.000095,
+      "-"
+    ],
+    [
+      0.000103,
+      "k"
+    ],
+    [
+      0.000102,
+      "8"
+    ],
+    [
+      0.000090,
+      "s"
+    ],
+    [
+      0.000101,
+      "-"
+    ],
+    [
+      0.000083,
+      "d"
+    ],
+    [
+      0.000110,
+      "e"
+    ],
+    [
+      0.000097,
+      "m"
+    ],
+    [
+      0.000094,
+      "o"
+    ],
+    [
+      0.000389,
+      " "
+    ],
+    [
+      0.000093,
+      "-"
+    ],
+    [
+      0.000104,
+      "-"
+    ],
+    [
+      0.000093,
+      "z"
+    ],
+    [
+      0.000109,
+      "o"
+    ],
+    [
+      0.000099,
+      "n"
+    ],
+    [
+      0.000097,
+      "e"
+    ],
+    [
+      0.000358,
+      " "
+    ],
+    [
+      0.000127,
+      "u"
+    ],
+    [
+      0.000101,
+      "s"
+    ],
+    [
+      0.000110,
+      "-"
+    ],
+    [
+      0.000087,
+      "c"
+    ],
+    [
+      0.000096,
+      "e"
+    ],
+    [
+      0.000098,
+      "n"
+    ],
+    [
+      0.000099,
+      "t"
+    ],
+    [
+      0.000086,
+      "r"
+    ],
+    [
+      0.000115,
+      "a"
+    ],
+    [
+      0.000123,
+      "l"
+    ],
+    [
+      0.000073,
+      "1"
+    ],
+    [
+      0.000102,
+      "-"
+    ],
+    [
+      0.000093,
+      "f"
+    ],
+    [
+      0.000356,
+      " "
+    ],
+    [
+      0.000087,
+      "k"
+    ],
+    [
+      0.000108,
+      "8"
+    ],
+    [
+      0.000097,
+      "s"
+    ],
+    [
+      0.000098,
+      "-"
+    ],
+    [
+      0.000102,
+      "s"
+    ],
+    [
+      0.000110,
+      "l"
+    ],
+    [
+      0.000103,
+      "u"
+    ],
+    [
+      0.000100,
+      "g"
+    ],
+    [
+      0.000107,
+      "-"
+    ],
+    [
+      0.000099,
+      "n"
+    ],
+    [
+      0.000110,
+      "o"
+    ],
+    [
+      0.000108,
+      "d"
+    ],
+    [
+      0.000108,
+      "e"
+    ],
+    [
+      0.000112,
+      "-"
+    ],
+    [
+      0.000115,
+      "1"
+    ],
+    [
+      0.000147,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000012,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001525,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] gcloud compute ssh --project slug-k8s-demo --zone us-central1-f k8s-slug-node-1\u001b[K"
+    ],
+    [
+      0.000053,
+      "\r\r\n"
+    ],
+    [
+      0.001057,
+      "\u001b]2;gcloud compute ssh --project slug-k8s-demo --zone us-central1-f \u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;gcloud\u0007"
+    ],
+    [
+      13.974895,
+      "Warning: Permanently added '146.148.94.161' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      5.194451,
+      "Linux k8s-slug-node-1 3.16.0-0.bpo.4-amd64 #1 SMP Debian 3.16.7-ckt4-3~bpo70+1 (2015-02-12) x86_64\r\n\r\n"
+    ],
+    [
+      0.000520,
+      "=== GCE Kubernetes node setup complete ==="
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.236457,
+      "\u001b]0;adieu@k8s-slug-node-1: ~\u0007adieu@k8s-slug-node-1:~$ "
+    ],
+    [
+      2.124282,
+      "su"
+    ],
+    [
+      0.997187,
+      "d"
+    ],
+    [
+      0.100964,
+      "o"
+    ],
+    [
+      0.113395,
+      " "
+    ],
+    [
+      0.304512,
+      "c"
+    ],
+    [
+      0.111217,
+      "o"
+    ],
+    [
+      0.833440,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.147496,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.336776,
+      "d"
+    ],
+    [
+      0.087767,
+      "o"
+    ],
+    [
+      0.171413,
+      "c"
+    ],
+    [
+      0.043764,
+      "k"
+    ],
+    [
+      0.156804,
+      "e"
+    ],
+    [
+      0.058142,
+      "r"
+    ],
+    [
+      0.087867,
+      " "
+    ],
+    [
+      0.156874,
+      "p"
+    ],
+    [
+      0.101584,
+      "s"
+    ],
+    [
+      0.486174,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "CONTAINER ID"
+    ],
+    [
+      0.000200,
+      "        "
+    ],
+    [
+      0.000221,
+      "IMAGE"
+    ],
+    [
+      0.000331,
+      "        "
+    ],
+    [
+      0.000785,
+      "        "
+    ],
+    [
+      0.000489,
+      "                "
+    ],
+    [
+      0.303954,
+      "                     COMMAND                CREATED              STATUS              PORTS               NAMES\r\n3cad38269944        gcr.io/google_containers/example-guestbook-php-redis:v2   \"/bin/sh -c /run.sh\"   20 seconds ago       "
+    ],
+    [
+      0.000657,
+      "Up 19 seconds                           k8s_php-redis.18f51fad_frontend-controller-af8am_default_2262af23-eb71-11e4-adb1-42010af0d1eb_57f1ce7a          \r\n8d7973d26a87        gcr.io/google_containers/example-guestbook-php-redis:v2   \"/bin/sh -c /run.sh\"   20 seconds ago       Up 19 seconds                           k8s_php-redis.18f51fad_frontend-controller-z2vcz_default_226216e9-eb71-11e4-adb1-42010af0d1eb_0622f044"
+    ],
+    [
+      0.000433,
+      "          \r\n48ea24e39c01        gcr.io/google_containers/example-guestbook-php-redis:v2   \"/bin/sh -c /run.sh\"   20 seconds ago       Up 19 seconds                           k8s_php-redis.18f51fad_frontend-controller-61eg2_default_226255db-eb71-11e4-adb1-42010af0d1eb_f4a906a9          \r\nfe2fb5265a03        gcr.io/google_containers/redis-slave:v2        "
+    ],
+    [
+      0.000429,
+      "           \"/bin/sh -c /run.sh\"   About a minute ago   Up About a minute                       k8s_redis-slave.e36e1627_redis-slave-controller-0zzb4_default_1c8c352f-eb71-11e4-adb1-42010af0d1eb_06e2bb75     \r\n877a89de9011        gcr.io/google_containers/redis-slave:v2                   \"/bin/sh -c /run.sh\"   About a minute ago   "
+    ],
+    [
+      0.001335,
+      "Up About a minute                       k8s_redis-slave.e36e1627_redis-slave-controller-h1c58_default_1c8bccf4-eb71-11e4-adb1-42010af0d1eb_1b242d05     \r\n02b34b3168ac        gcr.io/google_containers/pause:0.8.0                      \"/pause\"               About a minute ago   Up About a minute                       "
+    ],
+    [
+      0.000600,
+      "k8s_POD.3af70852_frontend-controller-af8am_default_2262af23-eb71-11e4-adb1-42010af0d1eb_6f49301d                \r\n36f3b627879e        gcr.io/google_containers/pause:0.8.0                      \"/pause\"               About a minute ago   Up About a minute                       k8s_POD.3af70852_frontend-controller-61eg2_default_226255db-eb71-11e4-adb1-42010af0d1eb_dfafd9b5                \r\n"
+    ],
+    [
+      0.001873,
+      "7b6f9ed05980        gcr.io/google_containers/pause:0.8.0                      \"/pause\"               About a minute ago   Up About a minute                       k8s_POD.3af70852_frontend-controller-z2vcz_default_226216e9-eb71-11e4-adb1-42010af0d1eb_a1d1e5ff                \r\n7af4304baf8d        gcr.io/google_containers/pause:0.8.0        "
+    ],
+    [
+      0.000780,
+      "              \"/pause\"               About a minute ago   Up About a minute                       k8s_POD.50e0043f_redis-slave-controller-0zzb4_default_1c8c352f-eb71-11e4-adb1-42010af0d1eb_fd3ac2a5             \r\n76af782f5f80        gcr.io/google_containers/pause:0.8.0                      \"/pause\"               "
+    ],
+    [
+      0.303881,
+      "About a minute ago   Up About a minute                       k8s_POD.50e0043f_redis-slave-controller-h1c58_default_1c8bccf4-eb71-11e4-adb1-42010af0d1eb_529d84a4             \r\ne303adc99978        gcr.io/google_containers/redis:latest                     \"redis-server /etc/r   2 minutes ago        Up 2 minutes                "
+    ],
+    [
+      0.000168,
+      "            k8s_redis-master.af90136e_redis-master-controller-k1xqh_default_05060915-eb71-11e4-adb1-42010af0d1eb_08a0a341   \r\n289e6c6a9b19        gcr.io/google_containers/pause:0.8.0                      \"/pause\"               2 minutes ago        Up 2 minutes                            k8s_POD.50e0043f_redis-master-controller-k1xqh_default_05060915-eb71-11e4-adb1-42010af0d1eb_815bb4a9        "
+    ],
+    [
+      0.001018,
+      "    \r\n053a415e2e90        gcr.io/google_containers/kube2sky:1.1                     \"/kube2sky -domain=k   3 minutes ago        Up 3 minutes                            k8s_kube2sky.de58fac3_kube-dns-uc7r0_default_dc85008b-eb70-11e4-adb1-42010af0d1eb_0d140417                      \r\nf8937be4c83b        quay.io/coreos/etcd:v2.0.3"
+    ],
+    [
+      0.001822,
+      "                                \"/etcd -listen-clien   3 minutes ago        Up 3 minutes                            k8s_etcd.97d6179f_kube-dns-uc7r0_default_dc85008b-eb70-11e4-adb1-42010af0d1eb_e256d0d6                          \r\n5452079bf80f        gcr.io/google_containers/skydns:2015-03-11-001            "
+    ],
+    [
+      0.004261,
+      "\"/skydns -machines=h   3 minutes ago        Up 3 minutes                            k8s_skydns.d9122cf3_kube-dns-uc7r0_default_dc85008b-eb70-11e4-adb1-42010af0d1eb_00c2e920                        \r\ne9a8d611a6d8        gcr.io/google_containers/pause:0.8.0                      \"/pause\"               3 minutes ago        "
+    ],
+    [
+      0.001075,
+      "Up 3 minutes                            k8s_POD.48fc0515_kube-dns-uc7r0_default_dc85008b-eb70-11e4-adb1-42010af0d1eb_0e4f3bb4                           \r\n\u001b]0;adieu@k8s-slug-node-1: ~\u0007adieu@k8s-slug-node-1:~$ "
+    ],
+    [
+      8.382734,
+      "e"
+    ],
+    [
+      0.234599,
+      "x"
+    ],
+    [
+      0.591222,
+      "i"
+    ],
+    [
+      0.000032,
+      "t"
+    ],
+    [
+      1.840957,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.000570,
+      "Connection to 146.148.94.161 closed.\r\r\n"
+    ],
+    [
+      0.058101,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000048,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001337,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      0.000164,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000027,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001640,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      3.746131,
+      "k"
+    ],
+    [
+      0.000155,
+      "\u0008ku"
+    ],
+    [
+      0.000179,
+      "b"
+    ],
+    [
+      0.000193,
+      "e"
+    ],
+    [
+      0.000152,
+      "c"
+    ],
+    [
+      0.000146,
+      "t"
+    ],
+    [
+      0.000079,
+      "l"
+    ],
+    [
+      0.000437,
+      " "
+    ],
+    [
+      0.000102,
+      "g"
+    ],
+    [
+      0.000112,
+      "e"
+    ],
+    [
+      0.000105,
+      "t"
+    ],
+    [
+      0.000358,
+      " "
+    ],
+    [
+      0.000096,
+      "p"
+    ],
+    [
+      0.000107,
+      "o"
+    ],
+    [
+      0.000101,
+      "d"
+    ],
+    [
+      0.000095,
+      "s"
+    ],
+    [
+      0.000078,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000031,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001189,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000009,
+      "kubectl get pods\u001b[K"
+    ],
+    [
+      0.000060,
+      "\r\r\n"
+    ],
+    [
+      0.001297,
+      "\u001b]2;kubectl get pods\u0007\u001b]1;kubectl\u0007"
+    ],
+    [
+      1.707021,
+      "POD                "
+    ],
+    [
+      0.000012,
+      "             IP           CONTAINER(S)     IMAGE(S)                                                  HOST                                        LABELS                                                "
+    ],
+    [
+      0.000005,
+      "              STATUS    CREATED"
+    ],
+    [
+      0.000005,
+      "\r\netcd-server-k8s-slug-master     "
+    ],
+    [
+      0.000004,
+      "             "
+    ],
+    [
+      0.000004,
+      "etcd-container   "
+    ],
+    [
+      0.000004,
+      "gcr.io/google_containers/etcd:2.0.9        "
+    ],
+    [
+      0.000004,
+      "               "
+    ],
+    [
+      0.000005,
+      "k8s-slug-master.c.slug-k8s-demo.internal/   \u003cnone\u003e"
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "      Running"
+    ],
+    [
+      0.000004,
+      "   4 minutes"
+    ],
+    [
+      0.000005,
+      "\r\nfrontend-controller-61eg2"
+    ],
+    [
+      0.000005,
+      "       10.192.1.7"
+    ],
+    [
+      0.000004,
+      "   php-redis        "
+    ],
+    [
+      0.000004,
+      "gcr.io/google_containers/example-guestbook-php-redis:v2   "
+    ],
+    [
+      0.000004,
+      "k8s-slug-node-1.c.slug-k8s-demo.internal/   "
+    ],
+    [
+      0.000004,
+      "app=frontend,name=frontend,uses=redis-slave-or-redis-master        "
+    ],
+    [
+      0.000005,
+      " Running"
+    ],
+    [
+      0.000022,
+      "   2 minutes\r\n"
+    ],
+    [
+      0.000010,
+      "frontend-controller-af8am       10.192.1.8   php-redis        gcr.io/google_containers/example-guestbook-php-redis:v2   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=frontend,name=frontend,uses=redis-slave-or-redis-master        "
+    ],
+    [
+      0.000005,
+      " Running   2 minutes"
+    ],
+    [
+      0.000005,
+      "\r\nfrontend-controller-z2vcz"
+    ],
+    [
+      0.000004,
+      "       10.192.1.6"
+    ],
+    [
+      0.000004,
+      "   php-redis"
+    ],
+    [
+      0.000004,
+      "        gcr.io/google_containers/example-guestbook-php-redis:v2"
+    ],
+    [
+      0.000005,
+      "   k8s-slug-node-1.c.slug-k8s-demo.internal/"
+    ],
+    [
+      0.000004,
+      "   app=frontend,name=frontend,uses=redis-slave-or-redis-master"
+    ],
+    [
+      0.000004,
+      "         "
+    ],
+    [
+      0.000005,
+      "Running   "
+    ],
+    [
+      0.000005,
+      "2 minutes\r\n"
+    ],
+    [
+      0.000004,
+      "kube-dns-uc7r0        "
+    ],
+    [
+      0.000004,
+      "          "
+    ],
+    [
+      0.000007,
+      "10.192.1.2   "
+    ],
+    [
+      0.000005,
+      "etcd             quay.io/coreos/etcd:v2.0.3"
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "k8s-slug-node-1.c.slug-k8s-demo.internal/   "
+    ],
+    [
+      0.000004,
+      "k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns   "
+    ],
+    [
+      0.000004,
+      "Running   "
+    ],
+    [
+      0.000143,
+      "4 minutes\r\n"
+    ],
+    [
+      0.000013,
+      "                                             kube2sky         gcr.io/google_containers/kube2sky:1.1                                                                                                                                               \r\n                                             skydns           gcr.io/google_containers/skydns:2015-03-11-001                                                                                                                                      \r\nnginx-k8s-slug-master                        nginx            gcr.io/google-containers/nginx:v1                         k8s-slug-master.c.slug-k8s-demo.internal/   "
+    ],
+    [
+      0.000015,
+      "\u003cnone\u003e                                                              Running"
+    ],
+    [
+      0.000005,
+      "   4 minutes\r\n"
+    ],
+    [
+      0.000005,
+      "redis-master-controller-k1xqh   10.192.1.3"
+    ],
+    [
+      0.000005,
+      "   redis-master"
+    ],
+    [
+      0.000004,
+      "     gcr.io/google_containers/redis"
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000004,
+      "    k8s-slug-node-1.c.slug-k8s-demo.internal/"
+    ],
+    [
+      0.000004,
+      "   app=redis,name=redis-master        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000005,
+      " Running"
+    ],
+    [
+      0.000005,
+      "   2 minutes\r\n"
+    ],
+    [
+      0.000125,
+      "redis-slave-controller-0zzb4    10.192.1.5"
+    ],
+    [
+      0.000010,
+      "   redis-slave      gcr.io/google_containers/redis-slave:v2                   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=redis,name=redis-slave,uses=redis-master                        Running   2 minutes\r\nredis-slave-controller-h1c58    10.192.1.4   redis-slave      gcr.io/google_containers/redis-slave:v2                   k8s-slug-node-1.c.slug-k8s-demo.internal/   app=redis,name=redis-slave,uses=redis-master                        Running   2 minutes\r\n"
+    ],
+    [
+      0.001260,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;adieu@adieu-air: ~/Projects/slug-k8s-demo\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;..slug-k8s-demo\u0007"
+    ],
+    [
+      0.001530,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] "
+    ],
+    [
+      0.000136,
+      "\u001b[K"
+    ],
+    [
+      0.000198,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000036,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001572,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[~/Projects/slug-k8s-demo] \u001b[K"
+    ],
+    [
+      10.272816,
+      "\r\r\n"
+    ]
+  ]
+}
