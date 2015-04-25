@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 23,
+  "duration": 30.499523,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.013935,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000012,
+      "bash-3.2$ "
+    ],
+    [
+      4.922073,
+      "c"
+    ],
+    [
+      0.111911,
+      "l"
+    ],
+    [
+      0.111992,
+      "e"
+    ],
+    [
+      0.047843,
+      "a"
+    ],
+    [
+      0.160299,
+      "r"
+    ],
+    [
+      1.479981,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175957,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159887,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144131,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159970,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160043,
+      "\u0007"
+    ],
+    [
+      0.320756,
+      "c"
+    ],
+    [
+      0.103031,
+      "l"
+    ],
+    [
+      0.104137,
+      "e"
+    ],
+    [
+      0.079951,
+      "a"
+    ],
+    [
+      0.120045,
+      "r"
+    ],
+    [
+      0.176144,
+      "\r\n"
+    ],
+    [
+      0.005724,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000206,
+      "bash-3.2$ "
+    ],
+    [
+      4.578043,
+      "m"
+    ],
+    [
+      0.191925,
+      "a"
+    ],
+    [
+      0.160111,
+      "k"
+    ],
+    [
+      0.063964,
+      "e"
+    ],
+    [
+      0.167896,
+      " "
+    ],
+    [
+      0.544221,
+      "d"
+    ],
+    [
+      0.159843,
+      "o"
+    ],
+    [
+      0.031810,
+      "c"
+    ],
+    [
+      0.192203,
+      "k"
+    ],
+    [
+      0.039957,
+      "e"
+    ],
+    [
+      0.128197,
+      "r"
+    ],
+    [
+      0.240082,
+      "-"
+    ],
+    [
+      0.143765,
+      "r"
+    ],
+    [
+      0.128031,
+      "u"
+    ],
+    [
+      0.176114,
+      "n"
+    ],
+    [
+      0.175957,
+      "\r\n"
+    ],
+    [
+      1.028341,
+      "docker build -t registry.giantswarm.io/kord/ghost-server .\r\n"
+    ],
+    [
+      0.302979,
+      "Sending build context to Docker daemon 557.1 kB\r"
+    ],
+    [
+      0.021155,
+      "Sending build context to Docker daemon 1.114 MB\r"
+    ],
+    [
+      0.024225,
+      "Sending build context to Docker daemon 1.671 MB\r"
+    ],
+    [
+      0.016029,
+      "Sending build context to Docker daemon 2.228 MB\r"
+    ],
+    [
+      0.014019,
+      "Sending build context to Docker daemon 2.537 MB\r\r\r\n"
+    ],
+    [
+      0.000008,
+      "Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.042293,
+      "Step 0 : FROM dockerfile/ubuntu\r\n"
+    ],
+    [
+      0.000220,
+      " ---\u003e aee14a1743b2\r\n"
+    ],
+    [
+      0.000033,
+      "Step 1 : RUN apt-get update\r\n"
+    ],
+    [
+      0.183681,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000011,
+      " ---\u003e 2fbbf6007677\r\nStep 2 : RUN apt-get install -y mysql-client mysql-client-5.5 python-pip\r\n"
+    ],
+    [
+      0.179614,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000051,
+      " ---\u003e 5555e4e90c94\r\n"
+    ],
+    [
+      0.000005,
+      "Step 3 : RUN apt-get clean\r\n"
+    ],
+    [
+      0.174557,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000009,
+      " ---\u003e 140f4451c81f\r\n"
+    ],
+    [
+      0.000109,
+      "Step 4 : RUN rm -rf /var/lib/apt/lists/*\r\n"
+    ],
+    [
+      0.175202,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000011,
+      " ---\u003e c73fff9df811\r\nStep 5 : RUN pip install awscli\r\n"
+    ],
+    [
+      0.175592,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000073,
+      " ---\u003e 2c3f6f266a13\r\n"
+    ],
+    [
+      0.000083,
+      "Step 6 : RUN cd /tmp \u0026\u0026   wget http://nodejs.org/dist/v0.10.36/node-v0.10.36.tar.gz \u0026\u0026   tar xvzf node-v0.10.36.tar.gz \u0026\u0026   rm -f node-v0.10.36.tar.gz \u0026\u0026   cd node-v* \u0026\u0026   ./configure \u0026\u0026   CXX=\"g++ -Wno-unused-local-typedefs\" make \u0026\u0026   CXX=\"g++ -Wno-unused-local-typedefs\" make install \u0026\u0026   cd /tmp \u0026\u0026   rm -rf /tmp/node-v* \u0026\u0026   npm install -g npm \u0026\u0026   echo -e '\\n# Node.js\\nexport PATH=\"node_modules/.bin:$PATH\"' \u003e\u003e /root/.bashrc\r\n"
+    ],
+    [
+      0.172830,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000052,
+      " ---\u003e 84d130072373\r\n"
+    ],
+    [
+      0.000088,
+      "Step 7 : RUN cd /tmp \u0026\u0026   wget https://ghost.org/zip/ghost-latest.zip \u0026\u0026   unzip ghost-latest.zip -d /ghost \u0026\u0026   rm -f ghost-latest.zip \u0026\u0026   cd /ghost \u0026\u0026   npm install mysql \u0026\u0026  npm install --production \u0026\u0026  useradd ghost --home /ghost\r\n"
+    ],
+    [
+      0.176120,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000065,
+      " ---\u003e a9e33aa2d381\r\n"
+    ],
+    [
+      0.000049,
+      "Step 8 : ENV NODE_ENV production\r\n"
+    ],
+    [
+      0.176118,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000009,
+      " ---\u003e 4e3e8635e22b\r\nStep 9 : VOLUME /data /ghost-override\r\n"
+    ],
+    [
+      0.179127,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000011,
+      " ---\u003e b1c1729594a9\r\nStep 10 : WORKDIR /ghost\r\n"
+    ],
+    [
+      0.175337,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000012,
+      " ---\u003e 5056bdf8f552\r\nStep 11 : COPY start.sh start.sh\r\n"
+    ],
+    [
+      0.173033,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000009,
+      " ---\u003e 44b705878834\r\n"
+    ],
+    [
+      0.000003,
+      "Step 12 : COPY ghost-files/* /ghost-override/\r\n"
+    ],
+    [
+      0.172514,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000010,
+      " ---\u003e 95b94c5baf14\r\nStep 13 : COPY backup.sh backup.sh\r\n"
+    ],
+    [
+      0.170662,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000010,
+      " ---\u003e dbc41a22659e\r\nStep 14 : COPY cron.conf cron.conf\r\n"
+    ],
+    [
+      0.173452,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000012,
+      " ---\u003e 9441ea8d598b\r\n"
+    ],
+    [
+      0.000279,
+      "Step 15 : CMD bash /ghost/start.sh\r\n"
+    ],
+    [
+      0.183734,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000035,
+      " ---\u003e 9dfa2f1416cc\r\n"
+    ],
+    [
+      0.000019,
+      "Step 16 : EXPOSE 2368\r\n"
+    ],
+    [
+      0.175360,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000010,
+      " ---\u003e 2ded99e412c3\r\n"
+    ],
+    [
+      0.000101,
+      "Successfully built 2ded99e412c3\r\n"
+    ],
+    [
+      1.505739,
+      "docker run --name=ghost --rm -ti \\\r\n\t\t-e \"AWS_ACCESS_KEY_ID=\" \\\r\n\t\t-e \"AWS_SECRET_ACCESS_KEY=\" \\\r\n\t\t-e \"AWS_DEFAULT_REGION=eu-central-1\" \\\r\n"
+    ],
+    [
+      0.000013,
+      "\t\t-e \"S3_BUCKET=giantghost-kord/backups\" \\\r\n\t\t-e \"MYSQL_DATABASE=ghost\" \\\r\n\t\t-e \"MYSQL_USERNAME=root\" \\\r\n\t\t-e \"MYSQL_PASSWORD=f00bar\" \\\r\n\t\t-e \"MAILGUN_USERNAME=\" \\\r\n\t\t-e \"MAILGUN_APIKEY=\" \\\r\n\t\t-e \"HOSTNAME=192.168.59.103:2368\" \\\r\n\t\t-e \"CNAME=192.168.59.103:2368\" \\\r\n\t\t--link mysql:mysql \\\r\n\t\t-p 2368:2368 \\\r\n\t\tregistry.giantswarm.io/kord/ghost-server\r\n"
+    ],
+    [
+      0.794797,
+      "##############################################################\r\n"
+    ],
+    [
+      0.001382,
+      "Using stock mail configuration...\r\nUsing /ghost-override/config.js for config file."
+    ],
+    [
+      0.000921,
+      "\r\n"
+    ],
+    [
+      0.002160,
+      "##############################################################\r\n"
+    ],
+    [
+      0.000710,
+      "Patching ghost config file...\r\n"
+    ],
+    [
+      0.015386,
+      "Patching backup file...\r\n"
+    ],
+    [
+      0.017039,
+      "Backups are disabled...\r\n"
+    ],
+    [
+      0.952593,
+      "\r\n\u003e ghost@0.5.9 start /ghost\r\n\u003e node index\r\n\r\n"
+    ],
+    [
+      1.419882,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mUp to date at version 003\u001b[39m\r\n"
+    ],
+    [
+      0.148322,
+      "\u001b[32mGhost is running...\u001b[39m \r\nYour blog is now available on http://192.168.59.103:2368 \u001b[90m\r\nCtrl+C to shut down\u001b[39m\r\n"
+    ],
+    [
+      2.675199,
+      "^C"
+    ],
+    [
+      0.000087,
+      "\u001b[31m\r\nGhost has shut down\u001b[39m\r\n"
+    ],
+    [
+      0.001364,
+      "\r\nYour blog is now offline\r\n"
+    ],
+    [
+      0.478712,
+      "make: *** [docker-run] Error 130\r\n"
+    ],
+    [
+      0.000323,
+      "bash-3.2$ "
+    ],
+    [
+      2.014267,
+      "e"
+    ],
+    [
+      0.191985,
+      "x"
+    ],
+    [
+      0.095753,
+      "i"
+    ],
+    [
+      0.096160,
+      "t"
+    ],
+    [
+      0.136264,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "exit\r\n"
+    ]
+  ]
+}
