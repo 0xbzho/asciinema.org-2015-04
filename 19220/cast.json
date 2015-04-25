@@ -1,0 +1,542 @@
+{
+  "version": 1,
+  "width": 154,
+  "height": 57,
+  "duration": 17.578492,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.073501,
+      "\u001b]0;root@vbol01:~\u001b\\"
+    ],
+    [
+      0.000962,
+      "[root@vbol01 ~]# "
+    ],
+    [
+      2.365676,
+      "l"
+    ],
+    [
+      0.080568,
+      "s"
+    ],
+    [
+      0.055226,
+      " "
+    ],
+    [
+      0.072064,
+      "-"
+    ],
+    [
+      0.048504,
+      "l"
+    ],
+    [
+      0.103828,
+      "r"
+    ],
+    [
+      0.039951,
+      "e"
+    ],
+    [
+      0.639592,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.232536,
+      "\r\n"
+    ],
+    [
+      0.011046,
+      "total 457388"
+    ],
+    [
+      0.000449,
+      "\r\n"
+    ],
+    [
+      0.000436,
+      "-rw-------.  1 root root       4490 May  4  2012 vsftpd.conf.cfcstvl-050151"
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "-rw-------.  1 root root       4490 May  4  2012 vsftpd.conf.cfcsdvl-050101"
+    ],
+    [
+      0.000648,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "drwxr-xr-x. 10 root root       4096 Jan 15 17:27 \u001b[0m\u001b[01;34mvmware-vsphere-cli-distrib\u001b[0m"
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "-rw-r--r--.  1 root root   23733152 Dec 18 10:56 \u001b[01;31mVMware-vSphere-CLI-5.0.0-615831.x86_64.tar.gz\u001b[0m"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000162,
+      "-rw-r--r--.  1 root root   64296960 Jan 20 19:46 \u001b[01;31mVMwareTools-9.4.5.tar\u001b[0m"
+    ],
+    [
+      0.000792,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "-r--r--r--.  1 root root   62889032 Apr 10  2014 \u001b[01;31mVMwareTools-9.4.5-1734305.tar.gz\u001b[0m"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.000218,
+      "-rw-r--r--.  1 root root   70130440 Jan  7 08:56 \u001b[01;31mvagrant_1.7.2_x86_64.rpm\u001b[0m"
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "-rw-r--r--.  1 3035 wheel       576 Aug 28  1997 TODO"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "drwxr-xr-x.  5 root root       4096 Apr 20 11:17 \u001b[01;34mtmux-sessionist\u001b[0m"
+    ],
+    [
+      0.000311,
+      "\r\n"
+    ],
+    [
+      0.000650,
+      "-rw-r--r--.  1 root root     248544 Aug 22  2014 \u001b[01;31mtmux-1.8-4.el7.x86_64.rpm\u001b[0m"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "drwxr-xr-x.  2 root root       4096 Jan 15 17:40 \u001b[01;34mtmp\u001b[0m"
+    ],
+    [
+      0.000258,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "-rw-r--r--.  1 root root       1176 Oct 30 05:33 sysctl.conf"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "-rwxr-xr-x.  1 3035 wheel       909 Aug  4  1997 \u001b[01;32msendreports\u001b[0m"
+    ],
+    [
+      0.000781,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "drwxr-xr-x.  2 root root       4096 Feb  5 16:56 \u001b[01;34msap_ha\u001b[0m"
+    ],
+    [
+      0.001558,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "-rw-r--r--.  1 3035 wheel     38252 Aug  4  1997 rfc1912.txt"
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "drwxr-xr-x.  2 root root       4096 Jun 20  2014 \u001b[01;34mrep.orts\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "-rw-r--r--.  1 3035 wheel      4277 Aug  4  1997 README"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "-rw-r--r--.  1 root root     197642 Jun 20  2014 podunk.errors"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "-rw-r--r--.  1 root root    1481200 Mar  7  2014 \u001b[01;31mphp55-5.5.10-1.el6.x86_64.rpm\u001b[0m"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "drwxr-xr-x.  2 root root       4096 Mar 17 19:15 \u001b[01;34mold_vmwaretools\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "-rw-------.  1 root root      21390 Feb 25 15:35 ochlp-sat001.bash_history"
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "-rw-r--r--.  1 root root     128463 Jan 20 15:31 oami.zone.rochefr"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "-rw-r--r--.  1 root root          0 Jun 20  2014 oami.eu.output"
+    ],
+    [
+      0.000614,
+      "\r\n"
+    ],
+    [
+      0.000486,
+      "drwxr-xr-x.  3 root root       4096 Jun 20  2014 \u001b[01;34mnew_dnswalk\u001b[0m"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "-rwxr-xr-x.  1 3035 wheel       678 Aug 11  1997 \u001b[01;32mmakereports\u001b[0m"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "-rw-r--r--.  1 root root  230677187 Feb  4 18:50 \u001b[01;31mLibreOffice_4.3.5_Linux_x86-64_rpm.tar.gz\u001b[0m"
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "-rw-r--r--.  1 root root       7572 Jun 13  2014 install.log.syslog"
+    ],
+    [
+      0.000467,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "-rw-r--r--.  1 root root      28387 Jun 13  2014 install.log"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "-rw-r--r--.  1 root root      20444 Dec 17 17:26 index.html.1"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "-rw-r--r--.  1 root root        694 Aug  8  2014 index.html"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "-rw-r--r--.  1 root root   13383680 Sep 11  2014 \u001b[01;31mImageMagick.tar\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "drwxr-xr-x.  2 root root       4096 Sep 11  2014 \u001b[01;34mImageMagick\u001b[0m"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "-rw-r--r--.  1 root root      52184 Mar  6 15:02 \u001b[01;31mglusterfs-rdma-3.6.2-1.el6.x86_64.rpm\u001b[0m"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "drwxr-xr-x.  4 root root       4096 Apr 25 17:18 \u001b[01;34mglibc_patch\u001b[0m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "-rw-r--r--.  1 root root          0 Sep 12  2014 fred"
+    ],
+    [
+      0.000296,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "-rw-r--r--.  1 root root      14540 Apr 14 15:59 \u001b[01;31mepel-release-6-8.noarch.rpm\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--.  1 root root      12232 Aug 12  2010 \u001b[01;31mepel-release-5-4.noarch.rpm\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "-rwxr-xr-x.  1 3035 wheel       615 Aug  4  1997 \u001b[01;32mdo-dnswalk\u001b[0m"
+    ],
+    [
+      0.000856,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "-rw-r--r--.  1 3035 wheel      5289 Aug  4  1997 dnswalk.errors"
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "-rw-r--r--.  1 3035 wheel      7691 Aug  5  1997 dnswalk.1"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "-rwxr-xr-x.  1 3035 wheel     13299 Oct  6  1997 \u001b[01;32mdnswalk\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "-r--r-----.  1 root root        292 Aug 11  2014 discovery"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "-r--r-----.  1 root root         45 Aug 12  2014 devops"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "drwxr-xr-x.  2 root root       4096 Dec  5 14:56 \u001b[01;34mdeployments\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--.  1 root root         25 Jan 27 17:32 deploy"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "-rw-r-----.  1 root root       1137 Oct 21  2013 cluster.conf"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "-rwxr--r--.  1 root root      24409 Sep 26  2014 \u001b[01;32mcheck-libuuid.sh\u001b[0m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "-rw-r--r--.  1 3035 wheel      6330 Oct  6  1997 CHANGES"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-------.  1 root root      22293 Jan 16 12:17 bash_history-svdapp325"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "-rw-------.  1 root root       1399 Jun 13  2014 anaconda-ks.cfg"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "-r--r-----.  1 root root         66 Aug 11  2014 admins"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--.  1 root root        240 Oct 30 06:40 admdocs"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "-rwxr-xr-x.  1 root root     756936 Jan 23 10:48 \u001b[01;32m990004.jpg\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[m"
+    ],
+    [
+      0.002625,
+      "\u001b]0;root@vbol01:~\u001b\\[root@vbol01 ~]# "
+    ],
+    [
+      0.671722,
+      "\r\n\u001b]0;root@vbol01:~\u001b\\[root@vbol01 ~]# "
+    ],
+    [
+      0.144002,
+      "\r\n\u001b]0;root@vbol01:~\u001b\\[root@vbol01 ~]# "
+    ],
+    [
+      0.143930,
+      "\r\n\u001b]0;root@vbol01:~\u001b\\[root@vbol01 ~]# "
+    ],
+    [
+      3.280005,
+      "\r\n\u001b]0;root@vbol01:~\u001b\\[root@vbol01 ~]# "
+    ],
+    [
+      0.463786,
+      "ls -lr"
+    ],
+    [
+      2.023803,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      6.296157,
+      "e"
+    ],
+    [
+      0.128004,
+      "x"
+    ],
+    [
+      0.143779,
+      "i"
+    ],
+    [
+      0.096603,
+      "t"
+    ],
+    [
+      0.440439,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
