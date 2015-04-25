@@ -1,0 +1,2634 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 23,
+  "duration": 106.835861,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009121,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      2.783060,
+      "#"
+    ],
+    [
+      0.783857,
+      " "
+    ],
+    [
+      0.152018,
+      "h"
+    ],
+    [
+      0.135893,
+      "o"
+    ],
+    [
+      0.128070,
+      "w"
+    ],
+    [
+      0.191938,
+      "d"
+    ],
+    [
+      0.128130,
+      "y"
+    ],
+    [
+      0.191967,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "bash-3.2$ "
+    ],
+    [
+      1.001391,
+      "#"
+    ],
+    [
+      0.000008,
+      " let's lau"
+    ],
+    [
+      0.000010,
+      "n"
+    ],
+    [
+      0.000003,
+      "c"
+    ],
+    [
+      0.000012,
+      "h"
+    ],
+    [
+      0.000284,
+      " "
+    ],
+    [
+      0.000008,
+      "a blog with ghost and giant"
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000011,
+      "s"
+    ],
+    [
+      0.000013,
+      "w"
+    ],
+    [
+      0.000016,
+      "a"
+    ],
+    [
+      0.000012,
+      "r"
+    ],
+    [
+      0.000015,
+      "m"
+    ],
+    [
+      0.000014,
+      "!"
+    ],
+    [
+      1.326213,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "bash-3.2$ "
+    ],
+    [
+      4.905834,
+      "#"
+    ],
+    [
+      0.000007,
+      " fi"
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000003,
+      "s"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000003,
+      ","
+    ],
+    [
+      0.000010,
+      " "
+    ],
+    [
+      0.000013,
+      "le"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000015,
+      "'"
+    ],
+    [
+      0.000005,
+      "s "
+    ],
+    [
+      0.000011,
+      "c"
+    ],
+    [
+      0.000009,
+      "h"
+    ],
+    [
+      0.000010,
+      "e"
+    ],
+    [
+      0.000004,
+      "c"
+    ],
+    [
+      0.000012,
+      "k"
+    ],
+    [
+      0.000012,
+      " "
+    ],
+    [
+      0.000010,
+      "o"
+    ],
+    [
+      0.000004,
+      "u"
+    ],
+    [
+      0.000017,
+      "t"
+    ],
+    [
+      0.000011,
+      " "
+    ],
+    [
+      0.000012,
+      "o"
+    ],
+    [
+      0.000010,
+      "u"
+    ],
+    [
+      0.000013,
+      "r"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000012,
+      "r"
+    ],
+    [
+      0.000013,
+      "e"
+    ],
+    [
+      0.000010,
+      "p"
+    ],
+    [
+      0.000012,
+      "o"
+    ],
+    [
+      0.510273,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "bash-3.2$ "
+    ],
+    [
+      4.553337,
+      "g"
+    ],
+    [
+      0.000007,
+      "it "
+    ],
+    [
+      0.000015,
+      "cl"
+    ],
+    [
+      0.000004,
+      "o"
+    ],
+    [
+      0.000019,
+      "ne"
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000003,
+      "h"
+    ],
+    [
+      0.000010,
+      "t"
+    ],
+    [
+      0.000016,
+      "tp"
+    ],
+    [
+      0.000003,
+      "s"
+    ],
+    [
+      0.000013,
+      ":"
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.000006,
+      "/"
+    ],
+    [
+      0.000008,
+      "g"
+    ],
+    [
+      0.000009,
+      "i"
+    ],
+    [
+      0.000011,
+      "t"
+    ],
+    [
+      0.000003,
+      "h"
+    ],
+    [
+      0.000013,
+      "u"
+    ],
+    [
+      0.000015,
+      "b"
+    ],
+    [
+      0.000004,
+      "."
+    ],
+    [
+      0.000014,
+      "c"
+    ],
+    [
+      0.000013,
+      "o"
+    ],
+    [
+      0.000010,
+      "m"
+    ],
+    [
+      0.000013,
+      "/"
+    ],
+    [
+      0.000010,
+      "k"
+    ],
+    [
+      0.000009,
+      "o"
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000011,
+      "d"
+    ],
+    [
+      0.000015,
+      "l"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000016,
+      "s"
+    ],
+    [
+      0.000012,
+      "s"
+    ],
+    [
+      0.000013,
+      "/"
+    ],
+    [
+      0.000013,
+      "s"
+    ],
+    [
+      0.000013,
+      "w"
+    ],
+    [
+      0.000013,
+      "a"
+    ],
+    [
+      0.000014,
+      "r"
+    ],
+    [
+      0.000013,
+      "m"
+    ],
+    [
+      0.000014,
+      "-"
+    ],
+    [
+      0.000014,
+      "g"
+    ],
+    [
+      0.000014,
+      "h"
+    ],
+    [
+      0.000014,
+      "o"
+    ],
+    [
+      0.000014,
+      "s"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      0.000013,
+      "."
+    ],
+    [
+      0.000015,
+      "g"
+    ],
+    [
+      0.000014,
+      "i"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      0.550033,
+      "\r\n"
+    ],
+    [
+      0.004235,
+      "Cloning into 'swarm-ghost'...\r\n"
+    ],
+    [
+      1.081456,
+      "remote: Counting objects: 198, done.\u001b[K\r\n"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:   2% (1/50)   \u001b[K\rremote: Compressing objects:   4% (2/50)   \u001b[K\rremote: Compressing objects:   6% (3/50)   \u001b[K\r"
+    ],
+    [
+      0.000060,
+      "remote: Compressing objects:   8% (4/50)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  10% (5/50)   \u001b[K\r"
+    ],
+    [
+      0.001198,
+      "remote: Compressing objects:  12% (6/50)   \u001b[K\rremote: Compressing objects:  14% (7/50)   \u001b[K\r"
+    ],
+    [
+      0.076500,
+      "remote: Compressing objects:  16% (8/50)   \u001b[K\rremote: Compressing objects:  18% (9/50)   \u001b[K\rremote: Compressing objects:  20% (10/50)   \u001b[K\rremote: Compressing objects:  22% (11/50)   \u001b[K\r"
+    ],
+    [
+      0.000021,
+      "remote: Compressing objects:  24% (12/50)   \u001b[K\r"
+    ],
+    [
+      0.000048,
+      "remote: Compressing objects:  26% (13/50)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  28% (14/50)   \u001b[K\rremote: Compressing objects:  30% (15/50)   \u001b[K\r"
+    ],
+    [
+      0.000019,
+      "remote: Compressing objects:  32% (16/50)   \u001b[K\rremote: Compressing objects:  34% (17/50)   \u001b[K\r"
+    ],
+    [
+      0.000027,
+      "remote: Compressing objects:  36% (18/50)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  38% (19/50)   \u001b[K\rremote: Compressing objects:  40% (20/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  42% (21/50)   \u001b[K\r"
+    ],
+    [
+      0.000028,
+      "remote: Compressing objects:  44% (22/50)   \u001b[K\r"
+    ],
+    [
+      0.000022,
+      "remote: Compressing objects:  46% (23/50)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  48% (24/50)   \u001b[K\rremote: Compressing objects:  50% (25/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  52% (26/50)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  54% (27/50)   \u001b[K\r"
+    ],
+    [
+      0.000060,
+      "remote: Compressing objects:  56% (28/50)   \u001b[K\rremote: Compressing objects:  58% (29/50)   \u001b[K\rremote: Compressing objects:  60% (30/50)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  62% (31/50)   \u001b[K\rremote: Compressing objects:  64% (32/50)   \u001b[K\rremote: Compressing objects:  66% (33/50)   \u001b[K\rremote: Compressing objects:  68% (34/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  70% (35/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  72% (36/50)   \u001b[K\r"
+    ],
+    [
+      0.000015,
+      "remote: Compressing objects:  74% (37/50)   \u001b[K\rremote: Compressing objects:  76% (38/50)   \u001b[K\rremote: Compressing objects:  78% (39/50)   \u001b[K\rremote: Compressing objects:  80% (40/50)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  82% (41/50)   \u001b[K\rremote: Compressing objects:  84% (42/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  86% (43/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  88% (44/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  90% (45/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  92% (46/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  94% (47/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  96% (48/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  98% (49/50)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects: 100% (50/50)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects: 100% (50/50), done.\u001b[K\r\n"
+    ],
+    [
+      0.007341,
+      "Receiving objects:   0% (1/198)   \r"
+    ],
+    [
+      0.000065,
+      "Receiving objects:   1% (2/198)   \r"
+    ],
+    [
+      0.000088,
+      "Receiving objects:   2% (4/198)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:   3% (6/198)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:   4% (8/198)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:   5% (10/198)   \r"
+    ],
+    [
+      0.000093,
+      "Receiving objects:   6% (12/198)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:   7% (14/198)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:   8% (16/198)   \r"
+    ],
+    [
+      0.000099,
+      "Receiving objects:   9% (18/198)   \r"
+    ],
+    [
+      0.000095,
+      "Receiving objects:  10% (20/198)   \r"
+    ],
+    [
+      0.000100,
+      "Receiving objects:  11% (22/198)   \r"
+    ],
+    [
+      0.000099,
+      "Receiving objects:  12% (24/198)   \r"
+    ],
+    [
+      0.000141,
+      "Receiving objects:  13% (26/198)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  14% (28/198)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  15% (30/198)   \r"
+    ],
+    [
+      0.000097,
+      "Receiving objects:  16% (32/198)   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:  17% (34/198)   \r"
+    ],
+    [
+      0.000099,
+      "Receiving objects:  18% (36/198)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:  19% (38/198)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  20% (40/198)   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  21% (42/198)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  22% (44/198)   \r"
+    ],
+    [
+      0.000104,
+      "Receiving objects:  23% (46/198)   \r"
+    ],
+    [
+      0.000220,
+      "Receiving objects:  24% (48/198)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  25% (50/198)   \r"
+    ],
+    [
+      0.000118,
+      "Receiving objects:  26% (52/198)   \r"
+    ],
+    [
+      0.081774,
+      "Receiving objects:  27% (54/198)   \r"
+    ],
+    [
+      0.170830,
+      "Receiving objects:  28% (56/198)   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  29% (58/198)   \r"
+    ],
+    [
+      0.000130,
+      "Receiving objects:  30% (60/198)   \rReceiving objects:  31% (62/198)   \rReceiving objects:  32% (64/198)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  33% (66/198)   \rReceiving objects:  34% (68/198)   \rReceiving objects:  35% (70/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  36% (72/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  37% (74/198)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  38% (76/198)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  39% (78/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  40% (80/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  41% (82/198)   \r"
+    ],
+    [
+      0.000203,
+      "Receiving objects:  42% (84/198)   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  43% (86/198)   \rReceiving objects:  44% (88/198)   \rReceiving objects:  45% (90/198)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  46% (92/198)   \rReceiving objects:  47% (94/198)   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  48% (96/198)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  49% (98/198)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  50% (99/198)   \rReceiving objects:  51% (101/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  52% (103/198)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  53% (105/198)   \rReceiving objects:  54% (107/198)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  55% (109/198)   \rReceiving objects:  56% (111/198)   \r"
+    ],
+    [
+      0.000038,
+      "Receiving objects:  57% (113/198)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  58% (115/198)   \rReceiving objects:  59% (117/198)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  60% (119/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  61% (121/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  62% (123/198)   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  63% (125/198)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  64% (127/198)   \r"
+    ],
+    [
+      0.091718,
+      "Receiving objects:  65% (129/198)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  66% (131/198)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  67% (133/198)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  68% (135/198)   \rReceiving objects:  69% (137/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  70% (139/198)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  71% (141/198)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  72% (143/198)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  73% (145/198)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  74% (147/198)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  75% (149/198)   \r"
+    ],
+    [
+      0.000134,
+      "Receiving objects:  76% (151/198)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  77% (153/198)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:  78% (155/198)   \r"
+    ],
+    [
+      0.000127,
+      "Receiving objects:  79% (157/198)   \r"
+    ],
+    [
+      0.000178,
+      "Receiving objects:  80% (159/198)   \r"
+    ],
+    [
+      0.000130,
+      "Receiving objects:  81% (161/198)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  82% (163/198)   \r"
+    ],
+    [
+      0.000209,
+      "Receiving objects:  83% (165/198)   \r"
+    ],
+    [
+      0.000110,
+      "Receiving objects:  84% (167/198)   \r"
+    ],
+    [
+      0.000103,
+      "Receiving objects:  85% (169/198)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  86% (171/198)   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  87% (173/198)   \r"
+    ],
+    [
+      0.438557,
+      "Receiving objects:  88% (175/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.060372,
+      "remote: Total 198 (delta 20), reused 0 (delta 0), pack-reused 145\u001b[K\r\n"
+    ],
+    [
+      0.000179,
+      "Receiving objects:  89% (177/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000119,
+      "Receiving objects:  90% (179/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  91% (181/198), 572.01 KiB | 1.10 MiB/s   \rReceiving objects:  92% (183/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  93% (185/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  94% (187/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  95% (189/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  96% (191/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  97% (193/198), 572.01 KiB | 1.10 MiB/s   \rReceiving objects:  98% (195/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  99% (197/198), 572.01 KiB | 1.10 MiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects: 100% (198/198), 572.01 KiB | 1.10 MiB/s   \rReceiving objects: 100% (198/198), 1.23 MiB | 1.10 MiB/s, done.\r\n"
+    ],
+    [
+      0.000111,
+      "Resolving deltas:   0% (0/100)   \r"
+    ],
+    [
+      0.000371,
+      "Resolving deltas:   1% (1/100)   \rResolving deltas:   2% (2/100)   \r"
+    ],
+    [
+      0.000375,
+      "Resolving deltas:   7% (7/100)   \r"
+    ],
+    [
+      0.000041,
+      "Resolving deltas:   9% (9/100)   \r"
+    ],
+    [
+      0.000315,
+      "Resolving deltas:  14% (14/100)   \r"
+    ],
+    [
+      0.000627,
+      "Resolving deltas:  26% (26/100)   \r"
+    ],
+    [
+      0.000243,
+      "Resolving deltas:  30% (30/100)   \r"
+    ],
+    [
+      0.000578,
+      "Resolving deltas:  41% (41/100)   \r"
+    ],
+    [
+      0.000153,
+      "Resolving deltas:  44% (44/100)   \r"
+    ],
+    [
+      0.000511,
+      "Resolving deltas:  54% (54/100)   \r"
+    ],
+    [
+      0.000149,
+      "Resolving deltas:  56% (56/100)   \r"
+    ],
+    [
+      0.000907,
+      "Resolving deltas:  74% (74/100)   \r"
+    ],
+    [
+      0.000153,
+      "Resolving deltas:  77% (77/100)   \r"
+    ],
+    [
+      0.000052,
+      "Resolving deltas:  78% (78/100)   \r"
+    ],
+    [
+      0.000238,
+      "Resolving deltas:  82% (82/100)   \r"
+    ],
+    [
+      0.000161,
+      "Resolving deltas:  85% (85/100)   \r"
+    ],
+    [
+      0.000119,
+      "Resolving deltas:  88% (88/100)   \r"
+    ],
+    [
+      0.000173,
+      "Resolving deltas:  91% (91/100)   \r"
+    ],
+    [
+      0.000221,
+      "Resolving deltas:  94% (94/100)   \r"
+    ],
+    [
+      0.000166,
+      "Resolving deltas:  96% (96/100)   \r"
+    ],
+    [
+      0.000109,
+      "Resolving deltas:  99% (99/100)   \r"
+    ],
+    [
+      0.000074,
+      "Resolving deltas: 100% (100/100)   \r"
+    ],
+    [
+      0.000050,
+      "Resolving deltas: 100% (100/100), done.\r\n"
+    ],
+    [
+      0.009063,
+      "Checking connectivity... "
+    ],
+    [
+      0.002666,
+      "done.\r\n"
+    ],
+    [
+      0.013294,
+      "bash-3.2$ "
+    ],
+    [
+      4.166696,
+      "#"
+    ],
+    [
+      0.000007,
+      " n"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000023,
+      "w w"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000005,
+      "s"
+    ],
+    [
+      0.000003,
+      "w"
+    ],
+    [
+      0.000013,
+      "i"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000011,
+      "c"
+    ],
+    [
+      0.000014,
+      "h"
+    ],
+    [
+      0.000004,
+      " "
+    ],
+    [
+      0.000010,
+      "i"
+    ],
+    [
+      0.000004,
+      "n"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000010,
+      "i"
+    ],
+    [
+      0.000014,
+      "t"
+    ],
+    [
+      0.470461,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "bash-3.2$ "
+    ],
+    [
+      3.265549,
+      "c"
+    ],
+    [
+      0.000008,
+      "d swarm-ghos"
+    ],
+    [
+      0.000014,
+      "t"
+    ],
+    [
+      0.390376,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "bash-3.2$ "
+    ],
+    [
+      3.905270,
+      "#"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000005,
+      "l"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000004,
+      "'"
+    ],
+    [
+      0.000011,
+      "s"
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000009,
+      "s"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000010,
+      "a"
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000008,
+      "h"
+    ],
+    [
+      0.000009,
+      "e"
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000008,
+      "d"
+    ],
+    [
+      0.000014,
+      "b"
+    ],
+    [
+      0.358455,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "bash-3.2$ "
+    ],
+    [
+      3.825347,
+      "m"
+    ],
+    [
+      0.000006,
+      "a"
+    ],
+    [
+      0.000003,
+      "k"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000008,
+      "d"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000009,
+      "c"
+    ],
+    [
+      0.000004,
+      "k"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.000005,
+      "r"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000011,
+      "m"
+    ],
+    [
+      0.000004,
+      "y"
+    ],
+    [
+      0.000012,
+      "s"
+    ],
+    [
+      0.000009,
+      "q"
+    ],
+    [
+      0.000011,
+      "l"
+    ],
+    [
+      0.000004,
+      "-"
+    ],
+    [
+      0.000015,
+      "r"
+    ],
+    [
+      0.000003,
+      "u"
+    ],
+    [
+      0.000012,
+      "n"
+    ],
+    [
+      0.486501,
+      "\r\n"
+    ],
+    [
+      0.905646,
+      "docker run -d --name=mysql \\\r\n\t\t-e \"MYSQL_ROOT_PASSWORD=f00bar\" \\\r\n\t\t-e \"MYSQL_DATABASE=ghost\" \\\r\n"
+    ],
+    [
+      0.000008,
+      "\t\tmysql:5.5\r\n"
+    ],
+    [
+      0.223194,
+      "\u001b[31mFATA\u001b[0m[0000] Error response from daemon: Conflict. The name \"mysql\" is already in use by container 5e041cb539a8. You have to delete (or rename) that container to be able to reuse that name. \r\n"
+    ],
+    [
+      0.000763,
+      "make: *** [docker-mysql-run] Error 1\r\n"
+    ],
+    [
+      0.000414,
+      "bash-3.2$ "
+    ],
+    [
+      2.069597,
+      "#"
+    ],
+    [
+      0.192061,
+      " "
+    ],
+    [
+      0.256041,
+      "o"
+    ],
+    [
+      0.183932,
+      "h"
+    ],
+    [
+      0.304095,
+      " "
+    ],
+    [
+      0.103957,
+      "n"
+    ],
+    [
+      0.112049,
+      "o"
+    ],
+    [
+      0.279869,
+      "e"
+    ],
+    [
+      0.200141,
+      "s"
+    ],
+    [
+      0.199957,
+      ","
+    ],
+    [
+      0.087951,
+      " "
+    ],
+    [
+      0.192039,
+      "i"
+    ],
+    [
+      0.072058,
+      "t"
+    ],
+    [
+      0.119969,
+      "'"
+    ],
+    [
+      0.063864,
+      "s"
+    ],
+    [
+      0.104227,
+      " "
+    ],
+    [
+      0.127925,
+      "r"
+    ],
+    [
+      0.079861,
+      "u"
+    ],
+    [
+      0.192072,
+      "n"
+    ],
+    [
+      0.136084,
+      "n"
+    ],
+    [
+      0.168004,
+      "i"
+    ],
+    [
+      0.119945,
+      "n"
+    ],
+    [
+      0.079991,
+      "g"
+    ],
+    [
+      0.104026,
+      "."
+    ],
+    [
+      0.336421,
+      "\r\nbash-3.2$ "
+    ],
+    [
+      1.039722,
+      "#"
+    ],
+    [
+      0.135830,
+      " "
+    ],
+    [
+      0.136022,
+      "n"
+    ],
+    [
+      0.136085,
+      "o"
+    ],
+    [
+      0.207972,
+      " "
+    ],
+    [
+      0.143973,
+      "w"
+    ],
+    [
+      0.183925,
+      "o"
+    ],
+    [
+      0.224036,
+      "r"
+    ],
+    [
+      0.312128,
+      "r"
+    ],
+    [
+      0.248007,
+      "i"
+    ],
+    [
+      0.135929,
+      "e"
+    ],
+    [
+      0.192010,
+      "s"
+    ],
+    [
+      0.688127,
+      ","
+    ],
+    [
+      0.103892,
+      " "
+    ],
+    [
+      0.127850,
+      "w"
+    ],
+    [
+      0.096306,
+      "e"
+    ],
+    [
+      0.199861,
+      " "
+    ],
+    [
+      0.112145,
+      "s"
+    ],
+    [
+      0.143801,
+      "t"
+    ],
+    [
+      0.063968,
+      "o"
+    ],
+    [
+      0.128221,
+      "p"
+    ],
+    [
+      0.087781,
+      " "
+    ],
+    [
+      0.160102,
+      "i"
+    ],
+    [
+      0.103901,
+      "t"
+    ],
+    [
+      0.120207,
+      "."
+    ],
+    [
+      0.247781,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "bash-3.2$ "
+    ],
+    [
+      1.103951,
+      "d"
+    ],
+    [
+      0.136160,
+      "o"
+    ],
+    [
+      0.071871,
+      "c"
+    ],
+    [
+      0.112025,
+      "k"
+    ],
+    [
+      0.056064,
+      "e"
+    ],
+    [
+      0.104126,
+      "r"
+    ],
+    [
+      0.583928,
+      " "
+    ],
+    [
+      0.759884,
+      "s"
+    ],
+    [
+      0.080080,
+      "t"
+    ],
+    [
+      0.103910,
+      "o"
+    ],
+    [
+      0.104060,
+      "p"
+    ],
+    [
+      0.128042,
+      " "
+    ],
+    [
+      0.464100,
+      "m"
+    ],
+    [
+      0.215895,
+      "y"
+    ],
+    [
+      0.063928,
+      "s"
+    ],
+    [
+      0.176024,
+      "w"
+    ],
+    [
+      0.096012,
+      "q"
+    ],
+    [
+      0.200109,
+      "l"
+    ],
+    [
+      0.320027,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159944,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159997,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151971,
+      "q"
+    ],
+    [
+      0.151956,
+      "l"
+    ],
+    [
+      0.392099,
+      "\r\n"
+    ],
+    [
+      2.822435,
+      "mysql\r\n"
+    ],
+    [
+      0.000859,
+      "bash-3.2$ "
+    ],
+    [
+      1.168826,
+      "d"
+    ],
+    [
+      0.119839,
+      "o"
+    ],
+    [
+      0.087928,
+      "c"
+    ],
+    [
+      0.112089,
+      "k"
+    ],
+    [
+      0.088078,
+      "e"
+    ],
+    [
+      0.095899,
+      "r"
+    ],
+    [
+      0.104004,
+      " "
+    ],
+    [
+      0.151995,
+      "r"
+    ],
+    [
+      0.112130,
+      "m"
+    ],
+    [
+      0.143930,
+      " "
+    ],
+    [
+      0.320094,
+      "m"
+    ],
+    [
+      0.207908,
+      "y"
+    ],
+    [
+      0.072072,
+      "s"
+    ],
+    [
+      0.208117,
+      "q"
+    ],
+    [
+      0.103900,
+      "l"
+    ],
+    [
+      0.255971,
+      "\r\n"
+    ],
+    [
+      0.221433,
+      "mysql\r\n"
+    ],
+    [
+      0.000899,
+      "bash-3.2$ "
+    ],
+    [
+      2.113793,
+      "docker rm mysql"
+    ],
+    [
+      0.215858,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[2@stop\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.216082,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C# no worries, we stop it."
+    ],
+    [
+      0.640030,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1Poh noes, it's running."
+    ],
+    [
+      0.352131,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[3Pmake docker-mysql-run"
+    ],
+    [
+      0.759963,
+      "\r\n"
+    ],
+    [
+      0.842991,
+      "docker run -d --name=mysql \\\r\n\t\t-e \"MYSQL_ROOT_PASSWORD=f00bar\" \\\r\n\t\t-e \"MYSQL_DATABASE=ghost\" \\\r\n"
+    ],
+    [
+      0.000007,
+      "\t\tmysql:5.5\r\n"
+    ],
+    [
+      0.334713,
+      "74dbaa4b1919fec0be91b67ba66a6bae19f1e86aac8f610305a24e9ce4e1425a\r\n"
+    ],
+    [
+      0.180730,
+      "bash-3.2$ "
+    ],
+    [
+      2.361620,
+      "#"
+    ],
+    [
+      0.135883,
+      " "
+    ],
+    [
+      0.215908,
+      "a"
+    ],
+    [
+      0.144078,
+      "w"
+    ],
+    [
+      0.072049,
+      "e"
+    ],
+    [
+      0.232017,
+      "s"
+    ],
+    [
+      0.111969,
+      "o"
+    ],
+    [
+      0.079947,
+      "m"
+    ],
+    [
+      0.072109,
+      "e"
+    ],
+    [
+      0.279964,
+      "!"
+    ],
+    [
+      0.159946,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "bash-3.2$ "
+    ],
+    [
+      3.953799,
+      "#"
+    ],
+    [
+      0.000008,
+      " finally, "
+    ],
+    [
+      0.000011,
+      "l"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      0.000018,
+      "'"
+    ],
+    [
+      0.000004,
+      "s s"
+    ],
+    [
+      0.000014,
+      "t"
+    ],
+    [
+      0.000004,
+      "a"
+    ],
+    [
+      0.000016,
+      "r"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000010,
+      "t"
+    ],
+    [
+      0.000013,
+      "h"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000012,
+      " "
+    ],
+    [
+      0.000009,
+      "g"
+    ],
+    [
+      0.000011,
+      "h"
+    ],
+    [
+      0.000019,
+      "o"
+    ],
+    [
+      0.000004,
+      "s"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000010,
+      "c"
+    ],
+    [
+      0.000014,
+      "o"
+    ],
+    [
+      0.000011,
+      "n"
+    ],
+    [
+      0.000013,
+      "t"
+    ],
+    [
+      0.000012,
+      "a"
+    ],
+    [
+      0.000015,
+      "i"
+    ],
+    [
+      0.000011,
+      "n"
+    ],
+    [
+      0.000014,
+      "e"
+    ],
+    [
+      0.000013,
+      "r"
+    ],
+    [
+      0.406272,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "bash-3.2$ "
+    ],
+    [
+      2.119639,
+      "m"
+    ],
+    [
+      0.144046,
+      "a"
+    ],
+    [
+      0.087907,
+      "k"
+    ],
+    [
+      0.096052,
+      "e"
+    ],
+    [
+      0.112031,
+      " "
+    ],
+    [
+      0.111871,
+      "d"
+    ],
+    [
+      0.088146,
+      "o"
+    ],
+    [
+      0.096002,
+      "c"
+    ],
+    [
+      0.119953,
+      "k"
+    ],
+    [
+      0.080197,
+      "e"
+    ],
+    [
+      0.103795,
+      "r"
+    ],
+    [
+      0.159954,
+      "-"
+    ],
+    [
+      0.159957,
+      "r"
+    ],
+    [
+      0.104218,
+      "u"
+    ],
+    [
+      0.167773,
+      "n"
+    ],
+    [
+      0.184261,
+      "\r\n"
+    ],
+    [
+      0.802840,
+      "docker build -t registry.giantswarm.io/kord/ghost-server .\r\n"
+    ],
+    [
+      0.260607,
+      "Sending build context to Docker daemon 557.1 kB\r"
+    ],
+    [
+      0.055192,
+      "Sending build context to Docker daemon 1.114 MB\r"
+    ],
+    [
+      0.022354,
+      "Sending build context to Docker daemon 1.671 MB\r"
+    ],
+    [
+      0.013920,
+      "Sending build context to Docker daemon 2.228 MB\r"
+    ],
+    [
+      0.009885,
+      "Sending build context to Docker daemon 2.477 MB\r\r\r\n"
+    ],
+    [
+      0.000006,
+      "Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.057642,
+      "Step 0 : FROM dockerfile/ubuntu\r\n"
+    ],
+    [
+      0.000236,
+      " ---\u003e aee14a1743b2\r\n"
+    ],
+    [
+      0.000005,
+      "Step 1 : RUN apt-get update\r\n"
+    ],
+    [
+      0.193343,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000012,
+      " ---\u003e 2fbbf6007677\r\nStep 2 : RUN apt-get install -y mysql-client mysql-client-5.5 python-pip\r\n"
+    ],
+    [
+      0.177558,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000010,
+      " ---\u003e 5555e4e90c94\r\nStep 3 : RUN apt-get clean\r\n"
+    ],
+    [
+      0.176021,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000043,
+      " ---\u003e 140f4451c81f\r\n"
+    ],
+    [
+      0.000088,
+      "Step 4 : RUN rm -rf /var/lib/apt/lists/*\r\n"
+    ],
+    [
+      0.172137,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000078,
+      " ---\u003e c73fff9df811\r\n"
+    ],
+    [
+      0.000005,
+      "Step 5 : RUN pip install awscli\r\n"
+    ],
+    [
+      0.178574,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000014,
+      " ---\u003e 2c3f6f266a13\r\n"
+    ],
+    [
+      0.000026,
+      "Step 6 : RUN cd /tmp \u0026\u0026   wget http://nodejs.org/dist/v0.10.36/node-v0.10.36.tar.gz \u0026\u0026   tar xvzf node-v0.10.36.tar.gz \u0026\u0026   rm -f node-v0.10.36.tar.gz \u0026\u0026   cd node-v* \u0026\u0026   ./configure \u0026\u0026   CXX=\"g++ -Wno-unused-local-typedefs\" make \u0026\u0026   CXX=\"g++ -Wno-unused-local-typedefs\" make install \u0026\u0026   cd /tmp \u0026\u0026   rm -rf /tmp/node-v* \u0026\u0026   npm install -g npm \u0026\u0026   echo -e '\\n# Node.js\\nexport PATH=\"node_modules/.bin:$PATH\"' \u003e\u003e /root/.bashrc\r\n"
+    ],
+    [
+      0.175976,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000008,
+      " ---\u003e 84d130072373\r\n"
+    ],
+    [
+      0.000054,
+      "Step 7 : RUN cd /tmp \u0026\u0026   wget https://ghost.org/zip/ghost-latest.zip \u0026\u0026   unzip ghost-latest.zip -d /ghost \u0026\u0026   rm -f ghost-latest.zip \u0026\u0026   cd /ghost \u0026\u0026   npm install mysql \u0026\u0026  npm install --production \u0026\u0026  useradd ghost --home /ghost\r\n"
+    ],
+    [
+      0.170972,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000012,
+      " ---\u003e a9e33aa2d381\r\nStep 8 : ENV NODE_ENV production\r\n"
+    ],
+    [
+      0.171730,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000011,
+      " ---\u003e 4e3e8635e22b\r\n"
+    ],
+    [
+      0.001484,
+      "Step 9 : VOLUME /data /ghost-override\r\n"
+    ],
+    [
+      0.173200,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000012,
+      " ---\u003e b1c1729594a9\r\nStep 10 : WORKDIR /ghost\r\n"
+    ],
+    [
+      0.178687,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000010,
+      " ---\u003e 5056bdf8f552\r\nStep 11 : COPY start.sh start.sh\r\n"
+    ],
+    [
+      0.500170,
+      " ---\u003e 194d1599347b\r\n"
+    ],
+    [
+      0.007708,
+      "Removing intermediate container ee0426baa3c8\r\n"
+    ],
+    [
+      0.000339,
+      "Step 12 : COPY ghost-files/* /ghost-override/\r\n"
+    ],
+    [
+      0.584148,
+      " ---\u003e 3bcc0cd630ae\r\n"
+    ],
+    [
+      0.015600,
+      "Removing intermediate container 55cd859936f1\r\n"
+    ],
+    [
+      0.000008,
+      "Step 13 : COPY backup.sh backup.sh\r\n"
+    ],
+    [
+      0.543717,
+      " ---\u003e d6267cd3c856\r\n"
+    ],
+    [
+      0.005939,
+      "Removing intermediate container e06faa44d79c\r\n"
+    ],
+    [
+      0.001873,
+      "Step 14 : COPY cron.conf cron.conf\r\n"
+    ],
+    [
+      0.502709,
+      " ---\u003e 228d947d1ef8\r\n"
+    ],
+    [
+      0.006973,
+      "Removing intermediate container dae292242f84\r\nStep 15 : CMD bash /ghost/start.sh\r\n"
+    ],
+    [
+      0.351706,
+      " ---\u003e Running in b598a3438dcd\r\n"
+    ],
+    [
+      0.099852,
+      " ---\u003e 14f5b064bb44\r\n"
+    ],
+    [
+      0.007138,
+      "Removing intermediate container b598a3438dcd\r\n"
+    ],
+    [
+      0.000008,
+      "Step 16 : EXPOSE 2368\r\n"
+    ],
+    [
+      0.374061,
+      " ---\u003e Running in 5ee194719b14\r\n"
+    ],
+    [
+      0.109163,
+      " ---\u003e 6273a78f436f\r\n"
+    ],
+    [
+      0.017037,
+      "Removing intermediate container 5ee194719b14\r\n"
+    ],
+    [
+      0.000007,
+      "Successfully built 6273a78f436f\r\n"
+    ],
+    [
+      1.391031,
+      "docker run --name=ghost --rm -ti \\\r\n\t\t-e \"AWS_ACCESS_KEY_ID=\" \\\r\n\t\t-e \"AWS_SECRET_ACCESS_KEY=\" \\\r\n\t\t-e \"AWS_DEFAULT_REGION=eu-central-1\" \\\r\n\t\t-e \"S3_BUCKET=giantghost-kord/backups\" \\\r\n"
+    ],
+    [
+      0.000018,
+      "\t\t-e \"MYSQL_DATABASE=ghost\" \\\r\n\t\t-e \"MYSQL_USERNAME=root\" \\\r\n\t\t-e \"MYSQL_PASSWORD=f00bar\" \\\r\n\t\t-e \"MAILGUN_USERNAME=\" \\\r\n\t\t-e \"MAILGUN_APIKEY=\" \\\r\n\t\t-e \"HOSTNAME=192.168.59.103:2368\" \\\r\n\t\t-e \"CNAME=192.168.59.103:2368\" \\\r\n\t\t--link mysql:mysql \\\r\n\t\t-p 2368:2368 \\\r\n\t\tregistry.giantswarm.io/kord/ghost-server\r\n"
+    ],
+    [
+      0.863616,
+      "##############################################################\r\n"
+    ],
+    [
+      0.001338,
+      "Using stock mail configuration...\r\n"
+    ],
+    [
+      0.000480,
+      "Using /ghost-override/config.js for config file.\r\n"
+    ],
+    [
+      0.001975,
+      "##############################################################\r\n"
+    ],
+    [
+      0.000989,
+      "Patching ghost config file...\r\n"
+    ],
+    [
+      0.014798,
+      "Patching backup file...\r\n"
+    ],
+    [
+      0.016562,
+      "Backups are disabled...\r\n"
+    ],
+    [
+      0.946064,
+      "\r\n\u003e ghost@0.5.9 start /ghost\r\n\u003e node index\r\n"
+    ],
+    [
+      0.000561,
+      "\r\n"
+    ],
+    [
+      1.427742,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mDatabase initialisation required for version 003\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating tables...\u001b[39m\r\n"
+    ],
+    [
+      0.000988,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: posts\u001b[39m\r\n"
+    ],
+    [
+      0.038326,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: users\u001b[39m\r\n"
+    ],
+    [
+      0.018070,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: roles\u001b[39m\r\n"
+    ],
+    [
+      0.007546,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: roles_users\u001b[39m\r\n"
+    ],
+    [
+      0.003952,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: permissions\u001b[39m\r\n"
+    ],
+    [
+      0.004342,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: permissions_users\u001b[39m\r\n"
+    ],
+    [
+      0.006227,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: permissions_roles\u001b[39m\r\n"
+    ],
+    [
+      0.003218,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: permissions_apps\u001b[39m\r\n"
+    ],
+    [
+      0.004722,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: settings\u001b[39m\r\n"
+    ],
+    [
+      0.011903,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: tags\u001b[39m\r\n"
+    ],
+    [
+      0.011957,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: posts_tags\u001b[39m\r\n"
+    ],
+    [
+      0.016369,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: apps\u001b[39m\r\n"
+    ],
+    [
+      0.020573,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: app_settings\u001b[39m\r\n"
+    ],
+    [
+      0.018189,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: app_fields\u001b[39m\r\n"
+    ],
+    [
+      0.011564,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: clients\u001b[39m\r\n"
+    ],
+    [
+      0.027870,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: accesstokens\u001b[39m\r\n"
+    ],
+    [
+      0.025686,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating table: refreshtokens\u001b[39m\r\n"
+    ],
+    [
+      0.020867,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mPopulating fixtures\u001b[39m\r\n"
+    ],
+    [
+      0.097604,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mPopulating permissions\u001b[39m\r\n"
+    ],
+    [
+      0.207605,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mCreating owner\u001b[39m\r\n"
+    ],
+    [
+      0.478579,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mPopulating default settings\u001b[39m\r\n"
+    ],
+    [
+      0.006028,
+      "\u001b[36mMigrations\u001b[39m\u001b[36m:\u001b[39m \u001b[36mComplete\u001b[39m\r\n"
+    ],
+    [
+      0.152361,
+      "\u001b[32mGhost is running...\u001b[39m \r\nYour blog is now available on http://192.168.59.103:2368 \u001b[90m\r\nCtrl+C to shut down\u001b[39m\r\n"
+    ],
+    [
+      1.220762,
+      "\r\n"
+    ],
+    [
+      0.119871,
+      "\r\n"
+    ],
+    [
+      0.960348,
+      "#"
+    ],
+    [
+      0.162924,
+      " "
+    ],
+    [
+      0.160547,
+      "n"
+    ],
+    [
+      0.100136,
+      "o"
+    ],
+    [
+      0.126624,
+      "w"
+    ],
+    [
+      0.100717,
+      " "
+    ],
+    [
+      0.118245,
+      "w"
+    ],
+    [
+      0.121344,
+      "e"
+    ],
+    [
+      0.155159,
+      " "
+    ],
+    [
+      0.314913,
+      "c"
+    ],
+    [
+      0.129484,
+      "a"
+    ],
+    [
+      0.118862,
+      "n"
+    ],
+    [
+      0.086517,
+      " "
+    ],
+    [
+      0.115153,
+      "g"
+    ],
+    [
+      0.114446,
+      "o"
+    ],
+    [
+      0.075875,
+      " "
+    ],
+    [
+      0.101148,
+      "t"
+    ],
+    [
+      0.192144,
+      "o"
+    ],
+    [
+      0.084235,
+      " "
+    ],
+    [
+      0.107306,
+      "t"
+    ],
+    [
+      0.093471,
+      "h"
+    ],
+    [
+      0.077324,
+      "a"
+    ],
+    [
+      0.063864,
+      "t"
+    ],
+    [
+      0.098527,
+      " "
+    ],
+    [
+      0.137270,
+      "a"
+    ],
+    [
+      0.094309,
+      "d"
+    ],
+    [
+      0.172627,
+      "d"
+    ],
+    [
+      0.157321,
+      "r"
+    ],
+    [
+      0.060160,
+      "e"
+    ],
+    [
+      0.160909,
+      "s"
+    ],
+    [
+      0.150923,
+      "s"
+    ],
+    [
+      0.142104,
+      " "
+    ],
+    [
+      0.106049,
+      "a"
+    ],
+    [
+      0.092271,
+      "n"
+    ],
+    [
+      0.098795,
+      "d"
+    ],
+    [
+      0.090041,
+      " "
+    ],
+    [
+      0.113416,
+      "s"
+    ],
+    [
+      0.155319,
+      "e"
+    ],
+    [
+      0.151413,
+      "e"
+    ],
+    [
+      0.118674,
+      " "
+    ],
+    [
+      0.068598,
+      "t"
+    ],
+    [
+      0.094516,
+      "h"
+    ],
+    [
+      0.102589,
+      "e"
+    ],
+    [
+      0.123945,
+      " "
+    ],
+    [
+      0.172025,
+      "b"
+    ],
+    [
+      0.083917,
+      "l"
+    ],
+    [
+      0.184151,
+      "o"
+    ],
+    [
+      0.049982,
+      "g"
+    ],
+    [
+      0.299209,
+      "!"
+    ],
+    [
+      0.120043,
+      " "
+    ],
+    [
+      0.161071,
+      " "
+    ],
+    [
+      0.135645,
+      "e"
+    ],
+    [
+      0.130629,
+      "a"
+    ],
+    [
+      0.133992,
+      "s"
+    ],
+    [
+      0.230071,
+      "y"
+    ],
+    [
+      0.191099,
+      "!"
+    ],
+    [
+      0.479018,
+      "\r\n"
+    ],
+    [
+      1.363648,
+      "^C"
+    ],
+    [
+      0.000011,
+      "\u001b[31m\r\nGhost has shut down\u001b[39m\r\n\r\nYour blog is now offline"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.474788,
+      "make: *** [docker-run] Error 130"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000451,
+      "bash-3.2$ "
+    ],
+    [
+      2.370676,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "bash-3.2$ "
+    ],
+    [
+      1.879956,
+      "exit\r\n"
+    ]
+  ]
+}
