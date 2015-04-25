@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 31,
+  "duration": 26.945133,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.370038,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[35m1\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      2.366195,
+      "e"
+    ],
+    [
+      0.183800,
+      "c"
+    ],
+    [
+      0.103998,
+      "h"
+    ],
+    [
+      0.072168,
+      "o"
+    ],
+    [
+      0.719894,
+      " "
+    ],
+    [
+      0.623839,
+      "h"
+    ],
+    [
+      0.103982,
+      "e"
+    ],
+    [
+      0.216268,
+      "l"
+    ],
+    [
+      0.407547,
+      "o"
+    ],
+    [
+      0.152225,
+      "o"
+    ],
+    [
+      0.432204,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183738,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.368213,
+      "l"
+    ],
+    [
+      0.184034,
+      "o"
+    ],
+    [
+      0.247817,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "hello\r\n"
+    ],
+    [
+      0.058572,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.300502,
+      "\r\n"
+    ],
+    [
+      0.058039,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.222631,
+      "\r\n"
+    ],
+    [
+      0.059645,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.100442,
+      "\r\n"
+    ],
+    [
+      0.059400,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.172508,
+      "\r\n"
+    ],
+    [
+      0.059761,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.275679,
+      "echo hello"
+    ],
+    [
+      0.376716,
+      "\r\n"
+    ],
+    [
+      0.000250,
+      "hello\r\n"
+    ],
+    [
+      0.059808,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.659198,
+      "\r\n"
+    ],
+    [
+      0.061272,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.340274,
+      "\r\n"
+    ],
+    [
+      0.033547,
+      "\r\n"
+    ],
+    [
+      0.027198,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.005782,
+      "\r\n"
+    ],
+    [
+      0.033041,
+      "\r\n"
+    ],
+    [
+      0.018765,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.015421,
+      "\r\n\r\n"
+    ],
+    [
+      0.032899,
+      "\r\n"
+    ],
+    [
+      0.010676,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.023324,
+      "\r\n\r\n\r\n"
+    ],
+    [
+      0.032887,
+      "\r\n"
+    ],
+    [
+      0.001835,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.031540,
+      "\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.025692,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.007644,
+      "\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.034005,
+      "\r\n"
+    ],
+    [
+      0.015661,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.018512,
+      "\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.033873,
+      "\r\n"
+    ],
+    [
+      0.005230,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.029002,
+      "\r\n\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.027543,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.005519,
+      "\r\n\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.033047,
+      "\r\n"
+    ],
+    [
+      0.018730,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.057367,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.059710,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.057091,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.057580,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.055649,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.056572,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f \r\n"
+    ],
+    [
+      0.055142,
+      "\u001b[33m⌁\u001b[m\u000f \u001b[1m\u001b[34m[\u001b[m\u000fben.gardiner\u001b[m\u000f\u001b[32m:\u001b[m\u000f\u001b[1m~\u001b[m\u000f\u001b[1m\u001b[34m]\u001b[m\u000f \u001b[1m$\u001b[m\u000f "
+    ],
+    [
+      16.422239,
+      "exit\r\n"
+    ]
+  ]
+}
