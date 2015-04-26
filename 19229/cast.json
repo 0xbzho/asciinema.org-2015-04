@@ -1,0 +1,4494 @@
+{
+  "version": 1,
+  "width": 171,
+  "height": 42,
+  "duration": 59.360966,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.109270,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                          \r \r"
+    ],
+    [
+      0.000064,
+      "\u001b]2;weichen@Weis-MacBook-Pro: ~/workspace/lambdalab\u0007"
+    ],
+    [
+      0.000041,
+      "\u001b]1;..ace/lambdalab\u0007"
+    ],
+    [
+      0.044803,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlambdalab \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000110,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.719933,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlambdalab \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.257399,
+      "."
+    ],
+    [
+      0.179240,
+      "\u0008./"
+    ],
+    [
+      0.176987,
+      "g"
+    ],
+    [
+      0.120136,
+      "r"
+    ],
+    [
+      0.068049,
+      "a"
+    ],
+    [
+      0.193754,
+      "d"
+    ],
+    [
+      0.106035,
+      "l"
+    ],
+    [
+      0.075960,
+      "e"
+    ],
+    [
+      0.439924,
+      "w"
+    ],
+    [
+      0.265203,
+      " "
+    ],
+    [
+      0.517764,
+      "c"
+    ],
+    [
+      0.063943,
+      "o"
+    ],
+    [
+      0.114256,
+      "d"
+    ],
+    [
+      0.107813,
+      "a"
+    ],
+    [
+      0.148528,
+      "t"
+    ],
+    [
+      0.165734,
+      "l"
+    ],
+    [
+      0.063887,
+      "a"
+    ],
+    [
+      0.079832,
+      "s"
+    ],
+    [
+      0.189092,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000075,
+      "\r\r\n"
+    ],
+    [
+      0.002025,
+      "\u001b]2;./gradlew codatlas\u0007\u001b]1;./gradlew\u0007"
+    ],
+    [
+      0.406150,
+      "\u001b[0m"
+    ],
+    [
+      1.880687,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.341849,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.012511,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.265311,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000398,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.630014,
+      "\u001b[1m \u003e Resolving dependencies ':classpath'\u001b[22m"
+    ],
+    [
+      0.001530,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.108883,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-hyaml-plugin:classpath'\u001b[22m"
+    ],
+    [
+      0.000663,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.065118,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-play-plugin:classpath'\u001b[22m\u001b[57D\u001b[0K"
+    ],
+    [
+      0.062741,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-thrift-plugin:classpath'\u001b[22m"
+    ],
+    [
+      0.000724,
+      "\u001b[59D\u001b[0K"
+    ],
+    [
+      0.573274,
+      "\u001b[1m \u003e Resolving dependencies ':runtime'\u001b[22m"
+    ],
+    [
+      0.716562,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.115780,
+      "\u001b[1m \u003e Resolving dependencies 'detachedConfiguration1'\u001b[22m"
+    ],
+    [
+      0.004363,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.198142,
+      "\u001b[1m \u003e :buildSrc:compileJava\u001b[22m"
+    ],
+    [
+      0.025151,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.001887,
+      "\u001b[9D\u001b[0K:buildSrc:compileJava \r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.002427,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Loading\u001b[22m\u001b[9D\u001b[0K\u001b[1A\u001b[32C\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001050,
+      "\u001b[1m \u003e :buildSrc:compileGroovy\u001b[22m"
+    ],
+    [
+      0.000815,
+      "\u001b[26D\u001b[0K"
+    ],
+    [
+      0.000136,
+      "\u001b[9D\u001b[0K:buildSrc:compileGroovy \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000129,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[24C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000096,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[34C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001103,
+      "\u001b[1m \u003e :buildSrc:processResources\u001b[22m"
+    ],
+    [
+      0.000973,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000151,
+      "\u001b[9D\u001b[0K:buildSrc:processResources \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000120,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000084,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[37C\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001734,
+      "\u001b[1m \u003e :buildSrc:classes\u001b[22m"
+    ],
+    [
+      0.001762,
+      "\u001b[20D\u001b[0K"
+    ],
+    [
+      0.000135,
+      "\u001b[9D\u001b[0K:buildSrc:classes \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000137,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[18C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000091,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[28C\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001681,
+      "\u001b[1m \u003e :buildSrc:jar\u001b[22m"
+    ],
+    [
+      0.065125,
+      "\u001b[16D\u001b[0K"
+    ],
+    [
+      0.000098,
+      "\u001b[9D\u001b[0K:buildSrc:jar \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000113,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[14C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000062,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[24C\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001095,
+      "\u001b[1m \u003e :buildSrc:assemble\u001b[22m"
+    ],
+    [
+      0.001532,
+      "\u001b[21D\u001b[0K"
+    ],
+    [
+      0.000119,
+      "\u001b[9D\u001b[0K:buildSrc:assemble \r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000104,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[19C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000083,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[29C\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001250,
+      "\u001b[1m \u003e :buildSrc:compileTestJava\u001b[22m"
+    ],
+    [
+      0.001116,
+      "\u001b[28D\u001b[0K"
+    ],
+    [
+      0.000101,
+      "\u001b[9D\u001b[0K:buildSrc:compileTestJava \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000108,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[26C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000067,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[36C\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001371,
+      "\u001b[1m \u003e :buildSrc:compileTestGroovy\u001b[22m"
+    ],
+    [
+      0.001639,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000109,
+      "\u001b[9D\u001b[0K:buildSrc:compileTestGroovy \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000102,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000072,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001299,
+      "\u001b[1m \u003e :buildSrc:processTestResources\u001b[22m"
+    ],
+    [
+      0.001553,
+      "\u001b[33D\u001b[0K"
+    ],
+    [
+      0.000103,
+      "\u001b[9D\u001b[0K:buildSrc:processTestResources \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000107,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[31C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000071,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[41C\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001227,
+      "\u001b[1m \u003e :buildSrc:testClasses\u001b[22m"
+    ],
+    [
+      0.000790,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000162,
+      "\u001b[9D\u001b[0K:buildSrc:testClasses \r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000086,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000074,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[32C\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001456,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:compileJava\u001b[22m"
+    ],
+    [
+      0.001185,
+      "\u001b[44D\u001b[0K"
+    ],
+    [
+      0.000188,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:compileJava \r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000145,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[42C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000077,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[52C\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001584,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:compileGroovy\u001b[22m"
+    ],
+    [
+      0.034980,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-hyaml-plugin:compile'\u001b[22m"
+    ],
+    [
+      0.016414,
+      "\u001b[56D\u001b[0K"
+    ],
+    [
+      0.091363,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.000111,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:compileGroovy \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000107,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[44C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000077,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[54C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000923,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:processResources\u001b[22m"
+    ],
+    [
+      0.026817,
+      "\u001b[49D\u001b[0K"
+    ],
+    [
+      0.000162,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:processResources \r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000143,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[47C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000076,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[57C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001241,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:classes\u001b[22m"
+    ],
+    [
+      0.001467,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000132,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:classes \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000121,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[38C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000074,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[48C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001263,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:jar\u001b[22m"
+    ],
+    [
+      0.027334,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000172,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:jar \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000127,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000096,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[44C\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001034,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:compileJava\u001b[22m"
+    ],
+    [
+      0.001807,
+      "\u001b[43D\u001b[0K"
+    ],
+    [
+      0.000159,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:compileJava \r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000142,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[41C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000096,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[51C\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001922,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:compileGroovy\u001b[22m"
+    ],
+    [
+      0.025032,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-play-plugin:compile'\u001b[22m"
+    ],
+    [
+      0.014322,
+      "\u001b[55D\u001b[0K"
+    ],
+    [
+      0.087837,
+      "\u001b[45D\u001b[0K"
+    ],
+    [
+      0.000180,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:compileGroovy \r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000095,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[43C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000090,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[53C\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001219,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:processResources\u001b[22m"
+    ],
+    [
+      0.049033,
+      "\u001b[48D\u001b[0K"
+    ],
+    [
+      0.000134,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:processResources \r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000106,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[46C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000070,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[56C\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001003,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:classes\u001b[22m"
+    ],
+    [
+      0.001003,
+      "\u001b[39D\u001b[0K"
+    ],
+    [
+      0.000129,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:classes \r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000111,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[37C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000088,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[47C\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001780,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:jar\u001b[22m"
+    ],
+    [
+      0.042475,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.001743,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:jar \r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001435,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000126,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001735,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:compileJava\u001b[22m"
+    ],
+    [
+      0.001308,
+      "\u001b[45D\u001b[0K"
+    ],
+    [
+      0.000163,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:compileJava \r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000236,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[43C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000182,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[53C\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001763,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:compileScala\u001b[22m"
+    ],
+    [
+      0.051950,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-thrift-plugin:compile'\u001b[22m"
+    ],
+    [
+      0.214030,
+      "\u001b[57D\u001b[0K"
+    ],
+    [
+      0.080078,
+      "\u001b[1m \u003e Resolving dependencies 'detachedConfiguration1'\u001b[22m"
+    ],
+    [
+      0.018341,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.006007,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-thrift-plugin:zinc'\u001b[22m"
+    ],
+    [
+      0.000690,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.032028,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.000180,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:compileScala \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000192,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[44C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000092,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[54C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001322,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:compileGroovy\u001b[22m"
+    ],
+    [
+      0.064716,
+      "\u001b[47D\u001b[0K"
+    ],
+    [
+      0.000113,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:compileGroovy \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000103,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[45C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000086,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[55C\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000946,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:processResources\u001b[22m"
+    ],
+    [
+      0.025895,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.000133,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:processResources \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000146,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[48C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000070,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[58C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001014,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:classes\u001b[22m"
+    ],
+    [
+      0.000731,
+      "\u001b[41D\u001b[0K"
+    ],
+    [
+      0.000118,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:classes \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000098,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[39C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000065,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[49C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000976,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:jar\u001b[22m"
+    ],
+    [
+      0.016546,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000121,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:jar \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000123,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[35C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000172,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[45C\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.003081,
+      "\u001b[1m \u003e :buildSrc:test\u001b[22m"
+    ],
+    [
+      0.003355,
+      "\u001b[17D\u001b[0K"
+    ],
+    [
+      0.000113,
+      "\u001b[9D\u001b[0K:buildSrc:test \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000114,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[15C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000075,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[25C\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001949,
+      "\u001b[1m \u003e :buildSrc:check\u001b[22m"
+    ],
+    [
+      0.002004,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000092,
+      "\u001b[9D\u001b[0K:buildSrc:check \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000103,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[16C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000073,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[26C\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.002029,
+      "\u001b[1m \u003e :buildSrc:build\u001b[22m"
+    ],
+    [
+      0.000154,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000108,
+      "\u001b[9D\u001b[0K:buildSrc:build \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000114,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[16C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000076,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[26C\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001624,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:assemble\u001b[22m"
+    ],
+    [
+      0.000655,
+      "\u001b[41D\u001b[0K"
+    ],
+    [
+      0.000113,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:assemble \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000118,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[39C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[49C\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001078,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:compileTestJava\u001b[22m"
+    ],
+    [
+      0.000666,
+      "\u001b[48D\u001b[0K"
+    ],
+    [
+      0.000111,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:compileTestJava \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000108,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[46C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000071,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[56C\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001315,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:compileTestGroovy\u001b[22m"
+    ],
+    [
+      0.000734,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.000120,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:compileTestGroovy \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000112,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[48C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000076,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[58C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001143,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:processTestResources\u001b[22m"
+    ],
+    [
+      0.001333,
+      "\u001b[53D\u001b[0K"
+    ],
+    [
+      0.000161,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:processTestResources \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000127,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[51C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000083,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[61C\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001077,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:testClasses\u001b[22m"
+    ],
+    [
+      0.001101,
+      "\u001b[44D\u001b[0K"
+    ],
+    [
+      0.000112,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:testClasses \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000109,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[42C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000072,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[52C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000932,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:test\u001b[22m"
+    ],
+    [
+      0.002024,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000243,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:test \r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000119,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[35C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000098,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[45C\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.006521,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:check\u001b[22m"
+    ],
+    [
+      0.000683,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000155,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:check \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000145,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[46C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001355,
+      "\u001b[1m \u003e :buildSrc:gradle-hyaml-plugin:build\u001b[22m"
+    ],
+    [
+      0.003107,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000146,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-hyaml-plugin:build \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000121,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000084,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[46C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000959,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:assemble\u001b[22m"
+    ],
+    [
+      0.000716,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000149,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:assemble \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000121,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[38C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000081,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[48C\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000856,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:compileTestJava\u001b[22m"
+    ],
+    [
+      0.000605,
+      "\u001b[47D\u001b[0K"
+    ],
+    [
+      0.000140,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:compileTestJava \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000115,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[45C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000076,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[55C\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000823,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:compileTestGroovy\u001b[22m"
+    ],
+    [
+      0.000966,
+      "\u001b[49D\u001b[0K"
+    ],
+    [
+      0.000153,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:compileTestGroovy \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000153,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[47C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000115,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[57C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.002345,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:processTestResources\u001b[22m"
+    ],
+    [
+      0.002903,
+      "\u001b[52D\u001b[0K"
+    ],
+    [
+      0.000129,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:processTestResources \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000187,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[50C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000121,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[60C\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000920,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:testClasses\u001b[22m"
+    ],
+    [
+      0.000860,
+      "\u001b[43D\u001b[0K"
+    ],
+    [
+      0.000159,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:testClasses \r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000118,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[41C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000101,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[51C\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001488,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:test\u001b[22m"
+    ],
+    [
+      0.003184,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000300,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:test \r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000230,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000211,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[44C\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.005150,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:check\u001b[22m"
+    ],
+    [
+      0.000895,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000234,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:check \r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000171,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[35C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000181,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[45C\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001058,
+      "\u001b[1m \u003e :buildSrc:gradle-play-plugin:build\u001b[22m"
+    ],
+    [
+      0.001119,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000280,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-play-plugin:build \r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000174,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[35C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000127,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[45C\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001370,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:assemble\u001b[22m"
+    ],
+    [
+      0.003548,
+      "\u001b[42D\u001b[0K"
+    ],
+    [
+      0.000770,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:assemble \r\n"
+    ],
+    [
+      0.000239,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000195,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[40C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000145,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[50C\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001823,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:compileTestJava\u001b[22m"
+    ],
+    [
+      0.002556,
+      "\u001b[49D\u001b[0K"
+    ],
+    [
+      0.000408,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:compileTestJava \r\n"
+    ],
+    [
+      0.000304,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000215,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[47C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000085,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[57C\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001739,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:compileTestGroovy\u001b[22m"
+    ],
+    [
+      0.022836,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-thrift-plugin:testCompile'\u001b[22m"
+    ],
+    [
+      0.080337,
+      "\u001b[61D\u001b[0K"
+    ],
+    [
+      0.036564,
+      "\u001b[51D\u001b[0K"
+    ],
+    [
+      0.000170,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:compileTestGroovy \r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000099,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[49C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000071,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[59C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000619,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:compileTestScala\u001b[22m"
+    ],
+    [
+      0.001125,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.000151,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:compileTestScala \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000103,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[48C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000073,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[58C\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000630,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:processTestResources\u001b[22m"
+    ],
+    [
+      0.000514,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.000121,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:processTestResources \r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000071,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[52C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000049,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[62C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000564,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:testClasses\u001b[22m"
+    ],
+    [
+      0.000737,
+      "\u001b[45D\u001b[0K"
+    ],
+    [
+      0.000113,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:testClasses \r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000100,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[43C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000074,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[53C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.001020,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:test\u001b[22m"
+    ],
+    [
+      0.045973,
+      "\u001b[1m \u003e Resolving dependencies ':gradle-thrift-plugin:testRuntime'\u001b[22m"
+    ],
+    [
+      0.041852,
+      "\u001b[61D\u001b[0K"
+    ],
+    [
+      0.018368,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000144,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:test \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000074,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000065,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[46C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000855,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:check\u001b[22m"
+    ],
+    [
+      0.000752,
+      "\u001b[39D\u001b[0K"
+    ],
+    [
+      0.000122,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:check \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[37C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[47C\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000844,
+      "\u001b[1m \u003e :buildSrc:gradle-thrift-plugin:build\u001b[22m"
+    ],
+    [
+      0.001150,
+      "\u001b[39D\u001b[0K"
+    ],
+    [
+      0.000078,
+      "\u001b[9D\u001b[0K:buildSrc:gradle-thrift-plugin:build \r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000178,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[37C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.000054,
+      "\u001b[9D\u001b[0K\u001b[1A\u001b[47C\r\n\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.045992,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000490,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.019654,
+      "\u001b[7D\u001b[1mConfiguring\u001b[22m"
+    ],
+    [
+      0.128756,
+      "\u001b[1m \u003e 0/37 projects\u001b[22m"
+    ],
+    [
+      0.000717,
+      "\u001b[1m \u003e root project\u001b[22m"
+    ],
+    [
+      0.059988,
+      "\u001b[1m \u003e Resolving dependencies ':classpath'\u001b[22m"
+    ],
+    [
+      0.172523,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.275162,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000501,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.039165,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000641,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013160,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000592,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.014831,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000569,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013356,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000543,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.015116,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.001403,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.015708,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.001355,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.012965,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000531,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.012812,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000498,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.016188,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000498,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.014955,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000607,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.014496,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000550,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.015914,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000552,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.014229,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000488,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.015371,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000520,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.018057,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000532,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.015708,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000583,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013758,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000578,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.012461,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000708,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.011949,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000784,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013218,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000644,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013966,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000595,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.014018,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000644,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.012810,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000552,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.011047,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000632,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013028,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000660,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.012525,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000893,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.010113,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000619,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.009964,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000749,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.012576,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000474,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013973,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000587,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.011196,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000667,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.011524,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000513,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.016810,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000508,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.013239,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000570,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.020899,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.001115,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.021686,
+      "\u001b[1m \u003e Resolving dependencies 'classpath'\u001b[22m"
+    ],
+    [
+      0.000483,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      1.020955,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000678,
+      "\u001b[13D\u001b[1m1/37 projects\u001b[22m"
+    ],
+    [
+      0.001592,
+      "\u001b[1m \u003e :analysis\u001b[22m"
+    ],
+    [
+      0.005362,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:classpath'\u001b[22m"
+    ],
+    [
+      0.000434,
+      "\u001b[47D\u001b[0K"
+    ],
+    [
+      0.600880,
+      "\u001b[12D\u001b[0K"
+    ],
+    [
+      0.000523,
+      "\u001b[13D\u001b[1m2/37 projects\u001b[22m"
+    ],
+    [
+      0.003312,
+      "\u001b[1m \u003e :builder\u001b[22m"
+    ],
+    [
+      0.004481,
+      "\u001b[1m \u003e Resolving dependencies ':builder:classpath'\u001b[22m"
+    ],
+    [
+      0.000500,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.035958,
+      "\u001b[11D\u001b[0K"
+    ],
+    [
+      0.000669,
+      "\u001b[13D\u001b[1m3/37 projects\u001b[22m"
+    ],
+    [
+      0.003132,
+      "\u001b[1m \u003e :common\u001b[22m"
+    ],
+    [
+      0.004491,
+      "\u001b[1m \u003e Resolving dependencies ':common:classpath'\u001b[22m"
+    ],
+    [
+      0.000433,
+      "\u001b[45D\u001b[0K"
+    ],
+    [
+      0.104937,
+      "\u001b[10D\u001b[0K"
+    ],
+    [
+      0.000546,
+      "\u001b[13D\u001b[1m4/37 projects\u001b[22m"
+    ],
+    [
+      0.003895,
+      "\u001b[1m \u003e :crawler\u001b[22m"
+    ],
+    [
+      0.004895,
+      "\u001b[1m \u003e Resolving dependencies ':crawler:classpath'\u001b[22m"
+    ],
+    [
+      0.000390,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.052616,
+      "\u001b[11D\u001b[0K"
+    ],
+    [
+      0.000508,
+      "\u001b[13D\u001b[1m5/37 projects\u001b[22m"
+    ],
+    [
+      0.003392,
+      "\u001b[1m \u003e :httpservers\u001b[22m"
+    ],
+    [
+      0.005928,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:classpath'\u001b[22m"
+    ],
+    [
+      0.000661,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.090034,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000424,
+      "\u001b[13D\u001b[1m6/37 projects\u001b[22m"
+    ],
+    [
+      0.000584,
+      "\u001b[1m \u003e :plugin\u001b[22m"
+    ],
+    [
+      0.003609,
+      "\u001b[1m \u003e Resolving dependencies ':plugin:classpath'\u001b[22m"
+    ],
+    [
+      0.000476,
+      "\u001b[45D\u001b[0K"
+    ],
+    [
+      0.001390,
+      "\u001b[10D\u001b[0K"
+    ],
+    [
+      0.000554,
+      "\u001b[13D\u001b[1m7/37 projects\u001b[22m"
+    ],
+    [
+      0.000728,
+      "\u001b[1m \u003e :scm\u001b[22m"
+    ],
+    [
+      0.004655,
+      "\u001b[1m \u003e Resolving dependencies ':scm:classpath'\u001b[22m"
+    ],
+    [
+      0.000476,
+      "\u001b[42D\u001b[0K"
+    ],
+    [
+      0.038563,
+      "\u001b[7D\u001b[0K"
+    ],
+    [
+      0.000551,
+      "\u001b[13D\u001b[1m8/37 projects\u001b[22m"
+    ],
+    [
+      0.002432,
+      "\u001b[1m \u003e :services\u001b[22m"
+    ],
+    [
+      0.005538,
+      "\u001b[1m \u003e Resolving dependencies ':services:classpath'\u001b[22m"
+    ],
+    [
+      0.000566,
+      "\u001b[47D\u001b[0K"
+    ],
+    [
+      0.184023,
+      "\u001b[12D\u001b[0K"
+    ],
+    [
+      0.000518,
+      "\u001b[13D\u001b[1m9/37 projects\u001b[22m"
+    ],
+    [
+      0.002792,
+      "\u001b[1m \u003e :thirdparty\u001b[22m"
+    ],
+    [
+      0.002987,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:classpath'\u001b[22m"
+    ],
+    [
+      0.000494,
+      "\u001b[49D\u001b[0K"
+    ],
+    [
+      0.000834,
+      "\u001b[14D\u001b[0K"
+    ],
+    [
+      0.000412,
+      "\u001b[13D\u001b[1m10/37 projects\u001b[22m"
+    ],
+    [
+      0.000846,
+      "\u001b[1m \u003e :thriftdao\u001b[22m"
+    ],
+    [
+      0.016804,
+      "\u001b[1m \u003e Resolving dependencies ':thriftdao:classpath'\u001b[22m"
+    ],
+    [
+      0.178119,
+      "\u001b[48D\u001b[0K"
+    ],
+    [
+      0.111281,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000574,
+      "\u001b[13D\u001b[1m1/37 projects\u001b[22m"
+    ],
+    [
+      0.013647,
+      "\u001b[1m \u003e :analysis:java7\u001b[22m"
+    ],
+    [
+      0.005646,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:java7:classpath'\u001b[22m"
+    ],
+    [
+      0.000355,
+      "\u001b[53D\u001b[0K"
+    ],
+    [
+      0.010354,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000527,
+      "\u001b[13D\u001b[1m2/37 projects\u001b[22m"
+    ],
+    [
+      0.003512,
+      "\u001b[1m \u003e :analysis:java8\u001b[22m"
+    ],
+    [
+      0.005479,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:java8:classpath'\u001b[22m"
+    ],
+    [
+      0.000502,
+      "\u001b[53D\u001b[0K"
+    ],
+    [
+      0.069344,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000617,
+      "\u001b[13D\u001b[1m3/37 projects\u001b[22m"
+    ],
+    [
+      0.004207,
+      "\u001b[1m \u003e :analysis:javascript\u001b[22m"
+    ],
+    [
+      0.006418,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:javascript:classpath'\u001b[22m"
+    ],
+    [
+      0.000566,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.039837,
+      "\u001b[23D\u001b[0K"
+    ],
+    [
+      0.000616,
+      "\u001b[13D\u001b[1m4/37 projects\u001b[22m"
+    ],
+    [
+      0.004086,
+      "\u001b[1m \u003e :analysis:maven\u001b[22m"
+    ],
+    [
+      0.006960,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:maven:classpath'\u001b[22m"
+    ],
+    [
+      0.000446,
+      "\u001b[53D\u001b[0K"
+    ],
+    [
+      0.011871,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000473,
+      "\u001b[13D\u001b[1m5/37 projects\u001b[22m"
+    ],
+    [
+      0.002334,
+      "\u001b[1m \u003e :analysis:python\u001b[22m"
+    ],
+    [
+      0.004186,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:python:classpath'\u001b[22m"
+    ],
+    [
+      0.000417,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.011677,
+      "\u001b[19D\u001b[0K"
+    ],
+    [
+      0.000638,
+      "\u001b[13D\u001b[1m6/37 projects\u001b[22m"
+    ],
+    [
+      0.003252,
+      "\u001b[1m \u003e :analysis:ruby\u001b[22m"
+    ],
+    [
+      0.004897,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:ruby:classpath'\u001b[22m"
+    ],
+    [
+      0.000916,
+      "\u001b[52D\u001b[0K"
+    ],
+    [
+      0.011301,
+      "\u001b[17D\u001b[0K"
+    ],
+    [
+      0.000513,
+      "\u001b[13D\u001b[1m7/37 projects\u001b[22m"
+    ],
+    [
+      0.002364,
+      "\u001b[1m \u003e :analysis:scala-2.10\u001b[22m"
+    ],
+    [
+      0.005348,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:scala-2.10:classpath'\u001b[22m"
+    ],
+    [
+      0.000462,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.012130,
+      "\u001b[23D\u001b[0K"
+    ],
+    [
+      0.000500,
+      "\u001b[13D\u001b[1m8/37 projects\u001b[22m"
+    ],
+    [
+      0.002727,
+      "\u001b[1m \u003e :analysis:scala-2.11\u001b[22m"
+    ],
+    [
+      0.005205,
+      "\u001b[1m \u003e Resolving dependencies ':analysis:scala-2.11:classpath'\u001b[22m"
+    ],
+    [
+      0.000420,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.030270,
+      "\u001b[23D\u001b[0K"
+    ],
+    [
+      0.000588,
+      "\u001b[13D\u001b[1m9/37 projects\u001b[22m"
+    ],
+    [
+      0.002622,
+      "\u001b[1m \u003e :builder:interceptor\u001b[22m"
+    ],
+    [
+      0.004959,
+      "\u001b[1m \u003e Resolving dependencies ':builder:interceptor:classpath'\u001b[22m"
+    ],
+    [
+      0.000497,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.040311,
+      "\u001b[23D\u001b[0K"
+    ],
+    [
+      0.000516,
+      "\u001b[14D\u001b[1m20/37 projects\u001b[22m"
+    ],
+    [
+      0.002693,
+      "\u001b[1m \u003e :httpservers:apiserver\u001b[22m"
+    ],
+    [
+      0.004071,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:apiserver:classpath'\u001b[22m"
+    ],
+    [
+      0.000573,
+      "\u001b[60D\u001b[0K"
+    ],
+    [
+      0.077800,
+      "\u001b[25D\u001b[0K"
+    ],
+    [
+      0.000399,
+      "\u001b[13D\u001b[1m1/37 projects\u001b[22m"
+    ],
+    [
+      0.002754,
+      "\u001b[1m \u003e :httpservers:codatlas\u001b[22m"
+    ],
+    [
+      0.014105,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:codatlas:classpath'\u001b[22m"
+    ],
+    [
+      0.005397,
+      "\u001b[59D\u001b[0K"
+    ],
+    [
+      0.216200,
+      "\u001b[24D\u001b[0K\u001b[13D\u001b[1m2/37 projects\u001b[22m"
+    ],
+    [
+      0.051240,
+      "\u001b[1m \u003e :httpservers:shared\u001b[22m"
+    ],
+    [
+      0.008492,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:shared:classpath'\u001b[22m\u001b[57D\u001b[0K"
+    ],
+    [
+      0.017283,
+      "\u001b[22D\u001b[0K\u001b[13D\u001b[1m3/37 projects\u001b[22m"
+    ],
+    [
+      0.002344,
+      "\u001b[1m \u003e :httpservers:snippetserver\u001b[22m"
+    ],
+    [
+      0.007103,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:snippetserver:classpath'\u001b[22m\u001b[64D\u001b[0K"
+    ],
+    [
+      0.034543,
+      "\u001b[29D\u001b[0K\u001b[13D\u001b[1m4/37 projects\u001b[22m"
+    ],
+    [
+      0.003350,
+      "\u001b[1m \u003e :plugin:chrome\u001b[22m"
+    ],
+    [
+      0.020391,
+      "\u001b[1m \u003e Resolving dependencies ':plugin:chrome:classpath'\u001b[22m"
+    ],
+    [
+      0.003056,
+      "\u001b[52D\u001b[0K"
+    ],
+    [
+      0.026542,
+      "\u001b[17D\u001b[0K"
+    ],
+    [
+      0.000611,
+      "\u001b[13D\u001b[1m5/37 projects\u001b[22m"
+    ],
+    [
+      0.004494,
+      "\u001b[1m \u003e :plugin:hexacat\u001b[22m"
+    ],
+    [
+      0.004936,
+      "\u001b[1m \u003e Resolving dependencies ':plugin:hexacat:classpath'\u001b[22m"
+    ],
+    [
+      0.000542,
+      "\u001b[53D\u001b[0K"
+    ],
+    [
+      0.000828,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000579,
+      "\u001b[13D\u001b[1m6/37 projects\u001b[22m"
+    ],
+    [
+      0.001565,
+      "\u001b[1m \u003e :services:dataservice\u001b[22m"
+    ],
+    [
+      0.006100,
+      "\u001b[1m \u003e Resolving dependencies ':services:dataservice:classpath'\u001b[22m"
+    ],
+    [
+      0.000592,
+      "\u001b[59D\u001b[0K"
+    ],
+    [
+      0.019480,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000533,
+      "\u001b[13D\u001b[1m7/37 projects\u001b[22m"
+    ],
+    [
+      0.002305,
+      "\u001b[1m \u003e :services:liaceservice\u001b[22m"
+    ],
+    [
+      0.008213,
+      "\u001b[1m \u003e Resolving dependencies ':services:liaceservice:classpath'\u001b[22m"
+    ],
+    [
+      0.000609,
+      "\u001b[60D\u001b[0K"
+    ],
+    [
+      0.023810,
+      "\u001b[25D\u001b[0K"
+    ],
+    [
+      0.000615,
+      "\u001b[13D\u001b[1m8/37 projects\u001b[22m"
+    ],
+    [
+      0.002961,
+      "\u001b[1m \u003e :services:projectservice\u001b[22m"
+    ],
+    [
+      0.005482,
+      "\u001b[1m \u003e Resolving dependencies ':services:projectservice:classpath'\u001b[22m"
+    ],
+    [
+      0.000662,
+      "\u001b[62D\u001b[0K"
+    ],
+    [
+      0.022087,
+      "\u001b[27D\u001b[0K"
+    ],
+    [
+      0.000504,
+      "\u001b[13D\u001b[1m9/37 projects\u001b[22m"
+    ],
+    [
+      0.002176,
+      "\u001b[1m \u003e :services:pygments\u001b[22m"
+    ],
+    [
+      0.005362,
+      "\u001b[1m \u003e Resolving dependencies ':services:pygments:classpath'\u001b[22m"
+    ],
+    [
+      0.000823,
+      "\u001b[56D\u001b[0K"
+    ],
+    [
+      0.013451,
+      "\u001b[21D\u001b[0K"
+    ],
+    [
+      0.000558,
+      "\u001b[14D\u001b[1m30/37 projects\u001b[22m"
+    ],
+    [
+      0.002273,
+      "\u001b[1m \u003e :thirdparty:jdk7\u001b[22m"
+    ],
+    [
+      0.019146,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:jdk7:classpath'\u001b[22m"
+    ],
+    [
+      0.033147,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.175542,
+      "\u001b[19D\u001b[0K"
+    ],
+    [
+      0.000468,
+      "\u001b[13D\u001b[1m1/37 projects\u001b[22m"
+    ],
+    [
+      0.001439,
+      "\u001b[1m \u003e :thirdparty:jdk8\u001b[22m"
+    ],
+    [
+      0.015195,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:jdk8:classpath'\u001b[22m"
+    ],
+    [
+      0.007855,
+      "\u001b[54D\u001b[0K"
+    ],
+    [
+      0.040651,
+      "\u001b[19D\u001b[0K"
+    ],
+    [
+      0.000475,
+      "\u001b[13D\u001b[1m2/37 projects\u001b[22m"
+    ],
+    [
+      0.001474,
+      "\u001b[1m \u003e :thirdparty:jenkins\u001b[22m"
+    ],
+    [
+      0.005080,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:jenkins:classpath'\u001b[22m"
+    ],
+    [
+      0.000506,
+      "\u001b[57D\u001b[0K"
+    ],
+    [
+      0.018648,
+      "\u001b[22D\u001b[0K"
+    ],
+    [
+      0.000535,
+      "\u001b[13D\u001b[1m3/37 projects\u001b[22m"
+    ],
+    [
+      0.000654,
+      "\u001b[1m \u003e :thirdparty:mongodb\u001b[22m"
+    ],
+    [
+      0.005782,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:mongodb:classpath'\u001b[22m"
+    ],
+    [
+      0.000539,
+      "\u001b[57D\u001b[0K"
+    ],
+    [
+      0.014286,
+      "\u001b[22D\u001b[0K"
+    ],
+    [
+      0.000561,
+      "\u001b[13D\u001b[1m4/37 projects\u001b[22m"
+    ],
+    [
+      0.000689,
+      "\u001b[1m \u003e :thirdparty:pysonar2\u001b[22m"
+    ],
+    [
+      0.006802,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:pysonar2:classpath'\u001b[22m"
+    ],
+    [
+      0.001052,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.042491,
+      "\u001b[23D\u001b[0K"
+    ],
+    [
+      0.000526,
+      "\u001b[13D\u001b[1m5/37 projects\u001b[22m"
+    ],
+    [
+      0.001738,
+      "\u001b[1m \u003e :thirdparty:rubysonar\u001b[22m"
+    ],
+    [
+      0.005790,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:rubysonar:classpath'\u001b[22m"
+    ],
+    [
+      0.000648,
+      "\u001b[59D\u001b[0K"
+    ],
+    [
+      0.035074,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000677,
+      "\u001b[13D\u001b[1m6/37 projects\u001b[22m"
+    ],
+    [
+      0.002273,
+      "\u001b[1m \u003e :thirdparty:scala\u001b[22m"
+    ],
+    [
+      0.005500,
+      "\u001b[1m \u003e Resolving dependencies ':thirdparty:scala:classpath'\u001b[22m"
+    ],
+    [
+      0.000557,
+      "\u001b[55D\u001b[0K"
+    ],
+    [
+      0.014333,
+      "\u001b[20D\u001b[0K"
+    ],
+    [
+      0.000466,
+      "\u001b[13D\u001b[1m7/37 projects\u001b[22m"
+    ],
+    [
+      0.132445,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:codatlas:nodeDist'\u001b[22m"
+    ],
+    [
+      0.015707,
+      "\u001b[58D\u001b[0K"
+    ],
+    [
+      0.047140,
+      "\u001b[17D\u001b[0K"
+    ],
+    [
+      0.000544,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000765,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000668,
+      "\u001b[1m \u003e :httpservers:codatlas:nodeSetup\u001b[22m"
+    ],
+    [
+      0.250643,
+      "\u001b[34D\u001b[0K"
+    ],
+    [
+      0.000072,
+      "\u001b[13D\u001b[0K:httpservers:codatlas:nodeSetup \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000061,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[32C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000055,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[42C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000487,
+      "\u001b[2D\u001b[1m3%\u001b[22m"
+    ],
+    [
+      0.000593,
+      "\u001b[1m \u003e :httpservers:codatlas:npmSetup\u001b[22m"
+    ],
+    [
+      0.000550,
+      "\u001b[33D\u001b[0K"
+    ],
+    [
+      0.000074,
+      "\u001b[13D\u001b[0K:httpservers:codatlas:npmSetup \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 3%\u001b[22m"
+    ],
+    [
+      0.000069,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[31C\u001b[33mSKIPPED\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 3%\u001b[22m"
+    ],
+    [
+      0.000058,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 3%\u001b[22m"
+    ],
+    [
+      0.000405,
+      "\u001b[2D\u001b[1m6%\u001b[22m"
+    ],
+    [
+      0.000542,
+      "\u001b[1m \u003e :httpservers:codatlas:npmInstall\u001b[22m"
+    ],
+    [
+      0.650495,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000114,
+      "\u001b[13D\u001b[0K:httpservers:codatlas:npmInstall \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 6%\u001b[22m"
+    ],
+    [
+      0.000081,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 6%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[13D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 6%\u001b[22m"
+    ],
+    [
+      0.000422,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000716,
+      "\u001b[1m \u003e :httpservers:codatlas:bowerInstall\u001b[22m"
+    ],
+    [
+      0.902399,
+      "\u001b[37D\u001b[0K"
+    ],
+    [
+      0.000250,
+      "\u001b[13D\u001b[0K:httpservers:codatlas:bowerInstall\r\n\u001b[1m\u003e Building 9%\u001b[22m"
+    ],
+    [
+      0.000645,
+      "\u001b[2D\u001b[1m12%\u001b[22m"
+    ],
+    [
+      0.000826,
+      "\u001b[1m \u003e :common:generateJavascript\u001b[22m"
+    ],
+    [
+      0.030570,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000060,
+      "\u001b[14D\u001b[0K:common:generateJavascript\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 12%\u001b[22m"
+    ],
+    [
+      0.000432,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000665,
+      "\u001b[1m \u003e :httpservers:codatlas:copyGeneratedJs\u001b[22m"
+    ],
+    [
+      0.004585,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.000124,
+      "\u001b[14D\u001b[0K:httpservers:codatlas:copyGeneratedJs \r\n\u001b[1m\u003e Building 15%\u001b[22m"
+    ],
+    [
+      0.000231,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 15%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[48C\r\n\u001b[1m\u003e Building 15%\u001b[22m"
+    ],
+    [
+      0.000578,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000643,
+      "\u001b[1m \u003e :httpservers:codatlas:genPlayConfig\u001b[22m"
+    ],
+    [
+      0.000403,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K:httpservers:codatlas:genPlayConfig \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000058,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[36C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[46C\r\n\u001b[1m\u003e Building 18%\u001b[22m"
+    ],
+    [
+      0.000358,
+      "\u001b[3D\u001b[1m21%\u001b[22m"
+    ],
+    [
+      0.000719,
+      "\u001b[1m \u003e :httpservers:codatlas:copyPlayBin\u001b[22m"
+    ],
+    [
+      0.106458,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000089,
+      "\u001b[14D\u001b[0K:httpservers:codatlas:copyPlayBin \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000112,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n\u001b[1m\u003e Building 21%\u001b[22m"
+    ],
+    [
+      0.000423,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000430,
+      "\u001b[1m \u003e :httpservers:codatlas:killPlay\u001b[22m"
+    ],
+    [
+      0.043913,
+      "\u001b[33D\u001b[0K\u001b[14D\u001b[0K:httpservers:codatlas:killPlay\r\n\u001b[1m\u003e Building 24%\u001b[22m"
+    ],
+    [
+      0.000446,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000463,
+      "\u001b[1m \u003e :thriftdao:compileJava\u001b[22m"
+    ],
+    [
+      0.013458,
+      "\u001b[1m \u003e Resolving dependencies ':thriftdao:compile'\u001b[22m"
+    ],
+    [
+      0.170718,
+      "\u001b[46D\u001b[0K"
+    ],
+    [
+      0.008805,
+      "\u001b[25D\u001b[0K\u001b[14D\u001b[0K:thriftdao:compileJava \r\n\u001b[1m\u003e Building 27%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[23C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 27%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[33C\r\n\u001b[1m\u003e Building 27%\u001b[22m"
+    ],
+    [
+      0.001472,
+      "\u001b[3D\u001b[1m30%\u001b[22m\u001b[1m \u003e :thriftdao:compileScala\u001b[22m"
+    ],
+    [
+      0.008106,
+      "\u001b[1m \u003e Resolving dependencies 'detachedConfiguration1'\u001b[22m"
+    ],
+    [
+      0.010238,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.001954,
+      "\u001b[1m \u003e Resolving dependencies ':thriftdao:zinc'\u001b[22m"
+    ],
+    [
+      0.027965,
+      "\u001b[43D\u001b[0K"
+    ],
+    [
+      0.013838,
+      "\u001b[26D\u001b[0K"
+    ],
+    [
+      0.001651,
+      "\u001b[14D\u001b[0K:thriftdao:compileScala \r\n\u001b[1m\u003e Building 30%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[24C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 30%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[34C\r\n\u001b[1m\u003e Building 30%\u001b[22m\u001b[2D\u001b[1m3%\u001b[22m\u001b[1m \u003e :thriftdao:processResources\u001b[22m"
+    ],
+    [
+      0.000500,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000092,
+      "\u001b[14D\u001b[0K:thriftdao:processResources \r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[1m\u003e Building 33%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 33%\u001b[22m"
+    ],
+    [
+      0.000120,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n\u001b[1m\u003e Building 33%\u001b[22m"
+    ],
+    [
+      0.000453,
+      "\u001b[2D\u001b[1m6%\u001b[22m"
+    ],
+    [
+      0.000533,
+      "\u001b[1m \u003e :thriftdao:classes\u001b[22m"
+    ],
+    [
+      0.000771,
+      "\u001b[21D\u001b[0K\u001b[14D\u001b[0K:thriftdao:classes \r\n\u001b[1m\u003e Building 36%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[19C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 36%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[29C\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 36%\u001b[22m"
+    ],
+    [
+      0.000723,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000679,
+      "\u001b[1m \u003e :thriftdao:jar\u001b[22m"
+    ],
+    [
+      0.004999,
+      "\u001b[17D\u001b[0K"
+    ],
+    [
+      0.000117,
+      "\u001b[14D\u001b[0K:thriftdao:jar \r\n\u001b[1m\u003e Building 39%\u001b[22m"
+    ],
+    [
+      0.000307,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[15C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 39%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[25C\r\n\u001b[1m\u003e Building 39%\u001b[22m"
+    ],
+    [
+      0.000338,
+      "\u001b[3D\u001b[1m42%\u001b[22m"
+    ],
+    [
+      0.000690,
+      "\u001b[1m \u003e :common:compileJava\u001b[22m"
+    ],
+    [
+      0.001637,
+      "\u001b[22D\u001b[0K\u001b[14D\u001b[0K:common:compileJava \r\n\u001b[1m\u003e Building 42%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[20C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 42%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[30C\r\n\u001b[1m\u003e Building 42%\u001b[22m\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000568,
+      "\u001b[1m \u003e :common:compileScrooge\u001b[22m"
+    ],
+    [
+      0.015835,
+      "\u001b[25D\u001b[0K\u001b[14D\u001b[0K:common:compileScrooge \r\n\u001b[1m\u003e Building 45%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[23C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 45%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[33C\r\n\u001b[1m\u003e Building 45%\u001b[22m\u001b[2D\u001b[1m8%\u001b[22m\u001b[1m \u003e :common:compileScala\u001b[22m"
+    ],
+    [
+      0.147542,
+      "\u001b[1m \u003e Resolving dependencies ':common:compile'\u001b[22m"
+    ],
+    [
+      0.150059,
+      "\u001b[43D\u001b[0K"
+    ],
+    [
+      0.009315,
+      "\u001b[1m \u003e Resolving dependencies 'detachedConfiguration1'\u001b[22m"
+    ],
+    [
+      0.003800,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.001431,
+      "\u001b[1m \u003e Resolving dependencies ':common:zinc'\u001b[22m"
+    ],
+    [
+      0.007026,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.019219,
+      "\u001b[23D\u001b[0K"
+    ],
+    [
+      0.000149,
+      "\u001b[14D\u001b[0K:common:compileScala \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 48%\u001b[22m"
+    ],
+    [
+      0.000066,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[21C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 48%\u001b[22m"
+    ],
+    [
+      0.000059,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[31C\r\n\u001b[1m\u003e Building 48%\u001b[22m"
+    ],
+    [
+      0.000592,
+      "\u001b[3D\u001b[1m51%\u001b[22m"
+    ],
+    [
+      0.002228,
+      "\u001b[1m \u003e :common:processResources\u001b[22m"
+    ],
+    [
+      0.001444,
+      "\u001b[27D\u001b[0K"
+    ],
+    [
+      0.000063,
+      "\u001b[14D\u001b[0K:common:processResources \r\n\u001b[1m\u003e Building 51%\u001b[22m"
+    ],
+    [
+      0.000063,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[25C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 51%\u001b[22m"
+    ],
+    [
+      0.000053,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[35C\r\n\u001b[1m\u003e Building 51%\u001b[22m"
+    ],
+    [
+      0.000518,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000587,
+      "\u001b[1m \u003e :common:classes\u001b[22m"
+    ],
+    [
+      0.000910,
+      "\u001b[18D\u001b[0K"
+    ],
+    [
+      0.000054,
+      "\u001b[14D\u001b[0K:common:classes \r\n\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000070,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[16C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[26C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 54%\u001b[22m"
+    ],
+    [
+      0.000524,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000600,
+      "\u001b[1m \u003e :common:jar\u001b[22m"
+    ],
+    [
+      0.062684,
+      "\u001b[14D\u001b[0K"
+    ],
+    [
+      0.000140,
+      "\u001b[14D\u001b[0K:common:jar \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 57%\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[12C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 57%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[22C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 57%\u001b[22m"
+    ],
+    [
+      0.001574,
+      "\u001b[3D\u001b[1m60%\u001b[22m"
+    ],
+    [
+      0.001820,
+      "\u001b[1m \u003e :services:compileJava\u001b[22m"
+    ],
+    [
+      0.001891,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000088,
+      "\u001b[14D\u001b[0K:services:compileJava \r\n\u001b[1m\u003e Building 60%\u001b[22m"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 60%\u001b[22m"
+    ],
+    [
+      0.000035,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\r\n\u001b[1m\u003e Building 60%\u001b[22m"
+    ],
+    [
+      0.000929,
+      "\u001b[2D\u001b[1m3%\u001b[22m"
+    ],
+    [
+      0.000963,
+      "\u001b[1m \u003e :services:compileScala\u001b[22m"
+    ],
+    [
+      0.008013,
+      "\u001b[1m \u003e Resolving dependencies ':services:compile'\u001b[22m"
+    ],
+    [
+      0.215794,
+      "\u001b[45D\u001b[0K"
+    ],
+    [
+      0.016224,
+      "\u001b[1m \u003e Resolving dependencies 'detachedConfiguration1'\u001b[22m"
+    ],
+    [
+      0.004033,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.001843,
+      "\u001b[1m \u003e Resolving dependencies ':services:zinc'\u001b[22m"
+    ],
+    [
+      0.009424,
+      "\u001b[42D\u001b[0K"
+    ],
+    [
+      0.013063,
+      "\u001b[25D\u001b[0K"
+    ],
+    [
+      0.000079,
+      "\u001b[14D\u001b[0K:services:compileScala \r\n\u001b[1m\u003e Building 63%\u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[23C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 63%\u001b[22m"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\r\n\u001b[1m\u003e Building 63%\u001b[22m"
+    ],
+    [
+      0.000546,
+      "\u001b[2D\u001b[1m6%\u001b[22m"
+    ],
+    [
+      0.000573,
+      "\u001b[1m \u003e :services:processResources\u001b[22m"
+    ],
+    [
+      0.011236,
+      "\u001b[29D\u001b[0K"
+    ],
+    [
+      0.000039,
+      "\u001b[14D\u001b[0K:services:processResources \r\n\u001b[1m\u003e Building 66%\u001b[22m"
+    ],
+    [
+      0.000075,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[27C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 66%\u001b[22m"
+    ],
+    [
+      0.000058,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\r\n\u001b[1m\u003e Building 66%\u001b[22m"
+    ],
+    [
+      0.000567,
+      "\u001b[2D\u001b[1m9%\u001b[22m"
+    ],
+    [
+      0.000689,
+      "\u001b[1m \u003e :services:classes\u001b[22m"
+    ],
+    [
+      0.000975,
+      "\u001b[20D\u001b[0K"
+    ],
+    [
+      0.000074,
+      "\u001b[14D\u001b[0K:services:classes \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 69%\u001b[22m"
+    ],
+    [
+      0.000080,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[18C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 69%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 69%\u001b[22m"
+    ],
+    [
+      0.000490,
+      "\u001b[3D\u001b[1m72%\u001b[22m"
+    ],
+    [
+      0.000651,
+      "\u001b[1m \u003e :services:jar\u001b[22m"
+    ],
+    [
+      0.009798,
+      "\u001b[16D\u001b[0K"
+    ],
+    [
+      0.000068,
+      "\u001b[14D\u001b[0K:services:jar \r\n\u001b[1m\u003e Building 72%\u001b[22m"
+    ],
+    [
+      0.000069,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[14C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 72%\u001b[22m"
+    ],
+    [
+      0.000065,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[24C\r\n\u001b[1m\u003e Building 72%\u001b[22m"
+    ],
+    [
+      0.000472,
+      "\u001b[2D\u001b[1m5%\u001b[22m"
+    ],
+    [
+      0.000869,
+      "\u001b[1m \u003e :httpservers:shared:compileJava\u001b[22m"
+    ],
+    [
+      0.000560,
+      "\u001b[34D\u001b[0K"
+    ],
+    [
+      0.000071,
+      "\u001b[14D\u001b[0K:httpservers:shared:compileJava \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000066,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[42C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000582,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000628,
+      "\u001b[1m \u003e :httpservers:shared:compileScala\u001b[22m"
+    ],
+    [
+      0.015955,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:shared:compile'\u001b[22m"
+    ],
+    [
+      0.205665,
+      "\u001b[55D\u001b[0K"
+    ],
+    [
+      0.014775,
+      "\u001b[1m \u003e Resolving dependencies 'detachedConfiguration1'\u001b[22m"
+    ],
+    [
+      0.004942,
+      "\u001b[50D\u001b[0K"
+    ],
+    [
+      0.002324,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:shared:zinc'\u001b[22m"
+    ],
+    [
+      0.008397,
+      "\u001b[52D\u001b[0K"
+    ],
+    [
+      0.009448,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.000065,
+      "\u001b[14D\u001b[0K:httpservers:shared:compileScala \r\n\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000081,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[33C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000055,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[43C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 78%\u001b[22m"
+    ],
+    [
+      0.000531,
+      "\u001b[3D\u001b[1m81%\u001b[22m"
+    ],
+    [
+      0.000592,
+      "\u001b[1m \u003e :httpservers:shared:processResources\u001b[22m"
+    ],
+    [
+      0.000490,
+      "\u001b[39D\u001b[0K"
+    ],
+    [
+      0.000062,
+      "\u001b[14D\u001b[0K:httpservers:shared:processResources \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 81%\u001b[22m"
+    ],
+    [
+      0.000070,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[37C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 81%\u001b[22m"
+    ],
+    [
+      0.000050,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[47C\r\n\u001b[1m\u003e Building 81%\u001b[22m"
+    ],
+    [
+      0.000549,
+      "\u001b[2D\u001b[1m4%\u001b[22m"
+    ],
+    [
+      0.000669,
+      "\u001b[1m \u003e :httpservers:shared:classes\u001b[22m"
+    ],
+    [
+      0.000588,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.000104,
+      "\u001b[14D\u001b[0K:httpservers:shared:classes \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 84%\u001b[22m"
+    ],
+    [
+      0.000088,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[28C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 84%\u001b[22m"
+    ],
+    [
+      0.000058,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[38C\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 84%\u001b[22m"
+    ],
+    [
+      0.000484,
+      "\u001b[2D\u001b[1m7%\u001b[22m"
+    ],
+    [
+      0.000736,
+      "\u001b[1m \u003e :httpservers:shared:jar\u001b[22m"
+    ],
+    [
+      0.007940,
+      "\u001b[26D\u001b[0K"
+    ],
+    [
+      0.000154,
+      "\u001b[14D\u001b[0K:httpservers:shared:jar \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 87%\u001b[22m"
+    ],
+    [
+      0.000078,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[24C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 87%\u001b[22m"
+    ],
+    [
+      0.000052,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 87%\u001b[22m"
+    ],
+    [
+      0.000967,
+      "\u001b[3D\u001b[1m90%\u001b[22m"
+    ],
+    [
+      0.000719,
+      "\u001b[1m \u003e :httpservers:codatlas:playLibSync\u001b[22m"
+    ],
+    [
+      0.000652,
+      "\u001b[1m \u003e Resolving dependencies ':httpservers:codatlas:compile'\u001b[22m"
+    ],
+    [
+      0.277403,
+      "\u001b[57D\u001b[0K"
+    ],
+    [
+      0.048743,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.000079,
+      "\u001b[14D\u001b[0K:httpservers:codatlas:playLibSync \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 90%\u001b[22m"
+    ],
+    [
+      0.000078,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[34C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 90%\u001b[22m"
+    ],
+    [
+      0.000049,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[44C\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 90%\u001b[22m"
+    ],
+    [
+      0.000571,
+      "\u001b[2D\u001b[1m3%\u001b[22m"
+    ],
+    [
+      0.000608,
+      "\u001b[1m \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      3.233898,
+      "\u001b[46D\u001b[0K:httpservers:codatlas:runPlay\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000107,
+      "\u001b[46D\u001b[0K\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mLoading project definition from /Users/weichen/workspace/lambdalab/httpservers/codatlas/project\u001b"
+    ],
+    [
+      0.000006,
+      "[0m\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000967,
+      "\u001b[46D\u001b[0K\u001b[1A\u001b[122C\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      1.562614,
+      "\u001b[46D\u001b[0K\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mSet current project to codatlas (in build file:/Users/weichen/workspace/lambdalab/httpservers/codatlas/)\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      1.392774,
+      "\u001b[46D\u001b[0K\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.362717,
+      "\u001b[46D\u001b[0KSLF4J: Class path contains multiple SLF4J bindings.\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000788,
+      "\u001b[46D\u001b[0KSLF4J: Found binding in [jar:file:/Users/weichen/workspace/lambdalab/httpservers/codatlas/lib/logback-classic-1.1.3.jar!/org/slf4j/impl/StaticLoggerBinder.class]\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000756,
+      "\u001b[46D\u001b[0KSLF4J: Found binding in [jar:file:/Users/weichen/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.1.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000670,
+      "\u001b[46D\u001b[0KSLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.253987,
+      "\u001b[46D\u001b[0K17:53:51,939 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000781,
+      "\u001b[46D\u001b[0K17:53:51,939 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000775,
+      "\u001b[46D\u001b[0KSLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000840,
+      "\u001b[46D\u001b[0K\u001b[1A\u001b[90C17:53:51,940 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [jar:file:/Users/weichen/workspace/lambdalab/httpservers/codatlas/lib/play_2.10-2.3.8.jar!/logback.xml]\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000679,
+      "\u001b[46D\u001b[0K\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000709,
+      "\u001b[46D\u001b[0K17:53:51,941 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.001230,
+      "\u001b[46D\u001b[0K17:53:51,941 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [jar:file:/Users/weichen/workspace/lambdalab/httpservers/codatlas/lib/services-1.0.jar!/logback.xml]\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000893,
+      "\u001b[46D\u001b[0K17:53:51,941 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [jar:file:/Users/weichen/workspace/lambdalab/httpservers/codatlas/lib/play_2.10-2.3.8.jar!/logback.xml]\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000674,
+      "\u001b[46D\u001b[0K17:53:51,941 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [jar:file:/User"
+    ],
+    [
+      0.000010,
+      "s/weichen/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.1.jar!/logback.xml]\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000761,
+      "\u001b[46D\u001b[0K17:53:51,952 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@765b7531 - URL [jar:file:/Users/weichen/workspace/lambdalab/httpservers/codatlas/lib/play_2.10-2.3.8.jar!/logback.xml] is not of type file\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000785,
+      "\u001b[46D\u001b[0K17:53:52,100 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000690,
+      "\u001b[46D\u001b[0K17:53:52,107 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.002131,
+      "\u001b[46D\u001b[0K17:53:52,119 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000677,
+      "\u001b[46D\u001b[0K17:53:52,145 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000636,
+      "\u001b[46D\u001b[0K17:53:52,176 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000523,
+      "\u001b[46D\u001b[0K\u001b[1A\u001b[109C ERROR\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000452,
+      "\u001b[46D\u001b[0K17:53:52,176 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000472,
+      "\u001b[46D\u001b[0K17:53:52,177 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000594,
+      "\u001b[46D\u001b[0K17:53:52,177 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@4160c165 - Registering current configuration as safe fallback point\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000490,
+      "\u001b[46D\u001b[0K\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.025019,
+      "\u001b[46D\u001b[0K\u001b[35m--- (Running the application, auto-reloading is enabled) ---\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000486,
+      "\u001b[46D\u001b[0K\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.141816,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] play - Listening for HTTP on /0:0:0:0:0:0:0:0:9000\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000925,
+      "\u001b[46D\u001b[0K\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.002638,
+      "\u001b[46D\u001b[0K\u001b[32m(Server started, use Ctrl+D to stop and go back to the console...)\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000673,
+      "\u001b[46D\u001b[0K\u001b[1A\u001b[75C\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000478,
+      "\u001b[46D\u001b[0K\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      1.563120,
+      "\u001b[46D\u001b[0K[\u001b[32msuccess\u001b[0m] Compiled in 807ms\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      4.968745,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] application:93 - Application has started\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000942,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] application:93 - Application has started\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.006842,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] play:93 - Application started (Dev)\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.406677,
+      "\u001b[46D\u001b[0KdataserviceAddress\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000707,
+      "\u001b[46D\u001b[0KliaceserviceAddress\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000646,
+      "\u001b[46D\u001b[0Khost\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000708,
+      "\u001b[46D\u001b[0KprojectserviceAddress\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000662,
+      "\u001b[46D\u001b[0KpygmentsAddress\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000628,
+      "\u001b[46D\u001b[0Kport\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000694,
+      "\u001b[46D\u001b[0Kmongodb.metadataDbName\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000690,
+      "\u001b[46D\u001b[0Kmongodb.host\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000670,
+      "\u001b[46D\u001b[0Kmongodb.mainDbName\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000673,
+      "\u001b[46D\u001b[0Kmongodb.port\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000751,
+      "\u001b[46D\u001b[0K{jline.esc.timeout=0, java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib, java.vm.version=25.45-b02, gopherProxySet=false, activator.home=/Users/weichen/"
+    ],
+    [
+      0.000012,
+      "workspace/lambdalab/httpservers/codatlas/build/playBin, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=:, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=US, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=unknown, java.vm.specification.name=Java Virtual Machine Specification, user.dir=/Users/weichen/workspace/lambdalab/httpservers/codatlas, java.runtime.version=1.8.0_45-b14, java.awt.graphicsenv=sun.awt.CGraphicsEnvironme"
+    ],
+    [
+      0.000039,
+      "nt, java.endorsed.dirs=/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/endorsed, os.arch=x86_64, name=codatlas, java.io.tmpdir=/var/folders/f7/gvxxcz3576z0rslyb_j088th0000gn/T/, line.separator=\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000760,
+      "\u001b[46D\u001b[0K, java.vm.specification.vendor=Oracle Corporation, os.name=Mac OS X, config.file=conf/.lambda_config.conf, sun.jnu.enco"
+    ],
+    [
+      0.000009,
+      "ding=UTF-8, java.library.path=/Users/weichen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.:/Users/weichen/workspace/lambdalab/httpservers/codatlas/target/native_libraries/64bits, sun.nio.ch.bugLevel=, java.specification.name=Java Platform API Specification, java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.10.3, http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, user.home="
+    ],
+    [
+      0.000008,
+      "/Users/weichen, user.timezone=America/Los_Angeles, java.awt.printerjob=sun.lwawt.macosx.CPrinterJob, file.encoding=UTF-8, java.s"
+    ],
+    [
+      0.000012,
+      "pecification.version=1.8, http.port=9000, java.class.path=/Users/weichen/workspace/lambdalab/httpservers/codatlas/build/playBin/"
+    ],
+    [
+      0.000003,
+      "activator-launch-1.2.12.jar, user.name=weichen, jline.shutdownhook=false, java.vm.specification.version=1.8, sun.java.command=/U"
+    ],
+    [
+      0.000003,
+      "sers/weichen/workspace/lambdalab/httpserver\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000739,
+      "\u001b[46D\u001b[0K\u001b[1A\u001b[1058Cs/codatlas/build/playBin/activator-launch-1.2.12.jar ~run -Dname=codatlas -Dconfig.file=conf/.lambda_config.conf -Dhttp.port=9000, java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre, sun.arch.data.model=64, us"
+    ],
+    [
+      0.000009,
+      "er.language=en, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.lwawt.macosx.LWCToolkit, java.vm.info=mixed mode, java.version=1.8.0_45, java.ext.dirs=/Users/weichen/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java,"
+    ],
+    [
+      0.000019,
+      " sun.boot.class.path=/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/li"
+    ],
+    [
+      0.000003,
+      "b/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachi"
+    ],
+    [
+      0.000011,
+      "nes/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/charse"
+    ],
+    [
+      0.000004,
+      "ts.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8."
+    ],
+    [
+      0.000011,
+      "0_45.jdk/Contents/Home/jre/classes, java.vendor=Oracle Corporation, file.separator=/, java.vendor.url.bug=http://bugreport.sun.c"
+    ],
+    [
+      0.000004,
+      "om/bugreport/, sun.io.unicode.encoding=UnicodeBig, sun.cpu.endian=little, socksNonProxyHosts=local|*.local|169.254/16|*.169.254/"
+    ],
+    [
+      0.000014,
+      "16, ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, sun.cpu.isalist=}\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.001931,
+      "\u001b[46D\u001b[0KMap(dataserviceAddress -\u003e localhost:10020, liaceserviceAddress -\u003e localhost:10030, host -\u003e localhost, projectserviceAddress -\u003e localhost:10010, pygmentsAddress -\u003e localhost:9191, port -\u003e 9000, mongodb -\u003e Map(metadataDbName -\u003e MetaData, host -\u003e localhost, mainDbName -\u003e Source, port -\u003e 27017))\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      1.294212,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] c.t.finagle:39 - Finagle version 6.25.0 (rev=78909170b7cc97044481274e297805d770465110) built at 20150423-134857\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.822518,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] a.e.s.Slf4jLogger:80 - Slf4jLogger started\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.126182,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] n.s.m.MemcachedConnection:38 - Added {QA sa=/127.0.0.1:11211, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.003705,
+      "\u001b[46D\u001b[0K[\u001b[37minfo\u001b[0m] n.s.m.MemcachedConnection:38 - Connection state changed for sun.nio.ch.SelectionKeyImpl@2432c17e\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      9.933610,
+      "\u001b[46D\u001b[0Kjava.lang.NoSuchMethodError: org.jboss.netty.handler.codec.http.HttpRequest.setHeader(Ljava/lang/String;Ljava/lang/Object;)V\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000620,
+      "\u001b[46D\u001b[0K\tat com.ning.http.client.providers.netty.NettyAsyncHttpProvider.construct(NettyAsyncHttpProvider.java:704)\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000695,
+      "\u001b[46D\u001b[0K\tat com.ning.http.client.providers.netty.NettyAsyncHttpProvider.buildRequest(NettyAsyncHttpProvider.java:657)\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000698,
+      "\u001b[46D\u001b[0K\tat com.ning.http.client.providers.netty.NettyConnectListener$Builder.build(NettyConnectListener.java:145)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000777,
+      "\u001b[46D\u001b[0K\tat com.ning.http.client.providers.netty.NettyAsyncHttpProvider.doConnect(NettyAsyncHttpProvider.java:1071)\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000834,
+      "\u001b[46D\u001b[0K\tat com.ning.http.client.providers.netty.NettyAsyncHttpProvider.execute(NettyAsyncHttpProvider.java:940)\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000903,
+      "\u001b[46D\u001b[0K\tat com.ning.http.client.AsyncHttpClient.executeRequest(AsyncHttpClient.java:499)\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000825,
+      "\u001b[46D\u001b[0K\tat play.api.libs.ws.ning.NingWSClient.executeRequest(NingWS.scala:42)\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000797,
+      "\u001b[46D\u001b[0K\tat play.api.libs.ws.ning.NingWSRequest.execute(NingWS.scala:246)\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.001308,
+      "\u001b[46D\u001b[0K\tat play.api.libs.ws.ning.NingWSRequestHolder.execute(NingWS.scala:405)\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000732,
+      "\u001b[46D\u001b[0K\tat play.api.libs.ws.WSRequestHolder$class.post(WS.scala:532)\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000349,
+      "\u001b[46D\u001b[0K\tat play.api.libs.ws.ning.NingWSRequestHolder.post(NingWS.scala:361)\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000465,
+      "\u001b[46D\u001b[0K\tat securesocial.core.OAuth2Client$Default.exchangeCodeForToken(OAuth2Provider.scala:54)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000823,
+      "\u001b[46D\u001b[0K\tat securesocial.core.OAuth2Provider.securesocial$core$OAuth2Provider$$getAccessToken(OAuth2Provider.scala:74)\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000713,
+      "\u001b[46D\u001b[0K\tat securesocial.core.OAuth2Provider$$anonfun$6.apply(OAuth2Provider.scala:121)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000756,
+      "\u001b[46D\u001b[0K\tat securesocial.core.OAuth2Provider$$anonfun$6.apply(OAuth2Provider.scala:110)\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000628,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:251)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000552,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:249)\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000595,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000455,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.impl.ExecutionContextImpl$$anon$3.exec(ExecutionContextImpl.scala:107)\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000441,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000518,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000392,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      0.000415,
+      "\u001b[46D\u001b[0K\tat scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)\r\n\u001b[1m\u003e Building 93% \u003e :httpservers:codatlas:runPlay\u001b[22m"
+    ],
+    [
+      12.165711,
+      "\u001b[0m"
+    ],
+    [
+      0.366645,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                          \r \r"
+    ],
+    [
+      0.000231,
+      "\u001b]2;weichen@Weis-MacBook-Pro: ~/workspace/lambdalab\u0007\u001b]1;..ace/lambdalab\u0007"
+    ],
+    [
+      0.072928,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mlambdalab \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.574795,
+      "\r\r\n"
+    ]
+  ]
+}
