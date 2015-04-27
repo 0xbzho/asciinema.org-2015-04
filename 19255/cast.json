@@ -1,0 +1,994 @@
+{
+  "version": 1,
+  "width": 168,
+  "height": 41,
+  "duration": 30.048783,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.070060,
+      "\u001b]0;mtozses@mtozses: /home/mtozses/apps/phonegap/yayinevi/www\u0007"
+    ],
+    [
+      0.000541,
+      "\u001b[01;32mmtozses@mtozses\u001b[01;34m ~/apps/phonegap/yayinevi/www $\u001b[00m "
+    ],
+    [
+      2.457614,
+      "t"
+    ],
+    [
+      0.159659,
+      "i"
+    ],
+    [
+      0.512158,
+      "m"
+    ],
+    [
+      0.319875,
+      "e"
+    ],
+    [
+      0.144041,
+      " "
+    ],
+    [
+      0.720055,
+      "c"
+    ],
+    [
+      0.191931,
+      "o"
+    ],
+    [
+      0.400115,
+      "r"
+    ],
+    [
+      0.975847,
+      "d"
+    ],
+    [
+      0.112058,
+      "o"
+    ],
+    [
+      0.387430,
+      "va "
+    ],
+    [
+      0.988585,
+      "r"
+    ],
+    [
+      0.159959,
+      "u"
+    ],
+    [
+      0.400095,
+      "n"
+    ],
+    [
+      2.751952,
+      "\r\n"
+    ],
+    [
+      0.363085,
+      "Running command: /home/mtozses/apps/phonegap/yayinevi/platforms/android/cordova/run \r\n"
+    ],
+    [
+      0.546013,
+      "WARNING : No target specified, deploying to device '04e9de99'.\r\n"
+    ],
+    [
+      0.449278,
+      "Buildfile: /home/mtozses/apps/phonegap/yayinevi/platforms/android/build.xml"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.481337,
+      "\r\n-set-mode-check:"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "-set-debug-files:\r\n"
+    ],
+    [
+      0.000484,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-check-env:\r\n"
+    ],
+    [
+      0.002681,
+      " [checkenv] Android SDK Tools Revision 24.1.2"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      " [checkenv] Installed at /home/mtozses/android-sdk-linux"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\r\n-setup:\r\n"
+    ],
+    [
+      0.006659,
+      "     [echo] Project Name: MainActivity\r\n"
+    ],
+    [
+      0.052943,
+      "  [gettype] Project Type: Application\r\n"
+    ],
+    [
+      0.004986,
+      "\r\n-set-debug-mode:\r\n"
+    ],
+    [
+      0.000862,
+      "\r\n-debug-obfuscation-check:\r\n"
+    ],
+    [
+      0.000144,
+      "\r\n-pre-build:\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n-build-setup:"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.054189,
+      "[getbuildtools] Using latest Build Tools: 22.0.1\r\n"
+    ],
+    [
+      0.002608,
+      "     [echo] Resolving Build Target for MainActivity...\r\n"
+    ],
+    [
+      0.113107,
+      "[gettarget] Project Target:   Android 5.0.1"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "[gettarget] API level:        21"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.007439,
+      "     [echo] ----------"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "     [echo] Creating output directories if needed..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.003756,
+      "     [echo] ----------"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "     [echo] Resolving Dependencies for MainActivity..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.006625,
+      "[dependency] Library dependencies:"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "[dependency] "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "[dependency] ------------------"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "[dependency] Ordered libraries:"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.004808,
+      "[dependency] "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "[dependency] ------------------"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.003019,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000234,
+      "     [echo] Building Libraries with 'debug'...\r\n"
+    ],
+    [
+      0.098264,
+      "\r\nnodeps:"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n-set-mode-check:\r\n"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "-set-debug-files:"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000703,
+      "\r\n-check-env:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001658,
+      " [checkenv] Android SDK Tools Revision 24.1.2\r\n"
+    ],
+    [
+      0.000054,
+      " [checkenv] Installed at /home/mtozses/android-sdk-linux"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\r\n-setup:\r\n"
+    ],
+    [
+      0.000214,
+      "     [echo] Project Name: MainActivity"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000453,
+      "  [gettype] Project Type: Android Library\r\n"
+    ],
+    [
+      0.004166,
+      "\r\n-set-debug-mode:"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000835,
+      "\r\n-debug-obfuscation-check:\r\n"
+    ],
+    [
+      0.000130,
+      "\r\n-pre-build:\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-build-setup:"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.047543,
+      "[getbuildtools] Using latest Build Tools: 22.0.1\r\n"
+    ],
+    [
+      0.001686,
+      "     [echo] Resolving Build Target for MainActivity...\r\n"
+    ],
+    [
+      0.080183,
+      "[gettarget] Project Target:   Android 5.0.1\r\n"
+    ],
+    [
+      0.000084,
+      "[gettarget] API level:        21\r\n"
+    ],
+    [
+      0.004852,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000168,
+      "     [echo] Creating output directories if needed..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.001874,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000186,
+      "     [echo] Resolving Dependencies for MainActivity..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.003131,
+      "[dependency] Library dependencies:\r\n"
+    ],
+    [
+      0.000090,
+      "[dependency] No Libraries\r\n"
+    ],
+    [
+      0.000163,
+      "[dependency] \r\n"
+    ],
+    [
+      0.000048,
+      "[dependency] ------------------"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.002236,
+      "\r\n-code-gen:\r\n"
+    ],
+    [
+      0.018120,
+      "[mergemanifest] Found Deleted Target File\r\n"
+    ],
+    [
+      0.000087,
+      "[mergemanifest] Merging AndroidManifest files into one.\r\n"
+    ],
+    [
+      0.000094,
+      "[mergemanifest] Manifest merger disabled. Using project manifest only.\r\n"
+    ],
+    [
+      0.001707,
+      "     [echo] Handling aidl files...\r\n"
+    ],
+    [
+      0.011368,
+      "     [aidl] No AIDL files to compile.\r\n"
+    ],
+    [
+      0.000939,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000188,
+      "     [echo] Handling RenderScript files..."
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.006077,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000216,
+      "     [echo] Handling Resources...\r\n"
+    ],
+    [
+      0.003147,
+      "     [aapt] Found modified input file\r\n"
+    ],
+    [
+      0.000112,
+      "     [aapt] Generating resource IDs...\r\n"
+    ],
+    [
+      0.030565,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000227,
+      "     [echo] Handling BuildConfig class..."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.002323,
+      "[buildconfig] No need to generate new BuildConfig.\r\n"
+    ],
+    [
+      0.000112,
+      "\r\n-pre-compile:\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n-compile:"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.059339,
+      "     [echo] Creating library output jar file...\r\n"
+    ],
+    [
+      0.121719,
+      "\r\n-post-compile:"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "\r\n-obfuscate:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "\r\n-dex:\r\n"
+    ],
+    [
+      0.001246,
+      "     [echo] Library project: do not convert bytecode...\r\n"
+    ],
+    [
+      0.000088,
+      "\r\n-crunch:\r\n"
+    ],
+    [
+      0.005567,
+      "   [crunch] Crunching PNG Files in source dir: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/res\r\n"
+    ],
+    [
+      0.000070,
+      "   [crunch] To destination dir: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/res"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "   [crunch] Crunched 0 PNG files to update cache\r\n"
+    ],
+    [
+      0.000333,
+      "\r\n-package-resources:\r\n"
+    ],
+    [
+      0.001080,
+      "     [echo] Library project: do not package resources...\r\n"
+    ],
+    [
+      0.000074,
+      "\r\n-package:"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000793,
+      "     [echo] Library project: do not package apk..."
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "-post-package:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "-do-debug:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000792,
+      "     [echo] Library project: do not create apk..."
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.008889,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/build.prop\r\n"
+    ],
+    [
+      0.011845,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/build.prop"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.001527,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/build.prop"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001784,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/build.prop\r\n"
+    ],
+    [
+      0.004041,
+      "\r\n-post-build:\r\n"
+    ],
+    [
+      0.002448,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "debug:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000696,
+      "\r\n-code-gen:\r\n"
+    ],
+    [
+      0.020365,
+      "[mergemanifest] Found Deleted Target File"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "[mergemanifest] Merging AndroidManifest files into one."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "[mergemanifest] Manifest merger disabled. Using project manifest only."
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001596,
+      "     [echo] Handling aidl files..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.003934,
+      "     [aidl] No AIDL files to compile.\r\n"
+    ],
+    [
+      0.000172,
+      "     [echo] ----------"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "     [echo] Handling RenderScript files..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.004417,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000111,
+      "     [echo] Handling Resources..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.003708,
+      "     [aapt] Found modified input file"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "     [aapt] Generating resource IDs..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.033504,
+      "     [echo] ----------\r\n"
+    ],
+    [
+      0.000139,
+      "     [echo] Handling BuildConfig class..."
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.001249,
+      "[buildconfig] No need to generate new BuildConfig.\r\n"
+    ],
+    [
+      0.000062,
+      "\r\n-pre-compile:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.014302,
+      "     [echo] Set jars path to: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/classes.jar\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n-compile:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.004823,
+      "    [javac] Compiling 2 source files to /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/classes"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.422423,
+      "\r\n-post-compile:\r\n"
+    ],
+    [
+      0.000017,
+      "\r\n-obfuscate:\r\n"
+    ],
+    [
+      0.000187,
+      "\r\n-dex:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.002889,
+      "      [dex] input: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/classes\r\n"
+    ],
+    [
+      0.000303,
+      "      [dex] input: /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/classes.jar\r\n"
+    ],
+    [
+      0.013040,
+      "      [dex] Using Pre-Dexed classes-40f878d794cab313058c240523055124.jar \u003c- /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build/classes.jar\r\n"
+    ],
+    [
+      0.000517,
+      "      [dex] Found modified input file\r\n"
+    ],
+    [
+      0.000141,
+      "      [dex] Converting compiled files and external libraries into /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/classes.dex...\r\n"
+    ],
+    [
+      0.816049,
+      "       [dx] Merged dex A (28 defs/20.2KiB) with dex B (223 defs/326.2KiB). Result is 251 defs/421.1KiB. Took 0.2s"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.003393,
+      "\r\n-crunch:\r\n"
+    ],
+    [
+      0.017716,
+      "   [crunch] Crunching PNG Files in source dir: /home/mtozses/apps/phonegap/yayinevi/platforms/android/res\r\n"
+    ],
+    [
+      0.000027,
+      "   [crunch] To destination dir: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/res"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "   [crunch] Processing image to cache: /home/mtozses/apps/phonegap/yayinevi/platforms/android/res/drawable/icon.png =\u003e /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/res/drawable/icon.png\r\n"
+    ],
+    [
+      0.000064,
+      "   [crunch]   (processed image to cache entry /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/res/drawable/icon.png: 60% size of source)\r\n"
+    ],
+    [
+      0.000018,
+      "   [crunch] Crunched 1 PNG files to update cache"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000297,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "-package-resources:\r\n"
+    ],
+    [
+      0.002765,
+      "     [aapt] Found modified input file\r\n"
+    ],
+    [
+      0.000051,
+      "     [aapt] Creating full resource package...\r\n"
+    ],
+    [
+      0.064643,
+      "\r\n-package:"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.005654,
+      "[apkbuilder] Found modified input file\r\n"
+    ],
+    [
+      0.000151,
+      "[apkbuilder] Creating MainActivity-debug-unaligned.apk and signing it with a debug key...\r\n"
+    ],
+    [
+      0.257798,
+      "\r\n-post-package:\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n-do-debug:\r\n"
+    ],
+    [
+      0.001520,
+      " [zipalign] Running zip align on final apk...\r\n"
+    ],
+    [
+      0.007272,
+      "     [echo] Debug Package: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/MainActivity-debug.apk\r\n"
+    ],
+    [
+      0.000562,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/build.prop\r\n"
+    ],
+    [
+      0.002351,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/build.prop\r\n"
+    ],
+    [
+      0.007229,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/build.prop\r\n"
+    ],
+    [
+      0.002769,
+      "[propertyfile] Updating property file: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/build.prop\r\n"
+    ],
+    [
+      0.001933,
+      "\r\n-post-build:\r\n"
+    ],
+    [
+      0.007268,
+      "     [move] Moving 1 file to /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build\r\n"
+    ],
+    [
+      0.000774,
+      "     [move] Moving 1 file to /home/mtozses/apps/phonegap/yayinevi/platforms/android/CordovaLib/ant-build\r\n"
+    ],
+    [
+      0.000316,
+      "\r\ndebug:"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000988,
+      "\r\nBUILD SUCCESSFUL\r\nTotal time: 3 seconds"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.007482,
+      "Built the following apk(s):\r\n"
+    ],
+    [
+      0.000104,
+      "    /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/MainActivity-debug.apk\r\n"
+    ],
+    [
+      0.001602,
+      "Using apk: /home/mtozses/apps/phonegap/yayinevi/platforms/android/ant-build/MainActivity-debug.apk\r\n"
+    ],
+    [
+      0.000019,
+      "Installing app on device...\r\n"
+    ],
+    [
+      7.778857,
+      "Launching application...\r\n"
+    ],
+    [
+      3.667712,
+      "LAUNCH SUCCESS\r\n"
+    ],
+    [
+      0.021811,
+      "\r\nreal\t0m15.861s\r\nuser\t0m6.464s\r\nsys\t"
+    ],
+    [
+      0.000019,
+      "0m0.356s\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b]0;mtozses@mtozses: /home/mtozses/apps/phonegap/yayinevi/www\u0007"
+    ],
+    [
+      0.000399,
+      "\u001b[01;32mmtozses@mtozses\u001b[01;34m ~/apps/phonegap/yayinevi/www $\u001b[00m "
+    ],
+    [
+      3.434275,
+      "exit\r\n"
+    ]
+  ]
+}
