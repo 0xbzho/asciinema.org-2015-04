@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 24.644126,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.061958,
+      "\u001b[1;34m[\u001b[1;33mcjohnson\u001b[1;31m@\u001b[1;33mxana\u001b[1;31m:\u001b[1;36m~\u001b[1;34m]\u001b[01;32m$ \u001b[00m"
+    ],
+    [
+      1.163750,
+      "y"
+    ],
+    [
+      0.115312,
+      "o"
+    ],
+    [
+      0.176028,
+      "u"
+    ],
+    [
+      0.145249,
+      "t"
+    ],
+    [
+      0.080384,
+      "u"
+    ],
+    [
+      0.187152,
+      "b"
+    ],
+    [
+      0.170651,
+      "e"
+    ],
+    [
+      0.111542,
+      " "
+    ],
+    [
+      0.156897,
+      "-"
+    ],
+    [
+      0.553411,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.174428,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.340293,
+      "-"
+    ],
+    [
+      0.641184,
+      "d"
+    ],
+    [
+      0.198357,
+      "l "
+    ],
+    [
+      2.349905,
+      "https://www.youtube.com/watch?v=g6gcAx486C0"
+    ],
+    [
+      1.347045,
+      "\r\n"
+    ],
+    [
+      0.483883,
+      "[youtube] g6gcAx486C0: Downloading webpage\r\n"
+    ],
+    [
+      0.241888,
+      "[youtube] g6gcAx486C0: Extracting video information\r\n"
+    ],
+    [
+      0.043223,
+      "[youtube] g6gcAx486C0: Downloading DASH manifest\r\n"
+    ],
+    [
+      1.464848,
+      "[download] Destination: Ultra Fighting Bros - AMV-g6gcAx486C0.f136.mp4\r\n"
+    ],
+    [
+      0.000191,
+      "\r\u001b[K[download]   0.0% of 63.86MiB at 711.74KiB/s ETA 01:33"
+    ],
+    [
+      0.000133,
+      "\r\u001b[K[download]   0.0% of 63.86MiB at  1.81MiB/s ETA 00:35"
+    ],
+    [
+      0.000145,
+      "\r\u001b[K[download]   0.0% of 63.86MiB at  3.79MiB/s ETA 00:16"
+    ],
+    [
+      0.000164,
+      "\r\u001b[K[download]   0.0% of 63.86MiB at  7.51MiB/s ETA 00:08"
+    ],
+    [
+      0.000199,
+      "\r\u001b[K[download]   0.0% of 63.86MiB at 13.98MiB/s ETA 00:04"
+    ],
+    [
+      0.001426,
+      "\r\u001b[K[download]   0.1% of 63.86MiB at 17.25MiB/s ETA 00:03"
+    ],
+    [
+      0.002195,
+      "\r\u001b[K[download]   0.2% of 63.86MiB at 21.45MiB/s ETA 00:02"
+    ],
+    [
+      0.003232,
+      "\r\u001b[K[download]   0.4% of 63.86MiB at 27.63MiB/s ETA 00:02"
+    ],
+    [
+      0.003043,
+      "\r\u001b[K[download]   0.8% of 63.86MiB at 41.51MiB/s ETA 00:01"
+    ],
+    [
+      0.005680,
+      "\r\u001b[K[download]   1.6% of 63.86MiB at 56.40MiB/s ETA 00:01"
+    ],
+    [
+      0.011275,
+      "\r\u001b[K[download]   3.1% of 63.86MiB at 69.07MiB/s ETA 00:00"
+    ],
+    [
+      0.058527,
+      "\r\u001b[K[download]   6.3% of 63.86MiB at 45.78MiB/s ETA 00:01"
+    ],
+    [
+      0.080522,
+      "\r\u001b[K[download]  12.5% of 63.86MiB at 47.63MiB/s ETA 00:01"
+    ],
+    [
+      0.073867,
+      "\r\u001b[K[download]  18.8% of 63.86MiB at 49.62MiB/s ETA 00:01"
+    ],
+    [
+      0.051758,
+      "\r\u001b[K[download]  25.1% of 63.86MiB at 54.50MiB/s ETA 00:00"
+    ],
+    [
+      0.122583,
+      "\r\u001b[K[download]  31.3% of 63.86MiB at 48.06MiB/s ETA 00:00"
+    ],
+    [
+      0.092030,
+      "\r\u001b[K[download]  37.6% of 63.86MiB at 47.23MiB/s ETA 00:00"
+    ],
+    [
+      0.076074,
+      "\r\u001b[K[download]  43.8% of 63.86MiB at 47.93MiB/s ETA 00:00"
+    ],
+    [
+      0.060869,
+      "\r\u001b[K[download]  50.1% of 63.86MiB at 49.60MiB/s ETA 00:00"
+    ],
+    [
+      0.082493,
+      "\r\u001b[K[download]  56.4% of 63.86MiB at 49.48MiB/s ETA 00:00"
+    ],
+    [
+      0.067475,
+      "\r\u001b[K[download]  62.6% of 63.86MiB at 50.31MiB/s ETA 00:00"
+    ],
+    [
+      0.072287,
+      "\r\u001b[K[download]  68.9% of 63.86MiB at 50.73MiB/s ETA 00:00"
+    ],
+    [
+      0.082734,
+      "\r\u001b[K[download]  75.2% of 63.86MiB at 50.52MiB/s ETA 00:00"
+    ],
+    [
+      0.053387,
+      "\r\u001b[K[download]  81.4% of 63.86MiB at 51.82MiB/s ETA 00:00"
+    ],
+    [
+      0.104484,
+      "\r\u001b[K[download]  87.7% of 63.86MiB at 50.54MiB/s ETA 00:00"
+    ],
+    [
+      0.075937,
+      "\r\u001b[K[download]  93.9% of 63.86MiB at 50.68MiB/s ETA 00:00"
+    ],
+    [
+      0.050271,
+      "\r\u001b[K[download] 100.0% of 63.86MiB at 51.75MiB/s ETA 00:00"
+    ],
+    [
+      0.001300,
+      "\r\u001b[K[download] 100% of 63.86MiB in 00:01\r\n"
+    ],
+    [
+      0.061890,
+      "[download] Destination: Ultra Fighting Bros - AMV-g6gcAx486C0.f141.m4a\r\n"
+    ],
+    [
+      0.000200,
+      "\r\u001b[K[download]   0.0% of 9.45MiB at 894.50KiB/s ETA 00:11"
+    ],
+    [
+      0.000142,
+      "\r\u001b[K[download]   0.0% of 9.45MiB at  2.23MiB/s ETA 00:04"
+    ],
+    [
+      0.000186,
+      "\r\u001b[K[download]   0.1% of 9.45MiB at  4.68MiB/s ETA 00:02"
+    ],
+    [
+      0.000227,
+      "\r\u001b[K[download]   0.2% of 9.45MiB at  8.90MiB/s ETA 00:01"
+    ],
+    [
+      0.000373,
+      "\r\u001b[K[download]   0.3% of 9.45MiB at 15.22MiB/s ETA 00:00"
+    ],
+    [
+      0.001153,
+      "\r\u001b[K[download]   0.7% of 9.45MiB at 19.01MiB/s ETA 00:00"
+    ],
+    [
+      0.002035,
+      "\r\u001b[K[download]   1.3% of 9.45MiB at 23.47MiB/s ETA 00:00"
+    ],
+    [
+      0.002950,
+      "\r\u001b[K[download]   2.6% of 9.45MiB at 30.44MiB/s ETA 00:00"
+    ],
+    [
+      0.002799,
+      "\r\u001b[K[download]   5.3% of 9.45MiB at 45.45MiB/s ETA 00:00"
+    ],
+    [
+      0.009680,
+      "\r\u001b[K[download]  10.6% of 9.45MiB at 48.31MiB/s ETA 00:00"
+    ],
+    [
+      0.005135,
+      "\r\u001b[K[download]  21.2% of 9.45MiB at 77.47MiB/s ETA 00:00"
+    ],
+    [
+      0.063542,
+      "\r\u001b[K[download]  42.3% of 9.45MiB at 44.81MiB/s ETA 00:00"
+    ],
+    [
+      0.080610,
+      "\r\u001b[K[download]  84.6% of 9.45MiB at 47.08MiB/s ETA 00:00"
+    ],
+    [
+      0.013310,
+      "\r\u001b[K[download] 100.0% of 9.45MiB at 51.58MiB/s ETA 00:00"
+    ],
+    [
+      0.000780,
+      "\r\u001b[K[download] 100% of 9.45MiB in 00:00\r\n"
+    ],
+    [
+      0.000203,
+      "[ffmpeg] Merging formats into \"Ultra Fighting Bros - AMV-g6gcAx486C0.mp4\"\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[0;33mWARNING:\u001b[0m Your copy of avconv is outdated, update avconv to version 10-0 or newer if you encounter any errors.\r\n"
+    ],
+    [
+      0.241103,
+      "Deleting original file Ultra Fighting Bros - AMV-g6gcAx486C0.f136.mp4 (pass -k to keep)\r\n"
+    ],
+    [
+      0.001489,
+      "Deleting original file Ultra Fighting Bros - AMV-g6gcAx486C0.f141.m4a (pass -k to keep)\r\n"
+    ],
+    [
+      0.019440,
+      "\u001b[1;34m[\u001b[1;33mcjohnson\u001b[1;31m@\u001b[1;33mxana\u001b[1;31m:\u001b[1;36m~\u001b[1;34m]\u001b[01;32m$ \u001b[00m"
+    ],
+    [
+      12.694936,
+      "exit\r\n"
+    ]
+  ]
+}
