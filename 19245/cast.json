@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "width": 226,
+  "height": 66,
+  "duration": 13.112830,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008651,
+      "\u001b[0;32m[\u001b[0;37mamnesia@Ephemera\u001b[0;32m]\u001b[0;37m$ "
+    ],
+    [
+      3.348561,
+      "r2 -d bomb "
+    ],
+    [
+      0.211776,
+      "\r\n"
+    ],
+    [
+      0.032920,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000043,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000813,
+      "p/io_debug.c:335 fork_and_attach: execv: No such file or directory\r\n"
+    ],
+    [
+      0.000871,
+      "PID = -1"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000037,
+      "r_debug_native_map_get: No selected pid (-1)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Cannot open 'dbg://bomb' for writing."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001005,
+      "\u001b[0;32m[\u001b[0;37mamnesia@Ephemera\u001b[0;32m]\u001b[0;37m$ "
+    ],
+    [
+      8.682646,
+      "e"
+    ],
+    [
+      0.260744,
+      "x"
+    ],
+    [
+      0.143589,
+      "i"
+    ],
+    [
+      0.196243,
+      "t"
+    ],
+    [
+      0.224487,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
