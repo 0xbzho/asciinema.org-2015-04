@@ -1,0 +1,3586 @@
+{
+  "version": 1,
+  "width": 226,
+  "height": 66,
+  "duration": 38.889813,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008590,
+      "\u001b[0;32m[\u001b[0;37mamnesia@Ephemera\u001b[0;32m]\u001b[0;37m$ "
+    ],
+    [
+      3.273880,
+      "\u001b[H\u001b[2J\u001b[0;32m[\u001b[0;37mamnesia@Ephemera\u001b[0;32m]\u001b[0;37m$ "
+    ],
+    [
+      2.826540,
+      "r"
+    ],
+    [
+      0.260172,
+      "2"
+    ],
+    [
+      0.152846,
+      " "
+    ],
+    [
+      0.300774,
+      "-"
+    ],
+    [
+      0.091205,
+      "d"
+    ],
+    [
+      0.117549,
+      " "
+    ],
+    [
+      0.339036,
+      "~"
+    ],
+    [
+      0.160311,
+      "/"
+    ],
+    [
+      0.952959,
+      "b"
+    ],
+    [
+      0.246815,
+      "o"
+    ],
+    [
+      0.154878,
+      "mb "
+    ],
+    [
+      0.520704,
+      "\r\n"
+    ],
+    [
+      0.032914,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000073,
+      "\u001b[0K\r"
+    ],
+    [
+      0.001028,
+      "Process with PID 10221 started...\r\nPID = 10221\r\n"
+    ],
+    [
+      0.000187,
+      "pid = 10221 tid = 10221\r\nr_debug_select: 10221 10221\r\n"
+    ],
+    [
+      0.000196,
+      "Using BADDR 0x8048000"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "Asuming filepath /home/amnesia/bomb\r\n"
+    ],
+    [
+      0.002380,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.006785,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000009,
+      "Cannot find function 'entry0' at 0x080488e0\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000007,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000027,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000008,
+      "\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000016,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000039,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000015,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000007,
+      "\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000040,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-(\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000010,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000003,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000007,
+      "\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000013,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000007,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000016,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000011,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000017,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000010,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000048,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-(\r\nSomething really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000004,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000014,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000014,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000006,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-(\r\n"
+    ],
+    [
+      0.000011,
+      "Something really bad has happened, and r2 is going to die soon. sorry! :-("
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0K\r"
+    ],
+    [
+      0.005675,
+      "\u001b[0K\r\u001b[0K\r"
+    ],
+    [
+      0.000010,
+      "0x080488e0 \u003e 0x08048902\r"
+    ],
+    [
+      0.000753,
+      "\u001b[0K\r\u001b[0K\r"
+    ],
+    [
+      0.000006,
+      "0x08048800 \u003e 0x08048806\r"
+    ],
+    [
+      0.002197,
+      "\u001b[0K\r\u001b[0K\r0x08048806 \u003e 0x08048810\r"
+    ],
+    [
+      0.000818,
+      "\u001b[0K\r\u001b[0K\r0x08048710 \u003e 0x0804871c\r"
+    ],
+    [
+      0.000857,
+      "\u001b[0K\r\u001b[0K\r"
+    ],
+    [
+      0.000006,
+      "0x0804871c \u003e 0x08048726\r"
+    ],
+    [
+      0.002702,
+      "\u001b[0K\r\u001b[0K\r0x08048730 \u003e 0x08048736\r"
+    ],
+    [
+      0.002744,
+      "\u001b[0K\r\u001b[0K\r0x08048740 \u003e 0x08048746\r"
+    ],
+    [
+      0.002519,
+      "\u001b[0K\r\u001b[0K\r0x08048750 \u003e 0x08048756\r"
+    ],
+    [
+      0.002581,
+      "\u001b[0K\r\u001b[0K\r0x08048760 \u003e 0x08048766\r"
+    ],
+    [
+      0.002568,
+      "\u001b[0K\r\u001b[0K\r0x08048770 \u003e 0x08048776\r"
+    ],
+    [
+      0.002565,
+      "\u001b[0K\r\u001b[0K\r0x08048780 \u003e 0x08048786\r"
+    ],
+    [
+      0.000744,
+      "\u001b[0K\r\u001b[0K\r0x08048810 \u003e 0x08048816\r"
+    ],
+    [
+      0.002476,
+      "\u001b[0K\r\u001b[0K\r0x08048820 \u003e 0x08048826\r"
+    ],
+    [
+      0.002386,
+      "\u001b[0K\r\u001b[0K\r0x08048830 \u003e 0x08048836\r"
+    ],
+    [
+      0.002383,
+      "\u001b[0K\r\u001b[0K\r0x08048840 \u003e 0x08048846\r"
+    ],
+    [
+      0.002383,
+      "\u001b[0K\r\u001b[0K\r0x08048850 \u003e 0x08048856\r"
+    ],
+    [
+      0.002386,
+      "\u001b[0K\r\u001b[0K\r0x08048860 \u003e 0x08048866\r"
+    ],
+    [
+      0.002337,
+      "\u001b[0K\r\u001b[0K\r0x08048870 \u003e 0x08048876\r"
+    ],
+    [
+      0.014543,
+      "\u001b[0K\r\u001b[0K\r0x08048961 \u003e 0x0804896e\r"
+    ],
+    [
+      0.003428,
+      "\u001b[0K\r\u001b[0K\r0x0804896e \u003e 0x08048995\r"
+    ],
+    [
+      0.000882,
+      "\u001b[0K\r\u001b[0K\r0x08048995 \u003e 0x080489a2\r"
+    ],
+    [
+      0.019899,
+      "\u001b[0K\r\u001b[0K\r0x08048b20 \u003e 0x08048b47\r"
+    ],
+    [
+      0.024928,
+      "\u001b[0K\r\u001b[0K\r0x08049160 \u003e 0x08049179\r"
+    ],
+    [
+      0.067255,
+      "\u001b[0K\r\u001b[0K\r0x080494fa \u003e 0x080495a6\r"
+    ],
+    [
+      0.010038,
+      "\u001b[0K\r\u001b[0K\r0x08048f50 \u003e 0x08049015\r"
+    ],
+    [
+      0.004156,
+      "\u001b[0K\r\u001b[0K\r0x080495d6 \u003e 0x080495e2\r"
+    ],
+    [
+      0.064960,
+      "\u001b[0K\r\u001b[0K\r0x08048f50 \u003e 0x08049015\r"
+    ],
+    [
+      0.000412,
+      "\u001b[0K\r\u001b[0K\r0x080487e0 \u003e 0x080487e6\r"
+    ],
+    [
+      0.005658,
+      "\u001b[0K\r\u001b[0K\r0x080486e0 \u003e 0x0804870f\r"
+    ],
+    [
+      0.000472,
+      "\u001b[0K\r\u001b[0K\r0x0804870f \u003e 0x0804871c\r"
+    ],
+    [
+      0.000708,
+      "\u001b[0K\r\u001b[0K\r0x080495e4 \u003e 0x080495fe\r"
+    ],
+    [
+      0.153754,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000005,
+      "\u001b[0K\r0x08048790 \u003e 0x08048796\r"
+    ],
+    [
+      0.001398,
+      "\u001b[0K\r\u001b[0K\r0x080487a0 \u003e 0x080487a6\r"
+    ],
+    [
+      0.001474,
+      "\u001b[0K\r\u001b[0K\r0x080487b0 \u003e 0x080487b6\r"
+    ],
+    [
+      0.001402,
+      "\u001b[0K\r\u001b[0K\r0x080487c0 \u003e 0x080487c6\r"
+    ],
+    [
+      0.001393,
+      "\u001b[0K\r\u001b[0K\r0x080487d0 \u003e 0x080487d6\r"
+    ],
+    [
+      0.001401,
+      "\u001b[0K\r\u001b[0K\r0x080487f0 \u003e 0x080487f6\r"
+    ],
+    [
+      0.001416,
+      "\u001b[0K\r\u001b[0K\r0x08048880 \u003e 0x08048886\r"
+    ],
+    [
+      0.001395,
+      "\u001b[0K\r\u001b[0K\r0x08048890 \u003e 0x08048896\r"
+    ],
+    [
+      0.001396,
+      "\u001b[0K\r\u001b[0K\r0x080488a0 \u003e 0x080488a6\r"
+    ],
+    [
+      0.001399,
+      "\u001b[0K\r\u001b[0K\r0x080488b0 \u003e 0x080488b6\r"
+    ],
+    [
+      0.001394,
+      "\u001b[0K\r\u001b[0K\r0x080488c0 \u003e 0x080488c6\r"
+    ],
+    [
+      0.001395,
+      "\u001b[0K\r\u001b[0K\r0x080488d0 \u003e 0x080488d6\r"
+    ],
+    [
+      0.001060,
+      "\u001b[0K\rbits 32\r\n"
+    ],
+    [
+      0.001208,
+      "pid = 10221 tid = 10221\r\n"
+    ],
+    [
+      0.000112,
+      "Continue until 0x080489b0\r\n"
+    ],
+    [
+      0.000301,
+      "hit breakpoint at: 80489b0\r\n"
+    ],
+    [
+      0.000003,
+      "r_debug_select: 10221 1\r\n"
+    ],
+    [
+      0.000255,
+      " -- Use the '\u003c' and '\u003e' keys in visual cursor mode (V-\u003ec) to folder selected bytes.\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0x080489b0]\u003e\u001b[0m "
+    ],
+    [
+      2.063622,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x080489b0]\u003e\u001b[0m V\r\u001b[33m[0x080489b0]\u003e\u001b[0m V"
+    ],
+    [
+      0.581343,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x080489b0]\u003e\u001b[0m Vp\r\u001b[33m[0x080489b0]\u003e\u001b[0m Vp"
+    ],
+    [
+      0.452528,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x080489b0]\u003e\u001b[0m Vpp\r\u001b[33m[0x080489b0]\u003e\u001b[0m Vpp"
+    ],
+    [
+      0.783282,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x080489b0]\u003e\u001b[0m Vpp\r\n\u001b[?25l\u001b[?1001s\u001b[?1000h                                                                                                                                                                                                                                 \u001b[0;0H\r\n\u001b[0;0H\u001b[0m"
+    ],
+    [
+      0.018953,
+      "\u001b[33m[0x080489b0 325 /home/amnesia/bomb]\u003e f tmp;sr s.. @ main                                                                                                                                                                          \r\n\u001b[0m- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF                                                                                                                                                             "
+    ],
+    [
+      0.000039,
+      "\r\n\u001b[32m0xffb51bec \u001b[0m \u001b[37m63\u001b[0m\u001b[37m2a\u001b[0m \u001b[37m5e\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m8c\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mc\u001b[0m\u001b[37m*\u001b[0m\u001b[37m^\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             \r\n\u001b[32m0xffb51bfc \u001b[0m \u001b[37m7a\u001b[0m\u001b[37m7c\u001b[0m \u001b[37m79\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m24\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mz\u001b[0m\u001b[37m|\u001b[0m\u001b[37my\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m$\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             \r\n\u001b[32m0xffb51c0c \u001b[0m \u001b[37m5c\u001b[0m\u001b[37mb5\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[37m1c\u001b[0m\u001b[37m84\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[32m00\u001b[0m\u001b[37mf0\u001b[0m \u001b[37m76\u001b[0m\u001b[37mf7\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m  \u001b[37m\\\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[32m0xffb51c1c \u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m76\u001b[0m\u001b[37mba\u001b[0m \u001b[37mba\u001b[0m\u001b[37mad\u001b[0m \u001b[37m67\u001b[0m\u001b[37m1e\u001b[0m \u001b[37md9\u001b[0m\u001b[37m7b\u001b[0m  \u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mg\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m{\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000039,
+      "\r\n\u001b[36m eip 0x080489b0    \u001b[0m\u001b[36moeax 0xffffffff    \u001b[0m\u001b[36m eax 0x00000001    \u001b[0m\u001b[36m ebx 0xf776f000                                                                                                                                                          \r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[36m ecx 0x7bd91e67    \u001b[0m\u001b[36m edx 0xffb51c14    \u001b[0m\u001b[36m esp 0xffb51bec    \u001b[0m ebp 0x00000000                                                                                                                                                          \r\n esi 0x00000000     edi 0x00000000    \u001b[36m eflags = 1PZI     \u001b[0m                                                                                                                                                                         "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m╒ \u001b[0m\u001b[31m(fcn) sym.main\u001b[0m 365                                                                                                                                                                                                              \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_2        @ ebp+0x8\u001b[0m                                                                                                                                                                                       "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_3        @ ebp+0xc\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                       \r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[36m│          \u001b[0m\u001b[37m; var int local_6      @ ebp-0x18\u001b[0m                                                                                                                                                                                      \r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[36m; DATA XREF from 0x080488f7 (entry0)\u001b[0m                                                                                                                                                                                   "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mmain:                                                                                                                                                                                                              "
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msym.main:"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                                          \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36meip:                                                                                                                                                                                                               "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[7m\u001b[32m0x080489b0\u001b[0m    \u001b[37m55\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebp\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b1\u001b[0m    \u001b[37m89\u001b[37me5\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m ebp\u001b[0m,\u001b[36m\u001b[36m esp\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                              "
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b3\u001b[0m    \u001b[37m83\u001b[37mec\u001b[37m14\u001b[0m         \u001b[0m\u001b[33msub\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x14\u001b[0m\u001b[0m                                                                                                                                                                             "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b6\u001b[0m    \u001b[37m53\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebx\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b7\u001b[0m    \u001b[37m8b\u001b[37m45\u001b[37m08\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m 8\u001b[0m]\u001b[36m\u001b[0m\u001b[0m    \u001b[36m  ; [0x8:4]=-1\u001b[0m\u001b[36m ; 8\u001b[0m\u001b[36m ; bomb.c:36  \u001b[0m                                                                                                                              "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489ba\u001b[0m    \u001b[37m8b\u001b[37m5d\u001b[37m0c\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m ebx\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m \u001b[33m0xc\u001b[0m]\u001b[36m\u001b[0m\u001b[0m  \u001b[36m  ; [0xc:4]=-1\u001b[0m\u001b[36m ; 12\u001b[0m                                                                                                                                           "
+    ],
+    [
+      0.000035,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489bd\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m01\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 1\u001b[0m\u001b[0m                  \u001b[36m ; eax\u001b[0m\u001b[36m ; bomb.c:44  \u001b[0m                                                                                                                                          "
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m     ┌─\u003c \u001b[0m\u001b[32m0x080489c0\u001b[0m    \u001b[37m75\u001b[37m0e\u001b[0m           \u001b[0m\u001b[32mjne 0x80489d0\u001b[31m           \u001b[0m\u001b[0m\u001b[36m ;[1]\u001b[0m                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c2\u001b[0m    \u001b[37ma1\u001b[37m48\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.stdin__GLIBC_2.0\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x804b648:4]=0xf776fc20 \u001b[0m\u001b[36m ; \" .v.....\" @ 0x804b648\u001b[0m\u001b[36m ; bomb.c:45  \u001b[0m                                                                                 "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c7\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m"
+    ],
+    [
+      0.000011,
+      "                                                                                                                               \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m    ┌──\u003c \u001b[0m\u001b[32m0x080489cc\u001b[0m    \u001b[37meb\u001b[37m62\u001b[0m           \u001b[0m\u001b[32mjmp 0x8048a30\u001b[31m         \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m\u001b[36m ; bomb.c:46  \u001b[0m                                                                                                                                                 "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m    ││   \u001b[0m\u001b[32m0x080489ce\u001b[0m    \u001b[37m89\u001b[37mf6\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m esi\u001b[0m,\u001b[36m\u001b[36m esi\u001b[0m\u001b[0m                                                                                                                                                                              "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m    │└   \u001b[0m\u001b[36m; JMP XREF from 0x080489c0 (sym.main)\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    │└─\u003e \u001b[0m\u001b[32m0x080489d0\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m02\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 2\u001b[0m\u001b[0m\u001b[36m             ; 2\u001b[0m\u001b[36m ; bomb.c:52  \u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ┌───\u003c \u001b[0m\u001b[32m0x080489d3\u001b[0m    \u001b[37m75\u001b[37m3b\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a10\u001b[31m       \u001b[0m\u001b[0m\u001b[36m ;[3]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                 \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d5\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m             \u001b[36m ; bomb.c:53  \u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                    "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d8\u001b[0m    \u001b[37m68\u001b[37m20\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33m0x8049620\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                            "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489dd\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m"
+    ],
+    [
+      0.000024,
+      "                                                                                                                                                \r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e0\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000018,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e1\u001b[0m    \u001b[37me8\u001b[37m9a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.fopen\u001b[0m      \u001b[36m ;[4]\u001b[0m                                                                                                                                                             \r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m   sym.imp.fopen(unk, unk)\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e6\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                               "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489eb\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37m10\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x10\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489ee\u001b[0m    \u001b[37m85\u001b[37mc0\u001b[0m           \u001b[0m\u001b[36mtest\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  ┌────\u003c \u001b[0m\u001b[32m0x080489f0\u001b[0m    \u001b[37m75\u001b[37m3e\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a30"
+    ],
+    [
+      0.000006,
+      "\u001b[31m     \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m                                                                                                                                                                   "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f2\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mfc\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m4\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:54  \u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                      "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f5\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f8\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f9\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                      "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fb\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fc\u001b[0m    \u001b[37m68\u001b[37m22\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr._s:_Error:_Couldn_t_open__s_n\u001b[0m\u001b[0m\u001b[36m ; \"%s: Error: Couldn't open %s.\" @ 0x8049622\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                       "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a01\u001b[0m    \u001b[37me8\u001b[37m0a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m   \u001b[36m ;[5]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                               "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.printf(unk, unk, unk)\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                       \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a06\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m         \u001b[36m ; bomb.c:55  \u001b[0m                                                                                                                                                      "
+    ],
+    [
+      0.000020,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a09\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                 ; 8\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a0b\u001b[0m    \u001b[37me8\u001b[37m40\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m     \u001b[36m ;[6]\u001b[0m                                                                                                                                                               "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                                                                                   "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │└     \u001b[0m\u001b[36m; JMP XREF from 0x080489d3 (sym.main)\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000030,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │└───\u003e \u001b[0m\u001b[32m0x08048a10\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m       \u001b[36m ; bomb.c:61  \u001b[0m                                                                                                                                                          \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a13\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m                                                                                                                                                                      "
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a15\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a16\u001b[0m    \u001b[37m68\u001b[37m3f\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr.Usage:__s___input_file___n\u001b[0m\u001b[0m\u001b[36m ; \"Usage: %s [\u003cinput_file\u003e].\" @ 0x804963f\u001b[0m                                                                                                             "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a1b\u001b[0m    \u001b[37me8\u001b[37mf0\u001b[37mfd\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m     \u001b[36m ;[5]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.printf(unk, unk)\u001b[0m                                                                                                                                                                                            "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a20\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:62  \u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                    \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a23\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                   ; 8\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                              "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a25\u001b[0m    \u001b[37me8\u001b[37m26\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m       \u001b[36m ;[6]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000021,
+      "                                                                                                                                                                                                   "
+    ],
+    [
+      3.285120,
+      "\u001b[0m\u001b[2J\u001b[0;0H\r\n"
+    ],
+    [
+      0.002756,
+      "\u001b[?1049h\u001b=\r"
+    ],
+    [
+      0.001168,
+      "                                                            ...\u001b[m\r\n"
+    ],
+    [
+      0.000014,
+      "                                                            Visual code analysis manipulation\u001b[m\r\n                                                            \u001b[36m╒ \u001b[0m\u001b[31m(fcn) entry0\u001b[0m 34\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mentry0:\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msym._start:\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msection_end..plt:\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mentry0:\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msection..text:\u001b[m\r\n"
+    ],
+    [
+      0.000005,
+      "                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e0\u001b[0m   \u001b[33mxor\u001b[36m ebp\u001b[0m,\u001b[36m\u001b[36m ebp\u001b[0m\u001b[0m                         "
+    ],
+    [
+      0.000603,
+      "       \u001b[36m ; [12] va=0x080488e0 pa=0x000008e0 sz=3332 vsz=3332 rwx=-r-x .text\u001b[0m\u001b[m\r\n"
+    ],
+    [
+      0.000012,
+      "                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e2\u001b[0m   \u001b[1;35mpop\u001b[36m esi\u001b[0m\u001b[0m\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e3\u001b[0m   \u001b[37mmov\u001b[36m ecx\u001b[0m,\u001b[36m\u001b[36m esp\u001b[0m\u001b[0m\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e5\u001b[0m   \u001b[33mand\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0xfffffff8\u001b[0m\u001b[0m\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "-[ functions ]---------------- \u001b[m\r\n(a) add     (x)xrefs     (q)quit \u001b[m\r\n(m) modify  (c)calls     (g)go \u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n(d) delete  (v)variables (?)help \u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n * 0x080488e0 (entry0)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048800 (sym.imp.__libc_start_main)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048806 (fcn.08048806)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048710 (section..plt)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x0804871c (fcn.0804871c)\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "   0x08048726 (fcn.08048726)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048730 (sym.imp.close)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048736 (fcn.08048736)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048740 (sym.imp.fprintf)\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n   0x08048746 ("
+    ],
+    [
+      0.000427,
+      "fcn.08048746)\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "   0x08048750 (sym.imp.tmpfile)\u001b[m\r\n   0x08048756 (fcn.08048756)\u001b[m\r\n   0x08048760 (sym.imp.getenv)\u001b[m\r\n   0x08048766 (fcn.08048766)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048770 (sym.imp.signal)\u001b[m\r\n   0x08048776 (fcn.08048776)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048780 (sym.imp.fflush)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048810 (sym.imp.printf)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048816 (fcn.08048816)\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "   0x08048820 (sym.imp.fclose)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048826 (fcn.08048826)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048830 (sym.imp.gethostbyname)\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "   0x08048836 (fcn.08048836)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048840 (sym.imp.bzero)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048846 (fcn.08048846)\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "   0x08048850 (sym.imp.exit)\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n   0x08048856 (fcn.08048856)\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n   0x08048860 (sym.imp.sscanf)\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n   0x08048866 (fcn.08048866)\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "   0x08048870 (sym.imp.connect)\u001b[m\r\n   0x08048876 (fcn.08048876)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048910 (sym.__do_global_dtors_aux)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048961 (fcn.08048961)\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "   0x0804896e (fcn.0804896e)\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n   0x08048995 (fcn.08048995)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n\u003e  0x080489b0 (sym.main)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048b20 (sym.phase_1)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08049030 (sym.strings_not_equal)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08049089 (fcn.08049089)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08049160 (sym.initialize_bom"
+    ],
+    [
+      0.000237,
+      "b)\u001b[m\r\n"
+    ],
+    [
+      0.000009,
+      "   0x08049179 (fcn.08049179)\u001b[m\r\n   0x080491ae (fcn.080491ae)\u001b[m\r\n   0x080491fa (fcn.080491fa)\u001b[m\r\n   0x080492bd (fcn.080492bd)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x080494fa (fcn.080494fa)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048ee8 (sym.secret_phase)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048f50 (sym.gcc2_compiled.)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x080495b0 (sym.__do_global_ctors_aux)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "   0x080495d6 (fcn.080495d6)\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      ":\u001b[K"
+    ],
+    [
+      0.684699,
+      "\r\u001b[K"
+    ],
+    [
+      0.000027,
+      "   0x08048b48 (sym.phase_2)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.309104,
+      "\r\u001b[K"
+    ],
+    [
+      0.000049,
+      "   0x08048b98 (sym.phase_3)\u001b[m"
+    ],
+    [
+      0.000014,
+      "\r\n:\u001b[K"
+    ],
+    [
+      0.165334,
+      "\r\u001b[K   0x08048ca0 (sym.func4)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.165344,
+      "\r\u001b[K   0x08048cde (fcn.08048cde)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.149735,
+      "\r\u001b[K   0x08048d2c (sym.phase_5)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.165530,
+      "\r\u001b[K   0x08048d95 (fcn.08048d95)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.659652,
+      "\r\u001b[K   0x08048e91 (fcn.08048e91)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.040242,
+      "\r\u001b[K   0x08048ee6 (fcn.08048ee6)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.040286,
+      "\r\u001b[K   0x080487e0 (sym.imp.sleep)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.040906,
+      "\r\u001b[K   0x08049015 (fcn.08049015)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.041015,
+      "\r\u001b[K   0x080486e0 (section..init)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.040379,
+      "\r\u001b[K   0x0804870f (section_end..init)\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.040300,
+      "\r\u001b[K...\u001b[m\r\n\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.039992,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.039933,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.039811,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.040004,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.039645,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.040868,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.041010,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.040866,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.039905,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.039756,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.039899,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.177290,
+      "\r\u001b[K\u001b[H\u001bM-[ functions ]---------------- \u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.660167,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e5\u001b[0m   \u001b[33mand\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0xfffffff8\u001b[0m\u001b[0m\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040020,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e3\u001b[0m   \u001b[37mmov\u001b[36m ecx\u001b[0m,\u001b[36m\u001b[36m esp\u001b[0m\u001b[0m\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039425,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e2\u001b[0m   \u001b[1;35mpop\u001b[36m esi\u001b[0m\u001b[0m\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040197,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e0\u001b[0m   \u001b[33mxor\u001b[36m ebp\u001b[0m,\u001b[36m\u001b[36m ebp\u001b[0m\u001b[0m                                \u001b[36m ; [12] va=0x080488e0 pa=0x000008e0 sz=3332 vsz=3332 rwx=-r-x .text\u001b[0m\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039842,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msection..text:\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040318,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mentry0:\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040348,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msection_end..plt:\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040705,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msym._start:\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039816,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mentry0:\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039919,
+      "\r\u001b[K\u001b[H\u001bM                                                            \u001b[36m╒ \u001b[0m\u001b[31m(fcn) entry0\u001b[0m 34\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039500,
+      "\r\u001b[K\u001b[H\u001bM                                                            Visual code analysis manipulation\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040843,
+      "\r\u001b[K\u001b[H\u001bM                                                            ...\u001b[m\r\n\u001b[66;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040946,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.041139,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040898,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.041001,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.041140,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.041051,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040750,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040021,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039545,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.040100,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039911,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.039893,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      1.167848,
+      "\r\u001b[K\u001b\u003e\u001b[r\u001b[?1049l"
+    ],
+    [
+      1.391589,
+      "\u001b[0m\u001b[2J\u001b[0;0H\r\n"
+    ],
+    [
+      0.002880,
+      "\u001b[?1049h\u001b=\r"
+    ],
+    [
+      0.001263,
+      "                                                            ...\u001b[m\r\n                                                            Visual code analysis manipulation\u001b[m\r\n                                                            \u001b[36m╒ \u001b[0m\u001b[31m(fcn) entry0\u001b[0m 34\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mentry0:\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msym._start:\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msection_end..plt:\u001b[m\r\n"
+    ],
+    [
+      0.000019,
+      "                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mentry0:\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msection..text:\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e0\u001b[0m   \u001b[33mxor\u001b[36m ebp\u001b[0m,\u001b[36m\u001b[36m ebp\u001b[0m\u001b[0m                         "
+    ],
+    [
+      0.000678,
+      "       \u001b[36m ; [12] va=0x080488e0 pa=0x000008e0 sz=3332 vsz=3332 rwx=-r-x .text\u001b[0m\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e2\u001b[0m   \u001b[1;35mpop\u001b[36m esi\u001b[0m\u001b[0m\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e3\u001b[0m   \u001b[37mmov\u001b[36m ecx\u001b[0m,\u001b[36m\u001b[36m esp\u001b[0m\u001b[0m\u001b[m\r\n                                                            \u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080488e5\u001b[0m   \u001b[33mand\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0xfffffff8\u001b[0m\u001b[0m\u001b[m\r\n-[ functions ]---------------- \u001b[m\r\n(a) add     (x)xrefs     (q)quit \u001b[m\r\n(m) modify  (c)calls     (g)go \u001b[m"
+    ],
+    [
+      0.000484,
+      "\r\n(d) delete  (v)variables (?)help \u001b[m\r\n * 0x080488e0 (entry0)\u001b[m\r\n   0x08048800 (sym.imp.__libc_start_main)\u001b[m\r\n   0x08048806 (fcn.08048806)\u001b[m\r\n   0x08048710 (section..plt)\u001b[m\r\n   0x0804871c (fcn.0804871c)\u001b[m\r\n   0x08048726 (fcn.08048726)\u001b[m\r\n   0x08048730 (sym.imp.close)\u001b[m\r\n   0x08048736 (fcn.08048736)\u001b[m\r\n   0x08048740 (sym.imp.fprintf)\u001b[m\r\n   0x08048746 (fcn.08048746)\u001b[m\r\n   0x08048750 (sym.imp.tmpfile)\u001b[m\r\n   0x08048756 (fcn.08048756)\u001b[m\r\n   0x08048760 (sym.imp.getenv)\u001b[m\r\n   0x08048766 (fcn.08048766)\u001b[m\r\n"
+    ],
+    [
+      0.000012,
+      "   0x08048770 (sym.imp.signal)\u001b[m\r\n   0x08048776 (fcn.08048776)\u001b[m\r\n   0x08048780 (sym.imp.fflush)\u001b[m\r\n   0x08048810 (sym.imp.printf)\u001b[m\r\n   0x08048816 (fcn.08048816)\u001b[m\r\n   0x08048820 (sym.imp.fclose)\u001b[m\r\n   0x08048826 (fcn.08048826)\u001b[m\r\n   0x08048830 (sym.imp.gethostbyname)\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n   0x08048836 (fcn.08048836)\u001b[m\r\n   0x08048840 (sym.imp.bzero)\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "   0x08048846 (fcn.08048846)\u001b[m\r\n   0x08048850 (sym.imp.exit)\u001b[m"
+    ],
+    [
+      0.000008,
+      "\r\n   0x08048856 (fcn.08048856)\u001b[m\r\n   0x08048860 (sym.imp.sscanf)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08048866 (fcn.08048866)\u001b[m"
+    ],
+    [
+      0.000013,
+      "\r\n   0x08048870 (sym.imp.connect)\u001b[m\r\n   0x08048876 (fcn.08048876)\u001b[m"
+    ],
+    [
+      0.000008,
+      "\r\n   0x08048910 (sym.__do_global_dtors_aux)\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "   0x08048961 (fcn.08048961)\u001b[m\r\n   0x0804896e (fcn.0804896e)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048995 (fcn.08048995)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "\u003e  0x080489b0 (sym.main)\u001b[m"
+    ],
+    [
+      0.000010,
+      "\r\n   0x08048b20 (sym.phase_1)\u001b[m\r\n   0x08049030 (sym.strings_not_equal)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x08049089 (fcn.08049089)\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n   0x08049160 (sym.initialize_bom"
+    ],
+    [
+      0.000305,
+      "b)\u001b[m\r\n"
+    ],
+    [
+      0.000009,
+      "   0x08049179 (fcn.08049179)\u001b[m\r\n   0x080491ae (fcn.080491ae)\u001b[m\r\n   0x080491fa (fcn.080491fa)\u001b[m\r\n   0x080492bd (fcn.080492bd)\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "   0x080494fa (fcn.080494fa)\u001b[m\r\n   0x08048ee8 (sym.secret_phase)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x08048f50 (sym.gcc2_compiled.)\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "   0x080495b0 (sym.__do_global_ctors_aux)\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n   0x080495d6 (fcn.080495d6)\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      ":\u001b[K"
+    ],
+    [
+      0.711968,
+      "\r\u001b[K\u001b\u003e\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.479244,
+      "\u001b[?25l\u001b[?1001s\u001b[?1000h                                                                                                                                                                                                                                 \u001b[0;0H\r\n\u001b[0;0H\u001b[0m"
+    ],
+    [
+      0.016925,
+      "\u001b[33m[0x080489b0 325 /home/amnesia/bomb]\u003e f tmp;sr s.. @ main                                                                                                                                                                          \r\n\u001b[0m- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[32m0xffb51bec \u001b[0m \u001b[37m63\u001b[0m\u001b[37m2a\u001b[0m \u001b[37m5e\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m8c\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mc\u001b[0m\u001b[37m*\u001b[0m\u001b[37m^\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             \r\n\u001b[32m0xffb51bfc \u001b[0m \u001b[37m7a\u001b[0m\u001b[37m7c\u001b[0m \u001b[37m79\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m24\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mz\u001b[0m\u001b[37m|\u001b[0m\u001b[37my\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m$\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[32m0xffb51c0c \u001b[0m \u001b[37m5c\u001b[0m\u001b[37mb5\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[37m1c\u001b[0m\u001b[37m84\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[32m00\u001b[0m\u001b[37mf0\u001b[0m \u001b[37m76\u001b[0m\u001b[37mf7\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m  \u001b[37m\\\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32m0xffb51c1c \u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m76\u001b[0m\u001b[37mba\u001b[0m \u001b[37mba\u001b[0m\u001b[37mad\u001b[0m \u001b[37m67\u001b[0m\u001b[37m1e\u001b[0m \u001b[37md9\u001b[0m\u001b[37m7b\u001b[0m  \u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mg\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m{\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[36m eip 0x080489b0    \u001b[0m\u001b[36moeax 0xffffffff    \u001b[0m\u001b[36m eax 0x00000001    \u001b[0m\u001b[36m ebx 0xf776f000"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                          "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m\u001b[36m ecx 0x7bd91e67    \u001b[0m\u001b[36m edx 0xffb51c14    \u001b[0m\u001b[36m esp 0xffb51bec    \u001b[0m ebp 0x00000000"
+    ],
+    [
+      0.000014,
+      "                                                                                                                                                          \r\n esi 0x00000000     edi 0x00000000    \u001b[36m eflags = 1PZI     \u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                         \r\n\u001b[36m╒ \u001b[0m\u001b[31m(fcn) sym.main\u001b[0m 365"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                                              "
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_2        @ ebp+0x8\u001b[0m"
+    ],
+    [
+      0.000021,
+      "                                                                                                                                                                                       "
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_3        @ ebp+0xc\u001b[0m                                                                                                                                                                                       \r\n\u001b[36m│          \u001b[0m\u001b[37m; var int local_6      @ ebp-0x18\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                                                      \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[36m; DATA XREF from 0x080488f7 (entry0)\u001b[0m                                                                                                                                                                                   \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mmain:                                                                                                                                                                                                              \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msym.main:                                                                                                                                                                                                          "
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36meip:"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                                                                               \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[7m\u001b[32m0x080489b0\u001b[0m    \u001b[37m55\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebp\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b1\u001b[0m    \u001b[37m89\u001b[37me5\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m ebp\u001b[0m,\u001b[36m\u001b[36m esp\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                              "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b3\u001b[0m    \u001b[37m83\u001b[37mec\u001b[37m14\u001b[0m         \u001b[0m\u001b[33msub\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x14\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b6\u001b[0m    \u001b[37m53\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebx\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b7\u001b[0m    \u001b[37m8b\u001b[37m45\u001b[37m08\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m 8\u001b[0m]\u001b[36m\u001b[0m\u001b[0m    \u001b[36m  ; [0x8:4]=-1\u001b[0m\u001b[36m ; 8\u001b[0m\u001b[36m ; bomb.c:36  \u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                              "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489ba\u001b[0m    \u001b[37m8b\u001b[37m5d\u001b[37m0c\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m ebx\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m \u001b[33m0xc\u001b[0m]\u001b[36m\u001b[0m\u001b[0m  \u001b[36m  ; [0xc:4]=-1\u001b[0m\u001b[36m ; 12\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                           "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489bd\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m01\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 1\u001b[0m\u001b[0m                  \u001b[36m ; eax\u001b[0m\u001b[36m ; bomb.c:44  \u001b[0m                                                                                                                                          "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m     ┌─\u003c \u001b[0m\u001b[32m0x080489c0\u001b[0m    \u001b[37m75\u001b[37m0e\u001b[0m           \u001b[0m\u001b[32mjne 0x80489d0\u001b[31m           \u001b[0m\u001b[0m\u001b[36m ;[1]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c2\u001b[0m    \u001b[37ma1\u001b[37m48\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.stdin__GLIBC_2.0\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x804b648:4]=0xf776fc20 \u001b[0m\u001b[36m ; \" .v.....\" @ 0x804b648\u001b[0m\u001b[36m ; bomb.c:45  \u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                 "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c7\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                               "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m    ┌──\u003c \u001b[0m\u001b[32m0x080489cc\u001b[0m    \u001b[37meb\u001b[37m62\u001b[0m           \u001b[0m\u001b[32mjmp 0x8048a30\u001b[31m         \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m\u001b[36m ; bomb.c:46  \u001b[0m                                                                                                                                                 "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    ││   \u001b[0m\u001b[32m0x080489ce\u001b[0m    \u001b[37m89\u001b[37mf6\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m esi\u001b[0m,\u001b[36m\u001b[36m esi\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                                              "
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    │└   \u001b[0m\u001b[36m; JMP XREF from 0x080489c0 (sym.main)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    │└─\u003e \u001b[0m\u001b[32m0x080489d0\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m02\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 2\u001b[0m\u001b[0m\u001b[36m             ; 2\u001b[0m\u001b[36m ; bomb.c:52  \u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                  "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ┌───\u003c \u001b[0m\u001b[32m0x080489d3\u001b[0m    \u001b[37m75\u001b[37m3b\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a10\u001b[31m       \u001b[0m\u001b[0m\u001b[36m ;[3]\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                 "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d5\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m             \u001b[36m ; bomb.c:53  \u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                    "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d8\u001b[0m    \u001b[37m68\u001b[37m20\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33m0x8049620\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                            "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489dd\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e0\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e1\u001b[0m    \u001b[37me8\u001b[37m9a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.fopen\u001b[0m      \u001b[36m ;[4]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m   sym.imp.fopen(unk, unk)\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                             "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e6\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                               "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489eb\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37m10\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x10\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489ee\u001b[0m    \u001b[37m85\u001b[37mc0\u001b[0m           \u001b[0m\u001b[36mtest\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  ┌────\u003c \u001b[0m\u001b[32m0x080489f0\u001b[0m    \u001b[37m75\u001b[37m3e\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a30\u001b[31m     \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                   "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f2\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mfc\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m4\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:54  \u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                      "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f5\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m                                                                                                                                                "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f8\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f9\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                      "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fb\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000064,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fc\u001b[0m    \u001b[37m68\u001b[37m22\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr._s:_Error:_Couldn_t_open__s_n\u001b[0m\u001b[0m\u001b[36m ; \"%s: Error: Couldn't open %s.\" @ 0x8049622\u001b[0m                                                                                                       \r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a01\u001b[0m    \u001b[37me8\u001b[37m0a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m   \u001b[36m ;[5]\u001b[0m                                                                                                                                                               \r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.printf(unk, unk, unk)\u001b[0m                                                                                                                                                                                       \r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a06\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m         \u001b[36m ; bomb.c:55  \u001b[0m"
+    ],
+    [
+      0.000012,
+      "                                                                                                                                                      \r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a09\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                 ; 8\u001b[0m                                                                                                                                                                "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a0b\u001b[0m    \u001b[37me8\u001b[37m40\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m     \u001b[36m ;[6]\u001b[0m                                                                                                                                                               "
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                                   \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │└     \u001b[0m\u001b[36m; JMP XREF from 0x080489d3 (sym.main)\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │└───\u003e \u001b[0m\u001b[32m0x08048a10\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m       \u001b[36m ; bomb.c:61  \u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                          "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a13\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                      "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a15\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a16\u001b[0m    \u001b[37m68\u001b[37m3f\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr.Usage:__s___input_file___n\u001b[0m\u001b[0m\u001b[36m ; \"Usage: %s [\u003cinput_file\u003e].\" @ 0x804963f\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                             "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a1b\u001b[0m    \u001b[37me8\u001b[37mf0\u001b[37mfd\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m     \u001b[36m ;[5]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.printf(unk, unk)\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                                            "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a20\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:62  \u001b[0m"
+    ],
+    [
+      0.000022,
+      "                                                                                                                                                    "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a23\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                   ; 8\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                                              "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a25\u001b[0m    \u001b[37me8\u001b[37m26\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m       \u001b[36m ;[6]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                                   "
+    ],
+    [
+      1.991079,
+      "\u001b[?1049h\u001b=\r"
+    ],
+    [
+      0.001133,
+      "\u001b[0m[0x080489b0]\u003e 0 VV @ sym.main (nodes 7 edges 9) BB mouse:canvas-y\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m"
+    ],
+    [
+      0.000022,
+      "\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n                                                           \u001b[34m=-----------------------------=\u001b[m\r\n                                                           \u001b[34m|\u001b[0m-[ 0x080489b0 ]-             \u001b[34m|\u001b[m\r\n                                                           \u001b[34m| \u001b[0mpush ebp                    \u001b[34m|\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "                                                           \u001b[34m| \u001b[0mmov ebp, esp                \u001b[34m|\u001b[m\r\n                                                           \u001b[34m| \u001b[0msub esp, 0x14               \u001b[34m|\u001b[m\r\n                                                           \u001b[34m| \u001b[0mpush ebx                    \u001b[34m|\u001b[m\r\n                                                           \u001b[34m| \u001b[0mmov eax, dword [ebp + 8]    \u001b[34m|\u001b[m"
+    ],
+    [
+      0.000009,
+      "\r\n                                                           \u001b[34m| \u001b[0mmov ebx, dword [ebp + 0xc]  \u001b[34m|\u001b[m\r\n                                                       "
+    ],
+    [
+      0.001352,
+      "    \u001b[34m| \u001b[0mcmp eax, 1                  \u001b[34m|\u001b[m\r\n"
+    ],
+    [
+      0.000013,
+      "                                                           \u001b[34m| \u001b[0mjne 0x80489d0               \u001b[34m|\u001b[m\r\n                                                           \u001b[34m=-----------------------------=\u001b[m\r\n                                                                \u001b[32mt \u001b[31mf\u001b[m\r\n                                                                \u001b[32m| \u001b[31m|\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n                                                                \u001b[32m'-\u001b[31m'-------\u001b[31m--------------------------------\u001b[31m.\u001b[m\r\n                                                                          \u001b[32m|                               \u001b[31m|\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n                                                                     \u001b[0m=----\u001b[0m------------=            \u001b[0m=------\u001b[0m---------------------------------=\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "                                                                     \u001b[0m|\u001b[0m   0x080489d0   \u001b[0m|            \u001b[0m|\u001b[0m   0x080489c2                          \u001b[0m|\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n                     "
+    ],
+    [
+      0.001193,
+      "                                                \u001b[0m| \u001b[0mcmp eax, 2     \u001b[0m|            \u001b[0m| \u001b[0mmov eax, dword [sym.stdin__GLIBC_2.0] \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000015,
+      "                                                                     \u001b[0m| \u001b[0mjne 0x8048a10  \u001b[0m|            \u001b[0m| \u001b[0mmov dword [sym.infile], eax           \u001b[0m|\u001b[m\r\n                                                                     \u001b[0m=----------------=            \u001b[0m| \u001b[0mjmp 0x8048a30                         \u001b[0m|\u001b[m\r\n                                                                          \u001b[32mt \u001b[31mf                      \u001b[0m=---------------------------------------=\u001b[m\r\n                                                                          \u001b[32m| \u001b[31m|                         \u001b[34mv\u001b[m"
+    ],
+    [
+      0.000009,
+      "\r\n                                                                  \u001b[31m.-------\u001b[31m--'                         \u001b[34m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|                           \u001b[34m'---\u001b[34m.\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "               "
+    ],
+    [
+      0.000941,
+      "                                                   \u001b[31m|       \u001b[32m|           \u001b[32m.--\u001b[32m-----------------\u001b[34m|-.\u001b[m\r\n"
+    ],
+    [
+      0.000015,
+      "                                                           \u001b[0m=------\u001b[0m--------\u001b[0m------------\u001b[0m---\u001b[0m-=            \u001b[0m=--\u001b[0m--\u001b[0m--------------------------------------------------------------------=\u001b[m\r\n                                                           \u001b[0m|\u001b[0m   0x080489d5 \u001b[0m            \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m|\u001b[0m   0x08048a30                                                           \u001b[0m|\u001b[m\r\n                                                           \u001b[0m| \u001b[0madd esp, -8  \u001b[32m|           \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0mcall sym.initialize_bomb                                               \u001b[0m|\u001b[m"
+    ],
+    [
+      0.000008,
+      "\r\n                                                           \u001b[0m| \u001b[0mpush 0x804962\u001b[0m0           \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0madd esp, -0xc                                                          \u001b[0m|\u001b[m\r\n                             "
+    ],
+    [
+      0.000801,
+      "                              \u001b[0m| \u001b[0mmov eax, dwor\u001b[0md [ebx + 4] \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0mpush str.Welcome_to_my_fiendish_little_bomb._You_have_6_phases_with_n  \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000013,
+      "                                                           \u001b[0m| \u001b[0mpush eax     \u001b[32m|           \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0mcall sym.imp.printf                                                    \u001b[0m|\u001b[m\r\n                                                           \u001b[0m| \u001b[0mcall sym.imp.\u001b[0mfopen       \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0madd esp, -0xc                                                          \u001b[0m|\u001b[m\r\n                                                           \u001b[0m| \u001b[0mmov dword [sy\u001b[0mm.infile], e\u001b[0max \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0mpush str.which_to_blow_yourself_up._Have_a_nice_day__n                 \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000005,
+      "                                                           \u001b[0m| \u001b[0madd esp, 0x10\u001b[32m|           \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0mcall sym.imp.printf                 "
+    ],
+    [
+      0.001140,
+      "                                   \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "                                                           \u001b[0m| \u001b[0mtest eax, eax\u001b[32m|           \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0madd esp, 0x20                                                          \u001b[0m|\u001b[m\r\n                                                           \u001b[0m| \u001b[0mjne 0x8048a30\u001b[32m|           \u001b[32m|  \u001b[34m|\u001b[0m|            \u001b[0m| \u001b[0mcall sym.read_line                                                     \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "                                                           \u001b[0m=--------------\u001b[0m------------\u001b[0m---\u001b[0m-=            \u001b[0m| \u001b[0madd esp, -0xc                                                          \u001b[0m|\u001b[m\r\n                                                                \u001b[32mt \u001b[31mf       \u001b[32m|           \u001b[32m|  \u001b[34m|             \u001b[0m| \u001b[0mpush eax                                                               \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "                                                                 \u001b[32m`\u001b[31m|-------\u001b[32m------------'  \u001b[34m|  "
+    ],
+    [
+      0.001125,
+      "           \u001b[0m| \u001b[0mcall sym.phase_1                                                       \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000013,
+      "                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mcall sym.phase_defused                                                 \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0madd esp, -0xc                                                          \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mpush str.Phase_1_defused._How_about_the_next_one__n                    \u001b[0m|\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mcall sym.imp.printf                                                    \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|     "
+    ],
+    [
+      0.001197,
+      "         \u001b[34m|             \u001b[0m| \u001b[0madd esp, 0x20                                                          \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000013,
+      "                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mcall sym.read_line                                                     \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0madd esp, -0xc                                                          \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mpush eax                                                               \u001b[0m|\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mcall sym.phase_2                                                       \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m| "
+    ],
+    [
+      0.000070,
+      "      \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mcall sym.phase_defused                                                 \u001b[0m|\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001090,
+      "                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0madd esp, -0xc                                                          \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000013,
+      "                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mpush str.That_s_number_2.__Keep_going__n                               \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mcall sym.imp.printf                                                    \u001b[0m|\u001b[m\r\n                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0madd esp, 0x20                                                          \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000185,
+      "                                                                  \u001b[31m|       \u001b[32m|              \u001b[34m|             \u001b[0m| \u001b[0mcall sym.read_line                                                     \u001b[0m|\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.462423,
+      "\r\u001b[K"
+    ],
+    [
+      0.000354,
+      "\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.157203,
+      "\r\u001b[K"
+    ],
+    [
+      0.000352,
+      "\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.157189,
+      "\r\u001b[K"
+    ],
+    [
+      0.000285,
+      "\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.157220,
+      "\r\u001b[K"
+    ],
+    [
+      0.000365,
+      "\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.205580,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.157574,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.252724,
+      "\r\u001b[K"
+    ],
+    [
+      0.000372,
+      "\u0007\r\u001b[K\u001b[00;44;33m(END)\u001b[0m\u001b[K"
+    ],
+    [
+      0.546222,
+      "\r\u001b[K\u001b\u003e\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.000367,
+      "\u001b[?1001s\u001b[?1000h"
+    ],
+    [
+      0.902391,
+      "\u001b[?25l\u001b[?1001s\u001b[?1000h                                                                                                                                                                                                                                 \u001b[0;0H\r\n\u001b[0;0H\u001b[0m"
+    ],
+    [
+      0.018788,
+      "\u001b[33m[0x080489b0 325 /home/amnesia/bomb]\u003e f tmp;sr s.. @ main                                                                                                                                                                          \r\n\u001b[0m- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF                                                                                                                                                             "
+    ],
+    [
+      0.000024,
+      "\r\n\u001b[32m0xffb51bec \u001b[0m \u001b[37m63\u001b[0m\u001b[37m2a\u001b[0m \u001b[37m5e\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m8c\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mc\u001b[0m\u001b[37m*\u001b[0m\u001b[37m^\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             \r\n\u001b[32m0xffb51bfc \u001b[0m \u001b[37m7a\u001b[0m\u001b[37m7c\u001b[0m \u001b[37m79\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m24\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mz\u001b[0m\u001b[37m|\u001b[0m\u001b[37my\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m$\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[32m0xffb51c0c \u001b[0m \u001b[37m5c\u001b[0m\u001b[37mb5\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[37m1c\u001b[0m\u001b[37m84\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[32m00\u001b[0m\u001b[37mf0\u001b[0m \u001b[37m76\u001b[0m\u001b[37mf7\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m  \u001b[37m\\\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[32m0xffb51c1c \u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m76\u001b[0m\u001b[37mba\u001b[0m \u001b[37mba\u001b[0m\u001b[37mad\u001b[0m \u001b[37m67\u001b[0m\u001b[37m1e\u001b[0m \u001b[37md9\u001b[0m\u001b[37m7b\u001b[0m  \u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mg\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m{\u001b[0m                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m eip 0x080489b0    \u001b[0m\u001b[36moeax 0xffffffff    \u001b[0m\u001b[36m eax 0x00000001    \u001b[0m\u001b[36m ebx 0xf776f000                                                                                                                                                          "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m\u001b[36m ecx 0x7bd91e67    \u001b[0m\u001b[36m edx 0xffb51c14    \u001b[0m\u001b[36m esp 0xffb51bec    \u001b[0m ebp 0x00000000"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                          \r\n"
+    ],
+    [
+      0.000005,
+      " esi 0x00000000     edi 0x00000000    \u001b[36m eflags = 1PZI     \u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                         "
+    ],
+    [
+      0.000020,
+      "\r\n\u001b[36m╒ \u001b[0m\u001b[31m(fcn) sym.main\u001b[0m 365"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                                              "
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_2        @ ebp+0x8\u001b[0m"
+    ],
+    [
+      0.000021,
+      "                                                                                                                                                                                       "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_3        @ ebp+0xc\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                       "
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; var int local_6      @ ebp-0x18\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                                      "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[36m; DATA XREF from 0x080488f7 (entry0)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                   "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mmain:"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                                                              \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msym.main:"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                                          "
+    ],
+    [
+      0.000018,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36meip:"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                                               "
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[7m\u001b[32m0x080489b0\u001b[0m    \u001b[37m55\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebp\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b1\u001b[0m    \u001b[37m89\u001b[37me5\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m ebp\u001b[0m,\u001b[36m\u001b[36m esp\u001b[0m\u001b[0m                                                                                                                                                                              "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b3\u001b[0m    \u001b[37m83\u001b[37mec\u001b[37m14\u001b[0m         \u001b[0m\u001b[33msub\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x14\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000024,
+      "                                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b6\u001b[0m    \u001b[37m53\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebx\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b7\u001b[0m    \u001b[37m8b\u001b[37m45\u001b[37m08\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m 8\u001b[0m]\u001b[36m\u001b[0m\u001b[0m    \u001b[36m  ; [0x8:4]=-1\u001b[0m\u001b[36m ; 8\u001b[0m\u001b[36m ; bomb.c:36  \u001b[0m"
+    ],
+    [
+      0.000014,
+      "                                                                                                                              "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489ba\u001b[0m    \u001b[37m8b\u001b[37m5d\u001b[37m0c\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m ebx\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m \u001b[33m0xc\u001b[0m]\u001b[36m\u001b[0m\u001b[0m  \u001b[36m  ; [0xc:4]=-1\u001b[0m\u001b[36m ; 12\u001b[0m"
+    ],
+    [
+      0.000014,
+      "                                                                                                                                           "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489bd\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m01\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 1\u001b[0m\u001b[0m                  \u001b[36m ; eax\u001b[0m\u001b[36m ; bomb.c:44  \u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                          "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m     ┌─\u003c \u001b[0m\u001b[32m0x080489c0\u001b[0m    \u001b[37m75\u001b[37m0e\u001b[0m           \u001b[0m\u001b[32mjne 0x80489d0\u001b[31m           \u001b[0m\u001b[0m\u001b[36m ;[1]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c2\u001b[0m    \u001b[37ma1\u001b[37m48\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.stdin__GLIBC_2.0\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x804b648:4]=0xf776fc20 \u001b[0m\u001b[36m ; \" .v.....\" @ 0x804b648\u001b[0m\u001b[36m ; bomb.c:45  \u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                 "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c7\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                               "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m    ┌──\u003c \u001b[0m\u001b[32m0x080489cc\u001b[0m    \u001b[37meb\u001b[37m62\u001b[0m           \u001b[0m\u001b[32mjmp 0x8048a30\u001b[31m         \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m\u001b[36m ; bomb.c:46  \u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                 "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m    ││   \u001b[0m\u001b[32m0x080489ce\u001b[0m    \u001b[37m89\u001b[37mf6\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m esi\u001b[0m,\u001b[36m\u001b[36m esi\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                              "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m    │└   \u001b[0m\u001b[36m; JMP XREF from 0x080489c0 (sym.main)\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m    │└─\u003e \u001b[0m\u001b[32m0x080489d0\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m02\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 2\u001b[0m\u001b[0m\u001b[36m             ; 2\u001b[0m\u001b[36m ; bomb.c:52  \u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                  "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ┌───\u003c \u001b[0m\u001b[32m0x080489d3\u001b[0m    \u001b[37m75\u001b[37m3b\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a10\u001b[31m       \u001b[0m\u001b[0m\u001b[36m ;[3]\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                 "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d5\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m             \u001b[36m ; bomb.c:53  \u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                    "
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d8\u001b[0m    \u001b[37m68\u001b[37m20\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33m0x8049620\u001b[0m\u001b[0m                                                                                                                                                                            "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489dd\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e0\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e1\u001b[0m    \u001b[37me8\u001b[37m9a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.fopen\u001b[0m      \u001b[36m ;[4]\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m   sym.imp.fopen(unk, unk)\u001b[0m"
+    ],
+    [
+      0.000015,
+      "                                                                                                                                                                                             "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e6\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                               "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489eb\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37m10\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x10\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489ee\u001b[0m    \u001b[37m85\u001b[37mc0\u001b[0m           \u001b[0m\u001b[36mtest\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000011,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  ┌────\u003c \u001b[0m\u001b[32m0x080489f0\u001b[0m    \u001b[37m75\u001b[37m3e\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a30\u001b[31m     \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                   "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f2\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mfc\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m4\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:54  \u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                                      "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f5\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f8\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f9\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m                                                                                                                                                                      "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fb\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fc\u001b[0m    \u001b[37m68\u001b[37m22\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr._s:_Error:_Couldn_t_open__s_n\u001b[0m\u001b[0m\u001b[36m ; \"%s: Error: Couldn't open %s.\" @ 0x8049622\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                       "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a01\u001b[0m    \u001b[37me8\u001b[37m0a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m   \u001b[36m ;[5]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                               "
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.printf(unk, unk, unk)\u001b[0m                                                                                                                                                                                       "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a06\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m         \u001b[36m ; bomb.c:55  \u001b[0m"
+    ],
+    [
+      0.000014,
+      "                                                                                                                                                      "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a09\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                 ; 8\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                                                "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a0b\u001b[0m    \u001b[37me8\u001b[37m40\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m     \u001b[36m ;[6]\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                               "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                                   "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │└     \u001b[0m\u001b[36m; JMP XREF from 0x080489d3 (sym.main)\u001b[0m"
+    ],
+    [
+      0.000018,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │└───\u003e \u001b[0m\u001b[32m0x08048a10\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m       \u001b[36m ; bomb.c:61  \u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                          "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a13\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                      "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a15\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a16\u001b[0m    \u001b[37m68\u001b[37m3f\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr.Usage:__s___input_file___n\u001b[0m\u001b[0m\u001b[36m ; \"Usage: %s [\u003cinput_file\u003e].\" @ 0x804963f\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                             "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a1b\u001b[0m    \u001b[37me8\u001b[37mf0\u001b[37mfd\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m     \u001b[36m ;[5]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.printf(unk, unk)\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                            "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a20\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:62  \u001b[0m"
+    ],
+    [
+      0.000011,
+      "                                                                                                                                                    "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a23\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                   ; 8\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                              "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a25\u001b[0m    \u001b[37me8\u001b[37m26\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m       \u001b[36m ;[6]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                                                                                   "
+    ],
+    [
+      1.371877,
+      "Press \u003center\u003e to return to Visual mode.\r\n\u001b[?25h\u001b[?1001r\u001b[?1000l\u001b[0K\r\u001b[0K\r\u001b[0m:\u003e "
+    ],
+    [
+      0.344247,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[0m:\u003e q\r\u001b[0m:\u003e q"
+    ],
+    [
+      0.173441,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[0m:\u003e qq\r\u001b[0m:\u003e qq"
+    ],
+    [
+      0.648068,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[0m:\u003e qq\r\n\u001b[?1001r\u001b[?1000l\u001b[0K\r\u001b[0K\r\u001b[0m:\u003e "
+    ],
+    [
+      1.198212,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[0m:\u003e q\r\u001b[0m:\u003e q"
+    ],
+    [
+      0.211712,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[0m:\u003e q\r\n\u001b[?25l\u001b[?25l\u001b[?1001s\u001b[?1000h                                                                                                                                                                                                                                 \u001b[0;0H\r\n\u001b[0;0H\u001b[0m"
+    ],
+    [
+      0.019134,
+      "\u001b[33m[0x080489b0 325 /home/amnesia/bomb]\u003e f tmp;sr s.. @ main                                                                                                                                                                          "
+    ],
+    [
+      0.000030,
+      "\r\n\u001b[0m- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF                                                                                                                                                             \r\n\u001b[32m0xffb51bec \u001b[0m \u001b[37m63\u001b[0m\u001b[37m2a\u001b[0m \u001b[37m5e\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m8c\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mc\u001b[0m\u001b[37m*\u001b[0m\u001b[37m^\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[32m0xffb51bfc \u001b[0m \u001b[37m7a\u001b[0m\u001b[37m7c\u001b[0m \u001b[37m79\u001b[0m\u001b[37mf7\u001b[0m \u001b[37m01\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m84\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m \u001b[37m24\u001b[0m\u001b[37m1c\u001b[0m \u001b[37mb5\u001b[0m\u001b[31mff\u001b[0m  \u001b[37mz\u001b[0m\u001b[37m|\u001b[0m\u001b[37my\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m\u001b[37m$\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[31m.\u001b[0m                                                                                                                                                             \r\n\u001b[32m0xffb51c0c \u001b[0m \u001b[37m5c\u001b[0m\u001b[37mb5\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[37m1c\u001b[0m\u001b[37m84\u001b[0m \u001b[37m04\u001b[0m\u001b[37m08\u001b[0m \u001b[32m00\u001b[0m\u001b[37mf0\u001b[0m \u001b[37m76\u001b[0m\u001b[37mf7\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m  \u001b[37m\\\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[32m0xffb51c1c \u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[32m00\u001b[0m\u001b[32m00\u001b[0m \u001b[37m76\u001b[0m\u001b[37mba\u001b[0m \u001b[37mba\u001b[0m\u001b[37mad\u001b[0m \u001b[37m67\u001b[0m\u001b[37m1e\u001b[0m \u001b[37md9\u001b[0m\u001b[37m7b\u001b[0m  \u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[37mv\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37mg\u001b[0m\u001b[37m.\u001b[0m\u001b[37m.\u001b[0m\u001b[37m{\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[36m eip 0x080489b0    \u001b[0m\u001b[36moeax 0xffffffff    \u001b[0m\u001b[36m eax 0x00000001    \u001b[0m\u001b[36m ebx 0xf776f000"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                          \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[36m ecx 0x7bd91e67    \u001b[0m\u001b[36m edx 0xffb51c14    \u001b[0m\u001b[36m esp 0xffb51bec    \u001b[0m ebp 0x00000000                                                                                                                                                          "
+    ],
+    [
+      0.000006,
+      "\r\n esi 0x00000000     edi 0x00000000    \u001b[36m eflags = 1PZI     \u001b[0m"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                                         "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m╒ \u001b[0m\u001b[31m(fcn) sym.main\u001b[0m 365                                                                                                                                                                                                              "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_2        @ ebp+0x8\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                       \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36m│          \u001b[0m\u001b[37m; arg int arg_3        @ ebp+0xc\u001b[0m                                                                                                                                                                                       "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[36m│          \u001b[0m\u001b[37m; var int local_6      @ ebp-0x18\u001b[0m                                                                                                                                                                                      "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[36m; DATA XREF from 0x080488f7 (entry0)\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                   \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36mmain:                                                                                                                                                                                                              "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36msym.main:                                                                                                                                                                                                          "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m;-- \u001b[36meip:"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                                                               \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[7m\u001b[32m0x080489b0\u001b[0m    \u001b[37m55\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebp\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b1\u001b[0m    \u001b[37m89\u001b[37me5\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m ebp\u001b[0m,\u001b[36m\u001b[36m esp\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                              "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b3\u001b[0m    \u001b[37m83\u001b[37mec\u001b[37m14\u001b[0m         \u001b[0m\u001b[33msub\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x14\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b6\u001b[0m    \u001b[37m53\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m ebx\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489b7\u001b[0m    \u001b[37m8b\u001b[37m45\u001b[37m08\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m 8\u001b[0m]\u001b[36m\u001b[0m\u001b[0m    \u001b[36m  ; [0x8:4]=-1\u001b[0m\u001b[36m ; 8\u001b[0m\u001b[36m ; bomb.c:36  \u001b[0m                                                                                                                              "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489ba\u001b[0m    \u001b[37m8b\u001b[37m5d\u001b[37m0c\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m ebx\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebp \u001b[0m+\u001b[36m\u001b[36m \u001b[33m0xc\u001b[0m]\u001b[36m\u001b[0m\u001b[0m  \u001b[36m  ; [0xc:4]=-1\u001b[0m\u001b[36m ; 12\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                                           "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m         \u001b[0m\u001b[32m0x080489bd\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m01\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 1\u001b[0m\u001b[0m                  \u001b[36m ; eax\u001b[0m\u001b[36m ; bomb.c:44  \u001b[0m                                                                                                                                          "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m     ┌─\u003c \u001b[0m\u001b[32m0x080489c0\u001b[0m    \u001b[37m75\u001b[37m0e\u001b[0m           \u001b[0m\u001b[32mjne 0x80489d0\u001b[31m           \u001b[0m\u001b[0m\u001b[36m ;[1]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c2\u001b[0m    \u001b[37ma1\u001b[37m48\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.stdin__GLIBC_2.0\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x804b648:4]=0xf776fc20 \u001b[0m\u001b[36m ; \" .v.....\" @ 0x804b648\u001b[0m\u001b[36m ; bomb.c:45  \u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                 "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[36m│ \u001b[0m\u001b[36m     │   \u001b[0m\u001b[32m0x080489c7\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m                                                                                                                               "
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    ┌──\u003c \u001b[0m\u001b[32m0x080489cc\u001b[0m    \u001b[37meb\u001b[37m62\u001b[0m           \u001b[0m\u001b[32mjmp 0x8048a30\u001b[31m         \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m\u001b[36m ; bomb.c:46  \u001b[0m                                                                                                                                                 "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    ││   \u001b[0m\u001b[32m0x080489ce\u001b[0m    \u001b[37m89\u001b[37mf6\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m esi\u001b[0m,\u001b[36m\u001b[36m esi\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                                              "
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    │└   \u001b[0m\u001b[36m; JMP XREF from 0x080489c0 (sym.main)\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m    │└─\u003e \u001b[0m\u001b[32m0x080489d0\u001b[0m    \u001b[37m83\u001b[37mf8\u001b[37m02\u001b[0m         \u001b[0m\u001b[36mcmp\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 2\u001b[0m\u001b[0m\u001b[36m             ; 2\u001b[0m\u001b[36m ; bomb.c:52  \u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                  "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ┌───\u003c \u001b[0m\u001b[32m0x080489d3\u001b[0m    \u001b[37m75\u001b[37m3b\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a10\u001b[31m       \u001b[0m\u001b[0m\u001b[36m ;[3]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                 "
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d5\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m             \u001b[36m ; bomb.c:53  \u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                    \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489d8\u001b[0m    \u001b[37m68\u001b[37m20\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33m0x8049620\u001b[0m\u001b[0m                                                                                                                                                                            "
+    ],
+    [
+      0.000018,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489dd\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m                                                                                                                                                "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e0\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                                                  \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e1\u001b[0m    \u001b[37me8\u001b[37m9a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.fopen\u001b[0m      \u001b[36m ;[4]\u001b[0m                                                                                                                                                             "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m   sym.imp.fopen(unk, unk)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                             "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489e6\u001b[0m    \u001b[37ma3\u001b[37m64\u001b[37mb6\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36m\u001b[33msym.infile\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\u001b[36m  ; [0x804b664:4]=0\u001b[0m\u001b[36m ; sym.infile\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                                               "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489eb\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37m10\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[33m0x10\u001b[0m\u001b[0m                                                                                                                                                                             "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m   ││    \u001b[0m\u001b[32m0x080489ee\u001b[0m    \u001b[37m85\u001b[37mc0\u001b[0m           \u001b[0m\u001b[36mtest\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                             "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  ┌────\u003c \u001b[0m\u001b[32m0x080489f0\u001b[0m    \u001b[37m75\u001b[37m3e\u001b[0m           \u001b[0m\u001b[32mjne 0x8048a30\u001b[31m     \u001b[0m\u001b[0m\u001b[36m ;[2]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                                   "
+    ],
+    [
+      0.000015,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f2\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mfc\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m4\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:54  \u001b[0m                                                                                                                                                      "
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f5\u001b[0m    \u001b[37m8b\u001b[37m43\u001b[37m04\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword \u001b[0m[\u001b[36mebx \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\u001b[36m  ; [0x4:4]=-1\u001b[0m\u001b[36m ; 4\u001b[0m"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                                \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f8\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489f9\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m                                                                                                                                                                      "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fb\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x080489fc\u001b[0m    \u001b[37m68\u001b[37m22\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr._s:_Error:_Couldn_t_open__s_n\u001b[0m\u001b[0m\u001b[36m ; \"%s: Error: Couldn't open %s.\" @ 0x8049622\u001b[0m"
+    ],
+    [
+      0.000006,
+      "                                                                                                       "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a01\u001b[0m    \u001b[37me8\u001b[37m0a\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m   \u001b[36m ;[5]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                               "
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.printf(unk, unk, unk)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                       "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a06\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m         \u001b[36m ; bomb.c:55  \u001b[0m"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                      \r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a09\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                 ; 8\u001b[0m                                                                                                                                                                "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m\u001b[32m0x08048a0b\u001b[0m    \u001b[37me8\u001b[37m40\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m     \u001b[36m ;[6]\u001b[0m"
+    ],
+    [
+      0.000025,
+      "                                                                                                                                                               \r\n\u001b[36m│ \u001b[0m\u001b[36m  │││    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000021,
+      "                                                                                                                                                                                                   "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │└     \u001b[0m\u001b[36m; JMP XREF from 0x080489d3 (sym.main)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                  "
+    ],
+    [
+      0.000021,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │└───\u003e \u001b[0m\u001b[32m0x08048a10\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf8\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m8\u001b[0m\u001b[0m       \u001b[36m ; bomb.c:61  \u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                          "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a13\u001b[0m    \u001b[37m8b\u001b[37m03\u001b[0m           \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebx\u001b[0m]\u001b[36m\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                                                      "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a15\u001b[0m    \u001b[37m50\u001b[0m             \u001b[0m\u001b[35mpush\u001b[36m eax\u001b[0m\u001b[0m                                                                                                                                                                                  "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a16\u001b[0m    \u001b[37m68\u001b[37m3f\u001b[37m96\u001b[37m04\u001b[37m08\u001b[0m     \u001b[0m\u001b[35mpush\u001b[36m \u001b[33mstr.Usage:__s___input_file___n\u001b[0m\u001b[0m\u001b[36m ; \"Usage: %s [\u003cinput_file\u003e].\" @ 0x804963f\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                             "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a1b\u001b[0m    \u001b[37me8\u001b[37mf0\u001b[37mfd\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.printf\u001b[0m     \u001b[36m ;[5]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                             \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.printf(unk, unk)\u001b[0m                                                                                                                                                                                            "
+    ],
+    [
+      0.000016,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a20\u001b[0m    \u001b[37m83\u001b[37mc4\u001b[37mf4\u001b[0m         \u001b[0m\u001b[33madd\u001b[36m esp\u001b[0m,\u001b[36m\u001b[36m \u001b[0m-\u001b[36m\u001b[33m0xc\u001b[0m\u001b[0m           \u001b[36m ; bomb.c:62  \u001b[0m                                                                                                                                                    "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a23\u001b[0m    \u001b[37m6a\u001b[37m08\u001b[0m           \u001b[0m\u001b[35mpush\u001b[36m 8\u001b[0m\u001b[0m\u001b[36m                   ; 8\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                              "
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m\u001b[32m0x08048a25\u001b[0m    \u001b[37me8\u001b[37m26\u001b[37mfe\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.imp.exit\u001b[0m       \u001b[36m ;[6]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                                             "
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[36m│ \u001b[0m\u001b[36m  │ │    \u001b[0m   sym.imp.exit(unk)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                                                                                   "
+    ],
+    [
+      0.681235,
+      "\u001b[?1001r\u001b[?1000l"
+    ],
+    [
+      0.000160,
+      "\u001b[?1049l\u001b[?47l\u001b8"
+    ],
+    [
+      0.000009,
+      "\u001b[?25h"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\u001b[0m\u001b[2J\u001b[0;0H"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000403,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000019,
+      "\u001b[0K\r\u001b[33m[0x080489b0]\u003e\u001b[0m "
+    ],
+    [
+      0.491808,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000022,
+      "\r\u001b[2K\r\r\u001b[33m[0x080489b0]\u003e\u001b[0m q\r\u001b[33m[0x080489b0]\u003e\u001b[0m q"
+    ],
+    [
+      0.404856,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000015,
+      "\r\u001b[2K\r\r\u001b[33m[0x080489b0]\u003e\u001b[0m qq\r\u001b[33m[0x080489b0]\u003e\u001b[0m qq"
+    ],
+    [
+      0.177643,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x080489b0]\u003e\u001b[0m qq\r\nDo you want to quit? (Y/n)"
+    ],
+    [
+      0.530277,
+      "\r\nDo you want to kill the process? (Y/n)"
+    ],
+    [
+      0.512607,
+      "\r\n"
+    ],
+    [
+      0.000401,
+      "\u001b[0;32m[\u001b[0;37mamnesia@Ephemera\u001b[0;32m]\u001b[0;37m$ "
+    ],
+    [
+      0.981624,
+      "e"
+    ],
+    [
+      0.188917,
+      "x"
+    ],
+    [
+      0.072599,
+      "i"
+    ],
+    [
+      0.163427,
+      "t"
+    ],
+    [
+      0.096942,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
