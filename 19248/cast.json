@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 21.591410,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.103413,
+      "\u001b]0;robot@robot-io: ~\u0007robot@robot-io:~$ "
+    ],
+    [
+      3.494228,
+      "c"
+    ],
+    [
+      0.000018,
+      "a"
+    ],
+    [
+      0.000033,
+      "t"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000030,
+      "/"
+    ],
+    [
+      0.000028,
+      "e"
+    ],
+    [
+      0.000050,
+      "t"
+    ],
+    [
+      0.000014,
+      "c"
+    ],
+    [
+      0.000025,
+      "/"
+    ],
+    [
+      0.000036,
+      "o"
+    ],
+    [
+      0.000033,
+      "s"
+    ],
+    [
+      0.000030,
+      "-"
+    ],
+    [
+      0.000038,
+      "r"
+    ],
+    [
+      0.000027,
+      "e"
+    ],
+    [
+      0.000037,
+      "l"
+    ],
+    [
+      0.000035,
+      "e"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000075,
+      "s"
+    ],
+    [
+      0.000060,
+      "e"
+    ],
+    [
+      0.750508,
+      "\r\n"
+    ],
+    [
+      0.001957,
+      "NAME=\"Ubuntu\"\r\nVERSION=\"15.04 (Vivid Vervet)\"\r\nID=ubuntu\r\n"
+    ],
+    [
+      0.000068,
+      "ID_LIKE=debian\r\nPRETTY_NAME=\"Ubuntu 15.04\"\r\nVERSION_ID=\"15.04\"\r\nHOME_URL=\"http://www.ubuntu.com/\"\r\nSUPPORT_URL=\"http://help.ubuntu.com/\"\r\nBUG_REPORT_URL=\"http://bugs.launchpad.net/ubuntu/\"\r\n"
+    ],
+    [
+      0.000479,
+      "\u001b]0;robot@robot-io: ~\u0007robot@robot-io:~$ "
+    ],
+    [
+      3.414043,
+      "c"
+    ],
+    [
+      0.000021,
+      "a"
+    ],
+    [
+      0.000094,
+      "t "
+    ],
+    [
+      0.000027,
+      "~/"
+    ],
+    [
+      0.000056,
+      "."
+    ],
+    [
+      0.000096,
+      "b"
+    ],
+    [
+      0.000017,
+      "a"
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000068,
+      "h"
+    ],
+    [
+      0.000044,
+      "r"
+    ],
+    [
+      0.000054,
+      "c"
+    ],
+    [
+      0.869652,
+      "\r\n"
+    ],
+    [
+      0.001628,
+      "# ~/.bashrc: executed by bash(1) for non-login shells.\r\n# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)\r\n# for examples\r\n\r\n# If not running interactively, don't do anything\r\n"
+    ],
+    [
+      0.000295,
+      "case $- in\r\n    *i*) ;;\r\n      *) return;;\r\nesac\r\n\r\n# don't put duplicate lines or lines starting with space in the history.\r\n# See bash(1) for more options\r\nHISTCONTROL=ignoreboth\r\n\r\n# append to the history file, don't overwrite it\r\nshopt -s histappend\r\n\r\n# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)\r\nHISTSIZE=1000\r\nHISTFILESIZE=2000\r\n\r\n# check the window size after each command and, if necessary,\r\n# update the values of LINES and COLUMNS.\r\nshopt -s checkwinsize\r\n\r\n# If set, the pattern \"**\" used in a pathname expansion context will"
+    ],
+    [
+      0.000630,
+      "\r\n# match all files and zero or more directories and subdirectories.\r\n#shopt -s globstar\r\n\r\n# make less more friendly for non-text input files, see lesspipe(1)\r\n[ -x /usr/bin/lesspipe ] \u0026\u0026 eval \"$(SHELL=/bin/sh lesspipe)\"\r\n\r\n# set variable identifying the chroot you work in (used in the prompt below)\r\nif [ -z \"${debian_chroot:-}\" ] \u0026\u0026 [ -r /etc/debian_chroot ]; then\r\n    debian_chroot=$(cat /etc/debian_chroot)\r\nfi\r\n\r\n# set a fancy prompt (non-color, unless we know we \"want\" color)\r\ncase \"$TERM\" in\r\n    xterm-color) color_prompt=yes;;\r\nesac\r\n\r\n# uncomment for a colored prompt, if the terminal has the capability; turned\r\n# off by default to not distract the user: the focus in a terminal window\r\n# should be on the output of commands, not on the prompt\r\n#force_color_prompt=yes\r\n\r\nif [ -n \"$force_color_prompt\" ]; then\r\n    if [ -x /usr/bin/tput ] \u0026\u0026 tput setaf 1 \u003e\u0026/dev/null; then\r\n\t# We have color support; assume it's compliant with Ecma-48\r\n\t# (ISO/IEC-6429). (Lack of such support is extremely rare, and such\r\n\t# a case would tend to support setf rather than setaf.)\r\n\tcolor_prompt=yes\r\n    else\r\n\tcolor_prompt=\r\n    fi\r\nfi\r\n\r\nif [ \"$color_prompt\" = yes ]; then\r\n    PS1='${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ '\r\nelse\r\n    PS1='${debian_chroot:+($debian_chroot)}\\u@\\h:\\w\\$ '\r\nfi\r\nunset color_prompt force_color_prompt\r\n\r\n# If this is an xterm set the title to user@host:dir\r\ncase \"$TERM\" in\r\nxterm*|rxvt*)\r\n    PS1=\"\\[\\e]0;${debian_chroot:+($debian_chroot)}\\u@\\h: \\w\\a\\]$PS1\"\r\n    ;;\r\n*)\r\n    ;;"
+    ],
+    [
+      0.000786,
+      "\r\nesac\r\n\r\n# enable color support of ls and also add handy aliases\r\nif [ -x /usr/bin/dircolors ]; then\r\n    test -r ~/.dircolors \u0026\u0026 eval \"$(dircolors -b ~/.dircolors)\" || eval \"$(dircolors -b)\"\r\n    alias ls='ls --color=auto'\r\n    #alias dir='dir --color=auto'\r\n    #alias vdir='vdir --color=auto'\r\n\r\n    alias grep='grep --color=auto'\r\n    alias fgrep='fgrep --color=auto'\r\n    alias egrep='egrep --color=auto'\r\nfi\r\n\r\n# colored GCC warnings and errors\r\n#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'\r\n\r\n# some more ls aliases\r\nalias ll='ls -alF'\r\nalias la='ls -A'\r\nalias l='ls -CF'\r\n\r\n# Add an \"alert\" alias for long running commands.  Use like so:\r\n#   sleep 10; alert\r\nalias alert='notify-send --urgency=low -i \"$([ $? = 0 ] \u0026\u0026 echo terminal || echo error)\" \"$(history|tail -n1|sed -e '\\''s/^\\s*[0-9]\\+\\s*//;s/[;\u0026|]\\s*alert$//'\\'')\"'\r\n\r\n# Alias definitions.\r\n# You may want to put all your additions into a separate file like\r\n# ~/.bash_aliases, instead of adding them here directly.\r\n# See /usr/share/doc/bash-doc/examples in the bash-doc package.\r\n\r\nif [ -f ~/.bash_aliases ]; then\r\n    . ~/.bash_aliases\r\nfi\r\n\r\n# enable programmable completion features (you don't need to enable\r\n# this, if it's already enabled in /etc/bash.bashrc and /etc/profile\r\n# sources /etc/bash.bashrc).\r\nif ! shopt -oq posix; then\r\n  if [ -f /usr/share/bash-completion/bash_completion ]; then\r\n    . /usr/share/bash-completion/bash_completion\r\n  elif [ -f /etc/bash_completion ]; then\r\n    . /etc/bash_completion\r\n  fi\r\nfi\r\nexport GOROOT=$HOME/go\r\nexport PATH=$PATH:$GOROOT/bin\r\nexport GOPATH=$HOME/go-programs\r\n\r\nif [[ $- == *i* ]]\r\nthen\r\n    bind '\"\\e[A\": history-search-backward'\r\n    bind '\"\\e[B\": history-search-forward'\r\nfi\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b]0;robot@robot-io: ~\u0007robot@robot-io:~$ "
+    ],
+    [
+      3.727767,
+      "ca"
+    ],
+    [
+      0.000024,
+      "t"
+    ],
+    [
+      0.000018,
+      " "
+    ],
+    [
+      0.000020,
+      "/"
+    ],
+    [
+      0.000084,
+      "e"
+    ],
+    [
+      2.924412,
+      "tc/os-release\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      3.088677,
+      "\r\n"
+    ],
+    [
+      0.001673,
+      "NAME=\"Ubuntu\"\r\nVERSION=\"15.04 (Vivid Vervet)\"\r\nID=ubuntu"
+    ],
+    [
+      0.000079,
+      "\r\nID_LIKE=debian\r\nPRETTY_NAME=\"Ubuntu 15.04\"\r\nVERSION_ID=\"15.04\"\r\nHOME_URL=\"http://www.ubuntu.com/\"\r\nSUPPORT_URL=\"http://help.ubuntu.com/\"\r\nBUG_REPORT_URL=\"http://bugs.launchpad.net/ubuntu/\"\r\n"
+    ],
+    [
+      0.000567,
+      "\u001b]0;robot@robot-io: ~\u0007robot@robot-io:~$ "
+    ],
+    [
+      1.332192,
+      "^C"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000221,
+      "\u001b]0;robot@robot-io: ~\u0007robot@robot-io:~$ "
+    ],
+    [
+      1.875626,
+      "exit\r\n"
+    ]
+  ]
+}
