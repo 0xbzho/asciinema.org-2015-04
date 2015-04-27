@@ -1,0 +1,1006 @@
+{
+  "version": 1,
+  "width": 106,
+  "height": 25,
+  "duration": 117.074547,
+  "command": "/bin/bash",
+  "title": "PuPHPet Sample",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0,
+      "\u001b[?1034h\r\r\n\u001b[1m\u001b[30m[\u001b[34m12:30 PM\u001b[30m]-[\u001b[32mjtreminio\u001b[33m@\u001b[32mmacbook\u001b[30m]-[\u001b[35m~/www/puphpet/temp/puphpet-archive\u001b[30m]\u001b[0;33m \u001b[00m\u001b(B\u001b[m\r\r\n\u001b(B\u001b[m$ "
+    ],
+    [
+      2.5,
+      ""
+    ],
+    [
+      0.438584,
+      "v"
+    ],
+    [
+      0.143940,
+      "a"
+    ],
+    [
+      0.143940,
+      "g"
+    ],
+    [
+      0.143940,
+      "r"
+    ],
+    [
+      0.143940,
+      "a"
+    ],
+    [
+      0.143940,
+      "n"
+    ],
+    [
+      0.143940,
+      "t"
+    ],
+    [
+      0.143940,
+      " "
+    ],
+    [
+      0.143940,
+      "u"
+    ],
+    [
+      0.125735,
+      "p"
+    ],
+    [
+      2.5,
+      "\r\n"
+    ],
+    [
+      0.200385,
+      "\u001b[1m==\u003e default: Importing base box 'puphpet/ubuntu1404-x64'...\u001b[0m\r\n"
+    ],
+    [
+      0.392107,
+      "\u001b[1;32m==\u003e default: \r\n==\u003e default:  ____        ____  _   _ ____      _      generated using\r\n==\u003e default: |  _ \\ _   _|  _ \\| | | |  _ \\ ___| |_   ___ ___  _ __ ___\r\n==\u003e default: | |_) | | | | |_) | |_| | |_) / _ \\ __| / __/ _ \\| '_ ` _ \\\r\n==\u003e default: |  __/| |_| |  __/|  _  |  __/  __/ |_ | (_| (_) | | | | | |\r\n==\u003e default: |_|    \\__,_|_|   |_| |_|_|   \\___|\\__(_)___\\___/|_| |_| |_|\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1;32m==\u003e default: \r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: Running provisioner: puppet...\u001b[0m\r\n"
+    ],
+    [
+      0.700347,
+      "\u001b[1m==\u003e default: Running Puppet with site.pp...\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: Compiled catalog for local.puphpet in environment production in 17.40 seconds\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.448722,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Exec[mkdir -p /var/lib/php/session]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000706,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Exec[mkdir -p /var/lib/php/session]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.139289,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Concat::Setup/File[/var/lib/puppet/concat]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.098853,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/File[/var/www]/owner: owner changed 'www-data' to 'root'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.191456,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Resolvconf::File[/run/resolvconf/resolv.conf]/File[/run/resolvconf/resolv.conf]: Filebucketed /run/resolvconf/resolv.conf to puppet with sum 20fd3153e6b8e74f7195f25359c3915d\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001024,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Resolvconf::File[/run/resolvconf/resolv.conf]/File[/run/resolvconf/resolv.conf]/content: content changed '{md5}20fd3153e6b8e74f7195f25359c3915d' to '{md5}2693b61e9f36b072533d54ac8639496e'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.049268,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Concat::Setup/File[/var/lib/puppet/concat/bin]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.169486,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Concat::Setup/File[/var/lib/puppet/concat/bin/concatfragments.sh]/ensure: defined content as '{md5}7bbe7c5fce25a5ddd20415d909ba44fc'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Group[www-user]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Apt::Key[4CBEDD5A]/Exec[54dfe9bb2c937fa96f3b08d0dffede45f05e7e7c]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Mysql::Repo/Apt::Key[E5267A6C]/Exec[919c95b78cd4e604ed6eade6465ebd08cc5cbdff]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.047596,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Group[puppet]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.080824,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/User[nginx]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.055454,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/User[apache]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.056263,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/User[httpd]/ensure: created\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.058561,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/User[www-user]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.045300,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/User[www-data]/shell: shell changed '/usr/sbin/nologin' to '/bin/bash'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.048749,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/User[www-data]/groups: groups changed '' to 'www-data'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.005653,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/File[/var/lib/php/session]/owner: owner changed 'root' to 'www-data'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000858,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/File[/var/lib/php/session]/group: group changed 'root' to 'www-data'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.242002,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/File[/var/www/html/index.html]/owner: owner changed 'www-data' to 'root'\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001992,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/File[/var/www/html/index.html]/mode: mode changed '0774' to '0664'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.623746,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Package::Debian/Apt::Source[nginx]/Apt::Key[Add key: 7BD9BF62 from Apt::Source nginx]/Exec[e407f76c6e349fc397947a4a49260a9320196cb1]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.050816,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Package::Debian/Apt::Source[nginx]/File[nginx.list]/ensure: created\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000886,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Nginx::Package::Debian/Apt::Source[nginx]/File[nginx.list]: Scheduling refresh of Exec[apt_update]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Python::Pip/Exec[Download and install ez_setup]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Python::Pip/Exec[easy_install pip]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Mysql::Repo/Apt::Ppa[ppa:ondrej/mysql-5.6]/Package[software-properties-common]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Apt::Ppa[ppa:pdoes/ppa]/Exec[add-apt-repository-ppa:pdoes/ppa]/returns: executed successfully\u001b[0m\r\n==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Apt::Ppa[ppa:pdoes/ppa]/Exec[add-apt-repository-ppa:pdoes/ppa]: Scheduling refresh of Exec[apt_update]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Php::Repos/Apt::Ppa[ppa:ondrej/php5-5.6]/Exec[add-apt-repository-ppa:ondrej/php5-5.6]/returns: executed successfully\u001b[0m\r\n==\u003e default: \u001b[0;32mInfo: /Stage[main]/Puphpet::Php::Repos/Apt::Ppa[ppa:ondrej/php5-5.6]/Exec[add-apt-repository-ppa:ondrej/php5-5.6]: Scheduling refresh of Exec[apt_update]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Mysql::Repo/Apt::Ppa[ppa:ondrej/mysql-5.6]/Exec[add-apt-repository-ppa:ondrej/mysql-5.6]/returns: executed successfully\u001b[0m\r\n==\u003e default: \u001b[0;32mInfo: /Stage[main]/Puphpet::Mysql::Repo/Apt::Ppa[ppa:ondrej/mysql-5.6]/Exec[add-apt-repository-ppa:ondrej/mysql-5.6]: Scheduling refresh of Exec[apt_update]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Apt::Update/Exec[apt_update]: Triggered 'refresh' from 4 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Python::Preinstall[foo]/Package[llvm]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Package[htop]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Php/Package[php]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001114,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Php/File[php.conf]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.441489,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Ini[error_reporting]/Augeas[CUSTOM/error_reporting: -1]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000782,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Ini[error_reporting]/Augeas[CUSTOM/error_reporting: -1]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.141693,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Ini[session.save_path]/Augeas[CUSTOM/session.save_path: /var/lib/php/session]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000726,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Ini[session.save_path]/Augeas[CUSTOM/session.save_path: /var/lib/php/session]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Php::Pear/Package[php-pear]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.090741,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Ini[display_errors]/Augeas[CUSTOM/display_errors: true]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000908,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Ini[display_errors]/Augeas[CUSTOM/display_errors: true]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Client::Install/Package[mysql_client]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.041231,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Ini[date.timezone]/Augeas[CUSTOM/date.timezone: UTC]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000727,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Ini[date.timezone]/Augeas[CUSTOM/date.timezone: UTC]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.141642,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Ntp::Config/File[/etc/ntp.conf]: Filebucketed /etc/ntp.conf to puppet with sum 32280703a4ba7aa1148c48895097ed07\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003198,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Ntp::Config/File[/etc/ntp.conf]/content: content changed '{md5}32280703a4ba7aa1148c48895097ed07' to '{md5}8638ecae3ed18a7b04191cbb838ce281'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.046611,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Ntp::Config]: Scheduling refresh of Class[Ntp::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.048882,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Ntp::Service]: Scheduling refresh of Service[ntp]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Module[mcrypt]/Php::Module[mcrypt]/Package[PhpModule_mcrypt]/ensure: ensure changed 'purged' to 'present'\u001b[0m\r\n==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Module[mcrypt]/Php::Module[mcrypt]/Package[PhpModule_mcrypt]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.433381,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Fpm::Pool_ini[www/security.limit_extensions: .php]/Augeas[www/security.limit_extensions: .php]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001014,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Fpm::Pool_ini[www/security.limit_extensions: .php]/Augeas[www/security.limit_extensions: .php]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.150812,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Fpm::Ini[pid: /run/php-fpm.pid]/Augeas[global/pid: /run/php-fpm.pid]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000990,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Fpm::Ini[pid: /run/php-fpm.pid]/Augeas[global/pid: /run/php-fpm.pid]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Server::Install/Package[mysql-server]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.696530,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Mysql::Server::Config/File[mysql-config-file]: Filebucketed /etc/mysql/my.cnf to puppet with sum 7424e1ae4a4f3eaf8f1971cf80762978\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.113448,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Server::Config/File[mysql-config-file]/content: content changed '{md5}7424e1ae4a4f3eaf8f1971cf80762978' to '{md5}9c11cbcdd026561ed0af182c5882330e'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.107767,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/File[/var/lib/mysql/tmp]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000851,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/File[/var/lib/mysql/tmp]: Scheduling refresh of Service[mysqld]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Package[vim]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.228650,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Fpm::Ini[error_log: /var/log/php-fpm.log]/Augeas[global/error_log: /var/log/php-fpm.log]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000891,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Fpm::Ini[error_log: /var/log/php-fpm.log]/Augeas[global/error_log: /var/log/php-fpm.log]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Module[mysqlnd]/Php::Module[mysqlnd]/Package[PhpModule_mysqlnd]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000597,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Module[mysqlnd]/Php::Module[mysqlnd]/Package[PhpModule_mysqlnd]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Ntp::Service/Service[ntp]: Triggered 'refresh' from 1 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.147842,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Fpm::Pool_ini[www/listen: 127.0.0.1:9000]/Augeas[www/listen: 127.0.0.1:9000]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000996,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Fpm::Pool_ini[www/listen: 127.0.0.1:9000]/Augeas[www/listen: 127.0.0.1:9000]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Ssl_cert/Package[ssl-cert]/ensure: ensure changed 'purged' to 'latest'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.457732,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000894,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/_.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000674,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001749,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments.concat.out]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000829,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments.concat.out]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.135608,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Apt::Source[nginx]: Scheduling refresh of Exec[apt_get_update_for_nginx]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Package::Debian/Exec[apt_get_update_for_nginx]: Triggered 'refresh' from 1 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Package::Debian/Package[nginx]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.185266,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/var/nginx]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002435,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/var/nginx/client_body_temp]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.150886,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Ini[cgi.fix_pathinfo]/Augeas[CUSTOM/cgi.fix_pathinfo: 1]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000872,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Ini[cgi.fix_pathinfo]/Augeas[CUSTOM/cgi.fix_pathinfo: 1]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.278930,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Fpm::Pool_ini[www/user: www-user]/Augeas[www/user: www-user]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000902,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Fpm::Pool_ini[www/user: www-user]/Augeas[www/user: www-user]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.049911,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments.concat]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001148,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments.concat]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.094906,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/var/nginx/proxy_temp]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Python::Preinstall[foo]/Package[libbz2-dev]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.095722,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000993,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000691,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003122,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001002,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.006221,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Location[nxvl_zqufiyx1jgzn]/Concat::Fragment[fce4168a61c3fc4b39682481e4b6389f]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/500_fce4168a61c3fc4b39682481e4b6389f]/ensure: defined content as '{md5}c302ce78235d0b5cefc5fce48563b360'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000873,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Location[nxvl_zqufiyx1jgzn]/Concat::Fragment[fce4168a61c3fc4b39682481e4b6389f]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/500_fce4168a61c3fc4b39682481e4b6389f]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.051508,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Location[nxvl_863npigsbdmn]/Concat::Fragment[ff7e39004902ee683af9249287c99664]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/500_ff7e39004902ee683af9249287c99664]/ensure: defined content as '{md5}9ddcae96dae279b3d8af403ead15f84a'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000901,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Location[nxvl_863npigsbdmn]/Concat::Fragment[ff7e39004902ee683af9249287c99664]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/500_ff7e39004902ee683af9249287c99664]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.048564,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments.concat]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000855,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments.concat]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003477,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat::Fragment[nxv_eosm5qwetlez-footer]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/699_nxv_eosm5qwetlez-footer]/ensure: defined content as '{md5}0c78f63497e9f1514b641fe785b01611'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000856,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat::Fragment[nxv_eosm5qwetlez-footer]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/699_nxv_eosm5qwetlez-footer]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.050287,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat::Fragment[nxv_eosm5qwetlez-header]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/001_nxv_eosm5qwetlez-header]/ensure: defined content as '{md5}bf427e9042a38a76a7209dd63eb0cd2e'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001123,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat::Fragment[nxv_eosm5qwetlez-header]/File[/var/lib/puppet/concat/_etc_nginx_sites-available_nxv_eosm5qwetlez.conf/fragments/001_nxv_eosm5qwetlez-header]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.283393,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.130113,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/Exec[concat_/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]: Triggered 'refresh' from 6 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.052282,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000869,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/_.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003678,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat::Fragment[_-footer]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/699__-footer]/ensure: defined content as '{md5}0c78f63497e9f1514b641fe785b01611'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001446,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat::Fragment[_-footer]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/699__-footer]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/_.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.048441,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat::Fragment[_-header]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/001__-header]/ensure: defined content as '{md5}3aa06ecdb6ccd22aa35520381ae6e635'\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.001401,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat::Fragment[_-header]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/001__-header]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/_.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.092680,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Mysql::Server::Config]: Scheduling refresh of Class[Mysql::Server::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.048443,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Mysql::Server::Service]: Scheduling refresh of Service[mysqld]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Server::Service/Service[mysqld]: Triggered 'refresh' from 2 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.856892,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Server::Service/File[/var/log/mysql/error.log]/owner: owner changed 'root' to 'mysql'\u001b[0m\r\n==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Server::Service/File[/var/log/mysql/error.log]/group: group changed 'adm' to 'mysql'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.603289,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Server::Root_password/Mysql_user[root@localhost]/password_hash: defined 'password_hash' as '*23AE809DDACAF96AF0FD78ED04B6A265E05AA257'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.007615,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Mysql::Server::Root_password/File[/root/.my.cnf]/ensure: defined content as '{md5}05b30b98677c025f050d983c8c88c3f6'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.165695,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Mysql_user[dbuser@localhost]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.341638,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Mysql_database[dbname]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.501856,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Mysql_grant[dbuser@localhost/*.*]/privileges: privileges changed ['USAGE'] to 'ALL'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.157804,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Mysql_grant[dbuser@localhost/*.*]/options: defined 'options' as 'GRANT'\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Firewall::Linux::Debian/Package[iptables-persistent]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.706040,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Firewall::Pre/Firewall[000 accept all icmp]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.363910,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Firewall::Pre/Firewall[001 accept all to lo interface]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.418551,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Firewall::Pre/Firewall[002 accept related established rules]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.518458,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Firewall::Port[80]/Firewall[100 tcp/80]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.471724,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Firewall::Port[443]/Firewall[100 tcp/443]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.458891,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Firewall::Port[22]/Firewall[100 tcp/22]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Python::Preinstall[foo]/Package[libreadline-dev]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.179801,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Nginx::Config/File[/etc/nginx/nginx.conf]: Filebucketed /etc/nginx/nginx.conf to puppet with sum f7984934bd6cab883e1f33d5129834bb\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003235,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/etc/nginx/nginx.conf]/content: content changed '{md5}f7984934bd6cab883e1f33d5129834bb' to '{md5}79c8a1e29e5bb9aaf34ce6d2491f1beb'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002260,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/etc/nginx/conf.mail.d]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002521,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/etc/nginx/sites-enabled]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002776,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/etc/nginx/sites-available]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.025544,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/ensure: defined content as '{md5}381041cd2d1359b1db342f5a5c384192'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000896,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]/File[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.047276,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Concat[/etc/nginx/sites-available/nxv_eosm5qwetlez.conf]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.005100,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/File[nxv_eosm5qwetlez.conf symlink]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000758,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[nxv_eosm5qwetlez]/File[nxv_eosm5qwetlez.conf symlink]: Scheduling refresh of Service[nginx]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Install/Package[supervisor]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.103498,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/File[/var/log/supervisor]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.006499,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/File[/etc/default/supervisor]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.004157,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/File[/etc/init.d/supervisord]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003935,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/File[/etc/supervisor.d]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.095220,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/File[/var/lib/puppet/concat/_etc_supervisord.conf]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000728,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/File[/var/lib/puppet/concat/_etc_supervisord.conf]: Scheduling refresh of Exec[concat_/etc/supervisord.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002686,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000766,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments]: Scheduling refresh of Exec[concat_/etc/supervisord.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003524,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat::Fragment[supervisord_main]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments/02_supervisord_main]/ensure: defined content as '{md5}ee667fb8f3cea08d885e29755cccce32'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000830,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Supervisord::Config/Concat::Fragment[supervisord_main]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments/02_supervisord_main]: Scheduling refresh of Exec[concat_/etc/supervisord.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.046983,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments.concat.out]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001979,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments.concat]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.050769,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat::Fragment[supervisord_unix]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments/01_supervisord_unix]/ensure: defined content as '{md5}2a371bf6742698a806a2ab9879d60540'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000732,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Supervisord::Config/Concat::Fragment[supervisord_unix]/File[/var/lib/puppet/concat/_etc_supervisord.conf/fragments/01_supervisord_unix]: Scheduling refresh of Exec[concat_/etc/supervisord.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.245868,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/Exec[concat_/etc/supervisord.conf]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.121062,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/Exec[concat_/etc/supervisord.conf]: Triggered 'refresh' from 4 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003590,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Config/Concat[/etc/supervisord.conf]/File[/etc/supervisord.conf]/ensure: defined content as '{md5}b112084fc510d84abb5b378d21e59b4b'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.136348,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Supervisord::Config]: Scheduling refresh of Class[Supervisord::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.045197,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Supervisord::Service]: Scheduling refresh of Service[supervisord]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Supervisord::Service/Service[supervisord]/ensure: ensure changed 'stopped' to 'running'\u001b[0m\r\n==\u003e default: \u001b[0;32mInfo: /Stage[main]/Supervisord::Service/Service[supervisord]: Unscheduling refresh on Service[supervisord]\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.190618,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Location[0]/Concat::Fragment[46e313d83b3a2eb96849fe05ae393e79]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/500_46e313d83b3a2eb96849fe05ae393e79]/ensure: defined content as '{md5}aff501c9d3ee9f102b283167b3061f41'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000800,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Location[0]/Concat::Fragment[46e313d83b3a2eb96849fe05ae393e79]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/500_46e313d83b3a2eb96849fe05ae393e79]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/_.conf]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Module[intl]/Php::Module[intl]/Package[PhpModule_intl]/ensure: ensure changed 'purged' to 'present'\u001b[0m\r\n==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Puphpet::Php::Module[intl]/Php::Module[intl]/Package[PhpModule_intl]: Scheduling refresh of Service[php5-fpm]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.638059,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Service[php5-fpm]: Triggered 'refresh' from 14 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Swap_file/Exec[Create swap file]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.466025,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Swap_file/Exec[Attach swap file]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.190042,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/User[vagrant]/groups: groups changed 'adm,cdrom,sudo,dip,plugdev,lpadmin,sambashare' to 'adm,cdrom,dip,lpadmin,plugdev,rvm,sambashare,sudo,www-data,www-user'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.308937,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Exec[dotfiles]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.047717,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Pyenv/Vcsrepo[/usr/local/pyenv]/ensure: Creating repository from present\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Pyenv/Vcsrepo[/usr/local/pyenv]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.095097,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Pyenv/File[/usr/local/bin/pyenv]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Composer/Exec[download_composer]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.029227,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Composer/File[/usr/local/bin/composer]/ensure: defined content as '{md5}dbc47b0b94fd8de43bbe5bcf0e6d5554'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.103735,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Location[nxvl_863npigsbdmn]/File[/etc/nginx/fastcgi_params]: Filebucketed /etc/nginx/fastcgi_params to puppet with sum f597fb54a6fa1c9a9678dd3ae377d385\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003027,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Location[nxvl_863npigsbdmn]/File[/etc/nginx/fastcgi_params]/content: content changed '{md5}f597fb54a6fa1c9a9678dd3ae377d385' to '{md5}32c82f7c10b10ff0942098fb74670c6f'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000921,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Location[nxvl_863npigsbdmn]/File[/etc/nginx/fastcgi_params]/mode: mode changed '0644' to '0770'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000973,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Location[nxvl_863npigsbdmn]/File[/etc/nginx/fastcgi_params]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000852,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Location[nxvl_863npigsbdmn]/File[/etc/nginx/fastcgi_params]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.474033,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Puphpet::Firewall::Post/Firewall[999 drop all]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.263232,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Locales/File[/var/lib/locales/supported.d/local]: Filebucketed /var/lib/locales/supported.d/local to puppet with sum dbf744b4259747572fcd903400f2a1e3\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002610,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Locales/File[/var/lib/locales/supported.d/local]/content: content changed '{md5}dbf744b4259747572fcd903400f2a1e3' to '{md5}6f16b2f41a279eb97a47490526e634b3'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000860,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Locales/File[/var/lib/locales/supported.d/local]: Scheduling refresh of Exec[/usr/sbin/locale-gen]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000784,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Locales/File[/var/lib/locales/supported.d/local]: Scheduling refresh of Exec[/usr/sbin/update-locale]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003886,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Locales/File[/etc/default/locale]: Filebucketed /etc/default/locale to puppet with sum 4f3340e7dc7c115f8463a4769d09b171\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002633,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Locales/File[/etc/default/locale]/content: content changed '{md5}4f3340e7dc7c115f8463a4769d09b171' to '{md5}e2037a417f29b0354091c3f550323efd'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000890,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Locales/File[/etc/default/locale]: Scheduling refresh of Exec[/usr/sbin/locale-gen]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000795,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Locales/File[/etc/default/locale]: Scheduling refresh of Exec[/usr/sbin/update-locale]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.825859,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Locales/Exec[/usr/sbin/locale-gen]: Triggered 'refresh' from 2 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.072195,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Locales/Exec[/usr/sbin/update-locale]: Triggered 'refresh' from 2 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.055336,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/etc/nginx/conf.d/proxy.conf]/ensure: defined content as '{md5}3f0422a2f6e1c5727502ac59d1ffab82'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003442,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Nginx::Config/File[/etc/nginx/conf.d/example_ssl.conf]: Filebucketed /etc/nginx/conf.d/example_ssl.conf to puppet with sum 84724f296c7056157d531d6b1215b507\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000955,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/etc/nginx/conf.d/example_ssl.conf]/ensure: removed\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.096298,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Location[1]/Concat::Fragment[6bba1c0e224da60a4b71285164cd3b6f]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/500_6bba1c0e224da60a4b71285164cd3b6f]/ensure: defined content as '{md5}32e3047170ec5d225d04a0d837da998e'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000810,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Location[1]/Concat::Fragment[6bba1c0e224da60a4b71285164cd3b6f]/File[/var/lib/puppet/concat/_etc_nginx_sites-available__.conf/fragments/500_6bba1c0e224da60a4b71285164cd3b6f]: Scheduling refresh of Exec[concat_/etc/nginx/sites-available/_.conf]\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.639651,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/Exec[concat_/etc/nginx/sites-available/_.conf]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.124636,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/Exec[concat_/etc/nginx/sites-available/_.conf]: Triggered 'refresh' from 6 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003929,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/etc/nginx/sites-available/_.conf]/ensure: defined content as '{md5}a08bc2e146ba3849d0dd2a5ba2914d6c'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000823,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/Concat[/etc/nginx/sites-available/_.conf]/File[/etc/nginx/sites-available/_.conf]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.045628,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Concat[/etc/nginx/sites-available/_.conf]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003951,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Nginx::Resource::Vhost[_]/File[_.conf symlink]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000727,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Main/Nginx::Resource::Vhost[_]/File[_.conf symlink]: Scheduling refresh of Service[nginx]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.051293,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: /Stage[main]/Nginx::Config/File[/etc/nginx/conf.d/default.conf]: Filebucketed /etc/nginx/conf.d/default.conf to puppet with sum 4dce452bf8dbb01f278ec0ea9ba6cf40\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000929,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Config/File[/etc/nginx/conf.d/default.conf]/ensure: removed\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.045456,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Nginx::Config]: Scheduling refresh of Class[Nginx::Service]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.046713,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Class[Nginx::Service]: Scheduling refresh of Service[nginx]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.404432,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Nginx::Service/Service[nginx]: Triggered 'refresh' from 3 events\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.096920,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Ini[cgi.fix_pathinfo]/File[/etc/php5/fpm/conf.d/zzzz_custom.ini]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001083,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Ini[cgi.fix_pathinfo]/File[/etc/php5/cli/conf.d/zzzz_custom.ini]/ensure: created\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Php::Devel/Package[php5-dev]/ensure: ensure changed 'purged' to 'present'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1m==\u003e default: \u001b[mNotice: /Stage[main]/Main/Puphpet::Php::Pecl[pecl_http]/Php::Pecl::Module[pecl_http]/Exec[pecl-pecl_http]/returns: executed successfully\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.860154,
+      "\u001b[1m==\u003e default: \u001b[0;32mInfo: Creating state file /var/lib/puppet/state/state.yaml\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.024707,
+      "\u001b[1m==\u003e default: \u001b[mNotice: Finished catalog run in 217.14 seconds\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.013695,
+      "\u001b[1;32m==\u003e default:                                           _\r\n==\u003e default:                                          / )\r\n==\u003e default:                                     .--.; |    _...,-\"\"\"-,\r\n==\u003e default:                      .-\"\"-.-\"\"\"\"-. /   _`'-._.'   /`      \\\r\n==\u003e default:                     /'     \\      \\|  (/'-._/     )        ;\r\n==\u003e default:             .-\"\"\"\"-;       (       '--' /-'    _           |\r\n==\u003e default:           .'       |        ;    e     /       a  ,       ;\r\n==\u003e default:          / "
+    ],
+    [
+      0.000065,
+      "         \\       |      __.'`-.__,    ;       /\r\n==\u003e default:         /            `._     ;    .-'     `--.,__.\\    /`\r\n==\u003e default:        //|              \\     \\,-'                /\\_.'\r\n==\u003e default:       // |               `;.___\u003e              /,-'.\r\n==\u003e default:     /`|  /                |`\\      _..---\\    |    \\\r\n==\u003e default:     |/  /     _,.-----\\   |  \\   /`|      |   |\\    \\\r\n==\u003e default:        /    .;   |    |   |   \\ /  |      |   | \\    )\r\n==\u003e default:       |    / |   \\    /   |\\..' \\   \\     |  "
+    ],
+    [
+      0.000009,
+      " \\  \\..'\r\n==\u003e default:    jgs \\../  \\.../    \\.../ \\.../---'     \\.../\r\n==\u003e default: \r\n==\u003e default: \r\n==\u003e default:           READ ME FOR SOME IMPORTANT INFORMATION!\r\n==\u003e default:           =======================================\r\n==\u003e default: \r\n==\u003e default: If Puppet did not blow up (you do not see a sea of red\r\n==\u003e default: above), then your VM was generated successfully!\r\n==\u003e default: \r\n==\u003e default: * A unique private key was generated for you! It is located\r\n==\u003e default:   at \"puphpet/files/dot/ssh/id_rsa\". If you "
+    ],
+    [
+      0.000224,
+      "are on Windows,\r\n==\u003e default:   a PuTTY-friendly key was also generated at same location\r\n==\u003e default:   with a \".ppk\" extension.\r\n==\u003e default: \r\n==\u003e default: * If you want to use your own private key for future\r\n==\u003e default:   provisions, overwrite the generated key above with your\r\n==\u003e default:   own. Make sure to follow the naming pattern, and include a\r\n==\u003e default:   \".pub\" public key.\r\n==\u003e default: \r\n==\u003e default: * If you wish to add packages, modules, Apache/Nginx vhosts,\r\n==\u003e default:   or anything else, open"
+    ],
+    [
+      0.000015,
+      " up \"puphpet/config.yaml\" and make\r\n==\u003e default:   changes within! Some things will have random strings like\r\n==\u003e default:   \"DIdXRs2OI2LJ\" - you must create a random string as well!\r\n==\u003e default:   To do so, please apply face to keyboard and roll.\r\n==\u003e default: \r\n==\u003e default: * If you change \"puphpet/config.yaml\", simply run\r\n==\u003e default:   \"$ vagrant provision\" and your VM will be updated with the\r\n==\u003e default:   changes you requested!\r\n==\u003e default: \r\n==\u003e default: Did something go wrong? Don't worry! I can (maybe)"
+    ],
+    [
+      0.000165,
+      " help!\r\n==\u003e default: Please go to our Github issues page at:\r\n==\u003e default: \r\n==\u003e default: https://github.com/puphpet/puphpet/issues\r\n==\u003e default: \r\n==\u003e default: and search for your problem. If you do not find your problem\r\n==\u003e default: answered, open a new ticket!\r\n==\u003e default: \r\n==\u003e default: ------------------------------------------------------------\r\n==\u003e default: PLEASE REMEMBER TO INCLUDE THE CONTENTS OF YOUR\r\n==\u003e default: \"puphpet/config.yaml\" FILE.\r\n==\u003e default: --------------------------------------------------"
+    ],
+    [
+      0.000012,
+      "----------\r\n==\u003e default: \r\n==\u003e default: Make sure to xxx out any potential API keys or passwords\r\n==\u003e default: that you do not want others to see!\r\n==\u003e default: \r\n==\u003e default: Happy programming!\r\n==\u003e default:                                              - Juan Treminio\r\n==\u003e default: \r\n==\u003e default: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r\n==\u003e default: |  ____                _      _    _                    _  |\r\n==\u003e default: | |  _ \\ ___  __ _  __| |    / \\  | |__   _____   _____| | |\r\n==\u003e default:"
+    ],
+    [
+      0.000018,
+      " | | |_) / _ \\/ _` |/ _` |   / _ \\ | '_ \\ / _ \\ \\ / / _ \\ | |\r\n==\u003e default: | |  _ \u003c  __/ (_| | (_| |  / ___ \\| |_) | (_) \\ V /  __/_| |\r\n==\u003e default: | |_| \\_\\___|\\__,_|\\__,_| /_/   \\_\\_.__/ \\___/ \\_/ \\___(_) |\r\n==\u003e default: |                                                          |\r\n==\u003e default: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\r\r\n\u001b[1m\u001b[30m[\u001b[34m12:37 PM\u001b[30m]-[\u001b[32mjtreminio\u001b[33m@\u001b[32mmacbook\u001b[30m]-[\u001b[35m~/www/puphpet/temp/puphpet-archive\u001b[30m]\u001b[0;33m \u001b[00m\u001b(B\u001b[m\r\r\n\u001b(B\u001b[m$ "
+    ]
+  ]
+}
