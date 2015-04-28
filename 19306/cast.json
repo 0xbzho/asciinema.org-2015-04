@@ -1,0 +1,1134 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 23,
+  "duration": 66.784296,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.146706,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000269,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m "
+    ],
+    [
+      0.000046,
+      "\u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:06\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      1.146756,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.922204,
+      "\u0008\u001b[24m\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.107997,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.107866,
+      "\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.135069,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ml\u001b[0m\u001b[32me\u001b[0m\u001b[32ma\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.110285,
+      "\r\r\n"
+    ],
+    [
+      0.014147,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000306,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000067,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m "
+    ],
+    [
+      0.000018,
+      "\u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:06\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      0.533611,
+      "\u001b[4m\u001b[33mh\u001b[24m\u001b[39m"
+    ],
+    [
+      0.172735,
+      "\u0008\u001b[4m\u001b[33mh\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.230009,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31mh\u001b[24m\u001b[1m\u001b[31me\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.192976,
+      "\u0008\u001b[1m\u001b[31ml\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.210005,
+      "\u0008\u001b[1m\u001b[31ml\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.345755,
+      "\u0008\u0008\u001b[1m\u001b[31ml\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.501194,
+      "\u0008\u0008\u001b[1m\u001b[31ml\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.084462,
+      "\u0008\u0008\u0008\u001b[0m\u001b[4m\u001b[33mh\u001b[0m\u001b[4m\u001b[33me\u001b[24m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.084676,
+      "\u0008\u0008\u001b[4m\u001b[33mh\u001b[24m\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.081564,
+      "\u0008\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.217471,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.115838,
+      "\u0008\u001b[4m\u001b[33me\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.155881,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31me\u001b[24m\u001b[1m\u001b[31mc\u001b[1m\u001b[31mh\u001b[0m\u001b[39m"
+    ],
+    [
+      0.350489,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mc\u001b[0m\u001b[32mh\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.322063,
+      " "
+    ],
+    [
+      0.287890,
+      "\u001b[4m\u001b[33mh\u001b[24m\u001b[39m"
+    ],
+    [
+      0.152669,
+      "\u0008\u001b[4m\u001b[33mh\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.190169,
+      "\u0008\u0008\u001b[24m\u001b[39mh\u001b[24m\u001b[39mel"
+    ],
+    [
+      0.164711,
+      "l"
+    ],
+    [
+      0.209015,
+      "o"
+    ],
+    [
+      0.323056,
+      "\r\r\n"
+    ],
+    [
+      0.000126,
+      "hello\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000108,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m "
+    ],
+    [
+      0.000028,
+      "\u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:06\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      0.970895,
+      "\u001b[4m\u001b[33mb\u001b[24m\u001b[39m"
+    ],
+    [
+      0.107761,
+      "\u0008\u001b[4m\u001b[33mb\u001b[4m\u001b[33mr\u001b[24m\u001b[39m"
+    ],
+    [
+      0.131968,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31mb\u001b[24m\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.067566,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32mb\u001b[0m\u001b[32mr\u001b[0m\u001b[32me\u001b[32mw\u001b[39m"
+    ],
+    [
+      0.140126,
+      " "
+    ],
+    [
+      0.198669,
+      "\u001b[4m\u001b[33ml\u001b[24m\u001b[39m"
+    ],
+    [
+      0.325885,
+      "\u0008\u001b[4m\u001b[33ml\u001b[4m\u001b[33mi\u001b[24m\u001b[39m"
+    ],
+    [
+      0.115916,
+      "\u0008\u0008\u001b[24m\u001b[39ml\u001b[24m\u001b[39mis"
+    ],
+    [
+      0.092025,
+      "t"
+    ],
+    [
+      0.167949,
+      "\r\r\n"
+    ],
+    [
+      0.181376,
+      "arp-scan\t\t\tlibusb\r\nasciinema\t\t\tlibusb-compat\r\nbrew-cask\t\t\tlittle-cms2\r\ncloog\t\t\t\tmakedepend\r\ncmake\t\t\t\tmpfr\r\ncmatrix\t\t\t\tnano\r\ncowsay\t\t\t\tncurses\r\n"
+    ],
+    [
+      0.000018,
+      "dtrx\t\t\t\tnmap\r\nfiglet\t\t\t\topenssl\r\nfontconfig\t\t\tp7zip\r\nfortune\t\t\t\tpcre\r\nfreetype\t\t\tpkg-config\r\ngcc\t\t\t\tpython\r\ngd\t\t\t\tpython3\r\ngdbm\t\t\t\treadline\r\ngettext\t\t\t\tsane-backends\r\nghc\t\t\t\tscreenfetch\r\ngmp\t\t\t\tsqlite\r\ngnupg\t\t\t\tsqlmap\r\n"
+    ],
+    [
+      0.000018,
+      "htop-osx\t\t\ttcpdump\r\niftop\t\t\t\ttoilet\r\nisl\t\t\t\ttor\r\njasper\t\t\t\tunrar\r\njavarepl\t\t\tunzip\r\njpeg\t\t\t\tvim\r\n"
+    ],
+    [
+      0.000005,
+      "libcaca\t\t\t\twget\r\nlibevent\t\t\twine\r\n"
+    ],
+    [
+      0.000005,
+      "libgphoto2\t\t\txz\r\n"
+    ],
+    [
+      0.000005,
+      "libicns\t\t\t\tyoutube-dl\r\nlibmpc\t\t\t\tzsh\r\n"
+    ],
+    [
+      0.000004,
+      "libpng\t\t\t\tzsh-completions\r\n"
+    ],
+    [
+      0.000005,
+      "libtiff\t\t\t\tzsh-history-substring-search\r\n"
+    ],
+    [
+      0.000020,
+      "libtool\t\t\t\tzsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000440,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000148,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m \u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:06\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      3.083075,
+      "\u001b[4m\u001b[33mb\u001b[24m\u001b[39m"
+    ],
+    [
+      0.211868,
+      "\u0008\u001b[4m\u001b[33mb\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.131971,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31mb\u001b[24m\u001b[1m\u001b[31me\u001b[1m\u001b[31mw\u001b[0m\u001b[39m"
+    ],
+    [
+      0.433703,
+      "\u0008\u0008\u0008\u001b[0m\u001b[4m\u001b[33mb\u001b[0m\u001b[4m\u001b[33me\u001b[24m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.203362,
+      "\u0008\u0008\u001b[4m\u001b[33mb\u001b[24m\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.330971,
+      "\u0008\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      1.238295,
+      "\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.159162,
+      "\u0008\u001b[24m\u001b[32ms\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.108486,
+      "\u0008\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.157355,
+      "\u0008\u0008\u0008\u001b[0m\u001b[4m\u001b[32ms\u001b[0m\u001b[4m\u001b[32mu\u001b[0m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.134985,
+      " "
+    ],
+    [
+      0.774908,
+      "\u001b[4m\u001b[33mh\u001b[24m\u001b[39m"
+    ],
+    [
+      0.071751,
+      "\u0008\u001b[4m\u001b[33mh\u001b[4m\u001b[33mt\u001b[24m\u001b[39m"
+    ],
+    [
+      0.120171,
+      "\u0008\u001b[4m\u001b[33mt\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.140483,
+      "\u0008\u0008\u0008\u001b[24m\u001b[32mh\u001b[24m\u001b[32mt\u001b[24m\u001b[32mo\u001b[32mp\u001b[39m"
+    ],
+    [
+      0.319229,
+      "\r\r\n"
+    ],
+    [
+      0.026882,
+      "Password:"
+    ],
+    [
+      2.619718,
+      "\r\n"
+    ],
+    [
+      0.141409,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000025,
+      "\u001b[?25l"
+    ],
+    [
+      0.001246,
+      "\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.132812,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||\u001b[31m|||||\u001b(B\u001b[0;1m\u001b[30m\u001b[15X\u001b[2;32H33.3%\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m236\u001b(B\u001b[0m\u001b[36m total, \u001b(B\u001b[0;1m\u001b[32m12\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[19X\u001b[3;32H18.2%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m1.25 \u001b[39m\u001b(B\u001b[m1.36 \u001b(B\u001b[0;1m1.58 \u001b[4;3H\u001b(B\u001b[0m\u001b[36m3  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[17X\u001b[4;32H25.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m2 days, 08:36:17\u001b[5;3H\u001b(B\u001b[0m\u001b[36m4  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[23X\u001b[5;33H9.1%\u001b[39m]\u001b[6;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||||||||||||||||3147/\u001b[34m4096MB\u001b[39m\u001b(B\u001b[0;1m]\u001b[7;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m|||||\u001b(B\u001b[0;1m\u001b[30m\u001b[15X\u001b[7;27H142/1024MB\u001b[39m]\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER     PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[10d\u001b[30m\u001b[46m   71 root      37   0 2455M  8392     0 R 20.0  0.2  0:01.03 /usr/libexec/opend\u001b[11;4H\u001b["
+    ],
+    [
+      0.000048,
+      "39;49m\u001b(B\u001b[m38 root\u001b[18G4   0 \u001b[36m2417M  1\u001b[39m\u001b(B\u001b[m284     0 C 10.0  0.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d32349 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m424     0 S  8.0  0.6  0:00.11 /Applications/Util\u001b[13;1H69796 root\u001b[17G31   0 \u001b[36m2395M  1\u001b[39m\u001b(B\u001b[m460     0 C  8.0  0.0  0:00.00 htop\u001b[14;3H138 root\u001b[17G79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  1.0  1.0  0:26.12 /System/Library/Fr\u001b[15;1H23131 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 1.0  0.8  0:00.12 /System/Library/Fr\u001b[16;1H69795 root\u001b[17G31   0 \u001b[36m2412M  3\u001b[39m\u001b(B\u001b[m092     0 S  1.0  0.1  0:00.00 sudo htop\u001b[17;5H1 root\u001b[17G31   0 \u001b[36m2436M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\u001b[18;4H37 root\u001b[17G63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserE\u001b[19;4H40 root\u001b[17G31   0 \u001b[36m2445M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\u001b[20;4H41"
+    ],
+    [
+      0.000128,
+      " root\u001b[17G50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Fr\u001b[21;4H43 root\u001b[17G63   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S  0.0  0.0  0:00.01 /usr/libexec/therm\u001b[22;4H44 root\u001b[17G37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/Co\u001b[23;1HF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mInvert\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.526046,
+      "\u001b[2;8H\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m        \u001b[2;32H \u001b[3;8H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    \u001b[3;32H 1.3\u001b[3;60H3\u001b[4;7H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m       \u001b[4;32H 1.3\u001b[4;66H\u001b[36m9\u001b[5;7H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m  \u001b[5;33H0.7\u001b[6;29H\u001b(B\u001b[0m\u001b[32m6\u001b[10;44H\u001b[30m\u001b[46m \u001b[11d\u0008\u001b[39;49m\u001b(B\u001b[m \u001b[12;33H48\u001b[12;45H0\u001b[13;33H88\u001b[13;45H0\u001b[14d\u00080\u001b[15d\u00080\u001b[16d\u00080\u001b[H"
+    ],
+    [
+      0.447990,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10;2H\u001b[30m\u001b[46mroot      37   0 2455M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirect\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities\u001b[13;1H\u001b[5P\u001b[14d root      79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Framewo\u001b[15;1H \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Framewo\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d root      63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventA\u001b[19;1H\u001b[5P\u001b[20d root      50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Framewo\u001b[21;2Hroot      63   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S  0.0\u001b[21;51H:00.01 /usr/libexec/thermald\u001b[K\r\u001b[22d root      37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreSer\u001b[1;1H"
+    ],
+    [
+      0.501116,
+      "\u001b[4;65H\u001b(B\u001b[0;1m\u001b[36m20\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m\u001b[5P\u001b[10;6H\u001b[30m\u001b[46m\u001b[1K 37   0 2455M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\u001b[K\u001b[11;7H\u001b[39;49m\u001b(B\u001b[m\u001b[1K\r\u001b[5P\u001b[12d\u001b(B\u001b[0;1m\u001b[30mnnes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Term\u001b[13;6H\u001b[1K\r\u001b[5P\u001b[14;6H\u001b[1K 79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/A\u001b[15;1H\u001b(B\u001b[0;1m\u001b[30mnnes \u001b[39m\u001b(B\u001b[m 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/W\u001b[16;6H\u001b[1K\r\u001b[5P\u001b[17;6H\u001b[1K\r\u001b[5P\u001b[18;6H\u001b[1K 63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent\u001b[K\u001b[19;6H\u001b[1K\r\u001b[5P\u001b[20;6H\u001b[1K 50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/C\u001b[21;6H\u001b[1K\r\u001b[5P\u001b[22;6H\u001b[1K 37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices\u001b[1;1H"
+    ],
+    [
+      0.084291,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.\u001b[13;1H\u001b[5P\u001b[14d 79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/Applic\u001b[15;1H 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d 63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (Syst\u001b[19;1H\u001b[5P\u001b[20d 50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreSe\u001b[21;1H\u001b[5P\u001b[22d 37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/back\u001b[1;1H"
+    ],
+    [
+      0.084402,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d 0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/C\u001b[13;1H\u001b[5P\u001b[14d 0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/Application\u001b[15;2H0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.fram\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d 0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (System)\u001b[K\r\u001b[19d\u001b[5P\u001b[20d 0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServic\r\u001b[21d\u001b[5P\u001b[22d 0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.b\u001b[1;1H"
+    ],
+    [
+      0.084509,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d\u001b[36m75M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Conten\u001b[13;1H\u001b[5P\u001b[14d\u001b[36m09M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServi\u001b[15;1H\u001b[36m81M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d\u001b[36m49M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.fra\u001b[21;1H\u001b[5P\u001b[22d\u001b[36m71M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle\u001b[1;1H"
+    ],
+    [
+      0.084431,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d\u001b[36m6\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/Ma\u001b[13;1H\u001b[5P\u001b[14d\u001b[36m2\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.f\u001b[15;1H\u001b[36m1\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Vers\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d\u001b[36m3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framewor\u001b[21;1H\u001b[5P\u001b[22d\u001b[36m4\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Cont\u001b[1;1H"
+    ],
+    [
+      0.084440,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d    0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/T\u001b[13;1H\u001b[5P\u001b[14d    0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.framew\u001b[15;1H    0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d    0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Ve\r\u001b[21d\u001b[5P\u001b[22d    0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/\u001b[1;1H"
+    ],
+    [
+      0.084437,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/Termin\u001b[13;1H\u001b[5P\u001b[14d S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.framework/F\u001b[15;2H\u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPC\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Versions\u001b[21;1H\u001b[5P\u001b[22d S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/Resou\u001b[1;1H"
+    ],
+    [
+      0.084668,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal\u001b[K\r\u001b[13d\u001b[5P\u001b[14d.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.framework/Framew\u001b[15;1H.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServi\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Fr\u001b[21;1H\u001b[5P\u001b[22d.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/Resources/\u001b[1;1H"
+    ],
+    [
+      0.084220,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d\u001b[5P\u001b[13d\u001b[5P\u001b[14;5H0:26.12 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/\u001b[15;2H8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/c\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Framewo\u001b[21;1H\u001b[5P\u001b[22d.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd\u001b[K\u001b[H"
+    ],
+    [
+      0.084513,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d\u001b[5P\u001b[13d\u001b[5P\u001b[14d:26.12 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreG\u001b[15;1H:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.ap\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d:01.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/F\u001b[21;1H\u001b[5P\u001b[22d\u001b[5P\u001b[H"
+    ],
+    [
+      0.084409,
+      "\u001b[9d\u001b[30m\u001b[42m\u001b[5P\u001b[10d\u001b[30m\u001b[46m\u001b[5P\u001b[11d\u001b[39;49m\u001b(B\u001b[m\u001b[5P\u001b[12d\u001b[5P\u001b[13d\u001b[5P\u001b[14d2 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphi\u001b[15;1H2 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.W\u001b[16;1H\u001b[5P\u001b[17d\u001b[5P\u001b[18d\u001b[5P\u001b[19d\u001b[5P\u001b[20d3 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEven\u001b[21;1H\u001b[5P\u001b[22d\u001b[5P\u001b[H"
+    ],
+    [
+      0.368387,
+      "\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m1\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42mTIME+  Command\r\u001b[10d\u001b[30m\u001b[46m:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m:00.34 /usr/sbin/syslogd\r\u001b[12d:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal\r\u001b[13d:00.00 htop\r\u001b[14d:26.12 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreG\u001b[15;1H:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.ap\u001b[16;1H:00.00 sudo htop\r\u001b[17d:01.23 /sbin/launchd\r\u001b[18d:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d:00.07 /usr/libexec/kextd\r\u001b[20d:01.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/F\u001b[21;1H:00.01 /usr/libexec/thermald\r\u001b[22d:02.39 /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd\u001b[H"
+    ],
+    [
+      0.507802,
+      "\u001b[9d\u001b[30m\u001b[42mM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal\r\u001b[13d.0  0:00.00 htop\r\u001b[14d.0  0:26.12 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/\u001b[15;1H.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/c\u001b[16;1H.1  0:00.00 sudo htop\r\u001b[17d.3  0:01.23 /sbin/launchd\r\u001b[18d.2  0:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d.1  0:00.07 /usr/libexec/kextd\r\u001b[20d.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Framewo\u001b[21;1H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd\u001b[H"
+    ],
+    [
+      1.038090,
+      "\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m2\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[46mU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m.0  0.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m.0  0.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal\r\u001b[13d.0  0.0  0:00.00 htop\u001b[14;5H1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.framework/Framew\u001b[15;2H0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServi\u001b[16;1H.0  0.1  0:00.00 sudo htop\r\u001b[17d.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d.0  0.2  0:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d.0  0.1  0:00.07 /usr/libexec/kextd\r\u001b[20d.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Fr\u001b[21;1H.0  0.0  0:00.01 /usr/libexec/thermald\r\u001b[22d.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/Resources/\u001b[1;1H"
+    ],
+    [
+      0.501306,
+      "\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m3\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m C\u001b[11;11H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/Termin\u001b[13;1H C\u001b[13;11H.0  0:00.00 htop\r\u001b[14d S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.framework/F\u001b[15;1H \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPC\u001b[16;1H S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d S  0.0  0.1  0:00.07 /usr/libexec/kextd\r\u001b[20d S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Versions\u001b[21;1H S\u001b[21;11H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/Resou\u001b[1;1H"
+    ],
+    [
+      0.084431,
+      "\u001b[3;60H\u001b(B\u001b[0;1m\u001b[30m1 \u001b[39m\u001b(B\u001b[m1.35 \u001b(B\u001b[0;1m1.57\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m  SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m    0 R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m    0 C\u001b[11;16H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d    0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/MacOS/T\u001b[13;1H    0 C\u001b[13;16H.0  0:00.00 htop\r\u001b[14d    0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.framew\u001b[15;2H   0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/\u001b[16;1H    0 S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d    0 S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d    0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d    0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\r\u001b[20d    0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framework/Ver\u001b[21;1H    0 S\u001b[21;16H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d    0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Contents/\u001b[1;1H"
+    ],
+    [
+      0.084554,
+      "\u001b[9d\u001b[30m\u001b[42m RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b[36m1\u001b[39m\u001b(B\u001b[m284     0 C\u001b[11;21H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d\u001b[36m6\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Contents/Ma\u001b[13;1H\u001b[36m1\u001b[39m\u001b(B\u001b[m488     0 C\u001b[13;21H.0  0:00.00 htop\r\u001b[14d\u001b[36m2\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServices.f\u001b[15;1H\u001b[36m1\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework/Vers\u001b[16;1H\u001b[36m3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d\u001b[36m2\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d\u001b[36m7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d\u001b[36m2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\r\u001b[20d\u001b[36m3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreServices.framewo\r\u001b[21d\u001b[36m1\u001b[39m\u001b(B\u001b"
+    ],
+    [
+      0.000023,
+      "[m652     0 S\u001b[21;21H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d\u001b[36m4\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle/Cont\u001b[1;1H"
+    ],
+    [
+      0.084489,
+      "\u001b[9d\u001b[30m\u001b[42mIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m55M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b[36m17M  1\u001b[39m\u001b(B\u001b[m284     0 C\u001b[11;26H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d\u001b[36m75M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/Conten\u001b[13;1H\u001b[36m95M  1\u001b[39m\u001b(B\u001b[m488     0 C\u001b[13;26H.0  0:00.00 htop\r\u001b[14d\u001b[36m09M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/ApplicationServi\u001b[15;1H\u001b[36m81M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.framework\u001b[16;1H\u001b[36m12M  3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d\u001b[36m36M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d\u001b[36m43M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d\u001b[36m45M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\r\u001b[20d\u001b[36m49M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Framewo"
+    ],
+    [
+      0.000038,
+      "rks/CoreServices.fra\u001b[21;1H\u001b[36m11M  1\u001b[39m\u001b(B\u001b[m652     0 S\u001b[21;26H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d\u001b[36m71M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.bundle\u001b[1;1H"
+    ],
+    [
+      0.084317,
+      "\u001b[9d\u001b[30m\u001b[42mNI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m 0 2455M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m 0 \u001b[36m2417M  1\u001b[39m\u001b(B\u001b[m284     0 C\u001b[11;31H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d 0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.app/C\u001b[13;1H 0 \u001b[36m2395M  1\u001b[39m\u001b(B\u001b[m488     0 C\u001b[13;31H.0  0:00.00 htop\r\u001b[14d 0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/Application\u001b[15;1H 0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit.fram\u001b[16;1H 0 \u001b[36m2412M  3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d 0 \u001b[36m2436M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d 0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (System)\r\u001b[19d 0 \u001b[36m2445M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\r\u001b[20d 0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856"
+    ],
+    [
+      0.000015,
+      "     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreService\u001b[21;1H 0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S\u001b[21;31H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d 0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/backupd.b\u001b[1;1H"
+    ],
+    [
+      0.084501,
+      "\u001b[9d\u001b[30m\u001b[42mPRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[10d\u001b[30m\u001b[46m 37   0 2455M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m  4   0 \u001b[36m2417M  1\u001b[39m\u001b(B\u001b[m284     0 C\u001b[11;36H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Terminal.\u001b[13;1H 31   0 \u001b[36m2395M  1\u001b[39m\u001b(B\u001b[m488     0 C\u001b[13;36H.0  0:00.00 htop\r\u001b[14d 79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/Applic\u001b[15;2H63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/WebKit\u001b[16;1H 31   0 \u001b[36m2412M  3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d 31   0 \u001b[36m2436M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d 63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserEventAgent (Syst\u001b[19;1H 31   0 \u001b[36m2445M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kext"
+    ],
+    [
+      0.000017,
+      "d\r\u001b[20d 50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/CoreS\r\u001b[21d 63   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S\u001b[21;36H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d 37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices/back\u001b[1;1H"
+    ],
+    [
+      0.084530,
+      "\u001b[9;5H\u001b[30m\u001b[42m\u001b[1K\u0008  PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[10;6H\u001b[30m\u001b[46m\u001b[1K\u0008\u0008   37   0 2455M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirectoryd\u001b[11;7H\u001b[39;49m\u001b(B\u001b[m\u001b[1K 4   0 \u001b[36m2417M  1\u001b[39m\u001b(B\u001b[m284     0 C\u001b[11;41H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d\u001b(B\u001b[0;1m\u001b[30mnnes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities/Term\u001b[13;6H\u001b[1K\u0008\u0008   31   0 \u001b[36m2395M  1\u001b[39m\u001b(B\u001b[m488     0 C\u001b[13;41H.0  0:00.00 htop\u001b[14;6H\u001b[1K 79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Frameworks/A\u001b[15;1H\u001b(B\u001b[0;1m\u001b[30mnnes \u001b[39m\u001b(B\u001b[m 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Frameworks/W\u001b[16;6H\u001b[1K\u0008\u0008   31   0 \u001b[36m2412M  3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\u001b[17;6H\u001b[1K\u0008\u0008   31   0 \u001b[36m2436M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\u001b[18;6H\u001b[1K 63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/User"
+    ],
+    [
+      0.000020,
+      "EventAgent\u001b[K\u001b[19;6H\u001b[1K\u0008\u0008   31   0 \u001b[36m2445M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\u001b[20;6H\u001b[1K 50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Frameworks/C\u001b[21;6H\u001b[1K\u0008\u0008   63   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S\u001b[21;41H.0  0:00.01 /usr/libexec/thermald\u001b[22;6H\u001b[1K 37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreServices\u001b[1;1H"
+    ],
+    [
+      0.084442,
+      "\u001b[9d\u001b[30m\u001b[42m USER     PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[10;2H\u001b[30m\u001b[46mroot      37   0 2455M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opendirect\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m root       4   0 \u001b[36m2417M  1\u001b[39m\u001b(B\u001b[m284     0 C\u001b[11;46H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Utilities\u001b[13;1H root      31   0 \u001b[36m2395M  1\u001b[39m\u001b(B\u001b[m488     0 C\u001b[13;46H.0  0:00.00 htop\r\u001b[14d root      79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Framewo\u001b[15;1H \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Framewo\u001b[16;1H root      31   0 \u001b[36m2412M  3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d root      31   0 \u001b[36m2436M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d root      63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /u"
+    ],
+    [
+      0.000019,
+      "sr/libexec/UserEventA\u001b[19;1H root      31   0 \u001b[36m2445M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\r\u001b[20d root      50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Framewo\u001b[21;1H root      63   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S\u001b[21;46H.0  0:00.01 /usr/libexec/thermald\r\u001b[22d root      37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/CoreSer\u001b[1;1H"
+    ],
+    [
+      0.084397,
+      "\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m4\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER     PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[10;2H\u001b[30m\u001b[46m  71 root      37   0 2455M  8392     0 R  0.0  0.2  0:01.03 /usr/libexec/opend\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m   38 root       4   0 \u001b[36m2417M  1\u001b[39m\u001b(B\u001b[m284     0 C\u001b[11;51H.0  0:00.34 /usr/sbin/syslogd\r\u001b[12d32349 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Util\u001b[13;1H69796 root      31   0 \u001b[36m2395M  1\u001b[39m\u001b(B\u001b[m488     0 C\u001b[13;51H.0  0:00.00 htop\r\u001b[14d  138 root      79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Fr\u001b[15;1H23131 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Fr\u001b[16;1H69795 root      31   0 \u001b[36m2412M  3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\r\u001b[17d    1 root      31   0 \u001b[36m2436M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\r\u001b[18d   37 root      63  "
+    ],
+    [
+      0.000019,
+      " 0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserE\u001b[19;2H  40 root      31   0 \u001b[36m2445M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\u001b[20;2H  41 root      50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Fr\u001b[21;2H  43 root      63   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S\u001b[21;51H.0  0:00.01 /usr/libexec/therm\u001b[22;2H  44 root      37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/Co\u001b[1;1H"
+    ],
+    [
+      1.162658,
+      "\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m5\r\u001b[10d\u001b[39m\u001b(B\u001b[m   71 root      37   0 \u001b[36m2455M  8\u001b[39m\u001b(B\u001b[m392     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.2  0:01.03 /usr/libexec/opend\u001b[11;1H\u001b[30m\u001b[46m   38 root       4   0 2417M  1284     0 C  0.0  0.0  0:00.34 /usr/sbin/syslogd\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.336006,
+      "\u001b[11d   38 root       4   0 \u001b[36m2417M  1\u001b[39m\u001b(B\u001b[m284     0 C  0.0  0.0  0:00.34 /usr/sbin/syslogd\u001b[K\r\u001b[12d\u001b[30m\u001b[46m32349 johannes  47   0 2575M 26448     0 S  0.0  0.6  0:00.11 /Applications/Util\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.501134,
+      "\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m6\r\u001b[12d\u001b[39m\u001b(B\u001b[m32349 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2575M 26\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.6  0:00.11 /Applications/Util\u001b[13;1H\u001b[30m\u001b[46m69796 root      31   0 2395M  1488     0 C  0.0  0.0  0:00.00 htop\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084376,
+      "\u001b[13d69796 root      31   0 \u001b[36m2395M  1\u001b[39m\u001b(B\u001b[m488     0 C  0.0  0.0  0:00.00 htop\u001b[K\r\u001b[14d\u001b[30m\u001b[46m  138 root      79   0 3609M 42036     0 S  0.0  1.0  0:26.12 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084715,
+      "\u001b[14d  138 root      79   0 \u001b[36m3609M 42\u001b[39m\u001b(B\u001b[m036     0 S  0.0  1.0  0:26.12 /System/Library/Fr\u001b[15;1H\u001b[30m\u001b[46m23131 johannes  63   0 3481M 31872     0 R  0.0  0.8  0:00.12 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084304,
+      "\u001b[15d23131 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 63   0 \u001b[36m3481M 31\u001b[39m\u001b(B\u001b[m872     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.8  0:00.12 /System/Library/Fr\u001b[16;1H\u001b[30m\u001b[46m69795 root      31   0 2412M  3092     0 S  0.0  0.1  0:00.00 sudo htop\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084449,
+      "\u001b[16d69795 root      31   0 \u001b[36m2412M  3\u001b[39m\u001b(B\u001b[m092     0 S  0.0  0.1  0:00.00 sudo htop\u001b[K\r\u001b[17d\u001b[30m\u001b[46m    1 root      31   0 2436M 12512     0 S  0.0  0.3  0:01.23 /sbin/launchd\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084437,
+      "\u001b[17d    1 root      31   0 \u001b[36m2436M 12\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.3  0:01.23 /sbin/launchd\u001b[K\r\u001b[18d\u001b[30m\u001b[46m   37 root      63   0 2443M  7768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserE\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084489,
+      "\u001b[18d   37 root      63   0 \u001b[36m2443M  7\u001b[39m\u001b(B\u001b[m768     0 S  0.0  0.2  0:00.24 /usr/libexec/UserE\u001b[19;1H\u001b[30m\u001b[46m   40 root      31   0 2445M  2756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084528,
+      "\u001b[19d   40 root      31   0 \u001b[36m2445M  2\u001b[39m\u001b(B\u001b[m756     0 S  0.0  0.1  0:00.07 /usr/libexec/kextd\u001b[20;1H\u001b[30m\u001b[46m   41 root      50   0 2549M  3856     0 S  0.0  0.1  0:01.03 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084455,
+      "\u001b[20d   41 root      50   0 \u001b[36m2549M  3\u001b[39m\u001b(B\u001b[m856     0 S  0.0  0.1  0:01.03 /System/Library/Fr\u001b[21;1H\u001b[30m\u001b[46m   43 root      63   0 2411M  1652     0 S  0.0  0.0  0:00.01 /usr/libexec/therm\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084416,
+      "\u001b[21d   43 root      63   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m652     0 S  0.0  0.0  0:00.01 /usr/libexec/therm\u001b[22;1H\u001b[30m\u001b[46m   44 root      37   0 2471M 14608     0 S  0.0  0.3  0:02.39 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084616,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   44 root      37   0 \u001b[36m2471M 14\u001b[39m\u001b(B\u001b[m608     0 S  0.0  0.3  0:02.39 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   46 _appleev   4   0 2436M  2588     0 S  0.0  0.1  0:00.00 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084478,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   46 \u001b(B\u001b[0;1m\u001b[30m_appleev \u001b[39m\u001b(B\u001b[m  4   0 \u001b[36m2436M  2\u001b[39m\u001b(B\u001b[m588     0 S  0.0  0.1  0:00.00 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   47 root      31   0 2442M  3340     0 S  0.0  0.1  0:00.27 /usr/libexec/confi\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084553,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m7\r\u001b[21d\u001b[39m\u001b(B\u001b[m   47 root      31   0 \u001b[36m2442M  3\u001b[39m\u001b(B\u001b[m340     0 S  0.0  0.1  0:00.27 /usr/libexec/confi\u001b[22;1H\u001b[30m\u001b[46m   48 root      31   0 2436M  1948     0 S  0.0  0.0  0:00.10 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084452,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   48 root      31   0 \u001b[36m2436M  1\u001b[39m\u001b(B\u001b[m948     0 S  0.0  0.0  0:00.10 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   51 root       4   0 2445M  5960     0 R  0.0  0.1  0:00.48 /usr/libexec/airpo\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083589,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   51 root       4   0 \u001b[36m2445M  5\u001b[39m\u001b(B\u001b[m960     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.1  0:00.48 /usr/libexec/airpo\u001b[22;1H\u001b[30m\u001b[46m   53 root      31  10 2415M  2028     0 S  0.0  0.0  0:00.00 /usr/libexec/warmd\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084440,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   53 root      31 \u001b[31m 10 \u001b[36m2415M  2\u001b[39m\u001b(B\u001b[m028     0 S  0.0  0.0  0:00.00 /usr/libexec/warmd\u001b[22;1H\u001b[30m\u001b[46m   54 root      50   0 2546M 17940     0 R  0.0  0.4  0:04.00 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.090677,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m8\r\u001b[21d\u001b[39m\u001b(B\u001b[m   54 root      50   0 \u001b[36m2546M 17\u001b[39m\u001b(B\u001b[m940     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.4  0:04.00 /System/Library/Fr\u001b[22;1H\u001b[30m\u001b[46m   58 _iconser   4   0 2439M  2572     0 S  0.0  0.1  0:00.00 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.501126,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[3;60H\u001b(B\u001b[0;1m\u001b[30m8 \u001b[39m\u001b(B\u001b[m1.36\r\u001b[21d   58 \u001b(B\u001b[0;1m\u001b[30m_iconser \u001b[39m\u001b(B\u001b[m  4   0 \u001b[36m2439M  2\u001b[39m\u001b(B\u001b[m572     0 S  0.0  0.1  0:00.00 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   60 root      31   0 2436M  1248     0 S  0.0  0.0  0:00.02 /usr/libexec/diska\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084429,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   60 root      31   0 \u001b[36m2436M  1\u001b[39m\u001b(B\u001b[m248     0 S  0.0  0.0  0:00.02 /usr/libexec/diska\u001b[22;1H\u001b[30m\u001b[46m   63 root       4   0 2442M  6908     0 S  0.0  0.2  0:00.65 /usr/libexec/cored\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084530,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m9\r\u001b[21d\u001b[39m\u001b(B\u001b[m   63 root       4   0 \u001b[36m2442M  6\u001b[39m\u001b(B\u001b[m908     0 S  0.0  0.2  0:00.65 /usr/libexec/cored\u001b[22;1H\u001b[30m\u001b[46m   64 root       4   0 2435M  2664     0 S  0.0  0.1  0:00.00 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084420,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   64 root       4   0 \u001b[36m2435M  2\u001b[39m\u001b(B\u001b[m664     0 S  0.0  0.1  0:00.00 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   68 root      31   0 2454M  5884     0 S  0.0  0.1  0:00.37 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084492,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   68 root      31   0 \u001b[36m2454M  5\u001b[39m\u001b(B\u001b[m884     0 S  0.0  0.1  0:00.37 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   70 root       4   0 2438M  2612     0 S  0.0  0.1  0:00.00 /System/Library/Pr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084409,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   70 root       4   0 \u001b[36m2438M  2\u001b[39m\u001b(B\u001b[m612     0 S  0.0  0.1  0:00.00 /System/Library/Pr\u001b[22;1H\u001b[30m\u001b[46m   72 root       4   0 2415M  1880     0 S  0.0  0.0  0:00.04 /usr/sbin/wireless\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084488,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   72 root       4   0 \u001b[36m2415M  1\u001b[39m\u001b(B\u001b[m880     0 S  0.0  0.0  0:00.04 /usr/sbin/wireless\u001b[22;1H\u001b[30m\u001b[46m   74 _mdnsres  37   0 2453M 14700     0 S  0.0  0.4  0:01.08 /usr/libexec/disco\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084414,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   74 \u001b(B\u001b[0;1m\u001b[30m_mdnsres \u001b[39m\u001b(B\u001b[m 37   0 \u001b[36m2453M 14\u001b[39m\u001b(B\u001b[m700     0 S  0.0  0.4  0:01.08 /usr/libexec/disco\u001b[22;1H\u001b[30m\u001b[46m   75 root      63   0 2437M  6932     0 S  0.0  0.2  0:00.10 /System/Library/Pr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084542,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   75 root      63   0 \u001b[36m2437M  6\u001b[39m\u001b(B\u001b[m932     0 S  0.0  0.2  0:00.10 /System/Library/Pr\u001b[22;1H\u001b[30m\u001b[46m   76 root      31   0 2440M  6684     0 S  0.0  0.2  0:00.25 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084476,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   76 root      31   0 \u001b[36m2440M  6\u001b[39m\u001b(B\u001b[m684     0 S  0.0  0.2  0:00.25 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   78 root      31   0 2437M  3612     0 S  0.0  0.1  0:00.34 /usr/sbin/security\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084449,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   78 root      31   0 \u001b[36m2437M  3\u001b[39m\u001b(B\u001b[m612     0 S  0.0  0.1  0:00.34 /usr/sbin/security\u001b[22;1H\u001b[30m\u001b[46m   80 _locatio   4   0 2447M  8512     0 S  0.0  0.2  0:00.28 /usr/libexec/locat\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084441,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   80 \u001b(B\u001b[0;1m\u001b[30m_locatio \u001b[39m\u001b(B\u001b[m  4   0 \u001b[36m2447M  8\u001b[39m\u001b(B\u001b[m512     0 S  0.0  0.2  0:00.28 /usr/libexec/locat\u001b[22;1H\u001b[30m\u001b[46m   83 root      31   0 2411M   648     0 S  0.0  0.0  0:00.00 autofsd\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084517,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   83 root      31   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  648     0 S  0.0  0.0  0:00.00 autofsd\u001b[K\r\u001b[22d\u001b[30m\u001b[46m   84 root      31   0 2435M  2708     0 S  0.0  0.1  0:00.23 /usr/sbin/blued\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084459,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[4;65H\u001b(B\u001b[0;1m\u001b[36m30\r\u001b[21d\u001b[39m\u001b(B\u001b[m   84 root      31   0 \u001b[36m2435M  2\u001b[39m\u001b(B\u001b[m708     0 S  0.0  0.1  0:00.23 /usr/sbin/blued\u001b[K\r\u001b[22d\u001b[30m\u001b[46m   88 root      31   0 2411M   360     0 S  0.0  0.0  0:00.00 /usr/libexec/stack\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084431,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   88 root      31   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  360     0 S  0.0  0.0  0:00.00 /usr/libexec/stack\u001b[22;1H\u001b[30m\u001b[46m   89 root       4   0 2444M  2908     0 S  0.0  0.1  0:00.00 /System/Library/Pr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084250,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   89 root       4   0 \u001b[36m2444M  2\u001b[39m\u001b(B\u001b[m908     0 S  0.0  0.1  0:00.00 /System/Library/Pr\u001b[22;1H\u001b[30m\u001b[46m   90 root      31   0 2503M  9448     0 S  0.0  0.2  0:00.21 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084678,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   90 root      31   0 \u001b[36m2503M  9\u001b[39m\u001b(B\u001b[m448     0 S  0.0  0.2  0:00.21 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   91 root      31   0 2411M   684     0 S  0.0  0.0  0:00.00 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084450,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   91 root      31   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  684     0 S  0.0  0.0  0:00.00 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m   92 root      31   0 2411M   344     0 S  0.0  0.0  0:00.00 /usr/sbin/KernelEv\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084501,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   92 root      31   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  344     0 S  0.0  0.0  0:00.00 /usr/sbin/KernelEv\u001b[22;1H\u001b[30m\u001b[46m   94 root      63   0 2420M  2248     0 S  0.0  0.1  0:03.70 /usr/libexec/hidd\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083300,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   94 root      63   0 \u001b[36m2420M  2\u001b[39m\u001b(B\u001b[m248     0 S  0.0  0.1  0:03.70 /usr/libexec/hidd\u001b[K\r\u001b[22d\u001b[30m\u001b[46m   95 root      31   0 2435M  2600     0 S  0.0  0.1  0:00.10 /usr/libexec/taskg\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084565,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   95 root      31   0 \u001b[36m2435M  2\u001b[39m\u001b(B\u001b[m600     0 S  0.0  0.1  0:00.10 /usr/libexec/taskg\u001b[22;1H\u001b[30m\u001b[46m   96 root      31   0 2413M  1660     0 S  0.0  0.0  0:00.31 /usr/sbin/notifyd\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084481,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H   96 root      31   0 \u001b[36m2413M  1\u001b[39m\u001b(B\u001b[m660     0 S  0.0  0.0  0:00.31 /usr/sbin/notifyd\u001b[K\r\u001b[22d\u001b[30m\u001b[46m  100 _distnot  31   0 2413M  2500     0 R  0.0  0.1  0:00.07 /usr/sbin/distnote\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084532,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  100 \u001b(B\u001b[0;1m\u001b[30m_distnot \u001b[39m\u001b(B\u001b[m 31   0 \u001b[36m2413M  2\u001b[39m\u001b(B\u001b[m500     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.1  0:00.07 /usr/sbin/distnote\u001b[22;1H\u001b[30m\u001b[46m  119 root       4   0 2436M  1464     0 S  0.0  0.0  0:00.00 /usr/libexec/diagn\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084354,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  119 root       4   0 \u001b[36m2436M  1\u001b[39m\u001b(B\u001b[m464     0 S  0.0  0.0  0:00.00 /usr/libexec/diagn\u001b[22;1H\u001b[30m\u001b[46m  122 root       4   0 2438M  2296     0 S  0.0  0.1  0:00.02 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084384,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  122 root       4   0 \u001b[36m2438M  2\u001b[39m\u001b(B\u001b[m296     0 S  0.0  0.1  0:00.02 /System/Library/Fr\u001b[22;1H\u001b[30m\u001b[46m  130 root      31   0 2471M  4916     0 S  0.0  0.1  0:00.20 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084581,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m1\r\u001b[21d\u001b[39m\u001b(B\u001b[m  130 root      31   0 \u001b[36m2471M  4\u001b[39m\u001b(B\u001b[m916     0 S  0.0  0.1  0:00.20 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m  135 root       4   0 2413M   656     0 S  0.0  0.0  0:00.00 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084496,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  135 root       4   0 \u001b[36m2413M \u001b[39m\u001b(B\u001b[m  656     0 S  0.0  0.0  0:00.00 /System/Library/Fr\u001b[22;1H\u001b[30m\u001b[46m  154 root       4   0 2437M  2912     0 S  0.0  0.1  0:00.01 /usr/libexec/findm\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084476,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  154 root       4   0 \u001b[36m2437M  2\u001b[39m\u001b(B\u001b[m912     0 S  0.0  0.1  0:00.01 /usr/libexec/findm\u001b[22;1H\u001b[30m\u001b[46m  157 root      31   0 3162M 62528     0 S  0.0  1.5  0:03.60 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084370,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  157 root      31   0 \u001b[36m3162M 62\u001b[39m\u001b(B\u001b[m528     0 S  0.0  1.5  0:03.60 /System/Library/Fr\u001b[22;1H\u001b[30m\u001b[46m  159 _nsurlse   4   0 2415M  2504     0 S  0.0  0.1  0:00.03 /usr/libexec/nsurl\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084504,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  159 \u001b(B\u001b[0;1m\u001b[30m_nsurlse \u001b[39m\u001b(B\u001b[m  4   0 \u001b[36m2415M  2\u001b[39m\u001b(B\u001b[m504     0 S  0.0  0.1  0:00.03 /usr/libexec/nsurl\u001b[22;1H\u001b[30m\u001b[46m  160 root      31   0 2438M   960     0 S  0.0  0.0  0:00.00 /usr/libexec/nehel\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084362,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  160 root      31   0 \u001b[36m2438M \u001b[39m\u001b(B\u001b[m  960     0 S  0.0  0.0  0:00.00 /usr/libexec/nehel\u001b[22;1H\u001b[30m\u001b[46m  161 root      31   0 2434M  1480     0 S  0.0  0.0  0:00.06 /usr/libexec/usbd\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084572,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  161 root      31   0 \u001b[36m2434M  1\u001b[39m\u001b(B\u001b[m480     0 S  0.0  0.0  0:00.06 /usr/libexec/usbd\u001b[K\r\u001b[22d\u001b[30m\u001b[46m  162 root      31   0 2413M   860     0 S  0.0  0.0  0:00.04 /usr/sbin/ntpd -c\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084542,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  162 root      31   0 \u001b[36m2413M \u001b[39m\u001b(B\u001b[m  860     0 S  0.0  0.0  0:00.04 /usr/sbin/ntpd -c\u001b[K\r\u001b[22d\u001b[30m\u001b[46m  163 root       4   0 2411M   624     0 S  0.0  0.0  0:00.00 /System/Library/Cr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084452,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  163 root       4   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  624     0 S  0.0  0.0  0:00.00 /System/Library/Cr\u001b[22;1H\u001b[30m\u001b[46m  168 root       4   0 2413M  3172     0 S  0.0  0.1  0:00.13 sysmond\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084367,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  168 root       4   0 \u001b[36m2413M  3\u001b[39m\u001b(B\u001b[m172     0 S  0.0  0.1  0:00.13 sysmond\u001b[K\r\u001b[22d\u001b[30m\u001b[46m  172 root      31   0 2411M   328     0 S  0.0  0.0  0:00.00 /usr/libexec/disco\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084506,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  172 root      31   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  328     0 S  0.0  0.0  0:00.00 /usr/libexec/disco\u001b[22;1H\u001b[30m\u001b[46m  173 _network   4   0 2418M  3304     0 S  0.0  0.1  0:00.26 /usr/libexec/netwo\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084492,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  173 \u001b(B\u001b[0;1m\u001b[30m_network \u001b[39m\u001b(B\u001b[m  4   0 \u001b[36m2418M  3\u001b[39m\u001b(B\u001b[m304     0 S  0.0  0.1  0:00.26 /usr/libexec/netwo\u001b[22;1H\u001b[30m\u001b[46m  174 root      31   0 2477M   960     0 S  0.0  0.0  0:00.00 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084252,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m2\r\u001b[21d\u001b[39m\u001b(B\u001b[m  174 root      31   0 \u001b[36m2477M \u001b[39m\u001b(B\u001b[m  960     0 S  0.0  0.0  0:00.00 /System/Library/Fr\u001b[22;1H\u001b[30m\u001b[46m  177 root       4   0 2411M   624     0 S  0.0  0.0  0:00.00 /usr/libexec/netwo\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084600,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  177 root       4   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  624     0 S  0.0  0.0  0:00.00 /usr/libexec/netwo\u001b[22;1H\u001b[30m\u001b[46m  179 root       4   0 2411M  1396     0 S  0.0  0.0  0:00.00 /System/Library/Pr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084347,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  179 root       4   0 \u001b[36m2411M  1\u001b[39m\u001b(B\u001b[m396     0 S  0.0  0.0  0:00.00 /System/Library/Pr\u001b[22;1H\u001b[30m\u001b[46m  188 root       4   0 2413M   980     0 R  0.0  0.0  0:00.00 /System/Library/Fr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084497,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  188 root       4   0 \u001b[36m2413M \u001b[39m\u001b(B\u001b[m  980     0 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.0  0:00.00 /System/Library/Fr\u001b[22;1H\u001b[30m\u001b[46m  209 root       4   0 2413M  1156     0 S  0.0  0.0  0:00.00 /System/Library/Pr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084413,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  209 root       4   0 \u001b[36m2413M  1\u001b[39m\u001b(B\u001b[m156     0 S  0.0  0.0  0:00.00 /System/Library/Pr\u001b[22;1H\u001b[30m\u001b[46m  211 root       4   0 2437M   928     0 S  0.0  0.0  0:00.00 /System/Library/Pr\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084489,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  211 root       4   0 \u001b[36m2437M \u001b[39m\u001b(B\u001b[m  928     0 S  0.0  0.0  0:00.00 /System/Library/Pr\u001b[22;1H\u001b[30m\u001b[46m  221 root      97   0 2411M   932     0 S  0.0  0.0  0:00.00 /usr/libexec/watch\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084380,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  221 root      97   0 \u001b[36m2411M \u001b[39m\u001b(B\u001b[m  932     0 S  0.0  0.0  0:00.00 /usr/libexec/watch\u001b[22;1H\u001b[30m\u001b[46m  223 root      31   0 2434M  1032     0 S  0.0  0.0  0:00.03 /usr/libexec/secur\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084468,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  223 root      31   0 \u001b[36m2434M  1\u001b[39m\u001b(B\u001b[m032     0 S  0.0  0.0  0:00.03 /usr/libexec/secur\u001b[22;1H\u001b[30m\u001b[46m  224 johannes  31   0 2438M  4216     0 S  0.0  0.1  0:00.10 /usr/libexec/UserE\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084532,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  224 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 31   0 \u001b[36m2438M  4\u001b[39m\u001b(B\u001b[m216     0 S  0.0  0.1  0:00.10 /usr/libexec/UserE\u001b[22;1H\u001b[30m\u001b[46m  226 johannes  31   0 2414M  5252     0 S  0.0  0.1  0:00.33 /usr/sbin/distnote\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084440,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  226 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 31   0 \u001b[36m2414M  5\u001b[39m\u001b(B\u001b[m252     0 S  0.0  0.1  0:00.33 /usr/sbin/distnote\u001b[22;1H\u001b[30m\u001b[46m  239 johannes   4   0 4041M 26064     0 S  0.0  0.6  0:00.50 /Applications/Mess\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083748,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  239 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m  4   0 \u001b[36m4041M 26\u001b[39m\u001b(B\u001b[m064     0 S  0.0  0.6  0:00.50 /Applications/Mess\u001b[22;1H\u001b[30m\u001b[46m  240 johannes  47   0 2638M 18584     0 S  0.0  0.4  0:00.60 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084422,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[21;1H  240 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2638M 18\u001b[39m\u001b(B\u001b[m584     0 S  0.0  0.4  0:00.60 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m  242 johannes  47   0 2512M 11920     0 S  0.0  0.3  0:00.17 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084477,
+      "\u001b[10;22r\u001b[22;1H\n\u001b[1;23r\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m3\r\u001b[21d\u001b[39m\u001b(B\u001b[m  242 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2512M 11\u001b[39m\u001b(B\u001b[m920     0 S  0.0  0.3  0:00.17 /System/Library/Co\u001b[22;1H\u001b[30m\u001b[46m  243 johannes  55   0 3524M 89076     0 S  0.0  2.1  0:01.62 /System/Library/Co\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.245345,
+      "\u001b[21d\u001b[30m\u001b[46m  242 johannes  47   0 2512M 11920     0 S  0.0  0.3  0:00.17 /System/Library/Co\u001b[22;1H\u001b[39;49m\u001b(B\u001b[m  243 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 55   0 \u001b[36m3524M 89\u001b[39m\u001b(B\u001b[m076     0 S  0.0  2.1  0:01.62 /System/Library/Co\u001b[1;1H"
+    ],
+    [
+      0.501251,
+      "\u001b[3;60H\u001b(B\u001b[0;1m\u001b[30m5\r\u001b[20d\u001b(B\u001b[0m\u001b[30m\u001b[46m  240 johannes  47   0 2638M 18584     0 S  0.0  0.4  0:00.60 /System/Library/Co\u001b[21;1H\u001b[39;49m\u001b(B\u001b[m  242 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2512M 11\u001b[39m\u001b(B\u001b[m920     0 S  0.0  0.3  0:00.17 /System/Library/Co\u001b[1;1H"
+    ],
+    [
+      0.084461,
+      "\u001b[19d\u001b[30m\u001b[46m  239 johannes   4   0 4041M 26064     0 S  0.0  0.6  0:00.50 /Applications/Mess\u001b[20;1H\u001b[39;49m\u001b(B\u001b[m  240 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 47   0 \u001b[36m2638M 18\u001b[39m\u001b(B\u001b[m584     0 S  0.0  0.4  0:00.60 /System/Library/Co\u001b[1;1H"
+    ],
+    [
+      0.084414,
+      "\u001b[18d\u001b[30m\u001b[46m  226 johannes  31   0 2414M  5252     0 S  0.0  0.1  0:00.33 /usr/sbin/distnote\u001b[19;1H\u001b[39;49m\u001b(B\u001b[m  239 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m  4   0 \u001b[36m4041M 26\u001b[39m\u001b(B\u001b[m064     0 S  0.0  0.6  0:00.50 /Applications/Mess\u001b[1;1H"
+    ],
+    [
+      0.084502,
+      "\u001b[4;66H\u001b(B\u001b[0;1m\u001b[36m4\r\u001b[17d\u001b(B\u001b[0m\u001b[30m\u001b[46m  224 johannes  31   0 2438M  4216     0 S  0.0  0.1  0:00.10 /usr/libexec/UserE\u001b[18;1H\u001b[39;49m\u001b(B\u001b[m  226 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 31   0 \u001b[36m2414M  5\u001b[39m\u001b(B\u001b[m252     0 S  0.0  0.1  0:00.33 /usr/sbin/distnote\u001b[1;1H"
+    ],
+    [
+      0.084493,
+      "\u001b[16d\u001b[30m\u001b[46m  223 root      31   0 2434M  1032     0 S  0.0  0.0  0:00.03 /usr/libexec/secur\u001b[17;1H\u001b[39;49m\u001b(B\u001b[m  224 \u001b(B\u001b[0;1m\u001b[30mjohannes \u001b[39m\u001b(B\u001b[m 31   0 \u001b[36m2438M  4\u001b[39m\u001b(B\u001b[m216     0 S  0.0  0.1  0:00.10 /usr/libexec/UserE\u001b[1;1H"
+    ],
+    [
+      1.195818,
+      "\u001b[23d\u001b[J"
+    ],
+    [
+      0.000036,
+      "\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002451,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000163,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m "
+    ],
+    [
+      0.000025,
+      "\u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      1.336298,
+      "\u001b[32mw\u001b[39m"
+    ],
+    [
+      0.096402,
+      "\u0008\u001b[4m\u001b[33mw\u001b[4m\u001b[33mh\u001b[24m\u001b[39m"
+    ],
+    [
+      0.310462,
+      "\u0008\u0008\u001b[24m\u001b[32mw\u001b[24m\u001b[32mh\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.338408,
+      "\u0008\u0008\u0008\u001b[1m\u001b[31mw\u001b[1m\u001b[31mh\u001b[1m\u001b[31mo\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.198972,
+      "\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31mm\u001b[0m\u001b[39m"
+    ],
+    [
+      0.300421,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mw\u001b[0m\u001b[32mh\u001b[0m\u001b[32mo\u001b[0m\u001b[32ma\u001b[0m\u001b[32mm\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.734556,
+      "\r\r\n"
+    ],
+    [
+      0.013589,
+      "johannesarnold\r\n"
+    ],
+    [
+      0.000543,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000160,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m \u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      1.144172,
+      "\u001b[32mw\u001b[39m"
+    ],
+    [
+      0.429537,
+      "\r\r\n"
+    ],
+    [
+      0.013858,
+      "10:07  up 2 days,  8:37, 2 users, load averages: 1.23 1.35 1.57\r\nUSER     TTY      FROM              LOGIN@  IDLE WHAT\r\n"
+    ],
+    [
+      0.000504,
+      "johannesarnold console  -                Sun01   2days -\r\njohannesarnold s000     -                10:02       - asciinema rec\r\n"
+    ],
+    [
+      0.000548,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000078,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m "
+    ],
+    [
+      0.000018,
+      "\u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      3.317305,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.155445,
+      "\u0008\u001b[24m\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.132422,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.115603,
+      "\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.095706,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ml\u001b[0m\u001b[32me\u001b[0m\u001b[32ma\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.179473,
+      "\r\r\n"
+    ],
+    [
+      0.003883,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000463,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000127,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m "
+    ],
+    [
+      0.000030,
+      "\u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      0.363891,
+      "\u001b[4m\u001b[33ml\u001b[24m\u001b[39m"
+    ],
+    [
+      0.186393,
+      "\u0008\u001b[24m\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.546915,
+      " "
+    ],
+    [
+      0.224244,
+      "-"
+    ],
+    [
+      0.166301,
+      "\u0007"
+    ],
+    [
+      0.000070,
+      "\r\r\n"
+    ],
+    [
+      0.001948,
+      "-1  -- single column output\u001b[27m\r\n-A  -- list all except . and ..\u001b[27m\r\n-B  -- print octal escapes for control characters\u001b[27m\r\n-C  -- list entries in columns sorted vertically\u001b[27m\r\n-F  -- append file type indicators\u001b[27m\r\n-G  -- enable colorized output\u001b[27m\r\n-H  -- follow symlinks on the command line\u001b[27m\r\n-L  -- list referenced file for sym link\u001b[27m\r\n-P  -- do not follow symlinks\u001b[27m\r\n-R  -- list subdirectories recursively\u001b[27m\r\n-S  -- sort by size\u001b[27m\r\n-T  -- show complete time information\u001b[27m\r\n-a  -- list entries starting with .\u001b[27m\r\n-b  -- as -B, but use C escape codes whenever possible\u001b[27m\r\n-c  -- status change time\u001b[27m\r\n-d  -- list directory entries instead of contents\u001b[27m\r\n-f  -- output is not sorted\u001b[27m\r\n-f  -- unsorted, all, short list\u001b[27m\r\n-g  -- long listing but without owner information\u001b[27m\r\n-h  -- print sizes in human readable form\u001b[27m\r\n-i  -- print file inode numbers\u001b[27m\r\n\u001b[J-k  -- print sizes of 1k\u001b[27m\u001b[J\r\n-l  -- long listing\u001b[27m\u001b[J\r\n-m  -- comma separated\u001b[27m\u001b[J\r\n-n  -- numer"
+    ],
+    [
+      0.000093,
+      "ic uid, gid\u001b[27m\u001b[J\r\n-o  "
+    ],
+    [
+      0.000206,
+      "-- display file flags\u001b[27m\u001b[J\r\n-p  -- append file type indicators for directory\u001b[27m\u001b[J\r\n-q  -- hide control chars\u001b[27m\u001b[J\r\n-r  -- reverse sort order\u001b[27m\u001b[J\r\n-s  -- display size of each file in blocks\u001b[27m\u001b[J\r\n-t  -- sort by modification time\u001b[27m\u001b[J\r\n-u  -- access time\u001b[27m\u001b[J\r\n-w  -- print raw characters\u001b[27m\u001b[J\r\n-x  -- sort horizontally\u001b[27m\u001b[J\r\n\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m \u001b[32mls\u001b[39m -\u001b[K\u001b[54C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[61D"
+    ],
+    [
+      0.916632,
+      "1"
+    ],
+    [
+      0.000047,
+      "\r\r\n"
+    ],
+    [
+      0.000254,
+      "\u001b[7m-1  -- single column output\u001b[K\u001b[27m\u001b[K\r\n-A  -- list all except . and ..\u001b[K\u001b[27m\u001b[K\r\n-B  -- print octal escapes for control characters\u001b[K\u001b[27m\u001b[K\r\n-C  -- list entries in columns sorted vertically\u001b[K\u001b[27m\u001b[K\r\n-F  -- append file type indicators\u001b[K\u001b[27m\u001b[K\r\n-G  -- enable colorized output\u001b[K\u001b[27m\u001b[K\r\n-H  -- follow symlinks on the command line\u001b[K\u001b[27m\u001b[K\r\n-L  -- list referenced file for sym link\u001b[K\u001b[27m\u001b[K\r\n-P  -- do not follow symlinks\u001b[K\u001b[27m\u001b[K\r\n-R  -- list subdirectories recursively\u001b[K\u001b[27m\u001b[K\r\n-S  -- sort by size\u001b[K\u001b[27m\u001b[K\r\n-T  -- show complete time information\u001b[K\u001b[27m\u001b[K\r\n-a  -- list entries starting with .\u001b[K\u001b[27m\u001b[K\r\n-b  -- as -B, but use C escape codes whenever possible\u001b[K\u001b[27m\u001b[K\r\n-c  -- status change time\u001b[K\u001b[27m\u001b[K\r\n-d  -- list directory entries instead of contents\u001b[K\u001b[27m\u001b[K\r\n-f  -- output is not sorted\u001b[K\u001b[27m\u001b[K\r\n-f  -- unsorted, all, short list\u001b[K\u001b[27m\u001b[K\r\n-g  -- long listing but without owner information\u001b[K\u001b[27m\u001b[K\r\n-h  -- print sizes in human readable form\u001b[K\u001b[27m\u001b[K\r\n-i  -- print file inode "
+    ],
+    [
+      0.000031,
+      "numbers\u001b[K\u001b[27m\u001b[K\r\n\u001b"
+    ],
+    [
+      0.000102,
+      "[J-k  -- print sizes of 1k\u001b[K\u001b[27m\u001b[J\u001b[J\u001b[22A\u001b[0m\u001b[27m\u001b[24m\r\u001b[14C"
+    ],
+    [
+      0.000010,
+      "\u001b[32mls\u001b[39m -1\u001b[K\u001b[53C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[60D"
+    ],
+    [
+      0.402882,
+      "\r\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[7m-1  -- single column output\u001b[K\u001b[27m\r\u001b[7m-1  -- single column output\u001b[K\u001b[27m\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[14C"
+    ],
+    [
+      0.000013,
+      "\u001b[32mls\u001b[39m -1\u001b[K\u001b[53C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[60D"
+    ],
+    [
+      0.000138,
+      "\u0008A"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000120,
+      "-1  -- single column output\u001b[K\u001b[27m\r\u001b[1B\u001b[7m-A  -- list all except . and ..\u001b[K\u001b[27m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[14C"
+    ],
+    [
+      0.000012,
+      "\u001b[32mls\u001b[39m -A\u001b[K\u001b[53C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[60D"
+    ],
+    [
+      0.290475,
+      "\u0008B"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[1B-A  -- list all except . and ..\u001b[K\u001b[27m\r\u001b[1B\u001b[7m-B  -- print octal escapes for control characters\u001b[K\u001b[27m\r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[14C"
+    ],
+    [
+      0.000048,
+      "\u001b[32mls\u001b[39m -B\u001b[K\u001b[53C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[60D"
+    ],
+    [
+      1.504726,
+      "\u0008C"
+    ],
+    [
+      0.000014,
+      "\r\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[2B-B  -- print octal escapes for control characters\u001b[K\u001b[27m\r\u001b[1B\u001b[7m-C  -- list entries in columns sorted vertically\u001b[K\u001b[27m\r\u001b[4A\u001b[0m\u001b[27m\u001b[24m\r\u001b[14C"
+    ],
+    [
+      0.000028,
+      "\u001b[32mls\u001b[39m -C\u001b[K\u001b[53C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[60D"
+    ],
+    [
+      2.053142,
+      "\u0008F"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[3B-C  -- list entries in columns sorted vertically\u001b[K\u001b[27m\r\u001b[1B\u001b[7m-F  -- append file type indicators\u001b[K\u001b[27m\r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[14C"
+    ],
+    [
+      0.000048,
+      "\u001b[32mls\u001b[39m -F\u001b[K\u001b[53C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[60D"
+    ],
+    [
+      0.443843,
+      "\u0008G"
+    ],
+    [
+      0.000056,
+      "\r\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[4B-F  -- append file type indicators\u001b[K\u001b[27m\r\u001b[1B\u001b[7m-G  -- enable colorized output\u001b[K\u001b[27m\r\u001b[6A\u001b[0m\u001b[27m\u001b[24m\r\u001b[14C"
+    ],
+    [
+      0.000024,
+      "\u001b[32mls\u001b[39m -G\u001b[K\u001b[53C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[60D"
+    ],
+    [
+      2.190038,
+      "\r\r\n\u001b[J\u001b[A\u001b[19C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.214914,
+      "\u0008\u001b[0m \u0008\r\r\n\u001b[J"
+    ],
+    [
+      0.004550,
+      "\u001b[34mDesktop\u001b[39;49m\u001b[0m          \u001b[31mHead First C.pdf\u001b[39;49m\u001b[0m \u001b[34mMusic\u001b[39;49m\u001b[0m            \u001b[34mPublic\u001b[39;49m\u001b[0m\r\n\u001b[34mDocuments\u001b[39;49m\u001b[0m        \u001b[34mLibrary\u001b[39;49m\u001b[0m          \u001b[30m\u001b[43mNetBeansProjects\u001b[39;49m\u001b[0m \u001b[34mWallpapers\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[34mDownloads\u001b[39;49m\u001b[0m        \u001b[34mMovies\u001b[39;49m\u001b[0m           \u001b[34mPictures\u001b[39;49m\u001b[0m         daten.zsh-theme\r\n"
+    ],
+    [
+      0.000410,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000076,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mmuscipula\u001b[00m[\u001b[36m~\u001b[00m]\u001b[32m%\u001b[00m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[58C\u001b[32m[\u001b[00m\u001b[01;32m10:07\u001b[00m\u001b[32m]\u001b[00m\u001b[65D"
+    ],
+    [
+      5.303412,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.291587,
+      "\u0008\u001b[24m\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.229543,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.221412,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      1.156359,
+      "\u0008\u0008\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m\u001b[39m \u0008"
+    ],
+    [
+      0.188851,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.177342,
+      "\u0008\u0008\u001b[4m\u001b[33me\u001b[24m\u001b[39m\u001b[39m \u0008"
+    ],
+    [
+      0.183946,
+      "\u0008\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.799284,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.281350,
+      "\u0008\u001b[24m\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.169288,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.241528,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.757390,
+      "\r\r\n"
+    ]
+  ]
+}
