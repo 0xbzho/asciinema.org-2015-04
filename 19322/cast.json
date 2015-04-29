@@ -1,0 +1,870 @@
+{
+  "version": 1,
+  "width": 169,
+  "height": 35,
+  "duration": 11.551270,
+  "command": "/bin/bash",
+  "title": "testing",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.034879,
+      "\u001b]0;root@ahmad-LIFEBOOK-LH531: /home/ahmad\u0007root@ahmad-LIFEBOOK-LH531:/home/ahmad# "
+    ],
+    [
+      4.368444,
+      "i"
+    ],
+    [
+      0.164694,
+      "f"
+    ],
+    [
+      0.181154,
+      "c"
+    ],
+    [
+      0.059113,
+      "o"
+    ],
+    [
+      0.084980,
+      "n"
+    ],
+    [
+      0.089890,
+      "f"
+    ],
+    [
+      0.084499,
+      "ig "
+    ],
+    [
+      0.767448,
+      "\r\n"
+    ],
+    [
+      0.015631,
+      "eth0      Link encap:Ethernet  HWaddr 8c:73:6e:b8:35:e8  "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "          UP BROADCAST MULTICAST  MTU:1500  Metric:1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "          RX packets:0 errors:0 dropped:0 overruns:0 frame:0"
+    ],
+    [
+      0.000008,
+      "\r\n          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "          collisions:0 txqueuelen:1000 "
+    ],
+    [
+      0.000009,
+      "\r\n          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "lo        Link encap:Local Loopback  "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "          inet addr:127.0.0.1  Mask:255.0.0.0\r\n          inet6 addr: ::1/128 Scope:Host\r\n"
+    ],
+    [
+      0.000032,
+      "          UP LOOPBACK RUNNING  MTU:65536  Metric:1\r\n          RX packets:3454 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:3454 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:0 "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "          RX bytes:576388 (576.3 KB)  TX bytes:576388 (576.3 KB)"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000036,
+      "wlan0     Link encap:Ethernet  HWaddr e0:ca:94:c0:9a:b6  "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "          inet addr:192.168.80.156  Bcast:192.168.80.255  Mask:255.255.255.0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "          inet6 addr: fe80::e2ca:94ff:fec0:9ab6/64 Scope:Link"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1"
+    ],
+    [
+      0.000013,
+      "\r\n          RX packets:581556 errors:0 dropped:0 overruns:0 frame:0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "          TX packets:670610 errors:0 dropped:0 overruns:0 carrier:0"
+    ],
+    [
+      0.000006,
+      "\r\n          collisions:0 txqueuelen:1000 \r\n"
+    ],
+    [
+      0.000006,
+      "          RX bytes:572090308 (572.0 MB)  TX bytes:431239839 (431.2 MB)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001824,
+      "\u001b]0;root@ahmad-LIFEBOOK-LH531: /home/ahmad\u0007root@ahmad-LIFEBOOK-LH531:/home/ahmad# "
+    ],
+    [
+      1.749862,
+      "l"
+    ],
+    [
+      0.199061,
+      "s"
+    ],
+    [
+      0.150778,
+      " "
+    ],
+    [
+      0.204912,
+      "-"
+    ],
+    [
+      0.199900,
+      "a"
+    ],
+    [
+      0.204820,
+      "l"
+    ],
+    [
+      0.151232,
+      "\r\n"
+    ],
+    [
+      0.019129,
+      "total 5403820\r\n"
+    ],
+    [
+      0.000075,
+      "drwxr-xr-x 44 ahmad ahmad       4096 Apr 29 08:07 \u001b[0m\u001b[01;34m.\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "drwxr-xr-x  4 root  root        4096 Peb 20 12:49 \u001b[01;34m..\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-rw-r--  1 ahmad ahmad         97 Mar 13 11:39 .apport-ignore.xml"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-------  1 ahmad ahmad      20651 Apr 29 13:21 .bash_history"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--  1 ahmad ahmad        220 Peb 20 11:00 .bash_logout"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--  1 ahmad ahmad       3636 Peb 20 11:11 .bashrc"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "drwx------ 27 ahmad ahmad       4096 Apr 24 11:43 \u001b[01;34m.cache\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-rw-r--  1 ahmad ahmad 4632608768 Okt 24  2014 CentOS-6.6-x86_64-bin-DVD1.iso"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x 34 ahmad ahmad       4096 Apr 27 09:43 \u001b[01;34m.config\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "drwx------  2 ahmad ahmad       4096 Mar  3 09:17 \u001b[01;34m.cups\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwx------  3 ahmad ahmad       4096 Peb 20 11:03 \u001b[01;34m.dbus\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwxr-xr-x  3 ahmad ahmad       4096 Apr 24 14:10 \u001b[01;34mDesktop\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-------  1 ahmad ahmad         60 Peb 23 11:51 .directory"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--  1 ahmad ahmad         27 Peb 20 11:03 .dmrc"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x  5 ahmad ahmad       4096 Apr 20 12:36 \u001b[01;34mDocuments\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x  5 ahmad ahmad       4096 Apr 29 11:49 \u001b[01;34mDownloads\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwxrwxr-x  2 ahmad ahmad      16384 Peb 23 09:43 \u001b[01;34m.fonts\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwx------  3 ahmad ahmad       4096 Peb 24 11:12 \u001b[01;34m.freerdp\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwx------  4 ahmad ahmad       4096 Apr 29 08:07 \u001b[01;34m.gconf\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x 24 ahmad ahmad       4096 Apr 28 15:54 \u001b[01;34m.gimp-2.8\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "drwx------  3 ahmad ahmad       4096 Peb 20 11:31 \u001b[01;34m.gnome\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "drwx------  3 ahmad ahmad       4096 Mar  2 08:42 \u001b[01;34m.gnome2\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwx------  2 ahmad ahmad       4096 Mar  2 08:42 \u001b[01;34m.gnome2_private\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--  1 ahmad ahmad        560 Peb 20 19:02 gnome-terminal.desktop"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxrwxr-x  2 ahmad ahmad       4096 Mar  2 10:11 \u001b[01;34m.gstreamer-0.10\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-rw-r--  1 ahmad ahmad        940 Mar 23 11:39 .gtk-recordmydesktop"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-------  1 ahmad ahmad      37026 Apr 29 08:07 .ICEauthority"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxrwxr-x  3 ahmad ahmad       4096 Mar  9 12:38 \u001b[01;34m.java\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "drwx------  3 ahmad ahmad       4096 Peb 23 10:43 \u001b[01;34m.kde\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x  5 ahmad ahmad       4096 Apr 24 15:40 \u001b[01;34mkdenlive\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r-----  1 ahmad ahmad     222199 Mar 14 14:23 licecap125-install.exe"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-rw-r--  1 ahmad ahmad       2968 Apr 24 14:42 .lives"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwx------  2 ahmad ahmad       4096 Apr 24 14:30 \u001b[01;34m.lives-dir\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "drwxrwxrwx  6 ahmad ahmad       4096 Apr 24 14:43 \u001b[34;42mlivestmp\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwx------  3 ahmad ahmad       4096 Peb 20 11:03 \u001b[01;34m.local\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--  1 root  root      382235 Peb 18 05:24 memconf.v3.06.pl"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "drwx------  4 ahmad ahmad       4096 Mar 10 14:56 \u001b[01;34m.mozilla\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "drwxrwxr-x  2 ahmad ahmad       4096 Apr 24 14:31 \u001b[01;34m.mplayer\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x 12 ahmad ahmad       4096 Apr 25 11:12 \u001b[01;34mMusic\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-x---  6 ahmad ahmad       4096 Apr 24 13:16 \u001b[01;34m.openshot\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--  1 ahmad ahmad        230 Peb 23 08:30 .pam_environment"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x  2 ahmad ahmad       4096 Apr 28 15:49 \u001b[01;34mPictures\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "drwx------  3 ahmad ahmad       4096 Peb 20 11:31 \u001b[01;34m.pki\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-rw-r--  1 ahmad ahmad       8580 Apr 27 15:09 prepare-zimbra-centos6.sh"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-rw-r--  1 ahmad ahmad       7304 Jan 14 15:39 prepare-zimbra-sles.sh"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--  1 ahmad ahmad        675 Peb 20 11:00 .profile"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x  2 ahmad ahmad       4096 Peb 20 11:03 \u001b[01;34mPublic\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "drwx------  6 ahmad ahmad       4096 Apr 29 13:08 \u001b[01;34m.purple\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-rw-r--  1 ahmad ahmad       1874 Apr 27 11:06 .RapidSVN"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-------  1 ahmad ahmad       5868 Peb 24 13:30 .recently-used"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--  1 root  root        5325 Des  6  2013 run.rb"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-rw-r--  1 ahmad ahmad       5827 Okt  6  2014 setup-zimbra-centos7.sh"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "drwx------  6 ahmad ahmad       4096 Apr 20 16:56 \u001b[01;34m.Skype\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "drwx------  2 ahmad ahmad       4096 Apr 15 08:50 \u001b[01;34m.ssh\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "-rwxr-xr-x  1 root  root         181 Mar 11 11:45 \u001b[01;32msshtunnel.sh\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "drwxrwxr-x  5 ahmad ahmad       4096 Mar 23 11:23 \u001b[01;34m.ssr\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxrwxr-x  3 ahmad ahmad       4096 Peb 20 16:59 \u001b[01;34m.subversion\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "drwxrwxr-x 12 ahmad ahmad       4096 Apr  6 08:27 \u001b[01;34msvn\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "drwxrwxr-x  4 ahmad ahmad       4096 Peb 20 17:00 \u001b[01;34m.svn\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x  2 ahmad ahmad       4096 Peb 20 11:03 \u001b[01;34mTemplates\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwxrwxr-x  3 ahmad ahmad       4096 Peb 20 12:52 \u001b[01;34m.themes\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "drwx------  5 ahmad ahmad       4096 Apr 24 11:47 \u001b[01;34m.thumbnails\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "drwx------  4 ahmad ahmad       4096 Mar 30 14:01 \u001b[01;34m.thunderbird\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--  1 root  root         904 Des  1  2013 ultils.rb"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxr-x--x  1 ahmad ahmad    4467972 Mar 13 15:06 \u001b[01;32munetbootin-linux-608\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-rw-r--  1 ahmad ahmad     503980 Apr 24 15:58 untitled.blend"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x  3 ahmad ahmad       4096 Apr 24 13:57 \u001b[01;34mVideos\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "drwx------  2 ahmad ahmad       4096 Apr 27 11:34 \u001b[01;34m.w3m\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r-----  1 ahmad ahmad     125952 Peb 24 14:07 winbox.exe"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "drwxrwxr-x  4 ahmad ahmad       4096 Apr 27 08:02 \u001b[01;34m.wine\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-------  1 ahmad ahmad         65 Apr 29 08:07 .Xauthority\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-------  1 ahmad ahmad      76502 Apr 29 13:21 .xsession-errors"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-------  1 ahmad ahmad     162981 Apr 28 17:27 .xsession-errors.old"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-rw-r--  1 ahmad ahmad  894543081 Des 16 18:33 \u001b[01;31mzcs-8.6.0_GA_1153.RHEL6_64.20141215151155.tgz\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--  1 root  root        2893 Apr  6 09:49 \u001b[01;31mzimbraexploit_rubina119.zip\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001579,
+      "\u001b]0;root@ahmad-LIFEBOOK-LH531: /home/ahmad\u0007root@ahmad-LIFEBOOK-LH531:/home/ahmad# "
+    ],
+    [
+      1.035127,
+      "d"
+    ],
+    [
+      0.160139,
+      "f"
+    ],
+    [
+      0.110662,
+      " "
+    ],
+    [
+      0.180367,
+      "-"
+    ],
+    [
+      0.260031,
+      "h"
+    ],
+    [
+      0.371090,
+      "\r\n"
+    ],
+    [
+      0.013616,
+      "Filesystem      Size  Used Avail Use% Mounted on\r\n/dev/sda5        54G   25G   26G  50% /\r\n"
+    ],
+    [
+      0.000012,
+      "none            4,0K     0  4,0K   0% /sys/fs/cgroup\r\nudev            7,8G  4,0K  7,8G   1% /dev\r\ntmpfs           1,6G  1,4M  1,6G   1% /run\r\n"
+    ],
+    [
+      0.000022,
+      "none            5,0M     0  5,0M   0% /run/lock"
+    ],
+    [
+      0.000007,
+      "\r\nnone            7,8G   22M  7,8G   1% /run/shm"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "none            100M   44K  100M   1% /run/user"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.002332,
+      "\u001b]0;root@ahmad-LIFEBOOK-LH531: /home/ahmad\u0007root@ahmad-LIFEBOOK-LH531:/home/ahmad# "
+    ],
+    [
+      0.680524,
+      "exit"
+    ],
+    [
+      0.000769,
+      "\r\n"
+    ]
+  ]
+}
