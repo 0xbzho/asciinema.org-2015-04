@@ -1,0 +1,1214 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 20,
+  "duration": 150.459771,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.102521,
+      "\u001b]0;jereczem@ohm: ~\u0007jereczem@ohm:~$ "
+    ],
+    [
+      1.770314,
+      "s"
+    ],
+    [
+      0.151912,
+      "s"
+    ],
+    [
+      0.239993,
+      "h"
+    ],
+    [
+      0.160108,
+      " "
+    ],
+    [
+      0.151888,
+      "v"
+    ],
+    [
+      0.087954,
+      "o"
+    ],
+    [
+      0.176074,
+      "l"
+    ],
+    [
+      0.088023,
+      "t"
+    ],
+    [
+      0.327969,
+      "\r\n"
+    ],
+    [
+      0.357983,
+      "Password: "
+    ],
+    [
+      1.882120,
+      "\r\n"
+    ],
+    [
+      0.152069,
+      "Last login: Wed Apr 29 23:43:31 2015 from agqo126.neoplus.adsl.tpnet.pl\r\r\nFreeBSD 9.2-PRERELEASE (VOLT) #0: Thu Aug 22 19:31:08 CEST 2013\r\n\r\n\r\n"
+    ],
+    [
+      0.074575,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000964,
+      "This is the Z Shell configuration function for new users,\r\nzsh-newuser-install.\r\nYou are seeing this message because you have no zsh startup files\r\n(the files .zshenv, .zprofile, .zshrc, .zlogin in the directory\r\n~).  This function can help you with a few settings that should\r\nmake your use of the shell easier.\r\n\r\nYou can:\r\n\r\n(q)  Quit and do nothing.  The function will be run again next time.\r\n\r\n(0)  Exit, creating the file ~/.zshrc containing just a comment.\r\n     That will prevent this function being run again.\r\n\r\n(1)  Continue to the main menu.\r\n\r\n--- Type one of the keys in parentheses --- "
+    ],
+    [
+      0.726070,
+      "\r\n"
+    ],
+    [
+      0.000674,
+      "\r\nAborting.\r\nThe function will be run again next time.  To prevent this, execute:\r\n  touch ~/.zshrc\r\n"
+    ],
+    [
+      0.022963,
+      "To repeat the last command in the C shell, type \"!!\".\r\n\t\t-- Dru \u003cgenesis@istar.ca\u003e\r\n"
+    ],
+    [
+      0.021921,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r"
+    ],
+    [
+      0.000405,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mvolt% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.640947,
+      "s"
+    ],
+    [
+      0.167657,
+      "\u0008ss"
+    ],
+    [
+      0.261058,
+      "h"
+    ],
+    [
+      0.170027,
+      " "
+    ],
+    [
+      1.072735,
+      "k"
+    ],
+    [
+      0.096467,
+      "4"
+    ],
+    [
+      0.248184,
+      "\r\r\n"
+    ],
+    [
+      0.318560,
+      "Password: "
+    ],
+    [
+      3.194034,
+      "\r\n"
+    ],
+    [
+      0.029069,
+      "Last login: Wed Apr 29 23:43:51 2015 from vol\r\r\n"
+    ],
+    [
+      0.115253,
+      "You can often get answers to your questions about FreeBSD by searching in the\r\nFreeBSD mailing list archives at\r\n\r\n\thttp://www.FreeBSD.org/search/search.html\r\n"
+    ],
+    [
+      0.071816,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      2.303894,
+      "c"
+    ],
+    [
+      0.090530,
+      "\u0008cd"
+    ],
+    [
+      0.084858,
+      " "
+    ],
+    [
+      0.673325,
+      "\u0008"
+    ],
+    [
+      0.159465,
+      "\u0008\u0008c \u0008"
+    ],
+    [
+      0.159622,
+      "\u0008 \u0008"
+    ],
+    [
+      0.936361,
+      "l"
+    ],
+    [
+      0.087203,
+      "\u0008ls"
+    ],
+    [
+      0.072309,
+      "\r\r\n"
+    ],
+    [
+      0.008621,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r"
+    ],
+    [
+      0.000355,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      3.359077,
+      "h"
+    ],
+    [
+      0.072751,
+      "\u0008ho"
+    ],
+    [
+      0.137160,
+      "m"
+    ],
+    [
+      0.128663,
+      "e"
+    ],
+    [
+      0.301071,
+      "\r\r\n"
+    ],
+    [
+      0.172126,
+      "Password:"
+    ],
+    [
+      1.947922,
+      "\r\n"
+    ],
+    [
+      0.043167,
+      "uwaga: root ma dostęp do Twojego HOME - zablokuj sudo dla innych\r\nnp. poleceniem: ssh-blok start\r\n"
+    ],
+    [
+      0.007122,
+      "Filesystem                  Size    Used   Avail Capacity  Mounted on\r\n//JERECZEM@VOLT/JERECZEM     97M     45M     52M    47%    /home/stud/jereczem\r\n"
+    ],
+    [
+      0.000411,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      1.128941,
+      "l"
+    ],
+    [
+      0.061735,
+      "\u0008ls"
+    ],
+    [
+      0.095986,
+      "\r\r\n"
+    ],
+    [
+      0.012537,
+      "FreeBSD\t\t\thttpd.conf-copy2\tsign.sh\r\napache\t\t\tnetuse\t\t\tstare\r\nbezpieczne\t\tnetview\t\t\ttestowy.crt\r\nhttpd-ssl.conf\t\tnetviewwat\t\ttestowy.key\r\nhttpd.conf\t\tprosba\r\nhttpd.conf-copy\t\tsciezka\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      6.049606,
+      "c"
+    ],
+    [
+      0.068416,
+      "\u0008cd"
+    ],
+    [
+      0.096304,
+      " "
+    ],
+    [
+      0.232445,
+      "."
+    ],
+    [
+      0.143740,
+      "."
+    ],
+    [
+      0.191939,
+      "/"
+    ],
+    [
+      1.009608,
+      "\r\r\n"
+    ],
+    [
+      0.000364,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      1.768478,
+      "."
+    ],
+    [
+      0.149780,
+      "\u0008./"
+    ],
+    [
+      0.722970,
+      "j"
+    ],
+    [
+      0.062486,
+      "e"
+    ],
+    [
+      0.163400,
+      "reczem\u001b[1m/\u001b[m"
+    ],
+    [
+      1.555131,
+      "\u0008\u001b[m \u0008\u0008"
+    ],
+    [
+      0.503348,
+      "\u0008"
+    ],
+    [
+      0.048049,
+      "\u0008"
+    ],
+    [
+      0.050857,
+      "\u0008"
+    ],
+    [
+      0.051884,
+      "\u0008"
+    ],
+    [
+      0.047742,
+      "\u0008"
+    ],
+    [
+      0.069520,
+      "\u0008"
+    ],
+    [
+      0.030680,
+      "\u0008"
+    ],
+    [
+      0.049870,
+      "\u0008"
+    ],
+    [
+      0.052354,
+      "\u0008"
+    ],
+    [
+      0.871535,
+      "u./jereczem\u001b[10D"
+    ],
+    [
+      0.345200,
+      "\u0008um./jereczem\u001b[10D"
+    ],
+    [
+      0.086179,
+      "o./jereczem\u001b[10D"
+    ],
+    [
+      0.207946,
+      "u./jereczem\u001b[10D"
+    ],
+    [
+      0.224384,
+      "n./jereczem\u001b[10D"
+    ],
+    [
+      0.119637,
+      "t./jereczem\u001b[10D"
+    ],
+    [
+      0.304738,
+      " ./jereczem\u001b[10D"
+    ],
+    [
+      0.327466,
+      "\r\r\n"
+    ],
+    [
+      0.004407,
+      "umount: unmount of /home/stud/jereczem failed: "
+    ],
+    [
+      0.000418,
+      "Operation not permitted\r\n"
+    ],
+    [
+      0.000470,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m(1)\r\n\r\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      1.379393,
+      "umount ./jereczem\u001b[17D"
+    ],
+    [
+      0.865033,
+      "sumount ./jereczem\u001b[17D"
+    ],
+    [
+      0.110368,
+      "\u001b[1Cumount ./jereczem\u001b[17D"
+    ],
+    [
+      0.112613,
+      "dumount ./jereczem\u001b[17D"
+    ],
+    [
+      0.087644,
+      "oumount ./jereczem\u001b[17D"
+    ],
+    [
+      0.098396,
+      " umount ./jereczem\u001b[17D"
+    ],
+    [
+      0.189689,
+      "\r\r\n"
+    ],
+    [
+      0.061904,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.939405,
+      "c"
+    ],
+    [
+      0.126776,
+      "\u0008cd"
+    ],
+    [
+      0.079517,
+      " "
+    ],
+    [
+      0.857274,
+      "j"
+    ],
+    [
+      0.115257,
+      "e"
+    ],
+    [
+      0.164116,
+      "reczem\u001b[1m/\u001b[m"
+    ],
+    [
+      0.384103,
+      "\u0008\u001b[m \u0008\r\r\n"
+    ],
+    [
+      0.000486,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      1.134584,
+      "l"
+    ],
+    [
+      0.064325,
+      "\u0008ls"
+    ],
+    [
+      0.087987,
+      "\r\r\n"
+    ],
+    [
+      0.007476,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r"
+    ],
+    [
+      0.000341,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      3.400354,
+      "c"
+    ],
+    [
+      0.066350,
+      "\u0008cd"
+    ],
+    [
+      0.070818,
+      " "
+    ],
+    [
+      0.598485,
+      "."
+    ],
+    [
+      0.144543,
+      "."
+    ],
+    [
+      0.167532,
+      "/"
+    ],
+    [
+      0.841017,
+      "."
+    ],
+    [
+      0.142632,
+      "."
+    ],
+    [
+      0.192577,
+      "/"
+    ],
+    [
+      1.480069,
+      "e"
+    ],
+    [
+      0.208439,
+      "t"
+    ],
+    [
+      0.256452,
+      "\u0007"
+    ],
+    [
+      0.463461,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135929,
+      "\u0008 \u0008"
+    ],
+    [
+      0.294082,
+      "."
+    ],
+    [
+      0.139192,
+      "."
+    ],
+    [
+      0.134881,
+      "/"
+    ],
+    [
+      0.255796,
+      "e"
+    ],
+    [
+      0.185336,
+      "tc\u001b[1m/\u001b[m"
+    ],
+    [
+      3.059099,
+      "\u0008\u001b[m/r"
+    ],
+    [
+      0.208857,
+      "c."
+    ],
+    [
+      1.058675,
+      "d"
+    ],
+    [
+      0.607803,
+      "/"
+    ],
+    [
+      0.344958,
+      "\u0007"
+    ],
+    [
+      2.772296,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      1.151813,
+      "l"
+    ],
+    [
+      0.071895,
+      "\u0008ls"
+    ],
+    [
+      0.097562,
+      "\r\r\n"
+    ],
+    [
+      0.008146,
+      "DAEMON\t\t\tinitrandom\t\tpower_profile\r\nFILESYSTEMS\t\tip6addrctl\t\tpowerd\r\nLOGIN\t\t\tipfilter\t\tppp\r\nNETWORKING\t\tipfs\t\t\tpppoed\r\nSERVERS\t\t\tipfw\t\t\tpwcheck\r\nabi\t\t\tipmon\t\t\tquota\r\naccounting\t\tipnat\t\t\trandom\r\naddswap\t\t\tipsec\t\t\trarpd\r\nadjkerntz\t\tipxrouted\t\trctl\r\namd\t\t\tjail\t\t\tresolv\r\napm\t\t\tkadmind\t\t\trfcomm_pppd_server\r\n"
+    ],
+    [
+      0.002694,
+      "apmd\t\t\tkerberos\t\troot\r\narchdep\t\t\tkeyserv\t\t\troute6d\r\natm1\t\t\tkld\t\t\trouted\r\natm2\t\t\tkldxref\t\t\trouting\r\natm3\t\t\tkpasswdd\t\trpcbind\r\nauditd\t\t\tldconfig\t\trtadvd\r\nauditdistd\t\tlocal\t\t\trtsold\r\nbgfsck\t\t\tlocalpkg\t\trwho\r\nbluetooth\t\tlockd\t\t\tsavecore\r\nbootparams\t\tlpd\t\t\tsdpd\r\nbridge\t\t\tmdconfig\t\tsecurelevel\r\nbsnmpd\t\t\tmdconfig2\t\tsendmail\r\nbthidd\t\t\tmixer\t\t\tserial\r\nccd\t\t\tmotd\t\t\tsppp\r\ncleanvar\t\tmountcritlocal\t\tsshd\r\ncleartmp\t\tmountcritremote\t\tstatd\r\ncron\t\t\tmountd\t\t\tstatic_arp\r\nddb\t\t\tmountlate\t\tstatic_ndp\r\ndefaultroute\t\tmoused\t\t\tstf\r\ndevd\t\t\tmroute6d\t\tswap1\r\ndevfs\t\t\tmrouted\t\t\tsyscons\r\ndhclient\t\tmsgs\t\t\tsysctl\r\ndmesg\t\t\tnamed\t\t\tsyslogd\r\ndumpon\t\t\tnatd\t\t\ttimed\r\nencswap\t\t\tnetif\t\t\ttmp\r\nfaith\t\t\tnetoptions\t\tubthidhci\r\nfsck\t\t\tnetwait\t\t\tugidfw\r\nftp-proxy\t\tnewsyslog\t\tvar\r\nftpd\t\t\tnfscbd\t\t\tvirecover\r\ngbde\t\t\tnfsclient\t\twatchdogd\r\ngeli\t\t\tnfsd\t\t\twpa_supplicant\r\ngeli2\t\t\tnfsuserd\t\typbind\r\ngptboot\t\t\tnisdomain\t\typpasswdd\r\ngssd\t\t\tnscd\t\t\typserv\r\nhastd\t\t\tnsswitch\t\typset\r\nhcsecd\t\t\tntpd\t\t\typupdated\r\nhostapd\t\t\tntpdate\t\t\typxfrd\r\nhostid\t\t\tothermta\t\tzfs\r\nhostid_save\t\tpf\t\t\tzvol\r\nhostname\t\tpflog\r\ninetd\t\t\tpfsync\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      1.691623,
+      "l"
+    ],
+    [
+      0.503823,
+      "\u0008ls"
+    ],
+    [
+      0.612488,
+      " "
+    ],
+    [
+      2.338892,
+      "h"
+    ],
+    [
+      0.056315,
+      "o"
+    ],
+    [
+      0.199966,
+      "m"
+    ],
+    [
+      0.080238,
+      "e"
+    ],
+    [
+      0.160882,
+      "\r\r\n"
+    ],
+    [
+      0.021853,
+      "ls: home: No such file or directory\r\n"
+    ],
+    [
+      0.001839,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m(1)\r\n\r\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      3.910788,
+      "l"
+    ],
+    [
+      0.085153,
+      "\u0008ls"
+    ],
+    [
+      0.131591,
+      " "
+    ],
+    [
+      2.399776,
+      "\u0008"
+    ],
+    [
+      0.499922,
+      "\u0008\u0008l \u0008"
+    ],
+    [
+      0.049196,
+      "\u0008 \u0008"
+    ],
+    [
+      9.041454,
+      "l"
+    ],
+    [
+      0.073665,
+      "\u0008ls"
+    ],
+    [
+      0.071974,
+      " "
+    ],
+    [
+      2.151560,
+      "*"
+    ],
+    [
+      0.599951,
+      "n"
+    ],
+    [
+      0.088599,
+      "f"
+    ],
+    [
+      0.098364,
+      "s"
+    ],
+    [
+      0.397890,
+      "*"
+    ],
+    [
+      0.183156,
+      "\r\r\n"
+    ],
+    [
+      0.020261,
+      "nfscbd\t\tnfsclient\tnfsd\t\tnfsuserd\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      7.057360,
+      "m"
+    ],
+    [
+      0.112013,
+      "\u0008mo"
+    ],
+    [
+      0.013504,
+      "r"
+    ],
+    [
+      0.112819,
+      "e"
+    ],
+    [
+      0.118753,
+      " "
+    ],
+    [
+      2.898467,
+      "*"
+    ],
+    [
+      1.474816,
+      "n"
+    ],
+    [
+      0.115265,
+      "f"
+    ],
+    [
+      0.136743,
+      "s"
+    ],
+    [
+      1.280508,
+      "*"
+    ],
+    [
+      0.231853,
+      "\r\r\n"
+    ],
+    [
+      0.014440,
+      "\u001b[?1h\u001b=\r#!/bin/sh\r\n#\r\n# $FreeBSD: stable/9/etc/rc.d/nfscbd 231653 2012-02-14 10:16:56Z dougb $\r\n#\r\n\r\n# PROVIDE: nfscbd\r\n# REQUIRE: NETWORKING nfsuserd\r\n# KEYWORD: nojail shutdown\r\n\r\n. /etc/rc.subr\r\n\r\nname=\"nfscbd\"\r\nrcvar=\"nfscbd_enable\"\r\ncommand=\"/usr/sbin/${name}\"\r\nsig_stop=\"USR1\"\r\n\r\nload_rc_config $name\r\n\r\nrun_rc_command \"$1\"\r\n\u001b[7m--More--(END - Next: nfsclient)\u001b[27m\u001b[K"
+    ],
+    [
+      8.122244,
+      "\r\u001b[K...skipping...\r\n"
+    ],
+    [
+      0.000788,
+      "#!/bin/sh\r\n#\r\n# $FreeBSD: src/etc/rc.d/nfsclient,v 1.10 2011/06/11 21:14:22 rmacklem Exp $\r\n#\r\n\r\n# PROVIDE: nfsclient\r\n# REQUIRE: NETWORKING mountcritremote rpcbind\r\n# KEYWORD: nojail shutdown\r\n\r\n. /etc/rc.subr\r\n\r\nname=\"nfsclient\"\r\nrcvar=\"nfs_client_enable\"\r\nstart_cmd=\"nfsclient_start\"\r\nstop_cmd=\"unmount_all\"\r\nrequired_modules=\"nfscl:nfs\"\r\n\r\nnfsclient_start()\r\n{\r\n\u001b[7m--More--(32%)\u001b[27m\u001b[K"
+    ],
+    [
+      1.126384,
+      "\r\u001b[K        #\r\n\u001b[7m--More--(32%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.968272,
+      "\r\u001b[K        # Set some nfs client related sysctls\r\n\u001b[7m--More--(35%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.408006,
+      "\r\u001b[K        #\r\n\u001b[7m--More--(36%)\u001b[27m\u001b[K"
+    ],
+    [
+      7.727684,
+      "\r\u001b[K\r\n\u001b[7m--More--(36%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.358052,
+      "\r\u001b[K        if [ -n \"${nfs_access_cache}\" ]; then\r\n\u001b[7m--More--(39%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.524547,
+      "\r\u001b[K                check_startmsgs \u0026\u0026\r\n\u001b[7m--More--(41%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.503439,
+      "\r\u001b[K                        echo \"NFS access cache time=${nfs_access_cache}\"\r\n\u001b[7m--More--(46%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.052989,
+      "\r\u001b[K                if ! sysctl vfs.nfs.access_cache_timeout=${nfs_access_cache} \u003e/d \u0008\u001b[7m--More--(52%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.043119,
+      "\r\u001b[Kev/null; then\r\n\u001b[7m--More--(53%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050577,
+      "\r\u001b[K                        warn \"failed to set access cache timeout\"\r\n\u001b[7m--More--(57%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050477,
+      "\r\u001b[K                fi\r\n\u001b[7m--More--(58%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.408045,
+      "\r\u001b[K        fi\r\n\u001b[7m--More--(58%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.736408,
+      "\r\u001b[K        if [ -n \"${nfs_bufpackets}\" ]; then\r\n\u001b[7m--More--(62%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.500668,
+      "\r\u001b[K                if ! sysctl vfs.nfs.bufpackets=${nfs_bufpackets} \u003e /dev/null; th \u0008\u001b[7m--More--(68%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050705,
+      "\r\u001b[Ken\r\n\u001b[7m--More--(68%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050718,
+      "\r\u001b[K                        warn \"failed to set vfs.nfs.bufpackets\"\r\n\u001b[7m--More--(72%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049851,
+      "\r\u001b[K                fi\r\n\u001b[7m--More--(72%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.062368,
+      "\r\u001b[K        fi\r\n\u001b[7m--More--(73%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.038646,
+      "\r\u001b[K\r\n\u001b[7m--More--(73%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050214,
+      "\r\u001b[K        unmount_all\r\n\u001b[7m--More--(74%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.193752,
+      "\r\u001b[K}\r\n\u001b[7m--More--(74%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.501572,
+      "\r\u001b[K\r\n\u001b[7m--More--(74%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.047505,
+      "\r\u001b[Kunmount_all()\r\n\u001b[7m--More--(75%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051454,
+      "\r\u001b[K{\r\n\u001b[7m--More--(76%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049557,
+      "\r\u001b[K        # If /var/db/mounttab exists, some nfs-server has not been\r\n\u001b[7m--More--(81%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050436,
+      "\r\u001b[K        # successfully notified about a previous client shutdown.\r\n\u001b[7m--More--(86%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.060881,
+      "\r\u001b[K        # If there is no /var/db/mounttab, we do nothing.\r\n\u001b[7m--More--(91%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.038282,
+      "\r\u001b[K        if [ -f /var/db/mounttab ]; then\r\n\u001b[7m--More--(94%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050718,
+      "\r\u001b[K                rpc.umntall -k\r\n\u001b[7m--More--(96%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050253,
+      "\r\u001b[K        fi\r\n\u001b[7m--More--(96%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.048522,
+      "\r\u001b[K}\r\n\u001b[7m--More--(96%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.246449,
+      "\r\u001b[Kload_rc_config $name\r\n\u001b[7m--More--(98%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.500558,
+      "\r\u001b[Krun_rc_command \"$1\"\r\n\u001b[7m--More--(END - Next: nfsd)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050808,
+      "\r\u001b[K...skipping...\r\n"
+    ],
+    [
+      0.000865,
+      "#!/bin/sh\r\n#\r\n# $FreeBSD: stable/9/etc/rc.d/nfsd 231792 2012-02-15 22:59:15Z dougb $\r\n#\r\n\r\n# PROVIDE: nfsd\r\n# REQUIRE: mountd hostname gssd nfsuserd\r\n# KEYWORD: nojail shutdown\r\n\r\n. /etc/rc.subr\r\n\r\nname=\"nfsd\"\r\nrcvar=\"nfs_server_enable\"\r\ncommand=\"/usr/sbin/${name}\"\r\n\r\nload_rc_config $name\r\nstart_precmd=\"nfsd_precmd\"\r\nsig_stop=\"USR1\"\r\n\r\n\u001b[7m--More--(23%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049598,
+      "\r\u001b[Knfsd_precmd()\r\n\u001b[7m--More--(24%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.048368,
+      "\r\u001b[K{\r\n\u001b[7m--More--(24%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.765783,
+      "\r\u001b[K        if checkyesno oldnfs_server_enable; then\r\n\u001b[7m--More--(27%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.619810,
+      "\r\u001b[K                rc_flags=\"-o ${nfs_server_flags}\"\r\n\u001b[7m--More--(30%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.817528,
+      "\r\u001b[K\r\n\u001b[7m--More--(30%)\u001b[27m\u001b[K"
+    ],
+    [
+      2.126224,
+      "\r\u001b[K                # Load the module now, so that the vfs.nfsrv sysctl\r\n\u001b[7m--More--(33%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.500951,
+      "\r\u001b[K                # oids are available.\r\n\u001b[7m--More--(35%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049057,
+      "\r\u001b[K                load_kld nfsserver\r\n\u001b[7m--More--(37%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051080,
+      "\r\u001b[K\r\n\u001b[7m--More--(37%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049716,
+      "\r\u001b[K                if checkyesno nfs_reserved_port_only; then\r\n\u001b[7m--More--(40%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.270173,
+      "\r\u001b[K                        echo 'NFS on reserved port only=YES'\r\n\u001b[7m--More--(43%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.499941,
+      "\r\u001b[K                        sysctl vfs.nfsrv.nfs_privport=1 \u003e /dev/null\r\n\u001b[7m--More--(46%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050489,
+      "\r\u001b[K                else\r\n\u001b[7m--More--(47%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049744,
+      "\r\u001b[K                        sysctl vfs.nfsrv.nfs_privport=0 \u003e /dev/null\r\n\u001b[7m--More--(50%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051013,
+      "\r\u001b[K                fi\r\n\u001b[7m--More--(50%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051172,
+      "\r\u001b[K        else\r\n\u001b[7m--More--(51%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050111,
+      "\r\u001b[K                rc_flags=\"${nfs_server_flags}\"\r\n\u001b[7m--More--(53%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049764,
+      "\r\u001b[K\r\n\u001b[7m--More--(53%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.059652,
+      "\r\u001b[K                # Load the modules now, so that the vfs.nfsd sysctl\r\n\u001b[7m--More--(57%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.187911,
+      "\r\u001b[K                # oids are available.\r\n\u001b[7m--More--(59%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.498251,
+      "\r\u001b[K                load_kld nfsd.ko                # XXX bez .ko nie laduje sie\r\n\u001b[7m--More--(62%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050289,
+      "\r\u001b[K\r\n\u001b[7m--More--(62%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050052,
+      "\r\u001b[K                if checkyesno nfs_reserved_port_only; then\r\n\u001b[7m--More--(66%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051573,
+      "\r\u001b[K                        echo 'NFS on reserved port only=YES'\r\n\u001b[7m--More--(68%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050737,
+      "\r\u001b[K                        sysctl vfs.nfsd.nfs_privport=1 \u003e /dev/null\r\n\u001b[7m--More--(72%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051630,
+      "\r\u001b[K                else\r\n\u001b[7m--More--(72%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.048067,
+      "\r\u001b[K                        sysctl vfs.nfsd.nfs_privport=0 \u003e /dev/null\r\n\u001b[7m--More--(76%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050366,
+      "\r\u001b[K                fi\r\n\u001b[7m--More--(76%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050538,
+      "\r\u001b[K\r\n\u001b[7m--More--(76%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049265,
+      "\r\u001b[K                if checkyesno nfsv4_server_enable; then\r\n\u001b[7m--More--(79%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051609,
+      "\r\u001b[K                        sysctl vfs.nfsd.server_max_nfsvers=4 \u003e /dev/null\r\n\u001b[7m--More--(83%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.048671,
+      "\r\u001b[K                        force_depend nfsuserd || err 1 \"Cannot run nfsuserd\"\r\n\u001b[7m--More--(87%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051044,
+      "\r\u001b[K                else\r\n\u001b[7m--More--(87%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050072,
+      "\r\u001b[K                        echo 'NFSv4 is disabled'\r\n\u001b[7m--More--(89%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049210,
+      "\r\u001b[K                        sysctl vfs.nfsd.server_max_nfsvers=3 \u003e /dev/null\r\n\u001b[7m--More--(93%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049752,
+      "\r\u001b[K                fi\r\n\u001b[7m--More--(93%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050976,
+      "\r\u001b[K        fi\r\n\u001b[7m--More--(94%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050460,
+      "\r\u001b[K\r\n\u001b[7m--More--(94%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049760,
+      "\r\u001b[K        force_depend rpcbind || return 1\r\n\u001b[7m--More--(96%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051493,
+      "\r\u001b[K        force_depend mountd || return 1\r\n\u001b[7m--More--(98%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.051306,
+      "\r\u001b[K}\r\n\u001b[7m--More--(99%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.052187,
+      "\r\u001b[K\r\n\u001b[7m--More--(99%)\u001b[27m\u001b[K"
+    ],
+    [
+      0.046606,
+      "\r\u001b[Krun_rc_command \"$1\"\r\n\u001b[7m--More--(END - Next: nfsuserd)\u001b[27m\u001b[K"
+    ],
+    [
+      0.050513,
+      "\r\u001b[K...skipping...\r\n"
+    ],
+    [
+      0.000551,
+      "#!/bin/sh\r\n#\r\n# $FreeBSD: stable/9/etc/rc.d/nfsuserd 231653 2012-02-14 10:16:56Z dougb $\r\n#\r\n\r\n# PROVIDE: nfsuserd\r\n# REQUIRE: NETWORKING\r\n# KEYWORD: nojail shutdown\r\n\r\n. /etc/rc.subr\r\n\r\nname=\"nfsuserd\"\r\nrcvar=\"nfsuserd_enable\"\r\ncommand=\"/usr/sbin/${name}\"\r\nsig_stop=\"USR1\"\r\n\r\nload_rc_config $name\r\n\r\nrun_rc_command \"$1\"\r\n\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000412,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.050264,
+      "\r\r\n"
+    ],
+    [
+      0.000508,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.051021,
+      "\r\r\n"
+    ],
+    [
+      0.000409,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.048853,
+      "\r\r\n"
+    ],
+    [
+      0.000491,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.061122,
+      "\r\r\n"
+    ],
+    [
+      0.000503,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.037668,
+      "\r\r\n"
+    ],
+    [
+      0.000430,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.051045,
+      "\r\r\n"
+    ],
+    [
+      0.000456,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mk4% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      9.775373,
+      "e"
+    ],
+    [
+      0.224998,
+      "\u0008ex"
+    ],
+    [
+      0.286960,
+      "i"
+    ],
+    [
+      0.129055,
+      "t"
+    ],
+    [
+      0.176465,
+      "\r\r\n"
+    ],
+    [
+      0.002089,
+      "Connection to k4 closed.\r\r\n"
+    ],
+    [
+      0.036930,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r"
+    ],
+    [
+      0.000351,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m\u001b[31mvolt% \u001b[30m\u001b[m\u001b[K"
+    ],
+    [
+      0.637690,
+      "e"
+    ],
+    [
+      0.201530,
+      "\u0008ex"
+    ],
+    [
+      0.167781,
+      "i"
+    ],
+    [
+      0.143856,
+      "t"
+    ],
+    [
+      0.135853,
+      "\r\r\n"
+    ],
+    [
+      0.081741,
+      "Connection to volt closed.\r\r\n"
+    ],
+    [
+      0.000899,
+      "\u001b]0;jereczem@ohm: ~\u0007jereczem@ohm:~$ "
+    ],
+    [
+      0.493065,
+      "e"
+    ],
+    [
+      0.183985,
+      "x"
+    ],
+    [
+      0.120094,
+      "i"
+    ],
+    [
+      0.191824,
+      "t"
+    ],
+    [
+      0.280072,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "exit"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ]
+  ]
+}
