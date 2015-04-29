@@ -1,0 +1,294 @@
+{
+  "version": 1,
+  "width": 202,
+  "height": 48,
+  "duration": 7.692214,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.246211,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.000256,
+      "\u001b]2;~/devel/elasticsearch-spinscale\u0007"
+    ],
+    [
+      0.000055,
+      "\u001b]1;...ch-spinscale\u0007"
+    ],
+    [
+      0.129191,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jdevel/elasticsearch-spinscale - [1504-release-script-check-parameter\u001b[31m●\u001b[39m] » "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000290,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jdevel/elasticsearch-spinscale - [1504-release-script-check-parameter\u001b[31m●\u001b[39m] » \u001b[K"
+    ],
+    [
+      2.426420,
+      "p"
+    ],
+    [
+      0.000083,
+      "\u0008py"
+    ],
+    [
+      0.000125,
+      "t"
+    ],
+    [
+      0.000111,
+      "h"
+    ],
+    [
+      0.000081,
+      "o"
+    ],
+    [
+      0.000125,
+      "n"
+    ],
+    [
+      0.000133,
+      "3"
+    ],
+    [
+      0.000164,
+      " "
+    ],
+    [
+      0.000122,
+      "d"
+    ],
+    [
+      0.000102,
+      "e"
+    ],
+    [
+      0.000094,
+      "v"
+    ],
+    [
+      0.000093,
+      "-"
+    ],
+    [
+      0.000092,
+      "t"
+    ],
+    [
+      0.000090,
+      "o"
+    ],
+    [
+      0.000085,
+      "o"
+    ],
+    [
+      0.000093,
+      "l"
+    ],
+    [
+      0.000098,
+      "s"
+    ],
+    [
+      0.000096,
+      "/"
+    ],
+    [
+      0.000085,
+      "b"
+    ],
+    [
+      0.000075,
+      "u"
+    ],
+    [
+      0.000075,
+      "i"
+    ],
+    [
+      0.000081,
+      "l"
+    ],
+    [
+      0.000076,
+      "d"
+    ],
+    [
+      0.000124,
+      "_"
+    ],
+    [
+      0.000107,
+      "r"
+    ],
+    [
+      0.000093,
+      "e"
+    ],
+    [
+      0.000092,
+      "l"
+    ],
+    [
+      0.000092,
+      "e"
+    ],
+    [
+      0.000084,
+      "a"
+    ],
+    [
+      0.000094,
+      "s"
+    ],
+    [
+      0.000085,
+      "e"
+    ],
+    [
+      0.000093,
+      "."
+    ],
+    [
+      0.000116,
+      "p"
+    ],
+    [
+      0.000081,
+      "y"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000095,
+      "-"
+    ],
+    [
+      0.000089,
+      "-"
+    ],
+    [
+      0.000092,
+      "c"
+    ],
+    [
+      0.000309,
+      "he"
+    ],
+    [
+      0.000151,
+      "c"
+    ],
+    [
+      0.000043,
+      "k"
+    ],
+    [
+      2.489715,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jdevel/elasticsearch-spinscale - [1504-release-script-check-parameter\u001b[31m●\u001b[39m] » "
+    ],
+    [
+      0.000008,
+      "python3 dev-tools/build_release.py --check\u001b[K"
+    ],
+    [
+      0.000105,
+      "\r\r\n"
+    ],
+    [
+      0.001251,
+      "\u001b]2;python3\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b]1;python3\u0007"
+    ],
+    [
+      0.146719,
+      "Checking for AWS env configuration AWS_SECRET_ACCESS_KEY_ID...     \u001b[91mNOT OK\u001b[0m\r\nChecking for AWS env configuration AWS_ACCESS_KEY_ID...            \u001b[91mNOT OK\u001b[0m\r\nChecking for SONATYPE env configuration SONATYPE_USERNAME...       \u001b[91mNOT OK\u001b[0m\r\nChecking for SONATYPE env configuration SONATYPE_PASSWORD...       \u001b[91mNOT OK\u001b[0m\r\nChecking for GPG env configuration GPG_KEY_ID...                   \u001b[92mOK\u001b[0m\r\nChecking for GPG env configuration GPG_PASSPHRASE...               \u001b[91mNOT OK\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "Checking for S3 repo upload env configuration S3_BUCKET_SYNC_TO... \u001b[91mNOT OK\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "Checking for git env configuration GIT_AUTHOR_NAME...              \u001b[92mOK\u001b[0m\r\n"
+    ],
+    [
+      0.000468,
+      "Checking for git env configuration GIT_AUTHOR_EMAIL...             \u001b[91mNOT OK\u001b[0m\r\n"
+    ],
+    [
+      0.024078,
+      "Checking command: gpg...            \u001b[92mOK\u001b[0m\r\n"
+    ],
+    [
+      0.028867,
+      "Checking command: expect...         \u001b[92mOK\u001b[0m\r\n"
+    ],
+    [
+      0.004440,
+      "Checking command: createrepo...     \u001b[91mNOT OK\u001b[0m\r\n"
+    ],
+    [
+      0.150814,
+      "Checking command: s3cmd...          \u001b[92mOK\u001b[0m\r\n"
+    ],
+    [
+      0.004054,
+      "Checking command: apt-ftparchive... \u001b[91mNOT OK\u001b[0m\r\n"
+    ],
+    [
+      0.049214,
+      "Testing boto python dependency...   \u001b[91mNOT OK\u001b[0m\r\n"
+    ],
+    [
+      0.158775,
+      "Checking java version...            \u001b[91mNOT OK\u001b[0m\r\n"
+    ],
+    [
+      0.016557,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.000382,
+      "\u001b]2;~/devel/elasticsearch-spinscale\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;...ch-spinscale\u0007"
+    ],
+    [
+      0.115998,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jdevel/elasticsearch-spinscale - [1504-release-script-check-parameter\u001b[31m●\u001b[39m] » "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000437,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jdevel/elasticsearch-spinscale - [1504-release-script-check-parameter\u001b[31m●\u001b[39m] » \u001b[K"
+    ],
+    [
+      1.633695,
+      "\r\r\n"
+    ]
+  ]
+}
