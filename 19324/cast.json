@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 6.469167,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.011443,
+      "\u001b]0;root@Pc-Project: /home/bismillah\u0007root@Pc-Project:/home/bismillah# "
+    ],
+    [
+      0.988379,
+      "m"
+    ],
+    [
+      0.147431,
+      "u"
+    ],
+    [
+      0.245656,
+      "l"
+    ],
+    [
+      0.123296,
+      "a"
+    ],
+    [
+      0.133510,
+      "i"
+    ],
+    [
+      0.589180,
+      " "
+    ],
+    [
+      0.352758,
+      "\r\n"
+    ],
+    [
+      0.092665,
+      "mulai: command not found\r\n"
+    ],
+    [
+      0.006960,
+      "\u001b]0;root@Pc-Project: /home/bismillah\u0007root@Pc-Project:/home/bismillah# "
+    ],
+    [
+      0.189488,
+      "m"
+    ],
+    [
+      0.195903,
+      "u"
+    ],
+    [
+      0.266082,
+      "l"
+    ],
+    [
+      0.085201,
+      "a"
+    ],
+    [
+      0.212593,
+      "i"
+    ],
+    [
+      0.412608,
+      "\r\n"
+    ],
+    [
+      0.094742,
+      "mulai: command not found\r\n"
+    ],
+    [
+      0.007128,
+      "\u001b]0;root@Pc-Project: /home/bismillah\u0007root@Pc-Project:/home/bismillah# "
+    ],
+    [
+      1.422744,
+      "e"
+    ],
+    [
+      0.223548,
+      "x"
+    ],
+    [
+      0.341280,
+      "i"
+    ],
+    [
+      0.110722,
+      "t"
+    ],
+    [
+      0.215566,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
