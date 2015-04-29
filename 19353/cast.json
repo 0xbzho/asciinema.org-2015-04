@@ -1,0 +1,2386 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 91.429908,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.077346,
+      "\u001b]0;shynii@serveur: ~\u0007shynii@serveur:~$ "
+    ],
+    [
+      4.204285,
+      "s"
+    ],
+    [
+      0.102036,
+      "u"
+    ],
+    [
+      0.120938,
+      "d"
+    ],
+    [
+      0.093866,
+      "o"
+    ],
+    [
+      0.102707,
+      " "
+    ],
+    [
+      2.478781,
+      "a"
+    ],
+    [
+      0.103409,
+      "p"
+    ],
+    [
+      0.205844,
+      "t"
+    ],
+    [
+      0.194884,
+      "-"
+    ],
+    [
+      0.125893,
+      "g"
+    ],
+    [
+      0.225213,
+      "e"
+    ],
+    [
+      0.009847,
+      "z"
+    ],
+    [
+      0.163291,
+      "t"
+    ],
+    [
+      0.199697,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151944,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.147475,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.077771,
+      "t"
+    ],
+    [
+      0.439222,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120751,
+      "e"
+    ],
+    [
+      0.236392,
+      "t"
+    ],
+    [
+      0.109544,
+      " "
+    ],
+    [
+      0.229773,
+      "i"
+    ],
+    [
+      0.886782,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.248920,
+      "u"
+    ],
+    [
+      0.557812,
+      "p"
+    ],
+    [
+      0.178173,
+      "d"
+    ],
+    [
+      0.247753,
+      "a"
+    ],
+    [
+      0.231576,
+      "te "
+    ],
+    [
+      0.335879,
+      "\r\n"
+    ],
+    [
+      0.017357,
+      "[sudo] password for shynii: "
+    ],
+    [
+      2.425708,
+      "\r\n"
+    ],
+    [
+      0.086245,
+      "\r\r0% [En cours]"
+    ],
+    [
+      0.111116,
+      "\r             \rIgn http://fr.archive.ubuntu.com trusty InRelease"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\r             \r8% [Connexion à security.ubuntu.com (91.189.91.23)]"
+    ],
+    [
+      0.034162,
+      "\r                                                    \rIgn http://fr.archive.ubuntu.com trusty-updates InRelease\r\n"
+    ],
+    [
+      0.000041,
+      "\r                                                    \r14% [Connexion à security.ubuntu.com (91.189.91.23)]"
+    ],
+    [
+      0.033323,
+      "\r                                                     \rIgn http://fr.archive.ubuntu.com trusty-backports InRelease"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\r                                                     \r19% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.035143,
+      "\r                                     \rAtteint http://fr.archive.ubuntu.com trusty Release.gpg"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\r40% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.035599,
+      "\r                                     \rRéception de : 1 http://fr.archive.ubuntu.com trusty-updates Release.gpg [933 B]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\r                                     \r0% [1 Release.gpg 0 B/933 B 0%] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000963,
+      "\r                                                                 \r99% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.005140,
+      "\r                                     \rIgn http://security.ubuntu.com trusty-security InRelease"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\r99% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.029582,
+      "\r                                     \rAtteint http://fr.archive.ubuntu.com trusty-backports Release.gpg\r\n"
+    ],
+    [
+      0.000012,
+      "\r99% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.053662,
+      "\r                                     \rAtteint http://fr.archive.ubuntu.com trusty Release\r\n\r99% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000659,
+      "\r                                     \r99% [Release gpgv 58,5 kB] [Attente des fichiers d'en-tête] [Attente des fichi"
+    ],
+    [
+      0.014284,
+      "\r                                                                               \rRéception de : 2 http://fr.archive.ubuntu.com trusty-updates Release [63,5 kB]"
+    ],
+    [
+      0.000818,
+      "\r\n"
+    ],
+    [
+      0.000523,
+      "\r3% [Release gpgv 58,5 kB] [2 Release 1 146 B/63,5 kB 2%] [Attente des fichiers "
+    ],
+    [
+      0.002856,
+      "\r                                                                               \r10% [2 Release 5 466 B/63,5 kB 9%] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.011533,
+      "\r                                                                    \rRéception de : 3 http://security.ubuntu.com trusty-security Release.gpg [933 B]"
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.000391,
+      "\r24% [2 Release 14,1 kB/63,5 kB 22%] [3 Release.gpg 933 B/933 B 100%]"
+    ],
+    [
+      0.000637,
+      "\r                                                                    \r24% [2 Release 14,1 kB/63,5 kB 22%]"
+    ],
+    [
+      0.087197,
+      "\r                                   \r100% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000696,
+      "\r                                      \r100% [2 Release gpgv 63,5 kB] [Attente des fichiers d'en-tête] [Attente des fi"
+    ],
+    [
+      0.018889,
+      "\r                                                                               \r100% [Attente des fichiers d'en-tête] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.002336,
+      "\r                                                                        \rRéception de : 4 http://security.ubuntu.com trusty-security Release [63,5 kB]\r\n"
+    ],
+    [
+      0.000027,
+      "\r                                                                        \r52% [Attente des fichiers d'en-tête] [4 Release 1 132 B/63,5 kB 2%]"
+    ],
+    [
+      0.014334,
+      "\r                                                                    \rAtteint http://fr.archive.ubuntu.com trusty-backports Release\r\n"
+    ],
+    [
+      0.000156,
+      "\r                                                                    \r62% [4 Release 14,1 kB/63,5 kB 22%]"
+    ],
+    [
+      0.000297,
+      "\r                                   \r62% [Release gpgv 63,5 kB] [Attente des fichiers d'en-tête] [4 Release 14,1 kB"
+    ],
+    [
+      0.015049,
+      "\r                                                                               \r62% [Attente des fichiers d'en-tête] [4 Release 14,1 kB/63,5 kB 22%]"
+    ],
+    [
+      0.033361,
+      "\r                                                                     \rAtteint http://fr.archive.ubuntu.com trusty/main Sources\r\n"
+    ],
+    [
+      0.000029,
+      "\r                                                                     \r62% [4 Release 14,1 kB/63,5 kB 22%]"
+    ],
+    [
+      0.000746,
+      "\r                                   \r62% [Sources 5 000 kB] [Attente des fichiers d'en-tête] [4 Release 14,1 kB/63,"
+    ],
+    [
+      0.018307,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/restricted Sources"
+    ],
+    [
+      0.000525,
+      "\r\n"
+    ],
+    [
+      0.000960,
+      "\r62% [Sources 5 000 kB] [Attente des fichiers d'en-tête] [4 Release 14,1 kB/63,"
+    ],
+    [
+      0.048163,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/universe Sources"
+    ],
+    [
+      0.000721,
+      "\r\n"
+    ],
+    [
+      0.000551,
+      "\r                                                                               \r80% [Sources 5 000 kB] [4 Release 37,1 kB/63,5 kB 59%]"
+    ],
+    [
+      0.035231,
+      "\r                                                      \rAtteint http://fr.archive.ubuntu.com trusty/multiverse Sources"
+    ],
+    [
+      0.000616,
+      "\r\n"
+    ],
+    [
+      0.000496,
+      "\r84% [Sources 5 000 kB] [4 Release 42,9 kB/63,5 kB 68%]"
+    ],
+    [
+      0.034666,
+      "\r                                                      \rAtteint http://fr.archive.ubuntu.com trusty/main amd64 Packages"
+    ],
+    [
+      0.000723,
+      "\r\n"
+    ],
+    [
+      0.000482,
+      "\r84% [Sources 5 000 kB] [4 Release 42,9 kB/63,5 kB 68%]"
+    ],
+    [
+      0.003106,
+      "\r                                                      \r100% [Attente des fichiers d'en-tête] [4 Release 42,9 kB/63,5 kB 68%]"
+    ],
+    [
+      0.000860,
+      "\r                                                                      \r100% [Sources 22,9 kB] [Attente des fichiers d'en-tête] [4 Release 42,9 kB/63,"
+    ],
+    [
+      0.001050,
+      "\r                                                                               \r100% [Attente des fichiers d'en-tête] [4 Release 42,9 kB/63,5 kB 68%]"
+    ],
+    [
+      0.000082,
+      "\r                                                                      \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [4 Release 42,9 kB/63,"
+    ],
+    [
+      0.024473,
+      "\r                                                                               \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000860,
+      "\r                                                        \r100% [Sources 27,9 MB] [4 Release gpgv 63,5 kB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.003782,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/restricted amd64 Packages"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\r100% [Sources 27,9 MB] [4 Release gpgv 63,5 kB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.020698,
+      "\r                                                                               \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.012896,
+      "\r                                                        \rAtteint http://fr.archive.ubuntu.com trusty/universe amd64 Packages"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "\r                                                        \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.034627,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/multiverse amd64 Packages"
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "\r                                                                               \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.034409,
+      "\r                                                        \rAtteint http://fr.archive.ubuntu.com trusty/main i386 Packages"
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.026215,
+      "\r                                                        \rRéception de : 5 http://security.ubuntu.com trusty-security/main Sources [79,3 kB]"
+    ],
+    [
+      0.001207,
+      "\r\n"
+    ],
+    [
+      0.000567,
+      "\r                                                        \r99% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [5 Sources 2 536 B/79,3"
+    ],
+    [
+      0.058360,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/restricted i386 Packages"
+    ],
+    [
+      0.000397,
+      "\r\n"
+    ],
+    [
+      0.000393,
+      "\r                                                                               \r100% [Sources 27,9 MB] [5 Sources 54,4 kB/79,3 kB 69%]"
+    ],
+    [
+      0.103629,
+      "\r                                                      \rAtteint http://fr.archive.ubuntu.com trusty/universe i386 Packages"
+    ],
+    [
+      0.000769,
+      "\r\n"
+    ],
+    [
+      0.000656,
+      "\r100% [Sources 27,9 MB] [5 Sources 54,4 kB/79,3 kB 69%]"
+    ],
+    [
+      0.025747,
+      "\r                                                      \rRéception de : 6 https://get.docker.com docker InRelease"
+    ],
+    [
+      0.000580,
+      "\r\n"
+    ],
+    [
+      0.000764,
+      "\r                                                      \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [5 Sources 54,4 kB/79,"
+    ],
+    [
+      0.006429,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/multiverse i386 Packages"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.000385,
+      "\r                                                                               \r100% [Sources 27,9 MB] [5 Sources 54,4 kB/79,3 kB 69%] [6 InRelease 11,9 kB]"
+    ],
+    [
+      0.040387,
+      "\r                                                                            \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [6 InRelease 11,9 kB]"
+    ],
+    [
+      0.001841,
+      "\r                                                                              \r100% [5 Sources bzip2 0 B] [Sources 27,9 MB] [Attente des fichiers d'en-tête] "
+    ],
+    [
+      0.025312,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/main Translation-fr"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "\r100% [5 Sources bzip2 0 B] [Sources 27,9 MB] [Attente des fichiers d'en-tête] "
+    ],
+    [
+      0.021214,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.015901,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/main Translation-en"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.000588,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.044085,
+      "\r                                                                               \rRéception de : 7 http://security.ubuntu.com trusty-security/restricted Sources [2 061 B]"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.001201,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [7 Sources 2 061 B/2 0"
+    ],
+    [
+      0.000630,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.000876,
+      "\r100% [7 Sources bzip2 0 B] [Sources 27,9 MB] [Attente des fichiers d'en-tête] "
+    ],
+    [
+      0.003226,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.017555,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/multiverse Translation-fr"
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.054376,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/multiverse Translation-en"
+    ],
+    [
+      0.000636,
+      "\r\n"
+    ],
+    [
+      0.000477,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.008282,
+      "\r                                                                               \rIgn https://get.docker.com docker InRelease"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.021382,
+      "\r                                                                               \rRéception de : 8 http://security.ubuntu.com trusty-security/universe Sources [21,4 kB]"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [8 Sources 1 097 B/21,"
+    ],
+    [
+      0.022777,
+      "\r                                                                               \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.004772,
+      "\r                                                        \r100% [8 Sources bzip2 0 B] [Sources 27,9 MB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.007339,
+      "\r                                                                              \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.022825,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/restricted Translation-fr"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.032826,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/restricted Translation-en"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.045048,
+      "\r                                                                               \rRéception de : 9 http://security.ubuntu.com trusty-security/multiverse Sources [1 922 B]"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [9 Sources 1 099 B/1 9"
+    ],
+    [
+      0.000831,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.001679,
+      "\r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête] [Attente des fichiers "
+    ],
+    [
+      0.019622,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/universe Translation-fr"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "\r                                                                               \r100% [Sources 27,9 MB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.024059,
+      "\r                                                        \r100% [Attente des fichiers d'en-tête] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000150,
+      "\r                                                                        \r100% [Sources 711 kB] [Attente des fichiers d'en-tête] [Attente des fichiers d"
+    ],
+    [
+      0.009547,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty/universe Translation-en"
+    ],
+    [
+      0.000287,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "\r                                                                               \r100% [Sources 711 kB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.010860,
+      "\r                                                       \r100% [Attente des fichiers d'en-tête] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000266,
+      "\r                                                                        \r100% [Packages 8 235 kB] [Attente des fichiers d'en-tête] [Attente des fichier"
+    ],
+    [
+      0.024173,
+      "\r                                                                               \rRéception de : 10 http://fr.archive.ubuntu.com trusty-updates/main Sources [195 kB]"
+    ],
+    [
+      0.000555,
+      "\r\n"
+    ],
+    [
+      0.000534,
+      "\r99% [Packages 8 235 kB] [10 Sources 2 549 B/195 kB 1%] [Attente des fichiers d'"
+    ],
+    [
+      0.039424,
+      "\r                                                                               \rRéception de : 11 http://security.ubuntu.com trusty-security/main amd64 Packages [264 kB]"
+    ],
+    [
+      0.000625,
+      "\r\n"
+    ],
+    [
+      0.000619,
+      "\r99% [Packages 8 235 kB] [10 Sources 35,7 kB/195 kB 18%] [11 Packages 1 095 B/26"
+    ],
+    [
+      0.180472,
+      "\r                                                                               \r99% [10 Sources 134 kB/195 kB 69%] [11 Packages 32,8 kB/264 kB 12%]"
+    ],
+    [
+      0.000422,
+      "\r                                                                   \r99% [Packages 184 kB] [10 Sources 134 kB/195 kB 69%] [11 Packages 32,8 kB/264 k"
+    ],
+    [
+      0.006505,
+      "\r                                                                               \r99% [10 Sources 135 kB/195 kB 69%] [11 Packages 34,2 kB/264 kB 13%]"
+    ],
+    [
+      0.000838,
+      "\r                                                                   \r99% [Packages 31,7 MB] [10 Sources 135 kB/195 kB 69%] [11 Packages 34,2 kB/264 "
+    ],
+    [
+      0.091142,
+      "\r                                                                               \r100% [Packages 31,7 MB] [11 Packages 55,8 kB/264 kB 21%]"
+    ],
+    [
+      0.005939,
+      "\r                                                        \r100% [10 Sources bzip2 0 B] [Packages 31,7 MB] [11 Packages 61,6 kB/264 kB 23%]"
+    ],
+    [
+      0.048824,
+      "\r                                                                               \rRéception de : 12 http://fr.archive.ubuntu.com trusty-updates/restricted Sources [2 564 B]\r\n"
+    ],
+    [
+      0.000241,
+      "\r100% [10 Sources bzip2 0 B] [Packages 31,7 MB] [12 Sources 1 113 B/2 564 B 43%]"
+    ],
+    [
+      0.001735,
+      "\r100% [10 Sources bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-tête"
+    ],
+    [
+      0.035386,
+      "\r                                                                               \rRéception de : 13 http://fr.archive.ubuntu.com trusty-updates/universe Sources [113 kB]"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\r99% [10 Sources bzip2 0 B] [Packages 31,7 MB] [13 Sources 1 109 B/113 kB 1%] [1"
+    ],
+    [
+      0.039124,
+      "\r100% [Packages 31,7 MB] [13 Sources 35,7 kB/113 kB 32%] [11 Packages 149 kB/264"
+    ],
+    [
+      0.000308,
+      "\r100% [12 Sources bzip2 0 B] [Packages 31,7 MB] [13 Sources 35,7 kB/113 kB 32%] "
+    ],
+    [
+      0.001593,
+      "\r100% [Packages 31,7 MB] [13 Sources 37,1 kB/113 kB 33%] [11 Packages 149 kB/264"
+    ],
+    [
+      0.131788,
+      "\r                                                                               \rAtteint https://get.docker.com docker Release.gpg"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000398,
+      "\r100% [Packages 31,7 MB] [13 Sources 60,1 kB/113 kB 53%] [11 Packages 195 kB/264"
+    ],
+    [
+      0.070253,
+      "\r                                                                               \r100% [Packages 31,7 MB] [11 Packages 195 kB/264 kB 74%]"
+    ],
+    [
+      0.005911,
+      "\r                                                       \r100% [13 Sources bzip2 0 B] [Packages 31,7 MB] [11 Packages 195 kB/264 kB 74%]"
+    ],
+    [
+      0.009073,
+      "\r                                                                              \r100% [13 Sources bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-tête"
+    ],
+    [
+      0.030521,
+      "\r                                                                               \rRéception de : 14 http://fr.archive.ubuntu.com trusty-updates/multiverse Sources [4 773 B]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000266,
+      "\r100% [13 Sources bzip2 0 B] [Packages 31,7 MB] [14 Sources 1 112 B/4 773 B 23%]"
+    ],
+    [
+      0.033109,
+      "\r100% [13 Sources bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-tête"
+    ],
+    [
+      0.021815,
+      "\r100% [Packages 31,7 MB] [Attente des fichiers d'en-tête] [Attente des fichiers"
+    ],
+    [
+      0.000298,
+      "\r100% [11 Packages bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.012506,
+      "\r                                                                               \rRéception de : 15 http://fr.archive.ubuntu.com trusty-updates/main amd64 Packages [507 kB]\r\n"
+    ],
+    [
+      0.000033,
+      "\r99% [11 Packages bzip2 0 B] [Packages 31,7 MB] [15 Packages 1 109 B/507 kB 0%] "
+    ],
+    [
+      0.010052,
+      "\r                                                                               \rRéception de : 16 http://security.ubuntu.com trusty-security/restricted amd64 Packages [8 875 B]\r\n"
+    ],
+    [
+      0.000028,
+      "\r99% [11 Packages bzip2 0 B] [Packages 31,7 MB] [15 Packages 6 869 B/507 kB 1%] "
+    ],
+    [
+      0.008943,
+      "\r99% [11 Packages bzip2 0 B] [Packages 31,7 MB] [15 Packages 6 869 B/507 kB 1%] "
+    ],
+    [
+      0.107755,
+      "\r                                                                               \rRéception de : 17 http://security.ubuntu.com trusty-security/universe amd64 Packages [99,8 kB]\r\n"
+    ],
+    [
+      0.000045,
+      "\r99% [11 Packages bzip2 0 B] [Packages 31,7 MB] [15 Packages 41,4 kB/507 kB 8%] "
+    ],
+    [
+      0.061844,
+      "\r99% [Packages 31,7 MB] [15 Packages 48,6 kB/507 kB 10%] [17 Packages 47,2 kB/99"
+    ],
+    [
+      0.000448,
+      "\r99% [14 Sources bzip2 0 B] [Packages 31,7 MB] [15 Packages 50,1 kB/507 kB 10%] "
+    ],
+    [
+      0.002121,
+      "\r99% [Packages 31,7 MB] [15 Packages 51,5 kB/507 kB 10%] [17 Packages 47,2 kB/99"
+    ],
+    [
+      0.000398,
+      "\r99% [16 Packages bzip2 0 B] [Packages 31,7 MB] [15 Packages 52,9 kB/507 kB 10%]"
+    ],
+    [
+      0.010708,
+      "\r99% [Packages 31,7 MB] [15 Packages 57,3 kB/507 kB 11%] [17 Packages 47,2 kB/99"
+    ],
+    [
+      0.151983,
+      "\r                                                                               \r99% [Packages 31,7 MB] [15 Packages 129 kB/507 kB 26%]"
+    ],
+    [
+      0.006047,
+      "\r                                                      \r99% [17 Packages bzip2 0 B] [Packages 31,7 MB] [15 Packages 129 kB/507 kB 26%]"
+    ],
+    [
+      0.067413,
+      "\r                                                                              \r99% [Packages 31,7 MB] [15 Packages 160 kB/507 kB 31%] [Attente des fichiers d'"
+    ],
+    [
+      0.041741,
+      "\r                                                                               \r100% [15 Packages 183 kB/507 kB 36%] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000419,
+      "\r                                                                      \r100% [Packages 664 kB] [15 Packages 183 kB/507 kB 36%] [Attente des fichiers d'"
+    ],
+    [
+      0.009103,
+      "\r                                                                               \rRéception de : 18 http://security.ubuntu.com trusty-security/multiverse amd64 Packages [3 451 B]"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "\r100% [Packages 664 kB] [15 Packages 190 kB/507 kB 37%] [18 Packages 1 099 B/3 4"
+    ],
+    [
+      0.002912,
+      "\r100% [Packages 664 kB] [15 Packages 190 kB/507 kB 37%] [Attente des fichiers d'"
+    ],
+    [
+      0.003454,
+      "\r100% [Packages 664 kB] [15 Packages 190 kB/507 kB 37%] [Attente des fichiers d'"
+    ],
+    [
+      0.004066,
+      "\r                                                                               \r100% [15 Packages 190 kB/507 kB 37%] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000336,
+      "\r                                                                      \r100% [Packages 8 205 kB] [15 Packages 190 kB/507 kB 37%] [Attente des fichiers "
+    ],
+    [
+      0.099823,
+      "\r                                                                               \rRéception de : 19 http://security.ubuntu.com trusty-security/main i386 Packages [253 kB]"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "\r99% [Packages 8 205 kB] [15 Packages 242 kB/507 kB 48%] [19 Packages 1 095 B/25"
+    ],
+    [
+      0.084473,
+      "\r                                                                               \rAtteint https://get.docker.com docker Release"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\r99% [Packages 8 205 kB] [15 Packages 257 kB/507 kB 51%] [19 Packages 50,1 kB/25"
+    ],
+    [
+      0.000390,
+      "\r99% [Packages 8 205 kB] [Release gpgv 1 525 B] [15 Packages 257 kB/507 kB 51%] "
+    ],
+    [
+      0.003844,
+      "\r99% [Packages 8 205 kB] [15 Packages 257 kB/507 kB 51%] [19 Packages 50,1 kB/25"
+    ],
+    [
+      0.055269,
+      "\r                                                                               \r100% [15 Packages 283 kB/507 kB 56%] [19 Packages 73,1 kB/253 kB 29%]"
+    ],
+    [
+      0.000419,
+      "\r                                                                     \r100% [Packages 185 kB] [15 Packages 283 kB/507 kB 56%] [19 Packages 73,1 kB/253"
+    ],
+    [
+      0.005994,
+      "\r                                                                               \r100% [15 Packages 289 kB/507 kB 57%] [19 Packages 73,1 kB/253 kB 29%]"
+    ],
+    [
+      0.000271,
+      "\r                                                                     \r100% [Packages 31,7 MB] [15 Packages 289 kB/507 kB 57%] [19 Packages 73,1 kB/25"
+    ],
+    [
+      0.397459,
+      "\r                                                                               \r100% [Packages 31,7 MB] [15 Packages 448 kB/507 kB 88%]"
+    ],
+    [
+      0.001756,
+      "\r                                                       \r100% [19 Packages bzip2 0 B] [Packages 31,7 MB] [15 Packages 448 kB/507 kB 88%]"
+    ],
+    [
+      0.101514,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.016865,
+      "\r                                                                               \rRéception de : 20 http://security.ubuntu.com trusty-security/restricted i386 Packages [8 846 B]"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.008158,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.068152,
+      "\r100% [Packages 31,7 MB] [Attente des fichiers d'en-tête] [Attente des fichiers"
+    ],
+    [
+      0.000416,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.010409,
+      "\r                                                                               \rRéception de : 21 http://fr.archive.ubuntu.com trusty-updates/restricted amd64 Packages [9 238 B]"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [21 Packages 1 112 B/9 238 B 12"
+    ],
+    [
+      0.009260,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.020011,
+      "\r                                                                               \rRéception de : 22 http://security.ubuntu.com trusty-security/universe i386 Packages [99,9 kB]"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.061150,
+      "\r                                                                               \rRéception de : 23 http://fr.archive.ubuntu.com trusty-updates/universe amd64 Packages [273 kB]"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [23 Packages 1 109 B/273 kB 0%]"
+    ],
+    [
+      0.018930,
+      "\r                                                                               \rAtteint https://get.docker.com docker/main amd64 Packages"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [23 Packages 11,2 kB/273 kB 4%]"
+    ],
+    [
+      0.148456,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [23 Packages 68,8 kB/273 kB 25%"
+    ],
+    [
+      0.114303,
+      "\r                                                                               \rRéception de : 24 http://security.ubuntu.com trusty-security/multiverse i386 Packages [3 643 B]\r\n"
+    ],
+    [
+      0.000011,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [23 Packages 122 kB/273 kB 45%]"
+    ],
+    [
+      0.002798,
+      "\r100% [15 Packages bzip2 0 B] [Packages 31,7 MB] [23 Packages 122 kB/273 kB 45%]"
+    ],
+    [
+      0.007281,
+      "\r100% [15 Packages bzip2 0 B] [23 Packages 128 kB/273 kB 47%] [Attente des fichi"
+    ],
+    [
+      0.000193,
+      "\r100% [15 Packages bzip2 0 B] [Packages 674 kB] [23 Packages 128 kB/273 kB 47%] "
+    ],
+    [
+      0.032176,
+      "\r100% [Packages 674 kB] [23 Packages 144 kB/273 kB 53%] [Attente des fichiers d'"
+    ],
+    [
+      0.000500,
+      "\r                                                                               \r100% [23 Packages 145 kB/273 kB 53%] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000213,
+      "\r                                                                      \r100% [Translation-fr 4 615 kB] [23 Packages 145 kB/273 kB 53%] [Attente des fic"
+    ],
+    [
+      0.000128,
+      "\r100% [20 Packages bzip2 0 B] [Translation-fr 4 615 kB] [23 Packages 145 kB/273 "
+    ],
+    [
+      0.010012,
+      "\r100% [Translation-fr 4 615 kB] [23 Packages 145 kB/273 kB 53%] [Attente des fic"
+    ],
+    [
+      0.000468,
+      "\r100% [21 Packages bzip2 0 B] [Translation-fr 4 615 kB] [23 Packages 145 kB/273 "
+    ],
+    [
+      0.010544,
+      "\r100% [Translation-fr 4 615 kB] [23 Packages 151 kB/273 kB 55%] [Attente des fic"
+    ],
+    [
+      0.000333,
+      "\r100% [22 Packages bzip2 0 B] [Translation-fr 4 615 kB] [23 Packages 152 kB/273 "
+    ],
+    [
+      0.044627,
+      "\r                                                                               \rAtteint http://security.ubuntu.com trusty-security/main Translation-en"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "\r100% [22 Packages bzip2 0 B] [Translation-fr 4 615 kB] [23 Packages 177 kB/273 "
+    ],
+    [
+      0.020872,
+      "\r100% [Translation-fr 4 615 kB] [23 Packages 185 kB/273 kB 68%] [Attente des fic"
+    ],
+    [
+      0.000469,
+      "\r100% [24 Packages bzip2 0 B] [Translation-fr 4 615 kB] [23 Packages 185 kB/273 "
+    ],
+    [
+      0.001776,
+      "\r100% [Translation-fr 4 615 kB] [23 Packages 187 kB/273 kB 68%] [Attente des fic"
+    ],
+    [
+      0.052135,
+      "\r                                                                               \r100% [23 Packages 208 kB/273 kB 76%] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000409,
+      "\r                                                                      \r100% [Translation-en 4 149 kB] [23 Packages 208 kB/273 kB 76%] [Attente des fic"
+    ],
+    [
+      0.031888,
+      "\r                                                                               \rAtteint http://security.ubuntu.com trusty-security/multiverse Translation-en"
+    ],
+    [
+      0.000704,
+      "\r\n"
+    ],
+    [
+      0.000571,
+      "\r                                                                               \r100% [Translation-en 4 149 kB] [23 Packages 227 kB/273 kB 83%]"
+    ],
+    [
+      0.083493,
+      "\r                                                              \r100% [Translation-en 4 149 kB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.003212,
+      "\r                                                                \r100% [23 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.003393,
+      "\r                                                              \r100% [23 Packages bzip2 0 B] [Translation-fr 479 kB] [Attente des fichiers d'en"
+    ],
+    [
+      0.011325,
+      "\r100% [23 Packages bzip2 0 B] [Attente des fichiers d'en-tête] [Attente des fic"
+    ],
+    [
+      0.000445,
+      "\r100% [23 Packages bzip2 0 B] [Translation-en 409 kB] [Attente des fichiers d'en"
+    ],
+    [
+      0.003831,
+      "\r                                                                               \rAtteint http://security.ubuntu.com trusty-security/restricted Translation-en"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\r100% [23 Packages bzip2 0 B] [Translation-en 409 kB] [Attente des fichiers d'en"
+    ],
+    [
+      0.008644,
+      "\r100% [23 Packages bzip2 0 B] [Attente des fichiers d'en-tête] [Attente des fic"
+    ],
+    [
+      0.000427,
+      "\r100% [23 Packages bzip2 0 B] [Translation-fr 24,0 kB] [Attente des fichiers d'e"
+    ],
+    [
+      0.001347,
+      "\r100% [23 Packages bzip2 0 B] [Attente des fichiers d'en-tête] [Attente des fic"
+    ],
+    [
+      0.000285,
+      "\r100% [23 Packages bzip2 0 B] [Translation-en 21,2 kB] [Attente des fichiers d'e"
+    ],
+    [
+      0.001010,
+      "\r100% [23 Packages bzip2 0 B] [Attente des fichiers d'en-tête] [Attente des fic"
+    ],
+    [
+      0.000245,
+      "\r100% [23 Packages bzip2 0 B] [Translation-fr 13,6 MB] [Attente des fichiers d'e"
+    ],
+    [
+      0.003206,
+      "\r                                                                               \rRéception de : 25 http://fr.archive.ubuntu.com trusty-updates/multiverse amd64 Packages [11,8 kB]"
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "\r100% [23 Packages bzip2 0 B] [Translation-fr 13,6 MB] [25 Packages 1 111 B/11,8"
+    ],
+    [
+      0.011762,
+      "\r100% [23 Packages bzip2 0 B] [Translation-fr 13,6 MB] [Attente des fichiers d'e"
+    ],
+    [
+      0.034779,
+      "\r                                                                               \rRéception de : 26 http://fr.archive.ubuntu.com trusty-updates/main i386 Packages [495 kB]"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\r100% [23 Packages bzip2 0 B] [Translation-fr 13,6 MB] [26 Packages 1 109 B/495 "
+    ],
+    [
+      0.124200,
+      "\r100% [Translation-fr 13,6 MB] [26 Packages 74,5 kB/495 kB 15%] [Attente des fic"
+    ],
+    [
+      0.000182,
+      "\r100% [25 Packages bzip2 0 B] [Translation-fr 13,6 MB] [26 Packages 74,5 kB/495 "
+    ],
+    [
+      0.005081,
+      "\r100% [Translation-fr 13,6 MB] [26 Packages 76,0 kB/495 kB 15%] [Attente des fic"
+    ],
+    [
+      0.064613,
+      "\r                                                                               \rAtteint http://security.ubuntu.com trusty-security/universe Translation-en"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "\r                                                                               \r100% [Translation-fr 13,6 MB] [26 Packages 111 kB/495 kB 22%]"
+    ],
+    [
+      0.003053,
+      "\r                                                             \rAtteint https://get.docker.com docker/main i386 Packages"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "\r100% [Translation-fr 13,6 MB] [26 Packages 113 kB/495 kB 23%]"
+    ],
+    [
+      0.153250,
+      "\r                                                             \r100% [26 Packages 197 kB/495 kB 40%]"
+    ],
+    [
+      0.003194,
+      "\r                                    \r100% [Translation-en 18,6 MB] [26 Packages 198 kB/495 kB 40%]"
+    ],
+    [
+      0.466265,
+      "\r                                                             \r100% [Translation-en 18,6 MB]"
+    ],
+    [
+      0.001688,
+      "\r                             \r100% [26 Packages bzip2 0 B] [Translation-en 18,6 MB]"
+    ],
+    [
+      0.043632,
+      "\r                                                     \rRéception de : 27 http://fr.archive.ubuntu.com trusty-updates/restricted i386 Packages [9 256 B]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\r                                                     \r100% [26 Packages bzip2 0 B] [Translation-en 18,6 MB] [27 Packages 1 112 B/9 25"
+    ],
+    [
+      0.009058,
+      "\r100% [26 Packages bzip2 0 B] [Translation-en 18,6 MB] [Attente des fichiers d'e"
+    ],
+    [
+      0.011784,
+      "\r                                                                               \r100% [26 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000443,
+      "\r                                                              \r100% [26 Packages bzip2 0 B] [Packages 42,9 kB] [Attente des fichiers d'en-têt"
+    ],
+    [
+      0.001961,
+      "\r                                                                               \r100% [26 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000287,
+      "\r                                                              \r100% [26 Packages bzip2 0 B] [Translation-en 1 451 kB] [Attente des fichiers d'"
+    ],
+    [
+      0.020261,
+      "\r                                                                               \rRéception de : 28 http://fr.archive.ubuntu.com trusty-updates/universe i386 Packages [274 kB]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\r100% [26 Packages bzip2 0 B] [Translation-en 1 451 kB] [28 Packages 1 109 B/274"
+    ],
+    [
+      0.022021,
+      "\r                                                                               \r100% [26 Packages bzip2 0 B] [28 Packages 19,8 kB/274 kB 7%]"
+    ],
+    [
+      0.000603,
+      "\r                                                            \r100% [26 Packages bzip2 0 B] [Translation-en 5 539 B] [28 Packages 21,3 kB/274 "
+    ],
+    [
+      0.000340,
+      "\r                                                                               \r100% [26 Packages bzip2 0 B] [28 Packages 21,3 kB/274 kB 8%]"
+    ],
+    [
+      0.000222,
+      "\r                                                            \r100% [26 Packages bzip2 0 B] [Translation-en 15,4 kB] [28 Packages 21,3 kB/274 "
+    ],
+    [
+      0.001198,
+      "\r                                                                               \r100% [26 Packages bzip2 0 B] [28 Packages 22,7 kB/274 kB 8%]"
+    ],
+    [
+      0.000300,
+      "\r                                                            \r100% [26 Packages bzip2 0 B] [Translation-en 290 kB] [28 Packages 22,7 kB/274 k"
+    ],
+    [
+      0.008831,
+      "\r                                                                               \r100% [26 Packages bzip2 0 B] [28 Packages 28,5 kB/274 kB 10%]"
+    ],
+    [
+      0.000326,
+      "\r                                                             \r100% [26 Packages bzip2 0 B] [Packages 0 B] [28 Packages 28,5 kB/274 kB 10%]"
+    ],
+    [
+      0.000182,
+      "\r                                                                            \r100% [26 Packages bzip2 0 B] [28 Packages 28,5 kB/274 kB 10%]"
+    ],
+    [
+      0.028451,
+      "\r                                                             \rRéception de : 29 https://get.docker.com docker/main Translation-fr_FR"
+    ],
+    [
+      0.000562,
+      "\r\n"
+    ],
+    [
+      0.000549,
+      "\r                                                             \r100% [26 Packages bzip2 0 B] [28 Packages 37,1 kB/274 kB 14%] [29 Translation-f"
+    ],
+    [
+      0.243736,
+      "\r                                                                               \r100% [28 Packages 181 kB/274 kB 66%] [29 Translation-fr_FR 56,9 kB]"
+    ],
+    [
+      0.001125,
+      "\r                                                                   \r100% [27 Packages bzip2 0 B] [28 Packages 183 kB/274 kB 67%] [29 Translation-fr"
+    ],
+    [
+      0.010429,
+      "\r                                                                               \r100% [28 Packages 184 kB/274 kB 67%] [29 Translation-fr_FR 56,9 kB]"
+    ],
+    [
+      0.123230,
+      "\r                                                                   \r100% [En cours]"
+    ],
+    [
+      0.000361,
+      "\r               \r100% [28 Packages bzip2 0 B]"
+    ],
+    [
+      0.041169,
+      "\r                            \rRéception de : 30 http://fr.archive.ubuntu.com trusty-updates/multiverse i386 Packages [11,9 kB]\r\n"
+    ],
+    [
+      0.000056,
+      "\r                            \r100% [28 Packages bzip2 0 B] [30 Packages 1 111 B/11,9 kB 9%]"
+    ],
+    [
+      0.011987,
+      "\r                                                             \r100% [28 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.033678,
+      "\r                                                              \rAtteint http://fr.archive.ubuntu.com trusty-updates/main Translation-en"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "\r                                                              \r100% [28 Packages bzip2 0 B]"
+    ],
+    [
+      0.002679,
+      "\r                            \r100% [28 Packages bzip2 0 B] [Translation-en 2 128 kB] [Attente des fichiers d'"
+    ],
+    [
+      0.031056,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-updates/multiverse Translation-en\r\n"
+    ],
+    [
+      0.000012,
+      "\r                                                                               \r100% [28 Packages bzip2 0 B] [Translation-en 2 128 kB]"
+    ],
+    [
+      0.032624,
+      "\r                                                      \r100% [28 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000282,
+      "\r                                                              \r100% [28 Packages bzip2 0 B] [Translation-en 21,4 kB] [Attente des fichiers d'e"
+    ],
+    [
+      0.000991,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-updates/restricted Translation-en\r\n\r100% [28 Packages bzip2 0 B] [Translation-en 21,4 kB] [Attente des fichiers d'e"
+    ],
+    [
+      0.000619,
+      "\r                                                                               \r100% [28 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.000171,
+      "\r                                                              \r100% [28 Packages bzip2 0 B] [Translation-en 15,7 kB] [Attente des fichiers d'e"
+    ],
+    [
+      0.000707,
+      "\r                                                                               \r100% [28 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.033063,
+      "\r                                                              \rAtteint http://fr.archive.ubuntu.com trusty-updates/universe Translation-en"
+    ],
+    [
+      0.000830,
+      "\r\n"
+    ],
+    [
+      0.000474,
+      "\r                                                              \r100% [28 Packages bzip2 0 B]"
+    ],
+    [
+      0.001168,
+      "\r                            \r100% [28 Packages bzip2 0 B] [Translation-en 726 kB] [Attente des fichiers d'en"
+    ],
+    [
+      0.028660,
+      "\r                                                                               \r100% [28 Packages bzip2 0 B] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.004011,
+      "\r                                                              \rAtteint http://fr.archive.ubuntu.com trusty-backports/main Sources\r\n"
+    ],
+    [
+      0.000012,
+      "\r                                                              \r100% [28 Packages bzip2 1 638 kB] [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.001898,
+      "\r                                                                   \r100% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.001158,
+      "\r100% [Attente des fichiers d'en-tête]"
+    ],
+    [
+      0.005305,
+      "\r                                      \r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.025039,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/restricted Sources\r\n"
+    ],
+    [
+      0.000026,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.000401,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.033425,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/universe Sources\r\n"
+    ],
+    [
+      0.000021,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.002567,
+      "\r100% [Sources 95,4 kB] [Attente des fichiers d'en-tête]           27,4 MB/s 0s"
+    ],
+    [
+      0.004165,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.027439,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/multiverse Sources"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.001691,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.031315,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/main amd64 Packages"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.002605,
+      "\r100% [Packages 24,0 kB] [Attente des fichiers d'en-tête]          27,4 MB/s 0s"
+    ],
+    [
+      0.000846,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.029807,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/restricted amd64 Packages\r\n"
+    ],
+    [
+      0.000017,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.000747,
+      "\r100% [Packages 0 B] [Attente des fichiers d'en-tête]              27,4 MB/s 0s"
+    ],
+    [
+      0.000671,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.032055,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/universe amd64 Packages\r\n"
+    ],
+    [
+      0.000326,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.003695,
+      "\r100% [Packages 137 kB] [Attente des fichiers d'en-tête]           27,4 MB/s 0s"
+    ],
+    [
+      0.004003,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.093661,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/multiverse amd64 Packages"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.000879,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.032985,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/main i386 Packages"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000235,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.003964,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.029048,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/restricted i386 Packages\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.000700,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.043745,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/universe i386 Packages\r\n"
+    ],
+    [
+      0.000028,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.002513,
+      "\r100% [Packages 137 kB] [Attente des fichiers d'en-tête]           27,4 MB/s 0s"
+    ],
+    [
+      0.007199,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.024246,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/multiverse i386 Packages\r\n"
+    ],
+    [
+      0.000406,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.000710,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.032947,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/main Translation-en\r\n"
+    ],
+    [
+      0.000251,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.000774,
+      "\r100% [Translation-en 12,4 kB] [Attente des fichiers d'en-tête]    27,4 MB/s 0s"
+    ],
+    [
+      0.002136,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.049464,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/multiverse Translation-en\r\n"
+    ],
+    [
+      0.000043,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.001206,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.032592,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/restricted Translation-en"
+    ],
+    [
+      0.000665,
+      "\r\n\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.000184,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.032706,
+      "\r                                                                               \rAtteint http://fr.archive.ubuntu.com trusty-backports/universe Translation-en\r\n"
+    ],
+    [
+      0.000169,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.002677,
+      "\r100% [Translation-en 98,0 kB] [Attente des fichiers d'en-tête]    27,4 MB/s 0s"
+    ],
+    [
+      0.008093,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.503778,
+      "\r100% [Attente des fichiers d'en-tête]                             27,4 MB/s 0s"
+    ],
+    [
+      0.006471,
+      "\r                                                                               \rIgn http://fr.archive.ubuntu.com trusty/main Translation-fr_FR"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.033483,
+      "\r                                                                               \rIgn http://fr.archive.ubuntu.com trusty/multiverse Translation-fr_FR"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.034018,
+      "\r                                                                               \rIgn http://fr.archive.ubuntu.com trusty/restricted Translation-fr_FR"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.033797,
+      "\r                                                                               \rIgn http://fr.archive.ubuntu.com trusty/universe Translation-fr_FR\r\n"
+    ],
+    [
+      0.000023,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500832,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500975,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500764,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500928,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500685,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500835,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500846,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500861,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.501197,
+      "\r100% [En cours]                                                    27,4 MB/s 0s"
+    ],
+    [
+      0.500664,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500818,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500536,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500826,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500813,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500841,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500701,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500694,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500614,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500665,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500639,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500701,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.299945,
+      "\r                                                                               \rIgn https://get.docker.com docker/main Translation-fr_FR\r\n"
+    ],
+    [
+      0.000025,
+      "\r100% [En cours]                                                    86,5 kB/s 0s"
+    ],
+    [
+      0.500742,
+      "\r                                                                               \r100% [En cours]"
+    ],
+    [
+      0.500724,
+      "\r100% [En cours]"
+    ],
+    [
+      0.004710,
+      "\r               \rIgn https://get.docker.com docker/main Translation-fr\r\n"
+    ],
+    [
+      0.000056,
+      "\r100% [En cours]"
+    ],
+    [
+      0.500766,
+      "\r100% [En cours]"
+    ],
+    [
+      0.500765,
+      "\r100% [En cours]"
+    ],
+    [
+      0.053497,
+      "\r               \rIgn https://get.docker.com docker/main Translation-en\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [En cours]"
+    ],
+    [
+      0.000020,
+      "\r               \r"
+    ],
+    [
+      0.000077,
+      "2 881 ko réceptionnés en 20s (143 ko/s)\r\n"
+    ],
+    [
+      0.042573,
+      "\rLecture des listes de paquets… 0%\r"
+    ],
+    [
+      0.067270,
+      "\rLecture des listes de paquets… 0%\r"
+    ],
+    [
+      0.065713,
+      "\rLecture des listes de paquets… 1%\r"
+    ],
+    [
+      0.284110,
+      "\rLecture des listes de paquets… 5%\r"
+    ],
+    [
+      0.000018,
+      "\rLecture des listes de paquets… 5%\r"
+    ],
+    [
+      0.002885,
+      "\rLecture des listes de paquets… 5%\r"
+    ],
+    [
+      0.000017,
+      "\rLecture des listes de paquets… 5%\r"
+    ],
+    [
+      0.441155,
+      "\rLecture des listes de paquets… 12%\r"
+    ],
+    [
+      0.713888,
+      "\rLecture des listes de paquets… 21%\r"
+    ],
+    [
+      0.736872,
+      "\rLecture des listes de paquets… 27%\r"
+    ],
+    [
+      0.000020,
+      "\rLecture des listes de paquets… 27%\r"
+    ],
+    [
+      0.020459,
+      "\rLecture des listes de paquets… 28%\r"
+    ],
+    [
+      0.031746,
+      "\rLecture des listes de paquets… 28%\r"
+    ],
+    [
+      0.000018,
+      "\rLecture des listes de paquets… 28%\r"
+    ],
+    [
+      0.316111,
+      "\rLecture des listes de paquets… 33%\r"
+    ],
+    [
+      0.000222,
+      "\rLecture des listes de paquets… 33%\r"
+    ],
+    [
+      0.003729,
+      "\rLecture des listes de paquets… 34%\r"
+    ],
+    [
+      0.000216,
+      "\rLecture des listes de paquets… 34%\r"
+    ],
+    [
+      0.364198,
+      "\rLecture des listes de paquets… 41%\r"
+    ],
+    [
+      0.745766,
+      "\rLecture des listes de paquets… 55%\r"
+    ],
+    [
+      0.075034,
+      "\rLecture des listes de paquets… 56%\r\rLecture des listes de paquets… 56%\r"
+    ],
+    [
+      0.030098,
+      "\rLecture des listes de paquets… 56%\r"
+    ],
+    [
+      0.000216,
+      "\rLecture des listes de paquets… 56%\r"
+    ],
+    [
+      0.177090,
+      "\rLecture des listes de paquets… 59%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 59%\r"
+    ],
+    [
+      0.163392,
+      "\rLecture des listes de paquets… 62%\r"
+    ],
+    [
+      0.000213,
+      "\rLecture des listes de paquets… 62%\r"
+    ],
+    [
+      0.015191,
+      "\rLecture des listes de paquets… 62%\r"
+    ],
+    [
+      0.000208,
+      "\rLecture des listes de paquets… 62%\r"
+    ],
+    [
+      0.014937,
+      "\rLecture des listes de paquets… 63%\r"
+    ],
+    [
+      0.000216,
+      "\rLecture des listes de paquets… 63%\r"
+    ],
+    [
+      0.001121,
+      "\rLecture des listes de paquets… 63%\r"
+    ],
+    [
+      0.000255,
+      "\rLecture des listes de paquets… 63%\r"
+    ],
+    [
+      0.000860,
+      "\rLecture des listes de paquets… 63%\r"
+    ],
+    [
+      0.000225,
+      "\rLecture des listes de paquets… 63%\r"
+    ],
+    [
+      0.224816,
+      "\rLecture des listes de paquets… 68%\r"
+    ],
+    [
+      0.480584,
+      "\rLecture des listes de paquets… 76%\r"
+    ],
+    [
+      0.000337,
+      "\rLecture des listes de paquets… 76%\r"
+    ],
+    [
+      0.265520,
+      "\rLecture des listes de paquets… 82%\r"
+    ],
+    [
+      0.198668,
+      "\rLecture des listes de paquets… 85%\r"
+    ],
+    [
+      0.000218,
+      "\rLecture des listes de paquets… 85%\r"
+    ],
+    [
+      0.209442,
+      "\rLecture des listes de paquets… 87%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 87%\r"
+    ],
+    [
+      0.002826,
+      "\rLecture des listes de paquets… 87%\r"
+    ],
+    [
+      0.000214,
+      "\rLecture des listes de paquets… 87%\r"
+    ],
+    [
+      0.114029,
+      "\rLecture des listes de paquets… 89%\r"
+    ],
+    [
+      0.000213,
+      "\rLecture des listes de paquets… 89%\r"
+    ],
+    [
+      0.005404,
+      "\rLecture des listes de paquets… 89%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 89%\r"
+    ],
+    [
+      0.143320,
+      "\rLecture des listes de paquets… 91%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 91%\r"
+    ],
+    [
+      0.002626,
+      "\rLecture des listes de paquets… 91%\r"
+    ],
+    [
+      0.000213,
+      "\rLecture des listes de paquets… 91%\r"
+    ],
+    [
+      0.042538,
+      "\rLecture des listes de paquets… 92%\r"
+    ],
+    [
+      0.048089,
+      "\rLecture des listes de paquets… 92%\r"
+    ],
+    [
+      0.000216,
+      "\rLecture des listes de paquets… 92%\r"
+    ],
+    [
+      0.004439,
+      "\rLecture des listes de paquets… 92%\r"
+    ],
+    [
+      0.000214,
+      "\rLecture des listes de paquets… 92%\r"
+    ],
+    [
+      0.091132,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.001094,
+      "\rLecture des listes de paquets… 94%\r\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.001117,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000248,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.033861,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.002151,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000263,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000144,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.010348,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000216,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000452,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000211,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.001761,
+      "\rLecture des listes de paquets… 94%\r\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000497,
+      "\rLecture des listes de paquets… 94%\r\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.006209,
+      "\rLecture des listes de paquets… 94%\r\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000588,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000597,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000436,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000349,
+      "\rLecture des listes de paquets… 94%\r\rLecture des listes de paquets… 94%\r\rLecture des listes de paquets… 94%\r\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.003248,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.000216,
+      "\rLecture des listes de paquets… 94%\r"
+    ],
+    [
+      0.038341,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.001281,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.000207,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.012460,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.000197,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.001491,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.000214,
+      "\rLecture des listes de paquets… 96%\r"
+    ],
+    [
+      0.023527,
+      "\rLecture des listes de paquets… 97%\r"
+    ],
+    [
+      0.000217,
+      "\rLecture des listes de paquets… 97%\r"
+    ],
+    [
+      0.001129,
+      "\rLecture des listes de paquets… 97%\r"
+    ],
+    [
+      0.000292,
+      "\rLecture des listes de paquets… 97%\r"
+    ],
+    [
+      0.008838,
+      "\rLecture des listes de paquets… 98%\r"
+    ],
+    [
+      0.000270,
+      "\rLecture des listes de paquets… 98%\r"
+    ],
+    [
+      0.001353,
+      "\rLecture des listes de paquets… 98%\r"
+    ],
+    [
+      0.000184,
+      "\rLecture des listes de paquets… 98%\r"
+    ],
+    [
+      0.054781,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.000215,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.000209,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.000209,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.001006,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.000214,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.013259,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.000214,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.003288,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.000149,
+      "\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.749077,
+      "\rLecture des listes de paquets… 99%\r\rLecture des listes de paquets… 99%\r"
+    ],
+    [
+      0.726369,
+      "\rLecture des listes de paquets... Fait\r\r\n"
+    ],
+    [
+      0.006943,
+      "\u001b]0;shynii@serveur: ~\u0007shynii@serveur:~$ "
+    ],
+    [
+      47.733442,
+      "e"
+    ],
+    [
+      0.241673,
+      "x"
+    ],
+    [
+      0.185792,
+      "i"
+    ],
+    [
+      0.106979,
+      "t"
+    ],
+    [
+      0.065454,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
