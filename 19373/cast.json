@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 23,
+  "duration": 12.160590,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.112075,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000030,
+      "\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.012783,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % \u001b[K\u001b[28C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[75D"
+    ],
+    [
+      0.000045,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.911399,
+      "\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.063524,
+      "\u0008\u001b[4mp\u001b[4my\u001b[24m"
+    ],
+    [
+      0.079556,
+      "\u0008\u0008\u001b[4mp\u001b[4my\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.084506,
+      "\u0008\u0008\u0008\u001b[24m\u001b[32mp\u001b[24m\u001b[32my\u001b[24m\u001b[32mt\u001b[32mhon\u001b[39m"
+    ],
+    [
+      0.173701,
+      " ada/manage.py test -- testsuite/tests/typing\u001b[K"
+    ],
+    [
+      1.454323,
+      "\u001b[44D\u001b[4ma\u001b[4md\u001b[4ma\u001b[4m/\u001b[4mm\u001b[4ma\u001b[4mn\u001b[4ma\u001b[4mg\u001b[4me\u001b[4m.\u001b[4mp\u001b[4my\u001b[24m \u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[24m\u001b[4C\u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[4ms\u001b[4mu\u001b[4mi\u001b[4mt\u001b[4me\u001b[4m/\u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[4ms\u001b[4m/\u001b[4mt\u001b[4my\u001b[4mp\u001b[4mi\u001b[4mn\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.000012,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000019,
+      "\r\r\n"
+    ],
+    [
+      0.000822,
+      "\u001b]2;python ada/manage.py test -- testsuite/tests/typing\u0007\u001b]1;python\u0007"
+    ],
+    [
+      0.021821,
+      "Traceback (most recent call last):\r\n"
+    ],
+    [
+      0.000008,
+      "  File \"ada/manage.py\", line 13, in \u003cmodule\u003e\r\n"
+    ],
+    [
+      0.000037,
+      "    from gnatpython import fileutils\r\n"
+    ],
+    [
+      0.000007,
+      "ImportError: "
+    ],
+    [
+      0.000018,
+      "No module named gnatpython"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002928,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.010137,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m % "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[28C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[75D"
+    ],
+    [
+      0.000050,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.163861,
+      "\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.325787,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.064362,
+      "\u0008\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33mo\u001b[4m\u001b[33mu\u001b[24m\u001b[39m"
+    ],
+    [
+      0.091476,
+      "\u0008\u001b[4m\u001b[33mu\u001b[4m\u001b[33mr\u001b[24m\u001b[39m"
+    ],
+    [
+      0.165145,
+      "\u0008\u0008\u0008\u0008\u001b[24m\u001b[1m\u001b[31ms\u001b[24m\u001b[1m\u001b[31mo\u001b[24m\u001b[1m\u001b[31mu\u001b[24m\u001b[1m\u001b[31mr\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.046031,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32ms\u001b[0m\u001b[32mo\u001b[0m\u001b[32mu\u001b[0m\u001b[32mr\u001b[0m\u001b[32mc\u001b[32me\u001b[39m"
+    ],
+    [
+      0.076801,
+      " ~/envs/libadalang_env/bin/activate\u001b[K\u001b[3C"
+    ],
+    [
+      0.004317,
+      "\u001b[37D\u001b[4m~\u001b[4m/\u001b[4me\u001b[4mn\u001b[4mv\u001b[4ms\u001b[4m/\u001b[4ml\u001b[4mi\u001b[4mb\u001b[4ma\u001b[4md\u001b[4ma\u001b[4ml\u001b[4ma\u001b[4mn\u001b[4mg\u001b[4m_\u001b[4me\u001b[4mn\u001b[4mv\u001b[4m/\u001b[4mb\u001b[4mi\u001b[4mn\u001b[4m/\u001b[4ma\u001b[4mc\u001b[4mt\u001b[4mi\u001b[4mv\u001b[4ma\u001b[4mt\u001b[4me\u001b[24m\u001b[3C "
+    ],
+    [
+      0.970436,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001089,
+      "\u001b]2;source ~/envs/libadalang_env/bin/activate\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;source\u0007"
+    ],
+    [
+      0.010690,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.031233,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(libadalang_env)\u001b[32m % \u001b[K\u001b[12C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[59D\u001b[?1h\u001b="
+    ],
+    [
+      0.246542,
+      "source ~/envs/libadalang_env/bin/activate\u001b[K\u001b[4C"
+    ],
+    [
+      0.144117,
+      "\u001b[45Dpython ada/manage.py test -- testsuite/\u001b[2Csts/typing"
+    ],
+    [
+      0.383050,
+      "\u001b[51Dsource ~/envs/libadalang_env/bin/activa\u001b[2C          \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.216547,
+      "\u001b[45Dpython ada/manage.py test -- testsuite/\u001b[2Csts/typing"
+    ],
+    [
+      1.075676,
+      "\u001b[51D\u001b[32mp\u001b[32my\u001b[32mt\u001b[32mh\u001b[32mo\u001b[32mn\u001b[39m \u001b[4ma\u001b[4md\u001b[4ma\u001b[4m/\u001b[4mm\u001b[4ma\u001b[4mn\u001b[4ma\u001b[4mg\u001b[4me\u001b[4m.\u001b[4mp\u001b[4my\u001b[24m \u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[24m\u001b[4C\u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[4ms\u001b[4mu\u001b[4mi\u001b[4mt\u001b[4me\u001b[4m/\u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[4ms\u001b[4m/\u001b[4mt\u001b[4my\u001b[4mp\u001b[4mi\u001b[4mn\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.000014,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000149,
+      "\r\r\n"
+    ],
+    [
+      0.001932,
+      "\u001b]2;python ada/manage.py test -- testsuite/tests/typing\u0007\u001b]1;python\u0007"
+    ],
+    [
+      0.333536,
+      "\u001b[31mERROR    (1/13): typing__private_2               : FAILED python returned status code 1\u001b[m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[31mERROR    Testcase output was:\r\n"
+    ],
+    [
+      0.000003,
+      "python returned status code 1\r\n"
+    ],
+    [
+      0.000003,
+      "Traceback (most recent call last):\r\n"
+    ],
+    [
+      0.000002,
+      "  File \"test.py\", line 10, in \u003cmodule\u003e\r\n"
+    ],
+    [
+      0.000002,
+      "    assign_statement.resolve_run()\r\n"
+    ],
+    [
+      0.000002,
+      "  File \"/home/amiard/PycharmProjects/libadalang/python_src/extensions.py\", line 192, in resolve_run"
+    ],
+    [
+      0.000002,
+      "\r\n    self.construct_ref_equation(eq_context)"
+    ],
+    [
+      0.000003,
+      "\r\n  File \"/home/amiard/PycharmProjects/libadalang/python_src/extensions.py\", line 294, in construct_ref_equation"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "    self.dest.construct_ref_equation(eq_context)\r\n"
+    ],
+    [
+      0.000003,
+      "  File \"/home/amiard/PycharmProjects/libadalang/python_src/extensions.py\", line 788, in construct_ref_equation\r\n"
+    ],
+    [
+      0.000002,
+      "    for entity in self.suffix.get_entities()]\r\n"
+    ],
+    [
+      0.000003,
+      "AttributeError: 'PackageDecl' object has no attribute 'constrain_prefix'\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.256215,
+      "\u001b[31mERROR    (2/13): typing__tagged_records          : FAILED output is not as expected\u001b[m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[31mERROR    Testcase output was:\r\n"
+    ],
+    [
+      0.000004,
+      "--- expected\r\n+++ output"
+    ],
+    [
+      0.000004,
+      "\r\n@@ -1,5 +1,5 @@"
+    ],
+    [
+      0.000004,
+      "\r\n-Node \u003cPrefix 40:4 to 40:17\u003e, references \u003cSubprogramSpec 11:4 to 11:43\u003e"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "+Node \u003cPrefix 40:4 to 40:17\u003e, references None\r\n"
+    ],
+    [
+      0.000004,
+      " Node \u003cPrefix 41:4 to 41:17\u003e, references \u003cSubprogramSpec 26:4 to 26:56\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "-Node \u003cAssignStatement 42:4 to 42:24\u003e, type is \u003cSignedIntTypeDef 2:20 to 2:33\u003e"
+    ],
+    [
+      0.000005,
+      "\r\n-Node \u003cIdentifier Prim_2 42:16 to 42:22\u003e, references \u003cSubprogramSpec 16:4 to 16:63\u003e"
+    ],
+    [
+      0.000006,
+      "\r\n+Node \u003cAssignStatement 42:4 to 42:24\u003e, type is None\r\n"
+    ],
+    [
+      0.000006,
+      "+Node \u003cIdentifier Prim_2 42:16 to 42:22\u003e, references None\r\n"
+    ],
+    [
+      0.000005,
+      " done\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[m\r\n"
+    ],
+    [
+      0.191687,
+      "INFO     (3/13): typing__default_expr            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.153599,
+      "^C"
+    ],
+    [
+      0.005599,
+      "Traceback (most recent call last):\r\n  File \"/home/amiard/PycharmProjects/libadalang/testsuite/run-test\", line 14, in \u003cmodule\u003e\r\nTraceback (most recent call last):\r\n  File \"ada/manage.py\", line 464, in \u003cmodule\u003e\r\n    Testsuite(os.path.dirname(__file__)).test_main()\r\n  File \"/home/amiard/envs/libadalang_env/local/lib/python2.7/site-packages/gnatpython/testsuite/__init__.py\", line 181, in test_main\r\n\u001b[31mERROR    User interrupt\u001b[m\r\n    instance.run()\r\n    args.func(args, dirs)\r\n  File \"/home/amiard/PycharmProjects/libadalang/testsuite/testsuite_support/base_driver.py\", line 40, in wrapper\r\n  File \"ada/manage.py\", line 215, in test\r\n    return func(self, *args, **kwargs)\r\n  File \"/home/amiard/PycharmProjects/libadalang/testsuite/testsuite_support/python_driver.py\", line 32, in run\r\n    self.run_and_check(['python', 'test.py'], for_debug=True)\r\n    ] + getattr(args, 'testsuite-args'), env=env)\r\n  File \"/home/amiard/PycharmProjects/libadalang/testsuite/testsuite_support/base_driver.py\", line 222, in run_and_check\r\n  File \"/usr/lib/python2.7/subprocess.py\", line 535, in check_call\r\n    error=STDOUT)\r\n  File \"/home/amiard/envs/libadalang_env/local/lib/python2.7/site-packages/gnatpython/ex.py\", line 329, in __init__\r\n    retcode = call(*popenargs, **kwargs)\r\n  File \"/usr/lib/python2.7/subprocess.py\", line 522, in call\r\n    self.wait()\r\n  File \"/home/amiard/envs/libadalang_env/local/lib/python2.7/site-packages/gnatpython/ex.py\", line 382, in wait\r\n    return Popen(*popenargs, **kwargs).wait()\r\n  File \"/usr/lib/python2.7/subprocess.py\", line 1376, in wait\r\n    self.status = self.internal.wait()\r\n  File \"/usr/lib/python2.7/subprocess.py\", line 1376, in wait\r\n    pid, sts = _eintr_retry_call(os.waitpid, self.pid, 0)\r\n  File \"/usr/lib/python2.7/subprocess.py\", line 476, in _eintr_retry_call\r\n    pid, sts = _eintr_retry_call(os.waitpid, self.pid, 0)\r\n  File \"/usr/lib/python2.7/subprocess.py\", line 476, in _eintr_retry_call\r\n    return func(*args)\r\n    return func(*args)\r\nKeyboardInterrupt\r\nKeyboardInterrupt\r\n"
+    ],
+    [
+      0.003104,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.016611,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(libadalang_env)\u001b[31m % \u001b[K\u001b[12C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[59D"
+    ],
+    [
+      0.000023,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.076096,
+      "\u001b[31mERROR    (4/13): typing__tagged_records_2        : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[31mERROR    Testcase output was:\r\n\u001b[m\r\n"
+    ],
+    [
+      0.101609,
+      "\u001b[31mERROR    (5/13): typing__numbers                 : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[31mERROR    Testcase output was:\r\n\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001121,
+      "\u001b[31mERROR    (6/13): typing__subp_overload           : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[31mERROR    Testcase output was:\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m\r\n"
+    ],
+    [
+      0.001115,
+      "\u001b[31mERROR    (7/13): typing__enums                   : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[31mERROR    Testcase output was:\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[m\r\n"
+    ],
+    [
+      0.001118,
+      "\u001b[31mERROR    (8/13): typing__records                 : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[31mERROR    Testcase output was:\r\n\u001b[m\r\n"
+    ],
+    [
+      0.001110,
+      "\u001b[31mERROR    (9/13): typing__proc_call               : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[31mERROR    Testcase output was:\r\n\u001b[m\r\n"
+    ],
+    [
+      0.001113,
+      "\u001b[31mERROR    (10/13): typing__proc_call_named         : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[31mERROR    Testcase output was:\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m\r\n"
+    ],
+    [
+      0.001139,
+      "\u001b[31mERROR    (11/13): typing__enums_2                 : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[31mERROR    Testcase output was:\r\n\u001b[m\r\n"
+    ],
+    [
+      0.001095,
+      "\u001b[31mERROR    (12/13): typing__packages                : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[31mERROR    Testcase output was:\r\n\u001b[m\r\n"
+    ],
+    [
+      0.001091,
+      "\u001b[31mERROR    (13/13): typing__private                 : CRASH cannot find result file\u001b[m\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[31mERROR    Testcase output was:\r\n\u001b[m\r\n"
+    ],
+    [
+      0.000051,
+      "Traceback (most recent call last):"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "  File \"/home/amiard/PycharmProjects/libadalang/testsuite/testsuite.py\", line 14, in \u003cmodule\u003e"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "    "
+    ],
+    [
+      0.000004,
+      "Testsuite(os.path.dirname(__file__)).testsuite_main()\r\n"
+    ],
+    [
+      0.000020,
+      "  File \"/home/amiard/envs/libadalang_env/local/lib/python2.7/site-packages/gnatpython/testsuite/__init__.py\", line 327, in testsuite_main"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "    "
+    ],
+    [
+      0.000004,
+      "MainLoop(self.test_list, self.launch_test, self.collect_result)\r\n"
+    ],
+    [
+      0.000015,
+      "  File \"/home/amiard/envs/libadalang_env/local/lib/python2.7/site-packages/gnatpython/mainloop.py\", line 293, in __init__"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "    "
+    ],
+    [
+      0.000003,
+      "sleep(poll_sleep)\r\n"
+    ],
+    [
+      0.000017,
+      "KeyboardInterrupt"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      1.147443,
+      "\r\r\n"
+    ],
+    [
+      0.000475,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000048,
+      "\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.016109,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(libadalang_env)\u001b[31m % "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[12C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[59D"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.888574,
+      "\r\r\n"
+    ]
+  ]
+}
