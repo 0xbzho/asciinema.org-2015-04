@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 180.624196,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.059712,
+      "\u001b]0;user@debian:/home/user/Documents/ACO210/Project 2 Revised\u0007\u001b]7;file://debian/home/user/Documents/ACO210/Project%202%20Revised\u0007"
+    ],
+    [
+      0.000567,
+      "\u001b]0;user@debian: ~/Documents/ACO210/Project 2 Revised\u0007user@debian:~/Documents/ACO210/Project 2 Revised$ "
+    ],
+    [
+      2.965349,
+      "java Factory "
+    ],
+    [
+      0.484648,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[6@c Factory.java\u001b[C"
+    ],
+    [
+      1.778073,
+      "\r\n"
+    ],
+    [
+      0.610201,
+      "\u001b]0;user@debian:/home/user/Documents/ACO210/Project 2 Revised\u0007\u001b]7;file://debian/home/user/Documents/ACO210/Project%202%20Revised\u0007\u001b]0;user@debian: ~/Documents/ACO210/Project 2 Revised\u0007user@debian:~/Documents/ACO210/Project 2 Revised$ "
+    ],
+    [
+      0.400432,
+      "javac Factory.java "
+    ],
+    [
+      0.349236,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[6P Factory\u001b[C"
+    ],
+    [
+      2.393356,
+      "\r\n"
+    ],
+    [
+      0.069166,
+      "Enter size of memory: "
+    ],
+    [
+      2.052513,
+      "5"
+    ],
+    [
+      0.533767,
+      "1"
+    ],
+    [
+      0.072030,
+      "2"
+    ],
+    [
+      0.536457,
+      "\r\n"
+    ],
+    [
+      0.001035,
+      "Enter size of frame: "
+    ],
+    [
+      0.656326,
+      "8"
+    ],
+    [
+      0.220779,
+      "\r\n"
+    ],
+    [
+      0.009672,
+      "Thread 1 has been started"
+    ],
+    [
+      0.000087,
+      "\r\nThread 4 has been started\r\n"
+    ],
+    [
+      0.000048,
+      "Thread 0 has been started"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "Thread 3 has been started"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000594,
+      "Thread 2 has been started"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      3.002391,
+      "\r\nThread 0 Page 0 has frame number 0\r\nThread 0 Page 1 has frame number 1\r\nThread 0 Page 2 has frame number 2\r\nThread 0 Page 3 has frame number 3\r\nThread 0 Page 4 has frame number 4\r\nThread 0 Page 5 has frame number 5\r\nThread 0 Page 6 has frame number 6\r\nThread 0 Page 7 has frame number 7\r\nThread 0 Page 8 has frame number 8\r\nThread 0 Page 9 has frame number 9\r\nThread 0 Page 10 has frame number 10\r\nThread 0 Page 11 has frame number 11\r\nThread 0 Page 12 has frame number 12\r\nThread 0 Page 13 has frame number 13\r\nThread 0 Page 14 has frame number 14\r\nThread 0 Page 15 has frame number 15\r\nThread 0 Page 16 has frame number 16\r\nThread 0 Page 17 has frame number 17\r\nThread 0 Page 18 has frame number 18\r\nThread 0 Page 19 has frame number 19\r\n"
+    ],
+    [
+      4.002110,
+      "Thread 0 has been allocated memory space true\r\nThread 0 requests for page number 19 which has frame number 19 \r\n\r\n"
+    ],
+    [
+      3.998895,
+      "\r\nThread 1 Page 0 has frame number 20\r\nThread 1 Page 1 has frame number 21\r\nThread 1 Page 2 has frame number 22\r\nThread 1 Page 3 has frame number 23\r\nThread 1 Page 4 has frame number 24\r\nThread 1 Page 5 has frame number 25\r\nThread 1 Page 6 has frame number 26\r\nThread 1 Page 7 has frame number 27\r\nThread 1 Page 8 has frame number 28\r\nThread 1 Page 9 has frame number 29\r\nThread 1 Page 10 has frame number 30\r\n"
+    ],
+    [
+      4.000483,
+      "Thread 1 has been allocated memory space true\r\nThread 1 requests for page number 1 which has frame number 21 \r\n\r\n"
+    ],
+    [
+      3.001625,
+      "\r\nThread 2 Page 0 has frame number 31\r\nThread 2 Page 1 has frame number 32\r\nThread 2 Page 2 has frame number 33\r\nThread 2 Page 3 has frame number 34\r\nThread 2 Page 4 has frame number 35\r\nThread 2 Page 5 has frame number 36\r\nThread 2 Page 6 has frame number 37\r\nThread 2 Page 7 has frame number 38\r\nThread 2 Page 8 has frame number 39\r\nThread 2 Page 9 has frame number 40\r\nThread 2 Page 10 has frame number 41\r\nThread 2 Page 11 has frame number 42\r\nThread 2 Page 12 has frame number 43\r\nThread 2 Page 13 has frame number 44\r\nThread 2 Page 14 has frame number 45\r\n"
+    ],
+    [
+      0.000677,
+      "Thread 2 has been allocated memory space true\r\nThread 2 requests for page number 3 which has frame number 34 \r\n\r\n"
+    ],
+    [
+      0.999847,
+      "\r\nThread 3 Page 0 has frame number 46\r\nThread 3 Page 1 has frame number 47\r\nThread 3 Page 2 has frame number 48\r\nThread 3 Page 3 has frame number 49\r\nThread 3 Page 4 has frame number 50\r\nThread 3 Page 5 has frame number 51\r\nThread 3 Page 6 has frame number 52\r\nThread 3 Page 7 has frame number 53\r\nThread 3 Page 8 has frame number 54\r\nThread 3 Page 9 has frame number 55\r\nThread 3 Page 10 has frame number 56\r\nThread 3 Page 11 has frame number 57\r\n"
+    ],
+    [
+      2.000391,
+      "Thread 3 has been allocated memory space true\r\nThread 3 requests for page number 1 which has frame number 47 \r\n\r\n"
+    ],
+    [
+      2.999944,
+      "Thread 4 has been allocated memory space false\r\n"
+    ],
+    [
+      3.000131,
+      "\r\n"
+    ],
+    [
+      4.000354,
+      "Clearing Memory\r\n\r\n"
+    ],
+    [
+      4.000178,
+      "Thread 0 has been started\r\n"
+    ],
+    [
+      6.000200,
+      "Thread 1 has been started\r\n"
+    ],
+    [
+      5.000264,
+      "Thread 2 has been started\r\n"
+    ],
+    [
+      5.000214,
+      "Thread 3 has been started\r\n"
+    ],
+    [
+      3.000218,
+      "Thread 4 has been started\r\n"
+    ],
+    [
+      0.000708,
+      "\r\nThread 0 Page 0 has frame number 0\r\nThread 0 Page 1 has frame number 1\r\nThread 0 Page 2 has frame number 2\r\nThread 0 Page 3 has frame number 3\r\nThread 0 Page 4 has frame number 4\r\nThread 0 Page 5 has frame number 5\r\nThread 0 Page 6 has frame number 6\r\nThread 0 Page 7 has frame number 7\r\nThread 0 Page 8 has frame number 8\r\nThread 0 Page 9 has frame number 9\r\nThread 0 Page 10 has frame number 10\r\nThread 0 Page 11 has frame number 11\r\nThread 0 Page 12 has frame number 12\r\nThread 0 Page 13 has frame number 13\r\nThread 0 Page 14 has frame number 14\r\nThread 0 Page 15 has frame number 15\r\nThread 0 Page 16 has frame number 16\r\nThread 0 Page 17 has frame number 17\r\nThread 0 Page 18 has frame number 18\r\nThread 0 Page 19 has frame number 19\r\n"
+    ],
+    [
+      4.001365,
+      "Thread 0 has been allocated memory space true\r\nThread 0 requests for page number 13 which has frame number 13 \r\n\r\n"
+    ],
+    [
+      0.001467,
+      "\r\nThread 1 Page 0 has frame number 20\r\nThread 1 Page 1 has frame number 21\r\nThread 1 Page 2 has frame number 22\r\nThread 1 Page 3 has frame number 23\r\nThread 1 Page 4 has frame number 24\r\nThread 1 Page 5 has frame number 25\r\nThread 1 Page 6 has frame number 26\r\nThread 1 Page 7 has frame number 27\r\nThread 1 Page 8 has frame number 28\r\nThread 1 Page 9 has frame number 29\r\nThread 1 Page 10 has frame number 30\r\n"
+    ],
+    [
+      2.000398,
+      "Thread 1 has been allocated memory space true\r\nThread 1 requests for page number 5 which has frame number 25 \r\n\r\n"
+    ],
+    [
+      3.000242,
+      "\r\nThread 2 Page 0 has frame number 31\r\nThread 2 Page 1 has frame number 32\r\nThread 2 Page 2 has frame number 33\r\nThread 2 Page 3 has frame number 34\r\nThread 2 Page 4 has frame number 35\r\nThread 2 Page 5 has frame number 36\r\nThread 2 Page 6 has frame number 37\r\nThread 2 Page 7 has frame number 38\r\nThread 2 Page 8 has frame number 39\r\nThread 2 Page 9 has frame number 40\r\nThread 2 Page 10 has frame number 41\r\nThread 2 Page 11 has frame number 42\r\nThread 2 Page 12 has frame number 43\r\nThread 2 Page 13 has frame number 44\r\nThread 2 Page 14 has frame number 45\r\n"
+    ],
+    [
+      4.000354,
+      "Thread 2 has been allocated memory space true\r\nThread 2 requests for page number 12 which has frame number 43 \r\n\r\n"
+    ],
+    [
+      2.000184,
+      "\r\nThread 3 Page 0 has frame number 46\r\nThread 3 Page 1 has frame number 47\r\nThread 3 Page 2 has frame number 48\r\nThread 3 Page 3 has frame number 49\r\nThread 3 Page 4 has frame number 50\r\nThread 3 Page 5 has frame number 51\r\nThread 3 Page 6 has frame number 52\r\nThread 3 Page 7 has frame number 53\r\nThread 3 Page 8 has frame number 54\r\nThread 3 Page 9 has frame number 55\r\nThread 3 Page 10 has frame number 56\r\nThread 3 Page 11 has frame number 57\r\n"
+    ],
+    [
+      3.000360,
+      "Thread 3 has been allocated memory space true\r\nThread 3 requests for page number 11 which has frame number 57 \r\n\r\n"
+    ],
+    [
+      3.999955,
+      "Thread 4 has been allocated memory space false\r\n"
+    ],
+    [
+      4.000238,
+      "\r\n"
+    ],
+    [
+      3.000480,
+      "Clearing Memory\r\n\r\n"
+    ],
+    [
+      1.000129,
+      "Thread 0 has been started\r\n"
+    ],
+    [
+      3.000298,
+      "Thread 1 has been started\r\n"
+    ],
+    [
+      2.000171,
+      "Thread 2 has been started\r\n"
+    ],
+    [
+      2.000307,
+      "Thread 3 has been started\r\n"
+    ],
+    [
+      4.000202,
+      "Thread 4 has been started\r\n"
+    ],
+    [
+      0.000390,
+      "\r\nThread 0 Page 0 has frame number 0\r\nThread 0 Page 1 has frame number 1\r\nThread 0 Page 2 has frame number 2\r\nThread 0 Page 3 has frame number 3\r\nThread 0 Page 4 has frame number 4\r\nThread 0 Page 5 has frame number 5\r\nThread 0 Page 6 has frame number 6\r\nThread 0 Page 7 has frame number 7\r\nThread 0 Page 8 has frame number 8\r\nThread 0 Page 9 has frame number 9\r\nThread 0 Page 10 has frame number 10\r\nThread 0 Page 11 has frame number 11\r\n"
+    ],
+    [
+      0.000285,
+      "Thread 0 Page 12 has frame number 12\r\nThread 0 Page 13 has frame number 13\r\nThread 0 Page 14 has frame number 14\r\nThread 0 Page 15 has frame number 15\r\nThread 0 Page 16 has frame number 16\r\nThread 0 Page 17 has frame number 17\r\nThread 0 Page 18 has frame number 18\r\nThread 0 Page 19 has frame number 19\r\n"
+    ],
+    [
+      4.000466,
+      "Thread 0 has been allocated memory space true\r\nThread 0 requests for page number 12 which has frame number 12 \r\n\r\n"
+    ],
+    [
+      1.000652,
+      "\r\nThread 1 Page 0 has frame number 20\r\nThread 1 Page 1 has frame number 21\r\nThread 1 Page 2 has frame number 22\r\nThread 1 Page 3 has frame number 23\r\nThread 1 Page 4 has frame number 24\r\nThread 1 Page 5 has frame number 25\r\nThread 1 Page 6 has frame number 26\r\nThread 1 Page 7 has frame number 27\r\nThread 1 Page 8 has frame number 28\r\nThread 1 Page 9 has frame number 29\r\nThread 1 Page 10 has frame number 30\r\n"
+    ],
+    [
+      0.000559,
+      "Thread 1 has been allocated memory space true\r\nThread 1 requests for page number 9 which has frame number 29 \r\n\r\n"
+    ],
+    [
+      3.001806,
+      "\r\nThread 2 Page 0 has frame number 31\r\nThread 2 Page 1 has frame number 32\r\nThread 2 Page 2 has frame number 33\r\nThread 2 Page 3 has frame number 34\r\nThread 2 Page 4 has frame number 35\r\nThread 2 Page 5 has frame number 36\r\nThread 2 Page 6 has frame number 37\r\nThread 2 Page 7 has frame number 38\r\nThread 2 Page 8 has frame number 39\r\nThread 2 Page 9 has frame number 40\r\nThread 2 Page 10 has frame number 41\r\nThread 2 Page 11 has frame number 42\r\nThread 2 Page 12 has frame number 43\r\nThread 2 Page 13 has frame number 44\r\nThread 2 Page 14 has frame number 45\r\n"
+    ],
+    [
+      0.001108,
+      "Thread 2 has been allocated memory space true\r\n\r\n"
+    ],
+    [
+      0.000738,
+      "Thread 3 Page 0 has frame number 46\r\nThread 3 Page 1 has frame number 47\r\nThread 3 Page 2 has frame number 48\r\nThread 3 Page 3 has frame number 49\r\nThread 3 Page 4 has frame number 50\r\nThread 3 Page 5 has frame number 51\r\nThread 3 Page 6 has frame number 52\r\nThread 3 Page 7 has frame number 53\r\nThread 3 Page 8 has frame number 54\r\nThread 3 Page 9 has frame number 55\r\nThread 3 Page 10 has frame number 56\r\nThread 3 Page 11 has frame number 57\r\n"
+    ],
+    [
+      0.000598,
+      "Thread 2 requests for page number 12 which has frame number 43 \r\n\r\n"
+    ],
+    [
+      4.000020,
+      "Thread 3 has been allocated memory space true\r\nThread 4 has been allocated memory space false"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.001530,
+      "Thread 3 requests for page number 1 which has frame number 47 \r\n\r\n"
+    ],
+    [
+      1.999016,
+      "\r\n"
+    ],
+    [
+      5.001020,
+      "Clearing Memory\r\n\r\n"
+    ],
+    [
+      2.000301,
+      "Thread 0 has been started\r\n"
+    ],
+    [
+      1.000390,
+      "Thread 1 has been started\r\n"
+    ],
+    [
+      1.992396,
+      "^C"
+    ],
+    [
+      0.015019,
+      "\u001b]0;user@debian:/home/user/Documents/ACO210/Project 2 Revised\u0007\u001b]7;file://debian/home/user/Documents/ACO210/Project%202%20Revised\u0007\u001b]0;user@debian: ~/Documents/ACO210/Project 2 Revised\u0007user@debian:~/Documents/ACO210/Project 2 Revised$ "
+    ],
+    [
+      47.233018,
+      "e"
+    ],
+    [
+      0.171324,
+      "x"
+    ],
+    [
+      0.109723,
+      "i"
+    ],
+    [
+      0.200525,
+      "t"
+    ],
+    [
+      0.683906,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
