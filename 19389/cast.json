@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "width": 106,
+  "height": 29,
+  "duration": 9.761933,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.112268,
+      "\u001b]0;root@localhost:/var/www/html/crm\u0007\u001b[?1034h[root@localhost crm]# "
+    ],
+    [
+      0.932334,
+      "/tmp/php-build.5.5.0.20150430103910.log"
+    ],
+    [
+      2.438330,
+      "\u0008\u0008\u0008"
+    ],
+    [
+      0.500638,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.084093,
+      "\u0008\u0008"
+    ],
+    [
+      0.084748,
+      "\u0008\u0008"
+    ],
+    [
+      0.084434,
+      "\u0008\u0008"
+    ],
+    [
+      0.083995,
+      "\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.083141,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.084405,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.085113,
+      "\u0008"
+    ],
+    [
+      0.631078,
+      "c/tmp/php-build.5.5.0.20150430103910.log\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.089809,
+      "a/tmp/php-build.5.5.0.20150430103910.log\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.202986,
+      "t/tmp/php-build.5.5.0.20150430103910.log\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.168961,
+      " /tmp/php-build.5.5.0.20150430103910.log\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.596522,
+      "\r\n"
+    ],
+    [
+      0.001452,
+      "/root/.phpenv/plugins/php-build/bin/php-build: line 593: ./buildconf: Arquivo ou diretório não encontrado\r\n\u001b]0;root@localhost:/var/www/html/crm\u0007[root@localhost crm]# "
+    ],
+    [
+      3.497145,
+      "exit\r\n"
+    ]
+  ]
+}
