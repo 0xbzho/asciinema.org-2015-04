@@ -1,0 +1,1702 @@
+{
+  "version": 1,
+  "width": 102,
+  "height": 24,
+  "duration": 268.096938,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.319206,
+      "\u001b[0;90m11:31:44\u001b[0m\u001b[0;91m {gvieira-e2e} \u001b[1;33m~/prog/wmg/tango-app/tests/e2e\u001b[0m$ "
+    ],
+    [
+      0.742612,
+      "."
+    ],
+    [
+      0.071967,
+      "/"
+    ],
+    [
+      0.103958,
+      "d"
+    ],
+    [
+      0.144060,
+      "e"
+    ],
+    [
+      0.072274,
+      "v.sh "
+    ],
+    [
+      0.537951,
+      "\r\n"
+    ],
+    [
+      0.333917,
+      "chromedriver is up to date."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.003510,
+      "Running ./node_modules/protractor/bin/protractor configs/protractor-conf.js --verbose --tags basic-work"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.262633,
+      "WARNING - chromeOnly is deprecated. Use directConnect"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.012745,
+      "WARNING - chromeOnly is deprecated. Use directConnect"
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.221680,
+      "Using ChromeDriver directly..."
+    ],
+    [
+      0.000228,
+      "\r\n"
+    ],
+    [
+      0.001456,
+      "[launcher] Running 1 instances of WebDriver"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      21.376918,
+      "Basic_work.js"
+    ],
+    [
+      0.000377,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "  New basic work. Tags: 'create', 'basic-work'."
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "    Pre-feature steps: "
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000325,
+      "\u001b[32m      User is logged in - pass\u001b[0m"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      6.495908,
+      "    Feature steps:"
+    ],
+    [
+      0.000305,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "      Create basic work"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[32m        Go to New Work page - pass\u001b[0m"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.506121,
+      "\u001b[32m        Validate default primary work title language - pass\u001b[0m\r\n"
+    ],
+    [
+      1.274525,
+      "\u001b[32m        Enter random primary work title - pass\u001b[0m\r\n"
+    ],
+    [
+      0.480912,
+      "\u001b[32m        Validate default alternate work title language #1 - pass\u001b[0m"
+    ],
+    [
+      0.000290,
+      "\r\n"
+    ],
+    [
+      1.969703,
+      "\u001b[32m        Enter a random alternate work title #1 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.390143,
+      "\u001b[32m        Validate default alternate work title language #2 - pass\u001b[0m"
+    ],
+    [
+      0.002844,
+      "\r\n"
+    ],
+    [
+      1.969939,
+      "\u001b[32m        Enter a random alternate work title #2 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.416392,
+      "\u001b[32m        Validate default creator role #1 - pass\u001b[0m"
+    ],
+    [
+      0.000282,
+      "\r\n"
+    ],
+    [
+      0.707894,
+      "        Select random creator #1\r\n\u001b[32m          Type a random letter in the search field - pass\u001b[0m\r\n"
+    ],
+    [
+      1.313224,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used"
+    ],
+    [
+      0.000273,
+      "\r\n"
+    ],
+    [
+      0.115690,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used"
+    ],
+    [
+      0.000261,
+      "\r\n"
+    ],
+    [
+      0.084446,
+      "\u001b[32m          Wait for suggestions dropdown to appear - pass\u001b[0m"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.996987,
+      "\u001b[32m          Pick a random suggestion - pass\u001b[0m\r\n"
+    ],
+    [
+      0.370480,
+      "\u001b[32m        Ensure contribution required message is displayed - pass\u001b[0m\r\n"
+    ],
+    [
+      6.011729,
+      "\u001b[32m        Validate creator contribution input mask - pass\u001b[0m"
+    ],
+    [
+      0.000281,
+      "\r\n"
+    ],
+    [
+      0.690390,
+      "\u001b[32m        Enter 50% contribution percentage for creator #1 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.244516,
+      "\u001b[32m        Ensure 'Total contribution is less than 100%' message is displayed - pass\u001b[0m"
+    ],
+    [
+      0.000301,
+      "\r\n"
+    ],
+    [
+      0.778819,
+      "\u001b[32m        Enter contribution percentage for creator #1 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.418836,
+      "\u001b[32m        Validate default creator role #2 - pass\u001b[0m"
+    ],
+    [
+      0.000269,
+      "\r\n"
+    ],
+    [
+      0.898608,
+      "        Select random creator #2\r\n\u001b[32m          Type a random letter in the search field - pass\u001b[0m\r\n"
+    ],
+    [
+      1.039376,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used"
+    ],
+    [
+      0.000276,
+      "\r\n"
+    ],
+    [
+      0.116590,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used"
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.075196,
+      "\u001b[32m          Wait for suggestions dropdown to appear - pass\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\r\n"
+    ],
+    [
+      1.033547,
+      "\u001b[32m          Pick a random suggestion - pass\u001b[0m\r\n"
+    ],
+    [
+      0.354797,
+      "\u001b[32m        Ensure contribution required message is displayed - pass\u001b[0m\r\n"
+    ],
+    [
+      6.323447,
+      "\u001b[32m        Validate creator contribution input mask - pass\u001b[0m"
+    ],
+    [
+      0.000280,
+      "\r\n"
+    ],
+    [
+      0.860826,
+      "\u001b[32m        Enter 100% contribution percentage for creator #2 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.209172,
+      "\u001b[32m        Ensure 'Total contribution is more than 100%' message is displayed - pass\u001b[0m"
+    ],
+    [
+      0.000288,
+      "\r\n"
+    ],
+    [
+      0.913520,
+      "\u001b[32m        Enter contribution percentage for creator #2 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.242991,
+      "\u001b[32m        Validate total contribution - pass\u001b[0m\r\n"
+    ],
+    [
+      0.300064,
+      "\u001b[32m        Validate default musical distribution category - pass\u001b[0m\r\n"
+    ],
+    [
+      1.412509,
+      "\u001b[32m        Select a random musical distribution category - pass\u001b[0m\r\n"
+    ],
+    [
+      0.300559,
+      "\u001b[32m        Validate default text music relationship - pass\u001b[0m"
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      1.344657,
+      "\u001b[32m        Select a random text music relationship - pass\u001b[0m\r\n"
+    ],
+    [
+      0.304195,
+      "\u001b[32m        Validate default excerpt type - pass\u001b[0m"
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      1.252823,
+      "\u001b[32m        Select a random excerpt type - pass\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\r\n"
+    ],
+    [
+      0.335904,
+      "\u001b[32m        Validate default version type - pass\u001b[0m\r\n"
+    ],
+    [
+      1.407928,
+      "\u001b[32m        Select a random version type - pass\u001b[0m"
+    ],
+    [
+      0.000286,
+      "\r\n"
+    ],
+    [
+      0.410742,
+      "\u001b[32m        Validate default lyric adaptation (if displayed) - pass\u001b[0m"
+    ],
+    [
+      0.000282,
+      "\r\n"
+    ],
+    [
+      1.899863,
+      "\u001b[32m        Select a random lyric adaptation (if displayed) - pass\u001b[0m"
+    ],
+    [
+      0.000285,
+      "\r\n"
+    ],
+    [
+      0.417149,
+      "\u001b[32m        Validate default music arrangement (if displayed) - pass\u001b[0m\r\n"
+    ],
+    [
+      1.696703,
+      "\u001b[32m        Select a random music arrangement (if displayed) - pass\u001b[0m"
+    ],
+    [
+      0.000284,
+      "\r\n"
+    ],
+    [
+      0.302066,
+      "\u001b[32m        Validate default intended purpose - pass\u001b[0m"
+    ],
+    [
+      0.000860,
+      "\r\n"
+    ],
+    [
+      2.066340,
+      "\u001b[32m        Select a random music arrangement (if displayed) - pass\u001b[0m\r\n"
+    ],
+    [
+      1.801005,
+      "\u001b[32m        Enter a random production title (if displayed) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.487653,
+      "\u001b[32m        Validate default BLTVR (if displayed) - pass\u001b[0m"
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      1.683804,
+      "\u001b[32m        Select a random music arrangement (if displayed) - pass\u001b[0m"
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      0.096625,
+      "\u001b[32m        Validate default music library (if displayed) - pass\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\r\n"
+    ],
+    [
+      0.096756,
+      "\u001b[32m        Select a random music library (if displayed) - pass\u001b[0m"
+    ],
+    [
+      0.000376,
+      "\r\n"
+    ],
+    [
+      0.346658,
+      "\u001b[32m        Validate default creation year - pass\u001b[0m"
+    ],
+    [
+      0.000293,
+      "\r\n"
+    ],
+    [
+      0.347733,
+      "\u001b[32m        Validate default creation month - pass\u001b[0m"
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      0.358735,
+      "\u001b[32m        Validate default creation day - pass\u001b[0m"
+    ],
+    [
+      0.000300,
+      "\r\n"
+    ],
+    [
+      1.404763,
+      "\u001b[32m        Enter two years ago as creation year - pass\u001b[0m\r\n"
+    ],
+    [
+      0.727497,
+      "\u001b[32m        Enter this month as creation month - pass\u001b[0m\r\n"
+    ],
+    [
+      0.710690,
+      "\u001b[32m        Enter today as creation day - pass\u001b[0m\r\n"
+    ],
+    [
+      0.339934,
+      "\u001b[32m        Validate default delivery year - pass\u001b[0m"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.350717,
+      "\u001b[32m        Validate default delivery month - pass\u001b[0m"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.343950,
+      "\u001b[32m        Validate default delivery day - pass\u001b[0m"
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      1.293803,
+      "\u001b[32m        Enter last year as delivery year - pass\u001b[0m\r\n"
+    ],
+    [
+      0.721360,
+      "\u001b[32m        Enter this month as delivery month - pass\u001b[0m\r\n"
+    ],
+    [
+      0.696986,
+      "\u001b[32m        Enter today as delivery day - pass\u001b[0m\r\n"
+    ],
+    [
+      0.503760,
+      "\u001b[32m        Opt whether to include work on WarnerChappell.com or not - pass\u001b[0m\r\n"
+    ],
+    [
+      6.828034,
+      "\u001b[32m        Click Save Work - pass\u001b[0m"
+    ],
+    [
+      0.000299,
+      "\r\n"
+    ],
+    [
+      0.050696,
+      "\u001b[32m        User should be redirected to created work page - pass\u001b[0m\r\n"
+    ],
+    [
+      0.194150,
+      "\u001b[32m        Find currently open work ID - pass\u001b[0m"
+    ],
+    [
+      0.000293,
+      "\r\n"
+    ],
+    [
+      10.554010,
+      "      Validate work data\r\n\u001b[32m        Go to work page - pass\u001b[0m\r\n"
+    ],
+    [
+      0.011525,
+      "\u001b[32m        Validate primary work title (if validation value is not empty) - pass\u001b[0m"
+    ],
+    [
+      0.000398,
+      "\r\n"
+    ],
+    [
+      0.590486,
+      "\u001b[32m        Validate alternate work title - pass\u001b[0m"
+    ],
+    [
+      0.000330,
+      "\r\n"
+    ],
+    [
+      0.547159,
+      "\u001b[32m        Validate alternate work title - pass\u001b[0m"
+    ],
+    [
+      0.000371,
+      "\r\n"
+    ],
+    [
+      0.255121,
+      "\u001b[32m        Validate creation date (if first validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.273566,
+      "\u001b[32m        Validate delivery date (if first validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.280387,
+      "\u001b[32m        Validate musical distribution category (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.300174,
+      "\u001b[32m        Validate text music relationship (if validation value is not empty) - pass\u001b[0m"
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      0.092899,
+      "\u001b[31m        Validate excerpt type (if validation value is not empty) - fail\u001b[0m"
+    ],
+    [
+      0.000299,
+      "\r\n"
+    ],
+    [
+      0.247862,
+      "\u001b[32m        Validate version type (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.246554,
+      "\u001b[32m        Validate lyric adaptation (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.251955,
+      "\u001b[32m        Validate music arrangement (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.238493,
+      "\u001b[32m        Validate intended purpose (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.257548,
+      "\u001b[32m        Validate production title (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.226992,
+      "\u001b[32m        Validate BLTVR (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012212,
+      "\u001b[32m        Validate music library (if validation value is not empty) - pass\u001b[0m"
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      0.289319,
+      "\u001b[32m        Validate 'Include work on website' option (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.592769,
+      "\u001b[32m        Go to Scope Delivery - pass\u001b[0m\r\n"
+    ],
+    [
+      0.108277,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used\r\n"
+    ],
+    [
+      0.410160,
+      "        Validate creator #1"
+    ],
+    [
+      0.000370,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[32m          Validate creator name - pass\u001b[0m"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.053595,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used"
+    ],
+    [
+      0.000273,
+      "\r\n"
+    ],
+    [
+      0.369801,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used\r\n"
+    ],
+    [
+      0.230908,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used"
+    ],
+    [
+      0.000279,
+      "\r\n"
+    ],
+    [
+      0.314785,
+      "\u001b[32m          Validate creator contribution percentage (if validation value is not empty) - pass\u001b[0m"
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.042715,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used"
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.323660,
+      "        Validate creator #2\r\n\u001b[32m          Validate creator name - pass\u001b[0m\r\n"
+    ],
+    [
+      0.044054,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.314458,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used\r\n"
+    ],
+    [
+      0.229333,
+      "WARNING - more than one element found for locator By.cssSelector(\".scope-delivery-table\") - the first result will be used\r\n"
+    ],
+    [
+      0.300950,
+      "\u001b[32m          Validate creator contribution percentage (if validation value is not empty) - pass\u001b[0m"
+    ],
+    [
+      0.000313,
+      "\r\n"
+    ],
+    [
+      4.180937,
+      "  Edit basic work. Tags: 'edit', 'basic-work'."
+    ],
+    [
+      0.000295,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "    Pre-feature steps: "
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[32m      User is logged in - pass\u001b[0m"
+    ],
+    [
+      0.000264,
+      "\r\n"
+    ],
+    [
+      8.689578,
+      "    Feature steps:"
+    ],
+    [
+      0.032995,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "      Edit basic work\r\n\u001b[32m        Go to work page - pass\u001b[0m\r\n"
+    ],
+    [
+      0.202485,
+      "\u001b[32m        Hover primary work title heading - pass\u001b[0m\r\n"
+    ],
+    [
+      0.983713,
+      "\u001b[32m        Click edit work titles button - pass\u001b[0m\r\n"
+    ],
+    [
+      1.645752,
+      "\u001b[32m        Enter a random primary work title - pass\u001b[0m\r\n"
+    ],
+    [
+      0.196303,
+      "\u001b[32m        Wait title editor check for duplicates - pass\u001b[0m"
+    ],
+    [
+      0.000313,
+      "\r\n"
+    ],
+    [
+      1.157652,
+      "\u001b[32m        Click cancel work titles editing button - pass\u001b[0m"
+    ],
+    [
+      0.000330,
+      "\r\n"
+    ],
+    [
+      1.213241,
+      "\u001b[32m        Click confirm cancellation button - pass\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\r\n"
+    ],
+    [
+      0.243957,
+      "\u001b[32m        Hover primary work title heading - pass\u001b[0m\r\n"
+    ],
+    [
+      0.908898,
+      "\u001b[32m        Click edit work titles button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.176497,
+      "\u001b[32m        Validate primary work title edit field value - pass\u001b[0m\r\n"
+    ],
+    [
+      1.561300,
+      "\u001b[32m        Enter a random primary work title - pass\u001b[0m\r\n"
+    ],
+    [
+      0.168758,
+      "\u001b[32m        Wait title editor check for duplicates - pass\u001b[0m"
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      1.100960,
+      "\u001b[32m        Click cancel work titles editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.881896,
+      "\u001b[32m        Click continue editing button - pass\u001b[0m"
+    ],
+    [
+      0.000325,
+      "\r\n"
+    ],
+    [
+      0.159709,
+      "\u001b[32m        Validate primary work title edit field value - pass\u001b[0m"
+    ],
+    [
+      0.000353,
+      "\r\n"
+    ],
+    [
+      0.287644,
+      "\u001b[32m        Validate default alternate work title language - pass\u001b[0m"
+    ],
+    [
+      0.000294,
+      "\r\n"
+    ],
+    [
+      2.197198,
+      "\u001b[32m        Enter random alternate work title #1 - pass\u001b[0m\r\n"
+    ],
+    [
+      2.064612,
+      "\u001b[32m        Enter random alternate work title #2 - pass\u001b[0m\r\n"
+    ],
+    [
+      2.337948,
+      "\u001b[32m        Enter new random alternate work title - pass\u001b[0m\r\n"
+    ],
+    [
+      4.608696,
+      "\u001b[32m        Click save work titles button - pass\u001b[0m"
+    ],
+    [
+      0.000314,
+      "\r\n"
+    ],
+    [
+      0.265974,
+      "\u001b[32m        Hover creator names container - pass\u001b[0m\r\n"
+    ],
+    [
+      1.074238,
+      "\u001b[32m        Click edit creators button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.167052,
+      "\u001b[32m        Calculate even creator contributions - pass\u001b[0m\r\n"
+    ],
+    [
+      0.543776,
+      "\u001b[32m        Enter creator contribution #1 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.157768,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.134019,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.100013,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.666314,
+      "\u001b[32m        Click cancel creators button - pass\u001b[0m\r\n"
+    ],
+    [
+      1.040734,
+      "\u001b[32m        Click confirm cancellation button - pass\u001b[0m"
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.242501,
+      "\u001b[32m        Hover creator names container - pass\u001b[0m\r\n"
+    ],
+    [
+      1.275609,
+      "\u001b[32m        Click edit creators button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.138449,
+      "\u001b[32m        Validate creator contribution #1 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.659178,
+      "        Select different random creator #1"
+    ],
+    [
+      0.000290,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[32m          Type a random letter not occurring in the current field value - pass\u001b[0m"
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      1.852977,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used\r\n"
+    ],
+    [
+      0.117590,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used"
+    ],
+    [
+      0.000265,
+      "\r\n"
+    ],
+    [
+      0.076845,
+      "\u001b[32m          Wait for suggestions dropdown to appear - pass\u001b[0m"
+    ],
+    [
+      0.000292,
+      "\r\n"
+    ],
+    [
+      0.581961,
+      "\u001b[32m          Pick a random suggestion - pass\u001b[0m"
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.716376,
+      "\u001b[32m        Wait creators editor check for duplicates - pass\u001b[0m"
+    ],
+    [
+      0.000311,
+      "\r\n"
+    ],
+    [
+      4.317558,
+      "\u001b[32m        Validate creator contribution input mask - pass\u001b[0m\r\n"
+    ],
+    [
+      0.519000,
+      "\u001b[32m        Enter creator contribution #1 - pass\u001b[0m\r\n"
+    ],
+    [
+      0.053567,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.116292,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.103697,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.685483,
+      "\u001b[32m        Click cancel creators button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.938607,
+      "\u001b[32m        Click continue editing button - pass\u001b[0m"
+    ],
+    [
+      0.000333,
+      "\r\n"
+    ],
+    [
+      0.130678,
+      "\u001b[32m        Validate creator contribution #1 - pass\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\r\n"
+    ],
+    [
+      0.706886,
+      "        Select different random creator #2\r\n\u001b[32m          Type a random letter not occurring in the current field value - pass\u001b[0m\r\n"
+    ],
+    [
+      2.072949,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used\r\n"
+    ],
+    [
+      0.118999,
+      "WARNING - more than one element found for locator By.cssSelector(\".typeahead-result\") - the first result will be used"
+    ],
+    [
+      0.000263,
+      "\r\n"
+    ],
+    [
+      0.086772,
+      "\u001b[32m          Wait for suggestions dropdown to appear - pass\u001b[0m"
+    ],
+    [
+      0.000294,
+      "\r\n"
+    ],
+    [
+      0.657175,
+      "\u001b[32m          Pick a random suggestion - pass\u001b[0m\r\n"
+    ],
+    [
+      4.692238,
+      "\u001b[32m        Validate creator contribution input mask - pass\u001b[0m"
+    ],
+    [
+      0.000447,
+      "\r\n"
+    ],
+    [
+      0.517960,
+      "\u001b[32m        Enter creator contribution #2 - pass\u001b[0m"
+    ],
+    [
+      0.000300,
+      "\r\n"
+    ],
+    [
+      0.067008,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.126127,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      0.104927,
+      "WARNING - more than one element found for locator By.cssSelector(\"[data-ng-show='workHeader.creators.edit'\") - the first result will be used\r\n"
+    ],
+    [
+      4.125381,
+      "\u001b[32m        Click save creators button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.329692,
+      "\u001b[32m        Hover creation date container label - pass\u001b[0m\r\n"
+    ],
+    [
+      0.772133,
+      "\u001b[32m        Click edit creation date button - pass\u001b[0m"
+    ],
+    [
+      0.000312,
+      "\r\n"
+    ],
+    [
+      1.179882,
+      "\u001b[32m        Enter different creation date year - pass\u001b[0m"
+    ],
+    [
+      0.000370,
+      "\r\n"
+    ],
+    [
+      1.130971,
+      "\u001b[32m        Click cancel creation date editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.999639,
+      "\u001b[32m        Click confirm cancellation button - pass\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\r\n"
+    ],
+    [
+      0.315277,
+      "\u001b[32m        Hover creation date container label - pass\u001b[0m\r\n"
+    ],
+    [
+      0.727501,
+      "\u001b[32m        Click edit creation date button - pass\u001b[0m"
+    ],
+    [
+      0.000287,
+      "\r\n"
+    ],
+    [
+      0.150798,
+      "\u001b[32m        Validate entered creation year - pass\u001b[0m"
+    ],
+    [
+      0.000292,
+      "\r\n"
+    ],
+    [
+      0.989876,
+      "\u001b[32m        Enter the creation year - pass\u001b[0m\r\n"
+    ],
+    [
+      1.187820,
+      "\u001b[32m        Click cancel creation date editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.899116,
+      "\u001b[32m        Click continue editing button - pass\u001b[0m"
+    ],
+    [
+      0.000294,
+      "\r\n"
+    ],
+    [
+      0.171399,
+      "\u001b[32m        Validate entered creation year - pass\u001b[0m"
+    ],
+    [
+      0.000327,
+      "\r\n"
+    ],
+    [
+      0.627218,
+      "\u001b[32m        Enter the creation month - pass\u001b[0m\r\n"
+    ],
+    [
+      0.581459,
+      "\u001b[32m        Enter the creation day - pass\u001b[0m\r\n"
+    ],
+    [
+      4.108827,
+      "\u001b[32m        Click save creation date button - pass\u001b[0m"
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.341971,
+      "\u001b[32m        Hover delivery date container label - pass\u001b[0m\r\n"
+    ],
+    [
+      0.750604,
+      "\u001b[32m        Click edit delivery date button - pass\u001b[0m"
+    ],
+    [
+      0.000307,
+      "\r\n"
+    ],
+    [
+      1.016094,
+      "\u001b[32m        Enter different delivery date year - pass\u001b[0m\r\n"
+    ],
+    [
+      0.942185,
+      "\u001b[32m        Click cancel delivery date editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      1.074569,
+      "\u001b[32m        Click confirm cancellation button - pass\u001b[0m"
+    ],
+    [
+      0.000301,
+      "\r\n"
+    ],
+    [
+      0.353049,
+      "\u001b[32m        Hover delivery date container label - pass\u001b[0m\r\n"
+    ],
+    [
+      0.730716,
+      "\u001b[32m        Click edit delivery date button - pass\u001b[0m"
+    ],
+    [
+      0.000310,
+      "\r\n"
+    ],
+    [
+      0.169773,
+      "\u001b[32m        Validate entered delivery year - pass\u001b[0m"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.866667,
+      "\u001b[32m        Enter the delivery year - pass\u001b[0m\r\n"
+    ],
+    [
+      0.942516,
+      "\u001b[32m        Click cancel delivery date editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.901608,
+      "\u001b[32m        Click continue editing button - pass\u001b[0m"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.160714,
+      "\u001b[32m        Validate entered delivery year - pass\u001b[0m"
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.637920,
+      "\u001b[32m        Enter the delivery month - pass\u001b[0m\r\n"
+    ],
+    [
+      0.678923,
+      "\u001b[32m        Enter the delivery day - pass\u001b[0m\r\n"
+    ],
+    [
+      4.023119,
+      "\u001b[32m        Click save delivery date button - pass\u001b[0m"
+    ],
+    [
+      0.000334,
+      "\r\n"
+    ],
+    [
+      0.271146,
+      "\u001b[32m        Hover asset type container - pass\u001b[0m\r\n"
+    ],
+    [
+      1.001609,
+      "\u001b[32m        Click edit asset type button - pass\u001b[0m"
+    ],
+    [
+      0.000297,
+      "\r\n"
+    ],
+    [
+      0.995978,
+      "\u001b[32m        Select a different random musical distribution category - pass\u001b[0m\r\n"
+    ],
+    [
+      1.086826,
+      "\u001b[32m        Click cancel asset type editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      1.052065,
+      "\u001b[32m        Click confirm cancellation button - pass\u001b[0m"
+    ],
+    [
+      0.000299,
+      "\r\n"
+    ],
+    [
+      0.248285,
+      "\u001b[32m        Hover asset type container - pass\u001b[0m\r\n"
+    ],
+    [
+      0.870483,
+      "\u001b[32m        Click edit asset type button - pass\u001b[0m"
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.176744,
+      "\u001b[32m        Validate selected musical distribution category - pass\u001b[0m"
+    ],
+    [
+      0.000299,
+      "\r\n"
+    ],
+    [
+      0.954946,
+      "\u001b[32m        Select a different random musical distribution category - pass\u001b[0m\r\n"
+    ],
+    [
+      1.022363,
+      "\u001b[32m        Click cancel asset type editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      1.034523,
+      "\u001b[32m        Click continue editing button - pass\u001b[0m"
+    ],
+    [
+      0.000297,
+      "\r\n"
+    ],
+    [
+      0.182697,
+      "\u001b[32m        Validate selected musical distribution category - pass\u001b[0m"
+    ],
+    [
+      0.000300,
+      "\r\n"
+    ],
+    [
+      0.955945,
+      "\u001b[32m        Select a different random text music relationship - pass\u001b[0m"
+    ],
+    [
+      0.000306,
+      "\r\n"
+    ],
+    [
+      0.941623,
+      "\u001b[32m        Select a different random excerpt type - pass\u001b[0m"
+    ],
+    [
+      0.000307,
+      "\r\n"
+    ],
+    [
+      0.954947,
+      "\u001b[32m        Select a different random version type - pass\u001b[0m\r\n"
+    ],
+    [
+      0.091928,
+      "\u001b[32m        Select a different random lyric adaptation (if present) - pass\u001b[0m"
+    ],
+    [
+      0.000305,
+      "\r\n"
+    ],
+    [
+      0.096675,
+      "\u001b[32m        Select a different random music arrangement (if present) - pass\u001b[0m"
+    ],
+    [
+      0.000280,
+      "\r\n"
+    ],
+    [
+      4.258845,
+      "\u001b[32m        Click save asset type button - pass\u001b[0m"
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.282481,
+      "\u001b[32m        Hover work origin container - pass\u001b[0m\r\n"
+    ],
+    [
+      0.872303,
+      "\u001b[32m        Click edit work origin button - pass\u001b[0m"
+    ],
+    [
+      0.000299,
+      "\r\n"
+    ],
+    [
+      1.958820,
+      "\u001b[32m        Select a different random intended purpose - pass\u001b[0m"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      1.011887,
+      "\u001b[32m        Click cancel work origin editing button - pass\u001b[0m"
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      1.144627,
+      "\u001b[32m        Click confirm cancellation button - pass\u001b[0m"
+    ],
+    [
+      0.000304,
+      "\r\n"
+    ],
+    [
+      0.234146,
+      "\u001b[32m        Hover work origin container - pass\u001b[0m\r\n"
+    ],
+    [
+      0.826646,
+      "\u001b[32m        Click edit work origin button - pass\u001b[0m"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.173735,
+      "\u001b[32m        Validate selected intended purpose - pass\u001b[0m"
+    ],
+    [
+      0.000297,
+      "\r\n"
+    ],
+    [
+      1.539742,
+      "\u001b[32m        Select a different random intended purpose - pass\u001b[0m"
+    ],
+    [
+      0.000302,
+      "\r\n"
+    ],
+    [
+      1.059738,
+      "\u001b[32m        Click cancel work origin editing button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.972230,
+      "\u001b[32m        Click continue editing button - pass\u001b[0m"
+    ],
+    [
+      0.000274,
+      "\r\n"
+    ],
+    [
+      0.158628,
+      "\u001b[32m        Validate selected intended purpose - pass\u001b[0m"
+    ],
+    [
+      0.000296,
+      "\r\n"
+    ],
+    [
+      1.750616,
+      "\u001b[32m        Enter a random production title (if present) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.091657,
+      "\u001b[32m        Select a different random BLTVR (if present) - pass\u001b[0m"
+    ],
+    [
+      0.000510,
+      "\r\n"
+    ],
+    [
+      0.093122,
+      "\u001b[32m        Select a different random music library (if present) - pass\u001b[0m"
+    ],
+    [
+      0.000306,
+      "\r\n"
+    ],
+    [
+      3.998948,
+      "\u001b[32m        Click save work origin button - pass\u001b[0m"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.410901,
+      "\u001b[32m        Hover work inclusion on website paragraph - pass\u001b[0m\r\n"
+    ],
+    [
+      0.844740,
+      "\u001b[32m        Click edit work inclusion on website button - pass\u001b[0m"
+    ],
+    [
+      0.000306,
+      "\r\n"
+    ],
+    [
+      0.487920,
+      "\u001b[32m        Toggle work inclusion on website - pass\u001b[0m\r\n"
+    ],
+    [
+      1.029140,
+      "\u001b[32m        Click cancel work inclusion on website button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.975788,
+      "\u001b[32m        Click confirm cancellation button - pass\u001b[0m"
+    ],
+    [
+      0.000293,
+      "\r\n"
+    ],
+    [
+      0.338009,
+      "\u001b[32m        Hover work inclusion on website paragraph - pass\u001b[0m\r\n"
+    ],
+    [
+      0.796757,
+      "\u001b[32m        Click edit work inclusion on website button - pass\u001b[0m"
+    ],
+    [
+      0.000317,
+      "\r\n"
+    ],
+    [
+      0.118804,
+      "\u001b[32m        Validate work inclusion on website option - pass\u001b[0m"
+    ],
+    [
+      0.000311,
+      "\r\n"
+    ],
+    [
+      0.450323,
+      "\u001b[32m        Toggle work inclusion on website - pass\u001b[0m\r\n"
+    ],
+    [
+      0.939573,
+      "\u001b[32m        Click cancel work inclusion on website button - pass\u001b[0m\r\n"
+    ],
+    [
+      0.967879,
+      "\u001b[32m        Click continue editing button - pass\u001b[0m"
+    ],
+    [
+      0.000302,
+      "\r\n"
+    ],
+    [
+      0.104848,
+      "\u001b[32m        Validate work inclusion on website option - pass\u001b[0m"
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      3.752719,
+      "\u001b[32m        Click save work inclusion on website button - pass\u001b[0m"
+    ],
+    [
+      0.000615,
+      "\r\n"
+    ],
+    [
+      10.904042,
+      "      Validate work data"
+    ],
+    [
+      0.000357,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[32m        Go to work page - pass\u001b[0m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.012432,
+      "\u001b[32m        Validate primary work title (if validation value is not empty) - pass\u001b[0m"
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      0.705936,
+      "\u001b[32m        Validate alternate work title - pass\u001b[0m"
+    ],
+    [
+      0.000345,
+      "\r\n"
+    ],
+    [
+      0.675414,
+      "\u001b[32m        Validate alternate work title - pass\u001b[0m"
+    ],
+    [
+      0.000382,
+      "\r\n"
+    ],
+    [
+      0.651652,
+      "\u001b[32m        Validate alternate work title - pass\u001b[0m"
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.261285,
+      "\u001b[32m        Validate creation date (if first validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.268825,
+      "\u001b[32m        Validate delivery date (if first validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012200,
+      "\u001b[32m        Validate musical distribution category (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012207,
+      "\u001b[32m        Validate text music relationship (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012645,
+      "\u001b[32m        Validate excerpt type (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012495,
+      "\u001b[32m        Validate version type (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012593,
+      "\u001b[32m        Validate lyric adaptation (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.011885,
+      "\u001b[32m        Validate music arrangement (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.010859,
+      "\u001b[32m        Validate intended purpose (if validation value is not empty) - pass\u001b[0m"
+    ],
+    [
+      0.000306,
+      "\r\n"
+    ],
+    [
+      0.272016,
+      "\u001b[32m        Validate production title (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012403,
+      "\u001b[32m        Validate BLTVR (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.012420,
+      "\u001b[32m        Validate music library (if validation value is not empty) - pass\u001b[0m\r\n"
+    ],
+    [
+      0.348507,
+      "\u001b[32m        Validate 'Include work on website' option (if validation value is not empty) - pass\u001b[0m\r\n\r\n\r\nFailures:\r\n\r\n  1) Basic_work.js New basic work. Tags: 'create', 'basic-work'. Feature steps: Validate work data Validate excerpt type (if validation value is not empty)\r\n   Message:\r\n     \u001b[31mNoSuchElementError: No element found using locator: by.binding(\"getAdminDataName(dataHolder.excerptTypes, assetTypeEdit.model.excerpt_type)\")\u001b[0m\r\n   Stacktrace:\r\n     NoSuchElementError: No element found using locator: by.binding(\"getAdminDataName(dataHolder.excerptTypes, assetTypeEdit.model.excerpt_type)\")\r\n==== async task ====\r\nAsynchronous test function: it()\r\nError\r\n    at Object.module.exports.validateExcerptType (/home/guilherme/prog/wmg/tango-app/tests/e2e/steps/work.js:599:2)\r\n    at [object Object].\u003canonymous\u003e (/home/guilherme/prog/wmg/tango-app/tests/e2e/steps/work.js:1016:16)\r\n    at Object.module.exports.validateWork (/home/guilherme/prog/wmg/tango-app/tests/e2e/steps/work.js:979:2)\r\n    at [object Object].\u003canonymous\u003e (/home/guilherme/prog/wmg/tango-app/tests/e2e/vendor/factory-testing-framework/modules/controller.js:120:40)\r\n\r\nFinished in 257.816 seconds\r\n\u001b[31m224 tests, 199 assertions, 1 failure\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.114983,
+      "Finished with code: 1\r\nTests time: 258650ms\r\n"
+    ],
+    [
+      0.001545,
+      "[launcher] 0 instance(s) of WebDriver still running"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000587,
+      "[launcher] chrome #1 failed 1 test(s)"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "[launcher] overall: 1 failed spec(s)"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000645,
+      "[launcher] Process exited with error code 1"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.151204,
+      "\u001b[0;90m11:36:07\u001b[0m\u001b[0;91m {gvieira-e2e} \u001b[1;33m~/prog/wmg/tango-app/tests/e2e\u001b[0m$ "
+    ],
+    [
+      4.878965,
+      "exit\r\n"
+    ]
+  ]
+}
