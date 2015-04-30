@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 28,
+  "duration": 3.847269,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.149284,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000022,
+      "bash-3.2$ "
+    ],
+    [
+      3.697098,
+      "exit\r\n"
+    ]
+  ]
+}
