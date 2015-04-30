@@ -1,0 +1,994 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 32,
+  "duration": 23.860357,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.040293,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000014,
+      "bash-3.2$ "
+    ],
+    [
+      0.535326,
+      "l"
+    ],
+    [
+      0.151950,
+      "s"
+    ],
+    [
+      0.111847,
+      " "
+    ],
+    [
+      1.400548,
+      "-"
+    ],
+    [
+      0.376002,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191785,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.250567,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033827,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033876,
+      "\u0007"
+    ],
+    [
+      0.034679,
+      "\u0007"
+    ],
+    [
+      0.034151,
+      "\u0007"
+    ],
+    [
+      0.141669,
+      "\u0007"
+    ],
+    [
+      0.167138,
+      "\u0007"
+    ],
+    [
+      1.096748,
+      "l"
+    ],
+    [
+      0.198795,
+      "s"
+    ],
+    [
+      0.120026,
+      " "
+    ],
+    [
+      0.119991,
+      "-"
+    ],
+    [
+      0.231966,
+      "l"
+    ],
+    [
+      0.113161,
+      "a"
+    ],
+    [
+      0.120227,
+      "\r\n"
+    ],
+    [
+      0.023957,
+      "total 44792\r\n"
+    ],
+    [
+      0.000679,
+      "drwxr-xr-x@    8 sintaxi  admin      272 25 Sep  2012  deliverables\r\n"
+    ],
+    [
+      0.000071,
+      "drwxr-xr-x+  150 sintaxi  staff     5100 30 Apr 03:15 .\r\n"
+    ],
+    [
+      0.000026,
+      "drwxr-xr-x     6 root     admin      204  7 May  2014 ..\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-------     1 sintaxi  staff        3 13 Nov  2011 .CFUserTextEncoding\r\n"
+    ],
+    [
+      0.000032,
+      "-rw-r--r--@    1 sintaxi  staff    43012 25 Apr 12:38 .DS_Store\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--     1 sintaxi  staff        1 27 Jan  2013 .NERDTreeBookmarks\r\n"
+    ],
+    [
+      0.000033,
+      "drwx------    15 sintaxi  staff      510 30 Apr 03:36 .Trash\r\n"
+    ],
+    [
+      0.000031,
+      "drwxr-xr-x    14 sintaxi  staff      476 19 Dec 01:36 .Tribler\r\n"
+    ],
+    [
+      0.000052,
+      "-rw-------     1 sintaxi  staff      110 22 Jan  2013 .Xauthority\r\n"
+    ],
+    [
+      0.000033,
+      "drwxr-xr-x     4 sintaxi  staff      136 14 Dec  2011 .adobe\r\n"
+    ],
+    [
+      0.001820,
+      "drwxr-xr-x@    2 sintaxi  staff       68 14 Dec  2012 .ambiance\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x    16 sintaxi  staff      544 15 Jul  2014 .android\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x     3 sintaxi  staff      102 23 Apr 02:46 .asciinema\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x     4 sintaxi  staff      136  8 May  2014 .atom\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-------     1 sintaxi  staff    11026 29 Apr 23:26 .bash_history\r\n"
+    ],
+    [
+      0.000032,
+      "-rw-r--r--     1 sintaxi  staff     1206 23 Apr 03:23 .bash_profile\r\n"
+    ],
+    [
+      0.000031,
+      "-rw-r--r--     1 sintaxi  staff      169 24 Dec  2013 .bashrc\r\n"
+    ],
+    [
+      0.000030,
+      "drwxr-xr-x     3 sintaxi  staff      102  8 May  2013 .bower\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x     3 sintaxi  staff      102 16 Aug  2013 .cache\r\n"
+    ],
+    [
+      0.000030,
+      "drwxr-xr-x     8 sintaxi  staff      272 22 Aug  2014 .config\r\n"
+    ],
+    [
+      0.000028,
+      "drwxr-xr-x     3 sintaxi  staff      102 29 Jul  2013 .cordova\r\n"
+    ],
+    [
+      0.000018,
+      "drwx------     3 sintaxi  staff      102 16 May  2012 .cups\r\n"
+    ],
+    [
+      0.000031,
+      "-rw-r--r--     1 sintaxi  staff      183  1 Dec  2012 .dbshell\r\n"
+    ],
+    [
+      0.000030,
+      "drwx------    11 sintaxi  staff      374 26 Apr 15:54 .dropbox\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--     1 sintaxi  staff       93 13 Mar 12:22 .famousrc\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x     6 sintaxi  staff      204 18 Jan  2013 .fontconfig\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-------     1 sintaxi  staff        0 22 May  2012 .gdb_history\r\n"
+    ],
+    [
+      0.000025,
+      "drwxr-xr-x     4 sintaxi  staff      136  6 Mar  2012 .gem\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--     1 sintaxi  staff      475 28 Jun  2012 .gitconfig\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-xr-x     6 sintaxi  staff      204 29 Apr 19:06 .heroku\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--     1 sintaxi  staff      561 20 Nov  2011 .htoprc\r\n"
+    ],
+    [
+      0.000024,
+      "drwx------     3 sintaxi  staff      102 19 Aug  2013 .httpie\r\n"
+    ],
+    [
+      0.000024,
+      "drwxr-xr-x     3 sintaxi  staff      102 13 Nov 00:54 .ionic\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--     1 sintaxi  staff    13793 30 Dec  2013 .irb-history\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--     1 sintaxi  staff     1378  6 Mar  2012 .irb_history\r\n"
+    ],
+    [
+      0.000039,
+      "drwx------     3 sintaxi  staff      102 13 Mar  2013 .irssi\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 sintaxi  staff      119 12 Sep  2012 .jitsuconf\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-------     1 sintaxi  staff       35 18 Mar 01:16 .lesshst\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x     3 sintaxi  staff      102 10 Sep  2014 .local\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--     1 sintaxi  staff        0  1 Dec  2012 .mongorc.js\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-------     1 sintaxi  staff      390 30 Apr 02:21 .netrc\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x     3 sintaxi  staff      102 12 Sep  2012 .node-completion\r\n"
+    ],
+    [
+      0.000030,
+      "drwxr-xr-x    12 sintaxi  staff      408 11 Feb 01:48 .node-gyp\r\n"
+    ],
+    [
+      0.000023,
+      "drwxr-xr-x  1070 sintaxi  staff    36380 30 Apr 02:06 .npm\r\n"
+    ],
+    [
+      0.000032,
+      "-rw-------     1 sintaxi  staff      192  8 Aug  2014 .npmrc\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x     3 sintaxi  staff      102 10 Mar  2014 .plexht\r\n"
+    ],
+    [
+      0.000028,
+      "drwxr-xr-x     4 sintaxi  staff      136 13 Nov 00:54 .plugman\r\n"
+    ],
+    [
+      0.000306,
+      "lrwxr-xr-x     1 sintaxi  staff       52  6 Oct  2012 .pow -\u003e /Users/sintaxi/Library/Application Support/Pow/Hosts\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-------     1 sintaxi  staff      134 17 Apr  2014 .psql_history\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--     1 sintaxi  staff     1148 17 Apr 15:58 .rediscli_history\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-------     1 sintaxi  staff     1024 24 Apr 01:11 .rnd\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x    29 sintaxi  staff      986 12 Apr  2012 .rvm\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--     1 sintaxi  staff       98 15 Mar 02:19 .s3cfg\r\n"
+    ],
+    [
+      0.000044,
+      "drwx------    10 sintaxi  staff      340 25 Mar 16:59 .ssh\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--     1 sintaxi  staff     4152 25 Apr 02:37 .v8flags.3.14.5.9.sintaxi.json\r\n"
+    ],
+    [
+      0.000031,
+      "drwxr-xr-x     6 sintaxi  staff      204  1 Nov  2012 .vagrant.d\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x     7 sintaxi  staff      238 14 May  2014 .vim\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-------     1 sintaxi  staff    18751 30 Apr 03:15 .viminfo\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-------     1 sintaxi  staff        0 24 Nov  2011 .viminfo.tmp\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-------     1 sintaxi  staff        0 16 Feb  2012 .viminfy.tmp\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-------     1 sintaxi  staff        0 16 Feb  2012 .viminfz.tmp\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--     1 sintaxi  staff      922 13 Nov  2011 .vimrc\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--     1 sintaxi  staff      118 12 Apr  2012 .zlogin\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--     1 sintaxi  staff       59 12 Apr  2012 .zshrc\r\n"
+    ],
+    [
+      0.001867,
+      "-rw-r--r--@    1 sintaxi  staff   121307 29 Jul  2012 Alaska Airlines - Print Boarding Pass.pdf\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x     2 sintaxi  staff       68 14 Dec  2011 Applications\r\n"
+    ],
+    [
+      0.000027,
+      "drwxrwxrwx     3 sintaxi  staff      102 24 Feb 04:23 BTSync\r\n"
+    ],
+    [
+      0.001757,
+      "-rw-r--r--@    1 sintaxi  staff      247 17 Jul  2012 Best Mobile Designers In The World | Scoutzie.webloc\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--     1 sintaxi  staff    96163 10 Sep  2012 Binteo.jpg\r\n"
+    ],
+    [
+      0.001116,
+      "drwxr-xr-x@    6 sintaxi  staff      204 24 Apr  2013 Box Documents\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 sintaxi  staff    16967  6 Sep  2012 Chloi-Screen.png\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x@    7 sintaxi  staff      238 20 Feb  2013 Copy\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   135 sintaxi  staff     4590 22 Oct  2014 Desk\r\n"
+    ],
+    [
+      0.000062,
+      "drwx------+    8 sintaxi  staff      272 30 Apr 10:26 Desktop\r\n"
+    ],
+    [
+      0.000037,
+      "drwx------+   64 sintaxi  staff     2176 27 Apr 12:49 Documents\r\n"
+    ],
+    [
+      0.000058,
+      "drwx------+   97 sintaxi  staff     3298 30 Apr 03:05 Downloads\r\n"
+    ],
+    [
+      0.000029,
+      "drwx------@   60 sintaxi  staff     2040 26 Apr 15:54 Dropbox\r\n"
+    ],
+    [
+      0.000030,
+      "drwxrwxrwx     4 sintaxi  staff      136 24 Feb 08:08 GoldenTicket\r\n"
+    ],
+    [
+      0.000020,
+      "drwx------@   12 sintaxi  staff      408 24 Apr  2013 Google Drive\r\n"
+    ],
+    [
+      0.002117,
+      "-rw-r--r--@    1 sintaxi  staff      266 20 Aug  2012 Guide to charging and collecting sales tax - Canada Business Net.webloc\r\n"
+    ],
+    [
+      0.001153,
+      "-rw-r--r--@    1 sintaxi  staff  3444736 16 Aug  2012 HackBoot 1.iso\r\n"
+    ],
+    [
+      0.000356,
+      "-rw-r--r--@    1 sintaxi  staff  3444736 16 Aug  2012 HackBoot 2.iso\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--@    1 sintaxi  staff     2011  1 Aug  2012 Layer7-SOW.txt\r\n"
+    ],
+    [
+      0.000057,
+      "drwx------@   61 sintaxi  staff     2074 29 Jul  2014 Library\r\n"
+    ],
+    [
+      0.001580,
+      "-rw-r--r--@    1 sintaxi  staff      267 22 Jul  2012 Mobile Game Primer - Build New Games.webloc\r\n"
+    ],
+    [
+      0.000070,
+      "drwx------+    5 sintaxi  staff      170  5 Dec  2013 Movies\r\n"
+    ],
+    [
+      0.000066,
+      "drwx------+    5 sintaxi  staff      170  4 Nov  2013 Music\r\n"
+    ],
+    [
+      0.003121,
+      "-rw-r--r--@    1 sintaxi  staff      262  6 Aug  2012 Node and Express Tips by Calvin French-Owen.webloc\r\n"
+    ],
+    [
+      0.003820,
+      "-rw-------@    1 sintaxi  staff   102993 24 Jul  2012 PhoneGap-Lab-New.png\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-------     1 sintaxi  staff    33690 24 Jul  2012 Phonegap-Logo.png\r\n"
+    ],
+    [
+      0.000060,
+      "drwx------+   11 sintaxi  staff      374  4 Feb 14:12 Pictures\r\n"
+    ],
+    [
+      0.000043,
+      "-rw-r--r--     1 sintaxi  staff  6417815 19 Jul  2012 Placelinginfographic_July18.png\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x+    5 sintaxi  staff      170 13 Nov  2011 Public\r\n"
+    ],
+    [
+      0.000045,
+      "-rw-r--r--     1 sintaxi  staff   111622 26 Sep  2012 Real-time Overview - Google Analytics.jpg\r\n"
+    ],
+    [
+      0.001877,
+      "-rw-r--r--@    1 sintaxi  staff      303 14 Sep  2012 Responsive Test.webloc\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--     1 sintaxi  staff    58790 11 Aug  2012 S3 Management Console.jpg\r\n"
+    ],
+    [
+      0.001485,
+      "-rw-r--r--@    1 sintaxi  staff   306554 26 Jul  2012 Screen Shot 2012-07-26 at 12.49.39 AM.png\r\n"
+    ],
+    [
+      0.000932,
+      "-rw-r--r--@    1 sintaxi  staff      314 17 Jul  2012 Setting up an Android Build Server – Part 1- The Server - DONN F.webloc\r\n"
+    ],
+    [
+      0.001087,
+      "drwx------@    5 sintaxi  staff      170 12 Dec 13:19 SpiderOak Hive\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--     1 sintaxi  staff    28275  9 Oct  2012 Thread - Beta Test - brockwhitten@gmail.com - Gmail.jpg\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--     1 sintaxi  staff   192811 19 Sep  2012 Twitter.jpg\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--     1 sintaxi  staff     3966  1 Nov  2012 Vagrantfile\r\n"
+    ],
+    [
+      0.000978,
+      "-rw-------@    1 sintaxi  staff   120475 25 Aug  2012 XMWbv.gif\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-------     1 sintaxi  staff   155421 12 Sep  2012 _MG_1532.jpeg\r\n"
+    ],
+    [
+      0.000028,
+      "drwxr-xr-x     6 sintaxi  staff      204 25 Nov 05:28 app\r\n"
+    ],
+    [
+      0.000905,
+      "-rw-r--r--@    1 sintaxi  staff      854 24 Aug  2012 bb.html\r\n"
+    ],
+    [
+      0.001177,
+      "-rw-------@    1 sintaxi  staff    81565 28 Jul  2012 bidsketch_com-new-pricing-tables.png\r\n"
+    ],
+    [
+      0.000051,
+      "-rw-r--r--@    1 sintaxi  staff   176666 11 Oct  2012 brock-beach-cropped.jpg\r\n"
+    ],
+    [
+      0.003950,
+      "-rw-------@    1 sintaxi  staff    33196  7 Sep  2012 chloi-logo_14-1.jpeg\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-------     1 sintaxi  staff    33196  6 Sep  2012 chloi-logo_14.jpeg\r\n"
+    ],
+    [
+      0.000066,
+      "drwxrwxr-x     8 sintaxi  staff      272 11 Sep  2014 coffee\r\n"
+    ],
+    [
+      0.000040,
+      "drwxrwxrwx     3 sintaxi  staff      102 18 Jul  2012 forge-workspace\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--@    1 sintaxi  staff    58155 12 Sep  2012 gelaskin-mock.ai\r\n"
+    ],
+    [
+      0.001045,
+      "-rw-r--r--@    1 sintaxi  staff      601  9 Aug  2012 globe.js\r\n"
+    ],
+    [
+      0.000064,
+      "-rw-r--r--@    1 sintaxi  staff   352979 12 Sep  2012 harp-brand.ai\r\n"
+    ],
+    [
+      0.001826,
+      "-rw-r--r--@    1 sintaxi  staff      479 11 Sep  2012 harp-brand.html\r\n"
+    ],
+    [
+      0.000945,
+      "-rw-r--r--@    1 sintaxi  staff     1025  7 Aug  2012 harp-pricelist.txt\r\n"
+    ],
+    [
+      0.000238,
+      "-rw-r--r--     1 sintaxi  staff  6197816 21 Sep  2012 harp_deliverables_sdm.zip\r\n"
+    ],
+    [
+      0.000135,
+      "drwxr-xr-x     3 sintaxi  staff      102 28 Jul  2014 heyo\r\n-rw-------     1 sintaxi  staff   123387  6 Sep  2012 image.jpeg\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--     1 sintaxi  staff       19 14 Aug  2012 index.html\r\n"
+    ],
+    [
+      0.003059,
+      "-rw-------@    1 sintaxi  staff   452703 18 Sep  2012 kIg69.gif\r\n"
+    ],
+    [
+      0.000087,
+      "-rw-r--r--@    1 sintaxi  staff     5407  1 Aug  2012 layer7.txt\r\n"
+    ],
+    [
+      0.005868,
+      "-rw-r--r--@    1 sintaxi  staff      355 25 Sep  2012 locals.js\r\n"
+    ],
+    [
+      0.000634,
+      "-rw-------@    1 sintaxi  staff    42810 24 Jul  2012 logo-mozilla-foundation.png\r\n"
+    ],
+    [
+      0.002282,
+      "-rw-r--r--@    1 sintaxi  staff      296  5 Sep  2012 mediaPost-5022c6bfe4b00c60ce616885-1346886586503.png (850×1280).webloc\r\n"
+    ],
+    [
+      0.001505,
+      "-rw-r--r--@    1 sintaxi  staff        0  7 Oct  2014 mediastack_dbg_output.txt\r\n"
+    ],
+    [
+      0.000115,
+      "-rw-r--r--     1 sintaxi  staff      518 29 Dec  2013 multibit-export-test.key\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x     9 sintaxi  staff      306  9 Aug  2012 node-pigiron\r\n"
+    ],
+    [
+      0.000032,
+      "drwxr-xr-x    18 sintaxi  staff      612  2 Apr 02:28 node_modules\r\n"
+    ],
+    [
+      0.000028,
+      "drwxr-xr-x    20 sintaxi  staff      680 12 Mar  2013 out\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--     1 sintaxi  staff      325 30 Aug  2014 program.js\r\n"
+    ],
+    [
+      0.000033,
+      "drwxr-xr-x     4 sintaxi  staff      136  1 Dec  2012 projects\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x    15 sintaxi  staff      510 21 Sep  2012 realtime\r\n"
+    ],
+    [
+      0.001482,
+      "-rw-r--r--@    1 sintaxi  staff      348 17 Sep  2012 realtime.txt\r\ndrwxr-xr-x    14 sintaxi  staff      476 15 Mar 14:26 sailsTestProject\r\n"
+    ],
+    [
+      0.001614,
+      "-rw-r--r--@    1 sintaxi  staff      593 29 Dec  2013 sintaxi.key\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x     4 sintaxi  staff      136 15 Mar 14:26 sitespeed-result\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x    11 sintaxi  staff      374 15 Mar 14:26 src\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--     1 sintaxi  staff        0  4 Feb  2014 stdout\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--     1 sintaxi  staff   164119 22 Aug  2012 tabs.tiff.jpg\r\n"
+    ],
+    [
+      0.000474,
+      "-rw-r--r--@    1 sintaxi  staff      229  9 Aug  2012 test.js\r\n"
+    ],
+    [
+      0.017761,
+      "-rw-r--r--@    1 sintaxi  staff     4640 21 Jul  2012 thug.html\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 sintaxi  staff     4148 18 Aug  2012 ti.md\r\ndrwxr-xr-x     6 root     staff      204 23 Apr 12:17 tmp\r\n-rw-------@    1 sintaxi  staff    19746 18 Sep  2012 u8SFP.jpeg\r\n-rw-------     1 sintaxi  staff    33740 24 Jul  2012 uudeue2a6aczhk4dwxem.jpeg\r\n-rw-r--r--     1 sintaxi  staff      453 20 Sep  2012 webfwd.txt\r\n-rw-r--r--@    1 sintaxi  staff     1300 21 Sep  2012 webfwd2.txt\r\ndrwxr-xr-x@    6 sintaxi  staff      204 27 Jul  2012 yankee\r\nbash-3.2$ "
+    ],
+    [
+      1.340343,
+      "t"
+    ],
+    [
+      0.143880,
+      "o"
+    ],
+    [
+      0.200144,
+      "p"
+    ],
+    [
+      0.360447,
+      "\r\n"
+    ],
+    [
+      0.014528,
+      "\u001b[?1049h\u001b[1;32r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1034h\u001b[?1h\u001b="
+    ],
+    [
+      0.254832,
+      "\u001b[H\u001b[2JProcesses: 214 total, 3 running, 3 stuck, 208 sleeping, 1205 threads\u001b[1;111H13:51:27\r\u001b[2dLoad Avg: 2.41, 2.10, 2.04  CPU usage: 15.95% user, 24.46% sys, 59.57% idle\r\u001b[3dSharedLibs: 532K resident, 0B data, 0B linkedit. MemRegions: 85574 total, 1011M resident, 30M private, 258M shared.\r\u001b[4dPhysMem: 2531M used (1276M wired), 11M unused.\r\u001b[5dVM: 688G vsize, 1025M framework vsize, 12736976(0) swapins, 14774024(0) swapouts.\r\u001b[6dNetworks: packets: 6896865/7035M in, 4557070/670M out. Disks: 5688322/129G read, 2425141/95G written.\r\u001b[8dPID    COMMAND\u001b[21G%CPU TIME     #TH  #WQ  #PORT #MREGS MEM    RPRVT  PURG   CMPRS  VPRVT  VSIZE  PGRP  PPID  STATE\r\u001b[9d23899  top\u001b[9;21H0.0  00:00.23 1/1  0    18+   36+    1864K+ 1656K+ 0B     0B     44M+   2403M+ 23899 23897 running\r\u001b[10d23897  bash\u001b[10;21H0.0  00:00.03 1    0    19+   32+    648K+  516K+  0B     0B     44M+   2403M+ 23897 23896 sleeping\u001b[11;1H23896  asciinema    0.0  00:00.03 6    0    32+   1133+  1116K+ 924K+  0B     0B     26M+   138G+  23896 23878 sleeping"
+    ],
+    [
+      0.000080,
+      "\u001b[12;1H23878  bash\u001b[12;21H0.0  00:00.03 1    0    19+   33+    680K+  556K+  0B     0B     44M+   2403M+ 23878 23877 sleeping\u001b[13;1H23877  login\u001b[13;21H0.0  00:00.08 2    0    30+   46+    980K+  664K+  0B     0B     53M+   2411M+ 23877 280   sleeping\u001b[14;1H23876  syncdefaults 0.0  00:00.11 2    0    54+   54+    2920K+ 1788K+ 0B     0B     53M+   2434M+ 23876 267   sleeping\u001b[15;1H23875  mdworker     0.0  00:00.32 4    0    54+   67+    3432K+ 2952K+ 0B     1164K+ 61M+   2425M+ 23875 267   sleeping\u001b[16;1H23845  com.apple.iC 0.0  00:04.55 6    1    88+   80+    2396K+ 2116K+ 0B     1472K+ 55M+   2437M+ 23845 1     sleeping\u001b[17;1H23534  netbiosd     0.0  00:00.38 2    1    44+   43+    336K+  216K+  0B     1040K+ 53M+   2412M+ 23534 1     sleeping\u001b[18;1H23463  DataDetector 0.0  00:00.16 2    0    55+   51+    12K+   4096B+ 0B     1884K+ 53M+   2434M+ 23463 1     sleeping\u001b[19;1H23415  Google Chrom 0.0  00:21.68 10   0    99+   608+   6656K+ 6472K+ 0B     129M+  243M+  3350M+ 22462 22462 sleeping\u001b[20;1H23319  ocs"
+    ],
+    [
+      0.000438,
+      "pd\u001b[20;21H0.0  00:00.85 5    0    74+   101+   664K+  512K+  0B     3592K+ 55M+   2436M+ 23319 1     sleeping\u001b[21;1H23234  AirPlayUIAge 0.0  00:01.20 4    1    187+  71+    948K+  688K+  0B     1764K+ 54M+   2455M+ 23234 267   sleeping\u001b[22;1H23172  tccd\u001b[22;21H0.0  00:00.04 2    1    42+   47+    8192B+ 0B     0B     1424K+ 53M+   2414M+ 23172 1     sleeping\u001b[23;1H22986  com.apple.Ic 0.0  00:00.27 2    1    64+   67+    28K+   4096B+ 0B     9364K+ 59M+   2420M+ 22986 1     sleeping\u001b[24;1H22984  com.apple.Sh 0.0  00:01.78 4    1    138+  161+   1268K+ 1016K+ 0B     38M+   93M+   2502M+ 22984 1     sleeping\u001b[25;1H22966  com.apple.hi 0.0  00:00.03 2    0    34+   43+    4096B+ 4096B+ 0B     1084K+ 53M+   2411M+ 22966 1     sleeping\u001b[26;1H22947  "
+    ],
+    [
+      0.000171,
+      "ubd\u001b[26;21H0.0  00:00.33 6    0    85+   70+    216K+  120K+  0B     2960K+ 60M+   2443M+ 22947 267   sleeping\u001b[27;1H22940  com.apple.In 0.0  00:00.11 2    0    56+   54+    16K+   4096B+ 0B     1900K+ 53M+   2434M+ 22940 1     sleeping\u001b[28;1H22926  pbs\u001b[28;21H0.0  00:00.09 2    1    46+   40+    8192B+ 4096B+ 0B     1752K+ 53M+   2411M+ 22926 267   sleeping\u001b[29;1H22839  bash\u001b[29;21H0.0  00:00.19 1    0    19+   33+    4096B+ 4096B+ 0B     660K+  44M+   2403M+ 22839 22838 sleeping\u001b[30;1H22838  login\u001b[30;21H0.0  00:00.02 2    0    30+   46+    4096B+ 0B     0B     972K+  53M+   2411M+ 22838 280   sleeping\u001b[31;1H22837  sysmond\u001b[21G0.0  00:00.80 2    1    22+   39+    4096B+ 0B     0B     1644K+ 53M+   2411M+ 22837 1     sleeping\u001b[32;1H22812  bash\u001b[32;21H0.0  00:00.05 1    0    19+   33+    4096B+ 4096B+ 0B     676K+  44M+   2403M+ 22812 22811 sleepin\u001b[?7lg\u001b[?7h"
+    ],
+    [
+      1.214483,
+      "\u001b[1;23H2\u001b[1;45H9\u001b[1;59H13\u001b[118G8\u001b[2;13H38, 2.09\u001b[2;41H1.53\u001b[2;53H7.28% sys, 81.1\u001b[1P\u001b[3;65H91\u001b[3;77H25\u001b[3;105H39\u001b[4;13H3\u001b[4;25H3\u001b[4;36H9072K unused.\u001b[6;26H9\u001b[6;44H3\u001b[6;68H34\u001b[9;21H17.3\u001b[32G45\u001b[9;45H22+   37+    2424K+ 2192\u001b[9;89H-\u001b[10;47H    32 \u001b[10;62H \u001b[69G \u001b[10;89H \u001b[10;98H \u001b[11;47H \u001b[55G \u001b[63G  924K \u001b[11;89H \u001b[97G \u001b[12;47H    33 \u001b[12;62H \u001b[69G \u001b[12;89H \u001b[12;98H \u001b[13;47H    46 \u001b[13;62H \u001b[69G \u001b[13;89H \u001b[13;98H \u001b[14;47H    54 \u001b[14;63H  1716K-\u001b[14;86H37M-\u001b[14;98H \u001b[15;47H    67 \u001b[15;63H  2920K-\u001b[15;84H  45M-\u001b[15;98H \u001b[16;47H    80 \u001b[16;63H  2108K-\u001b[16;84H  55M-\u001b[16;98H \u001b[17;47H    43 \u001b[17;62H   208K-\u001b[17;84H  53M-\u001b[17;98H \u001b[18;47H    51 \u001b[61G \u001b[18;70H \u001b[18;84H  53M-\u001b[18;98H \u001b[19;47H \u001b[54G \u001b[19;63H  6464K-\u001b[19;83H \u001b[90G-\u001b[98G \u001b[20;47H \u001b[54G \u001b[62G   216K-\u001b[20;84H  -9\u001b[20;98H \u001b[21;48H   71 \u001b[21;62H   680K-\u001b[21;84H  54M-\u001b[21;98H \u001b[22;47H    47 \u001b[22;63H \u001b[22;84H  53M-\u001b[22;98H \u001b[23;47H    67 \u001b[61G    -4K+  \u001b[23;84H  43M-\u001b[23;98H \u001b[24;48H   161 \u001b[24;63H  1008K-\u001b[24;82H \u001b[89G-\u001b[24;98H \u001b[25;47H    43 \u001b[25;63H  -4K+  \u001b"
+    ],
+    [
+      0.000107,
+      "[25;84H  37M-\u001b[25;98H \u001b[26;47H    70 \u001b[26;62H   104K-\u001b[26;84H  44M-\u001b[26;98H \u001b[27;47H    54 \u001b[61G \u001b[27;70H \u001b[27;84H  53M-\u001b[27;98H \u001b[28;47H    40 \u001b[28;63H  -4K+  \u001b[28;84H  37M-\u001b[28;98H \u001b[29;47H    33 \u001b[29;63H \u001b[70G \u001b[29;83H   44M \u001b[29;98H \u001b[30;47H    46 \u001b[30;63H \u001b[30;83H   53M \u001b[30;98H \u001b[31;47H    39 \u001b[31;63H \u001b[31;84H  53M-\u001b[31;98H \u001b[32;47H    33 \u001b[32;63H \u001b[70G \u001b[32;83H   44M \u001b[32;98H \u001b[119G"
+    ],
+    [
+      0.816447,
+      "\u001b[1d\u00089\u001b[2;41H0.3\u001b[2;53H10.63% sys, 79.2\u001b[3;65H84\u001b[3;77H81\u001b[3;104H163\u001b[4;12H29\u001b[4;24H81\u001b[4;37H356\u001b[6;25H76\u001b[6;43H80\u001b[9;21H27.4\u001b[32G67\u001b[9;47H    37 \u001b[60G32K+ 2204\u001b[9;89H+\u001b[9;98H \u001b[14;67H52K+\u001b[14;86H45M+\u001b[15;67H36K+\u001b[15;86H53M+\u001b[16;67H12K+\u001b[16;89H+\u001b[17;59H00K-  176\u001b[17;81H76K+ 53M+\u001b[18d\u0008+\u001b[19;23H1\u001b[19;61H2K-\u001b[70G \u001b[19;83H+\u001b[90G+\u001b[20;65H364K+\u001b[20;86H23M-\u001b[21;60H4K-\u001b[69G \u001b[21;82H8K+ 54M+\u001b[22d\u0008+\u001b[23;65H0B- \u001b[23;86H51M+\u001b[24;67H12K+\u001b[24;89H+\u001b[25;65H0B- \u001b[25;86H45M+\u001b[26;66H12K+\u001b[26;86H52M+\u001b[27d\u0008+\u001b[28;65H0B- \u001b[28;86H45M+\u001b[31d\u0008+\u001b[32;119H"
+    ],
+    [
+      0.224616,
+      "\u001b[1;34H4\u001b[1;45H8\u001b[2;41H3.6\u001b[2;53H25.0% sys, 61.36\u001b[3;66H7\u001b[3;75H896M resident, 30M private, 267\u001b[1P\u001b[4;25H0\u001b[4;36H11M\u001b[2P\u001b[6;26H9\u001b[6;69H6\u001b[9;21H101.\u001b[32G89\u001b[9;61H6\u001b[68G8\u001b[9;89H \u001b[14;70H \u001b[14;89H \u001b[15;70H \u001b[15;89H \u001b[16;70H \u001b[16;89H \u001b[17;62H \u001b[69G \u001b[17;84H  53M \u001b[18d\u0008 \u001b[19;23H0\u001b[19;63H \u001b[19;83H \u001b[90G \u001b[20;69H \u001b[20;89H \u001b[21;62H \u001b[21;84H  54M \u001b[22d\u0008 \u001b[23;67H \u001b[23;89H \u001b[24;70H \u001b[24;89H \u001b[25;67H \u001b[25;89H \u001b[26;69H \u001b[26;89H \u001b[27d\u0008 \u001b[28;67H \u001b[28;89H \u001b[31d\u0008 \u001b[32;119H"
+    ],
+    [
+      0.000764,
+      "\u001b[8;26H TIME     #TH  #WQ  #PORT #MREGS MEM    RPRVT  PURG   CMPRS  VPRVT  VSIZE  PGRP  PPID\u001b[K\u001b[9;25H1 00:00.89 1/1  0    22    37     2436K+ 2208K+ 0B     0B     44M    2403M  23899 23897\u001b[K\u001b[10;26H 00:00.03 1    0    19    32     648K   516K   0B     0B     44M    2403M  23897 23896\u001b[K\u001b[11;26H 00:00.03 6    0    32    1133   1116K  924K   0B     0B     26M    138G   23896 23878\u001b[K\u001b[12;26H 00:00.03 1    0    19    33     680K   556K   0B     0B     44M    2403M  23878 23877\u001b[K\u001b[13;26H 00:00.08 2    0    30    46     980K   664K   0B     0B     53M    2411M  23877 280\u001b[K\u001b[14;26H 00:00.11 2    0    54    54     2920K  1752K  0B     0B     45M    2434M  23876 267\u001b[K\u001b[15;26H 00:00.32 4    0    54    67     3432K  2936K  0B     1164K  53M    2425M  23875 267\u001b[K\u001b[16;26H 00:04.55 6    1    88    80     2396K  2112K  0B     1472K  55M    2437M  23845 1\u001b[K\u001b[17;26H 00:00.38 2    1    44    43     300K   176K   0B     1076K  53M    2412M  23534 1\u001b[K\u001b[18;26H 00:00.16 2    0    55    51     12K    4096B  0B     1884K  5"
+    ],
+    [
+      0.000045,
+      "3M    2434M  23463 1\u001b[K\u001b[19;26H 00:21.68 10   0    99    608    6652K  6464K  0B     129M   243M   3350M  22462 22462\u001b[K\u001b[20;26H 00:00.85 5    0    74    101    664K   364K   0B     3592K  23M    2436M  23319 1\u001b[K\u001b[21;26H 00:01.20 4    1    187   71     944K   680K   0B     1768K  54M    2455M  23234 267\u001b[K\u001b[22;26H 00:00.04 2    1    42    47     8192B  0B     0B     1424K  53M    2414M  23172 1\u001b[K\u001b[23;26H 00:00.27 2    1    64    67     28K    0B     0B     9364K  51M    2420M  22986 1\u001b[K\u001b[24;26H 00:01.78 4    1    138   161    1268K  1012K  0B     38M    93M    2502M  22984 1\u001b[K\u001b[25;26H 00:00.03 2    0    34    43     4096B  0B     0B     1084K  45M    2411M  22966 1\u001b[K\u001b[26;26H 00:00.33 6    0    85    70     216K   112K   0B     2960K  52M    2443M  22947 267\u001b[K\u001b[27;26H 00:00.11 2    0    56    54     16K    4096B  0B     1900K  53M    2434M  22940 1\u001b[K\u001b[28;26H 00:00.09 2    1    46    40     8192B  0B     0B     1752K  45M    2411M  22926 267\u001b[K\u001b[29;26H 00:00.19 1    0    19    33     4096B  4096B  0B    "
+    ],
+    [
+      0.000198,
+      " 660K   44M    2403M  22839 22838\u001b[K\u001b[30;26H 00:00.02 2    0    30    46     4096B  0B     0B     972K   53M    2411M  22838 280\u001b[K\u001b[31;26H 00:00.80 2    1    22    39     4096B  0B     0B     1644K  53M    2411M  22837 1\u001b[K\u001b[32;26H 00:00.05 1    0    19    33     4096B  4096B  0B     676K   44M    2403M  22812 22811\u001b[K\u0008"
+    ],
+    [
+      0.922458,
+      "\u001b[1;34H3\u001b[1;45H9\u001b[117G30\u001b[2;40H9.51% user, 8.15% sys, 82.33\u001b[1P\u001b[3d\u0008\u00080\u001b[3;75H1000M resident, 30M private, 268M shared.\u001b[4;24H76\u001b[6d\u000884\u001b[9;21H23.3  00:01.11\u001b[9;60H508K+ 2280\u001b[32;111H\u001b[32;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000860,
+      "bash-3.2$ "
+    ],
+    [
+      0.109795,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "bash-3.2$ "
+    ],
+    [
+      1.863369,
+      "l"
+    ],
+    [
+      0.056354,
+      "s"
+    ],
+    [
+      0.191695,
+      "\r\n"
+    ],
+    [
+      0.003536,
+      " deliverables\r\nAlaska Airlines - Print Boarding Pass.pdf\r\nApplications\r\n"
+    ],
+    [
+      0.000013,
+      "BTSync\r\nBest Mobile Designers In The World | Scoutzie.webloc\r\nBinteo.jpg\r\nBox Documents\r\nChloi-Screen.png\r\nCopy\r\nDesk\r\n"
+    ],
+    [
+      0.000006,
+      "Desktop\r\nDocuments\r\n"
+    ],
+    [
+      0.000006,
+      "Downloads\r\nDropbox\r\n"
+    ],
+    [
+      0.000005,
+      "GoldenTicket\r\n"
+    ],
+    [
+      0.000005,
+      "Google Drive\r\n"
+    ],
+    [
+      0.000022,
+      "Guide to charging and collecting sales tax - Canada Business Net.webloc\r\nHackBoot 1.iso\r\n"
+    ],
+    [
+      0.000007,
+      "HackBoot 2.iso\r\n"
+    ],
+    [
+      0.000005,
+      "Layer7-SOW.txt\r\nLibrary\r\n"
+    ],
+    [
+      0.000018,
+      "Mobile Game Primer - Build New Games.webloc\r\nMovies\r\n"
+    ],
+    [
+      0.000006,
+      "Music\r\n"
+    ],
+    [
+      0.000021,
+      "Node and Express Tips by Calvin French-Owen.webloc\r\nPhoneGap-Lab-New.png\r\n"
+    ],
+    [
+      0.000012,
+      "Phonegap-Logo.png\r\nPictures\r\nPlacelinginfographic_July18.png\r\n"
+    ],
+    [
+      0.000005,
+      "Public\r\n"
+    ],
+    [
+      0.000005,
+      "Real-time Overview - Google Analytics.jpg\r\n"
+    ],
+    [
+      0.000005,
+      "Responsive Test.webloc\r\n"
+    ],
+    [
+      0.000005,
+      "S3 Management Console.jpg\r\n"
+    ],
+    [
+      0.000038,
+      "Screen Shot 2012-07-26 at 12.49.39 AM.png\r\nSetting up an Android Build Server – Part 1- The Server - DONN F.webloc\r\nSpiderOak Hive\r\n"
+    ],
+    [
+      0.000007,
+      "Thread - Beta Test - brockwhitten@gmail.com - Gmail.jpg\r\n"
+    ],
+    [
+      0.000005,
+      "Twitter.jpg\r\n"
+    ],
+    [
+      0.000006,
+      "Vagrantfile\r\nXMWbv.gif\r\n"
+    ],
+    [
+      0.000005,
+      "_MG_1532.jpeg\r\n"
+    ],
+    [
+      0.000005,
+      "app\r\n"
+    ],
+    [
+      0.000005,
+      "bb.html\r\n"
+    ],
+    [
+      0.000047,
+      "bidsketch_com-new-pricing-tables.png\r\nbrock-beach-cropped.jpg\r\nchloi-logo_14-1.jpeg\r\nchloi-logo_14.jpeg\r\ncoffee\r\nforge-workspace\r\ngelaskin-mock.ai\r\nglobe.js\r\n"
+    ],
+    [
+      0.000020,
+      "harp-brand.ai\r\nharp-brand.html\r\nharp-pricelist.txt\r\nharp_deliverables_sdm.zip\r\nheyo\r\nimage.jpeg\r\n"
+    ],
+    [
+      0.000006,
+      "index.html\r\nkIg69.gif\r\n"
+    ],
+    [
+      0.000006,
+      "layer7.txt\r\nlocals.js\r\n"
+    ],
+    [
+      0.000006,
+      "logo-mozilla-foundation.png\r\n"
+    ],
+    [
+      0.000135,
+      "mediaPost-5022c6bfe4b00c60ce616885-1346886586503.png (850×1280).webloc\r\nmediastack_dbg_output.txt\r\n"
+    ],
+    [
+      0.000016,
+      "multibit-export-test.key\r\nnode-pigiron\r\nnode_modules\r\nout\r\nprogram.js\r\nprojects\r\nrealtime\r\nrealtime.txt\r\nsailsTestProject\r\nsintaxi.key\r\nsitespeed-result\r\nsrc\r\nstdout\r\ntabs.tiff.jpg\r\ntest.js\r\nthug.html\r\nti.md\r\ntmp\r\nu8SFP.jpeg\r\nuudeue2a6aczhk4dwxem.jpeg\r\nwebfwd.txt\r\nwebfwd2.txt\r\nyankee\r\n"
+    ],
+    [
+      0.000448,
+      "bash-3.2$ "
+    ],
+    [
+      2.411550,
+      "h"
+    ],
+    [
+      0.081583,
+      "a"
+    ],
+    [
+      0.094352,
+      "r"
+    ],
+    [
+      0.064144,
+      "p"
+    ],
+    [
+      0.208075,
+      " "
+    ],
+    [
+      0.216134,
+      "s"
+    ],
+    [
+      0.191448,
+      "e"
+    ],
+    [
+      0.209213,
+      "r"
+    ],
+    [
+      0.216212,
+      "v"
+    ],
+    [
+      0.094907,
+      "e"
+    ],
+    [
+      0.055743,
+      "r"
+    ],
+    [
+      1.560009,
+      "\r\n"
+    ],
+    [
+      1.544354,
+      "------------\r\n"
+    ],
+    [
+      0.000400,
+      "Harp v0.15.2 – Chloi Inc. 2012–2015\r\n"
+    ],
+    [
+      0.000076,
+      "Your server is listening at http://localhost:9000/\r\n"
+    ],
+    [
+      0.000054,
+      "Press Ctl+C to stop the server\r\n"
+    ],
+    [
+      0.000009,
+      "------------\r\n"
+    ],
+    [
+      1.314269,
+      "^C"
+    ],
+    [
+      0.006739,
+      "bash-3.2$ "
+    ],
+    [
+      1.486137,
+      "e"
+    ],
+    [
+      0.328256,
+      "x"
+    ],
+    [
+      0.192154,
+      "i"
+    ],
+    [
+      0.087434,
+      "t"
+    ],
+    [
+      0.168265,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "exit\r\n"
+    ]
+  ]
+}
