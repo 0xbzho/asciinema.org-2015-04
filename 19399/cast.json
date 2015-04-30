@@ -1,0 +1,1930 @@
+{
+  "version": 1,
+  "width": 87,
+  "height": 27,
+  "duration": 66.494870,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.596839,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                      \r \r"
+    ],
+    [
+      0.000145,
+      "\u001b]2;david@MacBook-Pro-de-David: ~/grunt\u0007\u001b]1;~/grunt\u0007"
+    ],
+    [
+      0.033619,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m david@MacBook-Pro-de-David \u001b[44m\u001b[30m\u001b[30m ~/grunt \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000018,
+      "\u001b[K"
+    ],
+    [
+      0.000153,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.870950,
+      "g"
+    ],
+    [
+      0.079838,
+      "\u0008gr"
+    ],
+    [
+      0.079869,
+      "u"
+    ],
+    [
+      0.056142,
+      "n"
+    ],
+    [
+      0.144040,
+      "t"
+    ],
+    [
+      1.480571,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000127,
+      "\r\r\n"
+    ],
+    [
+      0.000985,
+      "\u001b]2;grunt\u0007\u001b]1;grunt\u0007"
+    ],
+    [
+      1.936486,
+      "\u001b[4mRunning \"default\" task\u001b[24m\r\n"
+    ],
+    [
+      0.001395,
+      "\u001b[33m\u001b[1mHi there.\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000264,
+      "\u001b[33m\u001b[1mIt seems that it's your first run on this project. You should maybe take time to configure it.\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[34mNote : your can use 'grunt config' to configure your project anytime.\u001b[39m\r\n"
+    ],
+    [
+      0.008756,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[4mRunning \"prompt:config\" (prompt) task\u001b[24m\r\n"
+    ],
+    [
+      0.305025,
+      "\u001b[32m?\u001b[39m \u001b[1mDo you want to configure your project ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Yep.\u001b[39m \r\n  Nope, i'm fine. "
+    ],
+    [
+      0.001059,
+      "\u001b[?25l"
+    ],
+    [
+      2.586173,
+      "\u001b[87D"
+    ],
+    [
+      0.000135,
+      "\u001b[2K"
+    ],
+    [
+      0.000049,
+      "\u001b[1A"
+    ],
+    [
+      0.000185,
+      "\u001b[87D"
+    ],
+    [
+      0.000057,
+      "\u001b[2K"
+    ],
+    [
+      0.000039,
+      "\u001b[1A"
+    ],
+    [
+      0.000023,
+      "\u001b[87D"
+    ],
+    [
+      0.000012,
+      "\u001b[2K"
+    ],
+    [
+      0.000545,
+      "\u001b[32m?\u001b[39m \u001b[1mDo you want to configure your project ?\u001b[22m \u001b[36mYep.\u001b[39m\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[?25h"
+    ],
+    [
+      0.003344,
+      "\u001b[32m?\u001b[39m \u001b[1mOk then, first, choose your template engine :\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Jade\u001b[39m \r\n  PHP \r\n  HTML "
+    ],
+    [
+      0.000035,
+      "\u001b[?25l"
+    ],
+    [
+      1.070088,
+      "\u001b[87D"
+    ],
+    [
+      0.000010,
+      "\u001b[2K"
+    ],
+    [
+      0.000520,
+      "\u001b[1A\u001b[87D\u001b[2K\u001b[1A\u001b[87D\u001b[2K\u001b[1A\u001b[87D\u001b[2K\u001b[32m?\u001b[39m \u001b[1mOk then, first, choose your template engine :\u001b[22m \r\n  Jade \r\n\u001b[36m❯ PHP\u001b[39m \r\n  HTML "
+    ],
+    [
+      0.788551,
+      "\u001b[87D"
+    ],
+    [
+      0.000032,
+      "\u001b[2K"
+    ],
+    [
+      0.000030,
+      "\u001b[1A"
+    ],
+    [
+      0.000021,
+      "\u001b[87D"
+    ],
+    [
+      0.000287,
+      "\u001b[2K"
+    ],
+    [
+      0.000020,
+      "\u001b[1A"
+    ],
+    [
+      0.000050,
+      "\u001b[87D"
+    ],
+    [
+      0.000021,
+      "\u001b[2K"
+    ],
+    [
+      0.000005,
+      "\u001b[1A"
+    ],
+    [
+      0.000024,
+      "\u001b[87D"
+    ],
+    [
+      0.000028,
+      "\u001b[2K"
+    ],
+    [
+      0.000272,
+      "\u001b[32m?\u001b[39m \u001b[1mOk then, first, choose your template engine :\u001b[22m \r\n\u001b[36m❯ Jade\u001b[39m \r\n  PHP \r\n  HTML "
+    ],
+    [
+      0.327842,
+      "\u001b[87D"
+    ],
+    [
+      0.000023,
+      "\u001b[2K"
+    ],
+    [
+      0.000023,
+      "\u001b[1A"
+    ],
+    [
+      0.000114,
+      "\u001b[87D\u001b[2K\u001b[1A\u001b[87D\u001b[2K\u001b[1A"
+    ],
+    [
+      0.000006,
+      "\u001b[87D"
+    ],
+    [
+      0.000012,
+      "\u001b[2K"
+    ],
+    [
+      0.000188,
+      "\u001b[32m?\u001b[39m \u001b[1mOk then, first, choose your template engine :\u001b[22m \u001b[36mJade\u001b[39m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[?25h"
+    ],
+    [
+      0.003529,
+      "\u001b[32m?\u001b[39m \u001b[1mYou can use a bunch of tools for your assets. Do you want to use an icon fonts generator ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Yep.\u001b[39m \r\n  Nope. \u001b[?25l"
+    ],
+    [
+      3.235855,
+      "\u001b[87D"
+    ],
+    [
+      0.000041,
+      "\u001b[2K"
+    ],
+    [
+      0.000016,
+      "\u001b[1A"
+    ],
+    [
+      0.000031,
+      "\u001b[87D"
+    ],
+    [
+      0.000029,
+      "\u001b[2K"
+    ],
+    [
+      0.000005,
+      "\u001b[1A"
+    ],
+    [
+      0.000026,
+      "\u001b[87D"
+    ],
+    [
+      0.000028,
+      "\u001b[2K"
+    ],
+    [
+      0.000377,
+      "\u001b[32m?\u001b[39m \u001b[1mYou can use a bunch of tools for your assets. Do you want to use an icon fonts generator ?\u001b[22m \u001b[36mYep.\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[?25h"
+    ],
+    [
+      0.001261,
+      "\u001b[32m?\u001b[39m \u001b[1mWant to use SVG sprite ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Yep.\u001b[39m \r\n  Nope. "
+    ],
+    [
+      0.000008,
+      "\u001b[?25l"
+    ],
+    [
+      2.350016,
+      "\u001b[87D"
+    ],
+    [
+      0.000071,
+      "\u001b[2K"
+    ],
+    [
+      0.000017,
+      "\u001b[1A"
+    ],
+    [
+      0.000021,
+      "\u001b[87D"
+    ],
+    [
+      0.000019,
+      "\u001b[2K"
+    ],
+    [
+      0.000026,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[87D"
+    ],
+    [
+      0.000025,
+      "\u001b[2K"
+    ],
+    [
+      0.000167,
+      "\u001b[32m?\u001b[39m \u001b[1mWant to use SVG sprite ?\u001b[22m \u001b[36mYep.\u001b[39m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[?25h"
+    ],
+    [
+      0.002592,
+      "\u001b[32m?\u001b[39m \u001b[1mWant to use Grunticon ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Yep.\u001b[39m \r\n  Nope. "
+    ],
+    [
+      0.000029,
+      "\u001b[?25l"
+    ],
+    [
+      1.442031,
+      "\u001b[87D"
+    ],
+    [
+      0.000257,
+      "\u001b[2K\u001b[1A\u001b[87D\u001b[2K\u001b[1A\u001b[87D\u001b[2K"
+    ],
+    [
+      0.000980,
+      "\u001b[32m?\u001b[39m \u001b[1mWant to use Grunticon ?\u001b[22m \u001b[36mYep.\u001b[39m\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[?25h"
+    ],
+    [
+      0.009178,
+      "\u001b[32m?\u001b[39m \u001b[1mOne more thing, do you want to run a local server ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Yep.\u001b[39m \r\n  Nope. \u001b[?25l"
+    ],
+    [
+      1.968338,
+      "\u001b[87D"
+    ],
+    [
+      0.000032,
+      "\u001b[2K"
+    ],
+    [
+      0.000029,
+      "\u001b[1A"
+    ],
+    [
+      0.000034,
+      "\u001b[87D"
+    ],
+    [
+      0.000032,
+      "\u001b[2K"
+    ],
+    [
+      0.000025,
+      "\u001b[1A"
+    ],
+    [
+      0.000027,
+      "\u001b[87D"
+    ],
+    [
+      0.000026,
+      "\u001b[2K"
+    ],
+    [
+      0.000135,
+      "\u001b[32m?\u001b[39m \u001b[1mOne more thing, do you want to run a local server ?\u001b[22m \u001b[36mYep.\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[?25h"
+    ],
+    [
+      0.000721,
+      "\u001b[?25h"
+    ],
+    [
+      0.006364,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[4mRunning \"prompt:who\" (prompt) task\u001b[24m\r\n"
+    ],
+    [
+      0.006886,
+      "\u001b[32m?\u001b[39m \u001b[1mDo you want to configure the name and the description of your project ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Yep.\u001b[39m \r\n  Nope. "
+    ],
+    [
+      0.000035,
+      "\u001b[?25l"
+    ],
+    [
+      1.850801,
+      "\u001b[87D"
+    ],
+    [
+      0.000039,
+      "\u001b[2K"
+    ],
+    [
+      0.000041,
+      "\u001b[1A"
+    ],
+    [
+      0.000013,
+      "\u001b[87D"
+    ],
+    [
+      0.000030,
+      "\u001b[2K"
+    ],
+    [
+      0.000005,
+      "\u001b[1A"
+    ],
+    [
+      0.000037,
+      "\u001b[87D"
+    ],
+    [
+      0.000018,
+      "\u001b[2K"
+    ],
+    [
+      0.000130,
+      "\u001b[32m?\u001b[39m \u001b[1mDo you want to configure the name and the description of your project ?\u001b[22m \r\n  Yep. \r\n\u001b[36m❯ Nope.\u001b[39m "
+    ],
+    [
+      0.670478,
+      "\u001b[87D"
+    ],
+    [
+      0.000031,
+      "\u001b[2K"
+    ],
+    [
+      0.000023,
+      "\u001b[1A"
+    ],
+    [
+      0.000027,
+      "\u001b[87D"
+    ],
+    [
+      0.000017,
+      "\u001b[2K"
+    ],
+    [
+      0.000025,
+      "\u001b[1A"
+    ],
+    [
+      0.000024,
+      "\u001b[87D"
+    ],
+    [
+      0.000020,
+      "\u001b[2K"
+    ],
+    [
+      0.000462,
+      "\u001b[32m?\u001b[39m \u001b[1mDo you want to configure the name and the description of your project ?\u001b[22m \r\n\u001b[36m❯ Yep.\u001b[39m \r\n  Nope. "
+    ],
+    [
+      0.463747,
+      "\u001b[87D"
+    ],
+    [
+      0.000035,
+      "\u001b[2K"
+    ],
+    [
+      0.000056,
+      "\u001b[1A"
+    ],
+    [
+      0.001906,
+      "\u001b[87D"
+    ],
+    [
+      0.000295,
+      "\u001b[2K"
+    ],
+    [
+      0.000024,
+      "\u001b[1A"
+    ],
+    [
+      0.000601,
+      "\u001b[87D"
+    ],
+    [
+      0.000215,
+      "\u001b[2K"
+    ],
+    [
+      0.000221,
+      "\u001b[32m?\u001b[39m \u001b[1mDo you want to configure the name and the description of your project ?\u001b[22m \u001b[36mYep.\u001b[39m\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[?25h"
+    ],
+    [
+      0.008419,
+      "\u001b[32m?\u001b[39m \u001b[1mThe name of your project :\u001b[22m "
+    ],
+    [
+      3.916324,
+      "f"
+    ],
+    [
+      0.000245,
+      "\u001b[87D"
+    ],
+    [
+      0.000036,
+      "\u001b[2K"
+    ],
+    [
+      0.000112,
+      "\u001b[32m?\u001b[39m \u001b[1mThe name of your project :\u001b[22m "
+    ],
+    [
+      0.000030,
+      "f"
+    ],
+    [
+      0.135049,
+      "o"
+    ],
+    [
+      0.000112,
+      "\u001b[87D"
+    ],
+    [
+      0.000023,
+      "\u001b[2K"
+    ],
+    [
+      0.000100,
+      "\u001b[32m?\u001b[39m \u001b[1mThe name of your project :\u001b[22m "
+    ],
+    [
+      0.000060,
+      "fo"
+    ],
+    [
+      0.127446,
+      "o"
+    ],
+    [
+      0.000115,
+      "\u001b[87D"
+    ],
+    [
+      0.000792,
+      "\u001b[2K"
+    ],
+    [
+      0.000090,
+      "\u001b[32m?\u001b[39m \u001b[1mThe name of your project :\u001b[22m "
+    ],
+    [
+      0.000011,
+      "foo"
+    ],
+    [
+      0.271114,
+      "\r\r\n"
+    ],
+    [
+      0.000716,
+      "\u001b[87D"
+    ],
+    [
+      0.000022,
+      "\u001b[2K"
+    ],
+    [
+      0.000051,
+      "\u001b[1A"
+    ],
+    [
+      0.000018,
+      "\u001b[87D"
+    ],
+    [
+      0.000029,
+      "\u001b[2K"
+    ],
+    [
+      0.000090,
+      "\u001b[32m?\u001b[39m \u001b[1mThe name of your project :\u001b[22m "
+    ],
+    [
+      0.000072,
+      "\u001b[36mfoo\u001b[39m\r\n"
+    ],
+    [
+      0.001846,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m "
+    ],
+    [
+      0.805303,
+      "f"
+    ],
+    [
+      0.000308,
+      "\u001b[87D\u001b[2K"
+    ],
+    [
+      0.000140,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m f"
+    ],
+    [
+      0.119408,
+      "o"
+    ],
+    [
+      0.000133,
+      "\u001b[87D"
+    ],
+    [
+      0.000013,
+      "\u001b[2K"
+    ],
+    [
+      0.000103,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m fo"
+    ],
+    [
+      0.136689,
+      "o"
+    ],
+    [
+      0.000357,
+      "\u001b[87D"
+    ],
+    [
+      0.000007,
+      "\u001b[2K"
+    ],
+    [
+      0.000108,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m foo"
+    ],
+    [
+      0.302557,
+      "b"
+    ],
+    [
+      0.000120,
+      "\u001b[87D"
+    ],
+    [
+      0.000035,
+      "\u001b[2K"
+    ],
+    [
+      0.000079,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m "
+    ],
+    [
+      0.000032,
+      "foob"
+    ],
+    [
+      0.095856,
+      "a"
+    ],
+    [
+      0.000104,
+      "\u001b[87D"
+    ],
+    [
+      0.000025,
+      "\u001b[2K"
+    ],
+    [
+      0.000067,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m "
+    ],
+    [
+      0.000030,
+      "fooba"
+    ],
+    [
+      0.159833,
+      "r"
+    ],
+    [
+      0.000121,
+      "\u001b[87D"
+    ],
+    [
+      0.000006,
+      "\u001b[2K"
+    ],
+    [
+      0.000072,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m "
+    ],
+    [
+      0.000037,
+      "foobar"
+    ],
+    [
+      0.279778,
+      "\r\r\n"
+    ],
+    [
+      0.000818,
+      "\u001b[87D"
+    ],
+    [
+      0.000018,
+      "\u001b[2K"
+    ],
+    [
+      0.000074,
+      "\u001b[1A"
+    ],
+    [
+      0.000995,
+      "\u001b[87D"
+    ],
+    [
+      0.000023,
+      "\u001b[2K"
+    ],
+    [
+      0.000111,
+      "\u001b[32m?\u001b[39m \u001b[1mThe description of your project :\u001b[22m "
+    ],
+    [
+      0.000060,
+      "\u001b[36mfoobar\u001b[39m\r\n"
+    ],
+    [
+      0.000274,
+      "\u001b[?25h"
+    ],
+    [
+      0.002662,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[4mRunning \"prompt:launchgrunt\" (prompt) task\u001b[24m\r\n"
+    ],
+    [
+      0.005111,
+      "\u001b[32m?\u001b[39m \u001b[1mLaunch grunt tasks ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Yeah. Go for it.\u001b[39m \r\n  Nope, stop. "
+    ],
+    [
+      0.000008,
+      "\u001b[?25l"
+    ],
+    [
+      3.934514,
+      "\u001b[87D"
+    ],
+    [
+      0.000061,
+      "\u001b[2K"
+    ],
+    [
+      0.000030,
+      "\u001b[1A"
+    ],
+    [
+      0.000036,
+      "\u001b[87D"
+    ],
+    [
+      0.000023,
+      "\u001b[2K"
+    ],
+    [
+      0.000016,
+      "\u001b[1A"
+    ],
+    [
+      0.000056,
+      "\u001b[87D\u001b[2K"
+    ],
+    [
+      0.000130,
+      "\u001b[32m?\u001b[39m \u001b[1mLaunch grunt tasks ?\u001b[22m \r\n  Yeah. Go for it. \r\n\u001b[36m❯ Nope, stop.\u001b[39m "
+    ],
+    [
+      1.068859,
+      "\u001b[87D"
+    ],
+    [
+      0.000509,
+      "\u001b[2K\u001b[1A\u001b[87D\u001b[2K\u001b[1A\u001b[87D\u001b[2K"
+    ],
+    [
+      0.000945,
+      "\u001b[32m?\u001b[39m \u001b[1mLaunch grunt tasks ?\u001b[22m \u001b[36mNope, stop.\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.001113,
+      "\u001b[?25h"
+    ],
+    [
+      0.100657,
+      "\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b[4mRunning \"string-replace:init\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.009789,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.001822,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[4mRunning \"config.launch\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000991,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[4mRunning \"string-replace:jadetrue\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.004114,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.001710,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[4mRunning \"string-replace:htmlfalse\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.003122,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.001752,
+      "\r\n"
+    ],
+    [
+      0.001044,
+      "\u001b[4mRunning \"string-replace:phpfalse\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.004518,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.000413,
+      "\u001b[4mRunning \"string-replace:iconstrue\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.005789,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.003421,
+      "\r\n\u001b[4mRunning \"assets.dir\" task\u001b[24m\r\n\u001b[34mCreate fonts folder in : app/assets/fonts\u001b[39m\r\n"
+    ],
+    [
+      0.003438,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[4mRunning \"mkdir:fonts\" (mkdir) task\u001b[24m\r\n"
+    ],
+    [
+      0.002033,
+      "Creating \"app/assets/fonts\"..."
+    ],
+    [
+      0.000635,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000770,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[4mRunning \"string-replace:svgspritetrue\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.004796,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.002264,
+      "\r\n"
+    ],
+    [
+      0.000332,
+      "\u001b[4mRunning \"assets.dir\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[4mRunning \"string-replace:iconfonttrue\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.004441,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.001655,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      "\u001b[4mRunning \"assets.dir\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000543,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[4mRunning \"string-replace:livetrue\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.004773,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.001815,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[4mRunning \"string-replace:name\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.004489,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.001804,
+      "\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b[4mRunning \"string-replace:description\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.005396,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.001758,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "\u001b[32mDone, without errors.\u001b[39m\r\n"
+    ],
+    [
+      0.004439,
+      "\r\n\r\n\u001b[4mExecution Time\u001b[24m\u001b[90m (2015-04-30 15:52:47 UTC)\u001b[39m\r\n"
+    ],
+    [
+      0.005188,
+      "loading tasks       \u001b[34m653ms\u001b[39m  \u001b[34m▇▇ 2%\u001b[39m\r\nprompt:config       \u001b[34m14.1s\u001b[39m  \u001b[34m▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 48%\u001b[39m\r\nprompt:who           \u001b[34m9.4s\u001b[39m  \u001b[34m▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 32%\u001b[39m\r\nprompt:launchgrunt     \u001b[34m5s\u001b[39m  \u001b[34m▇▇▇▇▇▇▇▇▇ 17%\u001b[39m\r\n\u001b[35mTotal 29.3s\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.015115,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                      \r \r\u001b]2;david@MacBook-Pro-de-David: ~/grunt\u0007\u001b]1;~/grunt\u0007"
+    ],
+    [
+      0.061233,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m david@MacBook-Pro-de-David \u001b[44m\u001b[30m\u001b[30m ~/grunt \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.715937,
+      "g"
+    ],
+    [
+      0.095176,
+      "\u0008gr"
+    ],
+    [
+      0.191992,
+      "u"
+    ],
+    [
+      0.047679,
+      "n"
+    ],
+    [
+      0.480708,
+      "t"
+    ],
+    [
+      0.272422,
+      " "
+    ],
+    [
+      0.399310,
+      "e"
+    ],
+    [
+      0.104493,
+      "n"
+    ],
+    [
+      0.135424,
+      "v"
+    ],
+    [
+      0.416189,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000110,
+      "\r\r\n"
+    ],
+    [
+      0.001614,
+      "\u001b]2;grunt env\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;grunt\u0007"
+    ],
+    [
+      1.186182,
+      "\u001b[4mRunning \"prompt:env\" (prompt) task\u001b[24m\r\n"
+    ],
+    [
+      0.275629,
+      "\u001b[32m?\u001b[39m \u001b[1mSwitch your environment to :\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Development\u001b[39m \r\n  Production "
+    ],
+    [
+      0.000389,
+      "\u001b[?25l"
+    ],
+    [
+      1.533413,
+      "\u001b[87D"
+    ],
+    [
+      0.000111,
+      "\u001b[2K"
+    ],
+    [
+      0.000091,
+      "\u001b[1A"
+    ],
+    [
+      0.000255,
+      "\u001b[87D"
+    ],
+    [
+      0.000045,
+      "\u001b[2K"
+    ],
+    [
+      0.000041,
+      "\u001b[1A"
+    ],
+    [
+      0.000029,
+      "\u001b[87D"
+    ],
+    [
+      0.000020,
+      "\u001b[2K"
+    ],
+    [
+      0.000433,
+      "\u001b[32m?\u001b[39m \u001b[1mSwitch your environment to :\u001b[22m \r\n  Development \r\n\u001b[36m❯ Production\u001b[39m "
+    ],
+    [
+      0.796713,
+      "\u001b[87D"
+    ],
+    [
+      0.000661,
+      "\u001b[2K\u001b[1A\u001b[87D\u001b[2K\u001b[1A\u001b[87D\u001b[2K"
+    ],
+    [
+      0.000136,
+      "\u001b[32m?\u001b[39m \u001b[1mSwitch your environment to :\u001b[22m \u001b[36mProduction\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[?25h"
+    ],
+    [
+      0.004729,
+      "\u001b[32m?\u001b[39m \u001b[1mDo your want to launch the production task ?\u001b[22m \u001b[2m(Use arrow keys)\u001b[22m\r\n\u001b[36m❯ Oh yeah.\u001b[39m \r\n  Nope. \u001b[?25l"
+    ],
+    [
+      2.072650,
+      "\u001b[87D"
+    ],
+    [
+      0.000119,
+      "\u001b[2K\u001b[1A\u001b[87D"
+    ],
+    [
+      0.000007,
+      "\u001b[2K"
+    ],
+    [
+      0.000024,
+      "\u001b[1A"
+    ],
+    [
+      0.000026,
+      "\u001b[87D"
+    ],
+    [
+      0.000029,
+      "\u001b[2K"
+    ],
+    [
+      0.000195,
+      "\u001b[32m?\u001b[39m \u001b[1mDo your want to launch the production task ?\u001b[22m \u001b[36mOh yeah.\u001b[39m\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[?25h"
+    ],
+    [
+      0.000749,
+      "\u001b[?25h"
+    ],
+    [
+      0.074712,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "\u001b[4mRunning \"string-replace:environment\" (string-replace) task\u001b[24m\r\n"
+    ],
+    [
+      0.013677,
+      "File \u001b[36mconfig/app.json\u001b[39m created.\r\n"
+    ],
+    [
+      0.003128,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "\u001b[4mRunning \"env.launch\" task\u001b[24m\r\n"
+    ],
+    [
+      0.001213,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "\u001b[4mRunning \"dist\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000777,
+      "\u001b[33m\u001b[1mRunning distribution tasks.\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[4mRunning \"lib\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000246,
+      "\u001b[34m\u001b[1mDownloading and injecting bower depedencies.\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.010428,
+      "\r\n\u001b[4mRunning \"clean:lib\" (clean) task\u001b[24m\r\n"
+    ],
+    [
+      0.019054,
+      "Cleaning libs..."
+    ],
+    [
+      0.376145,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      1.157717,
+      "\r\n"
+    ],
+    [
+      0.000341,
+      "\u001b[4mRunning \"bower-install-simple:bower\" (bower-install-simple) task\u001b[24m\r\n"
+    ],
+    [
+      0.007511,
+      "\u001b[34mExecuting Bower\u001b[39m (Command: \u001b[32minstall\u001b[39m)\r\n"
+    ],
+    [
+      1.008928,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/Modernizr/Modernizr.git#2.8.3\r\n"
+    ],
+    [
+      0.000549,
+      "bower \u001b[36mvalidate     \u001b[39m 2.8.3 against git://github.com/Modernizr/Modernizr.git#~2.8.3\r\n"
+    ],
+    [
+      0.010556,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/jquery/jquery.git#2.1.4\r\n"
+    ],
+    [
+      0.000109,
+      "bower \u001b[36mvalidate     \u001b[39m 2.1.4 against git://github.com/jquery/jquery.git#~2.1.3\r\n"
+    ],
+    [
+      0.004891,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/ftlabs/fastclick.git#1.0.6\r\n"
+    ],
+    [
+      0.000149,
+      "bower \u001b[36mvalidate     \u001b[39m 1.0.6 against git://github.com/ftlabs/fastclick.git#~1.0.6\r\n"
+    ],
+    [
+      0.004265,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/necolas/normalize.css.git#3.0.3\r\nbower \u001b[36mvalidate     \u001b[39m 3.0.3 against git://github.com/necolas/normalize.css.git#~3.0.3\r\n"
+    ],
+    [
+      0.864480,
+      "bower \u001b[36minstall      \u001b[39m fastclick#1.0.6\r\n"
+    ],
+    [
+      0.000432,
+      "bower \u001b[36minstall      \u001b[39m normalize.css#3.0.3\r\n"
+    ],
+    [
+      0.000264,
+      "bower \u001b[36minstall      \u001b[39m modernizr#2.8.3\r\n"
+    ],
+    [
+      0.000197,
+      "bower \u001b[36minstall      \u001b[39m jquery#2.1.4\r\n"
+    ],
+    [
+      0.640481,
+      "\r\nfastclick#1.0.6 libs/fastclick\r\n\r\nnormalize.css#3.0.3 libs/normalize.css\r\n\r\nmodernizr#2.8.3 libs/modernizr\r\n\r\njquery#2.1.4 libs/jquery\r\n"
+    ],
+    [
+      0.007673,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[4mRunning \"wiredep:task\" (wiredep) task\u001b[24m\r\n"
+    ],
+    [
+      0.431833,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[4mRunning \"assets.dist\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[4mRunning \"assets\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000267,
+      "\u001b[34m\u001b[1mGenerate iconfont.\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[34m\u001b[1mGenerate SVG sprite.\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[34m\u001b[1mGenerate icons with Grunticon\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000219,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[4mRunning \"assets.dir\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000616,
+      "\u001b[34mCreate iconfont folder in : app/assets/iconfont\u001b[39m\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b[34mCreate svgsprite folder in : app/assets/svgsprite\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[34mCreate icons folder in : app/assets/icons\u001b[39m\r\n"
+    ],
+    [
+      0.002430,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[4mRunning \"mkdir:iconfont\" (mkdir) task\u001b[24m\r\n"
+    ],
+    [
+      0.001147,
+      "Creating \"app/assets/iconfont\"..."
+    ],
+    [
+      0.000706,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[4mRunning \"mkdir:svgsprite\" (mkdir) task\u001b[24m\r\n"
+    ],
+    [
+      0.001124,
+      "Creating \"app/assets/svgsprite\"..."
+    ],
+    [
+      0.000448,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[4mRunning \"mkdir:icons\" (mkdir) task\u001b[24m\r\n"
+    ],
+    [
+      0.000634,
+      "Creating \"app/assets/icons\"..."
+    ],
+    [
+      0.000324,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000401,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[4mRunning \"clean:iconfont\" (clean) task\u001b[24m\r\n"
+    ],
+    [
+      0.019469,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[4mRunning \"newer:webfont:iconfont\" (newer) task\u001b[24m\r\n"
+    ],
+    [
+      0.004129,
+      "No newer files to process.\r\n"
+    ],
+    [
+      0.380779,
+      "\r\n"
+    ],
+    [
+      0.000791,
+      "\u001b[4mRunning \"svgstore:dev\" (svgstore) task\u001b[24m\r\n"
+    ],
+    [
+      0.109904,
+      "File \u001b[36mapp/assets/svgsprite.svg\u001b[39m created.\r\n"
+    ],
+    [
+      2.815618,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[4mRunning \"grunticon:icons\" (grunticon) task\u001b[24m\r\n"
+    ],
+    [
+      0.004309,
+      "Grunticon has no files to read!\r\n"
+    ],
+    [
+      0.004437,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[4mRunning \"copy:assets\" (copy) task\u001b[24m\r\n"
+    ],
+    [
+      0.007333,
+      "Created \u001b[36m4\u001b[39m directories"
+    ],
+    [
+      0.000095,
+      ", copied \u001b[36m2\u001b[39m files"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.162686,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[4mRunning \"svgmin:dist\" (svgmin) task\u001b[24m\r\n"
+    ],
+    [
+      0.088977,
+      "\u001b[32m✔\u001b[39m dist/assets/svgsprite.svg\u001b[90m (saved \u001b[1m0 B\u001b[22m 0%)\u001b[39m\r\n"
+    ],
+    [
+      0.000736,
+      "Total saved: \u001b[32m0 B\u001b[39m\r\n"
+    ],
+    [
+      2.357119,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "\u001b[4mRunning \"imagemin:dist\" (imagemin) task\u001b[24m\r\n"
+    ],
+    [
+      0.004165,
+      "Minified 0 images \u001b[90m(saved 0 B)\u001b[39m\r\n"
+    ],
+    [
+      0.001997,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[4mRunning \"clean:styleDist\" (clean) task\u001b[24m\r\n"
+    ],
+    [
+      0.005077,
+      "Cleaning dist/styles/app-ie.css..."
+    ],
+    [
+      0.000897,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000220,
+      "Cleaning dist/styles/app-ie.min.css..."
+    ],
+    [
+      0.000296,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000079,
+      "Cleaning dist/styles/app.css..."
+    ],
+    [
+      0.000446,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000088,
+      "Cleaning dist/styles/app.min.css..."
+    ],
+    [
+      0.000412,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.010144,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[4mRunning \"sass:dist\" (sass) task\u001b[24m\r\n"
+    ],
+    [
+      0.996096,
+      "File \"app/styles/unprefixed/app.min.css\" created.\r\n"
+    ],
+    [
+      0.000624,
+      "File \"app/styles/unprefixed/app-ie.min.css\" created.\r\n"
+    ],
+    [
+      0.419594,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[4mRunning \"autoprefixer:dist\" (autoprefixer) task\u001b[24m\r\n"
+    ],
+    [
+      0.135036,
+      "File \u001b[36mdist/styles/app-ie.min.css\u001b[39m created.\r\n"
+    ],
+    [
+      0.001239,
+      "File \u001b[36mdist/styles/app-ie.min.css.map\u001b[39m created (source map).\r\n"
+    ],
+    [
+      0.076388,
+      "File \u001b[36mdist/styles/app.min.css\u001b[39m created.\r\n"
+    ],
+    [
+      0.001134,
+      "File \u001b[36mdist/styles/app.min.css.map\u001b[39m created (source map).\r\n"
+    ],
+    [
+      0.000829,
+      "\r\n\u001b[4mRunning \"clean:styleUnprefixed\" (clean) task\u001b[24m\r\n"
+    ],
+    [
+      0.001249,
+      "Cleaning app/styles/unprefixed..."
+    ],
+    [
+      0.024222,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000343,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "\u001b[4mRunning \"copy:styles\" (copy) task\u001b[24m\r\n"
+    ],
+    [
+      0.106853,
+      "Copied \u001b[36m2\u001b[39m files\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[4mRunning \"clean:styleMap\" (clean) task\u001b[24m\r\n"
+    ],
+    [
+      0.003366,
+      "Cleaning dist/styles/app-ie.min.css.map..."
+    ],
+    [
+      0.040560,
+      "\u001b[32mOK\u001b[39m\r\nCleaning dist/styles/app.min.css.map..."
+    ],
+    [
+      0.001147,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.000359,
+      "\r\n\u001b[4mRunning \"clean:jsDist\" (clean) task\u001b[24m\r\n"
+    ],
+    [
+      0.001047,
+      "Cleaning dist/scripts..."
+    ],
+    [
+      0.037739,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.016798,
+      "\r\n\u001b[4mRunning \"modernizr:dist\" (modernizr) task\u001b[24m\r\n"
+    ],
+    [
+      0.260627,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[1mEnabled Extras\u001b[22m\r\n"
+    ],
+    [
+      0.000250,
+      "\u001b[32m\u003e\u003e \u001b[39mshiv\r\n"
+    ],
+    [
+      0.000228,
+      "\u001b[32m\u003e\u003e \u001b[39mload\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[32m\u003e\u003e \u001b[39mcssclasses\r\n"
+    ],
+    [
+      0.000690,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[1mLooking for Modernizr references\u001b[22m\r\n"
+    ],
+    [
+      0.060454,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[1mDownloading source files\u001b[22m\r\n"
+    ],
+    [
+      0.002495,
+      "\u001b[32mcache \u001b[39mmodernizr-latest.js\r\n"
+    ],
+    [
+      0.001030,
+      "\u001b[32mcache \u001b[39mmodernizr.load.1.5.4.js\r\n"
+    ],
+    [
+      0.002566,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[32m\u003e\u003e \u001b[39mGenerating a custom Modernizr build\r\n"
+    ],
+    [
+      0.063968,
+      "\u001b[32m\u003e\u003e \u001b[39mUglifying\r\n"
+    ],
+    [
+      0.286832,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[32m\u003e\u003e \u001b[39mWrote file to app/scripts/modernizr-custom.js\r\n"
+    ],
+    [
+      0.351918,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[4mRunning \"js\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000279,
+      "\u001b[34m\u001b[1mVerifying JavaScript files with JSHint.\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[4mRunning \"newer:jshint\" (newer) task\u001b[24m\r\n"
+    ],
+    [
+      0.001689,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[4mRunning \"newer:jshint:files\" (newer) task\u001b[24m\r\n"
+    ],
+    [
+      0.004578,
+      "No newer files to process.\r\n"
+    ],
+    [
+      0.002288,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[4mRunning \"copy:js\" (copy) task\u001b[24m\r\n"
+    ],
+    [
+      0.004435,
+      "Copied \u001b[36m2\u001b[39m files"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[4mRunning \"views.dist\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000652,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[4mRunning \"clean:viewsDist\" (clean) task\u001b[24m\r\n"
+    ],
+    [
+      0.002745,
+      "Cleaning dist/views..."
+    ],
+    [
+      0.001064,
+      "\u001b[32mOK\u001b[39m\r\n"
+    ],
+    [
+      0.021038,
+      "\r\n\u001b[4mRunning \"jade:dist\" (jade) task\u001b[24m\r\n"
+    ],
+    [
+      1.054016,
+      "File \u001b[36mdist/views/index.html\u001b[39m created.\r\n"
+    ],
+    [
+      0.092276,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[4mRunning \"prettify:html\" (prettify) task\u001b[24m\r\n"
+    ],
+    [
+      0.013206,
+      "\u001b[32m\u003e\u003e \u001b[39mFile \"dist/views/index.html\" prettified.\r\n"
+    ],
+    [
+      0.119257,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[4mRunning \"useminPrepare:html\" (useminPrepare) task\u001b[24m\r\n"
+    ],
+    [
+      0.103331,
+      "Configuration changed for \u001b[36mconcat\u001b[39m, \u001b[36muglify\u001b[39m, \u001b[36mcssmin\u001b[39m\r\n"
+    ],
+    [
+      0.078063,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[4mRunning \"concat:generated\" (concat) task\u001b[24m\r\n"
+    ],
+    [
+      0.003195,
+      "File \u001b[36m.tmp/styles/app.min.css\u001b[39m created.\r\n"
+    ],
+    [
+      0.002312,
+      "File \u001b[36m.tmp/scripts/vendor.js\u001b[39m created.\r\n"
+    ],
+    [
+      0.000963,
+      "File \u001b[36m.tmp/scripts/app.js\u001b[39m created.\r\n"
+    ],
+    [
+      0.220876,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[4mRunning \"cssmin:generated\" (cssmin) task\u001b[24m\r\n"
+    ],
+    [
+      0.289536,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[4mRunning \"uglify:generated\" (uglify) task\u001b[24m\r\n"
+    ],
+    [
+      0.883312,
+      "\u001b[32m\u003e\u003e \u001b[39m2 files created.\r\n"
+    ],
+    [
+      0.000442,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[4mRunning \"usemin:html\" (usemin) task\u001b[24m\r\n"
+    ],
+    [
+      0.016990,
+      "Replaced \u001b[36m1\u001b[39m reference to assets\r\n"
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[4mRunning \"dist.ok\" task\u001b[24m\r\n"
+    ],
+    [
+      0.000249,
+      "\u001b[32m\u003e\u003e \u001b[39m\u001b[32m\u001b[1mDone. Now get a beer. 🍺\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.001478,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[32mDone, without errors.\u001b[39m\r\n"
+    ],
+    [
+      0.002269,
+      "\r\n\r\n\u001b[4mExecution Time\u001b[24m\u001b[90m (2015-04-30 15:53:22 UTC)\u001b[39m\r\n"
+    ],
+    [
+      0.004570,
+      "loading tasks                       \u001b[34m584ms\u001b[39m  \u001b[34m▇ 3%\u001b[39m\r\nprompt:env                           \u001b[34m4.7s\u001b[39m  \u001b[34m▇▇▇▇▇▇▇▇ 22%\u001b[39m\r\nclean:lib                           \u001b[34m363ms\u001b[39m  \u001b[34m▇ 2%\u001b[39m\r\nloading grunt-bo...-install-simple   \u001b[34m1.2s\u001b[39m  \u001b[34m▇▇ 5%\u001b[39m\r\nbower-install-simple:bower           \u001b[34m2.5s\u001b[39m  \u001b[34m▇▇▇▇ 12%\u001b[39m\r\nwiredep:task                        \u001b[34m432ms\u001b[39m  \u001b[34m▇ 2%\u001b[39m\r\nloading grunt-svgstore              \u001b[34m378ms\u001b[39m  \u001b[34m▇ 2%\u001b[39m\r\nloading grunt-grunticon              \u001b[34m2.8s\u001b[39m  \u001b[34m▇▇▇▇▇ 13%\u001b[39m\r\nloading grunt-contrib-imagemin       \u001b[34m2.4s\u001b[39m  \u001b[34m▇▇▇▇ 11%\u001b[39m\r\nsass:dist                              \u001b[34m1s\u001b[39m  \u001b[34m▇▇ 5%\u001b[39m\r\nloading grunt-autoprefixer          \u001b[34m416ms\u001b[39m  \u001b[34m▇ 2%\u001b[39m\r\nmodernizr:dist                         \u001b[34m1s\u001b[39m  \u001b[34m▇▇ 5%\u001b[39m\r\njade:dist                            \u001b[34m1.1s\u001b[39m  \u001b[34m▇▇ 5%\u001b[39m\r\nloading grunt-contrib-cssmin      "
+    ],
+    [
+      0.000027,
+      "  \u001b[34m220ms\u001b[39m  \u001b[34m▇ 1%\u001b[39m\r\nloading grunt-contrib-uglify        \u001b[34m243ms\u001b[39m  \u001b[34m▇ 1%\u001b[39m\r\nuglify:generated                    \u001b[34m884ms\u001b[39m  \u001b[34m▇▇ 4%\u001b[39m\r\n\u001b[35mTotal 21.7s\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.032607,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                      \r \r"
+    ],
+    [
+      0.000422,
+      "\u001b]2;david@MacBook-Pro-de-David: ~/grunt\u0007"
+    ],
+    [
+      0.000363,
+      "\u001b]1;~/grunt\u0007"
+    ],
+    [
+      0.066685,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m david@MacBook-Pro-de-David \u001b[44m\u001b[30m\u001b[30m ~/grunt \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.412683,
+      "e"
+    ],
+    [
+      0.174582,
+      "\u0008ex"
+    ],
+    [
+      0.103963,
+      "i"
+    ],
+    [
+      0.231925,
+      "t"
+    ],
+    [
+      0.184401,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000179,
+      "\r\r\n"
+    ],
+    [
+      0.019487,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
