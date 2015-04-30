@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "width": 106,
+  "height": 29,
+  "duration": 6.549578,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.212517,
+      "\u001b]0;root@localhost:/var/www/html/crm\u0007\u001b[?1034h[root@localhost crm]# "
+    ],
+    [
+      0.871337,
+      "phpenv install 5.5.0"
+    ],
+    [
+      0.897558,
+      "\r\n"
+    ],
+    [
+      0.043508,
+      "[Info]: Loaded extension plugin\r\n"
+    ],
+    [
+      0.003040,
+      "[Info]: Loaded apc Plugin.\r\n"
+    ],
+    [
+      0.002314,
+      "[Info]: Loaded composer Plugin.\r\n"
+    ],
+    [
+      0.003019,
+      "[Info]: Loaded pyrus Plugin.\r\n"
+    ],
+    [
+      0.002586,
+      "[Info]: Loaded uprofiler Plugin.\r\n"
+    ],
+    [
+      0.002321,
+      "[Info]: Loaded xdebug Plugin.\r\n"
+    ],
+    [
+      0.002929,
+      "[Info]: Loaded xhprof Plugin.\r\n[Info]: php.ini-production gets used as php.ini\r\n[Info]: Building 5.5.0 into /root/.phpenv/versions/5.5.0\r\n"
+    ],
+    [
+      1.148647,
+      "[Skipping]: Already downloaded and extracted http://git.php.net/?p=web/php-distributions.git;a=blob;f=php-5.5.0.tar.bz2;h=a9d7b5dbc92f9ff99fcaf911047d8c7d465160cf;hb=01253f21cc75bf10e8698d0be9a904ee4f020a99\r\n"
+    ],
+    [
+      0.003372,
+      "\r\n-----------------\r\n|  BUILD ERROR  |\r\n-----------------\r\n\r\nHere are the last 10 lines from the log:\r\n\r\n-----------------------------------------\r\n"
+    ],
+    [
+      0.002867,
+      "/root/.phpenv/plugins/php-build/bin/php-build: line 593: ./buildconf: Arquivo ou diretório não encontrado\r\n-----------------------------------------\r\n\r\nThe full Log is available at '/tmp/php-build.5.5.0.20150430103910.log'.\r\n[Warn]: Aborting build.\r\n"
+    ],
+    [
+      0.003704,
+      "\u001b]0;root@localhost:/var/www/html/crm\u0007[root@localhost crm]# "
+    ],
+    [
+      3.348690,
+      "exit\r\n"
+    ]
+  ]
+}
