@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 29.893640,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.057358,
+      "\u001b]0;sonnenschein@sonnenschein-HP-Compaq-dc7900-Convertible-Minitower: ~/scripts\u0007sonnenschein@sonnenschein-HP-Compaq-dc7900-Convertible-Minitower:~/scripts$ "
+    ],
+    [
+      21.866882,
+      "E"
+    ],
+    [
+      0.511149,
+      "X"
+    ],
+    [
+      2.848777,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175647,
+      "\u0008\u001b[K"
+    ],
+    [
+      2.095662,
+      "e"
+    ],
+    [
+      0.400728,
+      "x"
+    ],
+    [
+      0.336014,
+      "i"
+    ],
+    [
+      0.079857,
+      "t \r"
+    ],
+    [
+      1.521433,
+      "\u001b[A\r\nexit\r\n"
+    ]
+  ]
+}
